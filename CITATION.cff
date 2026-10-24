@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or refer to this software or data architecture in your research, please cite it as below."
+title: "Tangkhul Language Library"
+abstract: "A modular Python library for Tangkhul language preservation, linguistic research, vocabulary extraction, and cultural documentation."
+type: software
+authors:
+  - name: "Tangkhul Language Preservation Project Contributors"
+version: 0.1.0-dev
+date-released: "2026-10-24"
+license: "LicenseRef-PendingConfirmation"
+keywords:
+  - tangkhul
+  - "tibeto-burman"
+  - "tangkhulic"
+  - "linguistics"
+  - "language preservation"
+  - "vocabulary"
+  - "folklore"
