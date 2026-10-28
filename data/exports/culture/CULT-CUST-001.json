@@ -1,0 +1,44 @@
+{
+  "id": "CULT-CUST-001",
+  "resource_type": "culture",
+  "title": "Longshim Youth Dormitory System",
+  "title_translation": "Traditional Youth Dormitory Institution",
+  "creator": "Tangkhul Ancestral Village Community",
+  "year": 1911,
+  "publisher": "Documented in Hodson 1911, Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "custom",
+  "subcategory": "social_institution",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruivah-1993-Ch3",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-CUST-001_longshim_dormitory_system.txt",
+  "verification_status": "verified",
+  "notes": "Central indigenous institution divided into Mayarshim (boys dormitory) and Ngashim (girls dormitory). Functioned as educational center for transmitting oral songs, customary discipline, weaving, and woodcraft.",
+  "indigenous_tangkhul_text": [
+    "Longshim wui ngashan kasak iramli thot kachung pamhai.",
+    "Mayarshimli ralong ngasoda ngashun themthot tamching.",
+    "Ngashimli kashan kasa, sam kapa, chanjam tui shashap."
+  ],
+  "english_translation_text": [
+    "The Longshim dormitory system has stood for generations as the educational pillar of our village.",
+    "In the Mayarshim, young men master warfare, woodcraft, ethics, and oral histories.",
+    "In the Ngashim, young women master loom weaving, basketry, folk songs, and customary etiquette."
+  ],
+  "procedural_stages": [
+    "1. Admission of adolescent youths into the respective gender dormitory (Mayarshim or Ngashim).",
+    "2. Nightly residence under the guidance of senior mentors and clan elders.",
+    "3. Training in oral folklore, weaving, agriculture, customary law, and community discipline.",
+    "4. Collective mobilization for village public works, path clearing, and harvest assistance.",
+    "5. Graduation upon marriage and transition into household adulthood."
+  ],
+  "ceremonial_participants": [
+    "Adolescent Youths",
+    "Dormitory Guardians",
+    "Senior Clan Mentors"
+  ],
+  "seasonal_timing": "Continuous traditional educational institution"
+}

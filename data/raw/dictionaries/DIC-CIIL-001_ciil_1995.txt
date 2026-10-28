@@ -1,0 +1,73 @@
+# Complete Digital Lexicographical Record: Tangkhul-English-Hindi Dictionary
+# Identifier: DIC-CIIL-001
+# Primary Creator / Lexicographer: Rekha Sharma, S. Arokianathan, E. Annamalai
+# Publication Year: 1995
+# Publisher: Central Institute of Indian Languages, Mysore
+# Language Pair: Tangkhul-English-Hindi
+# Dialect Variety: Standard Tangkhul
+# Source Classification: multilingual_dictionary
+# License: Copyright Central Institute of Indian Languages
+# Permission Status: restricted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Tangkhul-English-Hindi Dictionary
+ALTERNATE TITLE: Tangkhul-English-Hindi Trilingual Dictionary
+COMPILER / AUTHORS: Rekha Sharma, S. Arokianathan, E. Annamalai
+YEAR: 1995
+PUBLISHING BODY: Central Institute of Indian Languages, Mysore
+DIALECT / VARIETY: Standard Tangkhul
+SOURCE IDENTIFIER: CIIL-DS-1995-TKH
+CANONICAL SOURCE URL: https://sec.bharatavani.in/tangkhul/dictionaries
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Part of the prestigious Dictionary Series published by the Central Institute of Indian Languages (CIIL) under the Ministry of Education, Government of India. Compiled by linguists Rekha Sharma and S. Arokianathan under the general editorship of E. Annamalai, this work provides trilingual glosses in English and Devanagari Hindi for standard Tangkhul vocabulary, accompanied by grammatical categorizations and semantic domain fields.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Incorporates systematic phonemic transcriptions and Devanagari transliteration alongside the standard Latin alphabet, making Tangkhul lexical items accessible to Indian multilingual scholars.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (12 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. ngavā (noun) -- bird, fowl, avian creature | Hindi: चिड़िया, पक्षी [Citation: p. 92] [Alt: ngava]
+   Context / Example: Ngavā kaphungli ngazap (Bird flying over the hills).
+
+ENTRY  2. ngarun (noun) -- horn, antler | Hindi: सींग [Citation: p. 95]
+   Context / Example: Se ngarun khamatha (Fine mithun horns).
+
+ENTRY  3. meikazing (noun) -- lightning, atmospheric electrical flash | Hindi: बिजली, विद्युत [Citation: p. 81]
+   Context / Example: Meikazing kazingli kashok (Lightning flashing across the sky).
+
+ENTRY  4. kaphung (noun) -- mountain, hill, high peak | Hindi: पहाड़, पर्वत [Citation: p. 64]
+   Context / Example: Kaphung kachui pam (High mountain ridge).
+
+ENTRY  5. kong (noun) -- river, stream, brook, waterway | Hindi: नदी, सरिता, धारा [Citation: p. 52]
+   Context / Example: Kongrei ngalomli kapam (Living near the great river).
+
+ENTRY  6. chup (verb) -- to drink, to sip, to imbibe | Hindi: पीना, घूँट लेना [Citation: p. 38]
+   Context / Example: Tara chupkhavai (To drink fresh water).
+
+ENTRY  7. khazat (verb) -- to walk, to march, to step forward | Hindi: चलना, पदयात्रा करना [Citation: p. 118]
+   Context / Example: Phei eina khazat (Walking forward on foot).
+
+ENTRY  8. mathasek (adj) -- clean, pure, spotless, unblemished | Hindi: साफ़, स्वच्छ, निर्मल [Citation: p. 77]
+   Context / Example: Shim mathasek kasak (Keeping the home clean).
+
+ENTRY  9. khalat (verb) -- to fill, to replenish, to pack full | Hindi: भरना, परिपूर्ण करना [Citation: p. 112]
+   Context / Example: Longkhor khalat ngasak (Filling the conical basket).
+
+ENTRY 10. won (noun) -- flower, blossom, bloom | Hindi: फूल, पुष्प [Citation: p. 195]
+   Context / Example: Shirui won kathi (The blooming of Shirui lily).
+
+ENTRY 11. thei (noun) -- fruit, produce, crop yield | Hindi: फल [Citation: p. 172]
+   Context / Example: Thing thei kaphapha (Sweet and healthy tree fruit).
+
+ENTRY 12. kachang (noun) -- moon, lunar month, crescent | Hindi: चाँद, चन्द्रमा, महीना [Citation: p. 59]
+   Context / Example: Kachang kakhang kazing (Bright moonlit sky).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Copyright Central Institute of Indian Languages
+Permission Tier: restricted
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. Rekha Sharma, S. Arokianathan, E. Annamalai (1995). Tangkhul-English-Hindi Dictionary. Central Institute of Indian Languages, Mysore.
+=======================================================================

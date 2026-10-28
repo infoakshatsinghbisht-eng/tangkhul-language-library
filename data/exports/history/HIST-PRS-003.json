@@ -1,0 +1,53 @@
+{
+  "id": "HIST-PRS-003",
+  "resource_type": "history",
+  "title": "R.S. Ruichumhao (c. 1880–1935)",
+  "title_translation": "Early Tangkhul Scholar, Educator, and WWI Corps Leader",
+  "creator": "Community Oral History & Mission Archives",
+  "year": 1880,
+  "publisher": "Documented in Horam 1977, Pettigrew 1918",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Hunphun / Ukhrul",
+  "place": "Hunphun",
+  "category": "person",
+  "event_date": "c. 1880–1935",
+  "period": "Early 20th Century",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruichumhao-Bio-1880",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PRS-003.txt",
+  "verification_status": "verified",
+  "notes": "One of the earliest educated Tangkhuls who assisted William Pettigrew in translation work, served as a prominent leader of the Labour Corps in France during WWI, and pioneered early community welfare initiatives.",
+  "indigenous_tangkhul_chronicle": [
+    "R.S. Ruichumhao (c. 1880–1935) Hunphunli pharak-kaza scholar, educator, kala community leader khare-wui akha.",
+    "Rev. Pettigrew-wui tuitam kakaso kala lairik kaphaningli pan-sang-da Tangkhul grammar mathat-da lakahon.",
+    "World War I tharan France-li Manipur Labour Corps-wui interpreter kala supervisor thada maranao-bingli khangayung kashung."
+  ],
+  "english_translation_text": [
+    "R.S. Ruichumhao (c. 1880–1935) was an early scholar, educator, and civic leader from Hunphun village.",
+    "He was William Pettigrew's principal indigenous linguistic collaborator in compiling the 1918 Grammar and Dictionary.",
+    "During WWI, he served in France as chief interpreter and welfare supervisor for the Manipur Labour Corps."
+  ],
+  "chronicle_milestones": [
+    "1. c. 1880: Born in Hunphun; among the first cohort of students enrolled in Pettigrew's school in 1896.",
+    "2. 1905–1915: Serves as headmaster and master translator, documenting oral idiom and grammar paradigms.",
+    "3. 1917–1918: Deployed to France with the 66th Manipur Labour Corps, maintaining morale and camp hygiene.",
+    "4. 1920s: Instrumental in early church organization, literacy propagation, and tribal leadership councils.",
+    "5. c. 1935: Passes away leaving an indelible legacy in educational advancement."
+  ],
+  "key_figures": [
+    "R.S. Ruichumhao",
+    "Rev. William Pettigrew",
+    "Hunphun Clan Elders"
+  ],
+  "geographical_scope": "Hunphun / Ukhrul and France",
+  "historical_significance": "The primary indigenous intellect behind the earliest lexicographical documentation of the Tangkhul language.",
+  "historical_terms": {
+    "Khangayung": "Foundation stone / pillar of support",
+    "Tuitam-kaphung": "Master of grammar and linguistic lore",
+    "Maranao": "Brothers / comrades in shared toil",
+    "Kharashot": "Enduring hardship with stoic courage"
+  }
+}

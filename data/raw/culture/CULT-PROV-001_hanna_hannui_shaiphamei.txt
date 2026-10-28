@@ -1,0 +1,37 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-PROV-001
+TITLE: Proverb on Elder Counsel: Hanna hannui shaiphamei
+TITLE TRANSLATION: Tender Greens are Tasty, but Elder Wisdom is Sweeter
+CATEGORY: proverb | SUBCATEGORY: wisdom
+VILLAGE / REGION: Ukhrul | DIALECT: Standard Tangkhul
+CONTRIBUTOR / DOCUMENTATION: Traditional Oral Lore (Kasomwoshi 1991, Kanrei 1978)
+PUBLICATION / SOURCE: Documented in Tangkhul Chanjam
+SOURCE ID: Kasomwoshi-Chanjam-014
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Original saying: 'Hanna hannui shaiphamei, tuiva arartui phamei.' Teaches that while youth possesses vigor and novelty, seasoned elder counsel holds enduring guidance for navigating life.
+
+[SEASONAL TIMING & OCCASION]
+Universal oral counsel
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Village Elders
+- Family Mentors
+- Youth
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+Oral proverb quoted during council discussions, family disputes, and elder mentoring.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Hanna hannui shaiphamei, tuiva arartui phamei.
+
+[ENGLISH TRANSLATION & MEANING]
+Tender young wild greens are tasty, but elder wisdom is sweeter still.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

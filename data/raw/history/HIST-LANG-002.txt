@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: GRIERSON'S LINGUISTIC SURVEY OF INDIA TANGKHUL CLASSIFICATION
+IDENTIFIER: HIST-LANG-002 | CATEGORY: LANGUAGE_HISTORY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Grierson's Linguistic Survey of India Tangkhul Classification
+  Title Translation:     First Systematic Comparative Linguistic Survey of Tangkhul
+  Historical Category:   language_history
+  Event Date / Period:   1903 | Early 20th Century Colonial
+  Sort Year:             1903
+  Place / Settlement:    Calcutta / Ukhrul [Ukhrul]
+  Dialect / Variety:     Ukhrul & Comparative
+  Key Figures / Creator: Sir George A. Grierson
+  Publisher / Source:    Superintendent of Government Printing, Calcutta
+  Source Identifier:     BK-HIST-003
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Public Domain (public_domain)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Comprehensive survey classifying Tangkhul within the Tibeto-Burman language family (Kuki-Chin-Naga group), containing grammatical sketches, vocabulary lists, and comparative dialect texts.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1903 kumli Sir George A. Grierson Linguistic Survey of India (LSI, Vol. III, Part III)-li Tangkhul classification publish sakya.
+  Tangkhulic group-li classification sakda grammatical sketch, folk story texts, kala comparative vocabulary list sanga.
+  Comparative Tibeto-Burman research-li Tangkhul-wui structural importance international linguistics-li kashun shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  In 1903, Sir George A. Grierson published the Tangkhul section in the monumental Linguistic Survey of India (Vol. III, Part III).
+  He classified Tangkhul in the Kuki-Chin-Naga sub-family, including grammatical paradigms, translated texts, and wordlists.
+  Grierson's survey established Tangkhul's scientific importance in Tibeto-Burman typological and morphological research.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. 1898: Linguistic Survey of India questionnaires and translation samples distributed to Assam and Manipur administrations.
+  2. 1900–1902: Rev. Pettigrew submits Tangkhul interlinear glosses of the Parable of the Prodigal Son and vocabulary lists.
+  3. 1903: Publication of Volume III, Part III in Calcutta; comprehensive grammatical analysis of nominal and verbal prefixes.
+  4. Enduring Legacy: Remains the benchmark reference for comparative Tibeto-Burman classification.
+
+KEY FIGURES & LEADERS:
+  Sir George A. Grierson, Rev. William Pettigrew (Contributor), LSI Editorial Team
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Calcutta (Publication) & Ukhrul (Data Collection)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Elevated Tangkhul from an unmapped tribal dialect into an internationally recognized and classified language of Asia.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Tuitam-Kashuk          : Systematic grammatical survey
+  * Kharashun              : Scientific classification into language families
+  * Pakhang-tui            : Interlinear text translation sample
+  * Ngathur-tui            : Dialectal branching and family trees
+
+================================================================================
+END OF RECORD: HIST-LANG-002 - Tangkhul Language Library Digital Archive
+================================================================================

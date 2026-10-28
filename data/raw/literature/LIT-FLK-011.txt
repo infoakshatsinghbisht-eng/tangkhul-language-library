@@ -1,0 +1,69 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SHAIZĀWO EINA KASOMWO LONG KAKĀ
+IDENTIFIER: LIT-FLK-011 | GENRE: ORAL_NARRATIVE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Shaizāwo eina Kasomwo Long Kakā
+  Title Translation:     The Covenant of Brotherhood in the Longshim
+  Literary Genre / Type: oral_narrative (oral_narrative)
+  Author / Storyteller:  Traditional
+  Publication Year:      1981
+  Publisher:             Tangkhul Literature Society / Documented in Horam 1977
+  Village / Dialect:     Hunphun [Standard Tangkhul / Phungcham]
+  Source Identifier:     TLS-1981-SKL
+  Source URL:            https://imphalreviews.in/tangkhul-longshim-traditions
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Traditional Oral Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Foundational oral narrative celebrating the sacred fraternal oath between young men entering the traditional Longshim youth dormitory.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Shaizāwo eina Kasomwo mayarnaona Longshim-li ngasotda pamkakhung, yar-ngarar kacham eina ning-akha sakashung.
+  Phungcham, Hunphun, kala Shirui-wui Longshim-li pamkakhung yarwui ngashan-li khamashung leikashan zatta.
+
+  Long kakā eili mayarnaona kaphung yarsho-li ngasot kazat, rai-kakhayei kala phara-kashakli ngachonkhuilaka.
+  Shaizāwona Kasomwoli 'Iramwui ngashan kachiko thada, iwui ning khipana mangacheimana' da khangayeikashan sakashung.
+
+  Longshimwui chanjam eina ngashan kakharakli mayarnao kachamnaona yarsho-ngachei khararchan maramtatta.
+  Hi Tangkhul mayarnao-wui ngashan, Longshim kakā, kala ning-kashungwui shakshen thada ringkapha-phong.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Shaizāwo and Kasomwo entered the traditional Longshim youth dormitory together, sharing the deep bond of age-grade brothers.
+  Within the wooden halls of the Longshim across Hunphun and Phungcham, youth learned customary laws, courage, and songs.
+
+  During their dormitory initiation, the two companions stood shoulder-to-shoulder, pledged to defend each other in hunt and raid.
+  Shaizāwo swore to Kasomwo: 'As long as the sentinel hills stand, our brotherhood shall remain unbroken by jealousy or time.'
+  Through fireside counsel and ancestral martial training, they embodied the highest ideals of youthful chivalry and honor.
+  This classic narrative stands as a profound testament to the Longshim institution and the sacred pact of Tangkhul male camaraderie.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * The Longshim institution as the cradle of Tangkhul education and social law
+  * Pacts of eternal brotherhood and fraternal loyalty (*Yar-ngarar Ning-akha*)
+  * Martial training, ancestral lore, and chivalric codes of mountain youth
+  * Oral transmission of legal and ethical customs through age-grade fraternities
+
+STRUCTURE & POETIC METER: Heroic prose chronicle interspersed with rhythmic oath chants (*Khangayeikashan*) and dormitory choruses.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A foundational narrative commemorating the sacred social role of the Longshim (traditional youth dormitory). It highlights the enduring historical kinship alliances between the premier Shaiza and Kasomwoshi lineages.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Longshim               : Traditional village youth dormitory, center of education, governance, and lore
+  * Long kakā              : Initiation and entry into the Longshim dormitory fraternity
+  * Yar-ngarar             : Age-grade fraternity / peer comradeship
+  * Khangayeikashan        : Solemn oath of mutual defense and unbroken brotherhood
+
+================================================================================
+END OF RECORD: LIT-FLK-011 - Tangkhul Language Library Digital Archive
+================================================================================

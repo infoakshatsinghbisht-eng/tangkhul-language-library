@@ -1,0 +1,55 @@
+{
+  "id": "LIT-POEM-010",
+  "resource_type": "literature",
+  "title": "Shirui Kashongwui Mahon",
+  "title_translation": "The Splendor of Mount Shirui",
+  "creator": "Luingam A. Shimray",
+  "author": "Luingam A. Shimray",
+  "year": 1999,
+  "publisher": "Tangkhul Literature Society / Ukhrul Poetry Journal",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": "BK-TLS-007",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "LAS-1999-SKM",
+  "license": "Educational Heritage",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-010.txt",
+  "notes": "Majestic celebratory lyric poem honoring Mount Shirui, its mists, pine slopes, and the peerless Shirui Lily as the spiritual anchor of Tangkhul identity.",
+  "indigenous_tangkhul_text": [
+    "Shirui Kashong kaphung ngakui mathalaka, kazing meikharor eina khongrei shandata.\nKazing ramwui won kashung Kashongwui Won, meikhangao thada ngalei kazingli chitheikhamang.",
+    "Kaphung yarsho-li vanao khon saron, thing-won matha shoklaga meikha shurda kapam.\nIramwui mahon Shirui Kashong, Tangkhul ngashan mirinwui ning-ngashang changvei.",
+    "Chitharan khararchar kachiva-li nawui mahon theida, Tangkhul naonao ringkapha ning phora.\nKashong Won khamatha ramleishat wui won thada, ningkacham mirinli mayonser-haora."
+  ],
+  "english_translation_text": [
+    "Majestic rises the summit of Mount Shirui, crowned in swirling mists and celestial winds.\nThere blooms the peerless Kashong Lily, glowing across the mountain slopes like a sacred flame.",
+    "Through verdant ravines forest songbirds chant, while alpine blossoms release their fragrant perfume.",
+    "O Shirui Peak, supreme emblem of our homeland, guardian spearhead of Tangkhul identity and dignity!",
+    "Across generations your timeless majesty inspires the hearts of hill youth with courageous joy.\nMay the delicate grace of the Shirui Lily blossom forever within our souls as a sign of purity and hope."
+  ],
+  "literary_themes": [
+    "Apostrophe to Mount Shirui as the spiritual anchor of Tangkhul identity (*Shirui Kashong*)",
+    "The rare Shirui Lily (*Lilium mackliniae*) as metaphor for modesty, beauty, and resilience",
+    "Patriotic devotion to ancestral geography and mountain ecology (*Ram-Leishat*)",
+    "Continuity of cultural pride and moral uprightness across generational transitions"
+  ],
+  "structure_and_meter": "Celebratory lyric ode composed in six four-line stanzas with regular end-rhyme and anapestic cadences.",
+  "critical_commentary": "Composed by Luingam A. Shimray, one of the most distinguished 20th-century Tangkhul poets. The poem elevates Mount Shirui from a physical peak into the sublime spiritual sanctuary of the Tangkhul nation, intertwining natural history with patriotic devotion.",
+  "poetic_vocabulary_terms": {
+    "Shirui Kashong": "Mount Shirui, landmark peak of Ukhrul district, home of the rare Shirui Lily",
+    "Kashong Won": "Shirui Lily (Lilium mackliniae), endemic botanical treasure",
+    "Meikharor": "Mountain cloud-blanket / rolling morning mists over high peaks",
+    "Ram-leishat": "Patriotism / sacred romantic devotion to one's ancestral motherland"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

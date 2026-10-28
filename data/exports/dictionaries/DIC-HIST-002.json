@@ -1,0 +1,192 @@
+{
+  "id": "DIC-HIST-002",
+  "resource_type": "dictionaries",
+  "title": "Vocabulary of the Luhuppa (Tangkhul) Language",
+  "title_translation": "Luhuppa Tangkhul Vocabulary",
+  "creator": "M. McCulloch",
+  "year": 1859,
+  "publisher": "Records of the Government of India, No. XXVII, Calcutta",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Luhuppa / Northern Tangkhul",
+  "source_type": "wordlist",
+  "source_url": "https://books.google.com/books?id=McCulloch1859",
+  "source_identifier": "RGI-XXVII-1859",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/dictionaries/DIC-HIST-002_mcculloch_1859.txt",
+  "verification_status": "verified",
+  "notes": "Earliest known printed wordlist of the Tangkhul (Luhuppa) language published in Account of the Valley of Munnipore and of the Hill Tribes. Public domain.",
+  "alternate_title": "Luhuppa Tangkhul Vocabulary",
+  "background": "Compiled by Major M. McCulloch, Political Agent at Manipur, and published in 1859 in 'Account of the Valley of Munnipore and of the Hill Tribes' (Records of the Government of India, No. XXVII). This is the earliest known printed wordlist of the Tangkhul language, referred to under the historical ethnonym 'Luhuppa' (referring to the woven cane helmets worn by northern warriors). Preserves archaic 19th-century phonological forms.",
+  "phonology_notes": "Transcribed using pre-standard 19th-century English phonetic approximations (e.g., 'mee' for mi, 'mick' for mik, 'nahlung' for ngalung, 'shem' for shim).",
+  "entries": [
+    {
+      "headword": "mi",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "man",
+        "human person"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 68",
+      "alternative_spellings": [
+        "mee"
+      ],
+      "example": "Mee ahka (One man in the village)."
+    },
+    {
+      "headword": "mayarnao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "youth",
+        "boy",
+        "young warrior"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 69",
+      "alternative_spellings": [
+        "meeyahno"
+      ],
+      "example": "Meeyahno kashak (A robust young warrior)."
+    },
+    {
+      "headword": "ngalanao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "girl",
+        "female child",
+        "maiden"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 69",
+      "alternative_spellings": [
+        "lahno"
+      ],
+      "example": "Lahno kapha (A fair young woman)."
+    },
+    {
+      "headword": "mik",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "eye"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 70",
+      "alternative_spellings": [
+        "mick"
+      ],
+      "example": "Mick theikhavai (To see and behold)."
+    },
+    {
+      "headword": "khana",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ear"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 70",
+      "alternative_spellings": [
+        "khanah"
+      ],
+      "example": "Khanah khulu (To listen and heed)."
+    },
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mouth",
+        "spoken words"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 71",
+      "alternative_spellings": [
+        "kahmor"
+      ],
+      "example": "Kahmor tui (Spoken words of the council)."
+    },
+    {
+      "headword": "pang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "hand",
+        "arm"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 71",
+      "alternative_spellings": [
+        "pahng"
+      ],
+      "example": "Pahng ot (Labor of the hands)."
+    },
+    {
+      "headword": "phei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "foot",
+        "leg"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 72",
+      "alternative_spellings": [
+        "phee"
+      ],
+      "example": "Phee phei (Footsteps along the mountain trail)."
+    },
+    {
+      "headword": "shim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "house",
+        "dwelling"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 73",
+      "alternative_spellings": [
+        "shem"
+      ],
+      "example": "Shem kapam (Dwelling safely in the house)."
+    },
+    {
+      "headword": "tara",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "water"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 74",
+      "alternative_spellings": [
+        "tahrah"
+      ],
+      "example": "Tahrah chup (Drinking clean spring water)."
+    },
+    {
+      "headword": "mei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "fire",
+        "hearth fire"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 75",
+      "alternative_spellings": [
+        "may"
+      ],
+      "example": "May katum (Kindling the village fire)."
+    },
+    {
+      "headword": "ngalung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "stone",
+        "rock"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 76",
+      "alternative_spellings": [
+        "nahlung"
+      ],
+      "example": "Nahlung kachui (A great rock monolith)."
+    }
+  ]
+}

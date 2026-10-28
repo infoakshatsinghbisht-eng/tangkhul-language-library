@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-009",
+  "resource_type": "songs",
+  "title": "Iwui Mirinwui Khararchan",
+  "alternate_titles": [],
+  "title_translation": "My Life's Story",
+  "singer": "Diana Wungsek",
+  "lyricist": "Diana Wungsek",
+  "composer": "Diana Wungsek",
+  "collector": null,
+  "performers": [
+    "Diana Wungsek"
+  ],
+  "year": 1991,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "ballad",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-DW-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Classic Tangkhul autobiographical ballad renowned across generations since its 1991 release.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Iwui mirinwui khararchan kaphung thata.",
+        "Kakhanang kachingli Varena khangachon."
+      ],
+      "lines_translation": [
+        "The story of my life unfolds like the mountain trails.",
+        "Through sorrow and trials, the Creator has been my protector."
+      ]
+    }
+  ]
+}

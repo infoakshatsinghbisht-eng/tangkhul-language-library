@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-005",
+  "resource_type": "songs",
+  "title": "Made in Ukhrul",
+  "alternate_titles": [],
+  "title_translation": "Made in Ukhrul",
+  "singer": "Thangmeiso Shinglai",
+  "lyricist": "Thangmeiso Shinglai",
+  "composer": "Thangmeiso Shinglai",
+  "collector": null,
+  "performers": [
+    "Thangmeiso Shinglai"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "modern",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-TS-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Highly popular anthem celebrating Ukhrul town, Tangkhul youth culture, and pride of place.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Made in Ukhrul, kaphung ramwui yarshungwon.",
+        "Iram Tangkhul wui mashun aina ningyang."
+      ],
+      "lines_translation": [
+        "Made in Ukhrul, youth blooming in the heart of our mountain town.",
+        "Taking pride in the upright dignity and culture of Tangkhul land."
+      ]
+    }
+  ]
+}

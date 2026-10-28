@@ -1,0 +1,45 @@
+{
+  "id": "CULT-CUST-005",
+  "resource_type": "culture",
+  "title": "Maran Kasa Feast of Merit & Tarang Monument",
+  "title_translation": "The Feast of Merit Cycle and Sacred Post Erection",
+  "creator": "Tangkhul Hereditary Nobility & Benefactors",
+  "year": 1911,
+  "publisher": "Documented in Hodson 1911, Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul / Hunphun",
+  "category": "custom",
+  "subcategory": "prestige_institution",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Hodson-1911-Ch3-Maran",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-CUST-005_maran_kasa_tarang.txt",
+  "verification_status": "verified",
+  "notes": "The pinnacle institutional feast cycle hosted by a generous benefactor for the entire village, granting the lifelong cultural privilege of erecting the sacred forked Tarang post and adorning one's home as a Lengcheng Shim.",
+  "indigenous_tangkhul_text": [
+    "Maran Kasa ot kasak iram mibingli phanit kachung mimi.",
+    "Tarang lungphung kashak thada, Awunga wui mashun themthot pamei.",
+    "Lengcheng Shimli kuihon kachui, thot kachungli aming kasak pamra."
+  ],
+  "english_translation_text": [
+    "The Maran Kasa feast of merit is the ultimate demonstration of generosity and civic honor.",
+    "Erecting the monumental forked Tarang post, celebrating the nobility and virtue of the host.",
+    "Privileged to raise the crossed roof-horns of the Lengcheng Shim, an enduring legacy for generations."
+  ],
+  "procedural_stages": [
+    "1. Accumulation of extensive agricultural surplus, livestock, and brewed rice wine over years.",
+    "2. Formal notification and blessing from the Awunga and village council of elders.",
+    "3. Hosting sequential feasts feeding the entire village and neighboring allied settlements.",
+    "4. Dragging and erecting the massive carved forked wooden post (Tarang / Tarung).",
+    "5. Attainment of highest social rank, granting permission to build a Lengcheng Shim house."
+  ],
+  "ceremonial_participants": [
+    "Benefactor Couple",
+    "Awunga",
+    "Village Clans",
+    "Neighboring Village Guests"
+  ],
+  "seasonal_timing": "Winter dry season (Sacred prestige institution)"
+}

@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: CHAMPHUNG HISTORIC VILLAGE
+IDENTIFIER: HIST-PLC-006 | CATEGORY: PLACE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Champhung Historic Village
+  Title Translation:     Western Tangkhul Megalithic Settlement
+  Historical Category:   place
+  Event Date / Period:   Ancestral Era | Traditional
+  Sort Year:             2019
+  Place / Settlement:    Champhung [Champhung]
+  Dialect / Variety:     Champhung
+  Key Figures / Creator: Champhung Community Custodians
+  Publisher / Source:    Field Documentation Candidate
+  Source Identifier:     Toponym-Champhung-Settlement
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Traditional Craft Documentation (community_authorized)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Historically significant western village possessing intact traditions of commemorative stone-pulling and megalith erection, with an archaic dialect distinct from standard Ukhrul speech.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  Champhung village-hi western Tangkhul region-li megalithic traditions kala archaic dialect kashung settlement akha.
+  1837-li Nathan Brown kala Capt. Gordon-na Champhung vocabulary document kachap shansangya.
+  Stone-pulling ceremonies (Lungkhangasan) kala customary clan covenants intact thada pama.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  Champhung is an ancient western Tangkhul settlement renowned for intact megalithic rituals and an archaic dialect.
+  In 1837, its vocabulary was recorded by Nathan Brown and George Gordon, making it one of the first documented lects in Manipur.
+  The village maintains ancient commemorative stone-pulling traditions (Lungkhangasan) and megalithic alignment platforms.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. Ancient Era: Early western offshoot from Makhel retaining distinctive lexical and tonal characteristics.
+  2. 1837: Published in the Journal of the Asiatic Society of Bengal (Calcutta) by Nathan Brown and Gordon.
+  3. 19th–20th Century: Sustained traditional feasts of merit with megalithic monument construction.
+  4. Contemporary: Key site for comparative Tibeto-Burman linguistics and cultural anthropology.
+
+KEY FIGURES & LEADERS:
+  Champhung Clan Elders, Nathan Brown & Capt. George Gordon, Megalith Builders
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Western Ukhrul / Senapati border (Elevation 1,500 m)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Provides indispensable proof of early linguistic divergence and the antiquity of megalithic stone-pulling in Northeast India.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Lungkhangasan          : Sacred ceremonial stone-pulling ritual
+  * Lung                   : Megalithic stone / monument
+  * Khangasan              : Collective dragging by singing village youth
+  * Otshak                 : Customary feat of social and spiritual merit
+
+================================================================================
+END OF RECORD: HIST-PLC-006 - Tangkhul Language Library Digital Archive
+================================================================================

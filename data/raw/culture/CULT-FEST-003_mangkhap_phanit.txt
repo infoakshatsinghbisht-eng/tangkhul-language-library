@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-FEST-003
+TITLE: Mangkhap Phanit
+TITLE TRANSLATION: Post-Transplantation Feast of Rest
+CATEGORY: festival | SUBCATEGORY: agricultural
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Agriculturalists
+PUBLICATION / SOURCE: Traditional Observation (Horam 1977)
+SOURCE ID: Horam-1977-Ch5
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Mid-summer festival celebrated in July following completion of arduous paddy transplantation. Serves as community celebration and period of rest before weeding.
+
+[SEASONAL TIMING & OCCASION]
+July (Mid-summer, post-transplantation)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Agricultural Labor Exchange Groups (Yarnao)
+- Farming Households
+- Elders
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Completion of paddy transplantation across all terraced fields of the village.
+2. Declaration of village rest days; agricultural implements are cleaned and put away.
+3. Preparation of community feast with meat portions distributed across labor exchange groups (Yarnao).
+4. Singing of Mangkhap Laa and social storytelling among elders and youth.
+5. Physical recuperation and social fellowship before weeding season begins.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Mangkhap phanitli luisak kashung, Phungcham terrace luisang kachung.
+Khamathat otli ngasoda pamhaida, aja phanitli ringphapamei.
+Avava apuipui wui ngashan kasak, luimahon kazingli chitharan kakhanang.
+
+[ENGLISH TRANSLATION & MEANING]
+At Mangkhap festival, the arduous transplantation is fulfilled across all terraced paddies.
+Having labored shoulder to shoulder in monsoon mud, today our community rejoices in rest.
+Honoring the sacred agrarian traditions of our ancestors through hard-won labor and unity.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

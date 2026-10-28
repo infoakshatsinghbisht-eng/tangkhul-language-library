@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-FEST-006
+TITLE: Dharreo Phanit
+TITLE TRANSLATION: Pre-Harvest Blessing Festival
+CATEGORY: festival | SUBCATEGORY: agricultural
+VILLAGE / REGION: Ukhrul / Phungcham | DIALECT: Standard Tangkhul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Farming Elders
+PUBLICATION / SOURCE: Traditional Observation (Horam 1977, Hodson 1911)
+SOURCE ID: Horam-1977-Ch5-Dharreo
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Autumn pre-harvest festival celebrated in October before sickle touches the golden grain. Ritual invocations petition the Creator for protection against devastating wind, hail, and vermin before harvest.
+
+[SEASONAL TIMING & OCCASION]
+October (Autumn pre-harvest blessing)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Farming Elders
+- Family Lineages
+- Reaping Teams
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Inspection of standing paddy fields by farming elders in late October.
+2. Proclamation of Dharreo festival before any household strikes the sickle.
+3. Morning prayers offered at the edge of terraced paddies invoking divine protection.
+4. Household preparation of special roasted rice and brewed beverages for workers.
+5. Reaping commences in disciplined solidarity across all village sectors.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Dharreo phanitli luisang kashung, kacham kashiman malailaka.
+Phungcham Ukhrul luishang kachivali Varewui ningli khorumda.
+Kazingmasho kazingmei makhavai, Varewui kakhon kaphali shitsang.
+
+[ENGLISH TRANSLATION & MEANING]
+At Dharreo festival, the golden paddy stands ripe before harvest begins.
+Across Ukhrul and Phungcham, every family petitions the Almighty Creator for blessing.
+Praying for protection against storm, wind, and hail, that the grain may be safely reaped.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

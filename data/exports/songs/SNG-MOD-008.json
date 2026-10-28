@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-008",
+  "resource_type": "songs",
+  "title": "Huinahao",
+  "alternate_titles": [],
+  "title_translation": "Greeting Chant",
+  "singer": "Thangmeiso Shinglai",
+  "lyricist": "Traditional / Thangmeiso Shinglai",
+  "composer": "Thangmeiso Shinglai",
+  "collector": null,
+  "performers": [
+    "Thangmeiso Shinglai"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-TS-004",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Contemporary folk fusion incorporating ancestral call-and-response refrains.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Huinahao, huinahao, iramli kaphung ngasan.",
+        "Apuipui avava wui khon nganalu."
+      ],
+      "lines_translation": [
+        "Huinahao, greetings to all, the sacred hills awaken.",
+        "Listen to the guiding voices of our mothers and fathers."
+      ]
+    }
+  ]
+}

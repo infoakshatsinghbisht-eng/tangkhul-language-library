@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-014",
+  "resource_type": "songs",
+  "title": "Hunkhamang Mikumo Mirin",
+  "alternate_titles": [],
+  "title_translation": "Fleeting Human Life",
+  "singer": "Nimshimphi Muivah",
+  "lyricist": null,
+  "composer": null,
+  "collector": null,
+  "performers": [
+    "Nimshimphi Muivah"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "ballad",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-NM-002",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Philosophical ballad on the impermanence of mortal life and moral uprightness.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Hunkhamang mikumo mirin thotna.",
+        "Mashunkashak aina pamlu iramli."
+      ],
+      "lines_translation": [
+        "Fleeting and brief is mortal human life on this earth.",
+        "Walk therefore in truth, honor, and kindness across your homeland."
+      ]
+    }
+  ]
+}

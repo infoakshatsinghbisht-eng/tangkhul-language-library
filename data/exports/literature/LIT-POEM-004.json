@@ -1,0 +1,55 @@
+{
+  "id": "LIT-POEM-004",
+  "resource_type": "literature",
+  "title": "Ngashan Kathara",
+  "title_translation": "The New Dawn",
+  "creator": "S. Kanrei",
+  "author": "S. Kanrei",
+  "year": 2021,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": "BK-TLS-012",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-012-P04",
+  "license": "Educational Curriculum",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-004.txt",
+  "notes": "Visionary modernist poem exploring community renaissance, literacy advancement, and cultural self-determination in the post-independence era. Published in Class XII Wordham Tuitam Kakhane.",
+  "indigenous_tangkhul_text": [
+    "Ngashan Katharana kaphung kachivali ngakhayei zingsho kakhon,",
+    "Lairik pakhang, tuitam khamathan, kala community solidarity ngathur-shitsangya.",
+    "Ancient values kala modern education ngarum-da future-wui path shurda,",
+    "Iram Tangkhul progressive nationhood-wui horizon-li phungchan."
+  ],
+  "english_translation_text": [
+    "The New Dawn (*Ngashan Kathara*) breaks across every mountain crest, banishing the shadows of old,",
+    "Universal literacy, grammatical refinement, and community solidarity march hand in hand.",
+    "Uniting ancestral virtues with modern enlightenment, our youth tread the path of wisdom,",
+    "Guiding the Tangkhul nation toward a prosperous and unified horizon."
+  ],
+  "literary_themes": [
+    "Cultural renaissance, literacy enlightenment, and social renewal",
+    "Synthesizing ancestral customs (*Ngashan*) with modern education",
+    "Visionary hope for youth leadership, tribal self-determination, and unity"
+  ],
+  "structure_and_meter": "Modernist blank verse with elevated rhetorical diction, energetic pacing, and prophetic rhythm.",
+  "critical_commentary": "Composed by S. Kanrei for Class XII Wordham Tuitam Kakhane (2021), this poem encapsulates the intellectual optimism of modern Tangkhul literature.",
+  "poetic_vocabulary_terms": {
+    "Ngashan Kathara": "The new dawn / modern cultural renaissance",
+    "Zingsho": "The rising dawn light / radiant sunrise",
+    "Tuitam Khamathan": "Linguistic and grammatical refinement",
+    "Ngarum-Kashung": "Collective unity in achieving communal goals"
+  },
+  "stanza_count": 4,
+  "line_count": 4,
+  "text_availability": "full_text"
+}

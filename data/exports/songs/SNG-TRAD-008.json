@@ -1,0 +1,77 @@
+{
+  "id": "SNG-TRAD-008",
+  "resource_type": "songs",
+  "title": "Itang Rakhongli",
+  "alternate_titles": [
+    "Rakhong Laa",
+    "Song of the Riverbank and Beloved Hills"
+  ],
+  "title_translation": "Song of the Riverbank and Beloved Hills",
+  "singer": "Traditional Tangkhul Troupe",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Tangkhul Literature Society / Traditional Elders",
+  "performers": [],
+  "year": 1985,
+  "village": "Hunphun",
+  "dialect": "Hunphun / Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/itang-rakhongli",
+  "source_identifier": "TRAD-HUN-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/itang-rakhongli",
+  "local_file_path": "data/raw/songs/SNG-TRAD-008_itang_rakhongli.txt",
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Classic Tangkhul lyrical love song expressing yearning across mountain ranges, invoking the hills to lower their peaks that one may gaze upon beloved homeland.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Itang rakhongli, Ayisho yaota rarali,",
+        "Ayisho, yaota rarali.",
+        "Kongrei khanganu wui ngaloong pamei,",
+        "I-wui ningli leikashi thot leisai."
+      ],
+      "lines_translation": [
+        "Along the riverbanks of our village, gazing far into the distant hills,",
+        "O beloved, looking far across the valleys.",
+        "Beside the clear murmuring waters and sacred ancient stones,",
+        "In my heart, the deepest love of our youth abides."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Imak oh khavamkhui milu,",
+        "Imak oh mavamkhui thu-a.",
+        "Leikashi kaphung kanhaira,",
+        "Kaphungchi khanemta milu."
+      ],
+      "lines_translation": [
+        "O mother, let not our tearful eyes be dimmed by distance,",
+        "Let not sorrow cloud the vision of our eyes.",
+        "The beloved mountain ridge rises tall between us,",
+        "O gentle peaks, lower yourselves down that I may gaze upon my love!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Leikashi ram ngashanvaika,",
+        "Iram Hunphun wui won kapha.",
+        "Ningkachang wui tui khamata,",
+        "Thot kachungli mashimanmana."
+      ],
+      "lines_translation": [
+        "That our eyes may catch a glimpse of our beloved homeland,",
+        "The fairest blossom blooming on the slopes of Hunphun.",
+        "The sacred promise whispered in mutual longing,",
+        "Shall never perish through the passing of generations."
+      ]
+    }
+  ]
+}

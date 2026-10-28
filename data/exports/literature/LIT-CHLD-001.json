@@ -1,0 +1,54 @@
+{
+  "id": "LIT-CHLD-001",
+  "resource_type": "literature",
+  "title": "Kachakui Kala Shanao",
+  "title_translation": "The Crow and the Pheasant",
+  "creator": "TLS Primary Curriculum Committee",
+  "author": "Traditional",
+  "year": 2022,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "children_literature",
+  "work_type": "children_literature",
+  "genres": [
+    "children_literature",
+    "folk_tale"
+  ],
+  "book_id": "BK-TLS-002",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-002-L04",
+  "license": "Educational Use",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-CHLD-001.txt",
+  "notes": "Moral fable for children explaining the plumages of birds and warning against jealousy, pride, and greed. Published in Class IV textbook Zingyar Tangkhul.",
+  "indigenous_tangkhul_text": [
+    "Thotli Kachakui (Crow) kala Shanao (Pheasant) khani akha-akha-li paint sak-kacham tuingashitya.",
+    "Shanaona Kachakuili black soot-li marikta chapa-khavai kachon mathat-da shapkasa sakya.",
+    "Kachakuina ningkhamachap-da Shanaowui plumages-li colorful spots mathat-da lakahon, ngashan hithada pharora."
+  ],
+  "english_translation_text": [
+    "Once, the Crow (*Kachakui*) and the Pheasant (*Shanao*) made a covenant to paint each other's feathers with splendor.",
+    "The pheasant patiently decorated the crow with deep glossy soot, taking great care to craft an elegant garment.",
+    "Yet the impatient crow splashed colors hastily, giving the pheasant its spotted plumage and ending their brotherhood."
+  ],
+  "literary_themes": [
+    "Children's moral fable on patience versus impetuous greed",
+    "Etiological explanation of bird plumage and animal characteristics",
+    "The sacredness of keeping promises and fulfilling reciprocal duties"
+  ],
+  "structure_and_meter": "Playful educational prose with simple sentence syntax and repetitive dialogue designed for elementary readers.",
+  "critical_commentary": "Published in the official Class IV Tangkhul textbook Zingyar Tangkhul (2022) to teach foundational moral principles through ancestral avian stories.",
+  "poetic_vocabulary_terms": {
+    "Kachakui": "The mountain crow / raven",
+    "Shanao": "The colorful forest pheasant",
+    "Kachon": "Garment / feather plumage",
+    "Ningkhamachap": "Hasty impatience and selfish carelessness"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

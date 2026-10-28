@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-013",
+  "resource_type": "songs",
+  "title": "Iram Rakhongli",
+  "alternate_titles": [],
+  "title_translation": "At the Village Spring",
+  "singer": "Nimshimphi Muivah",
+  "lyricist": "Nimshimphi Muivah",
+  "composer": "Nimshimphi Muivah",
+  "collector": null,
+  "performers": [
+    "Nimshimphi Muivah"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-NM-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Nostalgic folk song describing community life and meetings around the traditional village water spring.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Iram rakhongli tara kaphana ngaloong.",
+        "Chitharan thotli tui kaphana thotna."
+      ],
+      "lines_translation": [
+        "At the village spring, clear sweet water flows eternal.",
+        "In that gathering place, cherished words and memories are shared."
+      ]
+    }
+  ]
+}

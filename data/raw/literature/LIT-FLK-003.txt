@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: HUIKHAYEI KALA SHA
+IDENTIFIER: LIT-FLK-003 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Huikhayei Kala Sha
+  Title Translation:     The Story of the Dog and the Tiger
+  Literary Genre / Type: folk_tale (folk_tale)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-Folklore-1982-P45
+  Source URL:            https://sanchika.ciil.org/
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Academic Documentation (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Classic animal fable explaining how the domestic dog became humanity's mountain hunting companion through cleverness and loyalty.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Thot-khareli Huikhayei kala Sha maranao thada kaphungli ngaso-kacham pama.
+  Huina Shali matuida khangayei ning-kakhon matuida mayar-pamli chotchan-da miwui shimlut sanga.
+  Hithada Huikhayei mishi kaphara-eili mi-wui ngachee kaphaning kala kashap pan-kaso shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In ancient times, the Dog (*Huikhayei*) and the Tiger (*Sha*) lived together as brothers roaming the high mountain ridges.
+  Recognizing the superior intellect and mastery of humankind, the clever dog chose to seek domestic fellowship with man.
+  Thus the dog became humanity's loyal companion, guarding the household and guiding the village hunter through the wild.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Animal fable and etiology of animal domestication
+  * Foresight, clever adaptability, and pragmatic loyalty
+  * The contrast between untamed wilderness (*Ngashim*) and village civilization (*Ram*)
+
+STRUCTURE & POETIC METER: Allegorical prose narrative featuring dialogue and trickster motifs with an epigrammatic moral conclusion.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A classic Tibeto-Burman animal fable documented by S. Arokianathan in 1982, illustrating how indigenous oral literature explains ecological relationships.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Huikhayei              : Domestic hunting dog / loyal companion
+  * Sha                    : Tiger / wild predator of the forest
+  * Miwui-Shim             : The human household and hearth
+  * Khayei-Kharar          : Shrewd wisdom and adaptive intellect
+
+================================================================================
+END OF RECORD: LIT-FLK-003 - Tangkhul Language Library Digital Archive
+================================================================================

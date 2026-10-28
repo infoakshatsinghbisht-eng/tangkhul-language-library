@@ -1,0 +1,52 @@
+{
+  "id": "LIT-POEM-005",
+  "resource_type": "literature",
+  "title": "Tangkhul Ngalei",
+  "title_translation": "Ode to the Tangkhul Motherland",
+  "creator": "Y.K. Shimray",
+  "author": "Y.K. Shimray",
+  "year": 1985,
+  "publisher": "Tangkhul Literature Society / Published in Tangkhul Poetry: Book 1",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "YKS-1985-TNL",
+  "license": "Educational Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-005.txt",
+  "notes": "Seminal patriotic poem celebrating the alpine hills, ethical uprightness, and sacred heritage of the Tangkhul territory, widely taught as a cultural anthem.",
+  "indigenous_tangkhul_text": [
+    "Tangkhul ngalei khamatha, kaphung-yarsho mayon-kazing,\nIramwui ngalung kacham, leikashi eina ngasothong.\nShirui wonna kaphungli khamatha eina mayondatta,\nKazing chiyan kashungli kazeiram thada ringkapha.",
+    "I-ava ram, i-arāra ram, nawui mang eili pamkapeiya,\nMayarnao khangarang, shanaonao khamatha mayon-ser,\nKhamashung tui eina ngashan mirin kasak Tangkhul ram,\nThithang thithang nawui ming phung-ngathang kazingli khaláng-fara!"
+  ],
+  "english_translation_text": [
+    "O beautiful land of the Tangkhul, crowned by soaring mountain ridges,\nThe sacred soil of our ancestors, flourishing in enduring love and harmony.\nThe Shirui Lily blooms in unmatched splendor upon the crests,\nWhen morning mists ascend, it mirrors the serene beauty of the heavens.",
+    "Land of my mother, land of my ancestral fathers, in your embrace I find rest,\nWhere brave sons stand vigilant and fair daughters walk in graceful poise,\nBound by upright truth and righteous customs, O beloved Tangkhul soil,\nThrough all the ages, your sacred name shall soar high above the mountain peaks!"
+  ],
+  "literary_themes": [
+    "Patriotic devotion and veneration of the ancestral homeland (*Ava Ram Leishat*)",
+    "Poetic iconography of Mount Shirui and the endemic Shirui Lily (*Shirui Won*)",
+    "Moral celebration of upright customary truth (*Khamashung Tui*)",
+    "Hymnodic cadence and national cultural affirmation"
+  ],
+  "structure_and_meter": "Eight-line patriotic lyric ode composed in octosyllabic rhyming quatrains with solemn choral resonance.",
+  "critical_commentary": "Composed by the esteemed poet Y.K. Shimray and featured in *Tangkhul Poetry: Book 1*. Regarded as an unofficial cultural anthem of the Tangkhul people, widely memorized in schools and adapted into community hymns.",
+  "poetic_vocabulary_terms": {
+    "Tangkhul Ngalei": "The ancestral homeland / territory of the Tangkhul Naga people",
+    "I-arāra ram": "The land of our remote ancestors / sacred forefathers",
+    "Ringkapha": "Joyful, flourishing life lived in peace and cultural wholeness",
+    "Phung-ngathang": "Above the sentinel mountain summits / eternal height"
+  },
+  "stanza_count": 2,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

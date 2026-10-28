@@ -1,0 +1,57 @@
+{
+  "id": "LIT-FLK-016",
+  "resource_type": "literature",
+  "title": "Chikhangai Kala Kashung wui Ngatara",
+  "title_translation": "The Race Between the Mountain Snail and the Fleet Barking Deer",
+  "creator": "Tangkhul Storytellers & TLS Elementary Board",
+  "author": "Traditional",
+  "year": 1981,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "children_literature"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1981-CKN",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-016.txt",
+  "notes": "Popular didactic animal trickster fable teaching school children the virtues of humility, cooperation, and perseverance over boastful swiftness.",
+  "indigenous_tangkhul_text": [
+    "Hunphun ram kaphung-ngakui eili chikhangai akhana kashung kachamnao akha theilaga ning-ngasang eina mathatha.\n'Kashung-nao, na-wui khui-kapam mathikha, Shirui kaphung mathakashung kachi-kashungli ngatara khami zatta-sa!'",
+    "Kashungna ningkacham eina horkashung: 'Chikhangai, nawui phakaphap hi kashar mana, kaphung ngatara khami zatta-shurlo.'\nChitharan chikhangaina ningtheikhamang eina thak-thak phaphorlaga, 'Kashungnao mathingmana!' da phung-ngathang ngasamhaowa.",
+    "Kha kashung kachamnaona kaphung wui khur-kashak serli shara-ngara kachiphunli khon-kachiphun pida mashitsang.\nChikhangaina 'Kashung!' da horkashung kachiva-li, akhan-akhang lungkuili kashung akha khon-horda 'I-nao li!' da sakashung.",
+    "Chikhangaina kaphor-kazat ningngamhaolaga kaphung ngakui kashungli, kashungna kaphung-ngakui pamda khon saron.\nTuitam hi theilaga kacham miyaonao ningtheikathat eina ngakhangao zatta-khavai kashungwui khararchan ning-yangamanda."
+  ],
+  "english_translation_text": [
+    "High on the Hunphun hills, a proud barking deer encountered a humble snail moving patiently through the green ferns.\nBoasting loudly, the deer jeered: 'Little snail, sluggish and frail, race me up to the towering crest of Mount Shirui!'",
+    "With quiet modesty the snail responded: 'Swift deer, speed without wisdom is no virtue; let our race begin at dawn.'\nLeaping forward with lightning bounds, the deer ran ahead, then mocked the tiny snail and paused to nap in the warm sun.",
+    "Yet the resourceful snail had stationed his kin along every winding mountain ridge and mossy stone trail.\nWhenever the barking deer cried out 'Where are you, snail?', a snail's voice answered ahead: 'Here I am, advancing!'",
+    "Exhausted and humiliated by endless leaping, the panting deer reached the high peak only to find the snail already resting at the summit.\nThus children learn through this ancient fable that modest patience and clever kinship triumph over arrogant pride."
+  ],
+  "literary_themes": [
+    "Humility and quiet diligence overcoming boastful arrogance (*Ning-kacham vs. Ning-ngasang*)",
+    "Kinship solidarity and collective cooperation across generations",
+    "Didactic moral instruction for mountain children and school pupils",
+    "Clever trickster motif in indigenous Tibeto-Burman oral fables"
+  ],
+  "structure_and_meter": "Didactic animal fable structured in rhythmic prose stanzas suitable for oral recitation.",
+  "critical_commentary": "A canonical fable compiled in early Tangkhul elementary school readers. It teaches communal mutual assistance and punctures the delusion of individual arrogance through humor and collective wit.",
+  "poetic_vocabulary_terms": {
+    "Chikhangai": "Barking deer (Muntiacus muntjak), nimble inhabitant of mountain slopes",
+    "Kashung": "Mountain forest snail, symbol of patient endurance and perseverance",
+    "Ngatara": "Formal competition, foot-race, or athletic trial",
+    "Ning-ngasang": "Boastful arrogance, hubris, looking down upon others"
+  },
+  "stanza_count": 4,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

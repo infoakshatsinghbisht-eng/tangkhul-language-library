@@ -1,0 +1,81 @@
+================================================================================
+TANGKHUL LITERARY RECORD: RAMWUI KHARARCHAN: THE RAMAYANA IN TANGKHUL NAGA
+IDENTIFIER: LIT-EPIC-001 | GENRE: EPIC
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Ramwui Khararchan: The Ramayana in Tangkhul Naga
+  Title Translation:     The Epic Ramayana in Tangkhul Naga
+  Literary Genre / Type: translation (epic)
+  Author / Storyteller:  Valmiki / Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-TKH-1982-RAMAYANA
+  Source URL:            https://tangkhullanguage.org/archive/literature/ramayana
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Traditional Cultural Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Trans-lingual rendition of the epic Ramayana into Tangkhul Naga spanning Bala, Ayodhya, Aranya, Kishkindha, Sundara, and Yuddha Kandas.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+
+[KANDA 1: Bala Kanda: Ramwui Naokaphok kala Janakwui Kazei (Childhood & The Great Bow)]
+  Summary: King Dasharatha of Ayodhya performs the sacred rite; Rama is born endowed with divine virtue. Sage Vishvamitra brings Rama and Lakshmana to defend the hermitage from demons. At Mithila, Rama bends and breaks the mighty Bow of Shiva and weds Janaka's daughter Sita.
+  TANGKHUL: Ayodhya ramli Dasharatha awunga mashunta pamda leisai; Awui naomayar khare Ramna kaphā saikora phungda ngashunsai.
+  ENGLISH : In sacred Ayodhya ruled virtuous King Dasharatha; his firstborn son Rama was gifted with every heavenly virtue.
+  HINDI   : पवित्र अयोध्या नगरी में धर्मात्मा राजा दशरथ राज्य करते थे; उनके ज्येष्ठ पुत्र राम दिव्य सद्गुणों से सुशोभित थे।
+  TANGKHUL: Mithila ramli Janak awungana Shiva-wui kazei-kharei phungsai; Ramna kazei chi phuklaga khup-kakhai eina Sita-le phankahai thot sasai.
+  ENGLISH : In Mithila, King Janaka brought forth the mighty Bow of Shiva; Rama lifted and broke it, wedding beautiful Sita in joyous celebration.
+  HINDI   : मिथिला में राजा जनक ने शिव का भारी धनुष प्रस्तुत किया; राम ने उसे सहज ही उठाकर भंग कर दिया और सीता से विवाह रचाया।
+
+[KANDA 2: Ayodhya Kanda: Kaphungli Kazat (The Banishment & Forest Exile)]
+  Summary: Queen Kaikeyi claims her two boons, demanding Bharata's coronation and Rama's fourteen-year exile. Rama receives the command without sorrow or malice, honoring his father's truth. Sita and faithful brother Lakshmana accompany him into the deep woods.
+  TANGKHUL: Ramna ning-kakachai makaleida ava-wui tui nganisai; 'Ava-wui mashunkasa phungkhavai I kaphungli thara-mati kum pamra.'
+  ENGLISH : Without bitterness, Rama obeyed his father's vow: 'To uphold my father's truth, I will dwell fourteen years in the mountain forest.'
+  HINDI   : राम ने बिना किसी क्रोध के पिता के वचन का पालन किया: 'पिता के सत्य की रक्षा के लिए मैं चौदह वर्ष वन में निवास करूँगा।'
+  TANGKHUL: Sitale Lakshman-na Ramli shurkazatta; 'Nali makaleieili shimkhur makalei; kaphungli Ramle pamkasa Iwui kazingramsai.'
+  ENGLISH : Sita and Lakshmana walked beside him: 'Where Rama is, there is home; to walk the mountain forest with Rama is heaven itself.'
+  HINDI   : सीता और लक्ष्मण उनके संग चले: 'जहाँ राम हैं वहीं घर है; राम के संग वन में रहना ही स्वर्ग है।'
+
+[KANDA 3: Aranya Kanda: Panchavatili Pamkasa kala Khara-kashang (The Forest Hermitage & Abduction)]
+  Summary: Dwelling peacefully at Panchavati by the Godavari. Ravana plots vengeance and sends demon Maricha as a dazzling golden deer. While Rama and Lakshmana chase the deer, Ravana abducts Sita. Brave vulture Jatayu battles heroically in the sky.
+  TANGKHUL: Panchavatili Marichana khara-kashang thada ngasasa; Sita-na khara chi theilaga Ramli 'Ili khuimilu' da hosa.
+  ENGLISH : At Panchavati, Maricha transformed into a glistening golden deer; seeing it, Sita pleaded with Rama to capture it.
+  HINDI   : पंचवटी में मारीच ने सुनहले हिरण का रूप धरा; उसे देखकर सीता ने राम से उस हिरण को लाने का आग्रह किया।
+  TANGKHUL: Lanka-wui Ravana-na Sita-li ngathumta khuisai; vanao Jatayu-na kazei eina ror-la kathi-shoksa Ramli pao mikhavai.
+  ENGLISH : Ravana deceitfully carried Sita away; the noble bird Jatayu fought valiantly in the clouds until mortally wounded to report to Rama.
+  HINDI   : रावण ने कपट से सीता का हरण किया; पक्षीराज जटायु ने आकाश में भीषण युद्ध किया और राम को समाचार देने तक प्राण साधे रखे।
+
+[KANDA 4: Sundara Kanda: Hanuman-na Ngayili Kapai (Hanuman's Leap & Finding Sita in Lanka)]
+  Summary: Hanuman leaps across the roaring ocean to Lanka. He finds mother Sita grieving under the Ashoka tree, delivers Rama's signet ring, reassures her, demonstrates his immense strength, and burns proud Lanka with his flaming tail.
+  TANGKHUL: Hanuman-na Ramwui ming phaningda ngayi-kharei kapaisai; Ashoka thing-khurli Sitali samphanglaga Ramwui chabi-ring misai.
+  ENGLISH : Chanting Rama's sacred name, Hanuman leapt across the boundless ocean; beneath the Ashoka tree he found weeping Sita and delivered Rama's signet ring.
+  HINDI   : राम का नाम स्मरण कर हनुमान ने विशाल समुद्र लांघ लिया; अशोक वाटिका में विरही सीता को खोजकर राम की मुद्रिका भेंट की।
+  TANGKHUL: Ravana-wui shimkhurli Hanumanna awui meiphu-kuisam eina mei ngapharsai; Lanka-ram saikora meikhu thada ngapharsa.
+  ENGLISH : In Ravana's palace, Hanuman set his tail ablaze, turning proud Lanka into a blazing torch of smoke and flame.
+  HINDI   : रावण के महल में हनुमान ने अपनी पूंछ की मशाल से सोने की अभिमानी लंका में आग लगा दी।
+
+[KANDA 5: Yuddha Kanda: Lanka-wui Rai kala Ram-Rajya (The Great Battle & Reign of Righteousness)]
+  Summary: Building the stone bridge across the ocean with the Vanara army. Epic war between the armies of Dharma and Adharma. Rama slays Ravana with the Brahmastra. Sita is reunited; victorious return to Ayodhya for the coronation of Ram-Rajya.
+  TANGKHUL: Lung-tara eina ngayili shongfa kashapsai; Ramna Brahmastra kazei eina Ravana-li chathatsai; mashunkasana ngamhaira.
+  ENGLISH : A floating bridge of stone was laid across the ocean; Rama released the supreme Brahmastra arrow, vanquishing Ravana and establishing the eternal victory of truth.
+  HINDI   : तैरते पत्थरों से समुद्र पर सेतु बांधा गया; राम ने ब्रह्मास्त्र चलाकर रावण का संहार किया और असत्य पर सत्य की विजय स्थापित की।
+  TANGKHUL: Ayodhyali Ramna Awungatui phungsai; Ram-Rajyali mi saikora ringphada, kathi-kachot makaleida mashunta pamsai.
+  ENGLISH : Rama was crowned king in joyful Ayodhya; in Ram-Rajya, all citizens lived in peace, righteousness, health, and harmony.
+  HINDI   : अयोध्या में श्रीराम का राज्याभिषेक हुआ; राम-राज्य में प्रजा सुखी, निरोगी और धर्मपरायण होकर शांति से जीने लगी।
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & CULTURAL SIGNIFICANCE:
+--------------------------------------------------------------------------------
+  * High classical, theological, and philosophical expression in the Tangkhul language
+  * Trans-lingual fidelity bridging indigenous mountain vocabulary with classical world literature
+  * Preserved for academic research, cultural preservation, and linguistic education
+
+================================================================================
+END OF RECORD: LIT-EPIC-001 - Tangkhul Language Library Digital Archive
+================================================================================

@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-TRAD-004
+TITLE: Longkhor Conical Basket Craft
+TITLE TRANSLATION: Traditional Tangkhul Bamboo Basketry
+CATEGORY: tradition | SUBCATEGORY: craft
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Bamboo Craftsmen
+PUBLICATION / SOURCE: Traditional Craft (Hodson 1911)
+SOURCE ID: Hodson-1911-Ch2
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Artisanal hand-woven conical bamboo basket used with head tumpline for transporting paddy, firewood, and harvest produce across mountainous terrain.
+
+[SEASONAL TIMING & OCCASION]
+Year-round agricultural transport and harvest conveyance
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Master Bamboo Craftsmen
+- Farmers
+- Mountain Villagers
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Harvesting mature mountain bamboo (Kaha) and pliable cane during dry winter months.
+2. Splitting bamboo into fine, uniform pliable strips (Lishing).
+3. Weaving four-cornered conical base and expanding body with close twill weave.
+4. Reinforcing rim with bent hardwood hoop and cane lashing.
+5. Attaching woven head tumpline (Khangvai) for ergonomic mountain burden carrying.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Longkhorli ot phungda kaphungli chat, iram mibingwui pang.
+Kahao wui li shaihaida kachak, chanam tara phungda.
+Kaphung kongrei luishang kachida, Longkhor mashimanpaishap.
+
+[ENGLISH TRANSLATION & MEANING]
+Carrying loads in the Longkhor basket across mountain trails, the steadfast companion of hill life.
+Woven tightly from mature mountain bamboo and cane, defying rain, weight, and wear.
+Across every terrace and steep mountain ridge, the Longkhor remains an indispensable tool.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

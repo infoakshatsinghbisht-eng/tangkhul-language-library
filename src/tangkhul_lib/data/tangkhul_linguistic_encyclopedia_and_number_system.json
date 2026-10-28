@@ -1,0 +1,1382 @@
+{
+  "title": "Complete Tangkhul Naga Linguistic Encyclopedia & Number System",
+  "hindi_title": "तंगखुल नागा सम्पूर्ण भाषा-विज्ञान, संख्या प्रणाली एवं सांस्कृतिक पंचांग विश्वकोश",
+  "version": "1.0.0",
+  "provenance": {
+    "sources": [
+      "Rev. William Pettigrew (1918) Tangkhul Naga Grammar and Dictionary",
+      "S. Arokianathan (1982) Tangkhul Folk Literature & Phonetic Documentation (CIIL)",
+      "Tangkhul Literature Society (TLS) Textbook & Grammar Committee Archives",
+      "Tangkhul Language Preservation Project (TLPP) Fieldwork Documentation"
+    ],
+    "dialect": "Standard Tangkhul (Ukhrul)",
+    "license": "Traditional Cultural Heritage (Community Authorized)"
+  },
+  "sections": {
+    "1_number_system": {
+      "cardinal_numbers": [
+        {
+          "number": 1,
+          "tangkhul": "akha",
+          "english": "one",
+          "hindi": "एक"
+        },
+        {
+          "number": 2,
+          "tangkhul": "khani",
+          "english": "two",
+          "hindi": "दो"
+        },
+        {
+          "number": 3,
+          "tangkhul": "kathum",
+          "english": "three",
+          "hindi": "तीन"
+        },
+        {
+          "number": 4,
+          "tangkhul": "mati",
+          "english": "four",
+          "hindi": "चार"
+        },
+        {
+          "number": 5,
+          "tangkhul": "phanga",
+          "english": "five",
+          "hindi": "पाँच"
+        },
+        {
+          "number": 6,
+          "tangkhul": "taruk",
+          "english": "six",
+          "hindi": "छह"
+        },
+        {
+          "number": 7,
+          "tangkhul": "shini",
+          "english": "seven",
+          "hindi": "सात"
+        },
+        {
+          "number": 8,
+          "tangkhul": "shet",
+          "english": "eight",
+          "hindi": "आठ"
+        },
+        {
+          "number": 9,
+          "tangkhul": "chiko",
+          "english": "nine",
+          "hindi": "नौ"
+        },
+        {
+          "number": 10,
+          "tangkhul": "thara",
+          "english": "ten",
+          "hindi": "दस"
+        },
+        {
+          "number": 11,
+          "tangkhul": "thara akha",
+          "english": "eleven",
+          "hindi": "ग्यारह"
+        },
+        {
+          "number": 12,
+          "tangkhul": "thara khani",
+          "english": "twelve",
+          "hindi": "बारह"
+        },
+        {
+          "number": 13,
+          "tangkhul": "thara kathum",
+          "english": "thirteen",
+          "hindi": "तेरह"
+        },
+        {
+          "number": 14,
+          "tangkhul": "thara mati",
+          "english": "fourteen",
+          "hindi": "चौदह"
+        },
+        {
+          "number": 15,
+          "tangkhul": "thara phanga",
+          "english": "fifteen",
+          "hindi": "पंद्रह"
+        },
+        {
+          "number": 16,
+          "tangkhul": "thara taruk",
+          "english": "sixteen",
+          "hindi": "सोलह"
+        },
+        {
+          "number": 17,
+          "tangkhul": "thara shini",
+          "english": "seventeen",
+          "hindi": "सत्रह"
+        },
+        {
+          "number": 18,
+          "tangkhul": "thara shet",
+          "english": "eighteen",
+          "hindi": "अठारह"
+        },
+        {
+          "number": 19,
+          "tangkhul": "thara chiko",
+          "english": "nineteen",
+          "hindi": "उन्नीस"
+        },
+        {
+          "number": 20,
+          "tangkhul": "maku",
+          "english": "twenty",
+          "hindi": "बीस"
+        },
+        {
+          "number": 21,
+          "tangkhul": "maku akha",
+          "english": "twenty-one",
+          "hindi": "इक्कीस"
+        },
+        {
+          "number": 22,
+          "tangkhul": "maku khani",
+          "english": "twenty-two",
+          "hindi": "बाईस"
+        },
+        {
+          "number": 23,
+          "tangkhul": "maku kathum",
+          "english": "twenty-three",
+          "hindi": "तेईस"
+        },
+        {
+          "number": 24,
+          "tangkhul": "maku mati",
+          "english": "twenty-four",
+          "hindi": "चौबीस"
+        },
+        {
+          "number": 25,
+          "tangkhul": "maku phanga",
+          "english": "twenty-five",
+          "hindi": "पच्चीस"
+        },
+        {
+          "number": 26,
+          "tangkhul": "maku taruk",
+          "english": "twenty-six",
+          "hindi": "छब्बीस"
+        },
+        {
+          "number": 27,
+          "tangkhul": "maku shini",
+          "english": "twenty-seven",
+          "hindi": "सत्ताईस"
+        },
+        {
+          "number": 28,
+          "tangkhul": "maku shet",
+          "english": "twenty-eight",
+          "hindi": "अट्ठाईस"
+        },
+        {
+          "number": 29,
+          "tangkhul": "maku chiko",
+          "english": "twenty-nine",
+          "hindi": "उनतीस"
+        },
+        {
+          "number": 30,
+          "tangkhul": "thumkui",
+          "english": "thirty",
+          "hindi": "तीस"
+        },
+        {
+          "number": 31,
+          "tangkhul": "thumkui akha",
+          "english": "thirty-one",
+          "hindi": "इकतीस"
+        },
+        {
+          "number": 32,
+          "tangkhul": "thumkui khani",
+          "english": "thirty-two",
+          "hindi": "बत्तीस"
+        },
+        {
+          "number": 33,
+          "tangkhul": "thumkui kathum",
+          "english": "thirty-three",
+          "hindi": "तैंतीस"
+        },
+        {
+          "number": 34,
+          "tangkhul": "thumkui mati",
+          "english": "thirty-four",
+          "hindi": "चौंतीस"
+        },
+        {
+          "number": 35,
+          "tangkhul": "thumkui phanga",
+          "english": "thirty-five",
+          "hindi": "पैंतीस"
+        },
+        {
+          "number": 36,
+          "tangkhul": "thumkui taruk",
+          "english": "thirty-six",
+          "hindi": "छत्तीस"
+        },
+        {
+          "number": 37,
+          "tangkhul": "thumkui shini",
+          "english": "thirty-seven",
+          "hindi": "सैंतीस"
+        },
+        {
+          "number": 38,
+          "tangkhul": "thumkui shet",
+          "english": "thirty-eight",
+          "hindi": "अड़तीस"
+        },
+        {
+          "number": 39,
+          "tangkhul": "thumkui chiko",
+          "english": "thirty-nine",
+          "hindi": "उनतालीस"
+        },
+        {
+          "number": 40,
+          "tangkhul": "hangmati",
+          "english": "forty",
+          "hindi": "चालीस"
+        },
+        {
+          "number": 41,
+          "tangkhul": "hangmati akha",
+          "english": "forty-one",
+          "hindi": "इकतालीस"
+        },
+        {
+          "number": 42,
+          "tangkhul": "hangmati khani",
+          "english": "forty-two",
+          "hindi": "बयालीस"
+        },
+        {
+          "number": 43,
+          "tangkhul": "hangmati kathum",
+          "english": "forty-three",
+          "hindi": "तैंतालीस"
+        },
+        {
+          "number": 44,
+          "tangkhul": "hangmati mati",
+          "english": "forty-four",
+          "hindi": "चौवालीस"
+        },
+        {
+          "number": 45,
+          "tangkhul": "hangmati phanga",
+          "english": "forty-five",
+          "hindi": "पैंतालीस"
+        },
+        {
+          "number": 46,
+          "tangkhul": "hangmati taruk",
+          "english": "forty-six",
+          "hindi": "छियालीस"
+        },
+        {
+          "number": 47,
+          "tangkhul": "hangmati shini",
+          "english": "forty-seven",
+          "hindi": "सैंतालीस"
+        },
+        {
+          "number": 48,
+          "tangkhul": "hangmati shet",
+          "english": "forty-eight",
+          "hindi": "अड़तालीस"
+        },
+        {
+          "number": 49,
+          "tangkhul": "hangmati chiko",
+          "english": "forty-nine",
+          "hindi": "उनचास"
+        },
+        {
+          "number": 50,
+          "tangkhul": "hangphanga",
+          "english": "fifty",
+          "hindi": "पचास"
+        },
+        {
+          "number": 51,
+          "tangkhul": "hangphanga akha",
+          "english": "fifty-one",
+          "hindi": "इक्यावन"
+        },
+        {
+          "number": 52,
+          "tangkhul": "hangphanga khani",
+          "english": "fifty-two",
+          "hindi": "बावन"
+        },
+        {
+          "number": 53,
+          "tangkhul": "hangphanga kathum",
+          "english": "fifty-three",
+          "hindi": "तिरेपन"
+        },
+        {
+          "number": 54,
+          "tangkhul": "hangphanga mati",
+          "english": "fifty-four",
+          "hindi": "चौवन"
+        },
+        {
+          "number": 55,
+          "tangkhul": "hangphanga phanga",
+          "english": "fifty-five",
+          "hindi": "पचपन"
+        },
+        {
+          "number": 56,
+          "tangkhul": "hangphanga taruk",
+          "english": "fifty-six",
+          "hindi": "छप्पन"
+        },
+        {
+          "number": 57,
+          "tangkhul": "hangphanga shini",
+          "english": "fifty-seven",
+          "hindi": "सत्तावन"
+        },
+        {
+          "number": 58,
+          "tangkhul": "hangphanga shet",
+          "english": "fifty-eight",
+          "hindi": "अट्ठावन"
+        },
+        {
+          "number": 59,
+          "tangkhul": "hangphanga chiko",
+          "english": "fifty-nine",
+          "hindi": "उनसठ"
+        },
+        {
+          "number": 60,
+          "tangkhul": "hangtaruk",
+          "english": "sixty",
+          "hindi": "साठ"
+        },
+        {
+          "number": 61,
+          "tangkhul": "hangtaruk akha",
+          "english": "sixty-one",
+          "hindi": "इकसठ"
+        },
+        {
+          "number": 62,
+          "tangkhul": "hangtaruk khani",
+          "english": "sixty-two",
+          "hindi": "बासठ"
+        },
+        {
+          "number": 63,
+          "tangkhul": "hangtaruk kathum",
+          "english": "sixty-three",
+          "hindi": "तिरसठ"
+        },
+        {
+          "number": 64,
+          "tangkhul": "hangtaruk mati",
+          "english": "sixty-four",
+          "hindi": "चौंसठ"
+        },
+        {
+          "number": 65,
+          "tangkhul": "hangtaruk phanga",
+          "english": "sixty-five",
+          "hindi": "पैंसठ"
+        },
+        {
+          "number": 66,
+          "tangkhul": "hangtaruk taruk",
+          "english": "sixty-six",
+          "hindi": "छियासठ"
+        },
+        {
+          "number": 67,
+          "tangkhul": "hangtaruk shini",
+          "english": "sixty-seven",
+          "hindi": "सरसठ"
+        },
+        {
+          "number": 68,
+          "tangkhul": "hangtaruk shet",
+          "english": "sixty-eight",
+          "hindi": "अड़सठ"
+        },
+        {
+          "number": 69,
+          "tangkhul": "hangtaruk chiko",
+          "english": "sixty-nine",
+          "hindi": "उनहत्तर"
+        },
+        {
+          "number": 70,
+          "tangkhul": "hangshini",
+          "english": "seventy",
+          "hindi": "सत्तर"
+        },
+        {
+          "number": 71,
+          "tangkhul": "hangshini akha",
+          "english": "seventy-one",
+          "hindi": "इकहत्तर"
+        },
+        {
+          "number": 72,
+          "tangkhul": "hangshini khani",
+          "english": "seventy-two",
+          "hindi": "बहत्तर"
+        },
+        {
+          "number": 73,
+          "tangkhul": "hangshini kathum",
+          "english": "seventy-three",
+          "hindi": "तिहत्तर"
+        },
+        {
+          "number": 74,
+          "tangkhul": "hangshini mati",
+          "english": "seventy-four",
+          "hindi": "चौहत्तर"
+        },
+        {
+          "number": 75,
+          "tangkhul": "hangshini phanga",
+          "english": "seventy-five",
+          "hindi": "पचहत्तर"
+        },
+        {
+          "number": 76,
+          "tangkhul": "hangshini taruk",
+          "english": "seventy-six",
+          "hindi": "छिहत्तर"
+        },
+        {
+          "number": 77,
+          "tangkhul": "hangshini shini",
+          "english": "seventy-seven",
+          "hindi": "सतहत्तर"
+        },
+        {
+          "number": 78,
+          "tangkhul": "hangshini shet",
+          "english": "seventy-eight",
+          "hindi": "अठहत्तर"
+        },
+        {
+          "number": 79,
+          "tangkhul": "hangshini chiko",
+          "english": "seventy-nine",
+          "hindi": "उनासी"
+        },
+        {
+          "number": 80,
+          "tangkhul": "hangshet",
+          "english": "eighty",
+          "hindi": "अस्सी"
+        },
+        {
+          "number": 81,
+          "tangkhul": "hangshet akha",
+          "english": "eighty-one",
+          "hindi": "इक्यासी"
+        },
+        {
+          "number": 82,
+          "tangkhul": "hangshet khani",
+          "english": "eighty-two",
+          "hindi": "बयासी"
+        },
+        {
+          "number": 83,
+          "tangkhul": "hangshet kathum",
+          "english": "eighty-three",
+          "hindi": "तिरासी"
+        },
+        {
+          "number": 84,
+          "tangkhul": "hangshet mati",
+          "english": "eighty-four",
+          "hindi": "चौरासी"
+        },
+        {
+          "number": 85,
+          "tangkhul": "hangshet phanga",
+          "english": "eighty-five",
+          "hindi": "पचासी"
+        },
+        {
+          "number": 86,
+          "tangkhul": "hangshet taruk",
+          "english": "eighty-six",
+          "hindi": "छियासी"
+        },
+        {
+          "number": 87,
+          "tangkhul": "hangshet shini",
+          "english": "eighty-seven",
+          "hindi": "सत्तासी"
+        },
+        {
+          "number": 88,
+          "tangkhul": "hangshet shet",
+          "english": "eighty-eight",
+          "hindi": "अट्ठासी"
+        },
+        {
+          "number": 89,
+          "tangkhul": "hangshet chiko",
+          "english": "eighty-nine",
+          "hindi": "नवासी"
+        },
+        {
+          "number": 90,
+          "tangkhul": "hangchiko",
+          "english": "ninety",
+          "hindi": "नब्बे"
+        },
+        {
+          "number": 91,
+          "tangkhul": "hangchiko akha",
+          "english": "ninety-one",
+          "hindi": "इक्यानवे"
+        },
+        {
+          "number": 92,
+          "tangkhul": "hangchiko khani",
+          "english": "ninety-two",
+          "hindi": "बानवे"
+        },
+        {
+          "number": 93,
+          "tangkhul": "hangchiko kathum",
+          "english": "ninety-three",
+          "hindi": "तिरानवे"
+        },
+        {
+          "number": 94,
+          "tangkhul": "hangchiko mati",
+          "english": "ninety-four",
+          "hindi": "चौरानवे"
+        },
+        {
+          "number": 95,
+          "tangkhul": "hangchiko phanga",
+          "english": "ninety-five",
+          "hindi": "पंचानवे"
+        },
+        {
+          "number": 96,
+          "tangkhul": "hangchiko taruk",
+          "english": "ninety-six",
+          "hindi": "छियानवे"
+        },
+        {
+          "number": 97,
+          "tangkhul": "hangchiko shini",
+          "english": "ninety-seven",
+          "hindi": "सत्तानवे"
+        },
+        {
+          "number": 98,
+          "tangkhul": "hangchiko shet",
+          "english": "ninety-eight",
+          "hindi": "अट्ठानवे"
+        },
+        {
+          "number": 99,
+          "tangkhul": "hangchiko chiko",
+          "english": "ninety-nine",
+          "hindi": "निन्यानवे"
+        },
+        {
+          "number": 100,
+          "tangkhul": "sha akha",
+          "english": "one hundred",
+          "hindi": "एक सौ"
+        }
+      ],
+      "higher_numbers": [
+        {
+          "number": 200,
+          "tangkhul": "sha khani",
+          "english": "two hundred",
+          "hindi": "दो सौ"
+        },
+        {
+          "number": 300,
+          "tangkhul": "sha kathum",
+          "english": "three hundred",
+          "hindi": "तीन सौ"
+        },
+        {
+          "number": 500,
+          "tangkhul": "sha phanga",
+          "english": "five hundred",
+          "hindi": "पाँच सौ"
+        },
+        {
+          "number": 1000,
+          "tangkhul": "thing akha",
+          "english": "one thousand",
+          "hindi": "एक हज़ार"
+        },
+        {
+          "number": 10000,
+          "tangkhul": "thing thara",
+          "english": "ten thousand",
+          "hindi": "दस हज़ार"
+        },
+        {
+          "number": 100000,
+          "tangkhul": "lakh akha / thing sha akha",
+          "english": "one hundred thousand (one lakh)",
+          "hindi": "एक लाख"
+        }
+      ],
+      "ordinal_numbers": [
+        {
+          "rank": "1st",
+          "tangkhul": "khare / akhare",
+          "english": "first",
+          "hindi": "पहला / प्रथम"
+        },
+        {
+          "rank": "2nd",
+          "tangkhul": "kakhane",
+          "english": "second",
+          "hindi": "दूसरा / द्वितीय"
+        },
+        {
+          "rank": "3rd",
+          "tangkhul": "kathume",
+          "english": "third",
+          "hindi": "तीसरा / तृतीय"
+        },
+        {
+          "rank": "4th",
+          "tangkhul": "matine",
+          "english": "fourth",
+          "hindi": "चौथा / चतुर्थ"
+        },
+        {
+          "rank": "5th",
+          "tangkhul": "phangane",
+          "english": "fifth",
+          "hindi": "पाँचवाँ / पंचम"
+        },
+        {
+          "rank": "6th",
+          "tangkhul": "tarukne",
+          "english": "sixth",
+          "hindi": "छठा"
+        },
+        {
+          "rank": "7th",
+          "tangkhul": "shinine",
+          "english": "seventh",
+          "hindi": "सातवाँ"
+        },
+        {
+          "rank": "8th",
+          "tangkhul": "shetne",
+          "english": "eighth",
+          "hindi": "आठवाँ"
+        },
+        {
+          "rank": "9th",
+          "tangkhul": "chikone",
+          "english": "ninth",
+          "hindi": "नौवाँ"
+        },
+        {
+          "rank": "10th",
+          "tangkhul": "tharane",
+          "english": "tenth",
+          "hindi": "दसवाँ"
+        },
+        {
+          "rank": "20th",
+          "tangkhul": "makune",
+          "english": "twentieth",
+          "hindi": "बीसवाँ"
+        },
+        {
+          "rank": "100th",
+          "tangkhul": "sha akhane",
+          "english": "hundredth",
+          "hindi": "सौवाँ"
+        },
+        {
+          "rank": "Last",
+          "tangkhul": "katam / akha-eina",
+          "english": "last / final",
+          "hindi": "अंतिम / आखिरी"
+        }
+      ],
+      "multiplicative_and_distributive": [
+        {
+          "multiplier": "1x",
+          "tangkhul": "akhana / khat-khat",
+          "english": "once",
+          "hindi": "एक बार"
+        },
+        {
+          "multiplier": "2x",
+          "tangkhul": "khanina",
+          "english": "twice",
+          "hindi": "दो बार"
+        },
+        {
+          "multiplier": "3x",
+          "tangkhul": "kathumna",
+          "english": "thrice",
+          "hindi": "तीन बार"
+        },
+        {
+          "multiplier": "4x",
+          "tangkhul": "matina",
+          "english": "four times",
+          "hindi": "चार बार"
+        },
+        {
+          "multiplier": "5x",
+          "tangkhul": "phangana",
+          "english": "five times",
+          "hindi": "पाँच बार"
+        },
+        {
+          "multiplier": "10x",
+          "tangkhul": "tharana",
+          "english": "ten times",
+          "hindi": "दस बार"
+        },
+        {
+          "multiplier": "100x",
+          "tangkhul": "sha akhana",
+          "english": "hundred times",
+          "hindi": "सौ बार"
+        },
+        {
+          "multiplier": "1 by 1",
+          "tangkhul": "akha-akha",
+          "english": "one by one / individually",
+          "hindi": "एक-एक करके"
+        },
+        {
+          "multiplier": "2 by 2",
+          "tangkhul": "khani-khani",
+          "english": "in pairs / two by two",
+          "hindi": "दो-दो करके / जोड़े में"
+        },
+        {
+          "multiplier": "10 by 10",
+          "tangkhul": "thara-thara",
+          "english": "by tens",
+          "hindi": "दस-दस करके"
+        }
+      ],
+      "fractions": [
+        {
+          "fraction": "1/2",
+          "tangkhul": "tangkha",
+          "english": "half",
+          "hindi": "आधा"
+        },
+        {
+          "fraction": "1/4",
+          "tangkhul": "mati-wui akha / taruknao",
+          "english": "quarter (one fourth)",
+          "hindi": "एक चौथाई / पाव"
+        },
+        {
+          "fraction": "3/4",
+          "tangkhul": "kathum-tangkha",
+          "english": "three quarters",
+          "hindi": "पौन (तीन चौथाई)"
+        },
+        {
+          "fraction": "1",
+          "tangkhul": "mashun / akha-saikora",
+          "english": "whole / complete",
+          "hindi": "पूरा / समूचा"
+        }
+      ],
+      "numeral_classifiers": [
+        {
+          "classifier": "-khao",
+          "usage": "Human beings and social persons",
+          "example_tangkhul": "Mi maku-khao",
+          "example_translation": "Twenty persons / people (बीस व्यक्ति)"
+        },
+        {
+          "classifier": "-khur",
+          "usage": "Animals, cattle, wildlife, and birds",
+          "example_tangkhul": "Simuk kathum-khur",
+          "example_translation": "Three cows / cattle (तीन गाय/पशु)"
+        },
+        {
+          "classifier": "-rong",
+          "usage": "Trees, timber logs, bamboo stalks, and vertical posts",
+          "example_tangkhul": "Thingrong mati-rong",
+          "example_translation": "Four trees (चार पेड़)"
+        },
+        {
+          "classifier": "-pan",
+          "usage": "Flat sheet-like objects: woven shawls, mats, leaves, paper",
+          "example_tangkhul": "Kachon khani-pan",
+          "example_translation": "Two traditional shawls (दो शॉल/चादरें)"
+        },
+        {
+          "classifier": "-kaphung",
+          "usage": "Burdens, shoulder-carried loads, baskets of grain",
+          "example_tangkhul": "Kharai akha-kaphung",
+          "example_translation": "One full basket load (एक टोकरी बोझ)"
+        },
+        {
+          "classifier": "-tara",
+          "usage": "Liquid cups, drink offerings, spring waters",
+          "example_tangkhul": "Khor akha-tara",
+          "example_translation": "One cup of rice beer (एक प्याला पेय)"
+        }
+      ]
+    },
+    "2_calendar_and_time": {
+      "lunar_months": [
+        {
+          "month_number": 1,
+          "tangkhul_name": "Thara",
+          "gregorian_equivalent": "January",
+          "hindi_name": "थरा (जनवरी)",
+          "significance": "Month of bitter mountain frost; elders gather around the hearth to plan terrace repairs and village festivals."
+        },
+        {
+          "month_number": 2,
+          "tangkhul_name": "Khaying",
+          "gregorian_equivalent": "February",
+          "hindi_name": "खायिंग (फ़रवरी)",
+          "significance": "Clearing the hillside forest for jhum plots; burning dry brushwood before the first rains."
+        },
+        {
+          "month_number": 3,
+          "tangkhul_name": "Luira",
+          "gregorian_equivalent": "March",
+          "hindi_name": "लुइरा (मार्च)",
+          "significance": "Sacred seed-sowing festival (Luira Phanit); invocations to the creator for bumper agricultural yields."
+        },
+        {
+          "month_number": 4,
+          "tangkhul_name": "Rongkhun",
+          "gregorian_equivalent": "April",
+          "hindi_name": "रोंगखुन (अप्रैल)",
+          "significance": "Terrace bund weeding; fresh spring showers; wild orchids burst into flower on high oak ridges."
+        },
+        {
+          "month_number": 5,
+          "tangkhul_name": "Kaphang",
+          "gregorian_equivalent": "May",
+          "hindi_name": "कफांग (मई)",
+          "significance": "Flooding the terraces with mountain streams; community transplanting of young paddy seedlings."
+        },
+        {
+          "month_number": 6,
+          "tangkhul_name": "Phara",
+          "gregorian_equivalent": "June",
+          "hindi_name": "फरा (जून)",
+          "significance": "High monsoon downpours; rivers swell; village paths turn into cascading streams."
+        },
+        {
+          "month_number": 7,
+          "tangkhul_name": "Maring",
+          "gregorian_equivalent": "July",
+          "hindi_name": "मारिंग (जुलाई)",
+          "significance": "Midsummer weeding of terrace slopes; trapping river minnows and hill crabs in woven creels."
+        },
+        {
+          "month_number": 8,
+          "tangkhul_name": "Khamahon",
+          "gregorian_equivalent": "August",
+          "hindi_name": "खमाहोन (अगस्त)",
+          "significance": "First green ears of hill corn ripen; roasted maize shared among children and elders by the fire."
+        },
+        {
+          "month_number": 9,
+          "tangkhul_name": "Chumpha",
+          "gregorian_equivalent": "September",
+          "hindi_name": "चुमफा (सितंबर)",
+          "significance": "Chumpha festival; opening the ancestral granary; blessing the first grains of autumn."
+        },
+        {
+          "month_number": 10,
+          "tangkhul_name": "Tara-kachang",
+          "gregorian_equivalent": "October",
+          "hindi_name": "तारा-कचांग (अक्टूबर)",
+          "significance": "Golden terrace harvest month; reapers sing ancient folk ballads (Hao Laa) across the sunlit valley."
+        },
+        {
+          "month_number": 11,
+          "tangkhul_name": "Ngasang",
+          "gregorian_equivalent": "November",
+          "hindi_name": "नगासांग (नवंबर)",
+          "significance": "Threshing and winnowing golden paddy; wedding feasts and clan alliances celebrated."
+        },
+        {
+          "month_number": 12,
+          "tangkhul_name": "Mangkhar",
+          "gregorian_equivalent": "December",
+          "hindi_name": "मांगखार (दिसंबर)",
+          "significance": "Chilly winter winds blow; youth assemble in the Longshim dormitory for storytelling and riddling."
+        }
+      ],
+      "seasons": [
+        {
+          "season": "Spring",
+          "tangkhul": "Phangrei-ngam",
+          "hindi": "वसंत ऋतु",
+          "description": "Wild apple blossoms, emerald slopes, return of songbirds, Luira seed blessing."
+        },
+        {
+          "season": "Monsoon / Rainy Season",
+          "tangkhul": "Zingrot-tharan",
+          "hindi": "वर्षा ऋतु",
+          "description": "Continuous rains, mist-shrouded ridges, flooded rice terraces, thunder and lightning."
+        },
+        {
+          "season": "Autumn",
+          "tangkhul": "Maza-tharan",
+          "hindi": "शरद ऋतु",
+          "description": "Golden rice fields, clear crisp blue skies, harvesting songs, Chumpha ceremonies."
+        },
+        {
+          "season": "Winter",
+          "tangkhul": "Lumkaza / Kaphung-tharan",
+          "hindi": "शीत ऋतु",
+          "description": "Frosty mornings, woodsmoke in villages, warm hearth fires, Longshim oral banter."
+        }
+      ],
+      "day_and_night_divisions": [
+        {
+          "period": "Cock-crow / Dawn",
+          "tangkhul": "Har-kakhon",
+          "hindi": "भोर / मुर्ग़े की पहली बाँग",
+          "approx_time": "04:00 - 05:30 AM"
+        },
+        {
+          "period": "Sunrise",
+          "tangkhul": "Zimik kashok",
+          "hindi": "सूर्योदय",
+          "approx_time": "05:30 - 06:30 AM"
+        },
+        {
+          "period": "Morning",
+          "tangkhul": "Ngathor",
+          "hindi": "सुबह / प्रातःकाल",
+          "approx_time": "06:30 - 11:30 AM"
+        },
+        {
+          "period": "Midday / Noon",
+          "tangkhul": "Ngashun / Zimik kashung",
+          "hindi": "दोपहर / मध्याह्न",
+          "approx_time": "11:30 AM - 01:30 PM"
+        },
+        {
+          "period": "Afternoon",
+          "tangkhul": "Ngashun ngalung",
+          "hindi": "तीसरा पहर / अपराह्न",
+          "approx_time": "01:30 - 04:30 PM"
+        },
+        {
+          "period": "Sunset",
+          "tangkhul": "Zimik katun",
+          "hindi": "सूर्यास्त",
+          "approx_time": "04:30 - 05:30 PM"
+        },
+        {
+          "period": "Return from Terrace Fields",
+          "tangkhul": "Tan-tak-un",
+          "hindi": "खेतों से लौटने का समय",
+          "approx_time": "05:30 - 06:00 PM"
+        },
+        {
+          "period": "Fowls Retiring to Roost",
+          "tangkhul": "Har-kat",
+          "hindi": "पक्षियों के घोंसले में लौटने की बेला",
+          "approx_time": "06:00 - 06:30 PM"
+        },
+        {
+          "period": "Dusk / Twilight",
+          "tangkhul": "Ngazing-shon",
+          "hindi": "गोधूलि / साँझ",
+          "approx_time": "06:30 - 07:30 PM"
+        },
+        {
+          "period": "Youth Dormitory Assembly",
+          "tangkhul": "Long-kat",
+          "hindi": "युवा-गृह में एकत्र होने का समय",
+          "approx_time": "07:30 - 09:30 PM"
+        },
+        {
+          "period": "Midnight",
+          "tangkhul": "Ngaya mashun",
+          "hindi": "मध्यरात्रि / आधी रात",
+          "approx_time": "11:30 PM - 01:30 AM"
+        }
+      ]
+    },
+    "3_traditional_measurements": {
+      "linear_measures": [
+        {
+          "term": "Phei-kanao amik",
+          "meaning_en": "Finger-width",
+          "meaning_hi": "उँगली की चौड़ाई",
+          "usage": "Measuring thickness of woven shawls, cane strips, and arrow shafts."
+        },
+        {
+          "term": "Khashap",
+          "meaning_en": "Hand-span (thumb tip to little finger outstretched)",
+          "meaning_hi": "बित्ता (अंगूठे से कनिष्ठिका तक)",
+          "usage": "Standard unit for measuring pottery diameters, basket depths, and bamboo tubes."
+        },
+        {
+          "term": "Khumpi",
+          "meaning_en": "Cubit (elbow to the tip of the middle finger)",
+          "meaning_hi": "हाथ (कोहनी से मध्यमा उँगली की नोक तक)",
+          "usage": "Measuring woven cloth bolts (kachon) and timber planks."
+        },
+        {
+          "term": "Phei akha-zat",
+          "meaning_en": "Pace / Human Stride",
+          "meaning_hi": "कदम (चलने का एक डग)",
+          "usage": "Measuring boundaries of homestead plots and terrace widths."
+        },
+        {
+          "term": "Khavai",
+          "meaning_en": "Arm-span / Fathom (both arms outstretched horizontally)",
+          "meaning_hi": "बाँस / व्योम (दोनों बाहें फैलाने पर नाप)",
+          "usage": "Measuring rope coils, cane cables for suspension bridges, and house frameworks."
+        }
+      ],
+      "capacity_measures": [
+        {
+          "term": "Kutung akha",
+          "meaning_en": "Single handful",
+          "meaning_hi": "मुट्ठी भर",
+          "usage": "Measuring seasoning salt, wild sesame seeds, and chillies for stew."
+        },
+        {
+          "term": "Kupang akha",
+          "meaning_en": "Double-handful (cupped hands together)",
+          "meaning_hi": "अंजुलि (दोनों हाथों की ओक)",
+          "usage": "Measuring uncooked grain ration per family meal."
+        },
+        {
+          "term": "Pui-thun akha",
+          "meaning_en": "Hollow bamboo joint measure",
+          "meaning_hi": "बाँस के पोर का नाप (चोंगा)",
+          "usage": "Standard market measure for rice beer, yeast, and fermented bamboo shoot."
+        },
+        {
+          "term": "Kharai-kanao",
+          "meaning_en": "Small gathering basket",
+          "meaning_hi": "छोटी खराई टोकरी",
+          "usage": "Gathering crabs, river fish, ginger roots, and mushrooms."
+        },
+        {
+          "term": "Long-pui / Samphung",
+          "meaning_en": "Conical hill harvest basket",
+          "meaning_hi": "बड़ा अन्न टोकरा / खराई",
+          "usage": "Carrying heavy loads of harvested paddy (40-50 kg) from terraces to granaries."
+        }
+      ],
+      "land_measures": [
+        {
+          "concept": "Maza-wui Luira Yield Measure",
+          "description_en": "Land is not calculated in square feet or acres, but in the quantity of paddy baskets it produces annually and the reliable perennial mountain spring waters that irrigate its terraces.",
+          "description_hi": "तंगखुल समाज में ज़मीन को गज़ या एकड़ में नहीं, बल्कि उसमें पैदा होने वाले धान के टोकरों की संख्या और उसमें आने वाले पहाड़ी चश्मे के पानी के आधार पर आंका जाता है।"
+        }
+      ]
+    },
+    "4_kinship_terminology": [
+      {
+        "role": "Grandfather",
+        "tangkhul": "Awo",
+        "hindi": "दादाजी / नानाजी",
+        "category": "Elders"
+      },
+      {
+        "role": "Grandmother",
+        "tangkhul": "Ayi",
+        "hindi": "दादीजी / नानीजी",
+        "category": "Elders"
+      },
+      {
+        "role": "Father",
+        "tangkhul": "Ava",
+        "hindi": "पिताजी / बापू",
+        "category": "Parents"
+      },
+      {
+        "role": "Mother",
+        "tangkhul": "Avo",
+        "hindi": "माताजी / माँ",
+        "category": "Parents"
+      },
+      {
+        "role": "Elder Brother",
+        "tangkhul": "Amei",
+        "hindi": "बड़ा भाई (अग्रज)",
+        "category": "Siblings"
+      },
+      {
+        "role": "Younger Brother",
+        "tangkhul": "Ngarao-mayar",
+        "hindi": "छोटा भाई (अनुज)",
+        "category": "Siblings"
+      },
+      {
+        "role": "Elder Sister",
+        "tangkhul": "Achon",
+        "hindi": "बड़ी बहन (दीदी)",
+        "category": "Siblings"
+      },
+      {
+        "role": "Younger Sister",
+        "tangkhul": "Ngarao-shanao",
+        "hindi": "छोटी बहन",
+        "category": "Siblings"
+      },
+      {
+        "role": "Maternal Uncle",
+        "tangkhul": "Kuku",
+        "hindi": "मामा (पवित्र सम्बंधी)",
+        "category": "Avuncular"
+      },
+      {
+        "role": "Paternal Aunt",
+        "tangkhul": "Ani",
+        "hindi": "बुआ",
+        "category": "Avuncular"
+      },
+      {
+        "role": "Son",
+        "tangkhul": "Naomayar",
+        "hindi": "बेटा / पुत्र",
+        "category": "Children"
+      },
+      {
+        "role": "Daughter",
+        "tangkhul": "Naoshanao",
+        "hindi": "बेटी / पुत्री",
+        "category": "Children"
+      },
+      {
+        "role": "Grandchildren",
+        "tangkhul": "Ashu-anao",
+        "hindi": "पोता-पोती / नाती-नातिन",
+        "category": "Descendants"
+      },
+      {
+        "role": "Husband",
+        "tangkhul": "Mayarnaowo",
+        "hindi": "पति",
+        "category": "Spousal"
+      },
+      {
+        "role": "Wife",
+        "tangkhul": "Shanaowo",
+        "hindi": "पत्नी",
+        "category": "Spousal"
+      },
+      {
+        "role": "Father-in-law",
+        "tangkhul": "Awo-khamarui",
+        "hindi": "ससुर",
+        "category": "Affinal"
+      },
+      {
+        "role": "Mother-in-law",
+        "tangkhul": "Ayi-khamarui",
+        "hindi": "सास",
+        "category": "Affinal"
+      },
+      {
+        "role": "Brother-in-law",
+        "tangkhul": "Amei-khamarui",
+        "hindi": "साला / जीजा / देवर",
+        "category": "Affinal"
+      },
+      {
+        "role": "Clan Chieftain / Head",
+        "tangkhul": "Awunga / Wungnao",
+        "hindi": "ग्राम मुखिया / कुलप्रमुख",
+        "category": "Governance"
+      },
+      {
+        "role": "Clan Council Elder",
+        "tangkhul": "Kharar",
+        "hindi": "कबीलाई बुजुर्ग / सभासद",
+        "category": "Governance"
+      },
+      {
+        "role": "Young Maidens of Village",
+        "tangkhul": "Ngalanaobing",
+        "hindi": "गाँव की युवतियाँ",
+        "category": "Age Groups"
+      },
+      {
+        "role": "Young Warriors of Village",
+        "tangkhul": "Mayarnaobing",
+        "hindi": "गाँव के युवा / योद्धा",
+        "category": "Age Groups"
+      }
+    ],
+    "5_conversational_phrases": [
+      {
+        "id": "CONV-001",
+        "english": "Hello / Greetings!",
+        "tangkhul": "Mahairareo!",
+        "hindi": "नमस्ते / जोहार!",
+        "context": "Traditional mountain greeting called across paths."
+      },
+      {
+        "id": "CONV-002",
+        "english": "Good morning! May peace be upon your morning.",
+        "tangkhul": "Leikhaya ngathor!",
+        "hindi": "शुभ प्रभात!",
+        "context": "Standard morning greeting."
+      },
+      {
+        "id": "CONV-003",
+        "english": "How are you? Are you living in peace?",
+        "tangkhul": "Maringphali khalei?",
+        "hindi": "आप कैसे हैं? / क्या हाल-चाल है?",
+        "context": "Inquiring about well-being."
+      },
+      {
+        "id": "CONV-004",
+        "english": "I am living in peace and good health.",
+        "tangkhul": "I ringphada lei.",
+        "hindi": "मैं बिल्कुल ठीक और सकुशल हूँ।",
+        "context": "Positive reply."
+      },
+      {
+        "id": "CONV-005",
+        "english": "Long time no see! We haven't met for seasons.",
+        "tangkhul": "Makathei sanghairakho!",
+        "hindi": "बहुत दिनों से भेंट नहीं हुई!",
+        "context": "Meeting after long absence."
+      },
+      {
+        "id": "CONV-006",
+        "english": "What is your name, friend?",
+        "tangkhul": "Nali aming khipa ho?",
+        "hindi": "आपका शुभ नाम क्या है?",
+        "context": "Polite introduction."
+      },
+      {
+        "id": "CONV-007",
+        "english": "My name is Somatai.",
+        "tangkhul": "Iwui aming Somatai hoi.",
+        "hindi": "मेरा नाम सोमताई है।",
+        "context": "Stating identity."
+      },
+      {
+        "id": "CONV-008",
+        "english": "Which village do you come from?",
+        "tangkhul": "Na khikha nao khalei?",
+        "hindi": "आप किस गाँव / क्षेत्र से हैं?",
+        "context": "Locating village lineage."
+      },
+      {
+        "id": "CONV-009",
+        "english": "I come from the misty hills of Ukhrul.",
+        "tangkhul": "I Ukhrul wui eina na.",
+        "hindi": "मैं उखरुल की पहाड़ियों से हूँ।",
+        "context": "Expressing origin."
+      },
+      {
+        "id": "CONV-010",
+        "english": "Do you speak the Tangkhul language?",
+        "tangkhul": "Na Tangkhul tui mamatui khalei?",
+        "hindi": "क्या आप तंगखुल भाषा बोलते हैं?",
+        "context": "Linguistic inquiry."
+      },
+      {
+        "id": "CONV-011",
+        "english": "Yes, I speak it fluently / No, I am learning.",
+        "tangkhul": "Mha, I matuiya / Maningmanei, I tuitamda lei.",
+        "hindi": "हाँ, मैं बोलता हूँ / नहीं, मैं अभी सीख रहा हूँ।",
+        "context": "Linguistic competence."
+      },
+      {
+        "id": "CONV-012",
+        "english": "Please come inside to the hearth.",
+        "tangkhul": "Shimlutli ungphunglu.",
+        "hindi": "कृपया घर के भीतर अलाव के पास पधारें।",
+        "context": "Hearthside hospitality invitation."
+      },
+      {
+        "id": "CONV-013",
+        "english": "Have you eaten your meal?",
+        "tangkhul": "Na maphazahaira khalei?",
+        "hindi": "क्या आपने भोजन कर लिया है?",
+        "context": "Traditional host courtesy."
+      },
+      {
+        "id": "CONV-014",
+        "english": "Thank you very deeply from my heart.",
+        "tangkhul": "Ningshinahaire / Ningkachang eina.",
+        "hindi": "आपका हृदय से बहुत-बहुत धन्यवाद।",
+        "context": "Expressing gratitude."
+      },
+      {
+        "id": "CONV-015",
+        "english": "Farewell! Until we meet again on the trail.",
+        "tangkhul": "Samphangnaosei / Kapha eina zallu!",
+        "hindi": "अलविदा! फिर मिलेंगे / यात्रा शुभ हो!",
+        "context": "Parting blessing."
+      },
+      {
+        "id": "CONV-016",
+        "english": "May good dreams watch over your sleep tonight.",
+        "tangkhul": "Mangphameisei!",
+        "hindi": "शुभ रात्रि / सुखद स्वप्न!",
+        "context": "Night blessing."
+      },
+      {
+        "id": "CONV-017",
+        "english": "Where does this mountain path lead?",
+        "tangkhul": "Shongfa hi kachida kazat-la?",
+        "hindi": "यह पहाड़ी पगडंडी कहाँ जाती है?",
+        "context": "Asking trail directions."
+      },
+      {
+        "id": "CONV-018",
+        "english": "It climbs up directly to the summit of Shirui Kashong.",
+        "tangkhul": "Chi Shirui Kashong kaphungli katoh-ya.",
+        "hindi": "यह सीधे शिरुई काशोंग की चोटी पर जाती है।",
+        "context": "Direction guidance."
+      }
+    ]
+  }
+}

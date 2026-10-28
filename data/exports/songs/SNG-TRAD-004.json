@@ -1,0 +1,57 @@
+{
+  "id": "SNG-TRAD-004",
+  "resource_type": "songs",
+  "title": "Haola: Khangrei Laa",
+  "alternate_titles": [
+    "Longshim Courting Song"
+  ],
+  "title_translation": "Youth Dormitory Courting Song",
+  "singer": "Traditional",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Dr. Ringkahao Horam",
+  "performers": [],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "CIIL-HAOLA-002",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Traditional youth courting chant performed during gatherings at the Longshim (traditional youth dormitory).",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Longshimli mi kazipngahei.",
+        "Mayarnaomaya wui won kapha.",
+        "Chitharan thotli leishat pamei."
+      ],
+      "lines_translation": [
+        "The youth assemble at the Longshim dormitory.",
+        "The finest flowers among young men and maidens.",
+        "In that evening circle, true love awakens."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Khangrei laawui khon kaphana kongrei thata.",
+        "Wuklungli kakhanang mapammana.",
+        "Ringkaphawui thot khangatei iramli."
+      ],
+      "lines_translation": [
+        "The courting melody flows sweetly like the mountain stream.",
+        "No grief or heaviness can linger in the heart.",
+        "The radiant joy of our ancestral generation shines bright."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "LIT-CHLD-002",
+  "resource_type": "literature",
+  "title": "Sikui Kala Machun",
+  "title_translation": "The Deer and the Crab",
+  "creator": "TLS Primary Curriculum Committee",
+  "author": "Traditional",
+  "year": 2022,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "children_literature",
+  "work_type": "children_literature",
+  "genres": [
+    "children_literature",
+    "folk_tale"
+  ],
+  "book_id": "BK-TLS-001",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-001-L03",
+  "license": "Educational Use",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-CHLD-002.txt",
+  "notes": "Classic humorous trickster story contrasting the swift deer with the patient, resourceful crab. Published in Class II textbook Wontui Tangkhul.",
+  "indigenous_tangkhul_text": [
+    "Sikui (Deer) na Machun (Crab)-li racing-li challenge sakda, 'Nakhurli pamkaza, iwui speed mashapmana!' hithada tuitsang.",
+    "Machunna clever-laka da Sikuiwui kachei-li khangarom-da finish line-li advance-da phungchan.",
+    "Kacham-kacham mibingna speed-wui matuida clever strategy kala patience-na victory shansangya."
+  ],
+  "english_translation_text": [
+    "The swift Deer (*Sikui*) challenged the slow Crab (*Machun*) to a race, mocking: 'Creeping in the mud, you can never match my stride!'",
+    "Yet the astute crab clung discreetly to the deer's tail, tumbling forward across the finish line first with quiet composure.",
+    "Thus children learn that unbridled pride is outmatched by clever foresight, resourcefulness, and calm patience."
+  ],
+  "literary_themes": [
+    "The classic trickster fable: slow wits versus rapid agility",
+    "Humility and the folly of boastful overconfidence",
+    "Resourceful problem-solving in challenging situations"
+  ],
+  "structure_and_meter": "Short humorous fable with dynamic narrative pacing and dialogue, followed by a pedagogic summary.",
+  "critical_commentary": "Curated in the Class II primary reader Wontui Tangkhul (2022), this story teaches young children that wit and steadiness overcome sheer physical strength.",
+  "poetic_vocabulary_terms": {
+    "Sikui": "The wild barking deer of the mountain forests",
+    "Machun": "The river crab dwelling in rocky mountain streams",
+    "Khangayei": "Clever wit and inventive trickery",
+    "Ringkaphaphong": "Triumphant joy after humble endeavor"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

@@ -1,0 +1,37 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-PROV-008
+TITLE: Proverb on Human Nature: Khare khangatei makhangaza
+TITLE TRANSLATION: Habit is Hard to Alter, Generational Transformation Requires Wisdom
+CATEGORY: proverb | SUBCATEGORY: ethics
+VILLAGE / REGION: Ukhrul | DIALECT: Standard Tangkhul
+CONTRIBUTOR / DOCUMENTATION: Traditional Moral Philosophy (Kasomwoshi 1991)
+PUBLICATION / SOURCE: Hao Tangkhul Chanjam
+SOURCE ID: Kasomwoshi-Chanjam-204
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Original saying: 'Khare khangatei makhangaza, thot khangatei maharmana.' Teaches patience in governance and personal transformation, noting that character reform takes enduring perseverance.
+
+[SEASONAL TIMING & OCCASION]
+Generational education and governance
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Community Leaders
+- Teachers
+- Elders
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+Recited during educational discourses, community leadership guidance, and reform deliberations.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Khare khangatei makhangaza, thot khangatei maharmana.
+
+[ENGLISH TRANSLATION & MEANING]
+To alter an inborn habit is difficult, but to transform an entire generation requires steadfast wisdom.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

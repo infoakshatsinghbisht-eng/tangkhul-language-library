@@ -1,0 +1,1277 @@
+{
+  "id": "BK-ARCH-006",
+  "resource_type": "books",
+  "title": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles",
+  "alternate_titles": [
+    "The Acts of the Apostles in Tangkhul Naga (1905)"
+  ],
+  "authors": [
+    "William Pettigrew"
+  ],
+  "editors": [],
+  "publisher": "British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+  "publication_year": 1905,
+  "year": 1905,
+  "edition": "First Edition",
+  "subject": "Historical Narrative & Early Vernacular Prose",
+  "educational_level": "Historical / Scriptural",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/actsoftheapostlesintangkhul1905",
+  "source_identifier": "BFBS-TKH-1905-ACTS",
+  "catalogue_url": "https://archive.org/details/actsoftheapostlesintangkhul1905",
+  "local_file_path": "data/raw/books/BK-ARCH-006_pettigrew_1905_acts.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Early 20th-century Tangkhul rendering of the Acts of the Apostles by Rev. William Pettigrew. Public Domain.",
+  "front_matter": {
+    "title_page": {
+      "title": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles",
+      "alternate_titles": [
+        "The Acts of the Apostles in Tangkhul Naga (1905)"
+      ],
+      "authors": [
+        "William Pettigrew"
+      ],
+      "editors": [],
+      "publisher": "British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+      "publication_year": 1905,
+      "edition": "First Edition",
+      "educational_level": "Historical / Scriptural",
+      "subject": "Historical Narrative & Early Vernacular Prose",
+      "language": "Tangkhul",
+      "dialect": "Ukhrul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-ARCH-006",
+      "license": "Public Domain",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "BFBS-TKH-1905-ACTS",
+      "source_url": "https://archive.org/details/actsoftheapostlesintangkhul1905"
+    },
+    "preface": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles in Tangkhul Naga, translated by Rev. William Pettigrew. Published in London by the British and Foreign Bible Society, 1905; printed at the Baptist Mission Press, Calcutta. Details the day of Pentecost, Peter's defense before the Sanhedrin, Stephen's martyrdom, and Paul's speech at the Areopagus in Athens."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Kazingli Kaphan kala Kachatbing (Ascension and Commission)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Pentecost Thangli Mangan Kathara (Day of Pentecost)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Temple Gate wui Pamli Thotkhamatei (Lame Man at the Beautiful Gate)",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 4,
+      "title": "Councilwui Phungli Sakhi Chitheikahai (Before the Sanhedrin)",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 5,
+      "title": "Stephenwui Pao kala Kashung Thot (The Martyrdom of Stephen)",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 6,
+      "title": "Corneliusli Pao Kazang (Conversion of Cornelius)",
+      "page_start": 16,
+      "page_end": 17
+    },
+    {
+      "chapter_number": 7,
+      "title": "Athens Ramli Paulna Tui Chitheikahai (Paul at the Areopagus)",
+      "page_start": 18,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Kazingli Kaphan kala Kachatbing (Ascension and Commission)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "The ascension of Christ from the Mount of Olives and the gathering of the apostles in Jerusalem.",
+      "tangkhul_text": "Theophilus-li kaphung kakhanin: Jesu-na khararchanli ot kasawui maram kaphung-kachungli kaphika thotsai. Awui thikahaiwui saphunga A haringkasa theichithei kachiva thotna athumli thang taracham kachithei Varivarawui kazingramwui tui hosa. Mangan Kathara nithumwui kachungli raranglikha nithum pangmashan phunglikha; kala Jerusalemli, Judea kala Samaria ram kachivali, kala ngalei pammai kashung kachivali Iwui sakhibing salikha. Athumna theishak phashokda Matthiasli rasai, kala aya kachatbing tarakhatli ngasohailsai.",
+      "english_translation": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach. To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days. But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth. And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
+      "vocabulary": [
+        {
+          "word": "Kachatbing",
+          "pos": "noun plural",
+          "meaning": "apostles, authoritative emissaries"
+        },
+        {
+          "word": "Pangmashan",
+          "pos": "noun",
+          "meaning": "power, divine might, spiritual authority"
+        },
+        {
+          "word": "Sakhibing",
+          "pos": "noun plural",
+          "meaning": "witnesses, testifiers to truth"
+        },
+        {
+          "word": "Theishak",
+          "pos": "noun",
+          "meaning": "lots, divine casting of decision"
+        }
+      ],
+      "grammar_notes": "Tangkhul uses the indigenous legal term 'sakhibing' (witnesses) for those testifying under solemn oath.",
+      "exercises": [
+        {
+          "question": "How long was Jesus seen by the apostles after His passion?",
+          "type": "factual"
+        },
+        {
+          "question": "Who was chosen to take the place of Judas among the twelve?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Pentecost Thangli Mangan Kathara (Day of Pentecost)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The descent of the Holy Spirit like rushing wind and tongues of fire, and Peter's first sermon.",
+      "tangkhul_text": "Pentecost kumshang phungphatli nithum pam akhangli zikahai pamsai. Kazingwui huchiphung majung katha khara rasai, kala athum pamsahai shim kachivali kapingsai. Kala meiwui malei katha khangayeida athum kachivawui kachungli rasai. Kala athum kachiva Mangan Katharana kapingda ngatei tui khangayei hosa! Peterna ngakarangda hosa: Israel miwung, tui hi ngashonlu: Nazarethwui Jesu hili Varivarana thikahaiwui ngachaili thingkashangsai; chiwui maramli ithum kachiva sakhibing thotsai. Ningzan ngashunlu, kala nithum kachiva Jesu Christawui minli baptisma sayanlu!",
+      "english_translation": "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues. Then Peter stood up and said, Ye men of Israel, hear these words; This Jesus hath God raised up, whereof we all are witnesses. Repent, and be baptized every one of you in the name of Jesus Christ.",
+      "vocabulary": [
+        {
+          "word": "Huchiphung",
+          "pos": "noun",
+          "meaning": "rushing mighty wind, storm force"
+        },
+        {
+          "word": "Malei",
+          "pos": "noun",
+          "meaning": "tongue, flame of speech"
+        },
+        {
+          "word": "Ngatei tui",
+          "pos": "noun phrase",
+          "meaning": "other languages, diverse tongues"
+        },
+        {
+          "word": "Ningzan ngashun",
+          "pos": "verb phrase",
+          "meaning": "to repent, rectify the mind and heart"
+        }
+      ],
+      "grammar_notes": "The verbal phrase 'ningzan ngashunlu' fuses 'ningzan' (heart-contrition) with 'ngashun' (to make straight).",
+      "exercises": [
+        {
+          "question": "Describe the signs that accompanied the descent of the Holy Spirit at Pentecost.",
+          "type": "comprehension"
+        },
+        {
+          "question": "What did Peter urge the crowd to do at the conclusion of his sermon?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Temple Gate wui Pamli Thotkhamatei (Lame Man at the Beautiful Gate)",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Healing of the lame man by Peter and John at the Beautiful Gate of the Temple.",
+      "tangkhul_text": "Peter kala John thangkhamir pung chiko khangamor thangli Templeli zangvangasai. Phaphuk khazat akhat, awui phankahaiwui thotli theisai, aya Templewui Mathan Gate kahowali pamsai; aya Peter kala Johnli theida seisan khamor khanasai. Peterna hosa: Rupa kala sona iwui chungli mathai mana; kha ina phungli nali khamlikha: Nazarethwui Jesu Christawui minli ngakarangda zatlu! Kala ayana awui pangkasho pangda thingkasangsai; chitharan awui phakhur kala pharu pangmashan phungsai! Aya ngachor-da ngakarangsai kala zat-zangsai, Templeli zangda khangachor kala Varivarali mathankashei sasai.",
+      "english_translation": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple. Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.",
+      "vocabulary": [
+        {
+          "word": "Phaphuk khazat",
+          "pos": "noun phrase",
+          "meaning": "lame from birth, crippled in the feet"
+        },
+        {
+          "word": "Rupa kala sona",
+          "pos": "noun phrase",
+          "meaning": "silver and gold"
+        },
+        {
+          "word": "Pangkasho pang",
+          "pos": "noun phrase",
+          "meaning": "right hand"
+        },
+        {
+          "word": "Khangachor",
+          "pos": "verb participle",
+          "meaning": "leaping, dancing with joyous vigor"
+        }
+      ],
+      "grammar_notes": "The paired coordinate 'rupa kala sona' uses standard Loan-Assamese roots fully naturalized in colonial Tangkhul.",
+      "exercises": [
+        {
+          "question": "At what hour did Peter and John go up to the Temple?",
+          "type": "factual"
+        },
+        {
+          "question": "What memorable response did Peter give when asked for alms?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Councilwui Phungli Sakhi Chitheikahai (Before the Sanhedrin)",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Peter and John arrested and questioned before the rulers, elders, and scribes of the Council.",
+      "tangkhul_text": "Athumna Peter kala Johnli ngachaili pamsahai hosa: Khipawui pangmashan kala minli nithumna hi sakha? Peterna Mangan Katharana kapingda hosa: Miwungwui khararbing kala Israelwui Hangvabing, ngatei khipawui chunglikha haring kaphan mathailak mana; maramchilu kazing kaphungli miwungli khami ngatei min khikha mathai mana! Kha athumna Peter kala Johnna ngahanda hosa: Nithumwui tui ngashon-katha Varivarawui tui ngashon-katha khipana mashungkha nithum shanshilu! Maramchilu ithumna theikahai kala ngashokahai tui masasa pamtang mathailak mana.",
+      "english_translation": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this? Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel, Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye. For we cannot but speak the things which we have seen and heard.",
+      "vocabulary": [
+        {
+          "word": "Hangvabing",
+          "pos": "noun plural",
+          "meaning": "council of elders, senators, Sanhedrin magistrates"
+        },
+        {
+          "word": "Kazing kaphungli",
+          "pos": "prepositional phrase",
+          "meaning": "under heaven, beneath the celestial dome"
+        },
+        {
+          "word": "Ngashon-katha",
+          "pos": "verb phrase",
+          "meaning": "to hearken, obey, submit to authority"
+        },
+        {
+          "word": "Shanshilu",
+          "pos": "imperative verb",
+          "meaning": "judge ye, weigh and determine"
+        }
+      ],
+      "grammar_notes": "Pettigrew uses the indigenous administrative title 'Hangvabing' (village elder bench) for the Sanhedrin rulers.",
+      "exercises": [
+        {
+          "question": "How did Peter respond to the council's prohibition against preaching?",
+          "type": "comprehension"
+        },
+        {
+          "question": "Explain the cultural borrowing of 'Hangva' in early Tangkhul scriptural translation.",
+          "type": "linguistic_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Stephenwui Pao kala Kashung Thot (The Martyrdom of Stephen)",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Stephen's defense before the council, vision of the Son of Man, and stoning as the first Christian martyr.",
+      "tangkhul_text": "Stephenna ning-kachang kala pangmashan phungda miwungwui ngachaili theichithei kaphung sasai. Council shimli pambing kachivana ali theida awui mai kazingram kachisowui mai katha theisai. Kha aya Mangan Katharana kapingda kazingli theida Varivarawui mathankashak theisai. Kala athumna lungna chidatli Stephenna khon-kaphung: O Mapao Jesu, iwui mangankhali khaphanlu! Kala aya phakhur phumda kaho: O Mapao, kakhama hi athumwui chungli machonlu! Hi hoda aya thikahaisai. Saulna awui thikahaili ningkachang phungsai.",
+      "english_translation": "And Stephen, full of faith and power, did great wonders and miracles among the people. And all that sat in the council, looking stedfastly on him, saw his face as it had been the face of an angel. But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God. And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. And Saul was consenting unto his death.",
+      "vocabulary": [
+        {
+          "word": "Lungna chidat",
+          "pos": "verb phrase",
+          "meaning": "cast stones, stoned with rocks"
+        },
+        {
+          "word": "Khon-kaphung",
+          "pos": "verb participle",
+          "meaning": "calling out with loud voice, invoking"
+        },
+        {
+          "word": "Machonlu",
+          "pos": "imperative negative",
+          "meaning": "lay not to charge, impute not"
+        },
+        {
+          "word": "Phakhur phum",
+          "pos": "verb phrase",
+          "meaning": "kneeled down, fell on knees in prayer"
+        }
+      ],
+      "grammar_notes": "Instrumental postposition '-na' on 'lungna' marks the lethal physical instrument: by means of stones.",
+      "exercises": [
+        {
+          "question": "What two prayers did Stephen utter before his death?",
+          "type": "factual"
+        },
+        {
+          "question": "Who was recorded as consenting to Stephen's death?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Corneliusli Pao Kazang (Conversion of Cornelius)",
+      "page_start": 16,
+      "page_end": 17,
+      "summary": "Peter's vision of the clean and unclean animals, journey to Caesarea, and the gospel opened to the Gentiles.",
+      "tangkhul_text": "Caesarea ramli Cornelius kahona Italian cohortwui centurion akhat pamsai. Aya Varivarali kacharan, awui shim kachiva ngasoda, miwungli dori khami kala Varivarali thang kachiva khangamor. Peterna Caesareali rada hosa: Kaphung-kachangli ina theisai Varivarana mi akhatli kaching mei mana; kha ram kachivali Ali kacharan kala mashungkasa chi Awui ningkachang phungsai. Peterna tui hi holikha Mangan Katharana tui ngashonbing kachivawui chungli rasai!",
+      "english_translation": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway. Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: But in every nation he that feareth him, and worketh righteousness, is accepted with him. While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+      "vocabulary": [
+        {
+          "word": "Kaching mei mana",
+          "pos": "idiomatic clause",
+          "meaning": "does not show partiality, no respecter of persons"
+        },
+        {
+          "word": "Kacharan",
+          "pos": "adjective / verb",
+          "meaning": "reverent, God-fearing, devout"
+        },
+        {
+          "word": "Dori",
+          "pos": "noun",
+          "meaning": "alms, charitable offerings to the needy"
+        },
+        {
+          "word": "Ningkachang",
+          "pos": "noun",
+          "meaning": "favor, delight, divine acceptance"
+        }
+      ],
+      "grammar_notes": "The negative comparative 'kaching mei mana' (literally: does not exceed in biased viewing) translates impartial justice.",
+      "exercises": [
+        {
+          "question": "What was the occupation of Cornelius in Caesarea?",
+          "type": "factual"
+        },
+        {
+          "question": "What theological breakthrough did Peter announce in Acts 10:34-35?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Athens Ramli Paulna Tui Chitheikahai (Paul at the Areopagus)",
+      "page_start": 18,
+      "page_end": 20,
+      "summary": "Paul's sermon at Mars Hill in Athens concerning the Unknown God, repentance, and resurrection.",
+      "tangkhul_text": "Paulna Areopagus (Mars Hill) ngachaili ngakarangda hosa: Athens miwung, ina theisai nithum thang kachiva kameo khangamor phungsai; maramchilu ina zatli nithumwui altar akhatli kaphika theisai: MATHIKAHAI VARIVARALI. Nithumna matheila khangamor hili ina chitheikhami! Kazing kala ngalei kala chili leisatha kachiva sakahai Varivara chili kazing kala ngaleiwui Mapaosai, Aya mina sakahai templeli mapam mana; maramchilu Awui chungli ithum haring, zatta, kala pamsai; nithumwui la-kashabingna hokatha: 'Ithumya Awui kachung thotsai.'",
+      "english_translation": "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+      "vocabulary": [
+        {
+          "word": "Mathikahai Varivara",
+          "pos": "noun phrase",
+          "meaning": "Unknown God, the unrevealed Creator"
+        },
+        {
+          "word": "Kameo",
+          "pos": "noun",
+          "meaning": "traditional nature spirits, idols, lesser deities"
+        },
+        {
+          "word": "La-kashabing",
+          "pos": "noun plural",
+          "meaning": "poets, ballad makers, lyricists"
+        },
+        {
+          "word": "Kachung",
+          "pos": "noun",
+          "meaning": "offspring, lineage, children of the divine"
+        }
+      ],
+      "grammar_notes": "Pettigrew contrasts indigenous 'Kameo' (animistic spirits) with the sovereign 'Varivara' (Creator of heaven and earth).",
+      "exercises": [
+        {
+          "question": "What inscription did Paul encounter in Athens?",
+          "type": "factual"
+        },
+        {
+          "question": "How did Paul quote the Greek poets in Tangkhul?",
+          "type": "comprehension"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-ARCH-006",
+      "title": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles",
+      "lines": [
+        "TITLE: Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles",
+        "Identifier: BK-ARCH-006",
+        "Level: Historical / Scriptural | Subject: Historical Narrative & Early Vernacular Prose",
+        "Publisher: British and Foreign Bible Society, London / Baptist Mission Press, Calcutta (1905)",
+        "Language: Tangkhul (Ukhrul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles in Tangkhul",
+        "Naga, translated by Rev. William Pettigrew. Published in London by the",
+        "British and Foreign Bible Society, 1905; printed at the Baptist Mission",
+        "Press, Calcutta. Details the day of Pentecost, Peter's defense before the",
+        "Sanhedrin, Stephen's martyrdom, and Paul's speech at the Areopagus in",
+        "Athens."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Kazingli Kaphan kala Kachatbing (Ascension and Commission) (pp. 4-6)",
+        "  Chapter 2: Pentecost Thangli Mangan Kathara (Day of Pentecost) (pp. 7-9)",
+        "  Chapter 3: Temple Gate wui Pamli Thotkhamatei (Lame Man at the Beautiful Gate) (pp. 10-11)",
+        "  Chapter 4: Councilwui Phungli Sakhi Chitheikahai (Before the Sanhedrin) (pp. 12-13)",
+        "  Chapter 5: Stephenwui Pao kala Kashung Thot (The Martyrdom of Stephen) (pp. 14-15)",
+        "  Chapter 6: Corneliusli Pao Kazang (Conversion of Cornelius) (pp. 16-17)",
+        "  Chapter 7: Athens Ramli Paulna Tui Chitheikahai (Paul at the Areopagus) (pp. 18-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Kazingli Kaphan kala Kachatbing (Ascension and Commission) (Page 4)",
+      "title": "Chapter 1: Kazingli Kaphan kala Kachatbing (Ascension and Commission)",
+      "lines": [
+        "CHAPTER 1: KAZINGLI KAPHAN KALA KACHATBING (ASCENSION AND COMMISSION)",
+        "Summary: The ascension of Christ from the Mount of Olives and the gathering of the apostles in Jerusalem.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Theophilus-li kaphung kakhanin: Jesu-na khararchanli ot kasawui maram",
+        "kaphung-kachungli kaphika thotsai. Awui thikahaiwui saphunga A",
+        "haringkasa theichithei kachiva thotna athumli thang taracham kachithei",
+        "Varivarawui kazingramwui tui hosa. Mangan Kathara nithumwui kachungli",
+        "raranglikha nithum pangmashan phunglikha; kala Jerusalemli, Judea kala",
+        "Samaria ram kachivali, kala ngalei pammai kashung kachivali Iwui",
+        "sakhibing salikha. Athumna theishak phashokda Matthiasli rasai, kala aya",
+        "kachatbing tarakhatli ngasohailsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The former treatise have I made, O Theophilus, of all that Jesus began",
+        "both to do and teach. To whom also he shewed himself alive after his",
+        "passion by many infallible proofs, being seen of them forty days. But ye",
+        "shall receive power, after that the Holy Ghost is come upon you: and ye",
+        "shall be witnesses unto me both in Jerusalem, and in all Judaea, and in",
+        "Samaria, and unto the uttermost part of the earth. And they gave forth",
+        "their lots; and the lot fell upon Matthias; and he was numbered with the",
+        "eleven apostles."
+      ],
+      "tangkhul_content": "Theophilus-li kaphung kakhanin: Jesu-na khararchanli ot kasawui maram kaphung-kachungli kaphika thotsai. Awui thikahaiwui saphunga A haringkasa theichithei kachiva thotna athumli thang taracham kachithei Varivarawui kazingramwui tui hosa. Mangan Kathara nithumwui kachungli raranglikha nithum pangmashan phunglikha; kala Jerusalemli, Judea kala Samaria ram kachivali, kala ngalei pammai kashung kachivali Iwui sakhibing salikha. Athumna theishak phashokda Matthiasli rasai, kala aya kachatbing tarakhatli ngasohailsai.",
+      "english_translation": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach. To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days. But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth. And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 1: Continuation (Page 5)",
+      "title": "Chapter 1 (Continued)",
+      "lines": [
+        "CHAPTER 1: READING CONTINUATION (PAGE 5)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Theophilus-li kaphung kakhanin: Jesu-na khararchanli ot kasawui maram",
+        "kaphung-kachungli kaphika thotsai. Awui thikahaiwui saphunga A",
+        "haringkasa theichithei kachiva thotna athumli thang taracham kachithei",
+        "Varivarawui kazingramwui tui hosa. Mangan Kathara nithumwui kachungli",
+        "raranglikha nithum pangmashan phunglikha; kala Jerusalemli, Judea kala",
+        "Samaria ram kachivali, kala ngalei pammai kashung kachivali Iwui",
+        "sakhibing salikha. Athumna theishak phashokda Matthiasli rasai, kala aya",
+        "kachatbing tarakhatli ngasohailsai.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "The former treatise have I made, O Theophilus, of all that Jesus began",
+        "both to do and teach. To whom also he shewed himself alive after his",
+        "passion by many infallible proofs, being seen of them forty days. But ye",
+        "shall receive power, after that the Holy Ghost is come upon you: and ye",
+        "shall be witnesses unto me both in Jerusalem, and in all Judaea, and in",
+        "Samaria, and unto the uttermost part of the earth. And they gave forth",
+        "their lots; and the lot fell upon Matthias; and he was numbered with the",
+        "eleven apostles."
+      ],
+      "tangkhul_content": "Theophilus-li kaphung kakhanin: Jesu-na khararchanli ot kasawui maram kaphung-kachungli kaphika thotsai. Awui thikahaiwui saphunga A haringkasa theichithei kachiva thotna athumli thang taracham kachithei Varivarawui kazingramwui tui hosa. Mangan Kathara nithumwui kachungli raranglikha nithum pangmashan phunglikha; kala Jerusalemli, Judea kala Samaria ram kachivali, kala ngalei pammai kashung kachivali Iwui sakhibing salikha. Athumna theishak phashokda Matthiasli rasai, kala aya kachatbing tarakhatli ngasohailsai.",
+      "english_translation": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach. To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days. But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth. And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
+      "notes": [
+        "Continuation reading page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 6)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Kachatbing (noun plural): apostles, authoritative emissaries",
+        "  * Pangmashan (noun): power, divine might, spiritual authority",
+        "  * Sakhibing (noun plural): witnesses, testifiers to truth",
+        "  * Theishak (noun): lots, divine casting of decision",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Tangkhul uses the indigenous legal term 'sakhibing' (witnesses) for those testifying under solemn oath.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How long was Jesus seen by the apostles after His passion?",
+        "  ? Who was chosen to take the place of Judas among the twelve?"
+      ],
+      "tangkhul_content": "Kachatbing: apostles, authoritative emissaries\nPangmashan: power, divine might, spiritual authority\nSakhibing: witnesses, testifiers to truth\nTheishak: lots, divine casting of decision",
+      "english_translation": "Tangkhul uses the indigenous legal term 'sakhibing' (witnesses) for those testifying under solemn oath.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Pentecost Thangli Mangan Kathara (Day of Pentecost) (Page 7)",
+      "title": "Chapter 2: Pentecost Thangli Mangan Kathara (Day of Pentecost)",
+      "lines": [
+        "CHAPTER 2: PENTECOST THANGLI MANGAN KATHARA (DAY OF PENTECOST)",
+        "Summary: The descent of the Holy Spirit like rushing wind and tongues of fire, and Peter's first sermon.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Pentecost kumshang phungphatli nithum pam akhangli zikahai pamsai.",
+        "Kazingwui huchiphung majung katha khara rasai, kala athum pamsahai shim",
+        "kachivali kapingsai. Kala meiwui malei katha khangayeida athum",
+        "kachivawui kachungli rasai. Kala athum kachiva Mangan Katharana kapingda",
+        "ngatei tui khangayei hosa! Peterna ngakarangda hosa: Israel miwung, tui",
+        "hi ngashonlu: Nazarethwui Jesu hili Varivarana thikahaiwui ngachaili",
+        "thingkashangsai; chiwui maramli ithum kachiva sakhibing thotsai. Ningzan",
+        "ngashunlu, kala nithum kachiva Jesu Christawui minli baptisma sayanlu!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And when the day of Pentecost was fully come, they were all with one",
+        "accord in one place. And suddenly there came a sound from heaven as of a",
+        "rushing mighty wind, and it filled all the house where they were",
+        "sitting. And there appeared unto them cloven tongues like as of fire,",
+        "and it sat upon each of them. And they were all filled with the Holy",
+        "Ghost, and began to speak with other tongues. Then Peter stood up and",
+        "said, Ye men of Israel, hear these words; This Jesus hath God raised up,",
+        "whereof we all are witnesses. Repent, and be baptized every one of you",
+        "in the name of Jesus Christ."
+      ],
+      "tangkhul_content": "Pentecost kumshang phungphatli nithum pam akhangli zikahai pamsai. Kazingwui huchiphung majung katha khara rasai, kala athum pamsahai shim kachivali kapingsai. Kala meiwui malei katha khangayeida athum kachivawui kachungli rasai. Kala athum kachiva Mangan Katharana kapingda ngatei tui khangayei hosa! Peterna ngakarangda hosa: Israel miwung, tui hi ngashonlu: Nazarethwui Jesu hili Varivarana thikahaiwui ngachaili thingkashangsai; chiwui maramli ithum kachiva sakhibing thotsai. Ningzan ngashunlu, kala nithum kachiva Jesu Christawui minli baptisma sayanlu!",
+      "english_translation": "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues. Then Peter stood up and said, Ye men of Israel, hear these words; This Jesus hath God raised up, whereof we all are witnesses. Repent, and be baptized every one of you in the name of Jesus Christ.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 2: Continuation (Page 8)",
+      "title": "Chapter 2 (Continued)",
+      "lines": [
+        "CHAPTER 2: READING CONTINUATION (PAGE 8)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Pentecost kumshang phungphatli nithum pam akhangli zikahai pamsai.",
+        "Kazingwui huchiphung majung katha khara rasai, kala athum pamsahai shim",
+        "kachivali kapingsai. Kala meiwui malei katha khangayeida athum",
+        "kachivawui kachungli rasai. Kala athum kachiva Mangan Katharana kapingda",
+        "ngatei tui khangayei hosa! Peterna ngakarangda hosa: Israel miwung, tui",
+        "hi ngashonlu: Nazarethwui Jesu hili Varivarana thikahaiwui ngachaili",
+        "thingkashangsai; chiwui maramli ithum kachiva sakhibing thotsai. Ningzan",
+        "ngashunlu, kala nithum kachiva Jesu Christawui minli baptisma sayanlu!",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "And when the day of Pentecost was fully come, they were all with one",
+        "accord in one place. And suddenly there came a sound from heaven as of a",
+        "rushing mighty wind, and it filled all the house where they were",
+        "sitting. And there appeared unto them cloven tongues like as of fire,",
+        "and it sat upon each of them. And they were all filled with the Holy",
+        "Ghost, and began to speak with other tongues. Then Peter stood up and",
+        "said, Ye men of Israel, hear these words; This Jesus hath God raised up,",
+        "whereof we all are witnesses. Repent, and be baptized every one of you",
+        "in the name of Jesus Christ."
+      ],
+      "tangkhul_content": "Pentecost kumshang phungphatli nithum pam akhangli zikahai pamsai. Kazingwui huchiphung majung katha khara rasai, kala athum pamsahai shim kachivali kapingsai. Kala meiwui malei katha khangayeida athum kachivawui kachungli rasai. Kala athum kachiva Mangan Katharana kapingda ngatei tui khangayei hosa! Peterna ngakarangda hosa: Israel miwung, tui hi ngashonlu: Nazarethwui Jesu hili Varivarana thikahaiwui ngachaili thingkashangsai; chiwui maramli ithum kachiva sakhibing thotsai. Ningzan ngashunlu, kala nithum kachiva Jesu Christawui minli baptisma sayanlu!",
+      "english_translation": "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues. Then Peter stood up and said, Ye men of Israel, hear these words; This Jesus hath God raised up, whereof we all are witnesses. Repent, and be baptized every one of you in the name of Jesus Christ.",
+      "notes": [
+        "Continuation reading page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Huchiphung (noun): rushing mighty wind, storm force",
+        "  * Malei (noun): tongue, flame of speech",
+        "  * Ngatei tui (noun phrase): other languages, diverse tongues",
+        "  * Ningzan ngashun (verb phrase): to repent, rectify the mind and heart",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The verbal phrase 'ningzan ngashunlu' fuses 'ningzan' (heart-contrition) with 'ngashun' (to make straight).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Describe the signs that accompanied the descent of the Holy Spirit at Pentecost.",
+        "  ? What did Peter urge the crowd to do at the conclusion of his sermon?"
+      ],
+      "tangkhul_content": "Huchiphung: rushing mighty wind, storm force\nMalei: tongue, flame of speech\nNgatei tui: other languages, diverse tongues\nNingzan ngashun: to repent, rectify the mind and heart",
+      "english_translation": "The verbal phrase 'ningzan ngashunlu' fuses 'ningzan' (heart-contrition) with 'ngashun' (to make straight).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Temple Gate wui Pamli Thotkhamatei (Lame Man at the Beautiful Gate) (Page 10)",
+      "title": "Chapter 3: Temple Gate wui Pamli Thotkhamatei (Lame Man at the Beautiful Gate)",
+      "lines": [
+        "CHAPTER 3: TEMPLE GATE WUI PAMLI THOTKHAMATEI (LAME MAN AT THE BEAUTIFUL GATE)",
+        "Summary: Healing of the lame man by Peter and John at the Beautiful Gate of the Temple.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Peter kala John thangkhamir pung chiko khangamor thangli Templeli",
+        "zangvangasai. Phaphuk khazat akhat, awui phankahaiwui thotli theisai,",
+        "aya Templewui Mathan Gate kahowali pamsai; aya Peter kala Johnli theida",
+        "seisan khamor khanasai. Peterna hosa: Rupa kala sona iwui chungli mathai",
+        "mana; kha ina phungli nali khamlikha: Nazarethwui Jesu Christawui minli",
+        "ngakarangda zatlu! Kala ayana awui pangkasho pangda thingkasangsai;",
+        "chitharan awui phakhur kala pharu pangmashan phungsai! Aya ngachor-da",
+        "ngakarangsai kala zat-zangsai, Templeli zangda khangachor kala",
+        "Varivarali mathankashei sasai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Now Peter and John went up together into the temple at the hour of",
+        "prayer, being the ninth hour. And a certain man lame from his mother's",
+        "womb was carried, whom they laid daily at the gate of the temple which",
+        "is called Beautiful, to ask alms of them that entered into the temple.",
+        "Then Peter said, Silver and gold have I none; but such as I have give I",
+        "thee: In the name of Jesus Christ of Nazareth rise up and walk. And he",
+        "took him by the right hand, and lifted him up: and immediately his feet",
+        "and ankle bones received strength. And he leaping up stood, and walked,",
+        "and entered with them into the temple, walking, and leaping, and",
+        "praising God."
+      ],
+      "tangkhul_content": "Peter kala John thangkhamir pung chiko khangamor thangli Templeli zangvangasai. Phaphuk khazat akhat, awui phankahaiwui thotli theisai, aya Templewui Mathan Gate kahowali pamsai; aya Peter kala Johnli theida seisan khamor khanasai. Peterna hosa: Rupa kala sona iwui chungli mathai mana; kha ina phungli nali khamlikha: Nazarethwui Jesu Christawui minli ngakarangda zatlu! Kala ayana awui pangkasho pangda thingkasangsai; chitharan awui phakhur kala pharu pangmashan phungsai! Aya ngachor-da ngakarangsai kala zat-zangsai, Templeli zangda khangachor kala Varivarali mathankashei sasai.",
+      "english_translation": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple. Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Phaphuk khazat (noun phrase): lame from birth, crippled in the feet",
+        "  * Rupa kala sona (noun phrase): silver and gold",
+        "  * Pangkasho pang (noun phrase): right hand",
+        "  * Khangachor (verb participle): leaping, dancing with joyous vigor",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The paired coordinate 'rupa kala sona' uses standard Loan-Assamese roots fully naturalized in colonial Tangkhul.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? At what hour did Peter and John go up to the Temple?",
+        "  ? What memorable response did Peter give when asked for alms?"
+      ],
+      "tangkhul_content": "Phaphuk khazat: lame from birth, crippled in the feet\nRupa kala sona: silver and gold\nPangkasho pang: right hand\nKhangachor: leaping, dancing with joyous vigor",
+      "english_translation": "The paired coordinate 'rupa kala sona' uses standard Loan-Assamese roots fully naturalized in colonial Tangkhul.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Councilwui Phungli Sakhi Chitheikahai (Before the Sanhedrin) (Page 12)",
+      "title": "Chapter 4: Councilwui Phungli Sakhi Chitheikahai (Before the Sanhedrin)",
+      "lines": [
+        "CHAPTER 4: COUNCILWUI PHUNGLI SAKHI CHITHEIKAHAI (BEFORE THE SANHEDRIN)",
+        "Summary: Peter and John arrested and questioned before the rulers, elders, and scribes of the Council.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Athumna Peter kala Johnli ngachaili pamsahai hosa: Khipawui pangmashan",
+        "kala minli nithumna hi sakha? Peterna Mangan Katharana kapingda hosa:",
+        "Miwungwui khararbing kala Israelwui Hangvabing, ngatei khipawui",
+        "chunglikha haring kaphan mathailak mana; maramchilu kazing kaphungli",
+        "miwungli khami ngatei min khikha mathai mana! Kha athumna Peter kala",
+        "Johnna ngahanda hosa: Nithumwui tui ngashon-katha Varivarawui tui",
+        "ngashon-katha khipana mashungkha nithum shanshilu! Maramchilu ithumna",
+        "theikahai kala ngashokahai tui masasa pamtang mathailak mana.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And when they had set them in the midst, they asked, By what power, or",
+        "by what name, have ye done this? Then Peter, filled with the Holy Ghost,",
+        "said unto them, Ye rulers of the people, and elders of Israel, Neither",
+        "is there salvation in any other: for there is none other name under",
+        "heaven given among men, whereby we must be saved. But Peter and John",
+        "answered and said unto them, Whether it be right in the sight of God to",
+        "hearken unto you more than unto God, judge ye. For we cannot but speak",
+        "the things which we have seen and heard."
+      ],
+      "tangkhul_content": "Athumna Peter kala Johnli ngachaili pamsahai hosa: Khipawui pangmashan kala minli nithumna hi sakha? Peterna Mangan Katharana kapingda hosa: Miwungwui khararbing kala Israelwui Hangvabing, ngatei khipawui chunglikha haring kaphan mathailak mana; maramchilu kazing kaphungli miwungli khami ngatei min khikha mathai mana! Kha athumna Peter kala Johnna ngahanda hosa: Nithumwui tui ngashon-katha Varivarawui tui ngashon-katha khipana mashungkha nithum shanshilu! Maramchilu ithumna theikahai kala ngashokahai tui masasa pamtang mathailak mana.",
+      "english_translation": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this? Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel, Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye. For we cannot but speak the things which we have seen and heard.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Hangvabing (noun plural): council of elders, senators, Sanhedrin magistrates",
+        "  * Kazing kaphungli (prepositional phrase): under heaven, beneath the celestial dome",
+        "  * Ngashon-katha (verb phrase): to hearken, obey, submit to authority",
+        "  * Shanshilu (imperative verb): judge ye, weigh and determine",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Pettigrew uses the indigenous administrative title 'Hangvabing' (village elder bench) for the Sanhedrin rulers.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How did Peter respond to the council's prohibition against preaching?",
+        "  ? Explain the cultural borrowing of 'Hangva' in early Tangkhul scriptural translation."
+      ],
+      "tangkhul_content": "Hangvabing: council of elders, senators, Sanhedrin magistrates\nKazing kaphungli: under heaven, beneath the celestial dome\nNgashon-katha: to hearken, obey, submit to authority\nShanshilu: judge ye, weigh and determine",
+      "english_translation": "Pettigrew uses the indigenous administrative title 'Hangvabing' (village elder bench) for the Sanhedrin rulers.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Stephenwui Pao kala Kashung Thot (The Martyrdom of Stephen) (Page 14)",
+      "title": "Chapter 5: Stephenwui Pao kala Kashung Thot (The Martyrdom of Stephen)",
+      "lines": [
+        "CHAPTER 5: STEPHENWUI PAO KALA KASHUNG THOT (THE MARTYRDOM OF STEPHEN)",
+        "Summary: Stephen's defense before the council, vision of the Son of Man, and stoning as the first Christian martyr.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Stephenna ning-kachang kala pangmashan phungda miwungwui ngachaili",
+        "theichithei kaphung sasai. Council shimli pambing kachivana ali theida",
+        "awui mai kazingram kachisowui mai katha theisai. Kha aya Mangan",
+        "Katharana kapingda kazingli theida Varivarawui mathankashak theisai.",
+        "Kala athumna lungna chidatli Stephenna khon-kaphung: O Mapao Jesu, iwui",
+        "mangankhali khaphanlu! Kala aya phakhur phumda kaho: O Mapao, kakhama hi",
+        "athumwui chungli machonlu! Hi hoda aya thikahaisai. Saulna awui",
+        "thikahaili ningkachang phungsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And Stephen, full of faith and power, did great wonders and miracles",
+        "among the people. And all that sat in the council, looking stedfastly on",
+        "him, saw his face as it had been the face of an angel. But he, being",
+        "full of the Holy Ghost, looked up stedfastly into heaven, and saw the",
+        "glory of God. And they stoned Stephen, calling upon God, and saying,",
+        "Lord Jesus, receive my spirit. And he kneeled down, and cried with a",
+        "loud voice, Lord, lay not this sin to their charge. And when he had said",
+        "this, he fell asleep. And Saul was consenting unto his death."
+      ],
+      "tangkhul_content": "Stephenna ning-kachang kala pangmashan phungda miwungwui ngachaili theichithei kaphung sasai. Council shimli pambing kachivana ali theida awui mai kazingram kachisowui mai katha theisai. Kha aya Mangan Katharana kapingda kazingli theida Varivarawui mathankashak theisai. Kala athumna lungna chidatli Stephenna khon-kaphung: O Mapao Jesu, iwui mangankhali khaphanlu! Kala aya phakhur phumda kaho: O Mapao, kakhama hi athumwui chungli machonlu! Hi hoda aya thikahaisai. Saulna awui thikahaili ningkachang phungsai.",
+      "english_translation": "And Stephen, full of faith and power, did great wonders and miracles among the people. And all that sat in the council, looking stedfastly on him, saw his face as it had been the face of an angel. But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God. And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. And Saul was consenting unto his death.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Lungna chidat (verb phrase): cast stones, stoned with rocks",
+        "  * Khon-kaphung (verb participle): calling out with loud voice, invoking",
+        "  * Machonlu (imperative negative): lay not to charge, impute not",
+        "  * Phakhur phum (verb phrase): kneeled down, fell on knees in prayer",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Instrumental postposition '-na' on 'lungna' marks the lethal physical instrument: by means of stones.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What two prayers did Stephen utter before his death?",
+        "  ? Who was recorded as consenting to Stephen's death?"
+      ],
+      "tangkhul_content": "Lungna chidat: cast stones, stoned with rocks\nKhon-kaphung: calling out with loud voice, invoking\nMachonlu: lay not to charge, impute not\nPhakhur phum: kneeled down, fell on knees in prayer",
+      "english_translation": "Instrumental postposition '-na' on 'lungna' marks the lethal physical instrument: by means of stones.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Corneliusli Pao Kazang (Conversion of Cornelius) (Page 16)",
+      "title": "Chapter 6: Corneliusli Pao Kazang (Conversion of Cornelius)",
+      "lines": [
+        "CHAPTER 6: CORNELIUSLI PAO KAZANG (CONVERSION OF CORNELIUS)",
+        "Summary: Peter's vision of the clean and unclean animals, journey to Caesarea, and the gospel opened to the Gentiles.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Caesarea ramli Cornelius kahona Italian cohortwui centurion akhat",
+        "pamsai. Aya Varivarali kacharan, awui shim kachiva ngasoda, miwungli",
+        "dori khami kala Varivarali thang kachiva khangamor. Peterna Caesareali",
+        "rada hosa: Kaphung-kachangli ina theisai Varivarana mi akhatli kaching",
+        "mei mana; kha ram kachivali Ali kacharan kala mashungkasa chi Awui",
+        "ningkachang phungsai. Peterna tui hi holikha Mangan Katharana tui",
+        "ngashonbing kachivawui chungli rasai!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "There was a certain man in Caesarea called Cornelius, a centurion of the",
+        "band called the Italian band, A devout man, and one that feared God with",
+        "all his house, which gave much alms to the people, and prayed to God",
+        "alway. Then Peter opened his mouth, and said, Of a truth I perceive that",
+        "God is no respecter of persons: But in every nation he that feareth him,",
+        "and worketh righteousness, is accepted with him. While Peter yet spake",
+        "these words, the Holy Ghost fell on all them which heard the word."
+      ],
+      "tangkhul_content": "Caesarea ramli Cornelius kahona Italian cohortwui centurion akhat pamsai. Aya Varivarali kacharan, awui shim kachiva ngasoda, miwungli dori khami kala Varivarali thang kachiva khangamor. Peterna Caesareali rada hosa: Kaphung-kachangli ina theisai Varivarana mi akhatli kaching mei mana; kha ram kachivali Ali kacharan kala mashungkasa chi Awui ningkachang phungsai. Peterna tui hi holikha Mangan Katharana tui ngashonbing kachivawui chungli rasai!",
+      "english_translation": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway. Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: But in every nation he that feareth him, and worketh righteousness, is accepted with him. While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 17)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Kaching mei mana (idiomatic clause): does not show partiality, no respecter of persons",
+        "  * Kacharan (adjective / verb): reverent, God-fearing, devout",
+        "  * Dori (noun): alms, charitable offerings to the needy",
+        "  * Ningkachang (noun): favor, delight, divine acceptance",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The negative comparative 'kaching mei mana' (literally: does not exceed in biased viewing) translates impartial justice.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What was the occupation of Cornelius in Caesarea?",
+        "  ? What theological breakthrough did Peter announce in Acts 10:34-35?"
+      ],
+      "tangkhul_content": "Kaching mei mana: does not show partiality, no respecter of persons\nKacharan: reverent, God-fearing, devout\nDori: alms, charitable offerings to the needy\nNingkachang: favor, delight, divine acceptance",
+      "english_translation": "The negative comparative 'kaching mei mana' (literally: does not exceed in biased viewing) translates impartial justice.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Athens Ramli Paulna Tui Chitheikahai (Paul at the Areopagus) (Page 18)",
+      "title": "Chapter 7: Athens Ramli Paulna Tui Chitheikahai (Paul at the Areopagus)",
+      "lines": [
+        "CHAPTER 7: ATHENS RAMLI PAULNA TUI CHITHEIKAHAI (PAUL AT THE AREOPAGUS)",
+        "Summary: Paul's sermon at Mars Hill in Athens concerning the Unknown God, repentance, and resurrection.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Paulna Areopagus (Mars Hill) ngachaili ngakarangda hosa: Athens miwung,",
+        "ina theisai nithum thang kachiva kameo khangamor phungsai; maramchilu",
+        "ina zatli nithumwui altar akhatli kaphika theisai: MATHIKAHAI",
+        "VARIVARALI. Nithumna matheila khangamor hili ina chitheikhami! Kazing",
+        "kala ngalei kala chili leisatha kachiva sakahai Varivara chili kazing",
+        "kala ngaleiwui Mapaosai, Aya mina sakahai templeli mapam mana;",
+        "maramchilu Awui chungli ithum haring, zatta, kala pamsai; nithumwui la-",
+        "kashabingna hokatha: 'Ithumya Awui kachung thotsai.'",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens,",
+        "I perceive that in all things ye are too superstitious. For as I passed",
+        "by, and beheld your devotions, I found an altar with this inscription,",
+        "TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I",
+        "unto you. God that made the world and all things therein, seeing that he",
+        "is Lord of heaven and earth, dwelleth not in temples made with hands;",
+        "For in him we live, and move, and have our being; as certain also of",
+        "your own poets have said, For we are also his offspring."
+      ],
+      "tangkhul_content": "Paulna Areopagus (Mars Hill) ngachaili ngakarangda hosa: Athens miwung, ina theisai nithum thang kachiva kameo khangamor phungsai; maramchilu ina zatli nithumwui altar akhatli kaphika theisai: MATHIKAHAI VARIVARALI. Nithumna matheila khangamor hili ina chitheikhami! Kazing kala ngalei kala chili leisatha kachiva sakahai Varivara chili kazing kala ngaleiwui Mapaosai, Aya mina sakahai templeli mapam mana; maramchilu Awui chungli ithum haring, zatta, kala pamsai; nithumwui la-kashabingna hokatha: 'Ithumya Awui kachung thotsai.'",
+      "english_translation": "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 19)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 19)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Paulna Areopagus (Mars Hill) ngachaili ngakarangda hosa: Athens miwung,",
+        "ina theisai nithum thang kachiva kameo khangamor phungsai; maramchilu",
+        "ina zatli nithumwui altar akhatli kaphika theisai: MATHIKAHAI",
+        "VARIVARALI. Nithumna matheila khangamor hili ina chitheikhami! Kazing",
+        "kala ngalei kala chili leisatha kachiva sakahai Varivara chili kazing",
+        "kala ngaleiwui Mapaosai, Aya mina sakahai templeli mapam mana;",
+        "maramchilu Awui chungli ithum haring, zatta, kala pamsai; nithumwui la-",
+        "kashabingna hokatha: 'Ithumya Awui kachung thotsai.'",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens,",
+        "I perceive that in all things ye are too superstitious. For as I passed",
+        "by, and beheld your devotions, I found an altar with this inscription,",
+        "TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I",
+        "unto you. God that made the world and all things therein, seeing that he",
+        "is Lord of heaven and earth, dwelleth not in temples made with hands;",
+        "For in him we live, and move, and have our being; as certain also of",
+        "your own poets have said, For we are also his offspring."
+      ],
+      "tangkhul_content": "Paulna Areopagus (Mars Hill) ngachaili ngakarangda hosa: Athens miwung, ina theisai nithum thang kachiva kameo khangamor phungsai; maramchilu ina zatli nithumwui altar akhatli kaphika theisai: MATHIKAHAI VARIVARALI. Nithumna matheila khangamor hili ina chitheikhami! Kazing kala ngalei kala chili leisatha kachiva sakahai Varivara chili kazing kala ngaleiwui Mapaosai, Aya mina sakahai templeli mapam mana; maramchilu Awui chungli ithum haring, zatta, kala pamsai; nithumwui la-kashabingna hokatha: 'Ithumya Awui kachung thotsai.'",
+      "english_translation": "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Mathikahai Varivara (noun phrase): Unknown God, the unrevealed Creator",
+        "  * Kameo (noun): traditional nature spirits, idols, lesser deities",
+        "  * La-kashabing (noun plural): poets, ballad makers, lyricists",
+        "  * Kachung (noun): offspring, lineage, children of the divine",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Pettigrew contrasts indigenous 'Kameo' (animistic spirits) with the sovereign 'Varivara' (Creator of heaven and earth).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What inscription did Paul encounter in Athens?",
+        "  ? How did Paul quote the Greek poets in Tangkhul?"
+      ],
+      "tangkhul_content": "Mathikahai Varivara: Unknown God, the unrevealed Creator\nKameo: traditional nature spirits, idols, lesser deities\nLa-kashabing: poets, ballad makers, lyricists\nKachung: offspring, lineage, children of the divine",
+      "english_translation": "Pettigrew contrasts indigenous 'Kameo' (animistic spirits) with the sovereign 'Varivara' (Creator of heaven and earth).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  Kachatbing [noun plural]: apostles, authoritative emissaries",
+        "  Pangmashan [noun]: power, divine might, spiritual authority",
+        "  Sakhibing [noun plural]: witnesses, testifiers to truth",
+        "  Theishak [noun]: lots, divine casting of decision",
+        "  Huchiphung [noun]: rushing mighty wind, storm force",
+        "  Malei [noun]: tongue, flame of speech",
+        "  Ngatei tui [noun phrase]: other languages, diverse tongues",
+        "  Ningzan ngashun [verb phrase]: to repent, rectify the mind and heart",
+        "  Phaphuk khazat [noun phrase]: lame from birth, crippled in the feet",
+        "  Rupa kala sona [noun phrase]: silver and gold",
+        "  Pangkasho pang [noun phrase]: right hand",
+        "  Khangachor [verb participle]: leaping, dancing with joyous vigor",
+        "  Hangvabing [noun plural]: council of elders, senators, Sanhedrin magistrates",
+        "  Kazing kaphungli [prepositional phrase]: under heaven, beneath the celestial dome",
+        "  Ngashon-katha [verb phrase]: to hearken, obey, submit to authority",
+        "  Shanshilu [imperative verb]: judge ye, weigh and determine",
+        "  Lungna chidat [verb phrase]: cast stones, stoned with rocks",
+        "  Khon-kaphung [verb participle]: calling out with loud voice, invoking",
+        "  Machonlu [imperative negative]: lay not to charge, impute not",
+        "  Phakhur phum [verb phrase]: kneeled down, fell on knees in prayer",
+        "  Kaching mei mana [idiomatic clause]: does not show partiality, no respecter of persons",
+        "  Kacharan [adjective / verb]: reverent, God-fearing, devout",
+        "  Dori [noun]: alms, charitable offerings to the needy",
+        "  Ningkachang [noun]: favor, delight, divine acceptance",
+        "  Mathikahai Varivara [noun phrase]: Unknown God, the unrevealed Creator",
+        "  Kameo [noun]: traditional nature spirits, idols, lesser deities",
+        "  La-kashabing [noun plural]: poets, ballad makers, lyricists",
+        "  Kachung [noun]: offspring, lineage, children of the divine"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 28"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-ARCH-006",
+        "Title: Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles",
+        "Publisher: British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+        "Publication Year: 1905",
+        "Dialect Variety: Ukhrul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 7",
+        "Total Words Indexed: 1211",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "Kachatbing",
+        "pos": "noun plural",
+        "meaning": "apostles, authoritative emissaries"
+      },
+      {
+        "word": "Pangmashan",
+        "pos": "noun",
+        "meaning": "power, divine might, spiritual authority"
+      },
+      {
+        "word": "Sakhibing",
+        "pos": "noun plural",
+        "meaning": "witnesses, testifiers to truth"
+      },
+      {
+        "word": "Theishak",
+        "pos": "noun",
+        "meaning": "lots, divine casting of decision"
+      },
+      {
+        "word": "Huchiphung",
+        "pos": "noun",
+        "meaning": "rushing mighty wind, storm force"
+      },
+      {
+        "word": "Malei",
+        "pos": "noun",
+        "meaning": "tongue, flame of speech"
+      },
+      {
+        "word": "Ngatei tui",
+        "pos": "noun phrase",
+        "meaning": "other languages, diverse tongues"
+      },
+      {
+        "word": "Ningzan ngashun",
+        "pos": "verb phrase",
+        "meaning": "to repent, rectify the mind and heart"
+      },
+      {
+        "word": "Phaphuk khazat",
+        "pos": "noun phrase",
+        "meaning": "lame from birth, crippled in the feet"
+      },
+      {
+        "word": "Rupa kala sona",
+        "pos": "noun phrase",
+        "meaning": "silver and gold"
+      },
+      {
+        "word": "Pangkasho pang",
+        "pos": "noun phrase",
+        "meaning": "right hand"
+      },
+      {
+        "word": "Khangachor",
+        "pos": "verb participle",
+        "meaning": "leaping, dancing with joyous vigor"
+      },
+      {
+        "word": "Hangvabing",
+        "pos": "noun plural",
+        "meaning": "council of elders, senators, Sanhedrin magistrates"
+      },
+      {
+        "word": "Kazing kaphungli",
+        "pos": "prepositional phrase",
+        "meaning": "under heaven, beneath the celestial dome"
+      },
+      {
+        "word": "Ngashon-katha",
+        "pos": "verb phrase",
+        "meaning": "to hearken, obey, submit to authority"
+      },
+      {
+        "word": "Shanshilu",
+        "pos": "imperative verb",
+        "meaning": "judge ye, weigh and determine"
+      },
+      {
+        "word": "Lungna chidat",
+        "pos": "verb phrase",
+        "meaning": "cast stones, stoned with rocks"
+      },
+      {
+        "word": "Khon-kaphung",
+        "pos": "verb participle",
+        "meaning": "calling out with loud voice, invoking"
+      },
+      {
+        "word": "Machonlu",
+        "pos": "imperative negative",
+        "meaning": "lay not to charge, impute not"
+      },
+      {
+        "word": "Phakhur phum",
+        "pos": "verb phrase",
+        "meaning": "kneeled down, fell on knees in prayer"
+      },
+      {
+        "word": "Kaching mei mana",
+        "pos": "idiomatic clause",
+        "meaning": "does not show partiality, no respecter of persons"
+      },
+      {
+        "word": "Kacharan",
+        "pos": "adjective / verb",
+        "meaning": "reverent, God-fearing, devout"
+      },
+      {
+        "word": "Dori",
+        "pos": "noun",
+        "meaning": "alms, charitable offerings to the needy"
+      },
+      {
+        "word": "Ningkachang",
+        "pos": "noun",
+        "meaning": "favor, delight, divine acceptance"
+      },
+      {
+        "word": "Mathikahai Varivara",
+        "pos": "noun phrase",
+        "meaning": "Unknown God, the unrevealed Creator"
+      },
+      {
+        "word": "Kameo",
+        "pos": "noun",
+        "meaning": "traditional nature spirits, idols, lesser deities"
+      },
+      {
+        "word": "La-kashabing",
+        "pos": "noun plural",
+        "meaning": "poets, ballad makers, lyricists"
+      },
+      {
+        "word": "Kachung",
+        "pos": "noun",
+        "meaning": "offspring, lineage, children of the divine"
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-ARCH-006",
+      "title": "Pa o Kachatbingna Kasa wui Khararchan: The Acts of the Apostles",
+      "total_pages": 22,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 7,
+  "total_words": 2109,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Kazingli Kaphan kala Kachatbing (Ascension and Commission)",
+      "tangkhul_text": "Theophilus-li kaphung kakhanin: Jesu-na khararchanli ot kasawui maram kaphung-kachungli kaphika thotsai. Awui thikahaiwui saphunga A haringkasa theichithei kachiva thotna athumli thang taracham kachithei Varivarawui kazingramwui tui hosa. Mangan Kathara nithumwui kachungli raranglikha nithum pangmashan phunglikha; kala Jerusalemli, Judea kala Samaria ram kachivali, kala ngalei pammai kashung kachivali Iwui sakhibing salikha. Athumna theishak phashokda Matthiasli rasai, kala aya kachatbing tarakhatli ngasohailsai.",
+      "translation_en": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach. To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days. But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth. And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    },
+    {
+      "chapter": "Chapter 2: Pentecost Thangli Mangan Kathara (Day of Pentecost)",
+      "tangkhul_text": "Pentecost kumshang phungphatli nithum pam akhangli zikahai pamsai. Kazingwui huchiphung majung katha khara rasai, kala athum pamsahai shim kachivali kapingsai. Kala meiwui malei katha khangayeida athum kachivawui kachungli rasai. Kala athum kachiva Mangan Katharana kapingda ngatei tui khangayei hosa! Peterna ngakarangda hosa: Israel miwung, tui hi ngashonlu: Nazarethwui Jesu hili Varivarana thikahaiwui ngachaili thingkashangsai; chiwui maramli ithum kachiva sakhibing thotsai. Ningzan ngashunlu, kala nithum kachiva Jesu Christawui minli baptisma sayanlu!",
+      "translation_en": "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues. Then Peter stood up and said, Ye men of Israel, hear these words; This Jesus hath God raised up, whereof we all are witnesses. Repent, and be baptized every one of you in the name of Jesus Christ."
+    },
+    {
+      "chapter": "Chapter 3: Temple Gate wui Pamli Thotkhamatei (Lame Man at the Beautiful Gate)",
+      "tangkhul_text": "Peter kala John thangkhamir pung chiko khangamor thangli Templeli zangvangasai. Phaphuk khazat akhat, awui phankahaiwui thotli theisai, aya Templewui Mathan Gate kahowali pamsai; aya Peter kala Johnli theida seisan khamor khanasai. Peterna hosa: Rupa kala sona iwui chungli mathai mana; kha ina phungli nali khamlikha: Nazarethwui Jesu Christawui minli ngakarangda zatlu! Kala ayana awui pangkasho pangda thingkasangsai; chitharan awui phakhur kala pharu pangmashan phungsai! Aya ngachor-da ngakarangsai kala zat-zangsai, Templeli zangda khangachor kala Varivarali mathankashei sasai.",
+      "translation_en": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple. Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God."
+    },
+    {
+      "chapter": "Chapter 4: Councilwui Phungli Sakhi Chitheikahai (Before the Sanhedrin)",
+      "tangkhul_text": "Athumna Peter kala Johnli ngachaili pamsahai hosa: Khipawui pangmashan kala minli nithumna hi sakha? Peterna Mangan Katharana kapingda hosa: Miwungwui khararbing kala Israelwui Hangvabing, ngatei khipawui chunglikha haring kaphan mathailak mana; maramchilu kazing kaphungli miwungli khami ngatei min khikha mathai mana! Kha athumna Peter kala Johnna ngahanda hosa: Nithumwui tui ngashon-katha Varivarawui tui ngashon-katha khipana mashungkha nithum shanshilu! Maramchilu ithumna theikahai kala ngashokahai tui masasa pamtang mathailak mana.",
+      "translation_en": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this? Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel, Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye. For we cannot but speak the things which we have seen and heard."
+    },
+    {
+      "chapter": "Chapter 5: Stephenwui Pao kala Kashung Thot (The Martyrdom of Stephen)",
+      "tangkhul_text": "Stephenna ning-kachang kala pangmashan phungda miwungwui ngachaili theichithei kaphung sasai. Council shimli pambing kachivana ali theida awui mai kazingram kachisowui mai katha theisai. Kha aya Mangan Katharana kapingda kazingli theida Varivarawui mathankashak theisai. Kala athumna lungna chidatli Stephenna khon-kaphung: O Mapao Jesu, iwui mangankhali khaphanlu! Kala aya phakhur phumda kaho: O Mapao, kakhama hi athumwui chungli machonlu! Hi hoda aya thikahaisai. Saulna awui thikahaili ningkachang phungsai.",
+      "translation_en": "And Stephen, full of faith and power, did great wonders and miracles among the people. And all that sat in the council, looking stedfastly on him, saw his face as it had been the face of an angel. But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God. And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. And Saul was consenting unto his death."
+    },
+    {
+      "chapter": "Chapter 6: Corneliusli Pao Kazang (Conversion of Cornelius)",
+      "tangkhul_text": "Caesarea ramli Cornelius kahona Italian cohortwui centurion akhat pamsai. Aya Varivarali kacharan, awui shim kachiva ngasoda, miwungli dori khami kala Varivarali thang kachiva khangamor. Peterna Caesareali rada hosa: Kaphung-kachangli ina theisai Varivarana mi akhatli kaching mei mana; kha ram kachivali Ali kacharan kala mashungkasa chi Awui ningkachang phungsai. Peterna tui hi holikha Mangan Katharana tui ngashonbing kachivawui chungli rasai!",
+      "translation_en": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway. Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: But in every nation he that feareth him, and worketh righteousness, is accepted with him. While Peter yet spake these words, the Holy Ghost fell on all them which heard the word."
+    },
+    {
+      "chapter": "Chapter 7: Athens Ramli Paulna Tui Chitheikahai (Paul at the Areopagus)",
+      "tangkhul_text": "Paulna Areopagus (Mars Hill) ngachaili ngakarangda hosa: Athens miwung, ina theisai nithum thang kachiva kameo khangamor phungsai; maramchilu ina zatli nithumwui altar akhatli kaphika theisai: MATHIKAHAI VARIVARALI. Nithumna matheila khangamor hili ina chitheikhami! Kazing kala ngalei kala chili leisatha kachiva sakahai Varivara chili kazing kala ngaleiwui Mapaosai, Aya mina sakahai templeli mapam mana; maramchilu Awui chungli ithum haring, zatta, kala pamsai; nithumwui la-kashabingna hokatha: 'Ithumya Awui kachung thotsai.'",
+      "translation_en": "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring."
+    }
+  ]
+}

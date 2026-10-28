@@ -1,0 +1,55 @@
+{
+  "id": "LIT-FLK-007",
+  "resource_type": "literature",
+  "title": "Thānglongphi wui Khararchan",
+  "title_translation": "The Legend and Ballad of Lady Thānglongphi",
+  "creator": "Hungpung & Phungcham Oral Balladeers",
+  "author": "Traditional",
+  "year": 1977,
+  "publisher": "Documented in Horam 1977, Tangkhul Literature Society",
+  "language": "Tangkhul",
+  "dialect": "Hungpung / Standard Tangkhul",
+  "village": "Hungpung",
+  "category": "ballad",
+  "work_type": "ballad",
+  "genres": [
+    "ballad",
+    "oral_narrative"
+  ],
+  "book_id": null,
+  "source_url": "https://imphalreviews.in/tangkhul-folklore-thanglongphi",
+  "source_identifier": "TLS-FLK-TLP-1977",
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-007.txt",
+  "notes": "Celebrated epic romance ballad of Lady Thānglongphi of Hungpung, exemplifying feminine grace, aristocratic nobility, and tragic fidelity.",
+  "indigenous_tangkhul_text": [
+    "Hungpung ramwui shanaonao khamatha Thānglongphi, luirim kachon shanchingda ngashan mirin kazatta.\nPhungcham, Hunphun, kala Shirui mayarnaona thāda iwui ning-leishat kapha samphangkhavai kharui-kacham sakashung.",
+    "Amei-ngalāwui khamathei thada mayon-kazat Thānglongphi, kacham-kacham leishat-wui mangli kashak-kakhayei leilaka.\nKhamashung leishat eina ramwui ngashan kakharak eili, chitheikhamei ning-khangao ningchot-chot sakahaowa.",
+    "Thānglongphiwui khararchan hi Tangkhul shanao-wui khamatha kala ning-kachamwui kachungkha kapikathat phaphong.\nKazeiram vana kaphunga ramli thāda iwui leikashi makhangashit thada meikha shurda kapamhaowa."
+  ],
+  "english_translation_text": [
+    "In the ancestral village of Hungpung lived Lady Thānglongphi, celebrated across all northern valleys for her incomparable grace.\nDraped in the crimson and black stripes of the sacred Luirim shawl, young suitors from Phungcham and Shirui vied for her heart.",
+    "Yet like the rarest mountain blossom that flourishes beside the cliff, her radiant beauty brought both admiration and tragic rivalries.\nBound by customary inter-village alliances and clan pledges, she was caught between true romantic devotion and clan duties.",
+    "The epic legend of Thānglongphi endures as a celebrated testimony to womanly virtue, steadfast courage, and tragic fate.\nHer memory remains etched in Tangkhul oral memory, sung around hearthsides when winter mists blanket the mountain terraces."
+  ],
+  "literary_themes": [
+    "Legendary romance and female nobility (*Shanao Khamatha*)",
+    "Inter-village marital pacts and customary clan negotiations",
+    "Tragic romantic destiny and steadfast fidelity",
+    "Traditional Tangkhul textiles (Luirim) as motifs of status and moral beauty"
+  ],
+  "structure_and_meter": "Elegiac oral ballad in rhythmic couplets with alternating choral responses and village praise tags.",
+  "critical_commentary": "Complementing the ballad of Maitonphi, the story of Thānglongphi is a classic chronicle of feminine poise and aristocratic virtue in feudal Tangkhul society, highlighting the profound emotional weight of customary kinship bonds.",
+  "poetic_vocabulary_terms": {
+    "Thānglongphi": "Legendary Tangkhul maiden whose beauty and romance form a major oral cycle",
+    "Ning-kacham": "Purity of heart and steadfast moral devotion",
+    "Luirim": "Prestigious customary woven shawl with alternating red, white, and black stripes",
+    "Meikha": "Glowing embers of enduring memory and romantic longing"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

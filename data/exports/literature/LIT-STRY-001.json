@@ -1,0 +1,53 @@
+{
+  "id": "LIT-STRY-001",
+  "resource_type": "literature",
+  "title": "Maranwon",
+  "title_translation": "The Blossom of Fate",
+  "creator": "R. Shaiza",
+  "author": "R. Shaiza",
+  "year": 2000,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "short_story",
+  "work_type": "short_story",
+  "genres": [
+    "short_story"
+  ],
+  "book_id": "BK-TLS-007",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-007-S01",
+  "license": "Educational Curriculum",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-STRY-001.txt",
+  "notes": "Influential modern realistic short story depicting village familial bonds, migration choices, and traditional mountain ethical resilience. Anthologized in Class IX Tangkhul Tuitam Kachiko.",
+  "indigenous_tangkhul_text": [
+    "Maranwonna village school-li teaching sakda rural education-wui vang dedicated service shitsangya.",
+    "Town-li migration opportunity khalei-eili, ancestral village-li youth training-wui duty choose sakya.",
+    "Story-na traditional communal values kala modern urban aspirations-wui conflict realistically depict sakya."
+  ],
+  "english_translation_text": [
+    "Maranwon dedicated her life to teaching in her native village school, guiding children toward enlightenment.",
+    "Though alluring opportunities urged her to migrate to the distant city, she chose to remain anchored to her ancestral soil.",
+    "The narrative realistically portrays the poignant choice between modern individual careerism and indigenous community duty."
+  ],
+  "literary_themes": [
+    "Mountain education and rural community service as ethical callings",
+    "Tension between rural homeland roots and urban outward migration",
+    "Female agency, dedication, and moral leadership in modern hill society"
+  ],
+  "structure_and_meter": "Realistic short story with chronological narrative arc, psychological character depth, and evocative setting details.",
+  "critical_commentary": "Authored by R. Shaiza and anthologized in Class IX Tangkhul Tuitam Kachiko (2000), this story has sparked decades of classroom discussions on rural development.",
+  "poetic_vocabulary_terms": {
+    "Maranwon": "Literary name signifying 'the blossom of destiny'",
+    "Lairik-Kakaso": "The sacred calling of educational instruction",
+    "Ramvum": "Ancestral village homeland and communal territory",
+    "Otkhare": "Selfless service and noble civic action"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

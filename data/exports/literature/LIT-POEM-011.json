@@ -1,0 +1,56 @@
+{
+  "id": "LIT-POEM-011",
+  "resource_type": "literature",
+  "title": "Luira Phanit wui La",
+  "title_translation": "Chant of the Seed Sowing Spring Festival",
+  "creator": "Kanrei Shaiza & Tangkhul Cultural Troupe",
+  "author": "Traditional / Arranged by Kanrei Shaiza",
+  "year": 1985,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem",
+    "ballad"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1985-LPL",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-011.txt",
+  "notes": "Celebratory spring agricultural festival chant and dance anthem commemorating Luira Phanit, terrace seed sowing, festive textiles, and community reconciliation.",
+  "indigenous_tangkhul_text": [
+    "Luirawui akhama kashungli kaphung ngaleili mayon-khon saron, vanao kachiphun kazingli ringkapha horkashung.\nLuirim kachon shanchingda mayarnao shanaonao, phanit kaphong pamli yarsho-da rathatha.",
+    "Haora kachon kachiphun eina ngashan mayonzatta, 'Luirao phanit rali!' da awunga khon horkashung.\nTerrace lupkui kachiva-li charā-wui won shon-khavai, tui-ngaprum kachamnao eina kaphung-sha ngaranhaowa.",
+    "Kacham-kacham mirin kachiva ngacheilaga, leikashan eina ngateitekha ning-ngasamphang-sa.\nLuirawui pheichak eina luikashak phora, Tangkhul ngashan thotharan mashan tit-lakmana."
+  ],
+  "english_translation_text": [
+    "With the arrival of the spring Luira season, joyful birdsongs awaken across every verdant ridge.\nDraped in the radiant crimson stripes of the Luirim shawl, young men and maidens gather in the festival plaza.",
+    "Adorned in customary Haora wraps and ancestral bead necklaces, the village chief cries: 'Behold the Luira festival!'",
+    "Terrace fields await the sacred sowing of rice grains, blessed with ancestral invocations and pure spring water.",
+    "Casting aside past village grievances and disputes, clan members embrace with generosity and peaceful unity.\nThrough the rhythmic stomp of the Luira dance, we plant both golden grain and the enduring future of our heritage."
+  ],
+  "literary_themes": [
+    "Springtime agricultural awakening and communal seed-sowing (*Luira Phanit*)",
+    "Traditional Tangkhul textiles (Luirim, Haora) as emblems of festal joy and clan status",
+    "Ancestral blessing rituals for terrace rice cultivation (*Lui-Kashak*)",
+    "Social reconciliation, youth courtship dances (*Pheichak*), and harvest hope"
+  ],
+  "structure_and_meter": "Traditional festival choral chant in antiphonal stanzas with synchronized dance rhythm refrains.",
+  "critical_commentary": "Arranged by Kanrei Shaiza, this poem captures the spiritual essence of Luira Phanit, the premier traditional agricultural festival of the Tangkhul people. It links rhythmic bodily dance to the fertility of the terrace earth and clan brotherhood.",
+  "poetic_vocabulary_terms": {
+    "Luira Phanit": "Premier seed-sowing spring festival celebrating agricultural renewal",
+    "Pheichak": "Customary choral line-dance performed in festival costume to drum beats",
+    "Haora": "Prestigious customary white, red, and black banded Tangkhul woven shawl",
+    "Lui-kashak": "The ceremonial sowing and preparation of terrace paddy fields"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

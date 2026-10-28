@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Tangkhul Tui
+# Identifier: DIC-TLS-002
+# Primary Creator / Lexicographer: Tangkhul Literature Society
+# Publication Year: 1995
+# Publisher: Tangkhul Literature Society, Manipur
+# Language Pair: Tangkhul
+# Dialect Variety: Standard Tangkhul
+# Source Classification: wordlist
+# License: Copyright Tangkhul Literature Society
+# Permission Status: restricted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Tangkhul Tui
+ALTERNATE TITLE: Tangkhul Vocabulary and Wordbook
+COMPILER / AUTHORS: Tangkhul Literature Society
+YEAR: 1995
+PUBLISHING BODY: Tangkhul Literature Society, Manipur
+DIALECT / VARIETY: Standard Tangkhul
+SOURCE IDENTIFIER: TLS-TUI-1995
+CANONICAL SOURCE URL: https://bharatavani.in/tangkhul/bhashakosha
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Issued in 1995 by the Tangkhul Literature Society, this official wordbook establishes standard spelling guidelines, orthographic norms, and core vocabulary definitions for elementary and secondary schools across Manipur. It serves as an authoritative guide for authors, curriculum planners, and community translators.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Codifies standard hyphenation rules for compound verbs and prefixes, eliminating archaic spelling variants and promoting consistent orthography in modern publications.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. ngachon (noun) -- help, mutual assistance, cooperation [Citation: p. 15]
+   Context / Example: Ngachon ngazek thotna (Helping each other collaboratively).
+
+ENTRY  2. pamthak (noun) -- foundation, stone bench, resting rock platform [Citation: p. 34]
+   Context / Example: Pamthakli ngaphung (Sitting upon the foundation bench).
+
+ENTRY  3. ramngayei (noun) -- homeland boundary, territorial border, village frontier [Citation: p. 52]
+   Context / Example: Ramngayeili rammayun (Guarding the homeland borders).
+
+ENTRY  4. tuitam (noun) -- lesson, language primer, moral instruction [Citation: p. 67]
+   Context / Example: Tuitam kathara (A new language primer lesson).
+
+ENTRY  5. khangayei (verb) -- to guard, to protect, to keep watch over [Citation: p. 41]
+   Context / Example: Vashang khangayei (Watching over the ripening crops).
+
+ENTRY  6. leikashi (noun) -- love, affection, compassionate regard [Citation: p. 29]
+   Context / Example: Iram leikashi (Deep love for the ancestral village).
+
+ENTRY  7. ngalang (verb) -- to shine, to glow with light, to radiate [Citation: p. 22]
+   Context / Example: Khangalang ningkazing (Glowing peace of heart).
+
+ENTRY  8. mashung (adj) -- true, just, righteous, correct [Citation: p. 31]
+   Context / Example: Mashungwui pao (Words of truth and righteousness).
+
+ENTRY  9. ningngarao (noun) -- happiness, gladness, rejoicing, inner peace [Citation: p. 26]
+   Context / Example: Ningngaraoli ngasot (Joining together in joyful celebration).
+
+ENTRY 10. ngashan (noun) -- tradition, custom, societal ethical code [Citation: p. 19] [Alt: ngashān]
+   Context / Example: Hao ngashan kasak (The sacred customary tradition).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Copyright Tangkhul Literature Society
+Permission Tier: restricted
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. Tangkhul Literature Society (1995). Tangkhul Tui. Tangkhul Literature Society, Manipur.
+=======================================================================

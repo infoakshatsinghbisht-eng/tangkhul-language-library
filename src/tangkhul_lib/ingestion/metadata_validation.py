@@ -127,3 +127,37 @@ def validate_manifest_file(file_path: Path) -> list[ManifestRecord]:
             records.append(record)
 
     return records
+
+
+def validate_all_manifests(manifest_dir: Path) -> dict[str, list[ManifestRecord]]:
+    """Validate all JSON Lines manifests in a directory and enforce cross-manifest ID uniqueness.
+
+    Returns:
+        Mapping of manifest filename to list of validated ManifestRecord instances.
+
+    Raises:
+        ManifestValidationError: If any file fails validation or if a duplicate ID
+            exists across different manifest files.
+    """
+    path = Path(manifest_dir)
+    if not path.is_dir():
+        raise ManifestValidationError(f"Manifest directory not found: {path}")
+
+    manifest_files = sorted(path.glob("*.jsonl"))
+    results: dict[str, list[ManifestRecord]] = {}
+    global_id_map: dict[str, str] = {}
+
+    for mf in manifest_files:
+        file_records = validate_manifest_file(mf)
+        for rec in file_records:
+            if rec.id in global_id_map:
+                prev_file = global_id_map[rec.id]
+                raise ManifestValidationError(
+                    f"Cross-manifest duplicate record ID '{rec.id}' in {mf.name}; "
+                    f"already declared in {prev_file}.",
+                    record_id=rec.id,
+                )
+            global_id_map[rec.id] = mf.name
+        results[mf.name] = file_records
+
+    return results

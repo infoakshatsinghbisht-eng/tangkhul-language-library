@@ -1,0 +1,54 @@
+{
+  "id": "LIT-POEM-012",
+  "resource_type": "literature",
+  "title": "Yarnao Khamayon",
+  "title_translation": "Fellowship of the Terrace Labor Guild",
+  "creator": "S. Kanrei",
+  "author": "S. Kanrei",
+  "year": 2004,
+  "publisher": "Tangkhul Writers Forum, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Somdal",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": null,
+  "source_url": "https://ukhrultimes.com/tangkhul-poetry-yarnao",
+  "source_identifier": "SK-2004-YNK",
+  "license": "Author Permitted",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-012.txt",
+  "notes": "Rhythmic lyric poem celebrating the youthful agrarian cooperative guild (Yarnao), terrace soil turning, and antiphonal working ballads.",
+  "indigenous_tangkhul_text": [
+    "Yarnao mayarnao kaphung lung-ngakui eina luireili tonkashun, shingkapha meikharorli kaphung ngalei ngasumhaowa.\nLuirim chonkashan mayarnao eina shanaonao, akhan akhang eina kharor tontata.",
+    "Kachamnao changvei eina phanung zatta-laga, lui-ngatha kharorli lāsakakhung khon rathatha.\n'Mayarnao khamayon, i-ramwui kaphung mathali lui-kashak yarshon-sakashung!'",
+    "Ngaleili meingap-pamkakhung mayarnao ningung-laga, phanung khon eina ngashitphung mashukhaowa.\nYarnaonao leikashan eina ngachomkaphang mirin, Tangkhul thotharanli mashan tit-lakmana."
+  ],
+  "english_translation_text": [
+    "At sunrise the youth labor fellowship (Yarnao) descends from high village perches to the terrace paddies.\nClad in sturdy working cloaks, young men and maidens work shoulder to shoulder beneath the cool mountain mist.",
+    "Hoes striking the wet mountain soil in unison, their voices blend in rhythmic work-songs echoing across the ravines.\n'Comrades of the labor guild, let us carve fruitful terraces upon these steep mountain slopes!'",
+    "Sweat glistening on youthful brows, they transform stony cliffs into rippling staircases of emerald rice.\nThrough mutual labor and generous fellowship, the Yarnao guild preserves the golden heart of Tangkhul society."
+  ],
+  "literary_themes": [
+    "Youth agricultural cooperatives and reciprocal labor exchange (*Yarnao*)",
+    "Communal dignity of agrarian labor on steep mountain terraces (*Lui-Kashak*)",
+    "Harmonious antiphonal working ballads (*Haola*) keeping cadence during soil turning",
+    "Camaraderie, peer courtship, and generational solidarity"
+  ],
+  "structure_and_meter": "Agrarian work-rhythm verse in trochaic meters mirroring the downward strike of cultivation tools.",
+  "critical_commentary": "Composed by S. Kanrei of Somdal, this poem commemorates the Yarnao labor group, a central institution of traditional Tangkhul youth socialization where work, song, romantic interest, and clan mutual assistance were harmoniously combined.",
+  "poetic_vocabulary_terms": {
+    "Yarnao": "Youth labor fellowship / mutual-aid cooperative group for terrace agriculture",
+    "Lui-ngatha": "Terrace cultivation / tilling the steep mountain paddy slopes",
+    "Phanung": "Traditional wooden and iron hoe used for cutting terrace turf",
+    "Haola": "Traditional choral field-chant sung in alternating call-and-response"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

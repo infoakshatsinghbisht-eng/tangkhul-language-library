@@ -1,0 +1,53 @@
+{
+  "id": "HIST-COMM-001",
+  "resource_type": "history",
+  "title": "Formation of the Tangkhul Long (Tangkhul Naga Long)",
+  "title_translation": "Unification of Tangkhul Village Councils into Apex Body",
+  "creator": "Tangkhul Village Chiefs and Elders",
+  "year": 1935,
+  "publisher": "Tangkhul Naga Long Archives, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "place": "Ukhrul",
+  "category": "community_history",
+  "event_date": "c. 1935–1940",
+  "period": "20th Century",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TNL-Foundation-1935",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-COMM-001.txt",
+  "verification_status": "verified",
+  "notes": "Customary and democratic union of traditional village councils (Hangva) into a unified apex governance body (Tangkhul Long) representing the collective social, customary, and cultural interests of the tribe.",
+  "indigenous_tangkhul_chronicle": [
+    "1935–1940 kumli Tangkhul Long (Tangkhul Naga Long - TNL) Ukhrul-li village councils ngarum-da establish sakya.",
+    "Traditional village governance (Hangva) unified apex body shansang-da customary law, social unity, kala rights protect sakya.",
+    "Contemporary era-li TNL-hi supreme socio-cultural and customary authority of the Tangkhul people thada pama."
+  ],
+  "english_translation_text": [
+    "Between 1935 and 1940, the Tangkhul Long (Tangkhul Naga Long - TNL) was established in Ukhrul by a unification of village councils.",
+    "It united autonomous village polities under a democratic apex body to safeguard customary law, community solidarity, and indigenous rights.",
+    "Today, the TNL stands as the undisputed supreme socio-cultural and customary judicial authority of the Tangkhul nation."
+  ],
+  "chronicle_milestones": [
+    "1. 1935: Preliminary congress of village headmen and educated youth convened in Ukhrul.",
+    "2. 1940: Formal constitution drafted; apex body officially established as 'Tangkhul Long'.",
+    "3. 1946: Mobilizes community welfare and relief following devastation of World War II.",
+    "4. 1970s–Present: Serves as the guardian of customary jurisprudence, resolving boundary disputes and codifying tribal maxims.",
+    "5. Headquarters: Operates modern legislative and customary council chambers in Ukhrul town."
+  ],
+  "key_figures": [
+    "Pioneering Village Chiefs",
+    "TNL Founding Presidents",
+    "Customary Law Arbitrators"
+  ],
+  "geographical_scope": "Ukhrul & Kamjong Districts (All 200+ Tangkhul villages)",
+  "historical_significance": "The quintessential institutional bridge uniting pre-colonial village democracies into a modern unified sovereign council.",
+  "historical_terms": {
+    "Tangkhul Long": "The Grand Unifying Council of the Tangkhul People",
+    "Hangva-Ngarum": "Union of traditional village councils",
+    "Kashuk-Wung": "Apex governance and legislative authority",
+    "Ngashan-Khayon": "Customary law code and constitutional jurisprudence"
+  }
+}

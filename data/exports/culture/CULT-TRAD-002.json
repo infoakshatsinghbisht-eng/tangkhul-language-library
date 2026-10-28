@@ -1,0 +1,44 @@
+{
+  "id": "CULT-TRAD-002",
+  "resource_type": "culture",
+  "title": "Chonkhom Women's Traditional Shawl",
+  "title_translation": "Prestigious Tangkhul Women's Shawl",
+  "creator": "Tangkhul Weaving Guilds",
+  "year": 1977,
+  "publisher": "Traditional Craft (Horam 1977)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "tradition",
+  "subcategory": "attire",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-Textile-Chonkhom",
+  "license": "Traditional Cultural Expression",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-TRAD-002_chonkhom_womens_traditional_shawl.txt",
+  "verification_status": "verified",
+  "notes": "Prestigious handloom shawl featuring red base with dark horizontal stripes. Highly valued as bridal attire and ceremonial wear.",
+  "indigenous_tangkhul_text": [
+    "Chonkhom kachonhi Tangkhul shanaobingwui won kaphana.",
+    "Kashan won thada ngazei kathak, mashun themthot pamei.",
+    "Manom chikatli kachon kakhare, avava apuipui wui lan."
+  ],
+  "english_translation_text": [
+    "The Chonkhom shawl is the prized jewel of traditional Tangkhul women's attire.",
+    "Characterized by rich crimson fields with dark horizontal striping of profound grace.",
+    "Cherished as an essential bridal heirloom and ceremonial dress for honored occasions."
+  ],
+  "procedural_stages": [
+    "1. Preparation of rich red dyed yarn derived from madder roots and mountain bark.",
+    "2. Precision warping on the backstrap loom to establish tight horizontal striping.",
+    "3. Weaving individual panels with balanced tension to ensure durability and suppleness.",
+    "4. Joining panels with ancestral needlework stitches.",
+    "5. Bestowal as maternal heirloom from mother to daughter at marriage."
+  ],
+  "ceremonial_participants": [
+    "Master Women Weavers",
+    "Bridal Daughters",
+    "Clan Matriarchs"
+  ],
+  "seasonal_timing": "Weddings, festive gatherings, and cultural ceremonies"
+}

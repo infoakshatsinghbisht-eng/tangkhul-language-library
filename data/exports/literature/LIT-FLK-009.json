@@ -1,0 +1,55 @@
+{
+  "id": "LIT-FLK-009",
+  "resource_type": "literature",
+  "title": "Kongyang wui Khararchan",
+  "title_translation": "The Story of the Cicada and the Lean Season",
+  "creator": "Tangkhul Storytellers & TLS Elementary Board",
+  "author": "Traditional",
+  "year": 1981,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "children_literature"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1981-KYC",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-009.txt",
+  "notes": "Classic didactic animal fable illustrating the virtues of foresight, agricultural diligence, and seasonal preparation in mountain villages.",
+  "indigenous_tangkhul_text": [
+    "Chikaning akhali ramli chiyan-ngachon kashung eina, kongyangna thing-phangli pamda laa khamatha seiser-kazatta.\nChitharan yarwui mayarnaona phangyāngli luikakhui eili mashun-mashun khangaran sakashung.",
+    "Kongyangna ning-ngalungli 'Yarsho kachikha thithang meingaláng, khipana maringphang kaji maleimana' da phanit-kazatta.\nKha kachikhangai yarthang vashungli mei-kacham eina kazing kaho rorkhavai, kongyangli kachama kashang maleikahaowa.",
+    "Luilap kashung eili kongyangna yarwui mayarnaoli 'Ili kachama mikhuilu!' da marui kha mayarnaona makhaning.\nKongyangwui khararchan hi kakhayak khangarang kala luingao khangashan-wui pangkakha thada Tangkhul ramli karamtatta."
+  ],
+  "english_translation_text": [
+    "During the radiant season of spring, the cicada sat upon the oak branches, singing sweet melodies throughout the sunny days.\nMeanwhile, the diligent youth of the village laboured under the scorching sun, clearing hillside terraces and planting paddy.",
+    "The cicada mocked them in lighthearted mirth: 'Summer is endless and sweet; why toil when the breeze invites song?'\nYet when the bitter winds of winter arrived and heavy frost coated the forest ridges, the cicada possessed neither grain nor shelter.",
+    "Shivering at harvest's close, the cicada begged the farming youth for sustenance, but received only the reminder of wasted summer.\nThis ancient fable serves as an enduring customary lesson among the Tangkhul people on diligence, foresight, and seasonal labor."
+  ],
+  "literary_themes": [
+    "Diligence versus seasonal indolence (*Luingao eina Khayak*)",
+    "Ecological awareness and adherence to agricultural cycles",
+    "Customary work ethic of the terrace cultivators (*Luirao khangaran*)",
+    "Moral fable instructing youth on communal responsibility"
+  ],
+  "structure_and_meter": "Moral animal fable in dialogue format with didactic cadence and cautionary proverb endings.",
+  "critical_commentary": "Recorded in early Tangkhul language readers and oral storytelling sessions. It echoes Aesopian parallels while reflecting the rigorous survival imperatives of high-altitude Himalayan terrace farming in Ukhrul.",
+  "poetic_vocabulary_terms": {
+    "Kongyang": "Cicada, associated in Tangkhul lore with seasonal summer song and lack of foresight",
+    "Luingao": "Paddy cultivation, hill terrace agriculture",
+    "Chiyan-ngachon": "Springtime when new shoots emerge on the mountain terraced fields",
+    "Mei-kacham": "The bitter frost of winter descending upon mountain villages"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

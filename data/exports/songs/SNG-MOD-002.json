@@ -1,0 +1,44 @@
+{
+  "id": "SNG-MOD-002",
+  "resource_type": "songs",
+  "title": "Chihohaira",
+  "alternate_titles": [
+    "Chiho"
+  ],
+  "title_translation": "Call of the Feast / Celebration",
+  "singer": "Rewben Mashangva",
+  "lyricist": "Traditional / Rewben Mashangva",
+  "composer": "Rewben Mashangva",
+  "collector": null,
+  "performers": [
+    "Rewben Mashangva"
+  ],
+  "year": null,
+  "village": "Choithar",
+  "dialect": "Standard Tangkhul",
+  "song_type": "festival",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-RM-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Traditional celebration chant arranged into modern Naga folk-blues.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Chihohaira phanit kathi, iramli kazipngahei.",
+        "Hao laawui khon aina pheikao kazing."
+      ],
+      "lines_translation": [
+        "The call of the festival echoes, the community gathers as one.",
+        "Stepping together to the timeless rhythm of ancestral folk song."
+      ]
+    }
+  ]
+}

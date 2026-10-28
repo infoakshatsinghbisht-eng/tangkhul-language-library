@@ -1,0 +1,77 @@
+{
+  "id": "SNG-TRAD-010",
+  "resource_type": "songs",
+  "title": "Mangkhap Laa: Ngaphit Kazang",
+  "alternate_titles": [
+    "Post-Transplantation Feast Chant",
+    "Mangkhap Rest Song"
+  ],
+  "title_translation": "Paddy Transplantation Completion and Thanksgiving",
+  "singer": "Phungcham Agricultural Elders",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Tangkhul Literature Society",
+  "performers": [],
+  "year": 1992,
+  "village": "Phungcham",
+  "dialect": "Phungcham Dialect",
+  "song_type": "festival",
+  "language": "Tangkhul",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-MANGKHAP-001",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": "data/raw/songs/SNG-TRAD-010_mangkhap_laa.txt",
+  "license": "Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Traditional agricultural chant sung at the culmination of rice transplantation during Mangkhap Phanit, expressing thanksgiving for communal labor.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Mangkhap phanitli luisak kashung,",
+        "Phungcham terrace luisang kachung.",
+        "Khamathat otli ngasoda pamhaida,",
+        "Aja phanitli ringphapamei."
+      ],
+      "lines_translation": [
+        "At the arrival of Mangkhap festival, the arduous transplantation is fulfilled,",
+        "Across all the terraced emerald paddies of Phungcham.",
+        "Having labored together shoulder to shoulder under monsoon rain,",
+        "Today our community rejoices in hard-won rest and peace."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Avava apuipui wui ngashan kasak,",
+        "Luimahon kazingli chitharan kakhanang.",
+        "Aruishon lui won kapha thotta,",
+        "Shim kachivali mashak khare."
+      ],
+      "lines_translation": [
+        "Honoring the sacred agrarian traditions of our fathers and mothers,",
+        "Through weeks of knee-deep mud and relentless toil.",
+        "Now the young rice shoots stand vibrant across the fields,",
+        "And every household prepares the celebratory feast of thanksgiving."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Varewui kakhon kaphali shitsangda,",
+        "Maha thot kaphana ngaraichangra.",
+        "Pha-ngayir luili tara kashung,",
+        "Mangkhap wui ringpha mazaingasot."
+      ],
+      "lines_translation": [
+        "Trusting in the benevolent provision of the Almighty,",
+        "We look forward with hope to the golden harvest of autumn.",
+        "With mountain waters brimming through irrigation channels,",
+        "We share the cups of fellowship and festival joy."
+      ]
+    }
+  ]
+}

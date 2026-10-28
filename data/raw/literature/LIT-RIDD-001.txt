@@ -1,0 +1,61 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL PAOCHIRUN: TRADITIONAL RIDDLES AND METAPHORS
+IDENTIFIER: LIT-RIDD-001 | GENRE: RIDDLE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Paochirun: Traditional Riddles and Metaphors
+  Title Translation:     Anthology of Tangkhul Traditional Riddles
+  Literary Genre / Type: riddle (riddle)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-Folklore-1982-Riddles
+  Source URL:            https://sanchika.ciil.org/
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Traditional Cultural Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Collection of traditional intellectual word-games and poetic riddles (Paochirun) practiced in youth dormitories (Longshim) to cultivate quick wit, observation, and metaphorical language.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Paochirun-hi Tangkhul youth dormitories (Longshim)-li evening hearth gatherings-li practice sak-kacham intellectual riddle-games.
+  Q: 'Kaphungli pamda kazei kaphung, shanaonao kachiva athishangli ngaraishi?' (A: Ngalung-wui Won / Wild flower).
+  Q: 'Shimlutli lumkaza, ralamli kashung-eili tara kapha?' (A: Meikha / Hearth fire).
+  Wit, acute observation of nature, botanical metaphors, kala linguistic agility cultivate sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Traditional riddles (*Paochirun*) were practiced around the evening hearth in village youth dormitories to sharpen wit.
+  Q: 'Dwelling on the high peaks, bearing colorful garments, beloved by every village maiden?' (A: The wild mountain orchid).
+  Q: 'Warm inside the sanctuary of home, yet shedding tears of smoke when journeying outside?' (A: The hearth ember).
+  These poetic word-games cultivated keen observation of forest ecology, metaphorical creativity, and rapid mental agility.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Riddle word-games (*Paochirun*) as intellectual training in youth dormitories
+  * Metaphorical anthropomorphism of flora, fauna, tools, and celestial bodies
+  * Linguistic agility, double entendres, and poetic observation of nature
+
+STRUCTURE & POETIC METER: Enigmatic question-and-answer couplets utilizing rhythmic cadence, internal rhyme, and metaphorical paradoxes.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Documented by CIIL researchers in 1982, this collection preserves dozens of ancestral riddles that served as informal education for Tangkhul youth.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Paochirun              : Traditional riddle / poetic enigma / metaphorical brain-teaser
+  * Khangayei              : Quick wit and sharp intellectual perception
+  * Ngachee                : Clever paradox and poetic hidden meaning
+  * Longshim-Pao           : Dormitory word-games and oral banter
+
+================================================================================
+END OF RECORD: LIT-RIDD-001 - Tangkhul Language Library Digital Archive
+================================================================================

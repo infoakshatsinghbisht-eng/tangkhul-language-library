@@ -1,0 +1,55 @@
+{
+  "id": "LIT-POEM-003",
+  "resource_type": "literature",
+  "title": "Shirui Kashongwui Won",
+  "title_translation": "Flower of Mount Shirui",
+  "creator": "T. Luikham",
+  "author": "T. Luikham",
+  "year": 2021,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": "BK-TLS-008",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-008-P02",
+  "license": "Educational Curriculum",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-003.txt",
+  "notes": "Evocative ode celebrating the delicate bloom of the Shirui Lily, using ecological imagery as a metaphor for modesty, beauty, and endurance. Published in Class X Tuitam Kathara.",
+  "indigenous_tangkhul_text": [
+    "Kashong yarsho-li Philavawui won, delicate pink-white bloom kachara,",
+    "Windswept crest-li proud thada shoka, nature-wui rarest jewel lakahon.",
+    "Nawui modesti kala quiet majesty, Tangkhul shanao-wui virtue thada pama,",
+    "Thot kachivali Shirui kaphungna nawui purity protect sakya."
+  ],
+  "english_translation_text": [
+    "Upon the jagged ridge of the peak blooms the lily of Princess Philava, tender in pink and white hues,",
+    "Standing proud against alpine winds, celebrated as nature's most precious jewel.",
+    "Your modesty and quiet majesty reflect the graceful virtue of Tangkhul maidenhood,",
+    "Through all the changing seasons, Mount Shirui cradles and protects your sacred purity."
+  ],
+  "literary_themes": [
+    "Ecological ode and celebration of the endemic flora",
+    "Metaphorical pairing of the lily with indigenous feminine modesty and virtue",
+    "The mountain summit as a fortress of natural and spiritual sanctity"
+  ],
+  "structure_and_meter": "Lyrical ode in rhymed quatrains with rich sensory imagery evoking alpine breezes, dew, and granite crags.",
+  "critical_commentary": "Written by pioneer educationist and lexicographer T. Luikham and anthologized in Class X Tuitam Kathara (2021), this ode is celebrated for its musicality and ecological symbolism.",
+  "poetic_vocabulary_terms": {
+    "Kachara": "Delicate, tender, and exquisite blossoming",
+    "Kashong": "Mountain crest / pinnacle summit",
+    "Modesti": "Quiet, dignified modesty and humility",
+    "Kaza-Khangao": "Breathtaking natural splendor"
+  },
+  "stanza_count": 4,
+  "line_count": 4,
+  "text_availability": "full_text"
+}

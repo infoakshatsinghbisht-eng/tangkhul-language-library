@@ -1,16 +1,29 @@
 """History domain module for Tangkhul Language Library.
 
-Scope & Planned Capabilities:
-    - Tangkhul community history, ancestral origins (e.g., Makhel tradition), and migrations.
-    - Historical timelines, events, and relations in the Manipur hills and surrounding regions.
-    - Significant historical figures, leaders, educators, and language custodians.
-    - Historical toponyms (place names) and language documentation evolution.
-
-Status:
-    Planned domain module. Scaffolding established in Step 1.
-    Historical records and provenance tracking will be implemented in subsequent steps.
+Preserves Tangkhul community history, ancestral migration traditions (e.g., Makhel),
+historical settlements, prominent figures, language documentation milestones,
+and chronologically ordered timelines with strict provenance and source attribution.
 """
 
 from __future__ import annotations
 
+from tangkhul_lib.history.catalogue import HistoryCatalogue
+from tangkhul_lib.history.extractor import HistoryExtractor
+from tangkhul_lib.history.models import (
+    VALID_EVIDENCE_TYPES,
+    VALID_HISTORY_RECORD_TYPES,
+    HistoricalRecord,
+)
+from tangkhul_lib.storage.repositories import HistoryRepository
+
 MODULE_NAME = "history"
+
+__all__ = [
+    "MODULE_NAME",
+    "VALID_EVIDENCE_TYPES",
+    "VALID_HISTORY_RECORD_TYPES",
+    "HistoricalRecord",
+    "HistoryCatalogue",
+    "HistoryExtractor",
+    "HistoryRepository",
+]

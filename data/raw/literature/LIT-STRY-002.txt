@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KASOMWOSHI WUI SHIM
+IDENTIFIER: LIT-STRY-002 | GENRE: SHORT_STORY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kasomwoshi wui Shim
+  Title Translation:     Kasomwoshi's Homestead
+  Literary Genre / Type: short_story (short_story)
+  Author / Storyteller:  K.S. Kasomwoshi
+  Publication Year:      1991
+  Publisher:             Kasomwoshi Publications, Ukhrul
+  Village / Dialect:     Kasom [Standard Tangkhul]
+  Source Identifier:     Kasom-1991-KS
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Permitted Academic Use (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Social realism short story portraying the transition of traditional village agriculture and household economy in the late 20th century.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Kasomwoshina ancestral homestead-li pamda terraced farming, cattle rearing, kala traditional crafts protect sakya.
+  Modern cash economy advance-eili, traditional barter (khamasit) kala barter-market customs transition depict sakya.
+  Shim-wui sanctity, elders-wui wisdom, kala sustainable ecological living-wui philosophy shitsangya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Kasomwoshi tended his ancestral homestead with steadfast care, maintaining terraced fields, cattle, and woodcrafts.
+  As the modern cash economy penetrated the hills, he witnessed the gradual transformation of traditional mutual aid.
+  The story honors the sanctity of the family hearth, the wisdom of village elders, and sustainable ecological living.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Socio-economic transformation of mountain agrarian livelihoods
+  * The homestead (*Shim*) as the physical and spiritual anchor of kinship
+  * Preserving traditional ecological wisdom amidst rapid modernization
+
+STRUCTURE & POETIC METER: Gentle realistic prose characterized by ethnographic authenticity, detailed domestic description, and quiet philosophical humor.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Published by K.S. Kasomwoshi in 1991, this work stands as a poignant documentation of Tangkhul village domestic life during the late 20th-century transition.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Shim                   : Ancestral household, dwelling place, and lineage sanctuary
+  * Khamasit               : Mutual cooperative labor sharing across village households
+  * Kasom                  : Southern Tangkhul mountainous settlement sector
+  * Ringkaphaphong         : Sustained peace, health, and holistic flourishing
+
+================================================================================
+END OF RECORD: LIT-STRY-002 - Tangkhul Language Library Digital Archive
+================================================================================

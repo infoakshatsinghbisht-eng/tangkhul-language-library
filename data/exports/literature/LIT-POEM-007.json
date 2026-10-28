@@ -1,0 +1,52 @@
+{
+  "id": "LIT-POEM-007",
+  "resource_type": "literature",
+  "title": "Ngalā Mirin",
+  "title_translation": "The Life and Grace of a Tangkhul Maiden",
+  "creator": "Iknguira L. Shimray",
+  "author": "Iknguira L. Shimray",
+  "year": 2020,
+  "publisher": "Hunphun Literary Circle, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Hunphun / Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": null,
+  "source_url": "https://ukhrultimes.com/tangkhul-poetry-ngala-mirin",
+  "source_identifier": "ILS-2020-NLM",
+  "license": "Author Permitted",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-007.txt",
+  "notes": "Evocative pastoral poem portraying the spiritual innocence, fireside education, and loom artistry of Tangkhul maidens.",
+  "indigenous_tangkhul_text": [
+    "Ngalā mirin khamatha, chiyan kashungwui won thada,\nLuirim chonkashan shanda shanaonao ning-ngachei kashung.\nKong-khamatha-wui tuitam eina shanaowui ning-kacham,\nPhungcham ramwui phangyāngli laa seiser-kazatta.",
+    "Meiphung-li pamda avawui tui theida khangarang,\nKashan-kachon eili arārawui ngashan thada kapikathat;\nNgalā mirin hi Tangkhul shanao-wui khamashung shakshen,\nMeingaláng khon eina ngaleili mayon-kazatta!"
+  ],
+  "english_translation_text": [
+    "The life and grace of a maiden, blooming like wild lilies when spring returns,\nDraped in the proud woven stripes of the Luirim shawl, her heart remains pure.\nLike the clear waters of mountain streams, her spirit reflects innocence and wisdom,\nSinging folk ballads across the terraced fields of Phungcham village.",
+    "By the warm fireside she absorbs the gentle counsel of her mother,\nWeaving the ancestral patterns of her clan upon the rhythmic backstrap loom;\nThe life of a maiden embodies the sacred poise of Tangkhul womanhood,\nShining with inner light across the high mountain ridges!"
+  ],
+  "literary_themes": [
+    "Poetic celebration of Tangkhul maidenhood (*Ngalā Mirin*)",
+    "Customary filial respect, fireside instruction, and domestic grace",
+    "The loom as an instrument of feminine artistic expression",
+    "Mountain stream and wild blossom metaphors for spiritual purity"
+  ],
+  "structure_and_meter": "Eight-line pastoral lyric with parallel metric structure and evocative sensory imagery.",
+  "critical_commentary": "A standout lyrical piece by Iknguira L. Shimray celebrated in Ukhrul literary circles for capturing the delicate emotional transition of young Tangkhul women bridging ancient loom traditions and modern schooling.",
+  "poetic_vocabulary_terms": {
+    "Ngalā mirin": "The life, journey, and customary passage of an unmarried young woman",
+    "Ning-kacham": "Purity of conscience and upright modesty",
+    "Kong-khamatha": "Pure, unpolluted crystal mountain stream",
+    "Shakshen": "Poise, graceful demeanor, exemplary character"
+  },
+  "stanza_count": 2,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

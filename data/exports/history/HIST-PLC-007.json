@@ -1,0 +1,52 @@
+{
+  "id": "HIST-PLC-007",
+  "resource_type": "history",
+  "title": "Hundung (Hungdung) Village",
+  "title_translation": "Ancestral Southern Gateway Settlement",
+  "creator": "Hundung Oral Historians & Royal Chronicles",
+  "year": 1700,
+  "publisher": "Documented in Cheitharol Kumbaba, Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Hundung",
+  "place": "Hundung",
+  "category": "place",
+  "event_date": "Pre-colonial",
+  "period": "Traditional Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Hundung-Settlement",
+  "license": "Oral & Archival History",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-007.txt",
+  "verification_status": "verified",
+  "notes": "Strategic southern gateway to Ukhrul. Foremost in oral traditions commemorating the fraternal bond between the Tangkhul hill ancestors and the Meitei rulers of the valley.",
+  "indigenous_tangkhul_chronicle": [
+    "Hundung (Hungdung) settlement-hi southern gateway thada Ukhrul ramli kashak kashung akha.",
+    "Oral history-li Meitei valley kings kala Tangkhul ancestors-wui fraternal elder-brother brotherhood Hundungli ngarum-da pama.",
+    "Cheitharol Kumbaba royal chronicle-li Hundung Awunga-wui coronation exchanges mathat-da shitsangya."
+  ],
+  "english_translation_text": [
+    "Hundung (Hungdung) is the strategic southern gateway settlement to Ukhrul, rich in oral and written history.",
+    "Centuries of oral tradition anchor the sacred elder-brother brotherhood between the Tangkhuls and Meitei royalty in Hundung.",
+    "The royal court chronicle Cheitharol Kumbaba repeatedly records reciprocal coronation visits and gifts of Haora cloths."
+  ],
+  "chronicle_milestones": [
+    "1. Ancestral Era: Settled by the elder brother lineage descending from Makhel, guarding the southern hills.",
+    "2. 15th–18th Century: Diplomatic exchange protocols established between Hundung chiefs and Kangla rulers.",
+    "3. 1734: Recorded state visits in Cheitharol Kumbaba with royal presentation of bronze gongs and ceremonial robes.",
+    "4. Modern Era: Major center of modern industry (cement plant) and educational institutions while maintaining customary governance."
+  ],
+  "key_figures": [
+    "Hundung Awunga Lineage",
+    "Sovereigns of Kangla Palace",
+    "Southern Clan Elders"
+  ],
+  "geographical_scope": "Southern Ukhrul (Latitude 25.04° N, Longitude 94.33° E, Elevation 1,500 m)",
+  "historical_significance": "The diplomatic bridge connecting hill and valley histories, exemplifying centuries of peaceful coexistence and trade.",
+  "historical_terms": {
+    "Hundung": "Ancestral settlement name denoting 'broad fertile ridge'",
+    "Ite-Inao": "Sacred elder-brother and younger-brother fraternity",
+    "Awunga-Wung": "Royal diplomatic reciprocity between rulers",
+    "Chonkhom": "Traditional ceremonial cloth presented during peace pacts"
+  }
+}

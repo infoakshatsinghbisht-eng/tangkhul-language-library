@@ -1,0 +1,61 @@
+================================================================================
+TANGKHUL LITERARY RECORD: NGASHAN KATHARA
+IDENTIFIER: LIT-POEM-004 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Ngashan Kathara
+  Title Translation:     The New Dawn
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  S. Kanrei
+  Publication Year:      2021
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-012-P04
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-012
+  License & Clearance:   Educational Curriculum (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Visionary modernist poem exploring community renaissance, literacy advancement, and cultural self-determination in the post-independence era. Published in Class XII Wordham Tuitam Kakhane.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Ngashan Katharana kaphung kachivali ngakhayei zingsho kakhon,
+  Lairik pakhang, tuitam khamathan, kala community solidarity ngathur-shitsangya.
+  Ancient values kala modern education ngarum-da future-wui path shurda,
+  Iram Tangkhul progressive nationhood-wui horizon-li phungchan.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  The New Dawn (*Ngashan Kathara*) breaks across every mountain crest, banishing the shadows of old,
+  Universal literacy, grammatical refinement, and community solidarity march hand in hand.
+  Uniting ancestral virtues with modern enlightenment, our youth tread the path of wisdom,
+  Guiding the Tangkhul nation toward a prosperous and unified horizon.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Cultural renaissance, literacy enlightenment, and social renewal
+  * Synthesizing ancestral customs (*Ngashan*) with modern education
+  * Visionary hope for youth leadership, tribal self-determination, and unity
+
+STRUCTURE & POETIC METER: Modernist blank verse with elevated rhetorical diction, energetic pacing, and prophetic rhythm.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Composed by S. Kanrei for Class XII Wordham Tuitam Kakhane (2021), this poem encapsulates the intellectual optimism of modern Tangkhul literature.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Ngashan Kathara        : The new dawn / modern cultural renaissance
+  * Zingsho                : The rising dawn light / radiant sunrise
+  * Tuitam Khamathan       : Linguistic and grammatical refinement
+  * Ngarum-Kashung         : Collective unity in achieving communal goals
+
+================================================================================
+END OF RECORD: LIT-POEM-004 - Tangkhul Language Library Digital Archive
+================================================================================

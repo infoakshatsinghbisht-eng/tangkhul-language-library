@@ -1,0 +1,46 @@
+{
+  "id": "CULT-FEST-001",
+  "resource_type": "culture",
+  "title": "Luira Phanit",
+  "title_translation": "Seed-Sowing Festival",
+  "creator": "Tangkhul Community Elders",
+  "year": 1911,
+  "publisher": "Traditional Observation (Documented in Hodson 1911, Horam 1977)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul / Hunphun",
+  "village": "Hunphun / Ukhrul",
+  "category": "festival",
+  "subcategory": "agricultural",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Hodson-1911-Ch3",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-FEST-001_luira_phanit.txt",
+  "verification_status": "verified",
+  "notes": "Prime annual agricultural spring festival celebrated in January/February marking the inauguration of the agricultural cycle. Features ceremonial sod-turning by the Awunga, wrestling (Kaphung), folk dances, and sacred prayers.",
+  "indigenous_tangkhul_text": [
+    "Luira phanitli luisak kashung, iram Hunphunli kapha kachon.",
+    "Awungana shimlut-kaphung sara, luishang kachivali mashak khare.",
+    "Pheichak khangaso, kaphung ngarar, Vareli khorumda ringkaphawui thot."
+  ],
+  "english_translation_text": [
+    "At the arrival of Luira festival, the seed-sowing season commences in Hunphun.",
+    "The village chief performs the sacred sod-turning ritual before any villager may plant.",
+    "Through festival dances, athletic wrestling, and prayers, the community enters a season of joy."
+  ],
+  "procedural_stages": [
+    "1. Announcement of festival dates by the Hangva (Council of Elders) following lunar observation.",
+    "2. Shimlut-Kaphung: Awunga (Chief) turns the first ceremonial clod of earth at dawn and sows sacred seeds.",
+    "3. Feast of rice beer (Khor) and community butchering of buffalo and cattle across clans.",
+    "4. Athletic competitions: Traditional wrestling (Kaphung), archery, and spear-throwing.",
+    "5. Antiphonal dance (Pheichak) and Luira Laa singing performed in full traditional regalia (Haora and Chonkhom)."
+  ],
+  "ceremonial_participants": [
+    "Awunga (Chief)",
+    "Hangva (Elders)",
+    "Clan Heads",
+    "Youth Dormitories (Longshim)",
+    "All Villagers"
+  ],
+  "seasonal_timing": "January / February (Spring inauguration of agricultural cycle)"
+}

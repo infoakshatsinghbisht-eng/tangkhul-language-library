@@ -1,0 +1,44 @@
+{
+  "id": "CULT-TRAD-006",
+  "resource_type": "culture",
+  "title": "Lengcheng Shim Traditional Architecture & Roof-Horns",
+  "title_translation": "Traditional High-Status House Architecture with Crossed Roof-Horns",
+  "creator": "Tangkhul Master Woodcarvers & Awunga Builders",
+  "year": 1977,
+  "publisher": "Documented in Horam 1977, Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "tradition",
+  "subcategory": "architecture",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Ch2-Lengcheng",
+  "license": "Traditional Cultural Expression",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-TRAD-006_lengcheng_shim_architecture.txt",
+  "verification_status": "verified",
+  "notes": "Elite Tangkhul house architecture featuring crossed carved wooden horns (Lengcheng Kui) extending from the roof ridge, with facade planks intricately carved with mithun heads and solar symbols.",
+  "indigenous_tangkhul_text": [
+    "Lengcheng Shimli Lengcheng Kui kachui, Tangkhul ngashan thotna.",
+    "Thing kaphungli mithun kazei, mikon kachivali masot pamei.",
+    "Maran Kasa mibingna kashak, iram kaphungli ningyang kaung."
+  ],
+  "english_translation_text": [
+    "The Lengcheng Shim proudly bears the crossed roof-horns, the architectural crown of Tangkhul heritage.",
+    "Carved facade planks depicting mithun heads, hornbills, and celestial solar discs.",
+    "Erected by those who accomplished the Feast of Merit, a testament to community beneficence."
+  ],
+  "procedural_stages": [
+    "1. Harvesting durable hardwood timber and broad planks from communal mountain forests.",
+    "2. Hand-hewing facade planks with intricate relief carvings of hornbills, mithun, and rosettes.",
+    "3. Constructing broad thatched roof crowned with extended crossed wooden horns (Lengcheng Kui).",
+    "4. Communal house-raising (Shim kashak) supported by all village clans.",
+    "5. Consecration feast accompanied by prayers for family prosperity and village peace."
+  ],
+  "ceremonial_participants": [
+    "Master Woodcarvers",
+    "Awunga & Nobility",
+    "Community Building Teams"
+  ],
+  "seasonal_timing": "Dry construction season"
+}

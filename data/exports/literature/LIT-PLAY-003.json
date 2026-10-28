@@ -1,0 +1,50 @@
+{
+  "id": "LIT-PLAY-003",
+  "resource_type": "literature",
+  "title": "Asang Eina Aton",
+  "title_translation": "Ashang and Aton: Landmark Folk Drama",
+  "creator": "Khenjonglang & Zingko Arts / S. Thaninleima",
+  "author": "S. Thaninleima & Tangkhul Community Dramatists",
+  "year": 2005,
+  "publisher": "National School of Drama Extension & Khenjonglang, Imphal",
+  "language": "Tangkhul",
+  "dialect": "Tongou / Phungcham / Standard Tangkhul",
+  "village": "Tongou",
+  "category": "play",
+  "work_type": "play",
+  "genres": [
+    "play"
+  ],
+  "book_id": null,
+  "source_url": "https://easternpanorama.in/asang-eina-aton-tangkhul-play",
+  "source_identifier": "NSD-KHEN-2005-AEA",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-PLAY-003.txt",
+  "notes": "First major full-length Tangkhul folk play dramatizing the legendary 17th-century romance of Ashang and Aton, staged nationally at Bharat Rang Mahotsav.",
+  "indigenous_tangkhul_text": [
+    "SHONGZA KHARAR / ACT I, SCENE 1 - TONGOU & PHUNGCHAM RAM\nASANG: (Kaphung yarsho-li kachamda) I-leishatnao Aton, Phungcham wui won thada nawui khamatha iwui mangli meingaláng.\nKha yarwui chanjam eina kashan-kacham ngachei eili, iwui leikashi meikha thada meingap-kazatta.\nATON: (Tongou ramwui phangyāngli luirim kachon shanchingda) Asang, nawui khon iwui ning-ngalungli ngasamkakhung leimana.\nKha kashanwui khamazeingna ngalei-li rai kakharak kachi theilaga, kazeiram kashungwui mangli leishat shur-fara.\nKHARAR-MAYARNAO / CHORUS: Hao-ramwui chanjam kashak-kakhayei eina leikashi mayon-kakhui,\nTongou kala Phungcham mayarnaoli ning-kashung kacham eina thithang thithang meingaláng-kazatta!"
+  ],
+  "english_translation_text": [
+    "PROLOGUE & ACT I, SCENE 1 - TONGOU AND PHUNGCHAM VILLAGES\nASHANG: (Gazing across the alpine terraced slopes) O my beloved Aton, like the mountain lily of Phungcham your grace illuminates my soul.\nYet customary clan feuds and inter-village taboos stand between our hearts, leaving my love to smolder like unquenched embers.\nATON: (Draped in the woven Luirim shawl upon the fields of Tongou) Ashang, your voice finds no resting place away from my heart.\nIf customary laws and clan rivalries deny our union upon this earth, our souls shall wed in Kazeiram, the ancestral spirit realm.\nCHORUS OF VILLAGE ELDERS: Bound by the unyielding customary covenants of our hills, their tragic love shines across generations,\nUniting the villages of Tongou and Phungcham in an eternal monument to romantic devotion and artistic beauty!"
+  ],
+  "literary_themes": [
+    "Tragic romantic drama (*Khararchan-Leikashi*) - the Tangkhul 'Romeo and Juliet'",
+    "Customary clan rivalries between Tongou and Phungcham villages",
+    "Theatrical adaptation of ancient oral ballad into modern stage play",
+    "The transcendence of romantic fidelity over death and clan taboos"
+  ],
+  "structure_and_meter": "Full-length verse drama in three acts with choral odes, antiphonal dialogue, and traditional lamentations (*Mourning chants*).",
+  "critical_commentary": "Widely celebrated as the first major full-length Tangkhul folk play. Produced under the direction of S. Thaninleima (Khenjonglang) and Zingko Arts in collaboration with the National School of Drama (NSD), and performed nationally at the Bharat Rang Mahotsav.",
+  "poetic_vocabulary_terms": {
+    "Asang / Ashang": "Hero of the tragic romance, noble warrior from Tongou/Phungcham",
+    "Aton / Maitonphi": "Heroine of the epic romance, symbol of female grace and loyalty",
+    "Shongza kharar": "Ancestral village boundary / dramatic act partition",
+    "Kazeiram kashung": "Reunion in the spirit paradise of the ancestral departed"
+  },
+  "stanza_count": 1,
+  "line_count": 7,
+  "text_availability": "full_text"
+}

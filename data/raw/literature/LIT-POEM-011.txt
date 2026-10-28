@@ -1,0 +1,71 @@
+================================================================================
+TANGKHUL LITERARY RECORD: LUIRA PHANIT WUI LA
+IDENTIFIER: LIT-POEM-011 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Luira Phanit wui La
+  Title Translation:     Chant of the Seed Sowing Spring Festival
+  Literary Genre / Type: poem (poem, ballad)
+  Author / Storyteller:  Traditional / Arranged by Kanrei Shaiza
+  Publication Year:      1985
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Hunphun [Standard Tangkhul]
+  Source Identifier:     TLS-1985-LPL
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Celebratory spring agricultural festival chant and dance anthem commemorating Luira Phanit, terrace seed sowing, festive textiles, and community reconciliation.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Luirawui akhama kashungli kaphung ngaleili mayon-khon saron, vanao kachiphun kazingli ringkapha horkashung.
+  Luirim kachon shanchingda mayarnao shanaonao, phanit kaphong pamli yarsho-da rathatha.
+
+  Haora kachon kachiphun eina ngashan mayonzatta, 'Luirao phanit rali!' da awunga khon horkashung.
+  Terrace lupkui kachiva-li charā-wui won shon-khavai, tui-ngaprum kachamnao eina kaphung-sha ngaranhaowa.
+
+  Kacham-kacham mirin kachiva ngacheilaga, leikashan eina ngateitekha ning-ngasamphang-sa.
+  Luirawui pheichak eina luikashak phora, Tangkhul ngashan thotharan mashan tit-lakmana.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  With the arrival of the spring Luira season, joyful birdsongs awaken across every verdant ridge.
+  Draped in the radiant crimson stripes of the Luirim shawl, young men and maidens gather in the festival plaza.
+
+  Adorned in customary Haora wraps and ancestral bead necklaces, the village chief cries: 'Behold the Luira festival!'
+
+  Terrace fields await the sacred sowing of rice grains, blessed with ancestral invocations and pure spring water.
+
+  Casting aside past village grievances and disputes, clan members embrace with generosity and peaceful unity.
+  Through the rhythmic stomp of the Luira dance, we plant both golden grain and the enduring future of our heritage.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Springtime agricultural awakening and communal seed-sowing (*Luira Phanit*)
+  * Traditional Tangkhul textiles (Luirim, Haora) as emblems of festal joy and clan status
+  * Ancestral blessing rituals for terrace rice cultivation (*Lui-Kashak*)
+  * Social reconciliation, youth courtship dances (*Pheichak*), and harvest hope
+
+STRUCTURE & POETIC METER: Traditional festival choral chant in antiphonal stanzas with synchronized dance rhythm refrains.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Arranged by Kanrei Shaiza, this poem captures the spiritual essence of Luira Phanit, the premier traditional agricultural festival of the Tangkhul people. It links rhythmic bodily dance to the fertility of the terrace earth and clan brotherhood.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Luira Phanit           : Premier seed-sowing spring festival celebrating agricultural renewal
+  * Pheichak               : Customary choral line-dance performed in festival costume to drum beats
+  * Haora                  : Prestigious customary white, red, and black banded Tangkhul woven shawl
+  * Lui-kashak             : The ceremonial sowing and preparation of terrace paddy fields
+
+================================================================================
+END OF RECORD: LIT-POEM-011 - Tangkhul Language Library Digital Archive
+================================================================================

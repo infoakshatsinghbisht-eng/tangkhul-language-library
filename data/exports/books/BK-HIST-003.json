@@ -1,0 +1,1273 @@
+{
+  "id": "BK-HIST-003",
+  "resource_type": "books",
+  "title": "History of the Tangkhul Nagas",
+  "alternate_titles": [
+    "History of the Tangkhul Nagas (Shimray 2001)"
+  ],
+  "authors": [
+    "A. S. W. Shimray"
+  ],
+  "editors": [],
+  "publisher": "Akansha Publishing House, New Delhi",
+  "publication_year": 2001,
+  "year": 2001,
+  "edition": "First Edition",
+  "subject": "History, Ethnography, and Customary Institutions",
+  "educational_level": "College / Academic Research",
+  "language": "English / Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "81-87606-04-5",
+  "source_url": "https://openlibrary.org/books/OL3721385M/History_of_the_Tangkhul_Nagas",
+  "source_identifier": "ISBN:81-87606-04-5",
+  "catalogue_url": "https://openlibrary.org/books/OL3721385M/History_of_the_Tangkhul_Nagas",
+  "local_file_path": "data/raw/books/BK-HIST-003_shimray_2001.txt",
+  "file_format": "txt",
+  "license": "Academic Research / Fair Use Documentation",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Comprehensive ethnographic and historical treatise by A.S.W. Shimray detailing Makhel origins, the Awunga chieftaincy, and village republics.",
+  "front_matter": {
+    "title_page": {
+      "title": "History of the Tangkhul Nagas",
+      "alternate_titles": [
+        "History of the Tangkhul Nagas (Shimray 2001)"
+      ],
+      "authors": [
+        "A. S. W. Shimray"
+      ],
+      "editors": [],
+      "publisher": "Akansha Publishing House, New Delhi",
+      "publication_year": 2001,
+      "edition": "First Edition",
+      "educational_level": "College / Academic Research",
+      "subject": "History, Ethnography, and Customary Institutions",
+      "language": "English / Tangkhul",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-HIST-003",
+      "license": "Academic Research / Fair Use Documentation",
+      "permission_status": "permitted",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "ISBN:81-87606-04-5",
+      "source_url": "https://openlibrary.org/books/OL3721385M/History_of_the_Tangkhul_Nagas"
+    },
+    "preface": "History of the Tangkhul Nagas by A. S. W. Shimray (Akansha Publishing House, New Delhi, 2001, ISBN 81-87606-04-5). A comprehensive ethnographic, historical, and sociological monograph documenting Tangkhul origin traditions from Makhel, village republic governance under the Awunga and Hangva, agricultural engineering, clan land tenures, ritual warfare, and modern political integration."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Origin Traditions and Migration from Makhel",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Village Republic: Awunga and the Hangva Council",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Agricultural Regimes: Luingam and Shilmik",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 4,
+      "title": "Clan Kinship (Shang) and Land Tenure",
+      "page_start": 12,
+      "page_end": 14
+    },
+    {
+      "chapter_number": 5,
+      "title": "Head-Taking (Rai) and Peacemaking Rituals",
+      "page_start": 15,
+      "page_end": 16
+    },
+    {
+      "chapter_number": 6,
+      "title": "Traditional Religion: Kameo, Varivara, and Feasts of Merit",
+      "page_start": 17,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 7,
+      "title": "The Colonial Encounter and Political Awakenings",
+      "page_start": 19,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Origin Traditions and Migration from Makhel",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Ancient origins at Makhel and Khezhakenoma, the myth of the three brothers, and settlement of the Ukhrul ridge.",
+      "tangkhul_text": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei (Northern), Rem (Western), Kharao (Southern), and Khanggo (Eastern) geographical divisions. While standard Tangkhul is based on the dialect of Hunphun, the tribe comprises over one hundred villages.",
+      "english_translation": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei, Rem, Kharao, and Khanggo geographical divisions. Over one hundred villages maintain distinct idioms.",
+      "vocabulary": [
+        {
+          "word": "Makhel",
+          "pos": "proper noun",
+          "meaning": "sacred ancestral dispersal village of the Naga tribes"
+        },
+        {
+          "word": "Raphei",
+          "pos": "proper noun",
+          "meaning": "northern Tangkhul territorial division"
+        },
+        {
+          "word": "Rem",
+          "pos": "proper noun",
+          "meaning": "western Tangkhul mountain division"
+        },
+        {
+          "word": "Khanggo",
+          "pos": "proper noun",
+          "meaning": "eastern border division contiguous to Myanmar"
+        }
+      ],
+      "grammar_notes": "Toponyms like 'Raphei' and 'Kharao' function as regional dialect and sociocultural identifiers.",
+      "exercises": [
+        {
+          "question": "What three brother-groups departed from Makhel in Tangkhul tradition?",
+          "type": "factual"
+        },
+        {
+          "question": "Name the four ancient geographical divisions of the Tangkhul hills.",
+          "type": "geographical_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Village Republic: Awunga and the Hangva Council",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Village sovereignty (Wungram), the hereditary chief (Awunga), the clan elder bench (Hangva), and the Longshim dormitory.",
+      "tangkhul_text": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all village clans). The Hangva met at the Awunga's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos (khamthei), and decide matters of peace or war. Decisions were reached through consensus (ngalung). Integral to village life was the Longshim (youth dormitory system) which served as the civic militia and school of etiquette.",
+      "english_translation": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all clans). The Hangva met at the chief's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos, and decide peace or war. Consensus (ngalung) governed all decisions. The Longshim dormitory trained youth in civic defense and customary etiquette.",
+      "vocabulary": [
+        {
+          "word": "Awunga",
+          "pos": "noun",
+          "meaning": "village chief, hereditary royal headman"
+        },
+        {
+          "word": "Hangva",
+          "pos": "noun",
+          "meaning": "village council of clan elders"
+        },
+        {
+          "word": "Ngalung",
+          "pos": "noun",
+          "meaning": "consensus, unanimous deliberative agreement"
+        },
+        {
+          "word": "Longshim",
+          "pos": "noun",
+          "meaning": "youth dormitory, communal education hall"
+        }
+      ],
+      "grammar_notes": "The compound 'Wungram' joins 'Wung' (indigenous ethnonym) with 'ram' (land / country / territory).",
+      "exercises": [
+        {
+          "question": "How did the Hangva council reach decisions under customary governance?",
+          "type": "comprehension"
+        },
+        {
+          "question": "Describe the educational and defensive roles of the Longshim dormitory.",
+          "type": "sociological_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Agricultural Regimes: Luingam and Shilmik",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Terrace cultivation (Luingam), swidden farming (Shilmik), irrigation channels (kong-kuir), and the Luira festival.",
+      "tangkhul_text": "Tangkhul subsistence economy was anchored upon wet-rice terrace cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces along mountain slopes required gravity-fed irrigation channels (kong-kuir) maintained collectively by syndicates. The agricultural calendar opened with the Luira Phanit (seed-sowing festival) in February. No villager was permitted to sow until the Awunga performed the sacred first sowing ritual. Harvest was celebrated with Chumpha in December, consecrating newly garnered paddy in village granaries (raizan).",
+      "english_translation": "Tangkhul subsistence economy was anchored upon wet-rice terrace cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces along mountain slopes required gravity-fed irrigation channels (kong-kuir) maintained collectively by syndicates. The agricultural year began with Luira Phanit in February with the chief's sacred first sowing, and closed with Chumpha in December, consecrating newly stored grain in family granaries.",
+      "vocabulary": [
+        {
+          "word": "Luingam",
+          "pos": "noun",
+          "meaning": "wet-rice terrace cultivation, irrigated terrace field"
+        },
+        {
+          "word": "Shilmik",
+          "pos": "noun",
+          "meaning": "swidden agriculture, slash-and-burn jhum plot"
+        },
+        {
+          "word": "Kong-kuir",
+          "pos": "noun",
+          "meaning": "irrigation canal, gravity-fed water channel"
+        },
+        {
+          "word": "Raizan",
+          "pos": "noun",
+          "meaning": "granary, raised storehouse for harvested paddy"
+        }
+      ],
+      "grammar_notes": "Compound root 'luira' combines 'lui' (terrace field) and 'ra' (water / festival rites).",
+      "exercises": [
+        {
+          "question": "What is the distinction between Luingam and Shilmik cultivation?",
+          "type": "comparative_analysis"
+        },
+        {
+          "question": "Which festivals mark the opening and closing of the Tangkhul farming cycle?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Clan Kinship (Shang) and Land Tenure",
+      "page_start": 12,
+      "page_end": 14,
+      "summary": "Exogamous patrilineal clans (Shang), inheritance by male primogeniture, and the sacrosanct role of Pukreila peace envoys.",
+      "tangkhul_text": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Marriage within the clan was strictly prohibited as shiman-kaphung. Land tenure was threefold: communal village land, clan land, and family hereditary plots. Ancestral homesteads passed through male primogeniture. When villages entered formal treaties, high-status women born in one village and married into the other acted as Pukreila (peace ambassadors). The person of the Pukreila was sacrosanct; harming an ambassador was regarded as an unforgivable breach invoking divine retribution.",
+      "english_translation": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Intra-clan marriage was strictly prohibited. Land tenure comprised communal village land, clan reserves, and family plots. Homesteads passed via male primogeniture. Inter-village treaties were mediated by Pukreila (female peace ambassadors). The person of the Pukreila was sacrosanct, and harming an ambassador invoked severe divine retribution.",
+      "vocabulary": [
+        {
+          "word": "Shang",
+          "pos": "noun",
+          "meaning": "patrilineal clan, exogamous kinship group"
+        },
+        {
+          "word": "Shimkhor",
+          "pos": "noun",
+          "meaning": "sub-lineage, hearth-circle within a clan"
+        },
+        {
+          "word": "Pukreila",
+          "pos": "noun",
+          "meaning": "female peace ambassador, sacrosanct treaty envoy"
+        },
+        {
+          "word": "Khamatui",
+          "pos": "noun",
+          "meaning": "divine retribution, cosmic curse on covenant breakers"
+        }
+      ],
+      "grammar_notes": "The feminine suffix '-la' in 'Pukreila' designates an honored woman functioning in ambassadorial capacity.",
+      "exercises": [
+        {
+          "question": "Explain the diplomatic and moral functions of the Pukreila in Naga warfare.",
+          "type": "historical_analysis"
+        },
+        {
+          "question": "What are the three categories of land ownership under Tangkhul customary law?",
+          "type": "legal_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Head-Taking (Rai) and Peacemaking Rituals",
+      "page_start": 15,
+      "page_end": 16,
+      "summary": "The ritual logic of head-taking, the village skull repository, and the solemn covenant of spear burial.",
+      "tangkhul_text": "Head-taking among the Tangkhul was bound to cosmological balance, fertility of crops, and personal valor. It was ritual warfare governed by strict customary boundaries. Heads taken were brought to the village entrance, received with ritual chants, and hung at the sacred village tree (khor-thing) or deposited at the village skull depository. Wars were concluded through the solemn ceremony of spear burial (kachu-kapam) and the consumption of ceremonial pork and rice-beer between combatant Awungas. Broken oaths brought calamity upon future generations.",
+      "english_translation": "Head-taking among the Tangkhul was bound to cosmological balance, fertility of crops, and personal valor. It was ritual warfare governed by strict customary boundaries. Heads taken were brought to the village entrance, hung at the sacred village tree (khor-thing) or placed in the skull depository. Wars concluded through the ceremony of spear burial (kachu-kapam) and mutual consumption of ceremonial food by chiefs, sealing eternal oaths.",
+      "vocabulary": [
+        {
+          "word": "Rai",
+          "pos": "noun",
+          "meaning": "warfare, military expedition, martial contest"
+        },
+        {
+          "word": "Khor-thing",
+          "pos": "noun",
+          "meaning": "sacred village tree, warrior trophy oak"
+        },
+        {
+          "word": "Kachu-kapam",
+          "pos": "noun phrase",
+          "meaning": "spear burial, solemn peacemaking covenant"
+        },
+        {
+          "word": "Tala-khon",
+          "pos": "noun",
+          "meaning": "war horn, buffalo horn trumpet sounding alarm or victory"
+        }
+      ],
+      "grammar_notes": "Compound verbal noun 'kachu-kapam' pairs 'kachu' (spear) with 'kapam' (planting/burying deeply).",
+      "exercises": [
+        {
+          "question": "How did Tangkhul warriors conclude peace after warfare?",
+          "type": "comprehension"
+        },
+        {
+          "question": "What cosmological beliefs were associated with head-taking?",
+          "type": "anthropological_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Traditional Religion: Kameo, Varivara, and Feasts of Merit",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "Cosmological belief in the Supreme God (Varivara), spirits of nature (Kameo), and memorial Feasts of Merit (Maringphat).",
+      "tangkhul_text": "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt in the highest heavens, benevolent and just. Beneath Varivara were regional nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks. Propitiatory offerings were made by the village priest (Maiba) to appease spirits. Wealthy individuals who accumulated surplus grain and cattle performed progressive Feasts of Merit (Maringphat), feeding the entire village community and allied settlements for multiple days, erecting memorial megaliths (lung-thei), and carving house-fronts with horn-motifs (lengcheng-pakhang).",
+      "english_translation": "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt in the highest heavens, benevolent and just. Beneath Varivara were nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks, propitiated by the priest (Maiba). Wealthy individuals performed progressive Feasts of Merit (Maringphat), hosting the entire community for multiple days, erecting memorial megaliths (lung-thei), and carving house facades with ceremonial horn motifs.",
+      "vocabulary": [
+        {
+          "word": "Maiba",
+          "pos": "noun",
+          "meaning": "traditional village priest, ritual sacrificer"
+        },
+        {
+          "word": "Maringphat",
+          "pos": "noun",
+          "meaning": "Feast of Merit, progressive socioeconomic feast"
+        },
+        {
+          "word": "Lung-thei",
+          "pos": "noun",
+          "meaning": "memorial stone megalith, standing commemorative stone"
+        },
+        {
+          "word": "Lengcheng-pakhang",
+          "pos": "noun phrase",
+          "meaning": "house-horns, carved gable-planks of feast givers"
+        }
+      ],
+      "grammar_notes": "Nominal compound 'lung-thei' combines 'lung' (stone) with stative 'thei' (manifest / conspicuous).",
+      "exercises": [
+        {
+          "question": "What cultural privileges did a Feast of Merit confer upon a Tangkhul family?",
+          "type": "comprehension"
+        },
+        {
+          "question": "Distinguish between the supreme role of Varivara and localized Kameo spirits.",
+          "type": "theological_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "The Colonial Encounter and Political Awakenings",
+      "page_start": 19,
+      "page_end": 20,
+      "summary": "Colonial pacification, William Pettigrew's mission school in Ukhrul, and the emergence of modern Naga consciousness.",
+      "tangkhul_text": "The arrival of British administration in the late 19th century and the establishment of Rev. William Pettigrew's mission school at Ukhrul in 1896 initiated dramatic socioeconomic transformations. Roman script literacy, modern medical care, and Christianity gradually replaced the head-taking regime. Yet Tangkhul customary laws, land rights, and village identity endured, forming the foundation of modern Naga political consciousness and solidarity in northeast India.",
+      "english_translation": "British colonial administration and Rev. William Pettigrew's mission school in 1896 at Ukhrul catalyzed profound transformations. Roman literacy, healthcare, and Christianity gradually replaced the warfare regime. Yet customary laws, ancestral land tenure, and village identity endured, providing the bedrock of modern Naga political solidarity in northeast India.",
+      "vocabulary": [
+        {
+          "word": "Wungram kashang",
+          "pos": "noun phrase",
+          "meaning": "elevation and dignity of the Tangkhul homeland"
+        },
+        {
+          "word": "Pettigrew-wui thot",
+          "pos": "noun phrase",
+          "meaning": "the missionary era, advent of modern education (1896+)"
+        },
+        {
+          "word": "Tuingashit kathara",
+          "pos": "noun phrase",
+          "meaning": "new covenant, modern constitutional rights"
+        },
+        {
+          "word": "Ngalung-khangayei",
+          "pos": "noun",
+          "meaning": "political unity, pan-tribal solidarity"
+        }
+      ],
+      "grammar_notes": "Temporal genitive 'Pettigrew-wui thot' marks the pivotal historical turning point in modern Tangkhul historiography.",
+      "exercises": [
+        {
+          "question": "When did Rev. William Pettigrew establish the first school in Ukhrul?",
+          "type": "factual"
+        },
+        {
+          "question": "How did customary land tenure survive colonial and post-colonial governance?",
+          "type": "historical_synthesis"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-HIST-003",
+      "title": "History of the Tangkhul Nagas",
+      "lines": [
+        "TITLE: History of the Tangkhul Nagas",
+        "Identifier: BK-HIST-003",
+        "Level: College / Academic Research | Subject: History, Ethnography, and Customary Institutions",
+        "Publisher: Akansha Publishing House, New Delhi (2001)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "History of the Tangkhul Nagas -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of History of the Tangkhul Nagas.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "History of the Tangkhul Nagas -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "History of the Tangkhul Nagas by A. S. W. Shimray (Akansha Publishing",
+        "House, New Delhi, 2001, ISBN 81-87606-04-5). A comprehensive ethnographic,",
+        "historical, and sociological monograph documenting Tangkhul origin",
+        "traditions from Makhel, village republic governance under the Awunga and",
+        "Hangva, agricultural engineering, clan land tenures, ritual warfare, and",
+        "modern political integration."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: permitted"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "History of the Tangkhul Nagas -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Origin Traditions and Migration from Makhel (pp. 4-6)",
+        "  Chapter 2: The Village Republic: Awunga and the Hangva Council (pp. 7-9)",
+        "  Chapter 3: Agricultural Regimes: Luingam and Shilmik (pp. 10-11)",
+        "  Chapter 4: Clan Kinship (Shang) and Land Tenure (pp. 12-14)",
+        "  Chapter 5: Head-Taking (Rai) and Peacemaking Rituals (pp. 15-16)",
+        "  Chapter 6: Traditional Religion: Kameo, Varivara, and Feasts of Merit (pp. 17-18)",
+        "  Chapter 7: The Colonial Encounter and Political Awakenings (pp. 19-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Origin Traditions and Migration from Makhel (Page 4)",
+      "title": "Chapter 1: Origin Traditions and Migration from Makhel",
+      "lines": [
+        "CHAPTER 1: ORIGIN TRADITIONS AND MIGRATION FROM MAKHEL",
+        "Summary: Ancient origins at Makhel and Khezhakenoma, the myth of the three brothers, and settlement of the Ukhrul ridge.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul oral literature unequivocally traces ancestral migrations back",
+        "to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel,",
+        "three brothers departed: the eldest became the Meitei of the valley, the",
+        "middle the Tangkhul of the eastern hills, and the youngest the Northern",
+        "Naga groups. Hundung and Hunphun represent the dual pivotal",
+        "chieftaincies from which daughter settlements radiated throughout the",
+        "Raphei (Northern), Rem (Western), Kharao (Southern), and Khanggo",
+        "(Eastern) geographical divisions. While standard Tangkhul is based on",
+        "the dialect of Hunphun, the tribe comprises over one hundred villages.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tangkhul oral literature unequivocally traces ancestral migrations back",
+        "to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel,",
+        "three brothers departed: the eldest became the Meitei of the valley, the",
+        "middle the Tangkhul of the eastern hills, and the youngest the Northern",
+        "Naga groups. Hundung and Hunphun represent the dual pivotal",
+        "chieftaincies from which daughter settlements radiated throughout the",
+        "Raphei, Rem, Kharao, and Khanggo geographical divisions. Over one",
+        "hundred villages maintain distinct idioms."
+      ],
+      "tangkhul_content": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei (Northern), Rem (Western), Kharao (Southern), and Khanggo (Eastern) geographical divisions. While standard Tangkhul is based on the dialect of Hunphun, the tribe comprises over one hundred villages.",
+      "english_translation": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei, Rem, Kharao, and Khanggo geographical divisions. Over one hundred villages maintain distinct idioms.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 1: Continuation (Page 5)",
+      "title": "Chapter 1 (Continued)",
+      "lines": [
+        "CHAPTER 1: READING CONTINUATION (PAGE 5)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Tangkhul oral literature unequivocally traces ancestral migrations back",
+        "to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel,",
+        "three brothers departed: the eldest became the Meitei of the valley, the",
+        "middle the Tangkhul of the eastern hills, and the youngest the Northern",
+        "Naga groups. Hundung and Hunphun represent the dual pivotal",
+        "chieftaincies from which daughter settlements radiated throughout the",
+        "Raphei (Northern), Rem (Western), Kharao (Southern), and Khanggo",
+        "(Eastern) geographical divisions. While standard Tangkhul is based on",
+        "the dialect of Hunphun, the tribe comprises over one hundred villages.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Tangkhul oral literature unequivocally traces ancestral migrations back",
+        "to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel,",
+        "three brothers departed: the eldest became the Meitei of the valley, the",
+        "middle the Tangkhul of the eastern hills, and the youngest the Northern",
+        "Naga groups. Hundung and Hunphun represent the dual pivotal",
+        "chieftaincies from which daughter settlements radiated throughout the",
+        "Raphei, Rem, Kharao, and Khanggo geographical divisions. Over one",
+        "hundred villages maintain distinct idioms."
+      ],
+      "tangkhul_content": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei (Northern), Rem (Western), Kharao (Southern), and Khanggo (Eastern) geographical divisions. While standard Tangkhul is based on the dialect of Hunphun, the tribe comprises over one hundred villages.",
+      "english_translation": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei, Rem, Kharao, and Khanggo geographical divisions. Over one hundred villages maintain distinct idioms.",
+      "notes": [
+        "Continuation reading page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 6)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Makhel (proper noun): sacred ancestral dispersal village of the Naga tribes",
+        "  * Raphei (proper noun): northern Tangkhul territorial division",
+        "  * Rem (proper noun): western Tangkhul mountain division",
+        "  * Khanggo (proper noun): eastern border division contiguous to Myanmar",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Toponyms like 'Raphei' and 'Kharao' function as regional dialect and sociocultural identifiers.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What three brother-groups departed from Makhel in Tangkhul tradition?",
+        "  ? Name the four ancient geographical divisions of the Tangkhul hills."
+      ],
+      "tangkhul_content": "Makhel: sacred ancestral dispersal village of the Naga tribes\nRaphei: northern Tangkhul territorial division\nRem: western Tangkhul mountain division\nKhanggo: eastern border division contiguous to Myanmar",
+      "english_translation": "Toponyms like 'Raphei' and 'Kharao' function as regional dialect and sociocultural identifiers.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: The Village Republic: Awunga and the Hangva Council (Page 7)",
+      "title": "Chapter 2: The Village Republic: Awunga and the Hangva Council",
+      "lines": [
+        "CHAPTER 2: THE VILLAGE REPUBLIC: AWUNGA AND THE HANGVA COUNCIL",
+        "Summary: Village sovereignty (Wungram), the hereditary chief (Awunga), the clan elder bench (Hangva), and the Longshim dormitory.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "The traditional Tangkhul village was an autonomous republic with defined",
+        "territorial borders. At the head of each village stood the Awunga",
+        "(hereditary chief), governing in strict concert with the Hangva (Council",
+        "of Elders representing all village clans). The Hangva met at the",
+        "Awunga's courtyard to adjudicate disputes, announce festival schedules,",
+        "declare seasonal taboos (khamthei), and decide matters of peace or war.",
+        "Decisions were reached through consensus (ngalung). Integral to village",
+        "life was the Longshim (youth dormitory system) which served as the civic",
+        "militia and school of etiquette.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The traditional Tangkhul village was an autonomous republic with defined",
+        "territorial borders. At the head of each village stood the Awunga",
+        "(hereditary chief), governing in strict concert with the Hangva (Council",
+        "of Elders representing all clans). The Hangva met at the chief's",
+        "courtyard to adjudicate disputes, announce festival schedules, declare",
+        "seasonal taboos, and decide peace or war. Consensus (ngalung) governed",
+        "all decisions. The Longshim dormitory trained youth in civic defense and",
+        "customary etiquette."
+      ],
+      "tangkhul_content": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all village clans). The Hangva met at the Awunga's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos (khamthei), and decide matters of peace or war. Decisions were reached through consensus (ngalung). Integral to village life was the Longshim (youth dormitory system) which served as the civic militia and school of etiquette.",
+      "english_translation": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all clans). The Hangva met at the chief's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos, and decide peace or war. Consensus (ngalung) governed all decisions. The Longshim dormitory trained youth in civic defense and customary etiquette.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 2: Continuation (Page 8)",
+      "title": "Chapter 2 (Continued)",
+      "lines": [
+        "CHAPTER 2: READING CONTINUATION (PAGE 8)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "The traditional Tangkhul village was an autonomous republic with defined",
+        "territorial borders. At the head of each village stood the Awunga",
+        "(hereditary chief), governing in strict concert with the Hangva (Council",
+        "of Elders representing all village clans). The Hangva met at the",
+        "Awunga's courtyard to adjudicate disputes, announce festival schedules,",
+        "declare seasonal taboos (khamthei), and decide matters of peace or war.",
+        "Decisions were reached through consensus (ngalung). Integral to village",
+        "life was the Longshim (youth dormitory system) which served as the civic",
+        "militia and school of etiquette.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "The traditional Tangkhul village was an autonomous republic with defined",
+        "territorial borders. At the head of each village stood the Awunga",
+        "(hereditary chief), governing in strict concert with the Hangva (Council",
+        "of Elders representing all clans). The Hangva met at the chief's",
+        "courtyard to adjudicate disputes, announce festival schedules, declare",
+        "seasonal taboos, and decide peace or war. Consensus (ngalung) governed",
+        "all decisions. The Longshim dormitory trained youth in civic defense and",
+        "customary etiquette."
+      ],
+      "tangkhul_content": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all village clans). The Hangva met at the Awunga's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos (khamthei), and decide matters of peace or war. Decisions were reached through consensus (ngalung). Integral to village life was the Longshim (youth dormitory system) which served as the civic militia and school of etiquette.",
+      "english_translation": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all clans). The Hangva met at the chief's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos, and decide peace or war. Consensus (ngalung) governed all decisions. The Longshim dormitory trained youth in civic defense and customary etiquette.",
+      "notes": [
+        "Continuation reading page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Awunga (noun): village chief, hereditary royal headman",
+        "  * Hangva (noun): village council of clan elders",
+        "  * Ngalung (noun): consensus, unanimous deliberative agreement",
+        "  * Longshim (noun): youth dormitory, communal education hall",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The compound 'Wungram' joins 'Wung' (indigenous ethnonym) with 'ram' (land / country / territory).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How did the Hangva council reach decisions under customary governance?",
+        "  ? Describe the educational and defensive roles of the Longshim dormitory."
+      ],
+      "tangkhul_content": "Awunga: village chief, hereditary royal headman\nHangva: village council of clan elders\nNgalung: consensus, unanimous deliberative agreement\nLongshim: youth dormitory, communal education hall",
+      "english_translation": "The compound 'Wungram' joins 'Wung' (indigenous ethnonym) with 'ram' (land / country / territory).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Agricultural Regimes: Luingam and Shilmik (Page 10)",
+      "title": "Chapter 3: Agricultural Regimes: Luingam and Shilmik",
+      "lines": [
+        "CHAPTER 3: AGRICULTURAL REGIMES: LUINGAM AND SHILMIK",
+        "Summary: Terrace cultivation (Luingam), swidden farming (Shilmik), irrigation channels (kong-kuir), and the Luira festival.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul subsistence economy was anchored upon wet-rice terrace",
+        "cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces",
+        "along mountain slopes required gravity-fed irrigation channels (kong-",
+        "kuir) maintained collectively by syndicates. The agricultural calendar",
+        "opened with the Luira Phanit (seed-sowing festival) in February. No",
+        "villager was permitted to sow until the Awunga performed the sacred",
+        "first sowing ritual. Harvest was celebrated with Chumpha in December,",
+        "consecrating newly garnered paddy in village granaries (raizan).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tangkhul subsistence economy was anchored upon wet-rice terrace",
+        "cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces",
+        "along mountain slopes required gravity-fed irrigation channels (kong-",
+        "kuir) maintained collectively by syndicates. The agricultural year began",
+        "with Luira Phanit in February with the chief's sacred first sowing, and",
+        "closed with Chumpha in December, consecrating newly stored grain in",
+        "family granaries."
+      ],
+      "tangkhul_content": "Tangkhul subsistence economy was anchored upon wet-rice terrace cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces along mountain slopes required gravity-fed irrigation channels (kong-kuir) maintained collectively by syndicates. The agricultural calendar opened with the Luira Phanit (seed-sowing festival) in February. No villager was permitted to sow until the Awunga performed the sacred first sowing ritual. Harvest was celebrated with Chumpha in December, consecrating newly garnered paddy in village granaries (raizan).",
+      "english_translation": "Tangkhul subsistence economy was anchored upon wet-rice terrace cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces along mountain slopes required gravity-fed irrigation channels (kong-kuir) maintained collectively by syndicates. The agricultural year began with Luira Phanit in February with the chief's sacred first sowing, and closed with Chumpha in December, consecrating newly stored grain in family granaries.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Luingam (noun): wet-rice terrace cultivation, irrigated terrace field",
+        "  * Shilmik (noun): swidden agriculture, slash-and-burn jhum plot",
+        "  * Kong-kuir (noun): irrigation canal, gravity-fed water channel",
+        "  * Raizan (noun): granary, raised storehouse for harvested paddy",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Compound root 'luira' combines 'lui' (terrace field) and 'ra' (water / festival rites).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is the distinction between Luingam and Shilmik cultivation?",
+        "  ? Which festivals mark the opening and closing of the Tangkhul farming cycle?"
+      ],
+      "tangkhul_content": "Luingam: wet-rice terrace cultivation, irrigated terrace field\nShilmik: swidden agriculture, slash-and-burn jhum plot\nKong-kuir: irrigation canal, gravity-fed water channel\nRaizan: granary, raised storehouse for harvested paddy",
+      "english_translation": "Compound root 'luira' combines 'lui' (terrace field) and 'ra' (water / festival rites).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Clan Kinship (Shang) and Land Tenure (Page 12)",
+      "title": "Chapter 4: Clan Kinship (Shang) and Land Tenure",
+      "lines": [
+        "CHAPTER 4: CLAN KINSHIP (SHANG) AND LAND TENURE",
+        "Summary: Exogamous patrilineal clans (Shang), inheritance by male primogeniture, and the sacrosanct role of Pukreila peace envoys.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul society is strictly exogamous and patrilineal, organized into",
+        "clans (shang) and sub-lineages (shimkhor). Marriage within the clan was",
+        "strictly prohibited as shiman-kaphung. Land tenure was threefold:",
+        "communal village land, clan land, and family hereditary plots. Ancestral",
+        "homesteads passed through male primogeniture. When villages entered",
+        "formal treaties, high-status women born in one village and married into",
+        "the other acted as Pukreila (peace ambassadors). The person of the",
+        "Pukreila was sacrosanct; harming an ambassador was regarded as an",
+        "unforgivable breach invoking divine retribution.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tangkhul society is strictly exogamous and patrilineal, organized into",
+        "clans (shang) and sub-lineages (shimkhor). Intra-clan marriage was",
+        "strictly prohibited. Land tenure comprised communal village land, clan",
+        "reserves, and family plots. Homesteads passed via male primogeniture.",
+        "Inter-village treaties were mediated by Pukreila (female peace",
+        "ambassadors). The person of the Pukreila was sacrosanct, and harming an",
+        "ambassador invoked severe divine retribution."
+      ],
+      "tangkhul_content": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Marriage within the clan was strictly prohibited as shiman-kaphung. Land tenure was threefold: communal village land, clan land, and family hereditary plots. Ancestral homesteads passed through male primogeniture. When villages entered formal treaties, high-status women born in one village and married into the other acted as Pukreila (peace ambassadors). The person of the Pukreila was sacrosanct; harming an ambassador was regarded as an unforgivable breach invoking divine retribution.",
+      "english_translation": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Intra-clan marriage was strictly prohibited. Land tenure comprised communal village land, clan reserves, and family plots. Homesteads passed via male primogeniture. Inter-village treaties were mediated by Pukreila (female peace ambassadors). The person of the Pukreila was sacrosanct, and harming an ambassador invoked severe divine retribution.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 4: Continuation (Page 13)",
+      "title": "Chapter 4 (Continued)",
+      "lines": [
+        "CHAPTER 4: READING CONTINUATION (PAGE 13)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Tangkhul society is strictly exogamous and patrilineal, organized into",
+        "clans (shang) and sub-lineages (shimkhor). Marriage within the clan was",
+        "strictly prohibited as shiman-kaphung. Land tenure was threefold:",
+        "communal village land, clan land, and family hereditary plots. Ancestral",
+        "homesteads passed through male primogeniture. When villages entered",
+        "formal treaties, high-status women born in one village and married into",
+        "the other acted as Pukreila (peace ambassadors). The person of the",
+        "Pukreila was sacrosanct; harming an ambassador was regarded as an",
+        "unforgivable breach invoking divine retribution.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Tangkhul society is strictly exogamous and patrilineal, organized into",
+        "clans (shang) and sub-lineages (shimkhor). Intra-clan marriage was",
+        "strictly prohibited. Land tenure comprised communal village land, clan",
+        "reserves, and family plots. Homesteads passed via male primogeniture.",
+        "Inter-village treaties were mediated by Pukreila (female peace",
+        "ambassadors). The person of the Pukreila was sacrosanct, and harming an",
+        "ambassador invoked severe divine retribution."
+      ],
+      "tangkhul_content": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Marriage within the clan was strictly prohibited as shiman-kaphung. Land tenure was threefold: communal village land, clan land, and family hereditary plots. Ancestral homesteads passed through male primogeniture. When villages entered formal treaties, high-status women born in one village and married into the other acted as Pukreila (peace ambassadors). The person of the Pukreila was sacrosanct; harming an ambassador was regarded as an unforgivable breach invoking divine retribution.",
+      "english_translation": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Intra-clan marriage was strictly prohibited. Land tenure comprised communal village land, clan reserves, and family plots. Homesteads passed via male primogeniture. Inter-village treaties were mediated by Pukreila (female peace ambassadors). The person of the Pukreila was sacrosanct, and harming an ambassador invoked severe divine retribution.",
+      "notes": [
+        "Continuation reading page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 14)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Shang (noun): patrilineal clan, exogamous kinship group",
+        "  * Shimkhor (noun): sub-lineage, hearth-circle within a clan",
+        "  * Pukreila (noun): female peace ambassador, sacrosanct treaty envoy",
+        "  * Khamatui (noun): divine retribution, cosmic curse on covenant breakers",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The feminine suffix '-la' in 'Pukreila' designates an honored woman functioning in ambassadorial capacity.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Explain the diplomatic and moral functions of the Pukreila in Naga warfare.",
+        "  ? What are the three categories of land ownership under Tangkhul customary law?"
+      ],
+      "tangkhul_content": "Shang: patrilineal clan, exogamous kinship group\nShimkhor: sub-lineage, hearth-circle within a clan\nPukreila: female peace ambassador, sacrosanct treaty envoy\nKhamatui: divine retribution, cosmic curse on covenant breakers",
+      "english_translation": "The feminine suffix '-la' in 'Pukreila' designates an honored woman functioning in ambassadorial capacity.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Head-Taking (Rai) and Peacemaking Rituals (Page 15)",
+      "title": "Chapter 5: Head-Taking (Rai) and Peacemaking Rituals",
+      "lines": [
+        "CHAPTER 5: HEAD-TAKING (RAI) AND PEACEMAKING RITUALS",
+        "Summary: The ritual logic of head-taking, the village skull repository, and the solemn covenant of spear burial.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Head-taking among the Tangkhul was bound to cosmological balance,",
+        "fertility of crops, and personal valor. It was ritual warfare governed",
+        "by strict customary boundaries. Heads taken were brought to the village",
+        "entrance, received with ritual chants, and hung at the sacred village",
+        "tree (khor-thing) or deposited at the village skull depository. Wars",
+        "were concluded through the solemn ceremony of spear burial (kachu-kapam)",
+        "and the consumption of ceremonial pork and rice-beer between combatant",
+        "Awungas. Broken oaths brought calamity upon future generations.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Head-taking among the Tangkhul was bound to cosmological balance,",
+        "fertility of crops, and personal valor. It was ritual warfare governed",
+        "by strict customary boundaries. Heads taken were brought to the village",
+        "entrance, hung at the sacred village tree (khor-thing) or placed in the",
+        "skull depository. Wars concluded through the ceremony of spear burial",
+        "(kachu-kapam) and mutual consumption of ceremonial food by chiefs,",
+        "sealing eternal oaths."
+      ],
+      "tangkhul_content": "Head-taking among the Tangkhul was bound to cosmological balance, fertility of crops, and personal valor. It was ritual warfare governed by strict customary boundaries. Heads taken were brought to the village entrance, received with ritual chants, and hung at the sacred village tree (khor-thing) or deposited at the village skull depository. Wars were concluded through the solemn ceremony of spear burial (kachu-kapam) and the consumption of ceremonial pork and rice-beer between combatant Awungas. Broken oaths brought calamity upon future generations.",
+      "english_translation": "Head-taking among the Tangkhul was bound to cosmological balance, fertility of crops, and personal valor. It was ritual warfare governed by strict customary boundaries. Heads taken were brought to the village entrance, hung at the sacred village tree (khor-thing) or placed in the skull depository. Wars concluded through the ceremony of spear burial (kachu-kapam) and mutual consumption of ceremonial food by chiefs, sealing eternal oaths.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 16)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Rai (noun): warfare, military expedition, martial contest",
+        "  * Khor-thing (noun): sacred village tree, warrior trophy oak",
+        "  * Kachu-kapam (noun phrase): spear burial, solemn peacemaking covenant",
+        "  * Tala-khon (noun): war horn, buffalo horn trumpet sounding alarm or victory",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Compound verbal noun 'kachu-kapam' pairs 'kachu' (spear) with 'kapam' (planting/burying deeply).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How did Tangkhul warriors conclude peace after warfare?",
+        "  ? What cosmological beliefs were associated with head-taking?"
+      ],
+      "tangkhul_content": "Rai: warfare, military expedition, martial contest\nKhor-thing: sacred village tree, warrior trophy oak\nKachu-kapam: spear burial, solemn peacemaking covenant\nTala-khon: war horn, buffalo horn trumpet sounding alarm or victory",
+      "english_translation": "Compound verbal noun 'kachu-kapam' pairs 'kachu' (spear) with 'kapam' (planting/burying deeply).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Traditional Religion: Kameo, Varivara, and Feasts of Merit (Page 17)",
+      "title": "Chapter 6: Traditional Religion: Kameo, Varivara, and Feasts of Merit",
+      "lines": [
+        "CHAPTER 6: TRADITIONAL RELIGION: KAMEO, VARIVARA, AND FEASTS OF MERIT",
+        "Summary: Cosmological belief in the Supreme God (Varivara), spirits of nature (Kameo), and memorial Feasts of Merit (Maringphat).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt",
+        "in the highest heavens, benevolent and just. Beneath Varivara were",
+        "regional nature spirits (Kameo) inhabiting sacred groves, cliffs, and",
+        "peaks. Propitiatory offerings were made by the village priest (Maiba) to",
+        "appease spirits. Wealthy individuals who accumulated surplus grain and",
+        "cattle performed progressive Feasts of Merit (Maringphat), feeding the",
+        "entire village community and allied settlements for multiple days,",
+        "erecting memorial megaliths (lung-thei), and carving house-fronts with",
+        "horn-motifs (lengcheng-pakhang).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt",
+        "in the highest heavens, benevolent and just. Beneath Varivara were",
+        "nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks,",
+        "propitiated by the priest (Maiba). Wealthy individuals performed",
+        "progressive Feasts of Merit (Maringphat), hosting the entire community",
+        "for multiple days, erecting memorial megaliths (lung-thei), and carving",
+        "house facades with ceremonial horn motifs."
+      ],
+      "tangkhul_content": "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt in the highest heavens, benevolent and just. Beneath Varivara were regional nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks. Propitiatory offerings were made by the village priest (Maiba) to appease spirits. Wealthy individuals who accumulated surplus grain and cattle performed progressive Feasts of Merit (Maringphat), feeding the entire village community and allied settlements for multiple days, erecting memorial megaliths (lung-thei), and carving house-fronts with horn-motifs (lengcheng-pakhang).",
+      "english_translation": "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt in the highest heavens, benevolent and just. Beneath Varivara were nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks, propitiated by the priest (Maiba). Wealthy individuals performed progressive Feasts of Merit (Maringphat), hosting the entire community for multiple days, erecting memorial megaliths (lung-thei), and carving house facades with ceremonial horn motifs.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Maiba (noun): traditional village priest, ritual sacrificer",
+        "  * Maringphat (noun): Feast of Merit, progressive socioeconomic feast",
+        "  * Lung-thei (noun): memorial stone megalith, standing commemorative stone",
+        "  * Lengcheng-pakhang (noun phrase): house-horns, carved gable-planks of feast givers",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Nominal compound 'lung-thei' combines 'lung' (stone) with stative 'thei' (manifest / conspicuous).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What cultural privileges did a Feast of Merit confer upon a Tangkhul family?",
+        "  ? Distinguish between the supreme role of Varivara and localized Kameo spirits."
+      ],
+      "tangkhul_content": "Maiba: traditional village priest, ritual sacrificer\nMaringphat: Feast of Merit, progressive socioeconomic feast\nLung-thei: memorial stone megalith, standing commemorative stone\nLengcheng-pakhang: house-horns, carved gable-planks of feast givers",
+      "english_translation": "Nominal compound 'lung-thei' combines 'lung' (stone) with stative 'thei' (manifest / conspicuous).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: The Colonial Encounter and Political Awakenings (Page 19)",
+      "title": "Chapter 7: The Colonial Encounter and Political Awakenings",
+      "lines": [
+        "CHAPTER 7: THE COLONIAL ENCOUNTER AND POLITICAL AWAKENINGS",
+        "Summary: Colonial pacification, William Pettigrew's mission school in Ukhrul, and the emergence of modern Naga consciousness.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "The arrival of British administration in the late 19th century and the",
+        "establishment of Rev. William Pettigrew's mission school at Ukhrul in",
+        "1896 initiated dramatic socioeconomic transformations. Roman script",
+        "literacy, modern medical care, and Christianity gradually replaced the",
+        "head-taking regime. Yet Tangkhul customary laws, land rights, and",
+        "village identity endured, forming the foundation of modern Naga",
+        "political consciousness and solidarity in northeast India.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "British colonial administration and Rev. William Pettigrew's mission",
+        "school in 1896 at Ukhrul catalyzed profound transformations. Roman",
+        "literacy, healthcare, and Christianity gradually replaced the warfare",
+        "regime. Yet customary laws, ancestral land tenure, and village identity",
+        "endured, providing the bedrock of modern Naga political solidarity in",
+        "northeast India."
+      ],
+      "tangkhul_content": "The arrival of British administration in the late 19th century and the establishment of Rev. William Pettigrew's mission school at Ukhrul in 1896 initiated dramatic socioeconomic transformations. Roman script literacy, modern medical care, and Christianity gradually replaced the head-taking regime. Yet Tangkhul customary laws, land rights, and village identity endured, forming the foundation of modern Naga political consciousness and solidarity in northeast India.",
+      "english_translation": "British colonial administration and Rev. William Pettigrew's mission school in 1896 at Ukhrul catalyzed profound transformations. Roman literacy, healthcare, and Christianity gradually replaced the warfare regime. Yet customary laws, ancestral land tenure, and village identity endured, providing the bedrock of modern Naga political solidarity in northeast India.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Wungram kashang (noun phrase): elevation and dignity of the Tangkhul homeland",
+        "  * Pettigrew-wui thot (noun phrase): the missionary era, advent of modern education (1896+)",
+        "  * Tuingashit kathara (noun phrase): new covenant, modern constitutional rights",
+        "  * Ngalung-khangayei (noun): political unity, pan-tribal solidarity",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Temporal genitive 'Pettigrew-wui thot' marks the pivotal historical turning point in modern Tangkhul historiography.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? When did Rev. William Pettigrew establish the first school in Ukhrul?",
+        "  ? How did customary land tenure survive colonial and post-colonial governance?"
+      ],
+      "tangkhul_content": "Wungram kashang: elevation and dignity of the Tangkhul homeland\nPettigrew-wui thot: the missionary era, advent of modern education (1896+)\nTuingashit kathara: new covenant, modern constitutional rights\nNgalung-khangayei: political unity, pan-tribal solidarity",
+      "english_translation": "Temporal genitive 'Pettigrew-wui thot' marks the pivotal historical turning point in modern Tangkhul historiography.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "History of the Tangkhul Nagas -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  Makhel [proper noun]: sacred ancestral dispersal village of the Naga tribes",
+        "  Raphei [proper noun]: northern Tangkhul territorial division",
+        "  Rem [proper noun]: western Tangkhul mountain division",
+        "  Khanggo [proper noun]: eastern border division contiguous to Myanmar",
+        "  Awunga [noun]: village chief, hereditary royal headman",
+        "  Hangva [noun]: village council of clan elders",
+        "  Ngalung [noun]: consensus, unanimous deliberative agreement",
+        "  Longshim [noun]: youth dormitory, communal education hall",
+        "  Luingam [noun]: wet-rice terrace cultivation, irrigated terrace field",
+        "  Shilmik [noun]: swidden agriculture, slash-and-burn jhum plot",
+        "  Kong-kuir [noun]: irrigation canal, gravity-fed water channel",
+        "  Raizan [noun]: granary, raised storehouse for harvested paddy",
+        "  Shang [noun]: patrilineal clan, exogamous kinship group",
+        "  Shimkhor [noun]: sub-lineage, hearth-circle within a clan",
+        "  Pukreila [noun]: female peace ambassador, sacrosanct treaty envoy",
+        "  Khamatui [noun]: divine retribution, cosmic curse on covenant breakers",
+        "  Rai [noun]: warfare, military expedition, martial contest",
+        "  Khor-thing [noun]: sacred village tree, warrior trophy oak",
+        "  Kachu-kapam [noun phrase]: spear burial, solemn peacemaking covenant",
+        "  Tala-khon [noun]: war horn, buffalo horn trumpet sounding alarm or victory",
+        "  Maiba [noun]: traditional village priest, ritual sacrificer",
+        "  Maringphat [noun]: Feast of Merit, progressive socioeconomic feast",
+        "  Lung-thei [noun]: memorial stone megalith, standing commemorative stone",
+        "  Lengcheng-pakhang [noun phrase]: house-horns, carved gable-planks of feast givers",
+        "  Wungram kashang [noun phrase]: elevation and dignity of the Tangkhul homeland",
+        "  Pettigrew-wui thot [noun phrase]: the missionary era, advent of modern education (1896+)",
+        "  Tuingashit kathara [noun phrase]: new covenant, modern constitutional rights",
+        "  Ngalung-khangayei [noun]: political unity, pan-tribal solidarity"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 28"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "History of the Tangkhul Nagas -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-HIST-003",
+        "Title: History of the Tangkhul Nagas",
+        "Publisher: Akansha Publishing House, New Delhi",
+        "Publication Year: 2001",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 7",
+        "Total Words Indexed: 980",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "Makhel",
+        "pos": "proper noun",
+        "meaning": "sacred ancestral dispersal village of the Naga tribes"
+      },
+      {
+        "word": "Raphei",
+        "pos": "proper noun",
+        "meaning": "northern Tangkhul territorial division"
+      },
+      {
+        "word": "Rem",
+        "pos": "proper noun",
+        "meaning": "western Tangkhul mountain division"
+      },
+      {
+        "word": "Khanggo",
+        "pos": "proper noun",
+        "meaning": "eastern border division contiguous to Myanmar"
+      },
+      {
+        "word": "Awunga",
+        "pos": "noun",
+        "meaning": "village chief, hereditary royal headman"
+      },
+      {
+        "word": "Hangva",
+        "pos": "noun",
+        "meaning": "village council of clan elders"
+      },
+      {
+        "word": "Ngalung",
+        "pos": "noun",
+        "meaning": "consensus, unanimous deliberative agreement"
+      },
+      {
+        "word": "Longshim",
+        "pos": "noun",
+        "meaning": "youth dormitory, communal education hall"
+      },
+      {
+        "word": "Luingam",
+        "pos": "noun",
+        "meaning": "wet-rice terrace cultivation, irrigated terrace field"
+      },
+      {
+        "word": "Shilmik",
+        "pos": "noun",
+        "meaning": "swidden agriculture, slash-and-burn jhum plot"
+      },
+      {
+        "word": "Kong-kuir",
+        "pos": "noun",
+        "meaning": "irrigation canal, gravity-fed water channel"
+      },
+      {
+        "word": "Raizan",
+        "pos": "noun",
+        "meaning": "granary, raised storehouse for harvested paddy"
+      },
+      {
+        "word": "Shang",
+        "pos": "noun",
+        "meaning": "patrilineal clan, exogamous kinship group"
+      },
+      {
+        "word": "Shimkhor",
+        "pos": "noun",
+        "meaning": "sub-lineage, hearth-circle within a clan"
+      },
+      {
+        "word": "Pukreila",
+        "pos": "noun",
+        "meaning": "female peace ambassador, sacrosanct treaty envoy"
+      },
+      {
+        "word": "Khamatui",
+        "pos": "noun",
+        "meaning": "divine retribution, cosmic curse on covenant breakers"
+      },
+      {
+        "word": "Rai",
+        "pos": "noun",
+        "meaning": "warfare, military expedition, martial contest"
+      },
+      {
+        "word": "Khor-thing",
+        "pos": "noun",
+        "meaning": "sacred village tree, warrior trophy oak"
+      },
+      {
+        "word": "Kachu-kapam",
+        "pos": "noun phrase",
+        "meaning": "spear burial, solemn peacemaking covenant"
+      },
+      {
+        "word": "Tala-khon",
+        "pos": "noun",
+        "meaning": "war horn, buffalo horn trumpet sounding alarm or victory"
+      },
+      {
+        "word": "Maiba",
+        "pos": "noun",
+        "meaning": "traditional village priest, ritual sacrificer"
+      },
+      {
+        "word": "Maringphat",
+        "pos": "noun",
+        "meaning": "Feast of Merit, progressive socioeconomic feast"
+      },
+      {
+        "word": "Lung-thei",
+        "pos": "noun",
+        "meaning": "memorial stone megalith, standing commemorative stone"
+      },
+      {
+        "word": "Lengcheng-pakhang",
+        "pos": "noun phrase",
+        "meaning": "house-horns, carved gable-planks of feast givers"
+      },
+      {
+        "word": "Wungram kashang",
+        "pos": "noun phrase",
+        "meaning": "elevation and dignity of the Tangkhul homeland"
+      },
+      {
+        "word": "Pettigrew-wui thot",
+        "pos": "noun phrase",
+        "meaning": "the missionary era, advent of modern education (1896+)"
+      },
+      {
+        "word": "Tuingashit kathara",
+        "pos": "noun phrase",
+        "meaning": "new covenant, modern constitutional rights"
+      },
+      {
+        "word": "Ngalung-khangayei",
+        "pos": "noun",
+        "meaning": "political unity, pan-tribal solidarity"
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-HIST-003",
+      "title": "History of the Tangkhul Nagas",
+      "total_pages": 22,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 7,
+  "total_words": 1807,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Origin Traditions and Migration from Makhel",
+      "tangkhul_text": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei (Northern), Rem (Western), Kharao (Southern), and Khanggo (Eastern) geographical divisions. While standard Tangkhul is based on the dialect of Hunphun, the tribe comprises over one hundred villages.",
+      "translation_en": "Tangkhul oral literature unequivocally traces ancestral migrations back to Makhel in northern Manipur and contiguous Khezhakenoma. From Makhel, three brothers departed: the eldest became the Meitei of the valley, the middle the Tangkhul of the eastern hills, and the youngest the Northern Naga groups. Hundung and Hunphun represent the dual pivotal chieftaincies from which daughter settlements radiated throughout the Raphei, Rem, Kharao, and Khanggo geographical divisions. Over one hundred villages maintain distinct idioms."
+    },
+    {
+      "chapter": "Chapter 2: The Village Republic: Awunga and the Hangva Council",
+      "tangkhul_text": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all village clans). The Hangva met at the Awunga's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos (khamthei), and decide matters of peace or war. Decisions were reached through consensus (ngalung). Integral to village life was the Longshim (youth dormitory system) which served as the civic militia and school of etiquette.",
+      "translation_en": "The traditional Tangkhul village was an autonomous republic with defined territorial borders. At the head of each village stood the Awunga (hereditary chief), governing in strict concert with the Hangva (Council of Elders representing all clans). The Hangva met at the chief's courtyard to adjudicate disputes, announce festival schedules, declare seasonal taboos, and decide peace or war. Consensus (ngalung) governed all decisions. The Longshim dormitory trained youth in civic defense and customary etiquette."
+    },
+    {
+      "chapter": "Chapter 3: Agricultural Regimes: Luingam and Shilmik",
+      "tangkhul_text": "Tangkhul subsistence economy was anchored upon wet-rice terrace cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces along mountain slopes required gravity-fed irrigation channels (kong-kuir) maintained collectively by syndicates. The agricultural calendar opened with the Luira Phanit (seed-sowing festival) in February. No villager was permitted to sow until the Awunga performed the sacred first sowing ritual. Harvest was celebrated with Chumpha in December, consecrating newly garnered paddy in village granaries (raizan).",
+      "translation_en": "Tangkhul subsistence economy was anchored upon wet-rice terrace cultivation (Luingam) and rotational swidden farming (Shilmik). Terraces along mountain slopes required gravity-fed irrigation channels (kong-kuir) maintained collectively by syndicates. The agricultural year began with Luira Phanit in February with the chief's sacred first sowing, and closed with Chumpha in December, consecrating newly stored grain in family granaries."
+    },
+    {
+      "chapter": "Chapter 4: Clan Kinship (Shang) and Land Tenure",
+      "tangkhul_text": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Marriage within the clan was strictly prohibited as shiman-kaphung. Land tenure was threefold: communal village land, clan land, and family hereditary plots. Ancestral homesteads passed through male primogeniture. When villages entered formal treaties, high-status women born in one village and married into the other acted as Pukreila (peace ambassadors). The person of the Pukreila was sacrosanct; harming an ambassador was regarded as an unforgivable breach invoking divine retribution.",
+      "translation_en": "Tangkhul society is strictly exogamous and patrilineal, organized into clans (shang) and sub-lineages (shimkhor). Intra-clan marriage was strictly prohibited. Land tenure comprised communal village land, clan reserves, and family plots. Homesteads passed via male primogeniture. Inter-village treaties were mediated by Pukreila (female peace ambassadors). The person of the Pukreila was sacrosanct, and harming an ambassador invoked severe divine retribution."
+    },
+    {
+      "chapter": "Chapter 5: Head-Taking (Rai) and Peacemaking Rituals",
+      "tangkhul_text": "Head-taking among the Tangkhul was bound to cosmological balance, fertility of crops, and personal valor. It was ritual warfare governed by strict customary boundaries. Heads taken were brought to the village entrance, received with ritual chants, and hung at the sacred village tree (khor-thing) or deposited at the village skull depository. Wars were concluded through the solemn ceremony of spear burial (kachu-kapam) and the consumption of ceremonial pork and rice-beer between combatant Awungas. Broken oaths brought calamity upon future generations.",
+      "translation_en": "Head-taking among the Tangkhul was bound to cosmological balance, fertility of crops, and personal valor. It was ritual warfare governed by strict customary boundaries. Heads taken were brought to the village entrance, hung at the sacred village tree (khor-thing) or placed in the skull depository. Wars concluded through the ceremony of spear burial (kachu-kapam) and mutual consumption of ceremonial food by chiefs, sealing eternal oaths."
+    },
+    {
+      "chapter": "Chapter 6: Traditional Religion: Kameo, Varivara, and Feasts of Merit",
+      "tangkhul_text": "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt in the highest heavens, benevolent and just. Beneath Varivara were regional nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks. Propitiatory offerings were made by the village priest (Maiba) to appease spirits. Wealthy individuals who accumulated surplus grain and cattle performed progressive Feasts of Merit (Maringphat), feeding the entire village community and allied settlements for multiple days, erecting memorial megaliths (lung-thei), and carving house-fronts with horn-motifs (lengcheng-pakhang).",
+      "translation_en": "Tangkhul cosmology recognized a Supreme Creator God (Varivara) who dwelt in the highest heavens, benevolent and just. Beneath Varivara were nature spirits (Kameo) inhabiting sacred groves, cliffs, and peaks, propitiated by the priest (Maiba). Wealthy individuals performed progressive Feasts of Merit (Maringphat), hosting the entire community for multiple days, erecting memorial megaliths (lung-thei), and carving house facades with ceremonial horn motifs."
+    },
+    {
+      "chapter": "Chapter 7: The Colonial Encounter and Political Awakenings",
+      "tangkhul_text": "The arrival of British administration in the late 19th century and the establishment of Rev. William Pettigrew's mission school at Ukhrul in 1896 initiated dramatic socioeconomic transformations. Roman script literacy, modern medical care, and Christianity gradually replaced the head-taking regime. Yet Tangkhul customary laws, land rights, and village identity endured, forming the foundation of modern Naga political consciousness and solidarity in northeast India.",
+      "translation_en": "British colonial administration and Rev. William Pettigrew's mission school in 1896 at Ukhrul catalyzed profound transformations. Roman literacy, healthcare, and Christianity gradually replaced the warfare regime. Yet customary laws, ancestral land tenure, and village identity endured, providing the bedrock of modern Naga political solidarity in northeast India."
+    }
+  ]
+}

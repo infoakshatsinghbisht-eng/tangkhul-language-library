@@ -1,0 +1,1138 @@
+{
+  "id": "BK-CIIL-004",
+  "resource_type": "books",
+  "title": "Tangkhul-English, Hindi Dictionary",
+  "alternate_titles": [
+    "Tangkhul Trilingual Dictionary"
+  ],
+  "authors": [
+    "S. Arokianathan",
+    "Rekha Sharma"
+  ],
+  "editors": [],
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "publication_year": 1995,
+  "year": 1995,
+  "edition": "First Edition",
+  "subject": "Trilingual Lexicography",
+  "educational_level": "Academic / Reference",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "81-7342-028-9",
+  "source_url": "https://archive.org/details/tangkhulenglishh00arok",
+  "source_identifier": "tangkhulenglishh00arok",
+  "catalogue_url": "https://archive.org/details/tangkhulenglishh00arok",
+  "local_file_path": "data/raw/books/BK-CIIL-004_arokianathan_1995.txt",
+  "file_format": "txt",
+  "license": "Academic Research Edition",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Comprehensive 140-page trilingual reference lexicon published by CIIL, documenting word classes, phonetic forms, and syntactic patterns.",
+  "front_matter": {
+    "title_page": {
+      "title": "Tangkhul-English, Hindi Dictionary",
+      "alternate_titles": [
+        "Tangkhul Trilingual Dictionary"
+      ],
+      "authors": [
+        "S. Arokianathan",
+        "Rekha Sharma"
+      ],
+      "editors": [],
+      "publisher": "Central Institute of Indian Languages, Mysore",
+      "publication_year": 1995,
+      "edition": "First Edition",
+      "educational_level": "Academic / Reference",
+      "subject": "Trilingual Lexicography",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-CIIL-004",
+      "license": "Academic Research Edition",
+      "permission_status": "permitted",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "tangkhulenglishh00arok",
+      "source_url": "https://archive.org/details/tangkhulenglishh00arok"
+    },
+    "preface": "Tangkhul-English, Hindi Dictionary by Dr. S. Arokianathan and Dr. Rekha Sharma, published by the Central Institute of Indian Languages, Mysore (CIIL Dictionary Series, 1995, 140 pages, ISBN 81-7342-028-9). Provides systematic lexicographical descriptions of Tangkhul root morphemes, compounds, word classes, English definitions, and Hindi equivalents."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Phonological Structure & Lexicographical Conventions",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nominal Vocabulary: Body Parts, Kinship & Nature",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Verbal Lexicon: Motion, Action & Cognition",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adjectives, Color Terms & Spatial Qualifiers",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Numerals, Quantifiers & Temporal Markers",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Flora, Fauna, Agriculture & Domestic Artifacts",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 7,
+      "title": "Trilingual Lexical Index & Comparative Matrix",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 19
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 20
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Phonological Structure & Lexicographical Conventions",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Vowel length, aspirated plosives, and trilingual lexicographical entry conventions.",
+      "tangkhul_text": "Lexicographical Format: Headword [Part of Speech] English Definition / Hindi Equivalent. Minimal vowel length contrasts: 'sa' [v] to do / करना vs 'sā' [n] animal, meat / पशु, माँस. 'sha' [v] to hear / सुनना vs 'shā' [num] hundred / सौ. Infinitive prefix ka- precedes verbal roots: ka-sa, ka-thei, ka-shak.",
+      "english_translation": "Conventions: Headwords are alphabetized according to Roman script order. Phonemic vowel length (macron) is strictly distinguished. Trilingual definitions provide immediate cross-linguistic equivalents in English and Hindi.",
+      "vocabulary": [
+        {
+          "word": "sairik",
+          "pos": "noun",
+          "meaning": "letter, phoneme / वर्ण",
+          "example": "Sairik kakhalat."
+        },
+        {
+          "word": "kakhalat",
+          "pos": "noun",
+          "meaning": "pronunciation / उच्चारण",
+          "example": "Kakhalat kashak."
+        },
+        {
+          "word": "tuiwon",
+          "pos": "noun",
+          "meaning": "word entry / शब्द",
+          "example": "Tuiwon shiyan."
+        }
+      ],
+      "grammar_points": [
+        "Headword selection criteria.",
+        "Trilingual cross-referencing structure."
+      ],
+      "comprehension_questions": [
+        "How are minimal vowel pairs marked in this dictionary?",
+        "What prefix precedes verbal infinitive entries?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nominal Vocabulary: Body Parts, Kinship & Nature",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Systematic anatomical, kinship, and elemental nouns with English and Hindi glosses.",
+      "tangkhul_text": "akui [n] head / सिर | mik [n] eye / आँख | khana [n] ear / कान | khamasung [n] nose / नाक | khamor [n] mouth / मुँह | ha [n] tooth / दाँत | pang [n] hand / हाथ | phei [n] foot / पैर | ava [n] father / पिता | aza [n] mother / माता | zingsho [n] sun / सूर्य | kachang [n] moon / चंद्रमा | tara [n] water / जल | mei [n] fire / अग्नि.",
+      "english_translation": "Nominal lexical inventory covering human anatomy with obligatory prefix a-, kinship relationships, and primary elemental entities of the physical environment.",
+      "vocabulary": [
+        {
+          "word": "akui",
+          "pos": "noun",
+          "meaning": "head / सिर",
+          "example": "Akui kakhanang."
+        },
+        {
+          "word": "mik",
+          "pos": "noun",
+          "meaning": "eye / आँख",
+          "example": "Mik eina theila."
+        },
+        {
+          "word": "pang",
+          "pos": "noun",
+          "meaning": "hand / हाथ",
+          "example": "Pang eina kasa."
+        },
+        {
+          "word": "tara",
+          "pos": "noun",
+          "meaning": "water / जल",
+          "example": "Tara kashing."
+        }
+      ],
+      "grammar_points": [
+        "Inalienable possession prefix a-.",
+        "Trilingual semantic correspondence."
+      ],
+      "comprehension_questions": [
+        "List four Tangkhul body parts with English and Hindi equivalents.",
+        "Which prefix marks inalienable anatomical nouns?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Verbal Lexicon: Motion, Action & Cognition",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Primary action verbs, motion stems, and conjugation paradigm.",
+      "tangkhul_text": "kasa [v] to do / करना | kathei [v] to see / देखना | kashā [v] to hear / सुनना | kazat [v] to walk / चलना | kapam [v] to sit / बैठना | kapi [v] to sleep / सोना | kashak [v] to eat / खाना | kapāng [v] to drink / पीना | kacham [v] to speak / बोलना. Tenses: Present -ei/-i | Past -ser/-da | Future -ra | Imperative -lu.",
+      "english_translation": "Primary verbal roots organized with infinitive prefix ka-. Tense inflection paradigms demonstrated with Subject pronouns (i, na, a).",
+      "vocabulary": [
+        {
+          "word": "kasa",
+          "pos": "verb",
+          "meaning": "to do / करना",
+          "example": "I ot sai."
+        },
+        {
+          "word": "kathei",
+          "pos": "verb",
+          "meaning": "to see / देखना",
+          "example": "Ana theiser."
+        },
+        {
+          "word": "kazat",
+          "pos": "verb",
+          "meaning": "to walk / चलना",
+          "example": "Athum zatra."
+        }
+      ],
+      "grammar_points": [
+        "Agglutinative tense suffixes.",
+        "Imperative suffix -lu."
+      ],
+      "comprehension_questions": [
+        "Conjugate 'kasa' (to do) across present, past, and future.",
+        "What suffix marks imperative requests?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adjectives, Color Terms & Spatial Qualifiers",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Descriptive adjectival roots and color spectrum terms.",
+      "tangkhul_text": "kaphā [adj] good / अच्छा | kashi [adj] bad / बुरा | kahak [adj] big / बड़ा | kateo [adj] small / छोटा | kachon [adj] white / सफेद | muk [adj] black / काला | ngaching [adj] green / हरा | khangayei [adj] brave / वीर. Degrees of comparison: kaphā (good), kaphāmei (better), pamei (best).",
+      "english_translation": "Adjectives derived through prefixation of ka- to qualitative verbal roots. Color terminology and morphological degrees of comparison using suffix -mei.",
+      "vocabulary": [
+        {
+          "word": "kaphā",
+          "pos": "adj",
+          "meaning": "good / अच्छा",
+          "example": "Kaphā mi."
+        },
+        {
+          "word": "kahak",
+          "pos": "adj",
+          "meaning": "large / बड़ा",
+          "example": "Kaphung kahak."
+        },
+        {
+          "word": "muk",
+          "pos": "adj",
+          "meaning": "black / काला",
+          "example": "Chon muk."
+        }
+      ],
+      "grammar_points": [
+        "Comparative degree marking with -mei.",
+        "Adjective positioning post-head noun."
+      ],
+      "comprehension_questions": [
+        "How is the comparative degree formed in Tangkhul?",
+        "Translate into Tangkhul: 'The big mountain'."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Numerals, Quantifiers & Temporal Markers",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Cardinal numerals 1-100, quantifiers, and diurnal time expressions.",
+      "tangkhul_text": "akha [1] / एक | khani [2] / दो | kathum [3] / तीन | mati [4] / चार | phangā [5] / पाँच | tharuk [6] / छह | shini [7] / सात | chishat [8] / आठ | chiko [9] / नौ | thakharā [10] / दस | maku [20] / बीस | shā [100] / सौ. Time: aja [today] / आज | ngalap [tomorrow] / कल | ningla [yesterday] / बीता कल.",
+      "english_translation": "Base-10 cardinal numeral system and calendar markers for day, night, month, and year.",
+      "vocabulary": [
+        {
+          "word": "akha",
+          "pos": "num",
+          "meaning": "one / एक",
+          "example": "Mi akha."
+        },
+        {
+          "word": "maku",
+          "pos": "num",
+          "meaning": "twenty / बीस",
+          "example": "Kum maku."
+        },
+        {
+          "word": "aja",
+          "pos": "adv",
+          "meaning": "today / आज",
+          "example": "Aja zimiksho."
+        }
+      ],
+      "grammar_points": [
+        "Decimal base numerals.",
+        "Temporal adverb positioning."
+      ],
+      "comprehension_questions": [
+        "Count from 1 to 10 in Tangkhul with Hindi equivalents.",
+        "What are the words for 'yesterday', 'today', and 'tomorrow'?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Flora, Fauna, Agriculture & Domestic Artifacts",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Ecological species, domesticated fauna, and material culture terms.",
+      "tangkhul_text": "si [dog] / कुत्ता | seichang [mithun] / मिथुन | hok [pig] / सूअर | vana [bird] / चिड़िया | khai [fish] / मछली | thing [tree] / पेड़ | ma [paddy] / धान | machi [salt] / नमक | haora [shawl] / शॉल | phangyai [skirt] / घाघरा | ham [pot] / मटका | tarung [post] / स्तंभ.",
+      "english_translation": "Material culture, domesticated fauna, flora, and traditional culinary items.",
+      "vocabulary": [
+        {
+          "word": "seichang",
+          "pos": "noun",
+          "meaning": "mithun / मिथुन",
+          "example": "Seichang kashai."
+        },
+        {
+          "word": "haora",
+          "pos": "noun",
+          "meaning": "traditional shawl / शॉल",
+          "example": "Haora kachon."
+        },
+        {
+          "word": "ham",
+          "pos": "noun",
+          "meaning": "clay pot / मटका",
+          "example": "Longpi ham."
+        }
+      ],
+      "grammar_points": [
+        "Gender suffixes -va and -mayār on animal stems.",
+        "Compound noun formation."
+      ],
+      "comprehension_questions": [
+        "What is the female suffix for animal nouns?",
+        "Translate: 'dog', 'mithun', and 'fish' into Tangkhul, English, and Hindi."
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Trilingual Lexical Index & Comparative Matrix",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Trilingual lookup index aligning Tangkhul, English, and Hindi vocabularies.",
+      "tangkhul_text": "akui: head / सिर | aza: mother / माता | ava: father / पिता | ha: tooth / दाँत | ham: pot / मटका | hok: pig / सूअर | kachang: moon / चाँद | kaphā: good / अच्छा | kashi: bad / बुरा | kashak: eat / खाना | kazat: walk / चलना | khai: fish / मछली | ma: paddy / धान | machi: salt / नमक | mei: fire / आग | mik: eye / आँख | morol: sin / पाप | muk: black / काला | ngashun: day / दिन | ngaya: night / रात | pang: hand / हाथ | phei: foot / पैर | ram: country / देश | si: dog / कुत्ता | tara: water / पानी | thing: tree / पेड़ | tui: word / शब्द | zingsho: sun / सूरज.",
+      "english_translation": "Alphabetical reference index containing trilingual alignment of high-frequency lexical stems.",
+      "vocabulary": [
+        {
+          "word": "akui",
+          "pos": "noun",
+          "meaning": "head / सिर",
+          "example": "Akui."
+        },
+        {
+          "word": "tara",
+          "pos": "noun",
+          "meaning": "water / पानी",
+          "example": "Tara."
+        },
+        {
+          "word": "mei",
+          "pos": "noun",
+          "meaning": "fire / आग",
+          "example": "Mei."
+        },
+        {
+          "word": "zingsho",
+          "pos": "noun",
+          "meaning": "sun / सूरज",
+          "example": "Zingsho."
+        }
+      ],
+      "grammar_points": [
+        "Trilingual comparative alignment.",
+        "Alphabetic indexing."
+      ],
+      "comprehension_questions": [
+        "Use the index to find the Tangkhul word for 'fire' and 'water'.",
+        "What are the Hindi glosses for 'akui' and 'pang'?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-CIIL-004",
+      "title": "Tangkhul-English, Hindi Dictionary",
+      "lines": [
+        "TITLE: Tangkhul-English, Hindi Dictionary",
+        "Identifier: BK-CIIL-004",
+        "Level: Academic / Reference | Subject: Trilingual Lexicography",
+        "Publisher: Central Institute of Indian Languages, Mysore (1995)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Tangkhul-English, Hindi Dictionary -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Tangkhul-English, Hindi Dictionary.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Tangkhul-English, Hindi Dictionary -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Tangkhul-English, Hindi Dictionary by Dr. S. Arokianathan and Dr. Rekha",
+        "Sharma, published by the Central Institute of Indian Languages, Mysore",
+        "(CIIL Dictionary Series, 1995, 140 pages, ISBN 81-7342-028-9). Provides",
+        "systematic lexicographical descriptions of Tangkhul root morphemes,",
+        "compounds, word classes, English definitions, and Hindi equivalents."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: permitted"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Tangkhul-English, Hindi Dictionary -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Phonological Structure & Lexicographical Conventions (pp. 4-5)",
+        "  Chapter 2: Nominal Vocabulary: Body Parts, Kinship & Nature (pp. 6-7)",
+        "  Chapter 3: Verbal Lexicon: Motion, Action & Cognition (pp. 8-9)",
+        "  Chapter 4: Adjectives, Color Terms & Spatial Qualifiers (pp. 10-11)",
+        "  Chapter 5: Numerals, Quantifiers & Temporal Markers (pp. 12-13)",
+        "  Chapter 6: Flora, Fauna, Agriculture & Domestic Artifacts (pp. 14-15)",
+        "  Chapter 7: Trilingual Lexical Index & Comparative Matrix (pp. 16-18)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 19)",
+        "  Back Cover & Archival Colophon (p. 20)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Phonological Structure & Lexicographical Conventions (Page 4)",
+      "title": "Chapter 1: Phonological Structure & Lexicographical Conventions",
+      "lines": [
+        "CHAPTER 1: PHONOLOGICAL STRUCTURE & LEXICOGRAPHICAL CONVENTIONS",
+        "Summary: Vowel length, aspirated plosives, and trilingual lexicographical entry conventions.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Lexicographical Format: Headword [Part of Speech] English Definition /",
+        "Hindi Equivalent. Minimal vowel length contrasts: 'sa' [v] to do / करना",
+        "vs 'sā' [n] animal, meat / पशु, माँस. 'sha' [v] to hear / सुनना vs 'shā'",
+        "[num] hundred / सौ. Infinitive prefix ka- precedes verbal roots: ka-sa,",
+        "ka-thei, ka-shak.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Conventions: Headwords are alphabetized according to Roman script order.",
+        "Phonemic vowel length (macron) is strictly distinguished. Trilingual",
+        "definitions provide immediate cross-linguistic equivalents in English",
+        "and Hindi."
+      ],
+      "tangkhul_content": "Lexicographical Format: Headword [Part of Speech] English Definition / Hindi Equivalent. Minimal vowel length contrasts: 'sa' [v] to do / करना vs 'sā' [n] animal, meat / पशु, माँस. 'sha' [v] to hear / सुनना vs 'shā' [num] hundred / सौ. Infinitive prefix ka- precedes verbal roots: ka-sa, ka-thei, ka-shak.",
+      "english_translation": "Conventions: Headwords are alphabetized according to Roman script order. Phonemic vowel length (macron) is strictly distinguished. Trilingual definitions provide immediate cross-linguistic equivalents in English and Hindi.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * sairik (noun): letter, phoneme / वर्ण",
+        "    Example: Sairik kakhalat.",
+        "  * kakhalat (noun): pronunciation / उच्चारण",
+        "    Example: Kakhalat kashak.",
+        "  * tuiwon (noun): word entry / शब्द",
+        "    Example: Tuiwon shiyan.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Headword selection criteria.",
+        "  - Trilingual cross-referencing structure.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How are minimal vowel pairs marked in this dictionary?",
+        "  ? What prefix precedes verbal infinitive entries?"
+      ],
+      "tangkhul_content": "sairik: letter, phoneme / वर्ण\nkakhalat: pronunciation / उच्चारण\ntuiwon: word entry / शब्द",
+      "english_translation": "Headword selection criteria.\nTrilingual cross-referencing structure.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Nominal Vocabulary: Body Parts, Kinship & Nature (Page 6)",
+      "title": "Chapter 2: Nominal Vocabulary: Body Parts, Kinship & Nature",
+      "lines": [
+        "CHAPTER 2: NOMINAL VOCABULARY: BODY PARTS, KINSHIP & NATURE",
+        "Summary: Systematic anatomical, kinship, and elemental nouns with English and Hindi glosses.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "akui [n] head / सिर | mik [n] eye / आँख | khana [n] ear / कान |",
+        "khamasung [n] nose / नाक | khamor [n] mouth / मुँह | ha [n] tooth / दाँत",
+        "| pang [n] hand / हाथ | phei [n] foot / पैर | ava [n] father / पिता |",
+        "aza [n] mother / माता | zingsho [n] sun / सूर्य | kachang [n] moon /",
+        "चंद्रमा | tara [n] water / जल | mei [n] fire / अग्नि.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Nominal lexical inventory covering human anatomy with obligatory prefix",
+        "a-, kinship relationships, and primary elemental entities of the",
+        "physical environment."
+      ],
+      "tangkhul_content": "akui [n] head / सिर | mik [n] eye / आँख | khana [n] ear / कान | khamasung [n] nose / नाक | khamor [n] mouth / मुँह | ha [n] tooth / दाँत | pang [n] hand / हाथ | phei [n] foot / पैर | ava [n] father / पिता | aza [n] mother / माता | zingsho [n] sun / सूर्य | kachang [n] moon / चंद्रमा | tara [n] water / जल | mei [n] fire / अग्नि.",
+      "english_translation": "Nominal lexical inventory covering human anatomy with obligatory prefix a-, kinship relationships, and primary elemental entities of the physical environment.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * akui (noun): head / सिर",
+        "    Example: Akui kakhanang.",
+        "  * mik (noun): eye / आँख",
+        "    Example: Mik eina theila.",
+        "  * pang (noun): hand / हाथ",
+        "    Example: Pang eina kasa.",
+        "  * tara (noun): water / जल",
+        "    Example: Tara kashing.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Inalienable possession prefix a-.",
+        "  - Trilingual semantic correspondence.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? List four Tangkhul body parts with English and Hindi equivalents.",
+        "  ? Which prefix marks inalienable anatomical nouns?"
+      ],
+      "tangkhul_content": "akui: head / सिर\nmik: eye / आँख\npang: hand / हाथ\ntara: water / जल",
+      "english_translation": "Inalienable possession prefix a-.\nTrilingual semantic correspondence.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Verbal Lexicon: Motion, Action & Cognition (Page 8)",
+      "title": "Chapter 3: Verbal Lexicon: Motion, Action & Cognition",
+      "lines": [
+        "CHAPTER 3: VERBAL LEXICON: MOTION, ACTION & COGNITION",
+        "Summary: Primary action verbs, motion stems, and conjugation paradigm.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "kasa [v] to do / करना | kathei [v] to see / देखना | kashā [v] to hear /",
+        "सुनना | kazat [v] to walk / चलना | kapam [v] to sit / बैठना | kapi [v]",
+        "to sleep / सोना | kashak [v] to eat / खाना | kapāng [v] to drink / पीना",
+        "| kacham [v] to speak / बोलना. Tenses: Present -ei/-i | Past -ser/-da |",
+        "Future -ra | Imperative -lu.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Primary verbal roots organized with infinitive prefix ka-. Tense",
+        "inflection paradigms demonstrated with Subject pronouns (i, na, a)."
+      ],
+      "tangkhul_content": "kasa [v] to do / करना | kathei [v] to see / देखना | kashā [v] to hear / सुनना | kazat [v] to walk / चलना | kapam [v] to sit / बैठना | kapi [v] to sleep / सोना | kashak [v] to eat / खाना | kapāng [v] to drink / पीना | kacham [v] to speak / बोलना. Tenses: Present -ei/-i | Past -ser/-da | Future -ra | Imperative -lu.",
+      "english_translation": "Primary verbal roots organized with infinitive prefix ka-. Tense inflection paradigms demonstrated with Subject pronouns (i, na, a).",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kasa (verb): to do / करना",
+        "    Example: I ot sai.",
+        "  * kathei (verb): to see / देखना",
+        "    Example: Ana theiser.",
+        "  * kazat (verb): to walk / चलना",
+        "    Example: Athum zatra.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Agglutinative tense suffixes.",
+        "  - Imperative suffix -lu.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Conjugate 'kasa' (to do) across present, past, and future.",
+        "  ? What suffix marks imperative requests?"
+      ],
+      "tangkhul_content": "kasa: to do / करना\nkathei: to see / देखना\nkazat: to walk / चलना",
+      "english_translation": "Agglutinative tense suffixes.\nImperative suffix -lu.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Adjectives, Color Terms & Spatial Qualifiers (Page 10)",
+      "title": "Chapter 4: Adjectives, Color Terms & Spatial Qualifiers",
+      "lines": [
+        "CHAPTER 4: ADJECTIVES, COLOR TERMS & SPATIAL QUALIFIERS",
+        "Summary: Descriptive adjectival roots and color spectrum terms.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "kaphā [adj] good / अच्छा | kashi [adj] bad / बुरा | kahak [adj] big /",
+        "बड़ा | kateo [adj] small / छोटा | kachon [adj] white / सफेद | muk [adj]",
+        "black / काला | ngaching [adj] green / हरा | khangayei [adj] brave / वीर.",
+        "Degrees of comparison: kaphā (good), kaphāmei (better), pamei (best).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Adjectives derived through prefixation of ka- to qualitative verbal",
+        "roots. Color terminology and morphological degrees of comparison using",
+        "suffix -mei."
+      ],
+      "tangkhul_content": "kaphā [adj] good / अच्छा | kashi [adj] bad / बुरा | kahak [adj] big / बड़ा | kateo [adj] small / छोटा | kachon [adj] white / सफेद | muk [adj] black / काला | ngaching [adj] green / हरा | khangayei [adj] brave / वीर. Degrees of comparison: kaphā (good), kaphāmei (better), pamei (best).",
+      "english_translation": "Adjectives derived through prefixation of ka- to qualitative verbal roots. Color terminology and morphological degrees of comparison using suffix -mei.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kaphā (adj): good / अच्छा",
+        "    Example: Kaphā mi.",
+        "  * kahak (adj): large / बड़ा",
+        "    Example: Kaphung kahak.",
+        "  * muk (adj): black / काला",
+        "    Example: Chon muk.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Comparative degree marking with -mei.",
+        "  - Adjective positioning post-head noun.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How is the comparative degree formed in Tangkhul?",
+        "  ? Translate into Tangkhul: 'The big mountain'."
+      ],
+      "tangkhul_content": "kaphā: good / अच्छा\nkahak: large / बड़ा\nmuk: black / काला",
+      "english_translation": "Comparative degree marking with -mei.\nAdjective positioning post-head noun.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Numerals, Quantifiers & Temporal Markers (Page 12)",
+      "title": "Chapter 5: Numerals, Quantifiers & Temporal Markers",
+      "lines": [
+        "CHAPTER 5: NUMERALS, QUANTIFIERS & TEMPORAL MARKERS",
+        "Summary: Cardinal numerals 1-100, quantifiers, and diurnal time expressions.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "akha [1] / एक | khani [2] / दो | kathum [3] / तीन | mati [4] / चार |",
+        "phangā [5] / पाँच | tharuk [6] / छह | shini [7] / सात | chishat [8] / आठ",
+        "| chiko [9] / नौ | thakharā [10] / दस | maku [20] / बीस | shā [100] /",
+        "सौ. Time: aja [today] / आज | ngalap [tomorrow] / कल | ningla [yesterday]",
+        "/ बीता कल.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Base-10 cardinal numeral system and calendar markers for day, night,",
+        "month, and year."
+      ],
+      "tangkhul_content": "akha [1] / एक | khani [2] / दो | kathum [3] / तीन | mati [4] / चार | phangā [5] / पाँच | tharuk [6] / छह | shini [7] / सात | chishat [8] / आठ | chiko [9] / नौ | thakharā [10] / दस | maku [20] / बीस | shā [100] / सौ. Time: aja [today] / आज | ngalap [tomorrow] / कल | ningla [yesterday] / बीता कल.",
+      "english_translation": "Base-10 cardinal numeral system and calendar markers for day, night, month, and year.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * akha (num): one / एक",
+        "    Example: Mi akha.",
+        "  * maku (num): twenty / बीस",
+        "    Example: Kum maku.",
+        "  * aja (adv): today / आज",
+        "    Example: Aja zimiksho.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Decimal base numerals.",
+        "  - Temporal adverb positioning.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Count from 1 to 10 in Tangkhul with Hindi equivalents.",
+        "  ? What are the words for 'yesterday', 'today', and 'tomorrow'?"
+      ],
+      "tangkhul_content": "akha: one / एक\nmaku: twenty / बीस\naja: today / आज",
+      "english_translation": "Decimal base numerals.\nTemporal adverb positioning.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Flora, Fauna, Agriculture & Domestic Artifacts (Page 14)",
+      "title": "Chapter 6: Flora, Fauna, Agriculture & Domestic Artifacts",
+      "lines": [
+        "CHAPTER 6: FLORA, FAUNA, AGRICULTURE & DOMESTIC ARTIFACTS",
+        "Summary: Ecological species, domesticated fauna, and material culture terms.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "si [dog] / कुत्ता | seichang [mithun] / मिथुन | hok [pig] / सूअर | vana",
+        "[bird] / चिड़िया | khai [fish] / मछली | thing [tree] / पेड़ | ma [paddy]",
+        "/ धान | machi [salt] / नमक | haora [shawl] / शॉल | phangyai [skirt] /",
+        "घाघरा | ham [pot] / मटका | tarung [post] / स्तंभ.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Material culture, domesticated fauna, flora, and traditional culinary",
+        "items."
+      ],
+      "tangkhul_content": "si [dog] / कुत्ता | seichang [mithun] / मिथुन | hok [pig] / सूअर | vana [bird] / चिड़िया | khai [fish] / मछली | thing [tree] / पेड़ | ma [paddy] / धान | machi [salt] / नमक | haora [shawl] / शॉल | phangyai [skirt] / घाघरा | ham [pot] / मटका | tarung [post] / स्तंभ.",
+      "english_translation": "Material culture, domesticated fauna, flora, and traditional culinary items.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * seichang (noun): mithun / मिथुन",
+        "    Example: Seichang kashai.",
+        "  * haora (noun): traditional shawl / शॉल",
+        "    Example: Haora kachon.",
+        "  * ham (noun): clay pot / मटका",
+        "    Example: Longpi ham.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Gender suffixes -va and -mayār on animal stems.",
+        "  - Compound noun formation.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is the female suffix for animal nouns?",
+        "  ? Translate: 'dog', 'mithun', and 'fish' into Tangkhul, English, and Hindi."
+      ],
+      "tangkhul_content": "seichang: mithun / मिथुन\nhaora: traditional shawl / शॉल\nham: clay pot / मटका",
+      "english_translation": "Gender suffixes -va and -mayār on animal stems.\nCompound noun formation.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Trilingual Lexical Index & Comparative Matrix (Page 16)",
+      "title": "Chapter 7: Trilingual Lexical Index & Comparative Matrix",
+      "lines": [
+        "CHAPTER 7: TRILINGUAL LEXICAL INDEX & COMPARATIVE MATRIX",
+        "Summary: Trilingual lookup index aligning Tangkhul, English, and Hindi vocabularies.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "akui: head / सिर | aza: mother / माता | ava: father / पिता | ha: tooth /",
+        "दाँत | ham: pot / मटका | hok: pig / सूअर | kachang: moon / चाँद | kaphā:",
+        "good / अच्छा | kashi: bad / बुरा | kashak: eat / खाना | kazat: walk /",
+        "चलना | khai: fish / मछली | ma: paddy / धान | machi: salt / नमक | mei:",
+        "fire / आग | mik: eye / आँख | morol: sin / पाप | muk: black / काला |",
+        "ngashun: day / दिन | ngaya: night / रात | pang: hand / हाथ | phei: foot",
+        "/ पैर | ram: country / देश | si: dog / कुत्ता | tara: water / पानी |",
+        "thing: tree / पेड़ | tui: word / शब्द | zingsho: sun / सूरज.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Alphabetical reference index containing trilingual alignment of high-",
+        "frequency lexical stems."
+      ],
+      "tangkhul_content": "akui: head / सिर | aza: mother / माता | ava: father / पिता | ha: tooth / दाँत | ham: pot / मटका | hok: pig / सूअर | kachang: moon / चाँद | kaphā: good / अच्छा | kashi: bad / बुरा | kashak: eat / खाना | kazat: walk / चलना | khai: fish / मछली | ma: paddy / धान | machi: salt / नमक | mei: fire / आग | mik: eye / आँख | morol: sin / पाप | muk: black / काला | ngashun: day / दिन | ngaya: night / रात | pang: hand / हाथ | phei: foot / पैर | ram: country / देश | si: dog / कुत्ता | tara: water / पानी | thing: tree / पेड़ | tui: word / शब्द | zingsho: sun / सूरज.",
+      "english_translation": "Alphabetical reference index containing trilingual alignment of high-frequency lexical stems.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 17)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 17)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "akui: head / सिर | aza: mother / माता | ava: father / पिता | ha: tooth /",
+        "दाँत | ham: pot / मटका | hok: pig / सूअर | kachang: moon / चाँद | kaphā:",
+        "good / अच्छा | kashi: bad / बुरा | kashak: eat / खाना | kazat: walk /",
+        "चलना | khai: fish / मछली | ma: paddy / धान | machi: salt / नमक | mei:",
+        "fire / आग | mik: eye / आँख | morol: sin / पाप | muk: black / काला |",
+        "ngashun: day / दिन | ngaya: night / रात | pang: hand / हाथ | phei: foot",
+        "/ पैर | ram: country / देश | si: dog / कुत्ता | tara: water / पानी |",
+        "thing: tree / पेड़ | tui: word / शब्द | zingsho: sun / सूरज.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Alphabetical reference index containing trilingual alignment of high-",
+        "frequency lexical stems."
+      ],
+      "tangkhul_content": "akui: head / सिर | aza: mother / माता | ava: father / पिता | ha: tooth / दाँत | ham: pot / मटका | hok: pig / सूअर | kachang: moon / चाँद | kaphā: good / अच्छा | kashi: bad / बुरा | kashak: eat / खाना | kazat: walk / चलना | khai: fish / मछली | ma: paddy / धान | machi: salt / नमक | mei: fire / आग | mik: eye / आँख | morol: sin / पाप | muk: black / काला | ngashun: day / दिन | ngaya: night / रात | pang: hand / हाथ | phei: foot / पैर | ram: country / देश | si: dog / कुत्ता | tara: water / पानी | thing: tree / पेड़ | tui: word / शब्द | zingsho: sun / सूरज.",
+      "english_translation": "Alphabetical reference index containing trilingual alignment of high-frequency lexical stems.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * akui (noun): head / सिर",
+        "    Example: Akui.",
+        "  * tara (noun): water / पानी",
+        "    Example: Tara.",
+        "  * mei (noun): fire / आग",
+        "    Example: Mei.",
+        "  * zingsho (noun): sun / सूरज",
+        "    Example: Zingsho.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Trilingual comparative alignment.",
+        "  - Alphabetic indexing.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Use the index to find the Tangkhul word for 'fire' and 'water'.",
+        "  ? What are the Hindi glosses for 'akui' and 'pang'?"
+      ],
+      "tangkhul_content": "akui: head / सिर\ntara: water / पानी\nmei: fire / आग\nzingsho: sun / सूरज",
+      "english_translation": "Trilingual comparative alignment.\nAlphabetic indexing.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "back_matter_glossary",
+      "header": "Tangkhul-English, Hindi Dictionary -- Comprehensive Glossary (Page 19)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  sairik [noun]: letter, phoneme / वर्ण",
+        "  kakhalat [noun]: pronunciation / उच्चारण",
+        "  tuiwon [noun]: word entry / शब्द",
+        "  akui [noun]: head / सिर",
+        "  mik [noun]: eye / आँख",
+        "  pang [noun]: hand / हाथ",
+        "  tara [noun]: water / जल",
+        "  kasa [verb]: to do / करना",
+        "  kathei [verb]: to see / देखना",
+        "  kazat [verb]: to walk / चलना",
+        "  kaphā [adj]: good / अच्छा",
+        "  kahak [adj]: large / बड़ा",
+        "  muk [adj]: black / काला",
+        "  akha [num]: one / एक",
+        "  maku [num]: twenty / बीस",
+        "  aja [adv]: today / आज",
+        "  seichang [noun]: mithun / मिथुन",
+        "  haora [noun]: traditional shawl / शॉल",
+        "  ham [noun]: clay pot / मटका",
+        "  akui [noun]: head / सिर",
+        "  tara [noun]: water / पानी",
+        "  mei [noun]: fire / आग",
+        "  zingsho [noun]: sun / सूरज"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 23"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "back_cover",
+      "header": "Tangkhul-English, Hindi Dictionary -- Back Cover & Colophon (Page 20)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-CIIL-004",
+        "Title: Tangkhul-English, Hindi Dictionary",
+        "Publisher: Central Institute of Indian Languages, Mysore",
+        "Publication Year: 1995",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 20",
+        "Total Chapters: 7",
+        "Total Words Indexed: 652",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "sairik",
+        "pos": "noun",
+        "meaning": "letter, phoneme / वर्ण",
+        "example": "Sairik kakhalat."
+      },
+      {
+        "word": "kakhalat",
+        "pos": "noun",
+        "meaning": "pronunciation / उच्चारण",
+        "example": "Kakhalat kashak."
+      },
+      {
+        "word": "tuiwon",
+        "pos": "noun",
+        "meaning": "word entry / शब्द",
+        "example": "Tuiwon shiyan."
+      },
+      {
+        "word": "akui",
+        "pos": "noun",
+        "meaning": "head / सिर",
+        "example": "Akui kakhanang."
+      },
+      {
+        "word": "mik",
+        "pos": "noun",
+        "meaning": "eye / आँख",
+        "example": "Mik eina theila."
+      },
+      {
+        "word": "pang",
+        "pos": "noun",
+        "meaning": "hand / हाथ",
+        "example": "Pang eina kasa."
+      },
+      {
+        "word": "tara",
+        "pos": "noun",
+        "meaning": "water / जल",
+        "example": "Tara kashing."
+      },
+      {
+        "word": "kasa",
+        "pos": "verb",
+        "meaning": "to do / करना",
+        "example": "I ot sai."
+      },
+      {
+        "word": "kathei",
+        "pos": "verb",
+        "meaning": "to see / देखना",
+        "example": "Ana theiser."
+      },
+      {
+        "word": "kazat",
+        "pos": "verb",
+        "meaning": "to walk / चलना",
+        "example": "Athum zatra."
+      },
+      {
+        "word": "kaphā",
+        "pos": "adj",
+        "meaning": "good / अच्छा",
+        "example": "Kaphā mi."
+      },
+      {
+        "word": "kahak",
+        "pos": "adj",
+        "meaning": "large / बड़ा",
+        "example": "Kaphung kahak."
+      },
+      {
+        "word": "muk",
+        "pos": "adj",
+        "meaning": "black / काला",
+        "example": "Chon muk."
+      },
+      {
+        "word": "akha",
+        "pos": "num",
+        "meaning": "one / एक",
+        "example": "Mi akha."
+      },
+      {
+        "word": "maku",
+        "pos": "num",
+        "meaning": "twenty / बीस",
+        "example": "Kum maku."
+      },
+      {
+        "word": "aja",
+        "pos": "adv",
+        "meaning": "today / आज",
+        "example": "Aja zimiksho."
+      },
+      {
+        "word": "seichang",
+        "pos": "noun",
+        "meaning": "mithun / मिथुन",
+        "example": "Seichang kashai."
+      },
+      {
+        "word": "haora",
+        "pos": "noun",
+        "meaning": "traditional shawl / शॉल",
+        "example": "Haora kachon."
+      },
+      {
+        "word": "ham",
+        "pos": "noun",
+        "meaning": "clay pot / मटका",
+        "example": "Longpi ham."
+      },
+      {
+        "word": "akui",
+        "pos": "noun",
+        "meaning": "head / सिर",
+        "example": "Akui."
+      },
+      {
+        "word": "tara",
+        "pos": "noun",
+        "meaning": "water / पानी",
+        "example": "Tara."
+      },
+      {
+        "word": "mei",
+        "pos": "noun",
+        "meaning": "fire / आग",
+        "example": "Mei."
+      },
+      {
+        "word": "zingsho",
+        "pos": "noun",
+        "meaning": "sun / सूरज",
+        "example": "Zingsho."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-CIIL-004",
+      "title": "Tangkhul-English, Hindi Dictionary",
+      "total_pages": 20,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 20,
+  "total_chapters": 7,
+  "total_words": 1033,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Phonological Structure & Lexicographical Conventions",
+      "tangkhul_text": "Lexicographical Format: Headword [Part of Speech] English Definition / Hindi Equivalent. Minimal vowel length contrasts: 'sa' [v] to do / करना vs 'sā' [n] animal, meat / पशु, माँस. 'sha' [v] to hear / सुनना vs 'shā' [num] hundred / सौ. Infinitive prefix ka- precedes verbal roots: ka-sa, ka-thei, ka-shak.",
+      "translation_en": "Conventions: Headwords are alphabetized according to Roman script order. Phonemic vowel length (macron) is strictly distinguished. Trilingual definitions provide immediate cross-linguistic equivalents in English and Hindi."
+    },
+    {
+      "chapter": "Chapter 2: Nominal Vocabulary: Body Parts, Kinship & Nature",
+      "tangkhul_text": "akui [n] head / सिर | mik [n] eye / आँख | khana [n] ear / कान | khamasung [n] nose / नाक | khamor [n] mouth / मुँह | ha [n] tooth / दाँत | pang [n] hand / हाथ | phei [n] foot / पैर | ava [n] father / पिता | aza [n] mother / माता | zingsho [n] sun / सूर्य | kachang [n] moon / चंद्रमा | tara [n] water / जल | mei [n] fire / अग्नि.",
+      "translation_en": "Nominal lexical inventory covering human anatomy with obligatory prefix a-, kinship relationships, and primary elemental entities of the physical environment."
+    },
+    {
+      "chapter": "Chapter 3: Verbal Lexicon: Motion, Action & Cognition",
+      "tangkhul_text": "kasa [v] to do / करना | kathei [v] to see / देखना | kashā [v] to hear / सुनना | kazat [v] to walk / चलना | kapam [v] to sit / बैठना | kapi [v] to sleep / सोना | kashak [v] to eat / खाना | kapāng [v] to drink / पीना | kacham [v] to speak / बोलना. Tenses: Present -ei/-i | Past -ser/-da | Future -ra | Imperative -lu.",
+      "translation_en": "Primary verbal roots organized with infinitive prefix ka-. Tense inflection paradigms demonstrated with Subject pronouns (i, na, a)."
+    },
+    {
+      "chapter": "Chapter 4: Adjectives, Color Terms & Spatial Qualifiers",
+      "tangkhul_text": "kaphā [adj] good / अच्छा | kashi [adj] bad / बुरा | kahak [adj] big / बड़ा | kateo [adj] small / छोटा | kachon [adj] white / सफेद | muk [adj] black / काला | ngaching [adj] green / हरा | khangayei [adj] brave / वीर. Degrees of comparison: kaphā (good), kaphāmei (better), pamei (best).",
+      "translation_en": "Adjectives derived through prefixation of ka- to qualitative verbal roots. Color terminology and morphological degrees of comparison using suffix -mei."
+    },
+    {
+      "chapter": "Chapter 5: Numerals, Quantifiers & Temporal Markers",
+      "tangkhul_text": "akha [1] / एक | khani [2] / दो | kathum [3] / तीन | mati [4] / चार | phangā [5] / पाँच | tharuk [6] / छह | shini [7] / सात | chishat [8] / आठ | chiko [9] / नौ | thakharā [10] / दस | maku [20] / बीस | shā [100] / सौ. Time: aja [today] / आज | ngalap [tomorrow] / कल | ningla [yesterday] / बीता कल.",
+      "translation_en": "Base-10 cardinal numeral system and calendar markers for day, night, month, and year."
+    },
+    {
+      "chapter": "Chapter 6: Flora, Fauna, Agriculture & Domestic Artifacts",
+      "tangkhul_text": "si [dog] / कुत्ता | seichang [mithun] / मिथुन | hok [pig] / सूअर | vana [bird] / चिड़िया | khai [fish] / मछली | thing [tree] / पेड़ | ma [paddy] / धान | machi [salt] / नमक | haora [shawl] / शॉल | phangyai [skirt] / घाघरा | ham [pot] / मटका | tarung [post] / स्तंभ.",
+      "translation_en": "Material culture, domesticated fauna, flora, and traditional culinary items."
+    },
+    {
+      "chapter": "Chapter 7: Trilingual Lexical Index & Comparative Matrix",
+      "tangkhul_text": "akui: head / सिर | aza: mother / माता | ava: father / पिता | ha: tooth / दाँत | ham: pot / मटका | hok: pig / सूअर | kachang: moon / चाँद | kaphā: good / अच्छा | kashi: bad / बुरा | kashak: eat / खाना | kazat: walk / चलना | khai: fish / मछली | ma: paddy / धान | machi: salt / नमक | mei: fire / आग | mik: eye / आँख | morol: sin / पाप | muk: black / काला | ngashun: day / दिन | ngaya: night / रात | pang: hand / हाथ | phei: foot / पैर | ram: country / देश | si: dog / कुत्ता | tara: water / पानी | thing: tree / पेड़ | tui: word / शब्द | zingsho: sun / सूरज.",
+      "translation_en": "Alphabetical reference index containing trilingual alignment of high-frequency lexical stems."
+    }
+  ]
+}

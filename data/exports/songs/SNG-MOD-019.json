@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-019",
+  "resource_type": "songs",
+  "title": "Chingri Kahai",
+  "alternate_titles": [],
+  "title_translation": "Silent Stillness",
+  "singer": "Shimreingam Horam",
+  "lyricist": "Shimreingam Horam",
+  "composer": "Shimreingam Horam",
+  "collector": null,
+  "performers": [
+    "Shimreingam Horam"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "ballad",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-SH-003",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Introspective song exploring quiet contemplation and personal resilience.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Chingri kahai kaphungli tui khamata.",
+        "Wuklungli kashak thot Vareli khorumda."
+      ],
+      "lines_translation": [
+        "In the peaceful stillness of the mountain ridge, deep wisdom speaks.",
+        "Holding steadfast faith, bowing before the Almighty Creator."
+      ]
+    }
+  ]
+}

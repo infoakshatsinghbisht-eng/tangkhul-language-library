@@ -1,0 +1,54 @@
+{
+  "id": "LIT-RIDD-002",
+  "resource_type": "literature",
+  "title": "Tangkhul Paochirun Kathara Vol. II",
+  "title_translation": "Traditional Tangkhul Riddles, Word-Play, and Metaphorical Maxims",
+  "creator": "Tangkhul Elders & S. Arokianathan",
+  "author": "Traditional Elders of Phungcham & Hunphun",
+  "year": 1985,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Phungcham",
+  "category": "riddle",
+  "work_type": "riddle",
+  "genres": [
+    "riddle"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1985-PK2",
+  "license": "Traditional Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-RIDD-002.txt",
+  "notes": "Second volume of traditional intellectual word-games and poetic riddles (Paochirun) practiced in youth dormitories to foster quick observation and metaphorical dexterity.",
+  "indigenous_tangkhul_text": [
+    "Riddle 1: 'Meiphungli pamda khon makashok, kha ngaleiwui changvei thada meikha shurda kapam.' -> Ans: Marān-lung (Hearthstone).\nRiddle 2: 'Kaphungli kapam thikashung mayarnao, kachon kachiphun kazingmei thada ngasasa.' -> Ans: Kashong Won (Shirui Lily).",
+    "Riddle 3: 'Lungkui eina tonda kazat kha pheikhavai makalei, kongrei eina kongkhur kachiva zattata.' -> Ans: Ngaprum (River Eel).\nRiddle 4: 'Kazing chiko eina phung-ngathangli ngaror, kha kazing-mik shoklaga meikha thada macharhaowa.' -> Ans: Meikharor (Mist).",
+    "Riddle 5: 'Mayarnao kachamnao akhana thing-won kachiva-li mayon-zattada khamahon horkashung.' -> Ans: Vanao (Forest Bird).\nRiddle 6: 'Kaphung terrace-li yarshon-sakashung kha phei eina khon masamana.' -> Ans: Phanung (Iron Hoe)."
+  ],
+  "english_translation_text": [
+    "Riddle 1: 'It sits at the central hearth without uttering a sound, yet holds the ancestral pot steadfast.' -> Ans: The Hearthstone (Maran-lung).\nRiddle 2: 'A mountain noble who wears a gown radiant as celestial morning light.' -> Ans: The Shirui Lily (Kashong Won).",
+    "Riddle 3: 'Gliding down sheer cliffs without feet or hands, traversing every mountain stream.' -> Ans: The River Eel (Ngaprum).\nRiddle 4: 'Roars across the high ridges at dawn, yet melts away like smoke when the sun appears.' -> Ans: Mountain Mist (Meikharor).",
+    "Riddle 5: 'A little traveler who visits every flowering treetop and scatters melodic songs.' -> Ans: The Songbird (Vanao).\nRiddle 6: 'Bows all day turning over the mountain terraces without complaining of fatigue.' -> Ans: The Cultivation Hoe (Phanung)."
+  ],
+  "literary_themes": [
+    "Traditional intellectual word-play and metaphorical games (*Paochirun*)",
+    "Keen observation of alpine flora, animals, meteorology, and agricultural tools",
+    "Youth socialization and verbal wit practiced in the Longshim dormitory",
+    "Poetic metaphors rooted in everyday hill village lifeways"
+  ],
+  "structure_and_meter": "Traditional bipartite riddle couplets: descriptive metaphorical challenge followed by rapid oral response.",
+  "critical_commentary": "Collected from elders of Phungcham and Hunphun, this second volume of Paochirun documents the rich oral tradition of intellectual riddling that flourished in village youth dormitories, honing metaphorical thinking, linguistic precision, and natural observation.",
+  "poetic_vocabulary_terms": {
+    "Paochirun": "Traditional poetic riddle / verbal metaphor testing wit and knowledge",
+    "Maran-lung": "The three sacred hearthstones supporting the cooking pot over the fire",
+    "Kashong Won": "Shirui Lily, celebrated botanical emblem of the Tangkhul country",
+    "Kazing-mik": "The sun / celestial eye of the sky"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

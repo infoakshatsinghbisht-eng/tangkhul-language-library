@@ -1,0 +1,43 @@
+{
+  "id": "SNG-MOD-012",
+  "resource_type": "songs",
+  "title": "Kharao Amei",
+  "alternate_titles": [],
+  "title_translation": "Deep Spirit of Friendship",
+  "singer": "Diana Wungsek & Thotreiso",
+  "lyricist": null,
+  "composer": null,
+  "collector": null,
+  "performers": [
+    "Diana Wungsek",
+    "Thotreiso"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-DW-004",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Celebrated Tangkhul duet highlighting camaraderie, affection, and mutual respect.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Kharao amei, ngasoda pamhaida ringpha.",
+        "Iramli mayar ngalanao wui leikashina."
+      ],
+      "lines_translation": [
+        "Deep spirit of friendship, rejoicing together in camaraderie.",
+        "The pure love and mutual respect of our village youth."
+      ]
+    }
+  ]
+}

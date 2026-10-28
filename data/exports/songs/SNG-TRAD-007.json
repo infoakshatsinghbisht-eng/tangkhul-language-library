@@ -1,0 +1,57 @@
+{
+  "id": "SNG-TRAD-007",
+  "resource_type": "songs",
+  "title": "Haola: Mawon Laa",
+  "alternate_titles": [
+    "Tangkhul Lullaby and Blessing"
+  ],
+  "title_translation": "Lullaby and Blessing",
+  "singer": "Traditional",
+  "lyricist": null,
+  "composer": null,
+  "collector": "S. Arokianathan / CIIL",
+  "performers": [],
+  "year": 1982,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "lullaby",
+  "language": "Tangkhul",
+  "source_url": null,
+  "source_identifier": "CIIL-FS-1982-01",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Cultural Heritage",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Traditional lullaby and maternal blessing chant recorded in CIIL Tangkhul Folk Literature collection.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Naoshinao iharing won kaphara.",
+        "Pukli pammaida zikahailu.",
+        "Kazingramwui Varina mayonmira."
+      ],
+      "lines_translation": [
+        "O precious little child, radiant bloom of my life.",
+        "Rest softly in peace upon your mother's breast.",
+        "The heavenly Creator shall watch over your slumber."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Khararchan kapha nawui thotli lura.",
+        "Iram wui mayar ngala kachungkana.",
+        "Won thada rakhawon kaphung kachungli."
+      ],
+      "lines_translation": [
+        "May wisdom and goodness guide your steps in youth.",
+        "Growing tall and noble among the children of our village.",
+        "Blossoming like the fairest flower upon our mountains."
+      ]
+    }
+  ]
+}

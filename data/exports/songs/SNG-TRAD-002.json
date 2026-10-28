@@ -1,0 +1,71 @@
+{
+  "id": "SNG-TRAD-002",
+  "resource_type": "songs",
+  "title": "Haola: Luira Laa",
+  "alternate_titles": [
+    "Luira Phanit Laa",
+    "Seed-Sowing Festival Song"
+  ],
+  "title_translation": "Song of the Luira Festival",
+  "singer": "Traditional Community Chorus",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Tangkhul Literature Society / CIIL",
+  "performers": [],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "festival",
+  "language": "Tangkhul",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "CIIL-HAOLA-001",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Ritual seed-sowing festival (Luira Phanit) ceremonial chant invoking agricultural blessings and ancestral protection.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Luira phanitli kaphung ngasak.",
+        "Iram Ukhrul wui phanit kaphana.",
+        "Thot kachungwui kashan thotna."
+      ],
+      "lines_translation": [
+        "At the Luira seed-sowing festival, the hills rejoice.",
+        "The auspicious celebration of our mountain homeland.",
+        "Passed down through ancient ancestral generations."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Awunga wui kakhon aina lui kahon.",
+        "Luiram kachivali luira kathara.",
+        "Vareli khorumda thot kapha kasam."
+      ],
+      "lines_translation": [
+        "Led by the solemn invocation of the village chief.",
+        "The sacred seed grains are blessed across every field.",
+        "Bowing before the Creator for a bountiful harvest year."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Mayarnaomaya wui pheichak khangatei.",
+        "Luira won kapha iramli khawon.",
+        "Kaphung konglao aina ngasoda yuilu."
+      ],
+      "lines_translation": [
+        "The maidens and warriors step in traditional dance.",
+        "The finest blossoms of youth adorn our village.",
+        "Echoing across every hill and river gorge."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-CUST-001
+TITLE: Longshim Youth Dormitory System
+TITLE TRANSLATION: Traditional Youth Dormitory Institution
+CATEGORY: custom | SUBCATEGORY: social_institution
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Ancestral Village Community
+PUBLICATION / SOURCE: Documented in Hodson 1911, Ruivah 1993
+SOURCE ID: Ruivah-1993-Ch3
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Central indigenous institution divided into Mayarshim (boys dormitory) and Ngashim (girls dormitory). Functioned as educational center for transmitting oral songs, customary discipline, weaving, and woodcraft.
+
+[SEASONAL TIMING & OCCASION]
+Continuous traditional educational institution
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Adolescent Youths
+- Dormitory Guardians
+- Senior Clan Mentors
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Admission of adolescent youths into the respective gender dormitory (Mayarshim or Ngashim).
+2. Nightly residence under the guidance of senior mentors and clan elders.
+3. Training in oral folklore, weaving, agriculture, customary law, and community discipline.
+4. Collective mobilization for village public works, path clearing, and harvest assistance.
+5. Graduation upon marriage and transition into household adulthood.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Longshim wui ngashan kasak iramli thot kachung pamhai.
+Mayarshimli ralong ngasoda ngashun themthot tamching.
+Ngashimli kashan kasa, sam kapa, chanjam tui shashap.
+
+[ENGLISH TRANSLATION & MEANING]
+The Longshim dormitory system has stood for generations as the educational pillar of our village.
+In the Mayarshim, young men master warfare, woodcraft, ethics, and oral histories.
+In the Ngashim, young women master loom weaving, basketry, folk songs, and customary etiquette.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

@@ -1,0 +1,56 @@
+{
+  "id": "LIT-ANTH-004",
+  "resource_type": "literature",
+  "title": "Wordham Tuitam Khare",
+  "title_translation": "Higher Secondary Tangkhul Literature Reader, Part I",
+  "creator": "Tangkhul Literature Society Editorial Board",
+  "author": "Tangkhul Literature Society",
+  "year": 2021,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "literary_anthology",
+  "work_type": "literary_anthology",
+  "genres": [
+    "literary_anthology",
+    "short_story",
+    "poem",
+    "essay"
+  ],
+  "book_id": "BK-TLS-011",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-011",
+  "license": "Educational Textbook",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-ANTH-004.txt",
+  "notes": "Council of Higher Secondary Education Manipur (COHSEM) Class XI literature textbook curating advanced prose, historical essays, and lyrical poetry.",
+  "indigenous_tangkhul_text": [
+    "Wordham Tuitam Khare Council of Higher Secondary Education Manipur (COHSEM) Class XI literature textbook kashung akha.",
+    "Social philosophy essays, elegiac poetry (Kachamwui Meikha), customary legal discourses, kala short stories curate sakya.",
+    "Pre-university scholars-li critical thinking, indigenous historiography, kala literary criticism cultivate sakya."
+  ],
+  "english_translation_text": [
+    "Wordham Tuitam Khare is the prescribed Class XI literature textbook under the Council of Higher Secondary Education Manipur.",
+    "Curating intellectual essays on social philosophy, elegiac poetry, customary legal treatises, and realistic short stories.",
+    "It cultivates critical analytical thinking, indigenous historiography, and mature literary criticism in pre-university scholars."
+  ],
+  "literary_themes": [
+    "Pre-university literary criticism and aesthetic philosophy",
+    "Social critique of modern economic inequality and moral duty",
+    "Philosophical examination of language preservation and cultural sovereignty"
+  ],
+  "structure_and_meter": "Higher secondary textbook comprising four comprehensive sections: Modern Poetry, Critical Prose, Customary Law, and Creative Writing.",
+  "critical_commentary": "Published in 2021, this anthology bridges secondary school literacy with collegiate linguistic and literary scholarship.",
+  "poetic_vocabulary_terms": {
+    "Wordham": "Higher learning / advanced scholarly discourse",
+    "Tuitam Khare": "First stage of higher secondary literature studies",
+    "Kharashun-Tui": "Philosophical and academic prose register",
+    "Ning-Ngashan": "Ethical and philosophical contemplation"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

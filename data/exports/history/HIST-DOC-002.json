@@ -1,0 +1,52 @@
+{
+  "id": "HIST-DOC-002",
+  "resource_type": "history",
+  "title": "Capt. Pemberton's 1835 Report on the Eastern Frontier",
+  "title_translation": "Earliest Official British Survey of the Tangkhul Country",
+  "creator": "Captain R. Boileau Pemberton",
+  "year": 1835,
+  "publisher": "Baptist Mission Press, Calcutta",
+  "language": "English / Tangkhul references",
+  "dialect": "Luhuppa Historical",
+  "village": "Eastern Frontier",
+  "place": "Calcutta / Manipur Frontier",
+  "category": "historical_document",
+  "event_date": "1835",
+  "period": "Early 19th Century Colonial",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Pemberton-1835-Report",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-DOC-002.txt",
+  "verification_status": "verified",
+  "notes": "Landmark 1835 British military and geographical survey published in Calcutta providing the first official cartographic and ethnographic description of the Tangkhul (Luhuppa) hills, village fortifications, pass routes, and trade to Burma.",
+  "indigenous_tangkhul_chronicle": [
+    "1835 kumli Captain R. Boileau Pemberton Report on the Eastern Frontier of British India Calcutta Baptist Mission Press-li kachap shansangya.",
+    "Tangkhul Luhuppa country, village populations, mountain trade routes, kala Manipur-Burma frontier relations document sakya.",
+    "Hina printed colonial archives-li Tangkhul hills-wui earliest systematic geographical and military survey shansangya."
+  ],
+  "english_translation_text": [
+    "In 1835, Captain R. Boileau Pemberton published his seminal 'Report on the Eastern Frontier of British India' at the Baptist Mission Press in Calcutta.",
+    "It documented the Tangkhul (Luhuppa) country, village sizes, strategic mountain routes, and political ties with the Manipur kingdom.",
+    "Pemberton's report provided the earliest official administrative and cartographic survey of the Manipur eastern hill tracts."
+  ],
+  "chronicle_milestones": [
+    "1. 1826–1834: Pemberton conducts extensive surveys following the First Anglo-Burmese War and Treaty of Yandabo.",
+    "2. 1835: Published under the authority of the Committee of Public Instruction, Government of India, Calcutta.",
+    "3. Contents: Detailed chapters on hill tribes, trade routes connecting Imphal to the Kabaw Valley, and tribal defense.",
+    "4. Historical Value: Earliest Western document providing quantitative population estimates and village settlement descriptions."
+  ],
+  "key_figures": [
+    "Captain R. Boileau Pemberton",
+    "Government of India Survey Dept.",
+    "Baptist Mission Press Calcutta"
+  ],
+  "geographical_scope": "Calcutta (Publication) & Eastern Frontier of Manipur / Tangkhul Hills",
+  "historical_significance": "The cornerstone early 19th-century colonial geopolitical report that placed the Tangkhul country on British administrative maps.",
+  "historical_terms": {
+    "Kharashun-Lairik": "Official government survey report and cartographic treatise",
+    "Luhuppa Ram": "The territorial domain of the northern and central Tangkhuls",
+    "Khararam-Ralam": "Cross-border trade and military pass routes",
+    "Wung-Shitsang": "Diplomatic frontier covenants and boundary treaties"
+  }
+}

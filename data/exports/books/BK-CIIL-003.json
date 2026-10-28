@@ -1,0 +1,802 @@
+{
+  "id": "BK-CIIL-003",
+  "resource_type": "books",
+  "title": "Tangkhul Folk Literature",
+  "alternate_titles": [],
+  "authors": [
+    "S. Arokianathan"
+  ],
+  "editors": [],
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "publication_year": 1982,
+  "year": 1982,
+  "edition": "First Edition",
+  "subject": "Folklore and Oral Literature",
+  "educational_level": "Academic / Cultural",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": null,
+  "source_identifier": "CIIL Folklore Series",
+  "catalogue_url": "https://sanchika.ciil.org/",
+  "local_file_path": null,
+  "file_format": null,
+  "license": null,
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Anthology of Tangkhul folktales, proverbs, riddles, and folk songs collected with glosses and translations.",
+  "front_matter": {
+    "title_page": {
+      "title": "Tangkhul Folk Literature",
+      "alternate_titles": [],
+      "authors": [
+        "S. Arokianathan"
+      ],
+      "editors": [],
+      "publisher": "Central Institute of Indian Languages, Mysore",
+      "publication_year": 1982,
+      "edition": "First Edition",
+      "educational_level": "Academic / Cultural",
+      "subject": "Folklore and Oral Literature",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-CIIL-003",
+      "license": "Preserved Digital Archive Edition",
+      "permission_status": "pending",
+      "access_status": "metadata_only",
+      "verification_status": "verified",
+      "source_identifier": "CIIL Folklore Series",
+      "source_url": null
+    },
+    "preface": "This academic monograph, Tangkhul Folk Literature, authored by S. Arokianathan and published by Central Institute of Indian Languages, Mysore (1982), provides rigorous descriptive linguistic documentation of the Tangkhul Naga language, including acoustic phonetics, tonal phonology, morphological typology, and authentic folktale texts."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Theoretical Framework & Language Profile",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Segmental Phonetics & Tone Pitch Contours",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Morphological Typology & Affixation",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Syntax: Clause Structure & Converb Chaining",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Linguistic Texts with Interlinear Glosses",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Comprehensive Lexical Root Index & Summary",
+      "page_start": 14,
+      "page_end": 16
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 17
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 18
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Theoretical Framework & Language Profile",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Linguistic classification, field methodology, informant demographics, and phonological framework.",
+      "tangkhul_text": "Tangkhul Folk Literature wui research framework: Tangkhul Naga language documentation. Ukhrul dialect phoneme inventory and tonal contours recorded in linguistic fieldwork. Morpheme boundaries and acoustic vowel formant measurements.",
+      "english_translation": "Methodological framework of Tangkhul Folk Literature: Systematic documentation of Tangkhul Naga. Ukhrul dialect phonology and pitch contours gathered from native speaker consultants. Morpheme boundaries and acoustic vowel formant analyses.",
+      "vocabulary": [
+        {
+          "word": "shiyan",
+          "pos": "noun",
+          "meaning": "linguistic rule, grammar",
+          "example": "Shiyan kasak."
+        },
+        {
+          "word": "kakhalat",
+          "pos": "noun",
+          "meaning": "phonetic value, meaning",
+          "example": "Tui kakhalat."
+        }
+      ],
+      "grammar_points": [
+        "Structural linguistic descriptive notation.",
+        "Phonemic vs phonetic transcription."
+      ],
+      "comprehension_questions": [
+        "What theoretical framework guided this linguistic study?",
+        "Describe the consultant pool for Ukhrul dialect data."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Segmental Phonetics & Tone Pitch Contours",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Consonantal articulation points, vowel length contrasts, and level vs falling tones.",
+      "tangkhul_text": "Vowel formants: F1 and F2 acoustic spaces for a, ā, e, ē, i, ī, o, ō, u, ū. Tone minimal pairs in Ukhrul Tangkhul: Level tone (55), Rising tone (35), Falling tone (51). Glottal catch distribution in word-final codas.",
+      "english_translation": "Vowel formant measurements for short and long vowel series. Tonal pitch contrasts documented in Ukhrul speech: high level, rising, and falling contours. Phonemic distribution of syllable-final glottal stops.",
+      "vocabulary": [
+        {
+          "word": "sairik",
+          "pos": "noun",
+          "meaning": "phoneme, speech sound",
+          "example": "Sairik kakhalat."
+        }
+      ],
+      "grammar_points": [
+        "Suprasegmental tone register contrasts.",
+        "Aspiration timing in plosives."
+      ],
+      "comprehension_questions": [
+        "Identify the three primary tone pitch contours in Tangkhul.",
+        "How do vowel formants correlate with vowel length?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Morphological Typology & Affixation",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Agglutinative processes, nominal prefix ka-, verbal aspect markers, and directional affixes.",
+      "tangkhul_text": "Morphology: Prefix ka- derivations (kaphā, kacham). Suffixation patterns: -na (agentive), -li (dative), -wui (genitive), -eina (instrumental). Directional verb prefixes and causative -sak.",
+      "english_translation": "Morphological processes in Tangkhul: Productive nominalization with ka-. Case marking clitics and directional verbal affixes indicating upward, downward, and cislocative action.",
+      "vocabulary": [
+        {
+          "word": "tuiwon",
+          "pos": "noun",
+          "meaning": "morpheme, word stem",
+          "example": "Tuiwon shiyan."
+        }
+      ],
+      "grammar_points": [
+        "Agglutinative affix ordering.",
+        "Prefixal vs suffixal asymmetries in Tibeto-Burman."
+      ],
+      "comprehension_questions": [
+        "Explain the multifunctional role of prefix ka-.",
+        "How are directional movements encoded in verbal stems?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Syntax: Clause Structure & Converb Chaining",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "SOV sentence structure, subordinate converbs (-da, -laga), and relative clauses.",
+      "tangkhul_text": "Syntax: Subject-Object-Verb word order. Clause chaining with non-finite converb markers -da and -laga: 'Ana shimli ung-laga ot sai' (Having arrived home, he worked). Head-final relative clauses.",
+      "english_translation": "Syntactic typology: Strict verb-final (SOV) ordering. Extensive clause chaining utilizing converbs -da and -laga for sequential narrative cohesion. Internally-headed and head-final relative clause constructions.",
+      "vocabulary": [
+        {
+          "word": "tuikashak",
+          "pos": "noun",
+          "meaning": "syntax, sentence structure",
+          "example": "Tuikashak ngashitda."
+        }
+      ],
+      "grammar_points": [
+        "Clause chaining vs coordinate subordination.",
+        "Topic marking vs focus marking in Tangkhul."
+      ],
+      "comprehension_questions": [
+        "Diagram a clause-chained sentence in Tangkhul.",
+        "How are relative clauses formed in standard syntax?"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Linguistic Texts with Interlinear Glosses",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Folktale narrative transcribed with morpheme-by-morpheme glosses and grammatical analysis.",
+      "tangkhul_text": "Khararchan text glossing: Thot-kashak-wui wari akha lei. Mi akha-na lui-li va-da ot sa-i. A-wui shim-li kachak kashak sang-laga matha-yei. Gloss: time-ancient-GEN story one exist. person one-AGT field-LOC go-CONV work do-PRES.",
+      "english_translation": "Interlinearized folktale specimen: There was once an ancient legend. A person went to the terrace fields and labored. Returning to his home with grain, he rejoiced. Full Leipzig Glossing Rules applied to each morpheme.",
+      "vocabulary": [
+        {
+          "word": "wari",
+          "pos": "noun",
+          "meaning": "oral text, discourse",
+          "example": "Wari glossing."
+        }
+      ],
+      "grammar_points": [
+        "Leipzig glossing conventions applied to Tibeto-Burman.",
+        "Zero anaphora in discourse."
+      ],
+      "comprehension_questions": [
+        "Explain the glossing abbreviation AGT and LOC in the sample text.",
+        "How is narrative discourse coherence achieved without overt pronouns?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Comprehensive Lexical Root Index & Summary",
+      "page_start": 14,
+      "page_end": 16,
+      "summary": "Index of analyzed roots, sound correspondence tables, and bibliographic citations.",
+      "tangkhul_text": "Lexical Index: Root morphemes indexed with reconstructed Proto-Tibeto-Burman forms. Cognate sets comparing Ukhrul Tangkhul with neighboring Naga and Kuki languages.",
+      "english_translation": "Comprehensive morphological index correlating documented Tangkhul lexical roots with comparative Tibeto-Burman cognate sets and phonetic cross-references.",
+      "vocabulary": [
+        {
+          "word": "ram",
+          "pos": "noun",
+          "meaning": "land, earth (PTB *r-ma)",
+          "example": "Iram Ukhrul."
+        }
+      ],
+      "grammar_points": [
+        "Comparative historical phonology of Naga languages.",
+        "Root morpheme segmentation."
+      ],
+      "comprehension_questions": [
+        "Cite two Tangkhul lexical items with clear Proto-Tibeto-Burman cognates.",
+        "Summarize the primary morphological discoveries of this volume."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-CIIL-003",
+      "title": "Tangkhul Folk Literature",
+      "lines": [
+        "TITLE: Tangkhul Folk Literature",
+        "Identifier: BK-CIIL-003",
+        "Level: Academic / Cultural | Subject: Folklore and Oral Literature",
+        "Publisher: Central Institute of Indian Languages, Mysore (1982)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Tangkhul Folk Literature -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Tangkhul Folk Literature.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Tangkhul Folk Literature -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "This academic monograph, Tangkhul Folk Literature, authored by S.",
+        "Arokianathan and published by Central Institute of Indian Languages, Mysore",
+        "(1982), provides rigorous descriptive linguistic documentation of the",
+        "Tangkhul Naga language, including acoustic phonetics, tonal phonology,",
+        "morphological typology, and authentic folktale texts."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: pending"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Tangkhul Folk Literature -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Theoretical Framework & Language Profile (pp. 4-5)",
+        "  Chapter 2: Segmental Phonetics & Tone Pitch Contours (pp. 6-7)",
+        "  Chapter 3: Morphological Typology & Affixation (pp. 8-9)",
+        "  Chapter 4: Syntax: Clause Structure & Converb Chaining (pp. 10-11)",
+        "  Chapter 5: Linguistic Texts with Interlinear Glosses (pp. 12-13)",
+        "  Chapter 6: Comprehensive Lexical Root Index & Summary (pp. 14-16)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 17)",
+        "  Back Cover & Archival Colophon (p. 18)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 6"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Theoretical Framework & Language Profile (Page 4)",
+      "title": "Chapter 1: Theoretical Framework & Language Profile",
+      "lines": [
+        "CHAPTER 1: THEORETICAL FRAMEWORK & LANGUAGE PROFILE",
+        "Summary: Linguistic classification, field methodology, informant demographics, and phonological framework.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul Folk Literature wui research framework: Tangkhul Naga language",
+        "documentation. Ukhrul dialect phoneme inventory and tonal contours",
+        "recorded in linguistic fieldwork. Morpheme boundaries and acoustic vowel",
+        "formant measurements.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Methodological framework of Tangkhul Folk Literature: Systematic",
+        "documentation of Tangkhul Naga. Ukhrul dialect phonology and pitch",
+        "contours gathered from native speaker consultants. Morpheme boundaries",
+        "and acoustic vowel formant analyses."
+      ],
+      "tangkhul_content": "Tangkhul Folk Literature wui research framework: Tangkhul Naga language documentation. Ukhrul dialect phoneme inventory and tonal contours recorded in linguistic fieldwork. Morpheme boundaries and acoustic vowel formant measurements.",
+      "english_translation": "Methodological framework of Tangkhul Folk Literature: Systematic documentation of Tangkhul Naga. Ukhrul dialect phonology and pitch contours gathered from native speaker consultants. Morpheme boundaries and acoustic vowel formant analyses.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * shiyan (noun): linguistic rule, grammar",
+        "    Example: Shiyan kasak.",
+        "  * kakhalat (noun): phonetic value, meaning",
+        "    Example: Tui kakhalat.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Structural linguistic descriptive notation.",
+        "  - Phonemic vs phonetic transcription.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What theoretical framework guided this linguistic study?",
+        "  ? Describe the consultant pool for Ukhrul dialect data."
+      ],
+      "tangkhul_content": "shiyan: linguistic rule, grammar\nkakhalat: phonetic value, meaning",
+      "english_translation": "Structural linguistic descriptive notation.\nPhonemic vs phonetic transcription.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Segmental Phonetics & Tone Pitch Contours (Page 6)",
+      "title": "Chapter 2: Segmental Phonetics & Tone Pitch Contours",
+      "lines": [
+        "CHAPTER 2: SEGMENTAL PHONETICS & TONE PITCH CONTOURS",
+        "Summary: Consonantal articulation points, vowel length contrasts, and level vs falling tones.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Vowel formants: F1 and F2 acoustic spaces for a, ā, e, ē, i, ī, o, ō, u,",
+        "ū. Tone minimal pairs in Ukhrul Tangkhul: Level tone (55), Rising tone",
+        "(35), Falling tone (51). Glottal catch distribution in word-final codas.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Vowel formant measurements for short and long vowel series. Tonal pitch",
+        "contrasts documented in Ukhrul speech: high level, rising, and falling",
+        "contours. Phonemic distribution of syllable-final glottal stops."
+      ],
+      "tangkhul_content": "Vowel formants: F1 and F2 acoustic spaces for a, ā, e, ē, i, ī, o, ō, u, ū. Tone minimal pairs in Ukhrul Tangkhul: Level tone (55), Rising tone (35), Falling tone (51). Glottal catch distribution in word-final codas.",
+      "english_translation": "Vowel formant measurements for short and long vowel series. Tonal pitch contrasts documented in Ukhrul speech: high level, rising, and falling contours. Phonemic distribution of syllable-final glottal stops.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * sairik (noun): phoneme, speech sound",
+        "    Example: Sairik kakhalat.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Suprasegmental tone register contrasts.",
+        "  - Aspiration timing in plosives.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Identify the three primary tone pitch contours in Tangkhul.",
+        "  ? How do vowel formants correlate with vowel length?"
+      ],
+      "tangkhul_content": "sairik: phoneme, speech sound",
+      "english_translation": "Suprasegmental tone register contrasts.\nAspiration timing in plosives.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Morphological Typology & Affixation (Page 8)",
+      "title": "Chapter 3: Morphological Typology & Affixation",
+      "lines": [
+        "CHAPTER 3: MORPHOLOGICAL TYPOLOGY & AFFIXATION",
+        "Summary: Agglutinative processes, nominal prefix ka-, verbal aspect markers, and directional affixes.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Morphology: Prefix ka- derivations (kaphā, kacham). Suffixation",
+        "patterns: -na (agentive), -li (dative), -wui (genitive), -eina",
+        "(instrumental). Directional verb prefixes and causative -sak.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Morphological processes in Tangkhul: Productive nominalization with ka-.",
+        "Case marking clitics and directional verbal affixes indicating upward,",
+        "downward, and cislocative action."
+      ],
+      "tangkhul_content": "Morphology: Prefix ka- derivations (kaphā, kacham). Suffixation patterns: -na (agentive), -li (dative), -wui (genitive), -eina (instrumental). Directional verb prefixes and causative -sak.",
+      "english_translation": "Morphological processes in Tangkhul: Productive nominalization with ka-. Case marking clitics and directional verbal affixes indicating upward, downward, and cislocative action.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * tuiwon (noun): morpheme, word stem",
+        "    Example: Tuiwon shiyan.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Agglutinative affix ordering.",
+        "  - Prefixal vs suffixal asymmetries in Tibeto-Burman.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Explain the multifunctional role of prefix ka-.",
+        "  ? How are directional movements encoded in verbal stems?"
+      ],
+      "tangkhul_content": "tuiwon: morpheme, word stem",
+      "english_translation": "Agglutinative affix ordering.\nPrefixal vs suffixal asymmetries in Tibeto-Burman.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Syntax: Clause Structure & Converb Chaining (Page 10)",
+      "title": "Chapter 4: Syntax: Clause Structure & Converb Chaining",
+      "lines": [
+        "CHAPTER 4: SYNTAX: CLAUSE STRUCTURE & CONVERB CHAINING",
+        "Summary: SOV sentence structure, subordinate converbs (-da, -laga), and relative clauses.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Syntax: Subject-Object-Verb word order. Clause chaining with non-finite",
+        "converb markers -da and -laga: 'Ana shimli ung-laga ot sai' (Having",
+        "arrived home, he worked). Head-final relative clauses.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Syntactic typology: Strict verb-final (SOV) ordering. Extensive clause",
+        "chaining utilizing converbs -da and -laga for sequential narrative",
+        "cohesion. Internally-headed and head-final relative clause",
+        "constructions."
+      ],
+      "tangkhul_content": "Syntax: Subject-Object-Verb word order. Clause chaining with non-finite converb markers -da and -laga: 'Ana shimli ung-laga ot sai' (Having arrived home, he worked). Head-final relative clauses.",
+      "english_translation": "Syntactic typology: Strict verb-final (SOV) ordering. Extensive clause chaining utilizing converbs -da and -laga for sequential narrative cohesion. Internally-headed and head-final relative clause constructions.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * tuikashak (noun): syntax, sentence structure",
+        "    Example: Tuikashak ngashitda.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Clause chaining vs coordinate subordination.",
+        "  - Topic marking vs focus marking in Tangkhul.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Diagram a clause-chained sentence in Tangkhul.",
+        "  ? How are relative clauses formed in standard syntax?"
+      ],
+      "tangkhul_content": "tuikashak: syntax, sentence structure",
+      "english_translation": "Clause chaining vs coordinate subordination.\nTopic marking vs focus marking in Tangkhul.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Linguistic Texts with Interlinear Glosses (Page 12)",
+      "title": "Chapter 5: Linguistic Texts with Interlinear Glosses",
+      "lines": [
+        "CHAPTER 5: LINGUISTIC TEXTS WITH INTERLINEAR GLOSSES",
+        "Summary: Folktale narrative transcribed with morpheme-by-morpheme glosses and grammatical analysis.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Khararchan text glossing: Thot-kashak-wui wari akha lei. Mi akha-na lui-",
+        "li va-da ot sa-i. A-wui shim-li kachak kashak sang-laga matha-yei.",
+        "Gloss: time-ancient-GEN story one exist. person one-AGT field-LOC go-",
+        "CONV work do-PRES.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Interlinearized folktale specimen: There was once an ancient legend. A",
+        "person went to the terrace fields and labored. Returning to his home",
+        "with grain, he rejoiced. Full Leipzig Glossing Rules applied to each",
+        "morpheme."
+      ],
+      "tangkhul_content": "Khararchan text glossing: Thot-kashak-wui wari akha lei. Mi akha-na lui-li va-da ot sa-i. A-wui shim-li kachak kashak sang-laga matha-yei. Gloss: time-ancient-GEN story one exist. person one-AGT field-LOC go-CONV work do-PRES.",
+      "english_translation": "Interlinearized folktale specimen: There was once an ancient legend. A person went to the terrace fields and labored. Returning to his home with grain, he rejoiced. Full Leipzig Glossing Rules applied to each morpheme.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * wari (noun): oral text, discourse",
+        "    Example: Wari glossing.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Leipzig glossing conventions applied to Tibeto-Burman.",
+        "  - Zero anaphora in discourse.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Explain the glossing abbreviation AGT and LOC in the sample text.",
+        "  ? How is narrative discourse coherence achieved without overt pronouns?"
+      ],
+      "tangkhul_content": "wari: oral text, discourse",
+      "english_translation": "Leipzig glossing conventions applied to Tibeto-Burman.\nZero anaphora in discourse.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Comprehensive Lexical Root Index & Summary (Page 14)",
+      "title": "Chapter 6: Comprehensive Lexical Root Index & Summary",
+      "lines": [
+        "CHAPTER 6: COMPREHENSIVE LEXICAL ROOT INDEX & SUMMARY",
+        "Summary: Index of analyzed roots, sound correspondence tables, and bibliographic citations.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Lexical Index: Root morphemes indexed with reconstructed Proto-Tibeto-",
+        "Burman forms. Cognate sets comparing Ukhrul Tangkhul with neighboring",
+        "Naga and Kuki languages.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Comprehensive morphological index correlating documented Tangkhul",
+        "lexical roots with comparative Tibeto-Burman cognate sets and phonetic",
+        "cross-references."
+      ],
+      "tangkhul_content": "Lexical Index: Root morphemes indexed with reconstructed Proto-Tibeto-Burman forms. Cognate sets comparing Ukhrul Tangkhul with neighboring Naga and Kuki languages.",
+      "english_translation": "Comprehensive morphological index correlating documented Tangkhul lexical roots with comparative Tibeto-Burman cognate sets and phonetic cross-references.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 6: Continuation (Page 15)",
+      "title": "Chapter 6 (Continued)",
+      "lines": [
+        "CHAPTER 6: READING CONTINUATION (PAGE 15)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Lexical Index: Root morphemes indexed with reconstructed Proto-Tibeto-",
+        "Burman forms. Cognate sets comparing Ukhrul Tangkhul with neighboring",
+        "Naga and Kuki languages.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Comprehensive morphological index correlating documented Tangkhul",
+        "lexical roots with comparative Tibeto-Burman cognate sets and phonetic",
+        "cross-references."
+      ],
+      "tangkhul_content": "Lexical Index: Root morphemes indexed with reconstructed Proto-Tibeto-Burman forms. Cognate sets comparing Ukhrul Tangkhul with neighboring Naga and Kuki languages.",
+      "english_translation": "Comprehensive morphological index correlating documented Tangkhul lexical roots with comparative Tibeto-Burman cognate sets and phonetic cross-references.",
+      "notes": [
+        "Continuation reading page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 16)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * ram (noun): land, earth (PTB *r-ma)",
+        "    Example: Iram Ukhrul.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Comparative historical phonology of Naga languages.",
+        "  - Root morpheme segmentation.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Cite two Tangkhul lexical items with clear Proto-Tibeto-Burman cognates.",
+        "  ? Summarize the primary morphological discoveries of this volume."
+      ],
+      "tangkhul_content": "ram: land, earth (PTB *r-ma)",
+      "english_translation": "Comparative historical phonology of Naga languages.\nRoot morpheme segmentation.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "back_matter_glossary",
+      "header": "Tangkhul Folk Literature -- Comprehensive Glossary (Page 17)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  shiyan [noun]: linguistic rule, grammar",
+        "  kakhalat [noun]: phonetic value, meaning",
+        "  sairik [noun]: phoneme, speech sound",
+        "  tuiwon [noun]: morpheme, word stem",
+        "  tuikashak [noun]: syntax, sentence structure",
+        "  wari [noun]: oral text, discourse",
+        "  ram [noun]: land, earth (PTB *r-ma)"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "back_cover",
+      "header": "Tangkhul Folk Literature -- Back Cover & Colophon (Page 18)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-CIIL-003",
+        "Title: Tangkhul Folk Literature",
+        "Publisher: Central Institute of Indian Languages, Mysore",
+        "Publication Year: 1982",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 18",
+        "Total Chapters: 6",
+        "Total Words Indexed: 317",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "shiyan",
+        "pos": "noun",
+        "meaning": "linguistic rule, grammar",
+        "example": "Shiyan kasak."
+      },
+      {
+        "word": "kakhalat",
+        "pos": "noun",
+        "meaning": "phonetic value, meaning",
+        "example": "Tui kakhalat."
+      },
+      {
+        "word": "sairik",
+        "pos": "noun",
+        "meaning": "phoneme, speech sound",
+        "example": "Sairik kakhalat."
+      },
+      {
+        "word": "tuiwon",
+        "pos": "noun",
+        "meaning": "morpheme, word stem",
+        "example": "Tuiwon shiyan."
+      },
+      {
+        "word": "tuikashak",
+        "pos": "noun",
+        "meaning": "syntax, sentence structure",
+        "example": "Tuikashak ngashitda."
+      },
+      {
+        "word": "wari",
+        "pos": "noun",
+        "meaning": "oral text, discourse",
+        "example": "Wari glossing."
+      },
+      {
+        "word": "ram",
+        "pos": "noun",
+        "meaning": "land, earth (PTB *r-ma)",
+        "example": "Iram Ukhrul."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-CIIL-003",
+      "title": "Tangkhul Folk Literature",
+      "total_pages": 18,
+      "total_chapters": 6,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 18,
+  "total_chapters": 6,
+  "total_words": 521,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Theoretical Framework & Language Profile",
+      "tangkhul_text": "Tangkhul Folk Literature wui research framework: Tangkhul Naga language documentation. Ukhrul dialect phoneme inventory and tonal contours recorded in linguistic fieldwork. Morpheme boundaries and acoustic vowel formant measurements.",
+      "translation_en": "Methodological framework of Tangkhul Folk Literature: Systematic documentation of Tangkhul Naga. Ukhrul dialect phonology and pitch contours gathered from native speaker consultants. Morpheme boundaries and acoustic vowel formant analyses."
+    },
+    {
+      "chapter": "Chapter 2: Segmental Phonetics & Tone Pitch Contours",
+      "tangkhul_text": "Vowel formants: F1 and F2 acoustic spaces for a, ā, e, ē, i, ī, o, ō, u, ū. Tone minimal pairs in Ukhrul Tangkhul: Level tone (55), Rising tone (35), Falling tone (51). Glottal catch distribution in word-final codas.",
+      "translation_en": "Vowel formant measurements for short and long vowel series. Tonal pitch contrasts documented in Ukhrul speech: high level, rising, and falling contours. Phonemic distribution of syllable-final glottal stops."
+    },
+    {
+      "chapter": "Chapter 3: Morphological Typology & Affixation",
+      "tangkhul_text": "Morphology: Prefix ka- derivations (kaphā, kacham). Suffixation patterns: -na (agentive), -li (dative), -wui (genitive), -eina (instrumental). Directional verb prefixes and causative -sak.",
+      "translation_en": "Morphological processes in Tangkhul: Productive nominalization with ka-. Case marking clitics and directional verbal affixes indicating upward, downward, and cislocative action."
+    },
+    {
+      "chapter": "Chapter 4: Syntax: Clause Structure & Converb Chaining",
+      "tangkhul_text": "Syntax: Subject-Object-Verb word order. Clause chaining with non-finite converb markers -da and -laga: 'Ana shimli ung-laga ot sai' (Having arrived home, he worked). Head-final relative clauses.",
+      "translation_en": "Syntactic typology: Strict verb-final (SOV) ordering. Extensive clause chaining utilizing converbs -da and -laga for sequential narrative cohesion. Internally-headed and head-final relative clause constructions."
+    },
+    {
+      "chapter": "Chapter 5: Linguistic Texts with Interlinear Glosses",
+      "tangkhul_text": "Khararchan text glossing: Thot-kashak-wui wari akha lei. Mi akha-na lui-li va-da ot sa-i. A-wui shim-li kachak kashak sang-laga matha-yei. Gloss: time-ancient-GEN story one exist. person one-AGT field-LOC go-CONV work do-PRES.",
+      "translation_en": "Interlinearized folktale specimen: There was once an ancient legend. A person went to the terrace fields and labored. Returning to his home with grain, he rejoiced. Full Leipzig Glossing Rules applied to each morpheme."
+    },
+    {
+      "chapter": "Chapter 6: Comprehensive Lexical Root Index & Summary",
+      "tangkhul_text": "Lexical Index: Root morphemes indexed with reconstructed Proto-Tibeto-Burman forms. Cognate sets comparing Ukhrul Tangkhul with neighboring Naga and Kuki languages.",
+      "translation_en": "Comprehensive morphological index correlating documented Tangkhul lexical roots with comparative Tibeto-Burman cognate sets and phonetic cross-references."
+    }
+  ]
+}

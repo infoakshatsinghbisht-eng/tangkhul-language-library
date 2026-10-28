@@ -13,7 +13,7 @@ if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
 from tangkhul_lib.core.exceptions import ManifestValidationError
-from tangkhul_lib.ingestion.metadata_validation import validate_manifest_file
+from tangkhul_lib.ingestion.metadata_validation import validate_all_manifests
 
 
 def main() -> int:
@@ -22,34 +22,24 @@ def main() -> int:
         print(f"Error: Manifest directory not found at {manifest_dir}", file=sys.stderr)
         return 1
 
-    manifest_files = sorted(manifest_dir.glob("*.jsonl"))
-    if not manifest_files:
-        print(f"No .jsonl manifest files found in {manifest_dir}")
-        return 0
+    print("=" * 65)
+    print("Tangkhul Language Library -- Manifest & Cross-Catalogue Validation")
+    print("=" * 65)
 
-    print("=" * 60)
-    print("Tangkhul Language Library -- Manifest Validation")
-    print("=" * 60)
-
-    total_records = 0
-    errors_found = False
-
-    for file_path in manifest_files:
-        try:
-            records = validate_manifest_file(file_path)
-            total_records += len(records)
-            print(f"OK:   {file_path.name:<25} ({len(records)} record(s))")
-        except ManifestValidationError as exc:
-            errors_found = True
-            print(f"FAIL: {file_path.name:<25} Error: {exc}", file=sys.stderr)
-
-    print("-" * 60)
-    print(f"Validation completed. Total records across all manifests: {total_records}")
-
-    if errors_found:
-        print("Status: FAILED due to validation errors.", file=sys.stderr)
+    try:
+        manifest_map = validate_all_manifests(manifest_dir)
+    except ManifestValidationError as exc:
+        print(f"FAIL: Manifest validation failed: {exc}", file=sys.stderr)
         return 1
 
+    total_records = 0
+    for filename, records in manifest_map.items():
+        total_records += len(records)
+        print(f"OK:   {filename:<25} ({len(records)} record(s))")
+
+    print("-" * 65)
+    print(f"Validation completed. Total records across all manifests: {total_records}")
+    print("Global ID uniqueness: Verified (no duplicate IDs across any catalogues)")
     print("Status: PASSED all manifest checks.")
     return 0
 

@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: 1891 ANGLO-MANIPUR WAR AND TANGKHUL PASS NEUTRALITY PACTS
+IDENTIFIER: HIST-EVT-007 | CATEGORY: HISTORICAL_EVENT
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 1891 Anglo-Manipur War and Tangkhul Pass Neutrality Pacts
+  Title Translation:     Defense of Hill Passes During the Anglo-Manipur Conflict
+  Historical Category:   historical_event
+  Event Date / Period:   March–April 1891 | Colonial Conquest Era
+  Sort Year:             1891
+  Place / Settlement:    Ukhrul Pass [Hunphun & Hundung]
+  Dialect / Variety:     Ukhrul / Hundung
+  Key Figures / Creator: Hunphun and Hundung Village Councils
+  Publisher / Source:    Documented in Grimwood 1891, Hodson 1911, Manipur State Archives
+  Source Identifier:     Anglo-Manipur-1891-Pacts
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Historical Documentation (community_authorized)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  During the Anglo-Manipur War of 1891 following the palace uprising in Imphal, Tangkhul village councils maintained strategic defensive neutrality, safeguarding mountain passes and protecting non-combatants retreating across the eastern hills.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1891 kum Anglo-Manipur War tharan British columns Kohima kala Tamu-wui ngathur-da Kangla chotchan.
+  Hunphun kala Hundung Awunga-bingna mountain passes guard sakda sovereign diplomatic neutrality maintain sakya.
+  Hill people-na conflict-li non-combatants-li shimlut sangda hill villages-wui destruction banish sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  During the 1891 Anglo-Manipur War, British military columns advanced toward Kangla Palace via Kohima and Tamu through eastern hill passes.
+  The chiefs of Hunphun and Hundung maintained strategic diplomatic neutrality, guarding the mountain trails and securing their territories.
+  Tangkhul village councils granted humanitarian sanctuary to fleeing non-combatants, shielding the hill populations from military devastation.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. March 1891: Palace uprising in Imphal resulting in the execution of Chief Commissioner Quinton and British officers.
+  2. April 1891: Three-pronged British invasion launched from Kohima, Silchar, and Tamu.
+  3. April 1891: Tangkhul village councils meet at Hundung pass; deliberate and enact non-belligerent defense covenants.
+  4. May 1891: Direct political administration established under Political Agent Major Maxwell; hill regions formally reorganized.
+
+KEY FIGURES & LEADERS:
+  Chiefs of Hunphun & Hundung, Major Maxwell, Major General H. Collett, Village Council Arbitrators
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Eastern Manipur Hill Passes (Ukhrul-Hundung-Kangla Route)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Demonstrated the strategic sovereign autonomy and diplomatic statesmanship of Tangkhul village polities during colonial conquest.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Ralam-Gari             : Guarding the sovereign mountain pass
+  * Khamasit-Pao           : Diplomatic peace pact and non-aggression declaration
+  * Shimlut-Sang           : Granting humanitarian sanctuary to travelers in flight
+  * Hangva-Ning            : Collective wisdom and verdict of the elder council
+
+================================================================================
+END OF RECORD: HIST-EVT-007 - Tangkhul Language Library Digital Archive
+================================================================================

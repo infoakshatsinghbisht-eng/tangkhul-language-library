@@ -1,0 +1,57 @@
+{
+  "id": "LIT-FLK-017",
+  "resource_type": "literature",
+  "title": "Har eina Ngaprum wui Khararchan",
+  "title_translation": "The Fable of the Mountain Hen and the River Eel",
+  "creator": "Tangkhul Oral Tradition Custodians & CIIL",
+  "author": "Traditional",
+  "year": 1982,
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "fable"
+  ],
+  "book_id": "BK-CIIL-003",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "CIIL-FLK-1982-HNK",
+  "license": "Academic Documentation",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-017.txt",
+  "notes": "Ancient fable recounting a mutual alliance between forest fowl and mountain river creatures during catastrophic monsoon floods.",
+  "indigenous_tangkhul_text": [
+    "Khararchan-wui thotharan ram-ngaleili kazing mashun kachiphun eina tuikharor laka tonda kashun.\nKaphung wui meiphor har eina kongrei wui ngaprum akha, kaphung mayon-kachat pamli ngasamtitlaga tui ngaranhaowa.",
+    "'Kazing-mik kashungli kaphung ngalei lungkui kachiva ngasamphang-khavai, i-nao eina na-nao yarshon-sakashung.'\nHarna kaphung-wui won theida, 'Kongrei-li tui-ngaprum kapam eina kongkashan khavai na-naona ngara-manda!'",
+    "Ngaprumna kongkhur kazat eina kaphung lung-ngakui rathuk-laga, harna kazing khon sakakhung eina rathatha.\nAni leikashi eina ngaran-kazat wui vangli, tuikharor kachiva-li kaphung ram eina kongram kakhayei samphang-lakmana.",
+    "Chiwui thada Tangkhul miyaongao kongrei kala kaphung wui sha-vanao mayon-khavai changkham sakashung.\nKhararchan hi theilaga kaphung ngalei kala kongrei kachung-chihui ngachei-kacham ram-leishat ringhaora."
+  ],
+  "english_translation_text": [
+    "In ancestral epochs of great summer downpours, mountain torrents flooded the valleys and inundated the lower foothills.\nAt that hour, a wise red jungle fowl and a sleek mountain river eel met upon a rocky ridge and formed a solemn pact.",
+    "'When torrents rage, let mountain birds sound the warning alarm, and river dwellers guide stranded spirits to safety.'\nThe fowl watched from the tall oak branches, while the swift eel navigated hidden underwater channels and rocky shallows.",
+    "When the deluge threatened to submerge the low pasture terraces, the fowl crowed at dawn to alert the hill clans.\nThrough their sacred covenant and mutual vigilance, both sky fliers and water swimmers survived the disastrous floods.",
+    "Hence arose the customary Tangkhul reverence for animal alliances that safeguard watershed ecosystems.\nThis ancient fable reminds hill communities of the unbreakable ecological bond linking mountain crests to river valleys."
+  ],
+  "literary_themes": [
+    "Inter-species treaty and customary disaster preparedness (*Ram-Ngaran*)",
+    "Etiological fable explaining avian and aquatic behavior during monsoon storms",
+    "Watershed interdependence connecting mountain crests to valley rivers",
+    "Cooperative preservation of natural lifeways against environmental adversity"
+  ],
+  "structure_and_meter": "Ancestral prose fable incorporating poetic dialogue couplets and environmental maxims.",
+  "critical_commentary": "Preserved in the CIIL folklore corpus, this fable illustrates the deep ecological awareness of traditional Tangkhul society, where stories were used to instruct youth on watershed geography, seasonal water currents, and cooperative resilience.",
+  "poetic_vocabulary_terms": {
+    "Ngaprum": "Mountain freshwater eel, inhabiting clean upland rivers and deep pools",
+    "Tuikharor": "Monsoon floodwaters, overflowing riverbanks and ravines",
+    "Meiphor har": "Red jungle fowl (Gallus gallus), native mountain wild bird",
+    "Kongkhur": "Deep river pool / underwater channel beneath mountain rock"
+  },
+  "stanza_count": 4,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

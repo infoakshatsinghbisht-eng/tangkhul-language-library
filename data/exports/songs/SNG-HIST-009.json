@@ -1,0 +1,137 @@
+{
+  "id": "SNG-HIST-009",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 9: Arui Chimik Tunra",
+  "alternate_titles": [
+    "Now the Day Is Over (Tangkhul)",
+    "Hymn No. 9 (1907)"
+  ],
+  "title_translation": "Now the Day Is Over in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "Sabine Baring-Gould (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "Joseph Barnby (Tune 296 | Doh is F)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-009",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-009_jesuwui_laa_09_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 9 from Jesuwui La: Hymns in Tangkhul Naga (1907). 7 stanzas translated by Rev. William Pettigrew.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Arui chimik tunra,",
+        "Ngayakijura,",
+        "Kachingram atungli",
+        "Mamachahora."
+      ],
+      "lines_translation": [
+        "Now the day is over,",
+        "Night is drawing nigh;",
+        "Shadows of the evening",
+        "Steal across the sky."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Arui tangmanghowa,",
+        "Sirala shokra,",
+        "Vano, sa, awonla,",
+        "Piyukijura."
+      ],
+      "lines_translation": [
+        "Now the darkness gathers,",
+        "Stars begin to peep;",
+        "Birds and beasts and flowers",
+        "Soon will be asleep."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Jesu kakhanangli,",
+        "Laishiri aina,",
+        "Pi ngasak miluda,",
+        "Kharai ngasaklu."
+      ],
+      "lines_translation": [
+        "Jesus, give the weary",
+        "Calm and sweet repose;",
+        "With Thy tenderest blessing",
+        "May our eyelids close."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "lines_tangkhul": [
+        "Noshino mangshongli",
+        "Nali thairanu;",
+        "Makapha kasali",
+        "Lumashenrailu."
+      ],
+      "lines_translation": [
+        "Grant to little children",
+        "Visions bright of Thee;",
+        "Guard the wandering travelers",
+        "And shelter them with peace."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "lines_tangkhul": [
+        "Ngaya sailung hili",
+        "Ishamaiwui rao,",
+        "Iwui pet ngalemli",
+        "Kamayonmilu."
+      ],
+      "lines_translation": [
+        "Through the long night watches",
+        "May Thine angels spread",
+        "Their white wings above me,",
+        "Watching round my bed."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "lines_tangkhul": [
+        "Kaching kahor aina",
+        "I angkar thuida,",
+        "Nali kamataida",
+        "Otram ngathara."
+      ],
+      "lines_translation": [
+        "When the morning wakens,",
+        "Then may I arise",
+        "Pure, and fresh, and sinless",
+        "In Thy holy eyes."
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "lines_tangkhul": [
+        "Varivara aina",
+        "Ano Jesula,",
+        "Mangla katharala,",
+        "Masot chikatsa."
+      ],
+      "lines_translation": [
+        "Glory to the Father,",
+        "Glory to the Son,",
+        "And to Thee, blest Spirit,",
+        "Whilst all ages run."
+      ]
+    }
+  ]
+}

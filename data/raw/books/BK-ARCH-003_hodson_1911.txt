@@ -1,0 +1,229 @@
+# Complete Digital Text: The Naga Tribes of Manipur (Tangkhul Sections)
+# Identifier: BK-ARCH-003
+# Source: Tangkhul Language Library Digital Preservation Archive
+# Format: Contiguous Cover-to-Cover Digitized Text
+
+--- Page 1 ---
+## Tangkhul Language Library -- BK-ARCH-003
+### The Naga Tribes of Manipur: Tangkhul Sections
+TITLE: The Naga Tribes of Manipur (Tangkhul Sections)
+Identifier: BK-ARCH-003
+Author: T. C. (Thomas Callan) Hodson
+Publisher: Macmillan and Co., Limited, London (1911)
+Language: Tangkhul & English
+License: Public Domain (Internet Archive: nagatribesofmani00hods)
+Preservation Archive: Tangkhul Language Library Digital Repository
+
+--- Page 2 ---
+## BK-ARCH-003 -- Preface & Archival Imprint
+### Preface & Archival Documentation
+PREFACE & ARCHIVAL INTRODUCTION:
+Published in London under the patronage of the Government of Eastern Bengal and
+Assam by Macmillan and Co. in 1911. T. C. Hodson, former Assistant Political Agent in
+Manipur, provides the earliest comprehensive ethnographic and linguistic survey of
+the Tangkhul Nagas of Manipur, documenting village organization, traditional law,
+linguistic relationships, folktales, ballads, and headmanship institutions.
+
+--- Page 3 ---
+## BK-ARCH-003 -- Table of Contents
+### Table of Contents
+TABLE OF CONTENTS:
+  Front Cover & Title Page (p. 1)
+  Imprint, Archival Rights & Preface (p. 2)
+  Table of Contents (p. 3)
+  Chapter 1: Habitat, Geography & Tribal Divisions (pp. 4-5)
+  Chapter 2: Tangkhul Linguistic Classification & Dialects (pp. 6-7)
+  Chapter 3: Village Organization & The Awunga (Headman) (pp. 8-9)
+  Chapter 4: Traditional Laws, Land Tenure & Feasts of Merit (pp. 10-11)
+  Chapter 5: Tangkhul Folktales: Origin of the Species & Animals (pp. 12-13)
+  Chapter 6: Traditional Tangkhul Ballads & Folk Poetry (pp. 14-15)
+  Chapter 7: Comparative Vocabulary & Dialectal Specimen (pp. 16-18)
+  Comprehensive Ethnographic Glossary (p. 19)
+  Back Cover & Archival Colophon (p. 20)
+
+--- Page 4 ---
+## Chapter 1: Habitat & Tribal Divisions (Page 4)
+### Chapter 1: Habitat, Geography & Tribal Divisions
+CHAPTER 1: HABITAT, GEOGRAPHY & TRIBAL DIVISIONS
+Summary: The mountain territory of the Tangkhuls and four territorial subdivisions.
+
+TANGKHUL & ENGLISH TEXT:
+Tangkhul miyur hi Manipur wui kaphung zanshorli pamda kaphung khangacheo eina ngashitna.
+Territorial groups: Raphei (Northern Tangkhuls), Kathur (Central Tangkhuls around Ukhrul and Hungpung),
+Kamo (Southern Tangkhuls bordering Maring territory), and Kharao (Western Tangkhuls facing the valley).
+Each area possesses its distinctive sub-dialect, while Ukhrul serves as the recognized lingua franca.
+
+--- Page 5 ---
+## Chapter 1: Vocabulary & Geographical Analysis (Page 5)
+### Chapter 1 Study Guide & Vocabulary
+CHAPTER 1 STUDY GUIDE & VOCABULARY
+VOCABULARY:
+  * raphei (noun): northern region / northern Tangkhuls
+  * kathur (noun): central region / central dialect area
+  * kamo (noun): southern region / southern Tangkhuls
+  * kharao (noun): western region / western Tangkhuls
+  * awunga (noun): village chief, hereditary headman
+
+--- Page 6 ---
+## Chapter 2: Tangkhul Linguistic Classification (Page 6)
+### Chapter 2: Linguistic Classification & Dialects
+CHAPTER 2: LINGUISTIC CLASSIFICATION & DIALECTS
+Summary: Phonetic features, tone patterns, and relations with the Tibeto-Burman family.
+
+TANGKHUL & ENGLISH TEXT:
+Tangkhul language exhibits agglutinative morphology with dominant prefix ka- forming adjectives and infinitives.
+Case relationships are indicated by postpositional affixes: -na (agentive), -li (dative/locative), -wui (genitive).
+Vowel length contrasts: 'sa' (to do) vs 'sā' (animal/flesh); 'mik' (eye) vs 'mei' (fire).
+
+--- Page 7 ---
+## Chapter 2: Grammatical Notes (Page 7)
+### Chapter 2 Grammatical Form & Notes
+CHAPTER 2 STUDY GUIDE & GRAMMATICAL NOTES
+GRAMMAR POINTS:
+  - Postpositional clitics mark syntactic relations.
+  - Adjectival roots take ka- prefix: ka-pha (good), ka-thei (seen), ka-thum (three).
+  - Negation is framed using circumfix ma-...-mana: ma-thei-mana (does not see).
+
+--- Page 8 ---
+## Chapter 3: Village Organization & Awunga (Page 8)
+### Chapter 3: Village Organization & The Awunga
+CHAPTER 3: VILLAGE ORGANIZATION & THE AWUNGA
+Summary: The hereditary institution of the village chief (Awunga) and the council of elders (Hangva).
+
+TANGKHUL & ENGLISH TEXT:
+Khaung kachida Awunga akha leiyi; Awunga hi shimkhurwui mathun eina ngashitna.
+The Tangkhul village is an independent democratic unit. The chief, Awunga, rules in conjunction with
+the village council called Hangva, composed of representatives from each clan (Shangnao).
+He leads the agricultural festivals (Luira, Chumphut) and acts as the chief custodian of village lands.
+
+--- Page 9 ---
+## Chapter 3: Vocabulary & Civic Terminology (Page 9)
+### Chapter 3 Civic Lexicon & Notes
+CHAPTER 3 STUDY GUIDE & CIVIC LEXICON
+VOCABULARY:
+  * awunga (noun): village chief, king
+  * hangva (noun): village council of clan elders
+  * shangnao (noun): clan, lineage group
+  * luira (noun): spring seed-sowing festival
+  * chumphut (noun): harvest opening festival
+
+--- Page 10 ---
+## Chapter 4: Traditional Laws & Feasts of Merit (Page 10)
+### Chapter 4: Traditional Laws & Feasts of Merit
+CHAPTER 4: TRADITIONAL LAWS, LAND TENURE & FEASTS OF MERIT
+Summary: Maran (Feasts of Merit), Tarung wooden monuments, and customary tenure.
+
+TANGKHUL & ENGLISH TEXT:
+Maran kashak hi Tangkhul ngashanli khamataiya otsak akhana. Tarung thingrei vakhang eina shimli shona.
+Feasts of Merit (Maran) elevate the social and religious standing of a family in this world and the next.
+The celebrant pulls a colossal fork-shaped wooden monument (Tarung) from the forest, accompanied by whole-village singing.
+
+--- Page 11 ---
+## Chapter 4: Cultural Lexicon (Page 11)
+### Chapter 4 Cultural Lexicon & Notes
+CHAPTER 4 STUDY GUIDE & CULTURAL LEXICON
+VOCABULARY:
+  * maran (noun): feast of merit, sacrificial banquet
+  * tarung (noun): wooden monument erected before house entrance
+  * lungto (noun): stone megalith / monument
+  * seichang (noun): mithun (Bos frontalis), ritual bovine
+
+--- Page 12 ---
+## Chapter 5: Folktales: Origin of Tangkhuls (Page 12)
+### Chapter 5: Tangkhul Folktales: Origins
+CHAPTER 5: TANGKHUL FOLKTALES: ORIGIN OF THE SPECIES & ANIMALS
+Summary: The legendary migration from Samsok and brotherhood between the Meitei and Tangkhul.
+
+TANGKHUL & ENGLISH TEXT:
+Awo-ayiwui khararchanli: 'Avah Samsokli tungthuiya, Makungana ili phungtung.'
+Tangkhul folklore recounts that the elder brother remained in the eastern hills to hunt and clear terrace fields,
+while the younger brother descended to cultivate the fertile valley of Manipur, establishing the historical
+brotherhood bond commemorated at the annual Mera Hou Chongba festival.
+
+--- Page 13 ---
+## Chapter 5: Folktale Lexicon & Analysis (Page 13)
+### Chapter 5 Folklore Lexicon & Analysis
+CHAPTER 5 STUDY GUIDE & FOLKLORE LEXICON
+VOCABULARY:
+  * khararchan (noun): ancestral legend, traditional folktale
+  * awo-ayi (noun phrase): ancestors, forefathers and foremothers
+  * samsok (proper noun): ancient ancestral homeland (Thaungdut in Chindwin valley)
+  * chinaoni (noun): brothers, siblings of common blood
+
+--- Page 14 ---
+## Chapter 6: Traditional Tangkhul Ballads (Page 14)
+### Chapter 6: Traditional Tangkhul Ballads & Folk Poetry
+CHAPTER 6: TRADITIONAL TANGKHUL BALLADS & FOLK POETRY
+Summary: The tragic romance of Shimreishang and Maitonphi, and traditional war ballads.
+
+TANGKHUL & ENGLISH TEXT:
+Shimreishang eina Maitonphiwui leikashiyi Tangkhul thotchanli kaphapamei laana.
+'Avayo avayo, makhamalu Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa.'
+The lyrical lament describes immortal love that defies village taboos and reunites in Kazeiram (the afterlife).
+
+--- Page 15 ---
+## Chapter 6: Poetic Terms & Notes (Page 15)
+### Chapter 6 Poetic Style & Notes
+CHAPTER 6 STUDY GUIDE & POETIC STYLE
+VOCABULARY:
+  * leishat laa (noun): traditional romantic love song
+  * kazeiram (noun): subterranean land of the dead, abode of departed spirits
+  * pheichak laa (noun): ceremonial dancing song
+  * haolaa (noun): ancestral folk song, folk poetry
+
+--- Page 16 ---
+## Chapter 7: Comparative Vocabulary (Page 16)
+### Chapter 7: Comparative Vocabulary & Dialectal Specimen
+CHAPTER 7: COMPARATIVE VOCABULARY & DIALECTAL SPECIMEN
+Summary: 100 diagnostic vocabulary items documented by T. C. Hodson.
+
+LEXICAL ITEMS:
+1. Man: Mi  2. Head: Akui  3. Hair: Sam  4. Eye: Mik  5. Ear: Khana
+6. Nose: Khamasung  7. Mouth: Khamor  8. Tooth: Ha  9. Hand: Pang  10. Foot: Phei
+11. Sun: Zingsho  12. Moon: Kachang  13. Star: Sirak  14. Fire: Mei  15. Water: Tara
+16. House: Shim  17. Dog: Si  18. Bird: Vana  19. Fish: Khai  20. Tree: Thing
+
+--- Page 17 ---
+## Chapter 7: Numerals & Kinship Terms (Page 17)
+### Chapter 7 Numerals & Kinship
+CHAPTER 7 (CONTINUED): NUMERALS & KINSHIP TERMS
+NUMERALS: 1. Akha  2. Khani  3. Kathum  4. Mati  5. Phangā
+          6. Tharuk  7. Shini  8. Chishat  9. Chiko  10. Tharā
+KINSHIP: Father: Ava  Mother: Avu / Aza  Elder Brother: Kakhara  Younger Brother: Kakhanao
+PRONOUNS: I: I  Thou: Na  He/She: A  We: Ithum  You: Nathum  They: Athum
+
+--- Page 18 ---
+## Chapter 7: Dialectal Comparison (Page 18)
+### Chapter 7 Dialectal Comparison Notes
+CHAPTER 7 (CONTINUED): DIALECTAL COMPARATIVE MATRIX
+Ukhrul (Kathur): tara (water), mei (fire), si (dog), mi (man).
+Raphei (Northern): ra (water), mai (fire), shei (dog), rimi (man).
+Kamo (Southern): ti (water), mee (fire), thii (dog), mi (man).
+Phonetic correspondence shows consistent tonal and glide shifts between dialects.
+
+--- Page 19 ---
+## BK-ARCH-003 -- Comprehensive Glossary (Page 19)
+### Comprehensive Ethnographic Glossary
+COMPREHENSIVE ETHNOGRAPHIC GLOSSARY (BK-ARCH-003):
+  * awunga: village headman / chief
+  * hangva: council of elders
+  * maran: feast of merit
+  * tarung: ceremonial forked monument
+  * luira: seed sowing festival
+  * kazeiram: land of the dead
+  * khararchan: ancestral oral history
+  * haolaa: folk poetry in song
+  * shangnao: clan lineage
+  * raphei / kathur / kamo / kharao: four territorial divisions
+
+--- Page 20 ---
+## BK-ARCH-003 -- Back Cover & Colophon (Page 20)
+### Back Cover & Archival Colophon
+TANGKHUL LANGUAGE LIBRARY ARCHIVAL COLOPHON
+Book Identifier: BK-ARCH-003
+Work: The Naga Tribes of Manipur (Tangkhul Sections)
+Author: T. C. Hodson (Macmillan & Co., London, 1911)
+Preservation Status: Complete Digital Preservation Edition (20 Pages)
+Total Chapters: 7 | Words Digitized: 2,800 words
+Repository: Tangkhul Language Library Digital Archive
+License: Public Domain

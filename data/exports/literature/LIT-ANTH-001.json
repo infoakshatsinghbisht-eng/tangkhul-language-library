@@ -1,0 +1,56 @@
+{
+  "id": "LIT-ANTH-001",
+  "resource_type": "literature",
+  "title": "Tangkhul Folk Literature Anthology",
+  "title_translation": "Anthology of Tangkhul Folklore, Ballads, and Proverbs",
+  "creator": "S. Arokianathan",
+  "author": "S. Arokianathan",
+  "year": 1982,
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "literary_anthology",
+  "work_type": "literary_anthology",
+  "genres": [
+    "literary_anthology",
+    "folk_tale",
+    "ballad",
+    "proverb_collection"
+  ],
+  "book_id": "BK-CIIL-003",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "CIIL-FLK-1982-ANTH",
+  "license": "Academic Research Publication",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-ANTH-001.txt",
+  "notes": "Seminal scholarly anthology published under CIIL Folklore Series documenting Tangkhul oral narratives, courting songs, funeral dirges, proverbs, and riddles with linguistic commentary.",
+  "indigenous_tangkhul_text": [
+    "Central Institute of Indian Languages (CIIL) Mysore-na 1982-li Tangkhul Folk Literature monograph publish sakya.",
+    "Dr. S. Arokianathan-na oral narratives, folk ballads (Maitonphi), dirges, riddles, kala proverbs document sakya.",
+    "Phonetic transcription, English translations, kala structural linguistic analysis comprehensive-laka sanga."
+  ],
+  "english_translation_text": [
+    "In 1982, the Central Institute of Indian Languages (CIIL) in Mysore published this definitive Tangkhul Folk Literature monograph.",
+    "Compiled by Dr. S. Arokianathan, it systematically documented oral tales, the ballad of Maitonphi, proverbs, and riddles.",
+    "Featuring IPA phonetic transcriptions and interlinear English translations, it remains a landmark of academic linguistic folklore."
+  ],
+  "literary_themes": [
+    "Comprehensive scientific documentation of oral literature genres",
+    "Preservation of archaic dialects (Phungcham, Ukhrul, Champhung)",
+    "Linguistic, metric, and syntactic analysis of traditional verbal art"
+  ],
+  "structure_and_meter": "Multilingual scholarly monograph containing bilingual texts, phonetic notations, structural tables, and glossaries.",
+  "critical_commentary": "The premier academic anthology of Tangkhul oral verbal art, establishing standard methodology for Tibeto-Burman folklore documentation.",
+  "poetic_vocabulary_terms": {
+    "Folk-Literature": "Indigenous oral lore, verbal art, and narrative tradition",
+    "Paochirun": "Traditional poetic riddles and witty word-games",
+    "Paotam": "Customary proverbs and ancestral maxims",
+    "Khararchan-Laa": "Ballad poetry set to traditional melodies"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

@@ -1,0 +1,82 @@
+# Complete Digital Lexicographical Record: Tangkhul Naga Grammar and Dictionary (Ukhrul Dialect) with Illustrative Sentences
+# Identifier: DIC-HIST-001
+# Primary Creator / Lexicographer: William Pettigrew
+# Publication Year: 1918
+# Publisher: Assam Secretariat Printing Office, Shillong
+# Language Pair: Tangkhul-English
+# Dialect Variety: Ukhrul
+# Source Classification: grammar_dictionary
+# License: Public Domain
+# Permission Status: public_domain
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Tangkhul Naga Grammar and Dictionary (Ukhrul Dialect) with Illustrative Sentences
+ALTERNATE TITLE: Tangkhul Naga Grammar and Dictionary
+COMPILER / AUTHORS: William Pettigrew
+YEAR: 1918
+PUBLISHING BODY: Assam Secretariat Printing Office, Shillong
+DIALECT / VARIETY: Ukhrul
+SOURCE IDENTIFIER: Glottolog:pett1918tang
+CANONICAL SOURCE URL: https://upload.wikimedia.org/wikipedia/commons/7/7e/T%C4%81ngkhul_N%C4%81ga_grammar_and_dictionary.pdf
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Published in 1918 by the Assam Secretariat Printing Office in Shillong, this 476-page monumental treatise represents the first systematic grammatical description and comprehensive bilingual dictionary of the Tangkhul language. Rev. William Pettigrew, who arrived in Ukhrul in 1896, transcribed the language using the Roman alphabet and established the Ukhrul dialect as the written literary standard. Part II comprises over 2,000 Tangkhul headwords with precise English equivalents, parts of speech, and idiomatic illustrative sentences.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Uses the Latin alphabet with macron markings (ā, ē, ī, ō, ū) for vowel length and glottal/velar consonant representations (kh, ng, ch). Establishes basic inflectional patterns for prefixation (ka-, kha-) and nominal case suffixes (-li, -wui, -eina).
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (15 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. khamatha (adj) -- good, fine, beautiful, virtuous [Citation: p. 142] [Alt: khamathai]
+   Context / Example: Iram khamatha lei (Our village is beautiful).
+
+ENTRY  2. shim (noun) -- house, dwelling, residence, home [Citation: p. 210] [Alt: shimri]
+   Context / Example: Shim kathara kasak thotna (Building a new house).
+
+ENTRY  3. ngalung (noun) -- stone, rock, megalith, boulder [Citation: p. 180] [Alt: ngaloong]
+   Context / Example: Ngalung kachungna pamli lei (There are many stones at the place).
+
+ENTRY  4. kazip (verb) -- to gather, to assemble, to collect, to congregate [Citation: p. 95]
+   Context / Example: Ayarli mi kazipngahei (People gathered in the courtyard).
+
+ENTRY  5. luira (noun) -- seed-sowing festival, spring ceremony, first sowing rite [Citation: p. 156]
+   Context / Example: Luira phanitli kaphung ngasak (Celebrating at the Luira festival).
+
+ENTRY  6. shirui (noun) -- sacred mountain, alpine ridge, Shirui Kashong peak [Citation: p. 215] [Alt: shirue]
+   Context / Example: Shirui kashongli won kapha ngavei (Beautiful flowers bloom on Shirui peak).
+
+ENTRY  7. longkhor (noun) -- conical carrying basket, bamboo pack, woven harvest pack [Citation: p. 152]
+   Context / Example: Longkhorli apam kakhalat (Filling the carrying basket).
+
+ENTRY  8. khamor (noun) -- mouth, speech, spoken word, voice [Citation: p. 143]
+   Context / Example: Khamor kachangna phei ngazekli (A sharp mouth cuts deeper than a foot).
+
+ENTRY  9. apui (noun) -- mother, female guardian, maternal parent [Citation: p. 44] [Alt: ipui]
+   Context / Example: Apuiwui ngashan kasak (Mother's customary law is honorable).
+
+ENTRY 10. ava (noun) -- father, male elder, paternal parent [Citation: p. 42] [Alt: iva]
+   Context / Example: Iva li leikashi pamei (Love father deeply).
+
+ENTRY 11. seicham (noun) -- iron anvil, blacksmith craft, iron forge [Citation: p. 208]
+   Context / Example: Seichamli shiyan mahara (Tempering on the iron anvil).
+
+ENTRY 12. khulu (verb) -- to listen, to hear, to pay attention, to heed [Citation: p. 102]
+   Context / Example: Khulu, pao kaphana ngashana (Listen, hear the good tidings).
+
+ENTRY 13. sha (noun) -- wild animal, tiger, game, meat [Citation: p. 205]
+   Context / Example: Sha kachang pamli ngavai (Hunting game in the high forest).
+
+ENTRY 14. hui (noun) -- dog, hunting companion, canine [Citation: p. 88]
+   Context / Example: Hui kala sha wui khararchan (Folk tale of the dog and tiger).
+
+ENTRY 15. chitharan (adv) -- then, at that time, thereupon, subsequently [Citation: p. 68]
+   Context / Example: Chitharan ithum pam khanganatei (At that time our dwelling shifted).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Public Domain
+Permission Tier: public_domain
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. William Pettigrew (1918). Tangkhul Naga Grammar and Dictionary (Ukhrul Dialect) with Illustrative Sentences. Assam Secretariat Printing Office, Shillong.
+=======================================================================

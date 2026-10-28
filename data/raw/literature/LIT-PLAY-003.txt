@@ -1,0 +1,68 @@
+================================================================================
+TANGKHUL LITERARY RECORD: ASANG EINA ATON
+IDENTIFIER: LIT-PLAY-003 | GENRE: PLAY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Asang Eina Aton
+  Title Translation:     Ashang and Aton: Landmark Folk Drama
+  Literary Genre / Type: play (play)
+  Author / Storyteller:  S. Thaninleima & Tangkhul Community Dramatists
+  Publication Year:      2005
+  Publisher:             National School of Drama Extension & Khenjonglang, Imphal
+  Village / Dialect:     Tongou [Tongou / Phungcham / Standard Tangkhul]
+  Source Identifier:     NSD-KHEN-2005-AEA
+  Source URL:            https://easternpanorama.in/asang-eina-aton-tangkhul-play
+  Associated Book:       None
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  First major full-length Tangkhul folk play dramatizing the legendary 17th-century romance of Ashang and Aton, staged nationally at Bharat Rang Mahotsav.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  SHONGZA KHARAR / ACT I, SCENE 1 - TONGOU & PHUNGCHAM RAM
+  ASANG: (Kaphung yarsho-li kachamda) I-leishatnao Aton, Phungcham wui won thada nawui khamatha iwui mangli meingaláng.
+  Kha yarwui chanjam eina kashan-kacham ngachei eili, iwui leikashi meikha thada meingap-kazatta.
+  ATON: (Tongou ramwui phangyāngli luirim kachon shanchingda) Asang, nawui khon iwui ning-ngalungli ngasamkakhung leimana.
+  Kha kashanwui khamazeingna ngalei-li rai kakharak kachi theilaga, kazeiram kashungwui mangli leishat shur-fara.
+  KHARAR-MAYARNAO / CHORUS: Hao-ramwui chanjam kashak-kakhayei eina leikashi mayon-kakhui,
+  Tongou kala Phungcham mayarnaoli ning-kashung kacham eina thithang thithang meingaláng-kazatta!
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  PROLOGUE & ACT I, SCENE 1 - TONGOU AND PHUNGCHAM VILLAGES
+  ASHANG: (Gazing across the alpine terraced slopes) O my beloved Aton, like the mountain lily of Phungcham your grace illuminates my soul.
+  Yet customary clan feuds and inter-village taboos stand between our hearts, leaving my love to smolder like unquenched embers.
+  ATON: (Draped in the woven Luirim shawl upon the fields of Tongou) Ashang, your voice finds no resting place away from my heart.
+  If customary laws and clan rivalries deny our union upon this earth, our souls shall wed in Kazeiram, the ancestral spirit realm.
+  CHORUS OF VILLAGE ELDERS: Bound by the unyielding customary covenants of our hills, their tragic love shines across generations,
+  Uniting the villages of Tongou and Phungcham in an eternal monument to romantic devotion and artistic beauty!
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Tragic romantic drama (*Khararchan-Leikashi*) - the Tangkhul 'Romeo and Juliet'
+  * Customary clan rivalries between Tongou and Phungcham villages
+  * Theatrical adaptation of ancient oral ballad into modern stage play
+  * The transcendence of romantic fidelity over death and clan taboos
+
+STRUCTURE & POETIC METER: Full-length verse drama in three acts with choral odes, antiphonal dialogue, and traditional lamentations (*Mourning chants*).
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Widely celebrated as the first major full-length Tangkhul folk play. Produced under the direction of S. Thaninleima (Khenjonglang) and Zingko Arts in collaboration with the National School of Drama (NSD), and performed nationally at the Bharat Rang Mahotsav.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Asang / Ashang         : Hero of the tragic romance, noble warrior from Tongou/Phungcham
+  * Aton / Maitonphi       : Heroine of the epic romance, symbol of female grace and loyalty
+  * Shongza kharar         : Ancestral village boundary / dramatic act partition
+  * Kazeiram kashung       : Reunion in the spirit paradise of the ancestral departed
+
+================================================================================
+END OF RECORD: LIT-PLAY-003 - Tangkhul Language Library Digital Archive
+================================================================================

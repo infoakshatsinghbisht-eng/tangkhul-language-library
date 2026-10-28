@@ -1,0 +1,53 @@
+{
+  "id": "HIST-PLC-001",
+  "resource_type": "history",
+  "title": "Ukhrul / Hunphun Settlement",
+  "title_translation": "Traditional and Administrative Center of the Tangkhuls",
+  "creator": "Settlement Gazetteer Documentation",
+  "year": 1896,
+  "publisher": "Gazetteer of Manipur & British Colonial Administration",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul / Hunphun",
+  "village": "Hunphun / Ukhrul",
+  "place": "Ukhrul",
+  "category": "place",
+  "event_date": "Traditional to Present",
+  "period": "Ancient to Modern",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Ukhrul-Hunphun",
+  "license": "Geographical / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-001.txt",
+  "verification_status": "verified",
+  "notes": "Spiritual, educational, and political center of the Tangkhul region. Formed historically by the Hunphun clan lineages and established as the colonial hill sub-divisional headquarters in the early 20th century.",
+  "indigenous_tangkhul_chronicle": [
+    "Hunphun / Ukhrul settlement-hi Tangkhul rali cultural, administrative, kala educational center kashun akha.",
+    "Clan shingnut-wui shimlut kaphungda kashung, elevation 1,660 meters-li mountain crest mathat-laka pama.",
+    "1896-li colonial sub-divisional headquarters shansang-da modern institutions kachiva heili ngathur-pharak-kashung."
+  ],
+  "english_translation_text": [
+    "Hunphun / Ukhrul is the traditional, cultural, and administrative heartland of the Tangkhul Naga people.",
+    "Established along a high ridge at 1,660 meters, the settlement grew from ancestral clan hamlets into a vibrant hill metropolis.",
+    "Since its designation as a sub-divisional headquarters in the late colonial era, it has been the epicenter of education and governance."
+  ],
+  "chronicle_milestones": [
+    "1. Pre-colonial: Established by ancestral clans migrating from Makhel; governed by the Hunphun Awunga.",
+    "2. 1896: Site of the first western mission, school, and dispensary in Manipur hills.",
+    "3. 1919: Established as colonial administrative headquarters for the North-East Subdivision.",
+    "4. 1969: Elevated to full district headquarters of Manipur East (later Ukhrul) District.",
+    "5. Present: Vibrant urban center housing the Tangkhul Naga Long, TLS, and premier educational colleges."
+  ],
+  "key_figures": [
+    "Hunphun Clan Lineages",
+    "Subdivisional Officers",
+    "Tangkhul Naga Long Officials"
+  ],
+  "geographical_scope": "Ukhrul Ridge (Latitude 25.11° N, Longitude 94.36° E, Elevation 1,660 m)",
+  "historical_significance": "The paramount socio-political nucleus of the Tangkhul nation, where cultural traditions merge with modern institutions.",
+  "historical_terms": {
+    "Hunphun": "Ancestral village name meaning 'fountainhead / blessed spring'",
+    "Kaphung": "Mountain ridge / elevated crest",
+    "Ramvum": "Village territory and customary land domain",
+    "Kashak": "Ancient dignity / high political standing"
+  }
+}

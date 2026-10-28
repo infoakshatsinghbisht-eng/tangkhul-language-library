@@ -1,0 +1,177 @@
+{
+  "id": "DIC-TLS-001",
+  "resource_type": "dictionaries",
+  "title": "Tangkhul Tui Dictionary",
+  "title_translation": "Tangkhul Word Dictionary",
+  "creator": "N. Luikham",
+  "year": 1997,
+  "publisher": "Tangkhul Literature Society, Ukhrul, Manipur",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Ukhrul",
+  "source_type": "dictionary",
+  "source_url": "https://bharatavani.in/tangkhul/bhashakosha",
+  "source_identifier": "BVP-BK-TKH-001",
+  "license": "Copyright Tangkhul Literature Society",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-TLS-001_luikham_1997.txt",
+  "verification_status": "verified",
+  "notes": "Comprehensive modern Tangkhul dictionary published by TLS. Discoverable via Bharatavani Bhashakosha. Metadata-only cataloguing; full text restricted under publisher copyright.",
+  "alternate_title": "Tangkhul Word Dictionary",
+  "background": "Compiled by prominent educator and linguist N. Luikham and published by the Tangkhul Literature Society (TLS) in Ukhrul in 1997, this dictionary is the standard contemporary lexical authority for the Tangkhul community. It documents tens of thousands of contemporary, ceremonial, customary, and cultural vocabulary words that developed during the 20th century. Discoverable through the Government of India's Bharatavani Bhashakosha portal.",
+  "phonology_notes": "Standardizes contemporary Tangkhul spelling as endorsed by the Tangkhul Literature Society. Preserves indigenous compound words, ceremonial terms from traditional festivals, and customary institutions.",
+  "entries": [
+    {
+      "headword": "ngasung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "wild walnut root",
+        "tree used for communal river fishing stun"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 84",
+      "alternative_spellings": [],
+      "example": "Ngasung ngakharu eina nga kaphung (Harvesting river fish using wild walnut roots)."
+    },
+    {
+      "headword": "yarra",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "youth festival",
+        "spring clearing feast",
+        "youth society gathering"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 221",
+      "alternative_spellings": [],
+      "example": "Yarrawui laa khangakhum (Singing songs of the youth festival)."
+    },
+    {
+      "headword": "chumpha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "granary festival",
+        "post-harvest soul of paddy rite"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 48",
+      "alternative_spellings": [],
+      "example": "Chumpha phanitli kashan kazing (Blessing the granary during Chumpha)."
+    },
+    {
+      "headword": "lengcheng",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "crossed roof-horns",
+        "gable horn ornament of traditional elite dwellings"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 132",
+      "alternative_spellings": [
+        "lengcheng kui"
+      ],
+      "example": "Lengcheng shimli khamaying (Looking up at the roof-horned house)."
+    },
+    {
+      "headword": "maran",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "feast of merit",
+        "status elevation cycle",
+        "sacrificial generosity rite"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 165",
+      "alternative_spellings": [
+        "maran kasa"
+      ],
+      "example": "Maran kasa eina tarang kaphan (Erecting the Tarang post through the feast of merit)."
+    },
+    {
+      "headword": "yarnao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "peer labor exchange collective",
+        "youth mutual work group"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 223",
+      "alternative_spellings": [],
+      "example": "Yarnaoli luimat kapang (Working fields in the peer collective)."
+    },
+    {
+      "headword": "longshim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "traditional youth dormitory",
+        "village clan learning house"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 149",
+      "alternative_spellings": [],
+      "example": "Longshimli tui theikhavai (Learning customary knowledge in the dormitory)."
+    },
+    {
+      "headword": "haora",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "traditional black and red striped shawl",
+        "prestigious male mantle"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 76",
+      "alternative_spellings": [],
+      "example": "Haora kachon kakhon (Draping the prestigious Haora shawl)."
+    },
+    {
+      "headword": "luirim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ceremonial woven shawl",
+        "mantle adorned with geometric spearhead motifs"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 154",
+      "alternative_spellings": [],
+      "example": "Luirim kachon kapai (Wearing the sacred Luirim mantle)."
+    },
+    {
+      "headword": "hangva",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "village council of elders",
+        "customary governing body",
+        "village senate"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 73",
+      "alternative_spellings": [],
+      "example": "Hangvana shiyan kakazip (The council elders assembling customary laws)."
+    },
+    {
+      "headword": "khamasit",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sacred taboo",
+        "ritual abstention",
+        "genna prohibition"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 115",
+      "alternative_spellings": [],
+      "example": "Khamasit kachiphun ramli (Observing sacred taboo across the land)."
+    },
+    {
+      "headword": "manom",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "customary bridal endowment",
+        "dowry cattle and land gifts"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 161",
+      "alternative_spellings": [],
+      "example": "Manomwui se kakhayei (Gifting cattle as bridal endowment)."
+    }
+  ]
+}

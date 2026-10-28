@@ -1,0 +1,44 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-ORAL-001
+TITLE: Shimreishang Kala Maitonphi Tradition
+TITLE TRANSLATION: The Legendary Phungcham Love Ballad Tradition
+CATEGORY: oral_tradition | SUBCATEGORY: legend
+VILLAGE / REGION: Phungcham | DIALECT: Phungcham
+CONTRIBUTOR / DOCUMENTATION: Phungcham Village Oral Historians
+PUBLICATION / SOURCE: Documented in Arokianathan 1982, Horam 1982
+SOURCE ID: CIIL-FolkLit-1982-P01
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+The 17th-century Phungcham tragic romance tradition. Preserves archaic dialect vocabulary, wedding customs, mourning rituals, and poetic verses between Shimreishang and Maitonphi.
+
+[SEASONAL TIMING & OCCASION]
+Social storytelling and cultural commemorations
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Phungcham Village Elders
+- Oral Storytellers
+- Youth Dormitories
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Oral narration recited by village elders around evening dormitory fires.
+2. Antiphonal singing of the ballad stanzas during courting and social festivals.
+3. Examination of moral and customary themes: Loyalty, tragic separation, and eternal love.
+4. Linguistic preservation: Transmitting archaic Phungcham dialect vocabulary through poetic verses.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Shimreishang kala Maitonphi wui khararchan Phungchamli thot kachung.
+Leikashi kasakna wuklungli kashak, phanit laali ngasoda shaiching.
+Thot kachung kashiman malai, Tangkhul ngalanaobingwui laashan.
+
+[ENGLISH TRANSLATION & MEANING]
+The tragic romance of Shimreishang and Maitonphi echoes down the centuries from Phungcham village.
+A transcendent love bound deep within the spirit, immortalized in classical oral ballads.
+Never shall this oral tradition fade, inspiring generations of Tangkhul poetry and song.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "idiom_01",
+    "tangkhul": "Ra-chay-li theingui-shai-lu, rit-linga-lung khang-san-lu, kachi katha.",
+    "literal": "Roasting fruit when thirsty, or putting a stone on an already heavy load.",
+    "english": "Applies to a person who adds to his misery by repeated silly actions.",
+    "hindi": "प्यास लगने पर फल भूनना, या भारी बोझ पर पत्थर और लाद देना। (अपनी ही बेवकूफी से अपनी मुसीबत बढ़ाना / आफत मोल लेना।)",
+    "parallel_proverb": "Adding fuel to fire / Adding insult to injury",
+    "category": "folklore"
+  },
+  {
+    "id": "idiom_02",
+    "tangkhul": "Par-ki kaja-na shup-a, shup-ki kaja-na par-a, kachi katha.",
+    "literal": "Closing fist when one ought to open it, and opening when one ought to close.",
+    "english": "Applies to an ambitious, greedy person who thinks he can get a lot for nothing.",
+    "hindi": "जब हाथ खोलना चाहिए तब मुट्ठी भींचना, और जब बंद रखना चाहिए तब खोल देना। (लालच में सब कुछ गँवा बैठना / लालच बुरी बला है।)",
+    "parallel_proverb": "Covetousness over-reacheth itself",
+    "category": "wisdom"
+  },
+  {
+    "id": "idiom_03",
+    "tangkhul": "Khamatha sa-gi ji-la fa nga-sa-thui-ho-wa, kachi katha.",
+    "literal": "Intending to do something good, but turning it into a complete mess.",
+    "english": "Applies to one who is unfortunate in any attempt to do something good.",
+    "hindi": "अच्छा करने चले थे पर काम और बिगड़ गया। (चौबे जी गए थे छब्बे बनने, दुबे बन कर आए।)",
+    "parallel_proverb": "The road to hell is paved with good intentions",
+    "category": "experience"
+  },
+  {
+    "id": "idiom_04",
+    "tangkhul": "Nga-ley-akha shi-ley-tha, nga-yur-akha nga-wur tha, yay-akha nga-yay tha, kachi katha.",
+    "literal": "If united, like wasps' nest on rock; if divided, like moles' nest; if shallow, like a sieve.",
+    "english": "Unity brings unbreakable strength; division leads to instant ruin; untrustworthiness holds nothing.",
+    "hindi": "एकता हो तो चट्टान पर ततैया के छत्ते जैसी (अटल), और फूट हो तो चूहे के बिल जैसी (जल्दी नष्ट होने वाली)। (एकता में बल, फूट में पतन।)",
+    "parallel_proverb": "United we stand, divided we fall",
+    "category": "unity"
+  },
+  {
+    "id": "idiom_05",
+    "tangkhul": "Tho-rachi-than thri, thai-ra chi-than tho, kachi katha.",
+    "literal": "Expecting a feast and getting nothing, and expecting nothing but getting a feast.",
+    "english": "Applies to unpredictable fortunes: receiving when least expected, and empty-handed when expecting.",
+    "hindi": "जब उम्मीद थी तब कुछ नहीं मिला, और जब आस नहीं थी तब छप्पर फाड़ के मिला। (भाग्य का अनपेक्षित खेल।)",
+    "parallel_proverb": "Expect the unexpected",
+    "category": "fortune"
+  },
+  {
+    "id": "idiom_06",
+    "tangkhul": "Fa-na sajao shim-khun rik-kha ma-shai-pha-lung kachi katha.",
+    "literal": "A dog trying to eat an entire pounding receptacle full of dry sajao meal.",
+    "english": "Applies to a person who attempts an impossible task beyond their capacity.",
+    "hindi": "जैसे कुत्ता ऊखल भर सूखा दलिया नहीं खा सकता। (अपनी क्षमता और औकात से बाहर का असंभव काम करने की व्यर्थ कोशिश करना।)",
+    "parallel_proverb": "Biting off more than one can chew",
+    "category": "limitation"
+  },
+  {
+    "id": "idiom_08",
+    "tangkhul": "Pur-hum-na ka-phung min-ta-akha khi za-si-do ji, ka-tum-li yon-sang-akha khi mang-si-do kachi katha.",
+    "literal": "Bull frogs crying 'what shall we eat?' when mud collapses, and 'what shall we drink?' when leaping into water.",
+    "english": "Applies to a chronically ungrateful person who is never satisfied with whatever they have.",
+    "hindi": "मेंढक मिट्टी ढहने पर कहे क्या खाएँ, और पानी में कूदकर कहे क्या पिएँ! (जो कभी भी संतुष्ट नहीं होता / असंतोषी स्वभाव।)",
+    "parallel_proverb": "Nothing is enough to the man for whom enough is too little",
+    "category": "greed"
+  },
+  {
+    "id": "idiom_09",
+    "tangkhul": "Fa-na pai-laga har-na kha-yaya katha.",
+    "literal": "Fowls pecking at waste and scattering dirt all over the yard.",
+    "english": "Applies to a careless person who does tasks haphazardly and spreads mess.",
+    "hindi": "जैसे मुर्गियाँ गंदगी को चारों ओर बिखेरती हैं। (लापरवाही और फूहड़पन से काम फैलाना।)",
+    "parallel_proverb": "A careless hand spoils the land",
+    "category": "work"
+  },
+  {
+    "id": "idiom_10",
+    "tangkhul": "Zing-sho phi-lava-li a-chon ho-la a-mai-li sao-ka-ta katha.",
+    "literal": "The eastern chieftess addressed reverently as 'achon', becoming haughty, and falling over a cliff.",
+    "english": "Pride and haughtiness lead inevitably to downfall.",
+    "hindi": "घमंडी का सिर नीचा। (अहंकार और गर्व हमेशा विनाश की ओर ले जाता है।)",
+    "parallel_proverb": "Pride hath a fall",
+    "category": "wisdom"
+  },
+  {
+    "id": "idiom_11",
+    "tangkhul": "Nga-wur la chuin-akha a-rang-kham ma-shung kachi katha.",
+    "literal": "Too many moles leaving the opening of their burrow wide open.",
+    "english": "Applies to someone who leaves opportunities open but fails to seize good fortune.",
+    "hindi": "अवसर का द्वार खुला होने पर भी उसका लाभ न उठाना। (हाथ आए मौके को गँवा देना।)",
+    "parallel_proverb": "Opportunity seldom knocks twice",
+    "category": "opportunity"
+  },
+  {
+    "id": "idiom_12",
+    "tangkhul": "Si-lui-li fa-na sha-lala a-kha mei ma-ka-kha-yit katha.",
+    "literal": "A dog barking wildly at a buffalo, while the buffalo does not even flick its tail.",
+    "english": "Applies to being completely unperturbed by barking critics or minor trials.",
+    "hindi": "हाथी चले बाज़ार, कुत्ते भौंकें हज़ार। (भैंस पर कुत्ते के भौंकने का कोई असर न होना / निडर व शांत रहना।)",
+    "parallel_proverb": "The dogs bark, but the caravan moves on",
+    "category": "resilience"
+  },
+  {
+    "id": "idiom_13",
+    "tangkhul": "Ma-lum tha-ta cham-ka-thi katha.",
+    "literal": "White ants enjoying flight in rain, only to die moments later.",
+    "english": "Applies to fleeting, short-lived moments of joy in a difficult life.",
+    "hindi": "बरसाती चींटियों/पतंगों जैसी क्षणिक खुशी जो जल्दी ही अंत में बदल जाती है। (चार दिन की चाँदनी, फिर अँधेरी रात।)",
+    "parallel_proverb": "Brief is the splendour of the moth",
+    "category": "life"
+  },
+  {
+    "id": "idiom_14",
+    "tangkhul": "Pa-wung ma-shui-thei-won katha.",
+    "literal": "An owl yearning to eat the fruit of Ma-shui-thei, discovering it only blooms flowers but never fruits.",
+    "english": "Applies to someone whose hopes and expectations are thoroughly crushed.",
+    "hindi": "उल्लू का ऐसे वृक्ष के फल की आस लगाना जो सिर्फ फूलता है, कभी फलता नहीं। (आशाओं पर पानी फिर जाना।)",
+    "parallel_proverb": "Hopes dashed to the ground",
+    "category": "disappointment"
+  },
+  {
+    "id": "idiom_15",
+    "tangkhul": "Hui-ki kaja-na thak, thak-ki kaja-na hui, kachi katha.",
+    "literal": "The slow one finishes first, while the hasty one falls behind.",
+    "english": "Patience and persistence always triumph over reckless speed.",
+    "hindi": "सहज पके सो मीठा होय। (धीमी और निरंतर गति से काम करने वाला अंत में जीतता है।)",
+    "parallel_proverb": "Slow and steady wins the race",
+    "category": "wisdom"
+  },
+  {
+    "id": "idiom_16",
+    "tangkhul": "Sei ka-homa-li shao-ki chila sei ka-homa-na ka-shao katha.",
+    "literal": "The cattle owner seeking to punish the cow-keeper, but gets beaten by the cow-keeper instead.",
+    "english": "Plotting harm against another and falling into one's own trap.",
+    "hindi": "गड्ढा खोदे सो खुद गिरे / उल्टा चोर कोतवाल को डांटे।",
+    "parallel_proverb": "Digging a pit and falling into it yourself",
+    "category": "justice"
+  },
+  {
+    "id": "idiom_17",
+    "tangkhul": "Shan-kha kha-mor-li ba-chang yong-ka-sang katha.",
+    "literal": "A fly willingly flying straight into a tiger's wide mouth.",
+    "english": "Trusting a dishonest or predatory person with one's wealth or secrets.",
+    "hindi": "मक्खी का खुद उड़कर बाघ के खुले जबड़े में जाना। (आ बैल मुझे मार / चोर के हाथ में तिजोरी की चाबी सौंपना।)",
+    "parallel_proverb": "Walking into the lion's den",
+    "category": "caution"
+  },
+  {
+    "id": "idiom_18",
+    "tangkhul": "Na-yong shim-sak katha.",
+    "literal": "Monkeys daily resolving to build a shelter, but postponing it forever until the rain soaks them.",
+    "english": "Continuous procrastination that prevents ever finishing necessary work.",
+    "hindi": "बंदरों का घर बनाने की सोचना और हमेशा टालते रहना। (आज का काम कल पर टालने की आदत / कल करे सो आज कर।)",
+    "parallel_proverb": "Procrastination is the thief of time",
+    "category": "discipline"
+  },
+  {
+    "id": "idiom_19",
+    "tangkhul": "Na-yong kha-ma katha.",
+    "literal": "A monkey scratching a tiny itch until it transforms into a massive wound.",
+    "english": "Blowing minor grievances out of proportion into major disputes.",
+    "hindi": "बंदर का खरोंच को कुरेद-कुरेद कर बड़ा नासूर बना लेना। (राई का पहाड़ बनाना / बात का बतंगड़ बनाना।)",
+    "parallel_proverb": "Scratching a mosquito bite into an ulcer",
+    "category": "behavior"
+  },
+  {
+    "id": "idiom_20",
+    "tangkhul": "Har-va eina ra-la-wui li kha-sa-nui ka-hi.",
+    "literal": "A dance competition between a cock and a snipe bird.",
+    "english": "A selfish deal where one partner grabs all advantages and dumps the burden on the other.",
+    "hindi": "मुर्गे और बटेर का नाच। (स्वार्थी व्यक्ति जो मलाईदार हिस्सा खुद रखे और दूसरों के लिए केवल कचरा छोड़े।)",
+    "parallel_proverb": "Lion's share for the sly",
+    "category": "fairness"
+  },
+  {
+    "id": "idiom_21",
+    "tangkhul": "Pao-yi ra-khan shai katha.",
+    "literal": "Praising the delicious taste of Powi village beer dregs without having ever tasted a sip.",
+    "english": "Making grand authoritative claims on matters one knows absolutely nothing about.",
+    "hindi": "बिना चखे ही स्वाद का बखान करना। (अंधों में काना राजा / बिना सोचे-समझे हवा में बातें करना।)",
+    "parallel_proverb": "Talking through one's hat",
+    "category": "truth"
+  },
+  {
+    "id": "idiom_22",
+    "tangkhul": "Lat-shai tha-lak-a.",
+    "literal": "Possessing a tongue as unnaturally long as an ant-eater bird.",
+    "english": "An incorrigible gossip or habitual liar whose tales stretch endlessly.",
+    "hindi": "चींटीखोर पक्षी जैसी लंबी जीभ वाला। (झूठ का पुलिंदा बाँधने वाला / लंबी-लंबी हाँकने वाला व्यक्ति।)",
+    "parallel_proverb": "Having a tongue that runs on wheels",
+    "category": "character"
+  }
+]

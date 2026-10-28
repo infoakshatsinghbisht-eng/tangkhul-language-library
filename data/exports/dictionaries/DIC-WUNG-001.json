@@ -1,0 +1,146 @@
+{
+  "id": "DIC-WUNG-001",
+  "resource_type": "dictionaries",
+  "title": "Tangkhul (Wung) Dictionary (Tangkhul-English)",
+  "title_translation": "Tangkhul Wung Dictionary",
+  "creator": "T. Luikham",
+  "year": 1974,
+  "publisher": "Tangkhul Literature Society, Ukhrul",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Wung / Standard Tangkhul",
+  "source_type": "dictionary",
+  "source_url": "https://openlibrary.org/books/OL5044439M",
+  "source_identifier": "TLS-WUNG-1974",
+  "license": "Copyright Tangkhul Literature Society",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-WUNG-001_luikham_1974.txt",
+  "verification_status": "verified",
+  "notes": "Mid-century comprehensive Tangkhul-English dictionary documenting classical Wung vocabulary, customary jurisprudence terms, and botanical names. Metadata catalogued; in-copyright.",
+  "alternate_title": "Tangkhul Wung Dictionary",
+  "background": "Compiled by respected cultural scholar T. Luikham and published in 1974 in Ukhrul by the Tangkhul Literature Society. It is one of the definitive mid-20th-century bilingual lexicons, focusing specifically on classical 'Wung' (the traditional literary and poetic dialect of the Tangkhul heartland). Contains extensive entries for customary jurisprudence, indigenous botanical species, traditional weaving names, and agrarian terminology.",
+  "phonology_notes": "Integrates traditional Ukhrul literary spellings with colloquial expressions, providing invaluable etymological insight into compound words formed through classical morphemes.",
+  "entries": [
+    {
+      "headword": "wungram",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "homeland of the Tangkhul (Wung) people",
+        "ancestral territory"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 280",
+      "alternative_spellings": [],
+      "example": "Wungram leikashi (Deep devotion to the Tangkhul ancestral homeland)."
+    },
+    {
+      "headword": "okthot",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "traditional lifeways",
+        "human conduct",
+        "living culture"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 175",
+      "alternative_spellings": [],
+      "example": "Okthot mayonza (Traditional conduct and societal customary rules)."
+    },
+    {
+      "headword": "shiyan",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "customary jurisprudence",
+        "ancestral code of justice"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 230",
+      "alternative_spellings": [],
+      "example": "Shiyan kashak (Established customary law observed by elders)."
+    },
+    {
+      "headword": "manom",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "customary bridal endowment",
+        "dowry cattle and property"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 142",
+      "alternative_spellings": [],
+      "example": "Manomwui se (Mithun and cattle given as bridal endowment)."
+    },
+    {
+      "headword": "yarnao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mutual peer labor group",
+        "youth reciprocal agricultural team"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 310",
+      "alternative_spellings": [],
+      "example": "Yarnaowui luimat (Reciprocal field work by youth peer team)."
+    },
+    {
+      "headword": "hamlei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "black serpentinite cooking vessel",
+        "Longpi stone pot"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 95",
+      "alternative_spellings": [],
+      "example": "Hamlei khami (Handcrafting the renowned Longpi black stone pot)."
+    },
+    {
+      "headword": "leshong",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "serpentinite rock",
+        "pottery stone crushed for durability"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 120",
+      "alternative_spellings": [
+        "leshong lung"
+      ],
+      "example": "Leshong lung kaphei (Crushing serpentinite rock on flat stones)."
+    },
+    {
+      "headword": "chonkhom",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "women's embroidered ceremonial wrap",
+        "prestigious textile"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 55",
+      "alternative_spellings": [],
+      "example": "Chonkhom kachon (Draping the prestigious embroidered wrap)."
+    },
+    {
+      "headword": "seichan",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "handwoven skirt with geometric colored bands"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 215",
+      "alternative_spellings": [],
+      "example": "Seichan kashan (Wearing the traditional woven skirt)."
+    },
+    {
+      "headword": "ngasung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "wild walnut root used for river fishing"
+      ],
+      "dialect": "Wung / Standard Tangkhul",
+      "page": "p. 160",
+      "alternative_spellings": [],
+      "example": "Ngasung ngakharu (Crushing walnut roots for communal fishing)."
+    }
+  ]
+}

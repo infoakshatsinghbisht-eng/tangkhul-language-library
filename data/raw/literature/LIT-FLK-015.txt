@@ -1,0 +1,77 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SHAWON KALA NGAYIRWON
+IDENTIFIER: LIT-FLK-015 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Shawon Kala Ngayirwon
+  Title Translation:     The Legend of the Mountain Orchid and the Silver Cascade
+  Literary Genre / Type: folk_tale (folk_tale, oral_narrative)
+  Author / Storyteller:  Traditional
+  Publication Year:      1977
+  Publisher:             Tangkhul Literature Society / Documented in Horam 1977
+  Village / Dialect:     Phangrei [Standard Tangkhul]
+  Source Identifier:     TLS-FLK-SWN-1977
+  Source URL:            https://imphalreviews.in/tangkhul-folklore-shawon
+  Associated Book:       None
+  License & Clearance:   Traditional Oral Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Topographical romance legend explaining the botanical origin of wild cliffside orchids beside the leaping silver waterfalls of the Phangrei plateau.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Phangrei kaphung khangacheili pamnao mayarnao eina shanaonao akha, ningkacham leikashi eina ngasamtit.
+  Kha shimwui ngashan eina ram kachishat wui vangli, ani leishat chiteikhamei marankahaowa.
+
+  Ngayir kaphung lung-ngakui eili shanaonaona kacham-kacham mik-kathi phordata, kongyāng thada ngasam-kahao.
+  'I-leishatnao mayarnao, ngaleili ngasamphang-khamakha, kazeiramwui kaphung mathali i-nao mayon-khiphuora!'
+
+  Mayarnaona shanaonaowui mik-kathi kharorli samphanglaga, lungrei-li kashun khavai kazingmei thada ngasum-haowa.
+  Chitharan ani pamkakhung lungkui-li meikhangao thada Shawon won khamatha mayonzatta.
+
+  Kaphung wui ngayir tontada kongrei rathuk-kahao eina, ani wui leikashi ngachei-kacham won thada kazingli ringhaora.
+  Phangrei kaphungli kapam miyaongao serna thithang won matha theilaga ani leishat khararchan ning-yanganung.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Upon the rolling green crests of Phangrei highlands lived two devoted village sweethearts, bound by steadfast devotion.
+  Yet cruel clan divides and ancient village disputes barred their customary union upon this earthly soil.
+
+  Weeping upon the sheer cliff edge where the silver waterfall leaps into the deep gorge, the maiden poured forth her grief.
+  'O my beloved, if we cannot walk together beneath these terrace skies, in the sacred afterlife of Kazeiram we shall unite!'
+
+  Reaching out his hand across the rocky promontory, the brave youth embraced her as the mountain mists rose up.
+
+  Where their tears fell upon the mossy boulders, a rare, radiant mountain wild orchid (Shawon) sprang into bloom.
+
+  Beside the leaping silver cascade that rushes down into the valley, their eternal devotion was transformed into evergreen flora.
+  To this day, travelers walking the Phangrei ridge behold the blooming orchids and sing of the lovers' enduring spirit.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Tragic mountain romance and star-crossed sweethearts (*Khararchan Leikashi*)
+  * Botanical metamorphism into wild mountain orchids (*Shawon Won*)
+  * Sacred waterfalls and geographic features as memorial embodiments of oral lore
+  * Transcendence of customary feuds through eternal spiritual union in Kazeiram
+
+STRUCTURE & POETIC METER: Poetic legend in alternating eight-line rhymed couplets with antiphonal refrain.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A beloved topographical legend tied to the scenic cliffs and waterfalls of Phangrei. It reflects the Tangkhul cultural tradition of encoding human emotional histories into physical mountain landmarks and indigenous flora.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Shawon                 : Wild alpine orchid blooming on high cliff faces and pine boughs
+  * Ngayir                 : Leaping mountain cascade / silver waterfall
+  * Lungrei                : Ancestral stone monolith / sacred rocky mountain cliff
+  * Kazeiram               : The celestial spiritual dwelling of departed souls
+
+================================================================================
+END OF RECORD: LIT-FLK-015 - Tangkhul Language Library Digital Archive
+================================================================================

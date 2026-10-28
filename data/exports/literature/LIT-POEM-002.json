@@ -1,0 +1,55 @@
+{
+  "id": "LIT-POEM-002",
+  "resource_type": "literature",
+  "title": "Kachamwui Meikha",
+  "title_translation": "Embers of Poverty",
+  "creator": "Y.K. Shimray",
+  "author": "Y.K. Shimray",
+  "year": 2021,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": "BK-TLS-011",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-011-P03",
+  "license": "Educational Curriculum",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-002.txt",
+  "notes": "Reflective modern lyric poem exploring mountain social hardship, moral perseverance, and the dignity of rural farm laborers. Published in Class XI textbook Wordham Tuitam Khare.",
+  "indigenous_tangkhul_text": [
+    "Kachamwui meikhana kaphung chimli lumkaza makhaleiya tharan,",
+    "Mayarnao kharashotna terrace luili kashak ot-phun shitsangya.",
+    "Tara kashung-eili ning-khikhara, Varewui blessing kachivali ringpha kashung,",
+    "Hina Tangkhul mibingwui resilience kala dignified survival-wui kashik."
+  ],
+  "english_translation_text": [
+    "When the embers of poverty provide meager warmth in the chilly mountain winter,",
+    "The resilient laborer climbs to the terraced fields, bearing the heavy yoke of toil.",
+    "Though tears may mingle with sweat, trusting gratitude to the Almighty brings quiet joy,",
+    "For this is the enduring testament of Tangkhul fortitude and dignified survival."
+  ],
+  "literary_themes": [
+    "Social realism and empathetic depiction of rural poverty",
+    "The dignity of agrarian labor and terraced cultivation",
+    "Resilience, spiritual fortitude, and enduring hope amidst hardship"
+  ],
+  "structure_and_meter": "Reflective elegiac poetry in free-flowing stanzas utilizing tactile thermal imagery (cold mist, glowing embers).",
+  "critical_commentary": "Composed by Y.K. Shimray for Class XI Wordham Tuitam Khare (2021), this piece represents modern Tangkhul literary realism addressing contemporary mountain socio-economic realities.",
+  "poetic_vocabulary_terms": {
+    "Meikha": "Glowing embers of the hearth / inner spark of survival",
+    "Kacham": "Poverty / simplicity of mountain life",
+    "Kharashot": "Enduring grueling labor with quiet dignity",
+    "Lui-Ot": "The sacred labor of paddy terrace cultivation"
+  },
+  "stanza_count": 4,
+  "line_count": 4,
+  "text_availability": "full_text"
+}

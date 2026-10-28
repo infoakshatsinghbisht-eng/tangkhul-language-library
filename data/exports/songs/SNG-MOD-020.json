@@ -1,0 +1,44 @@
+{
+  "id": "SNG-MOD-020",
+  "resource_type": "songs",
+  "title": "Mailemphy",
+  "alternate_titles": [
+    "Mailemphi"
+  ],
+  "title_translation": "Mailemphy (Beloved Maiden)",
+  "singer": "Shimreingam Horam",
+  "lyricist": "Shimreingam Horam",
+  "composer": "Shimreingam Horam",
+  "collector": null,
+  "performers": [
+    "Shimreingam Horam"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-SH-004",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Romantic tribute song celebrating traditional maiden grace.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Mailemphy, nawui won kaphana kaphungli.",
+        "Tangkhul ngalanao wui mashun themthot pamei."
+      ],
+      "lines_translation": [
+        "Mailemphy beloved, your radiant grace illuminates our hills.",
+        "Embodying the gentle modesty and upright virtues of Tangkhul maidens."
+      ]
+    }
+  ]
+}

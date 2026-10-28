@@ -1,0 +1,57 @@
+{
+  "id": "SNG-HIST-001",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa",
+  "alternate_titles": [
+    "Hymns in Tangkhul Naga"
+  ],
+  "title_translation": "Songs of Jesus / Tangkhul Hymnal",
+  "singer": "Early Tangkhul Christian Congregation",
+  "lyricist": "William Pettigrew (Trans.)",
+  "composer": "Various Hymnists",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "ark:/13960/t03z01t79",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": null,
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Earliest printed songbook in the Tangkhul language (1907, American Baptist Mission, Ukhrul). Public Domain.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Jesu wui leikashi kapha.",
+        "Ili shimli kaphan kashung.",
+        "Kazingramwui tui kaphana."
+      ],
+      "lines_translation": [
+        "The blessed love of Jesus.",
+        "Reaching every family and dwelling.",
+        "The joyous gospel of the heavenly realm."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Vare wui ningli shitsang kazing.",
+        "Tangkhul ramli khanganaso rasai.",
+        "Thot kachungli haring kasawui maram."
+      ],
+      "lines_translation": [
+        "Firmly trusting in the will of the Creator.",
+        "Spreading the dawn of light across Tangkhul land.",
+        "Giving the eternal gift of spiritual life."
+      ]
+    }
+  ]
+}

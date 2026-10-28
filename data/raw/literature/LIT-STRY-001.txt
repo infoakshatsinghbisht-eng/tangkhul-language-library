@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: MARANWON
+IDENTIFIER: LIT-STRY-001 | GENRE: SHORT_STORY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Maranwon
+  Title Translation:     The Blossom of Fate
+  Literary Genre / Type: short_story (short_story)
+  Author / Storyteller:  R. Shaiza
+  Publication Year:      2000
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-007-S01
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-007
+  License & Clearance:   Educational Curriculum (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Influential modern realistic short story depicting village familial bonds, migration choices, and traditional mountain ethical resilience. Anthologized in Class IX Tangkhul Tuitam Kachiko.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Maranwonna village school-li teaching sakda rural education-wui vang dedicated service shitsangya.
+  Town-li migration opportunity khalei-eili, ancestral village-li youth training-wui duty choose sakya.
+  Story-na traditional communal values kala modern urban aspirations-wui conflict realistically depict sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Maranwon dedicated her life to teaching in her native village school, guiding children toward enlightenment.
+  Though alluring opportunities urged her to migrate to the distant city, she chose to remain anchored to her ancestral soil.
+  The narrative realistically portrays the poignant choice between modern individual careerism and indigenous community duty.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Mountain education and rural community service as ethical callings
+  * Tension between rural homeland roots and urban outward migration
+  * Female agency, dedication, and moral leadership in modern hill society
+
+STRUCTURE & POETIC METER: Realistic short story with chronological narrative arc, psychological character depth, and evocative setting details.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Authored by R. Shaiza and anthologized in Class IX Tangkhul Tuitam Kachiko (2000), this story has sparked decades of classroom discussions on rural development.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Maranwon               : Literary name signifying 'the blossom of destiny'
+  * Lairik-Kakaso          : The sacred calling of educational instruction
+  * Ramvum                 : Ancestral village homeland and communal territory
+  * Otkhare                : Selfless service and noble civic action
+
+================================================================================
+END OF RECORD: LIT-STRY-001 - Tangkhul Language Library Digital Archive
+================================================================================

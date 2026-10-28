@@ -1,0 +1,159 @@
+{
+  "id": "DIC-TLS-002",
+  "resource_type": "dictionaries",
+  "title": "Tangkhul Tui",
+  "title_translation": "Tangkhul Vocabulary and Wordbook",
+  "creator": "Tangkhul Literature Society",
+  "year": 1995,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "source_type": "wordlist",
+  "source_url": "https://bharatavani.in/tangkhul/bhashakosha",
+  "source_identifier": "TLS-TUI-1995",
+  "license": "Copyright Tangkhul Literature Society",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-TLS-002_tls_1995.txt",
+  "verification_status": "verified",
+  "notes": "Orthographic guide and vocabulary wordbook published by TLS for schools and language learners. Metadata-only access.",
+  "alternate_title": "Tangkhul Vocabulary and Wordbook",
+  "background": "Issued in 1995 by the Tangkhul Literature Society, this official wordbook establishes standard spelling guidelines, orthographic norms, and core vocabulary definitions for elementary and secondary schools across Manipur. It serves as an authoritative guide for authors, curriculum planners, and community translators.",
+  "phonology_notes": "Codifies standard hyphenation rules for compound verbs and prefixes, eliminating archaic spelling variants and promoting consistent orthography in modern publications.",
+  "entries": [
+    {
+      "headword": "ngachon",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "help",
+        "mutual assistance",
+        "cooperation"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 15",
+      "alternative_spellings": [],
+      "example": "Ngachon ngazek thotna (Helping each other collaboratively)."
+    },
+    {
+      "headword": "pamthak",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "foundation",
+        "stone bench",
+        "resting rock platform"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 34",
+      "alternative_spellings": [],
+      "example": "Pamthakli ngaphung (Sitting upon the foundation bench)."
+    },
+    {
+      "headword": "ramngayei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "homeland boundary",
+        "territorial border",
+        "village frontier"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 52",
+      "alternative_spellings": [],
+      "example": "Ramngayeili rammayun (Guarding the homeland borders)."
+    },
+    {
+      "headword": "tuitam",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "lesson",
+        "language primer",
+        "moral instruction"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 67",
+      "alternative_spellings": [],
+      "example": "Tuitam kathara (A new language primer lesson)."
+    },
+    {
+      "headword": "khangayei",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to guard",
+        "to protect",
+        "to keep watch over"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 41",
+      "alternative_spellings": [],
+      "example": "Vashang khangayei (Watching over the ripening crops)."
+    },
+    {
+      "headword": "leikashi",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "love",
+        "affection",
+        "compassionate regard"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 29",
+      "alternative_spellings": [],
+      "example": "Iram leikashi (Deep love for the ancestral village)."
+    },
+    {
+      "headword": "ngalang",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to shine",
+        "to glow with light",
+        "to radiate"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 22",
+      "alternative_spellings": [],
+      "example": "Khangalang ningkazing (Glowing peace of heart)."
+    },
+    {
+      "headword": "mashung",
+      "part_of_speech": "adj",
+      "definitions_en": [
+        "true",
+        "just",
+        "righteous",
+        "correct"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 31",
+      "alternative_spellings": [],
+      "example": "Mashungwui pao (Words of truth and righteousness)."
+    },
+    {
+      "headword": "ningngarao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "happiness",
+        "gladness",
+        "rejoicing",
+        "inner peace"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 26",
+      "alternative_spellings": [],
+      "example": "Ningngaraoli ngasot (Joining together in joyful celebration)."
+    },
+    {
+      "headword": "ngashan",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tradition",
+        "custom",
+        "societal ethical code"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 19",
+      "alternative_spellings": [
+        "ngashān"
+      ],
+      "example": "Hao ngashan kasak (The sacred customary tradition)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "CULT-PROV-005",
+  "resource_type": "culture",
+  "title": "Proverb on Patriotism: Ava ram shungli",
+  "title_translation": "No Love is Greater Than Love for the Motherland",
+  "creator": "Traditional Patriotic Maxim (Tangkhul Literature Society)",
+  "year": 2000,
+  "publisher": "Tangkhul Tuitam, TLS Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "proverb",
+  "subcategory": "patriotism",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-Tuitam-Paotam-04",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-PROV-005_ava_ram_shungli_leishat.txt",
+  "verification_status": "verified",
+  "notes": "Original saying: 'Ava ram shungli leishat mathamei.' A bedrock traditional saying expressing reverence and loyalty to ancestral lands.",
+  "indigenous_tangkhul_text": [
+    "Ava ram shungli leishat mathamei."
+  ],
+  "english_translation_text": [
+    "No affection exceeds deep devotion and love for the motherland."
+  ],
+  "procedural_stages": [
+    "Recited during national assemblies, village anniversaries, and patriotic gatherings."
+  ],
+  "ceremonial_participants": [
+    "All Tangkhul Citizens",
+    "Community Leaders"
+  ],
+  "seasonal_timing": "Patriotic and commemorative occasions"
+}

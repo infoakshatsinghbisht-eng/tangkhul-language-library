@@ -1,0 +1,234 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 3138 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 2: Tangkhul Alphabet & Phonology) Tj
+0 -20 Td
+/F1 10 Tf
+(Script: Latin \(Hunterian transliteration as adapted for Tangkhul Naga\)) Tj
+0 -14 Td
+/F1 9 Tf
+(Description: Tangkhul Naga language is written in the Roman script with specific ph) Tj
+0 -13 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 12 Tf
+(Vowels \(Vowel Length & Quality Distinctions\):) Tj
+0 -16 Td
+/F1 9 Tf
+(  * a   IPA: /a/    | Sound: as in father \(short\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  * a   IPA: /a:/   | Sound: as in father \(elongated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  * e   IPA: /e/    | Sound: as in bet, get) Tj
+0 -13 Td
+/F1 9 Tf
+(  * i   IPA: /i/    | Sound: as in machine, pin) Tj
+0 -13 Td
+/F1 9 Tf
+(  * o   IPA: /o/    | Sound: as in note, go) Tj
+0 -13 Td
+/F1 9 Tf
+(  * u   IPA: /u/    | Sound: as in rule, boot) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ?   IPA: /?/    | Sound: high back unrounded vowel \(found in Ukhrul Tangkhul\)) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(Diphthongs & Glides:) Tj
+0 -16 Td
+/F1 9 Tf
+(  * ai   Sound: as 'ie' in lie / pie) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ao   Sound: as 'ow' in how / house) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ei   Sound: as in feign, eight) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ui   Sound: as 'ee' in between or French 'ui') Tj
+0 -13 Td
+/F1 9 Tf
+(  * oe   Sound: as 'oy' in boy) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(Consonant Inventory & Special Digraphs:) Tj
+0 -16 Td
+/F1 9 Tf
+(  * p    Type: voiceless bilabial stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ph   Type: aspirated voiceless bilabial stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * t    Type: voiceless dental/alveolar stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * th   Type: aspirated voiceless dental stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * k    Type: voiceless velar stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * kh   Type: aspirated voiceless velar stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * c / ch Type: voiceless postalveolar affricate) Tj
+0 -13 Td
+/F1 9 Tf
+(  * s    Type: voiceless alveolar fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * sh   Type: voiceless postalveolar fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * h    Type: voiceless glottal fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * m    Type: bilabial nasal) Tj
+0 -13 Td
+/F1 9 Tf
+(  * n    Type: alveolar nasal) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ng \(?\) Type: velar nasal \(as in 'sing'\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  * l    Type: alveolar lateral approximant) Tj
+0 -13 Td
+/F1 9 Tf
+(  * r    Type: alveolar trill/tap) Tj
+0 -13 Td
+/F1 9 Tf
+(  * v    Type: labiodental voiced fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * w    Type: voiced labial-velar approximant) Tj
+0 -13 Td
+/F1 9 Tf
+(  * y    Type: palatal approximant) Tj
+0 -13 Td
+/F1 9 Tf
+(  * z    Type: voiced alveolar fricative) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(Tone System & Pitch Registers:) Tj
+0 -16 Td
+/F1 9 Tf
+(  - Tone: High Tone \(Rising\) \(´ or high pitch\) -- Rising high pitch. E.g. 'Mi' \(to give\) with h) Tj
+0 -13 Td
+/F1 9 Tf
+(  - Tone: Mid Tone \(Level\) \(unmarked\) -- Neutral standard level tone without rise or f) Tj
+0 -13 Td
+/F1 9 Tf
+(  - Tone: Low Tone \(Falling\) \(` or low pitch\) -- Deep falling pitch. E.g. 'Kahu?' \(neck\) vs 'K) Tj
+0 -13 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 1078 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 3: Tangkhul Grammar & Syntactic Rules) Tj
+0 -20 Td
+/F1 10 Tf
+(Typology: Subject-Object-Verb \(SOV\) agglutinative language structure.) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 12 Tf
+(1. Noun Gender System:) Tj
+0 -16 Td
+/F1 9 Tf
+(  Description: Tangkhul distinguishes natural gender for human beings and animals usi) Tj
+0 -13 Td
+/F1 9 Tf
+(  Human Gender Suffixes: Masc: -a / mayara | Fem: -va / ngalava) Tj
+0 -13 Td
+/F1 9 Tf
+(  Animal Gender Suffixes: Masc: -va \(e.g. Fa-va: male dog\) | Fem: -la / -va \(e.g. Fa-la: female dog\)) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(2. Case Marking Particles:) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(3. Verb Tense Suffixes & Aspects:) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(4. Syntax & Word Order:) Tj
+0 -16 Td
+/F1 9 Tf
+(  Word Order: SOV \(Subject-Object-Verb\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  Interrogative Particle: 'khalei / haola') Tj
+0 -13 Td
+/F1 9 Tf
+(  Negation Prefix/Suffix: 'ma- / -mana') Tj
+0 -13 Td
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000003592 00000 n 
+0000003728 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+4858
+%%EOF

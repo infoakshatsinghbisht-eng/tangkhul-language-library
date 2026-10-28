@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: THĀNGLONGPHI WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-007 | GENRE: BALLAD
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Thānglongphi wui Khararchan
+  Title Translation:     The Legend and Ballad of Lady Thānglongphi
+  Literary Genre / Type: ballad (ballad)
+  Author / Storyteller:  Traditional
+  Publication Year:      1977
+  Publisher:             Documented in Horam 1977, Tangkhul Literature Society
+  Village / Dialect:     Hungpung [Hungpung / Standard Tangkhul]
+  Source Identifier:     TLS-FLK-TLP-1977
+  Source URL:            https://imphalreviews.in/tangkhul-folklore-thanglongphi
+  Associated Book:       None
+  License & Clearance:   Traditional Oral Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Celebrated epic romance ballad of Lady Thānglongphi of Hungpung, exemplifying feminine grace, aristocratic nobility, and tragic fidelity.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Hungpung ramwui shanaonao khamatha Thānglongphi, luirim kachon shanchingda ngashan mirin kazatta.
+  Phungcham, Hunphun, kala Shirui mayarnaona thāda iwui ning-leishat kapha samphangkhavai kharui-kacham sakashung.
+
+  Amei-ngalāwui khamathei thada mayon-kazat Thānglongphi, kacham-kacham leishat-wui mangli kashak-kakhayei leilaka.
+  Khamashung leishat eina ramwui ngashan kakharak eili, chitheikhamei ning-khangao ningchot-chot sakahaowa.
+
+  Thānglongphiwui khararchan hi Tangkhul shanao-wui khamatha kala ning-kachamwui kachungkha kapikathat phaphong.
+  Kazeiram vana kaphunga ramli thāda iwui leikashi makhangashit thada meikha shurda kapamhaowa.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In the ancestral village of Hungpung lived Lady Thānglongphi, celebrated across all northern valleys for her incomparable grace.
+  Draped in the crimson and black stripes of the sacred Luirim shawl, young suitors from Phungcham and Shirui vied for her heart.
+
+  Yet like the rarest mountain blossom that flourishes beside the cliff, her radiant beauty brought both admiration and tragic rivalries.
+  Bound by customary inter-village alliances and clan pledges, she was caught between true romantic devotion and clan duties.
+
+  The epic legend of Thānglongphi endures as a celebrated testimony to womanly virtue, steadfast courage, and tragic fate.
+  Her memory remains etched in Tangkhul oral memory, sung around hearthsides when winter mists blanket the mountain terraces.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Legendary romance and female nobility (*Shanao Khamatha*)
+  * Inter-village marital pacts and customary clan negotiations
+  * Tragic romantic destiny and steadfast fidelity
+  * Traditional Tangkhul textiles (Luirim) as motifs of status and moral beauty
+
+STRUCTURE & POETIC METER: Elegiac oral ballad in rhythmic couplets with alternating choral responses and village praise tags.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Complementing the ballad of Maitonphi, the story of Thānglongphi is a classic chronicle of feminine poise and aristocratic virtue in feudal Tangkhul society, highlighting the profound emotional weight of customary kinship bonds.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Thānglongphi           : Legendary Tangkhul maiden whose beauty and romance form a major oral cycle
+  * Ning-kacham            : Purity of heart and steadfast moral devotion
+  * Luirim                 : Prestigious customary woven shawl with alternating red, white, and black stripes
+  * Meikha                 : Glowing embers of enduring memory and romantic longing
+
+================================================================================
+END OF RECORD: LIT-FLK-007 - Tangkhul Language Library Digital Archive
+================================================================================

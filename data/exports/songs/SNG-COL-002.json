@@ -1,0 +1,44 @@
+{
+  "id": "SNG-COL-002",
+  "resource_type": "songs",
+  "title": "Folk Songs of the Tangkhul",
+  "alternate_titles": [
+    "Tangkhul Folk Songs Anthology"
+  ],
+  "title_translation": "Folk Songs of the Tangkhul",
+  "singer": "Various Traditional Informants",
+  "lyricist": null,
+  "composer": null,
+  "collector": "H. Kamkhenthang",
+  "performers": [],
+  "year": 1989,
+  "village": "Various Tangkhul Villages",
+  "dialect": "Various Dialects",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": null,
+  "source_identifier": "TRI-MANIPUR-1989",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Tribal Research Institute Manipur",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Published ethnographic collection documenting traditional songs, festival verses, and working chants across Tangkhul villages.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Tangkhul rammayong wui khararchan.",
+        "Luiwui otli ngasoda la kasa.",
+        "Khangrei longshimli ringpha mazaingasot."
+      ],
+      "lines_translation": [
+        "Chronicles of the Tangkhul people across mountain villages.",
+        "Songs sung together while cultivating terraced fields.",
+        "Gathering in the traditional dormitory in shared joy."
+      ]
+    }
+  ]
+}

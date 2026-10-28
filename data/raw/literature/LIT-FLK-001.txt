@@ -1,0 +1,62 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SHIMREISHANG KALA MAITONPHI
+IDENTIFIER: LIT-FLK-001 | GENRE: BALLAD
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Shimreishang Kala Maitonphi
+  Title Translation:     The Ballad of Shimreishang and Maitonphi
+  Literary Genre / Type: ballad (ballad)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Documented in Arokianathan 1982, Horam 1977, CIIL
+  Village / Dialect:     Phungcham [Phungcham / Standard Tangkhul]
+  Source Identifier:     CIIL-FLK-1982-SKM
+  Source URL:            https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Traditional Oral Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Renowned 17th-century tragic romance ballad of Phungcham village. Preserves archaic dialect vocabulary, poetic meters, and bereavement mourning chants.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Shimreishangna kaphung yarsho-li pamda, Maitonphi-wui samkapha leikashi ning-yanganung.
+  Luirim chonkashan shanaonao khamatha, Phungcham ramwui won thada ringkaphaphong.
+  Chitharan chikaning mava-likha, kharuikahao mayarnao kacham-kacham leikashi ngacheilaka.
+  I-leishatnao Maitonphi, nawui meikhangao thada iwui ningli ngasam-kahao mashunmana.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Shimreishang sat gazing across the mountain slopes, yearning for the radiant beauty of Maitonphi.
+  Draped in the woven splendor of the Luirim shawl, she bloomed like the rarest wild flower of Phungcham.
+  Yet cruel fate and village clan divides intervened, testing the enduring devotion of the young lovers.
+  O my beloved Maitonphi, like the undying glow of embers, your memory finds no rest within my soul.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Tragic romance and star-crossed lovers (*Khararchan-Leikashi*)
+  * Customary marriage negotiations and clan taboos
+  * Poetic bereavement, mourning chants, and afterlife reunion in *Kazeiram*
+  * Metaphorical imagery of mountain flora and traditional textiles
+
+STRUCTURE & POETIC METER: Epic ballad in traditional antiphonal meter with four-line stanzas and parallel rhythmic assonance.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  The quintessential national romantic epic of the Tangkhul people, composed in the 17th century in Phungcham village and transmitted through generations of oral balladeers.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Luirim                 : Traditional prestigious red, white, and black striped woven shawl
+  * Kazeiram               : The ancestral realm of the departed spirits
+  * Won                    : Blossom / flower / poetic metaphor for beauty and grace
+  * Leikashan              : Enduring, tragic romantic longing
+
+================================================================================
+END OF RECORD: LIT-FLK-001 - Tangkhul Language Library Digital Archive
+================================================================================

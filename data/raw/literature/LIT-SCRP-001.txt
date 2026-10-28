@@ -1,0 +1,83 @@
+================================================================================
+TANGKHUL LITERARY RECORD: VARIVARA WUI TUI KATHARA: THE HOLY BIBLE IN TANGKHUL NAGA
+IDENTIFIER: LIT-SCRP-001 | GENRE: SCRIPTURE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Varivara wui Tui Kathara: The Holy Bible in Tangkhul Naga
+  Title Translation:     The Holy Scriptures in Tangkhul Naga
+  Literary Genre / Type: translation (scripture)
+  Author / Storyteller:  Traditional & Biblical Authors
+  Publication Year:      1927
+  Publisher:             British & Foreign Bible Society / Bible Society of India
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BSI-TKH-1927-BIBLE
+  Source URL:            https://tangkhullanguage.org/archive/literature/holy-bible
+  Associated Book:       BK-ARCH-004
+  License & Clearance:   Public Domain / Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Canonical translation of the Holy Scriptures in Tangkhul Naga including Genesis, Psalms, Proverbs, and the Gospels.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+
+[Hau-kaphok (Genesis / उत्पत्ति) -- Chapter 1: Kazing kala Ngalei Kasa (Creation of Heaven and Earth)]
+  (1:1) TANGKHUL: Hau-kaphokli Varivarana kazing kala ngalei kasa.
+        ENGLISH : In the beginning God created the heaven and the earth.
+        HINDI   : आदि में परमेश्वर ने आकाश और पृथ्वी की सृष्टि की।
+  (1:2) TANGKHUL: Kala ngaleiya mai-kaphā makaleida ngazishingli leisai; kala Varivarawui Mangkhapna tarawui mai-ngathangli rurungsai.
+        ENGLISH : And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+        HINDI   : और पृथ्वी बेडौल और सुनसान पड़ी थी, और गहरे जल के ऊपर अंधियारा था; और परमेश्वर की आत्मा जल के ऊपर मण्डलाती थी।
+  (1:3) TANGKHUL: Kala Varivarana hosa: 'Meira ngaphar-lu!' kala meira ngapharsai.
+        ENGLISH : And God said, Let there be light: and there was light.
+        HINDI   : तब परमेश्वर ने कहा, 'उजियाला हो', तो उजियाला हो गया।
+  (1:4) TANGKHUL: Kala Varivarana meira chi kapha theisai; kala Varivarana meira eina ngazishingli kharar-hai-sai.
+        ENGLISH : And God saw the light, that it was good: and God divided the light from the darkness.
+        HINDI   : और परमेश्वर ने उजियाले को देखा कि अच्छा है; और परमेश्वर ने उजियाले को अंधियारे से अलग किया।
+
+[Sam (Psalms / भजन संहिता) -- Psalm 23: Isha-wui Mayonpa (The Lord is my Shepherd)]
+  (23:1) TANGKHUL: Isha-wui Varivara Iwui Mayonpasai; I khikha machot-mana.
+        ENGLISH : The Lord is my shepherd; I shall not want.
+        HINDI   : यहोवा मेरा चरवाहा है; मुझे कुछ घटी न होगी।
+  (23:2) TANGKHUL: Ana ili pui-kaphā ngaleili pam-ngasakya; Ana ili tara-khamashungli mayon-zatta.
+        ENGLISH : He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+        HINDI   : वह मुझे हरी-हरी चराइयों में बैठाता है; वह मुझे सुखदाई जल के झरने के पास ले चलता है।
+  (23:3) TANGKHUL: Ana iwui ningli kathara mi; Awui mingwui vang mashunkasawui shongfali ili pashun-ngasakya.
+        ENGLISH : He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.
+        HINDI   : वह मेरे जी में जी ले आता है; और अपने नाम के निमित्त मुझे धर्म के मार्गों में ले चलता है।
+  (23:4) TANGKHUL: I kathi-wui ngazishing kongkhurli zat-la khikha ma-ngachee-mana, maramchilu Na ilei; Nawui thei-changna ili ningphā-mi.
+        ENGLISH : Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+        HINDI   : चाहे मैं मृत्यु की छाया से होकर चलूँ, तो भी हानि से न डरूँगा, क्योंकि तू मेरे साथ रहता है; तेरी सोंटी और तेरी लाठी से मुझे शांति मिलती है।
+
+[Paotam (Proverbs / नीतिवचन) -- Chapter 3: Ning-nganilu (Trust in the Lord)]
+  (3:5) TANGKHUL: Na nawui ning saikora eina Varivarali ning-nganilu; nawui phaning-shonli ma-nganip-alu.
+        ENGLISH : Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+        HINDI   : तू अपनी सम्पूर्ण समझ पर भरोसा न रखना, वरन सम्पूर्ण मन से यहोवा पर भरोसा रखना।
+  (3:6) TANGKHUL: Nawui shongfa saikorali Ali theikhuilu, kala Ana nawui shongfali mashun-ngasak-ra.
+        ENGLISH : In all thy ways acknowledge him, and he shall direct thy paths.
+        HINDI   : उसी को अपने सब मार्गों में स्मरण रखना, तब वह तेरे लिये सीधा मार्ग निकालेगा।
+
+[John Kahona Kasa (Gospel of John / यूहन्ना रचित सुसमाचार) -- Chapter 1 & 3: Tui Kathara (The Eternal Word & Grace)]
+  (1:1) TANGKHUL: Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai.
+        ENGLISH : In the beginning was the Word, and the Word was with God, and the Word was God.
+        HINDI   : आदि में वचन था, और वचन परमेश्वर के साथ था, और वचन परमेश्वर था।
+  (1:14) TANGKHUL: Kala Tuichi miwung thot sakahaida i-wui ngachaili pamsai, Ava-wui Mayar Makazawui mathi kachicham thotna.
+        ENGLISH : And the Word was made flesh, and dwelt among us, full of grace and truth.
+        HINDI   : और वचन देहधारी हुआ; और अनुग्रह और सच्चाई से परिपूर्ण होकर हमारे बीच में डेरा किया।
+  (3:16) TANGKHUL: Varivarana okathui-hi leishilak-da, Awui Naomayar Makaza akhana mili, khipakha Ali ning-nganira chichi makashiman-eili haring kapha thot phangra.
+        ENGLISH : For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+        HINDI   : क्योंकि परमेश्वर ने जगत से ऐसा प्रेम रखा कि उसने अपना एकलौता पुत्र दे दिया, ताकि जो कोई उस पर विश्वास करे, वह नाश न हो, परन्तु अनन्त जीवन पाए।
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & CULTURAL SIGNIFICANCE:
+--------------------------------------------------------------------------------
+  * High classical, theological, and philosophical expression in the Tangkhul language
+  * Trans-lingual fidelity bridging indigenous mountain vocabulary with classical world literature
+  * Preserved for academic research, cultural preservation, and linguistic education
+
+================================================================================
+END OF RECORD: LIT-SCRP-001 - Tangkhul Language Library Digital Archive
+================================================================================

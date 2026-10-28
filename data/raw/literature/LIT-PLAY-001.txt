@@ -1,0 +1,61 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SHONGZA
+IDENTIFIER: LIT-PLAY-001 | GENRE: PLAY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Shongza
+  Title Translation:     Shongza: A Tangkhul Drama
+  Literary Genre / Type: play (play)
+  Author / Storyteller:  Tangkhul Literature Society
+  Publication Year:      2007
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-014
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-014
+  License & Clearance:   Educational Curriculum (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Major full-length theatrical drama written for undergraduate literature studies, addressing customary clan dispute arbitration, youth romance, and modern social reconciliation.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Scene 1: Hangva elders council meets at the village sanctuary to arbitrate a disputed terraced border.
+  Shongzana mayarnao-bingli customary law (Ngashan) kala peaceful mediation-wui virtue interpret sakya.
+  Customary oaths (Lung-Kashun) kala ancestral covenants-na village warfare-wui tragedy avert sakya.
+  Dialogue balances classical oratorical Tangkhul with realistic village colloquial idiom.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Act I: The council of elders (*Hangva*) convenes at the village assembly ground to arbitrate a boundary conflict.
+  Shongza, the noble mediator, passionately articulates the sanctity of customary jurisprudence and peace.
+  Through sacred stone covenants (*Lung-Kashun*), clan vengeance is averted and harmony restored.
+  The dramatic dialogue balances dignified classical rhetoric with lively, authentic village speech.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Traditional customary jurisprudence (*Ngashan*) and peaceful conflict resolution
+  * The role of the orator-mediator (*Shongza*) in community welfare
+  * The sacredness of land boundaries and ancestral oaths
+
+STRUCTURE & POETIC METER: Three-act theatrical stage play featuring structured dramatic conflict, choral interludes, and oratorical monologues.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Commissioned by the Tangkhul Literature Society Dramatic Board in 2007 for collegiate study, Shongza is widely recognized as a masterwork of modern indigenous drama.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Shongza                : The noble orator, peacemaker, and customary judicial advocate
+  * Hangva                 : Village elder council and judicial tribunal
+  * Lung-Kashun            : Sacred stone covenant marking inviolable boundaries
+  * Khamasit               : Peace pact and mutual reconciliation
+
+================================================================================
+END OF RECORD: LIT-PLAY-001 - Tangkhul Language Library Digital Archive
+================================================================================

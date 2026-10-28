@@ -1,0 +1,52 @@
+{
+  "id": "HIST-PLC-010",
+  "resource_type": "history",
+  "title": "Huishu Ancient Iron-Smelting & Border Settlement",
+  "title_translation": "Myanmar Frontier Hearth of Metallurgy and Atonal Speech",
+  "creator": "Huishu Clan Elders & Linguistic Fieldwork Surveys",
+  "year": 1650,
+  "publisher": "Documented in Mortensen 2003, Marrison 1967, Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Huishu",
+  "village": "Huishu",
+  "place": "Huishu",
+  "category": "place",
+  "event_date": "Ancestral Era to Present",
+  "period": "Traditional Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Huishu-Settlement",
+  "license": "Cultural & Linguistic Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-010.txt",
+  "verification_status": "verified",
+  "notes": "Historic frontier settlement near the international border with Myanmar. Renowned as an ancient center of traditional bloomery iron smelting, brine salt springs, and the archaic atonal Huishu dialect preserving Proto-Tangkhulic consonants.",
+  "indigenous_tangkhul_chronicle": [
+    "Huishu village-hi northeastern frontier-li Myanmar border crest-li kashak ancestral settlement akha.",
+    "Ancestral hub of traditional bloomery iron smelting, natural brine salt springs (Kachai makhung), kala barter trade.",
+    "Huishu tui dialect-na unique atonal phonology kala ancient Proto-Tangkhulic consonant clusters preserve sakya."
+  ],
+  "english_translation_text": [
+    "Huishu is a historic settlement located along the high eastern ridge directly adjoining the international border with Myanmar.",
+    "It was an ancient indigenous center of bloomery iron-smelting, manufacturing tools, spears, and axes alongside natural salt brine springs.",
+    "Linguistically, the Huishu dialect is renowned among Tibeto-Burman scholars for preserving atonal Proto-Tangkhulic consonants."
+  ],
+  "chronicle_milestones": [
+    "1. Ancient Era: Settled by eastern pioneer clans utilizing rich magnetite iron sands and mountain salt springs.",
+    "2. 17th–19th Century: Premier blacksmithing center supplying steel implements across eastern Tangkhul and Somra villages.",
+    "3. 1967–2003: Linguistic surveys (Marrison, Mortensen) document Huishu's atonal sound system and archaic morphology.",
+    "4. Modern Era: Border gateway facilitating cross-border kin contacts while safeguarding ancestral customary traditions."
+  ],
+  "key_figures": [
+    "Huishu Master Iron Smiths",
+    "Frontier Village Chiefs",
+    "Border Customary Arbitrators"
+  ],
+  "geographical_scope": "Huishu Ridge, Eastern Ukhrul / Myanmar Border (Elevation 1,700 m)",
+  "historical_significance": "The primary historical center of indigenous metallurgy and a vital linguistic keystone for Proto-Tangkhulic reconstruction.",
+  "historical_terms": {
+    "Huishu": "Ancestral settlement denoting 'ridge of the smelting hearth'",
+    "Kachai Makhung": "Natural saline brine spring utilized for salt boiling",
+    "Mareisā": "Traditional iron smelting and tool blacksmithing",
+    "Huishu Tui": "The archaic atonal dialect of the Huishu people"
+  }
+}

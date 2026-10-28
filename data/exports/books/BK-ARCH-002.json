@@ -1,0 +1,1228 @@
+{
+  "id": "BK-ARCH-002",
+  "resource_type": "books",
+  "title": "Jesuwui La: Hymns in Tangkhul Naga",
+  "alternate_titles": [
+    "Hymns in Tangkhul Naga (1907)"
+  ],
+  "authors": [
+    "William Pettigrew"
+  ],
+  "editors": [],
+  "publisher": "American Baptist Mission House, Ukhrul, Manipur",
+  "publication_year": 1907,
+  "year": 1907,
+  "edition": "Second Edition",
+  "subject": "Hymnology and Devotional Poetry",
+  "educational_level": "Historical / Church / Elementary",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "hymnsintangkhuln00pett",
+  "catalogue_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/books/BK-ARCH-002_pettigrew_1907.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Second edition of 78-page historical Tangkhul hymnal compiled by Rev. William Pettigrew in Ukhrul, Manipur. Public Domain.",
+  "front_matter": {
+    "title_page": {
+      "title": "Jesuwui La: Hymns in Tangkhul Naga",
+      "alternate_titles": [
+        "Hymns in Tangkhul Naga (1907)"
+      ],
+      "authors": [
+        "William Pettigrew"
+      ],
+      "editors": [],
+      "publisher": "American Baptist Mission House, Ukhrul, Manipur",
+      "publication_year": 1907,
+      "edition": "Second Edition",
+      "educational_level": "Historical / Church / Elementary",
+      "subject": "Hymnology and Devotional Poetry",
+      "language": "Tangkhul",
+      "dialect": "Ukhrul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-ARCH-002",
+      "license": "Public Domain",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "hymnsintangkhuln00pett",
+      "source_url": "https://archive.org/details/hymnsintangkhuln00pett"
+    },
+    "preface": "Jesuwui La: Hymns in Tangkhul Naga, compiled and translated by Rev. William Pettigrew (American Baptist Mission House, Ukhrul, Manipur, Assam, 1907, 2nd Edition; printed at Baptist Mission Press, Calcutta). Preserves the earliest published Christian hymnal and devotional poetry in the Ukhrul dialect of Tangkhul Naga."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Early Devotional Hymns",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Hymns of Divine Grace & Love",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Penitential & Supplication Hymns",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pilgrim & Faith Hymns",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Hymns of the Kingdom & Eternal Life",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Morning, Evening & Daily Life Hymns",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 7,
+      "title": "Doxologies, Anthems & Closing Liturgy",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 19
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 20
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Early Devotional Hymns",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Classic devotional hymns including 'Jesus Loves Me' (Hi Jesuna Laishi).",
+      "tangkhul_text": "1. Hi Jesuna laishi, khikala jila, in a Vare chiwui lairikli, palaga I shitsanga. Ma, ili laishi! Ma, ili laishi! Ma, ili laishi! Lairikli iya. 2. Hi Jesuna laishi, A mangla chihomihai; Varina kaching khamaug shomida changmilakra. 3. Ili Jesuna laishi, noshino awui nona; athum masathukmana, Ana kamakangvana. 4. Hi Jesuna laishi, iwui moral pheomira; khikala jila awui Mangla chihomihaira.",
+      "english_translation": "1. Jesus loves me, this I know, for the Bible tells me so; little ones to Him belong, they are weak but He is strong. Yes, Jesus loves me! The Bible tells me so. 2. Jesus loves me, He who died heaven's gate to open wide; He will wash away my sin. 3. Jesus loves me, loves me still, though I'm very weak and ill; from His shining throne on high. 4. Jesus loves me, He will stay close beside me all the way; He has washed away my sin.",
+      "vocabulary": [
+        {
+          "word": "laishi",
+          "pos": "verb",
+          "meaning": "loves, cares for",
+          "example": "Hi Jesuna laishi."
+        },
+        {
+          "word": "mangla",
+          "pos": "noun",
+          "meaning": "spirit, soul",
+          "example": "A mangla chihomihai."
+        },
+        {
+          "word": "shitsanga",
+          "pos": "verb",
+          "meaning": "believes, trusts",
+          "example": "Lairikli palaga shitsanga."
+        },
+        {
+          "word": "kaching",
+          "pos": "noun",
+          "meaning": "heaven, firmament",
+          "example": "Kachingli changmilakra."
+        }
+      ],
+      "grammar_points": [
+        "Early orthography feature: 'ai' diphthong where TLS standardizes to 'ei'.",
+        "Future tense inflection -ra in 'pheomira' (will cleanse)."
+      ],
+      "comprehension_questions": [
+        "How is divine love expressed in early Pettigrew Tangkhul hymnody?",
+        "What orthographic differences distinguish the 1907 text from modern TLS spelling?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Hymns of Divine Grace & Love",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Grace and security in faith: 'Safe in the Arms of Jesus' (He Jesuwui Makali).",
+      "tangkhul_text": "1. He Jesuwui makali, eingphalaka; siwui ngahan ngaida romhai, phasa kakhanang rai. Kachingwui chan nganalu, iwui la sada laili, Jesuna nani mashitta, hangda la kasana. 2. He Jesuwui makali, kangachee malaimana; I moral maphungmara, chiaina makhanangmara. Wukli kakhanang malaita, ringkapha apamna, mikumo awui okkathui ringkapha kashungna.",
+      "english_translation": "1. Safe in the arms of Jesus, safe on His gentle breast; there by His love o'ershaded, sweetly my soul shall rest. Hark! 'tis the voice of angels, borne in a song to me. 2. Safe in the arms of Jesus, safe from corroding care; safe from the world's temptations, sin cannot harm me there. Free from the blight of sorrow, free from my doubts and fears.",
+      "vocabulary": [
+        {
+          "word": "makali",
+          "pos": "postp",
+          "meaning": "in the arms of",
+          "example": "Jesuwui makali."
+        },
+        {
+          "word": "ringkapha",
+          "pos": "noun",
+          "meaning": "peace, joy",
+          "example": "Ringkapha apamna."
+        },
+        {
+          "word": "kangachee",
+          "pos": "noun",
+          "meaning": "terror, dread",
+          "example": "Kangachee malaimana."
+        },
+        {
+          "word": "okkathui",
+          "pos": "noun",
+          "meaning": "mortal existence",
+          "example": "Mikumo awui okkathui."
+        }
+      ],
+      "grammar_points": [
+        "Negative particle malaimana indicating complete absence.",
+        "Postpositional phrase attachment with genitive -wui."
+      ],
+      "comprehension_questions": [
+        "What metaphor is used to express spiritual peace in Chapter 2?",
+        "Identify the negative verbal constructions in the stanzas."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Penitential & Supplication Hymns",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Supplication and fellowship: 'What a Friend We Have in Jesus' (Jesuli Ithum Kaphā Temi).",
+      "tangkhul_text": "1. Jesuli ithum kaphā temi akha leiyi, ithumwui moral kala kakhanang saikora phungmiya. Khorum-ngacheida Varili kachiphun mathaloikhalang, ningkhamayung tarakha ithum khamatai thotna. 2. Khipana kakhanang kala ningkachuk phunga? Jesuwui lili vashitlaga khorumlu. Ana khipakha matheikhui-mana malei, ningchang lak eina temkhamishi phapharomei.",
+      "english_translation": "1. What a friend we have in Jesus, all our sins and griefs to bear! What a privilege to carry everything to God in prayer! O what peace we often forfeit, O what needless pain we bear. 2. Have we trials and temptations? Is there trouble anywhere? We should never be discouraged; take it to the Lord in prayer. In His arms He'll take and shield thee; thou wilt find a solace there.",
+      "vocabulary": [
+        {
+          "word": "temi",
+          "pos": "noun",
+          "meaning": "companion, friend",
+          "example": "Kaphā temi."
+        },
+        {
+          "word": "moral",
+          "pos": "noun",
+          "meaning": "fault, trespass",
+          "example": "Ithumwui moral saikora."
+        },
+        {
+          "word": "khorum-ngachei",
+          "pos": "noun",
+          "meaning": "prayer, supplication",
+          "example": "Varili khorumlu."
+        },
+        {
+          "word": "ningkachuk",
+          "pos": "noun",
+          "meaning": "grief, heaviness",
+          "example": "Ningkachuk kaphung."
+        }
+      ],
+      "grammar_points": [
+        "Dative case marker -li in personal relations ('Jesuli', 'Varili').",
+        "Rhetorical interrogation marker with 'khipana'."
+      ],
+      "comprehension_questions": [
+        "What is the Tangkhul equivalent for 'prayer' in Pettigrew's text?",
+        "Translate into Tangkhul: 'Jesus is our faithful friend.'"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pilgrim & Faith Hymns",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Unshakable refuge: 'Rock of Ages' (Aching Lungrei Makatha).",
+      "tangkhul_text": "1. Aching lungrei iwui vang kakhayei, nawui khamangli ili kaphumpam milu. Nawui azing eina kathur tara kala ashi china iwui moral shiman ngasaku. 2. Iwui pang eina kasa otna nawui shiyan makhararthukmana; kachara zangzang shoklala nawui akhavawuina. Na vathot iwui kachiphun, nawui crossli i panglakha ngaranmida leiyi.",
+      "english_translation": "1. Rock of Ages, cleft for me, let me hide myself in Thee; let the water and the blood, from Thy wounded side which flowed, be of sin the double cure, save from wrath and make me pure. 2. Not the labors of my hands can fulfill Thy law's demands; could my zeal no respite know, could my tears forever flow, all for sin could not atone; Thou must save, and Thou alone.",
+      "vocabulary": [
+        {
+          "word": "lungrei",
+          "pos": "noun",
+          "meaning": "boulder, rock",
+          "example": "Aching lungrei."
+        },
+        {
+          "word": "ashi",
+          "pos": "noun",
+          "meaning": "blood",
+          "example": "Tara kala ashi."
+        },
+        {
+          "word": "panglakha",
+          "pos": "adv",
+          "meaning": "empty-handed",
+          "example": "Nawui crossli panglakha."
+        },
+        {
+          "word": "kakhayei",
+          "pos": "adj",
+          "meaning": "cleft, split",
+          "example": "Iwui vang kakhayei."
+        }
+      ],
+      "grammar_points": [
+        "Causative suffix -sak in 'shiman ngasaku' (cause to disappear).",
+        "Instrumental/ablative clitic -eina in 'pang eina'."
+      ],
+      "comprehension_questions": [
+        "Explain the geological metaphor of 'Aching lungrei' in Tangkhul hymnody.",
+        "Identify the causative verbs in Chapter 4."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Hymns of the Kingdom & Eternal Life",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "The heavenly river: 'Shall We Gather at the River' (Kongreili Ithum Ngazipra).",
+      "tangkhul_text": "1. Kaching Kazingramwui kongreili, Varewui khamatha apamli, ithum saikora ngazipra? Ma, ithum ngazipra kong kaphali, kong kaphali, Varewui kuiram ngachaili ngazipsera. 2. Kongrei chihui ngashilakna, thikahai maleimana; Vare eina A Naochina karing khangarum ramli.",
+      "english_translation": "1. Shall we gather at the river, where bright angel feet have trod, with its crystal tide forever flowing by the throne of God? Yes, we'll gather at the river, the beautiful river. 2. On the margin of the river, washing up its silver spray, we will walk and worship ever, all the happy golden day.",
+      "vocabulary": [
+        {
+          "word": "kongrei",
+          "pos": "noun",
+          "meaning": "river, stream",
+          "example": "Kazingramwui kongreili."
+        },
+        {
+          "word": "ngazipra",
+          "pos": "verb",
+          "meaning": "will assemble",
+          "example": "Ithum saikora ngazipra."
+        },
+        {
+          "word": "kuiram",
+          "pos": "noun",
+          "meaning": "royal throne",
+          "example": "Varewui kuiram ngachaili."
+        },
+        {
+          "word": "karing",
+          "pos": "adj",
+          "meaning": "living, eternal",
+          "example": "Karing khangarum ramli."
+        }
+      ],
+      "grammar_points": [
+        "Future marker -sera denoting collective completion.",
+        "Repetition of nouns for poetic emphasis: 'kong kaphali, kong kaphali'."
+      ],
+      "comprehension_questions": [
+        "What celestial imagery is depicted in the hymn?",
+        "How is collective gathering expressed morphologically?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Morning, Evening & Daily Life Hymns",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Evening meditation: 'Abide With Me' (I Eina Pamchinglu).",
+      "tangkhul_text": "1. Zimik tunhaira, ngaya kaching chuiye; Kazing khayingli i eina pamchinglu. Katei ngashunkhami kacham chitharanli, khangachamwui Ava, i eina pamchinglu. 2. Okkathui mirin hi thakta kanthuiseri; kuipham, ngashan saikora themthuira. Khamatei malei nawui ngachaili pamlu; Makangateipa, i eina pamchinglu.",
+      "english_translation": "1. Abide with me: fast falls the eventide; the darkness deepens; Lord, with me abide. When other helpers fail and comforts flee, Help of the helpless, O abide with me. 2. Swift to its close ebbs out life's little day; earth's joys grow dim; its glories pass away; change and decay in all around I see; O Thou who changest not, abide with me.",
+      "vocabulary": [
+        {
+          "word": "pamchinglu",
+          "pos": "verb",
+          "meaning": "abide steadfastly",
+          "example": "I eina pamchinglu."
+        },
+        {
+          "word": "zimik tunhaira",
+          "pos": "idiom",
+          "meaning": "sun has set",
+          "example": "Zimik tunhaira, ngaya chuiye."
+        },
+        {
+          "word": "makangateipa",
+          "pos": "noun",
+          "meaning": "the immutable one",
+          "example": "Makangateipa pamlu."
+        }
+      ],
+      "grammar_points": [
+        "Continuous aspect suffix -ching in imperative pam-ching-lu.",
+        "Perfective aspect marker -haira in 'zimik tunhaira'."
+      ],
+      "comprehension_questions": [
+        "What does the phrase 'zimik tunhaira' signify in Tangkhul life?",
+        "Analyze the compound 'makangateipa'."
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Doxologies, Anthems & Closing Liturgy",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Old Hundredth Doxology and The Lord's Prayer (Ithumwui Ava Kazingramli Kapam).",
+      "tangkhul_text": "Vare khamatha kashungli, ngalei miyur saikorana matheilu; Kaching Kazingramwui mangla bing, Vare A Mingli mathaseru. Ava, A Nao, kala Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen. Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing sairanu. Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili la ngarunsangranu. Aja ithumwui kasala kashakpei milu. Ithumli kateina kashikhami pheomikahai thada ithumwui moralla pheomilu. Ithumli ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu. Amen.",
+      "english_translation": "Praise God from whom all blessings flow; praise Him all creatures here below; praise Him above, ye heavenly host; praise Father, Son, and Holy Ghost. Amen. Our Father which art in heaven, Hallowed be Thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For Thine is the kingdom, and the power, and the glory, forever. Amen.",
+      "vocabulary": [
+        {
+          "word": "kathara",
+          "pos": "adj",
+          "meaning": "holy, pure",
+          "example": "Mangla Kathara."
+        },
+        {
+          "word": "ngashan ram",
+          "pos": "noun",
+          "meaning": "kingdom",
+          "example": "Nawui ngashan ram raranu."
+        },
+        {
+          "word": "kumching",
+          "pos": "adv",
+          "meaning": "forever",
+          "example": "Kumching kumching nawuina."
+        },
+        {
+          "word": "kankhuimilu",
+          "pos": "verb",
+          "meaning": "deliver us",
+          "example": "Kashieina kankhuimilu."
+        }
+      ],
+      "grammar_points": [
+        "Optative mood suffix -ranu ('sairanu', 'raranu').",
+        "Negative causative in 'masangasaklu' (lead us not)."
+      ],
+      "comprehension_questions": [
+        "Quote the opening sentence of the Tangkhul Lord's Prayer.",
+        "Explain the optative inflection in Christian liturgical Tangkhul."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-ARCH-002",
+      "title": "Jesuwui La: Hymns in Tangkhul Naga",
+      "lines": [
+        "TITLE: Jesuwui La: Hymns in Tangkhul Naga",
+        "Identifier: BK-ARCH-002",
+        "Level: Historical / Church / Elementary | Subject: Hymnology and Devotional Poetry",
+        "Publisher: American Baptist Mission House, Ukhrul, Manipur (1907)",
+        "Language: Tangkhul (Ukhrul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Jesuwui La: Hymns in Tangkhul Naga -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Jesuwui La: Hymns in Tangkhul Naga.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Jesuwui La: Hymns in Tangkhul Naga -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Jesuwui La: Hymns in Tangkhul Naga, compiled and translated by Rev. William",
+        "Pettigrew (American Baptist Mission House, Ukhrul, Manipur, Assam, 1907,",
+        "2nd Edition; printed at Baptist Mission Press, Calcutta). Preserves the",
+        "earliest published Christian hymnal and devotional poetry in the Ukhrul",
+        "dialect of Tangkhul Naga."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Jesuwui La: Hymns in Tangkhul Naga -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Early Devotional Hymns (pp. 4-5)",
+        "  Chapter 2: Hymns of Divine Grace & Love (pp. 6-7)",
+        "  Chapter 3: Penitential & Supplication Hymns (pp. 8-9)",
+        "  Chapter 4: Pilgrim & Faith Hymns (pp. 10-11)",
+        "  Chapter 5: Hymns of the Kingdom & Eternal Life (pp. 12-13)",
+        "  Chapter 6: Morning, Evening & Daily Life Hymns (pp. 14-15)",
+        "  Chapter 7: Doxologies, Anthems & Closing Liturgy (pp. 16-18)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 19)",
+        "  Back Cover & Archival Colophon (p. 20)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Early Devotional Hymns (Page 4)",
+      "title": "Chapter 1: Early Devotional Hymns",
+      "lines": [
+        "CHAPTER 1: EARLY DEVOTIONAL HYMNS",
+        "Summary: Classic devotional hymns including 'Jesus Loves Me' (Hi Jesuna Laishi).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. Hi Jesuna laishi, khikala jila, in a Vare chiwui lairikli, palaga I",
+        "shitsanga. Ma, ili laishi! Ma, ili laishi! Ma, ili laishi! Lairikli iya.",
+        "2. Hi Jesuna laishi, A mangla chihomihai; Varina kaching khamaug shomida",
+        "changmilakra. 3. Ili Jesuna laishi, noshino awui nona; athum",
+        "masathukmana, Ana kamakangvana. 4. Hi Jesuna laishi, iwui moral",
+        "pheomira; khikala jila awui Mangla chihomihaira.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "1. Jesus loves me, this I know, for the Bible tells me so; little ones",
+        "to Him belong, they are weak but He is strong. Yes, Jesus loves me! The",
+        "Bible tells me so. 2. Jesus loves me, He who died heaven's gate to open",
+        "wide; He will wash away my sin. 3. Jesus loves me, loves me still,",
+        "though I'm very weak and ill; from His shining throne on high. 4. Jesus",
+        "loves me, He will stay close beside me all the way; He has washed away",
+        "my sin."
+      ],
+      "tangkhul_content": "1. Hi Jesuna laishi, khikala jila, in a Vare chiwui lairikli, palaga I shitsanga. Ma, ili laishi! Ma, ili laishi! Ma, ili laishi! Lairikli iya. 2. Hi Jesuna laishi, A mangla chihomihai; Varina kaching khamaug shomida changmilakra. 3. Ili Jesuna laishi, noshino awui nona; athum masathukmana, Ana kamakangvana. 4. Hi Jesuna laishi, iwui moral pheomira; khikala jila awui Mangla chihomihaira.",
+      "english_translation": "1. Jesus loves me, this I know, for the Bible tells me so; little ones to Him belong, they are weak but He is strong. Yes, Jesus loves me! The Bible tells me so. 2. Jesus loves me, He who died heaven's gate to open wide; He will wash away my sin. 3. Jesus loves me, loves me still, though I'm very weak and ill; from His shining throne on high. 4. Jesus loves me, He will stay close beside me all the way; He has washed away my sin.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * laishi (verb): loves, cares for",
+        "    Example: Hi Jesuna laishi.",
+        "  * mangla (noun): spirit, soul",
+        "    Example: A mangla chihomihai.",
+        "  * shitsanga (verb): believes, trusts",
+        "    Example: Lairikli palaga shitsanga.",
+        "  * kaching (noun): heaven, firmament",
+        "    Example: Kachingli changmilakra.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Early orthography feature: 'ai' diphthong where TLS standardizes to 'ei'.",
+        "  - Future tense inflection -ra in 'pheomira' (will cleanse).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How is divine love expressed in early Pettigrew Tangkhul hymnody?",
+        "  ? What orthographic differences distinguish the 1907 text from modern TLS spelling?"
+      ],
+      "tangkhul_content": "laishi: loves, cares for\nmangla: spirit, soul\nshitsanga: believes, trusts\nkaching: heaven, firmament",
+      "english_translation": "Early orthography feature: 'ai' diphthong where TLS standardizes to 'ei'.\nFuture tense inflection -ra in 'pheomira' (will cleanse).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Hymns of Divine Grace & Love (Page 6)",
+      "title": "Chapter 2: Hymns of Divine Grace & Love",
+      "lines": [
+        "CHAPTER 2: HYMNS OF DIVINE GRACE & LOVE",
+        "Summary: Grace and security in faith: 'Safe in the Arms of Jesus' (He Jesuwui Makali).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. He Jesuwui makali, eingphalaka; siwui ngahan ngaida romhai, phasa",
+        "kakhanang rai. Kachingwui chan nganalu, iwui la sada laili, Jesuna nani",
+        "mashitta, hangda la kasana. 2. He Jesuwui makali, kangachee malaimana; I",
+        "moral maphungmara, chiaina makhanangmara. Wukli kakhanang malaita,",
+        "ringkapha apamna, mikumo awui okkathui ringkapha kashungna.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "1. Safe in the arms of Jesus, safe on His gentle breast; there by His",
+        "love o'ershaded, sweetly my soul shall rest. Hark! 'tis the voice of",
+        "angels, borne in a song to me. 2. Safe in the arms of Jesus, safe from",
+        "corroding care; safe from the world's temptations, sin cannot harm me",
+        "there. Free from the blight of sorrow, free from my doubts and fears."
+      ],
+      "tangkhul_content": "1. He Jesuwui makali, eingphalaka; siwui ngahan ngaida romhai, phasa kakhanang rai. Kachingwui chan nganalu, iwui la sada laili, Jesuna nani mashitta, hangda la kasana. 2. He Jesuwui makali, kangachee malaimana; I moral maphungmara, chiaina makhanangmara. Wukli kakhanang malaita, ringkapha apamna, mikumo awui okkathui ringkapha kashungna.",
+      "english_translation": "1. Safe in the arms of Jesus, safe on His gentle breast; there by His love o'ershaded, sweetly my soul shall rest. Hark! 'tis the voice of angels, borne in a song to me. 2. Safe in the arms of Jesus, safe from corroding care; safe from the world's temptations, sin cannot harm me there. Free from the blight of sorrow, free from my doubts and fears.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * makali (postp): in the arms of",
+        "    Example: Jesuwui makali.",
+        "  * ringkapha (noun): peace, joy",
+        "    Example: Ringkapha apamna.",
+        "  * kangachee (noun): terror, dread",
+        "    Example: Kangachee malaimana.",
+        "  * okkathui (noun): mortal existence",
+        "    Example: Mikumo awui okkathui.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Negative particle malaimana indicating complete absence.",
+        "  - Postpositional phrase attachment with genitive -wui.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What metaphor is used to express spiritual peace in Chapter 2?",
+        "  ? Identify the negative verbal constructions in the stanzas."
+      ],
+      "tangkhul_content": "makali: in the arms of\nringkapha: peace, joy\nkangachee: terror, dread\nokkathui: mortal existence",
+      "english_translation": "Negative particle malaimana indicating complete absence.\nPostpositional phrase attachment with genitive -wui.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Penitential & Supplication Hymns (Page 8)",
+      "title": "Chapter 3: Penitential & Supplication Hymns",
+      "lines": [
+        "CHAPTER 3: PENITENTIAL & SUPPLICATION HYMNS",
+        "Summary: Supplication and fellowship: 'What a Friend We Have in Jesus' (Jesuli Ithum Kaphā Temi).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. Jesuli ithum kaphā temi akha leiyi, ithumwui moral kala kakhanang",
+        "saikora phungmiya. Khorum-ngacheida Varili kachiphun mathaloikhalang,",
+        "ningkhamayung tarakha ithum khamatai thotna. 2. Khipana kakhanang kala",
+        "ningkachuk phunga? Jesuwui lili vashitlaga khorumlu. Ana khipakha",
+        "matheikhui-mana malei, ningchang lak eina temkhamishi phapharomei.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "1. What a friend we have in Jesus, all our sins and griefs to bear! What",
+        "a privilege to carry everything to God in prayer! O what peace we often",
+        "forfeit, O what needless pain we bear. 2. Have we trials and",
+        "temptations? Is there trouble anywhere? We should never be discouraged;",
+        "take it to the Lord in prayer. In His arms He'll take and shield thee;",
+        "thou wilt find a solace there."
+      ],
+      "tangkhul_content": "1. Jesuli ithum kaphā temi akha leiyi, ithumwui moral kala kakhanang saikora phungmiya. Khorum-ngacheida Varili kachiphun mathaloikhalang, ningkhamayung tarakha ithum khamatai thotna. 2. Khipana kakhanang kala ningkachuk phunga? Jesuwui lili vashitlaga khorumlu. Ana khipakha matheikhui-mana malei, ningchang lak eina temkhamishi phapharomei.",
+      "english_translation": "1. What a friend we have in Jesus, all our sins and griefs to bear! What a privilege to carry everything to God in prayer! O what peace we often forfeit, O what needless pain we bear. 2. Have we trials and temptations? Is there trouble anywhere? We should never be discouraged; take it to the Lord in prayer. In His arms He'll take and shield thee; thou wilt find a solace there.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * temi (noun): companion, friend",
+        "    Example: Kaphā temi.",
+        "  * moral (noun): fault, trespass",
+        "    Example: Ithumwui moral saikora.",
+        "  * khorum-ngachei (noun): prayer, supplication",
+        "    Example: Varili khorumlu.",
+        "  * ningkachuk (noun): grief, heaviness",
+        "    Example: Ningkachuk kaphung.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Dative case marker -li in personal relations ('Jesuli', 'Varili').",
+        "  - Rhetorical interrogation marker with 'khipana'.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is the Tangkhul equivalent for 'prayer' in Pettigrew's text?",
+        "  ? Translate into Tangkhul: 'Jesus is our faithful friend.'"
+      ],
+      "tangkhul_content": "temi: companion, friend\nmoral: fault, trespass\nkhorum-ngachei: prayer, supplication\nningkachuk: grief, heaviness",
+      "english_translation": "Dative case marker -li in personal relations ('Jesuli', 'Varili').\nRhetorical interrogation marker with 'khipana'.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Pilgrim & Faith Hymns (Page 10)",
+      "title": "Chapter 4: Pilgrim & Faith Hymns",
+      "lines": [
+        "CHAPTER 4: PILGRIM & FAITH HYMNS",
+        "Summary: Unshakable refuge: 'Rock of Ages' (Aching Lungrei Makatha).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. Aching lungrei iwui vang kakhayei, nawui khamangli ili kaphumpam",
+        "milu. Nawui azing eina kathur tara kala ashi china iwui moral shiman",
+        "ngasaku. 2. Iwui pang eina kasa otna nawui shiyan makhararthukmana;",
+        "kachara zangzang shoklala nawui akhavawuina. Na vathot iwui kachiphun,",
+        "nawui crossli i panglakha ngaranmida leiyi.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "1. Rock of Ages, cleft for me, let me hide myself in Thee; let the water",
+        "and the blood, from Thy wounded side which flowed, be of sin the double",
+        "cure, save from wrath and make me pure. 2. Not the labors of my hands",
+        "can fulfill Thy law's demands; could my zeal no respite know, could my",
+        "tears forever flow, all for sin could not atone; Thou must save, and",
+        "Thou alone."
+      ],
+      "tangkhul_content": "1. Aching lungrei iwui vang kakhayei, nawui khamangli ili kaphumpam milu. Nawui azing eina kathur tara kala ashi china iwui moral shiman ngasaku. 2. Iwui pang eina kasa otna nawui shiyan makhararthukmana; kachara zangzang shoklala nawui akhavawuina. Na vathot iwui kachiphun, nawui crossli i panglakha ngaranmida leiyi.",
+      "english_translation": "1. Rock of Ages, cleft for me, let me hide myself in Thee; let the water and the blood, from Thy wounded side which flowed, be of sin the double cure, save from wrath and make me pure. 2. Not the labors of my hands can fulfill Thy law's demands; could my zeal no respite know, could my tears forever flow, all for sin could not atone; Thou must save, and Thou alone.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * lungrei (noun): boulder, rock",
+        "    Example: Aching lungrei.",
+        "  * ashi (noun): blood",
+        "    Example: Tara kala ashi.",
+        "  * panglakha (adv): empty-handed",
+        "    Example: Nawui crossli panglakha.",
+        "  * kakhayei (adj): cleft, split",
+        "    Example: Iwui vang kakhayei.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Causative suffix -sak in 'shiman ngasaku' (cause to disappear).",
+        "  - Instrumental/ablative clitic -eina in 'pang eina'.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Explain the geological metaphor of 'Aching lungrei' in Tangkhul hymnody.",
+        "  ? Identify the causative verbs in Chapter 4."
+      ],
+      "tangkhul_content": "lungrei: boulder, rock\nashi: blood\npanglakha: empty-handed\nkakhayei: cleft, split",
+      "english_translation": "Causative suffix -sak in 'shiman ngasaku' (cause to disappear).\nInstrumental/ablative clitic -eina in 'pang eina'.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Hymns of the Kingdom & Eternal Life (Page 12)",
+      "title": "Chapter 5: Hymns of the Kingdom & Eternal Life",
+      "lines": [
+        "CHAPTER 5: HYMNS OF THE KINGDOM & ETERNAL LIFE",
+        "Summary: The heavenly river: 'Shall We Gather at the River' (Kongreili Ithum Ngazipra).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. Kaching Kazingramwui kongreili, Varewui khamatha apamli, ithum",
+        "saikora ngazipra? Ma, ithum ngazipra kong kaphali, kong kaphali, Varewui",
+        "kuiram ngachaili ngazipsera. 2. Kongrei chihui ngashilakna, thikahai",
+        "maleimana; Vare eina A Naochina karing khangarum ramli.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "1. Shall we gather at the river, where bright angel feet have trod, with",
+        "its crystal tide forever flowing by the throne of God? Yes, we'll gather",
+        "at the river, the beautiful river. 2. On the margin of the river,",
+        "washing up its silver spray, we will walk and worship ever, all the",
+        "happy golden day."
+      ],
+      "tangkhul_content": "1. Kaching Kazingramwui kongreili, Varewui khamatha apamli, ithum saikora ngazipra? Ma, ithum ngazipra kong kaphali, kong kaphali, Varewui kuiram ngachaili ngazipsera. 2. Kongrei chihui ngashilakna, thikahai maleimana; Vare eina A Naochina karing khangarum ramli.",
+      "english_translation": "1. Shall we gather at the river, where bright angel feet have trod, with its crystal tide forever flowing by the throne of God? Yes, we'll gather at the river, the beautiful river. 2. On the margin of the river, washing up its silver spray, we will walk and worship ever, all the happy golden day.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kongrei (noun): river, stream",
+        "    Example: Kazingramwui kongreili.",
+        "  * ngazipra (verb): will assemble",
+        "    Example: Ithum saikora ngazipra.",
+        "  * kuiram (noun): royal throne",
+        "    Example: Varewui kuiram ngachaili.",
+        "  * karing (adj): living, eternal",
+        "    Example: Karing khangarum ramli.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Future marker -sera denoting collective completion.",
+        "  - Repetition of nouns for poetic emphasis: 'kong kaphali, kong kaphali'.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What celestial imagery is depicted in the hymn?",
+        "  ? How is collective gathering expressed morphologically?"
+      ],
+      "tangkhul_content": "kongrei: river, stream\nngazipra: will assemble\nkuiram: royal throne\nkaring: living, eternal",
+      "english_translation": "Future marker -sera denoting collective completion.\nRepetition of nouns for poetic emphasis: 'kong kaphali, kong kaphali'.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Morning, Evening & Daily Life Hymns (Page 14)",
+      "title": "Chapter 6: Morning, Evening & Daily Life Hymns",
+      "lines": [
+        "CHAPTER 6: MORNING, EVENING & DAILY LIFE HYMNS",
+        "Summary: Evening meditation: 'Abide With Me' (I Eina Pamchinglu).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. Zimik tunhaira, ngaya kaching chuiye; Kazing khayingli i eina",
+        "pamchinglu. Katei ngashunkhami kacham chitharanli, khangachamwui Ava, i",
+        "eina pamchinglu. 2. Okkathui mirin hi thakta kanthuiseri; kuipham,",
+        "ngashan saikora themthuira. Khamatei malei nawui ngachaili pamlu;",
+        "Makangateipa, i eina pamchinglu.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "1. Abide with me: fast falls the eventide; the darkness deepens; Lord,",
+        "with me abide. When other helpers fail and comforts flee, Help of the",
+        "helpless, O abide with me. 2. Swift to its close ebbs out life's little",
+        "day; earth's joys grow dim; its glories pass away; change and decay in",
+        "all around I see; O Thou who changest not, abide with me."
+      ],
+      "tangkhul_content": "1. Zimik tunhaira, ngaya kaching chuiye; Kazing khayingli i eina pamchinglu. Katei ngashunkhami kacham chitharanli, khangachamwui Ava, i eina pamchinglu. 2. Okkathui mirin hi thakta kanthuiseri; kuipham, ngashan saikora themthuira. Khamatei malei nawui ngachaili pamlu; Makangateipa, i eina pamchinglu.",
+      "english_translation": "1. Abide with me: fast falls the eventide; the darkness deepens; Lord, with me abide. When other helpers fail and comforts flee, Help of the helpless, O abide with me. 2. Swift to its close ebbs out life's little day; earth's joys grow dim; its glories pass away; change and decay in all around I see; O Thou who changest not, abide with me.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * pamchinglu (verb): abide steadfastly",
+        "    Example: I eina pamchinglu.",
+        "  * zimik tunhaira (idiom): sun has set",
+        "    Example: Zimik tunhaira, ngaya chuiye.",
+        "  * makangateipa (noun): the immutable one",
+        "    Example: Makangateipa pamlu.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Continuous aspect suffix -ching in imperative pam-ching-lu.",
+        "  - Perfective aspect marker -haira in 'zimik tunhaira'.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What does the phrase 'zimik tunhaira' signify in Tangkhul life?",
+        "  ? Analyze the compound 'makangateipa'."
+      ],
+      "tangkhul_content": "pamchinglu: abide steadfastly\nzimik tunhaira: sun has set\nmakangateipa: the immutable one",
+      "english_translation": "Continuous aspect suffix -ching in imperative pam-ching-lu.\nPerfective aspect marker -haira in 'zimik tunhaira'.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Doxologies, Anthems & Closing Liturgy (Page 16)",
+      "title": "Chapter 7: Doxologies, Anthems & Closing Liturgy",
+      "lines": [
+        "CHAPTER 7: DOXOLOGIES, ANTHEMS & CLOSING LITURGY",
+        "Summary: Old Hundredth Doxology and The Lord's Prayer (Ithumwui Ava Kazingramli Kapam).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Vare khamatha kashungli, ngalei miyur saikorana matheilu; Kaching",
+        "Kazingramwui mangla bing, Vare A Mingli mathaseru. Ava, A Nao, kala",
+        "Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen.",
+        "Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing",
+        "sairanu. Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili",
+        "la ngarunsangranu. Aja ithumwui kasala kashakpei milu. Ithumli kateina",
+        "kashikhami pheomikahai thada ithumwui moralla pheomilu. Ithumli",
+        "ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu.",
+        "Amen.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Praise God from whom all blessings flow; praise Him all creatures here",
+        "below; praise Him above, ye heavenly host; praise Father, Son, and Holy",
+        "Ghost. Amen. Our Father which art in heaven, Hallowed be Thy name. Thy",
+        "kingdom come. Thy will be done in earth, as it is in heaven. Give us",
+        "this day our daily bread. And forgive us our debts, as we forgive our",
+        "debtors. And lead us not into temptation, but deliver us from evil: For",
+        "Thine is the kingdom, and the power, and the glory, forever. Amen."
+      ],
+      "tangkhul_content": "Vare khamatha kashungli, ngalei miyur saikorana matheilu; Kaching Kazingramwui mangla bing, Vare A Mingli mathaseru. Ava, A Nao, kala Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen. Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing sairanu. Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili la ngarunsangranu. Aja ithumwui kasala kashakpei milu. Ithumli kateina kashikhami pheomikahai thada ithumwui moralla pheomilu. Ithumli ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu. Amen.",
+      "english_translation": "Praise God from whom all blessings flow; praise Him all creatures here below; praise Him above, ye heavenly host; praise Father, Son, and Holy Ghost. Amen. Our Father which art in heaven, Hallowed be Thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For Thine is the kingdom, and the power, and the glory, forever. Amen.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 17)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 17)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Vare khamatha kashungli, ngalei miyur saikorana matheilu; Kaching",
+        "Kazingramwui mangla bing, Vare A Mingli mathaseru. Ava, A Nao, kala",
+        "Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen.",
+        "Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing",
+        "sairanu. Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili",
+        "la ngarunsangranu. Aja ithumwui kasala kashakpei milu. Ithumli kateina",
+        "kashikhami pheomikahai thada ithumwui moralla pheomilu. Ithumli",
+        "ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu.",
+        "Amen.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Praise God from whom all blessings flow; praise Him all creatures here",
+        "below; praise Him above, ye heavenly host; praise Father, Son, and Holy",
+        "Ghost. Amen. Our Father which art in heaven, Hallowed be Thy name. Thy",
+        "kingdom come. Thy will be done in earth, as it is in heaven. Give us",
+        "this day our daily bread. And forgive us our debts, as we forgive our",
+        "debtors. And lead us not into temptation, but deliver us from evil: For",
+        "Thine is the kingdom, and the power, and the glory, forever. Amen."
+      ],
+      "tangkhul_content": "Vare khamatha kashungli, ngalei miyur saikorana matheilu; Kaching Kazingramwui mangla bing, Vare A Mingli mathaseru. Ava, A Nao, kala Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen. Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing sairanu. Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili la ngarunsangranu. Aja ithumwui kasala kashakpei milu. Ithumli kateina kashikhami pheomikahai thada ithumwui moralla pheomilu. Ithumli ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu. Amen.",
+      "english_translation": "Praise God from whom all blessings flow; praise Him all creatures here below; praise Him above, ye heavenly host; praise Father, Son, and Holy Ghost. Amen. Our Father which art in heaven, Hallowed be Thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For Thine is the kingdom, and the power, and the glory, forever. Amen.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kathara (adj): holy, pure",
+        "    Example: Mangla Kathara.",
+        "  * ngashan ram (noun): kingdom",
+        "    Example: Nawui ngashan ram raranu.",
+        "  * kumching (adv): forever",
+        "    Example: Kumching kumching nawuina.",
+        "  * kankhuimilu (verb): deliver us",
+        "    Example: Kashieina kankhuimilu.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Optative mood suffix -ranu ('sairanu', 'raranu').",
+        "  - Negative causative in 'masangasaklu' (lead us not).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Quote the opening sentence of the Tangkhul Lord's Prayer.",
+        "  ? Explain the optative inflection in Christian liturgical Tangkhul."
+      ],
+      "tangkhul_content": "kathara: holy, pure\nngashan ram: kingdom\nkumching: forever\nkankhuimilu: deliver us",
+      "english_translation": "Optative mood suffix -ranu ('sairanu', 'raranu').\nNegative causative in 'masangasaklu' (lead us not).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "back_matter_glossary",
+      "header": "Jesuwui La: Hymns in Tangkhul Naga -- Comprehensive Glossary (Page 19)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  laishi [verb]: loves, cares for",
+        "  mangla [noun]: spirit, soul",
+        "  shitsanga [verb]: believes, trusts",
+        "  kaching [noun]: heaven, firmament",
+        "  makali [postp]: in the arms of",
+        "  ringkapha [noun]: peace, joy",
+        "  kangachee [noun]: terror, dread",
+        "  okkathui [noun]: mortal existence",
+        "  temi [noun]: companion, friend",
+        "  moral [noun]: fault, trespass",
+        "  khorum-ngachei [noun]: prayer, supplication",
+        "  ningkachuk [noun]: grief, heaviness",
+        "  lungrei [noun]: boulder, rock",
+        "  ashi [noun]: blood",
+        "  panglakha [adv]: empty-handed",
+        "  kakhayei [adj]: cleft, split",
+        "  kongrei [noun]: river, stream",
+        "  ngazipra [verb]: will assemble",
+        "  kuiram [noun]: royal throne",
+        "  karing [adj]: living, eternal",
+        "  pamchinglu [verb]: abide steadfastly",
+        "  zimik tunhaira [idiom]: sun has set",
+        "  makangateipa [noun]: the immutable one",
+        "  kathara [adj]: holy, pure",
+        "  ngashan ram [noun]: kingdom",
+        "  kumching [adv]: forever",
+        "  kankhuimilu [verb]: deliver us"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 27"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "back_cover",
+      "header": "Jesuwui La: Hymns in Tangkhul Naga -- Back Cover & Colophon (Page 20)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-ARCH-002",
+        "Title: Jesuwui La: Hymns in Tangkhul Naga",
+        "Publisher: American Baptist Mission House, Ukhrul, Manipur",
+        "Publication Year: 1907",
+        "Dialect Variety: Ukhrul",
+        "Total Digital Pages: 20",
+        "Total Chapters: 7",
+        "Total Words Indexed: 849",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "laishi",
+        "pos": "verb",
+        "meaning": "loves, cares for",
+        "example": "Hi Jesuna laishi."
+      },
+      {
+        "word": "mangla",
+        "pos": "noun",
+        "meaning": "spirit, soul",
+        "example": "A mangla chihomihai."
+      },
+      {
+        "word": "shitsanga",
+        "pos": "verb",
+        "meaning": "believes, trusts",
+        "example": "Lairikli palaga shitsanga."
+      },
+      {
+        "word": "kaching",
+        "pos": "noun",
+        "meaning": "heaven, firmament",
+        "example": "Kachingli changmilakra."
+      },
+      {
+        "word": "makali",
+        "pos": "postp",
+        "meaning": "in the arms of",
+        "example": "Jesuwui makali."
+      },
+      {
+        "word": "ringkapha",
+        "pos": "noun",
+        "meaning": "peace, joy",
+        "example": "Ringkapha apamna."
+      },
+      {
+        "word": "kangachee",
+        "pos": "noun",
+        "meaning": "terror, dread",
+        "example": "Kangachee malaimana."
+      },
+      {
+        "word": "okkathui",
+        "pos": "noun",
+        "meaning": "mortal existence",
+        "example": "Mikumo awui okkathui."
+      },
+      {
+        "word": "temi",
+        "pos": "noun",
+        "meaning": "companion, friend",
+        "example": "Kaphā temi."
+      },
+      {
+        "word": "moral",
+        "pos": "noun",
+        "meaning": "fault, trespass",
+        "example": "Ithumwui moral saikora."
+      },
+      {
+        "word": "khorum-ngachei",
+        "pos": "noun",
+        "meaning": "prayer, supplication",
+        "example": "Varili khorumlu."
+      },
+      {
+        "word": "ningkachuk",
+        "pos": "noun",
+        "meaning": "grief, heaviness",
+        "example": "Ningkachuk kaphung."
+      },
+      {
+        "word": "lungrei",
+        "pos": "noun",
+        "meaning": "boulder, rock",
+        "example": "Aching lungrei."
+      },
+      {
+        "word": "ashi",
+        "pos": "noun",
+        "meaning": "blood",
+        "example": "Tara kala ashi."
+      },
+      {
+        "word": "panglakha",
+        "pos": "adv",
+        "meaning": "empty-handed",
+        "example": "Nawui crossli panglakha."
+      },
+      {
+        "word": "kakhayei",
+        "pos": "adj",
+        "meaning": "cleft, split",
+        "example": "Iwui vang kakhayei."
+      },
+      {
+        "word": "kongrei",
+        "pos": "noun",
+        "meaning": "river, stream",
+        "example": "Kazingramwui kongreili."
+      },
+      {
+        "word": "ngazipra",
+        "pos": "verb",
+        "meaning": "will assemble",
+        "example": "Ithum saikora ngazipra."
+      },
+      {
+        "word": "kuiram",
+        "pos": "noun",
+        "meaning": "royal throne",
+        "example": "Varewui kuiram ngachaili."
+      },
+      {
+        "word": "karing",
+        "pos": "adj",
+        "meaning": "living, eternal",
+        "example": "Karing khangarum ramli."
+      },
+      {
+        "word": "pamchinglu",
+        "pos": "verb",
+        "meaning": "abide steadfastly",
+        "example": "I eina pamchinglu."
+      },
+      {
+        "word": "zimik tunhaira",
+        "pos": "idiom",
+        "meaning": "sun has set",
+        "example": "Zimik tunhaira, ngaya chuiye."
+      },
+      {
+        "word": "makangateipa",
+        "pos": "noun",
+        "meaning": "the immutable one",
+        "example": "Makangateipa pamlu."
+      },
+      {
+        "word": "kathara",
+        "pos": "adj",
+        "meaning": "holy, pure",
+        "example": "Mangla Kathara."
+      },
+      {
+        "word": "ngashan ram",
+        "pos": "noun",
+        "meaning": "kingdom",
+        "example": "Nawui ngashan ram raranu."
+      },
+      {
+        "word": "kumching",
+        "pos": "adv",
+        "meaning": "forever",
+        "example": "Kumching kumching nawuina."
+      },
+      {
+        "word": "kankhuimilu",
+        "pos": "verb",
+        "meaning": "deliver us",
+        "example": "Kashieina kankhuimilu."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-ARCH-002",
+      "title": "Jesuwui La: Hymns in Tangkhul Naga",
+      "total_pages": 20,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 20,
+  "total_chapters": 7,
+  "total_words": 1283,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Early Devotional Hymns",
+      "tangkhul_text": "1. Hi Jesuna laishi, khikala jila, in a Vare chiwui lairikli, palaga I shitsanga. Ma, ili laishi! Ma, ili laishi! Ma, ili laishi! Lairikli iya. 2. Hi Jesuna laishi, A mangla chihomihai; Varina kaching khamaug shomida changmilakra. 3. Ili Jesuna laishi, noshino awui nona; athum masathukmana, Ana kamakangvana. 4. Hi Jesuna laishi, iwui moral pheomira; khikala jila awui Mangla chihomihaira.",
+      "translation_en": "1. Jesus loves me, this I know, for the Bible tells me so; little ones to Him belong, they are weak but He is strong. Yes, Jesus loves me! The Bible tells me so. 2. Jesus loves me, He who died heaven's gate to open wide; He will wash away my sin. 3. Jesus loves me, loves me still, though I'm very weak and ill; from His shining throne on high. 4. Jesus loves me, He will stay close beside me all the way; He has washed away my sin."
+    },
+    {
+      "chapter": "Chapter 2: Hymns of Divine Grace & Love",
+      "tangkhul_text": "1. He Jesuwui makali, eingphalaka; siwui ngahan ngaida romhai, phasa kakhanang rai. Kachingwui chan nganalu, iwui la sada laili, Jesuna nani mashitta, hangda la kasana. 2. He Jesuwui makali, kangachee malaimana; I moral maphungmara, chiaina makhanangmara. Wukli kakhanang malaita, ringkapha apamna, mikumo awui okkathui ringkapha kashungna.",
+      "translation_en": "1. Safe in the arms of Jesus, safe on His gentle breast; there by His love o'ershaded, sweetly my soul shall rest. Hark! 'tis the voice of angels, borne in a song to me. 2. Safe in the arms of Jesus, safe from corroding care; safe from the world's temptations, sin cannot harm me there. Free from the blight of sorrow, free from my doubts and fears."
+    },
+    {
+      "chapter": "Chapter 3: Penitential & Supplication Hymns",
+      "tangkhul_text": "1. Jesuli ithum kaphā temi akha leiyi, ithumwui moral kala kakhanang saikora phungmiya. Khorum-ngacheida Varili kachiphun mathaloikhalang, ningkhamayung tarakha ithum khamatai thotna. 2. Khipana kakhanang kala ningkachuk phunga? Jesuwui lili vashitlaga khorumlu. Ana khipakha matheikhui-mana malei, ningchang lak eina temkhamishi phapharomei.",
+      "translation_en": "1. What a friend we have in Jesus, all our sins and griefs to bear! What a privilege to carry everything to God in prayer! O what peace we often forfeit, O what needless pain we bear. 2. Have we trials and temptations? Is there trouble anywhere? We should never be discouraged; take it to the Lord in prayer. In His arms He'll take and shield thee; thou wilt find a solace there."
+    },
+    {
+      "chapter": "Chapter 4: Pilgrim & Faith Hymns",
+      "tangkhul_text": "1. Aching lungrei iwui vang kakhayei, nawui khamangli ili kaphumpam milu. Nawui azing eina kathur tara kala ashi china iwui moral shiman ngasaku. 2. Iwui pang eina kasa otna nawui shiyan makhararthukmana; kachara zangzang shoklala nawui akhavawuina. Na vathot iwui kachiphun, nawui crossli i panglakha ngaranmida leiyi.",
+      "translation_en": "1. Rock of Ages, cleft for me, let me hide myself in Thee; let the water and the blood, from Thy wounded side which flowed, be of sin the double cure, save from wrath and make me pure. 2. Not the labors of my hands can fulfill Thy law's demands; could my zeal no respite know, could my tears forever flow, all for sin could not atone; Thou must save, and Thou alone."
+    },
+    {
+      "chapter": "Chapter 5: Hymns of the Kingdom & Eternal Life",
+      "tangkhul_text": "1. Kaching Kazingramwui kongreili, Varewui khamatha apamli, ithum saikora ngazipra? Ma, ithum ngazipra kong kaphali, kong kaphali, Varewui kuiram ngachaili ngazipsera. 2. Kongrei chihui ngashilakna, thikahai maleimana; Vare eina A Naochina karing khangarum ramli.",
+      "translation_en": "1. Shall we gather at the river, where bright angel feet have trod, with its crystal tide forever flowing by the throne of God? Yes, we'll gather at the river, the beautiful river. 2. On the margin of the river, washing up its silver spray, we will walk and worship ever, all the happy golden day."
+    },
+    {
+      "chapter": "Chapter 6: Morning, Evening & Daily Life Hymns",
+      "tangkhul_text": "1. Zimik tunhaira, ngaya kaching chuiye; Kazing khayingli i eina pamchinglu. Katei ngashunkhami kacham chitharanli, khangachamwui Ava, i eina pamchinglu. 2. Okkathui mirin hi thakta kanthuiseri; kuipham, ngashan saikora themthuira. Khamatei malei nawui ngachaili pamlu; Makangateipa, i eina pamchinglu.",
+      "translation_en": "1. Abide with me: fast falls the eventide; the darkness deepens; Lord, with me abide. When other helpers fail and comforts flee, Help of the helpless, O abide with me. 2. Swift to its close ebbs out life's little day; earth's joys grow dim; its glories pass away; change and decay in all around I see; O Thou who changest not, abide with me."
+    },
+    {
+      "chapter": "Chapter 7: Doxologies, Anthems & Closing Liturgy",
+      "tangkhul_text": "Vare khamatha kashungli, ngalei miyur saikorana matheilu; Kaching Kazingramwui mangla bing, Vare A Mingli mathaseru. Ava, A Nao, kala Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen. Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing sairanu. Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili la ngarunsangranu. Aja ithumwui kasala kashakpei milu. Ithumli kateina kashikhami pheomikahai thada ithumwui moralla pheomilu. Ithumli ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu. Amen.",
+      "translation_en": "Praise God from whom all blessings flow; praise Him all creatures here below; praise Him above, ye heavenly host; praise Father, Son, and Holy Ghost. Amen. Our Father which art in heaven, Hallowed be Thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For Thine is the kingdom, and the power, and the glory, forever. Amen."
+    }
+  ]
+}

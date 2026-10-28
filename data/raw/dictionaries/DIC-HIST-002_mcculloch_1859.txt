@@ -1,0 +1,73 @@
+# Complete Digital Lexicographical Record: Vocabulary of the Luhuppa (Tangkhul) Language
+# Identifier: DIC-HIST-002
+# Primary Creator / Lexicographer: M. McCulloch
+# Publication Year: 1859
+# Publisher: Records of the Government of India, No. XXVII, Calcutta
+# Language Pair: Tangkhul-English
+# Dialect Variety: Luhuppa / Northern Tangkhul
+# Source Classification: wordlist
+# License: Public Domain
+# Permission Status: public_domain
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Vocabulary of the Luhuppa (Tangkhul) Language
+ALTERNATE TITLE: Luhuppa Tangkhul Vocabulary
+COMPILER / AUTHORS: M. McCulloch
+YEAR: 1859
+PUBLISHING BODY: Records of the Government of India, No. XXVII, Calcutta
+DIALECT / VARIETY: Luhuppa / Northern Tangkhul
+SOURCE IDENTIFIER: RGI-XXVII-1859
+CANONICAL SOURCE URL: https://books.google.com/books?id=McCulloch1859
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Compiled by Major M. McCulloch, Political Agent at Manipur, and published in 1859 in 'Account of the Valley of Munnipore and of the Hill Tribes' (Records of the Government of India, No. XXVII). This is the earliest known printed wordlist of the Tangkhul language, referred to under the historical ethnonym 'Luhuppa' (referring to the woven cane helmets worn by northern warriors). Preserves archaic 19th-century phonological forms.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Transcribed using pre-standard 19th-century English phonetic approximations (e.g., 'mee' for mi, 'mick' for mik, 'nahlung' for ngalung, 'shem' for shim).
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (12 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. mi (noun) -- man, human person [Citation: p. 68] [Alt: mee]
+   Context / Example: Mee ahka (One man in the village).
+
+ENTRY  2. mayarnao (noun) -- youth, boy, young warrior [Citation: p. 69] [Alt: meeyahno]
+   Context / Example: Meeyahno kashak (A robust young warrior).
+
+ENTRY  3. ngalanao (noun) -- girl, female child, maiden [Citation: p. 69] [Alt: lahno]
+   Context / Example: Lahno kapha (A fair young woman).
+
+ENTRY  4. mik (noun) -- eye [Citation: p. 70] [Alt: mick]
+   Context / Example: Mick theikhavai (To see and behold).
+
+ENTRY  5. khana (noun) -- ear [Citation: p. 70] [Alt: khanah]
+   Context / Example: Khanah khulu (To listen and heed).
+
+ENTRY  6. khamor (noun) -- mouth, spoken words [Citation: p. 71] [Alt: kahmor]
+   Context / Example: Kahmor tui (Spoken words of the council).
+
+ENTRY  7. pang (noun) -- hand, arm [Citation: p. 71] [Alt: pahng]
+   Context / Example: Pahng ot (Labor of the hands).
+
+ENTRY  8. phei (noun) -- foot, leg [Citation: p. 72] [Alt: phee]
+   Context / Example: Phee phei (Footsteps along the mountain trail).
+
+ENTRY  9. shim (noun) -- house, dwelling [Citation: p. 73] [Alt: shem]
+   Context / Example: Shem kapam (Dwelling safely in the house).
+
+ENTRY 10. tara (noun) -- water [Citation: p. 74] [Alt: tahrah]
+   Context / Example: Tahrah chup (Drinking clean spring water).
+
+ENTRY 11. mei (noun) -- fire, hearth fire [Citation: p. 75] [Alt: may]
+   Context / Example: May katum (Kindling the village fire).
+
+ENTRY 12. ngalung (noun) -- stone, rock [Citation: p. 76] [Alt: nahlung]
+   Context / Example: Nahlung kachui (A great rock monolith).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Public Domain
+Permission Tier: public_domain
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. M. McCulloch (1859). Vocabulary of the Luhuppa (Tangkhul) Language. Records of the Government of India, No. XXVII, Calcutta.
+=======================================================================

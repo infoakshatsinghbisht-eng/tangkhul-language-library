@@ -1,0 +1,235 @@
+{
+  "noun_gender": {
+    "description": "Tangkhul distinguishes natural gender for human beings and animals using specific suffixes.",
+    "human_gender_suffixes": {
+      "masculine": "-a / mayara",
+      "feminine": "-va / ngalava"
+    },
+    "animal_gender_suffixes": {
+      "masculine": "-vā (e.g. Fa-vā: male dog)",
+      "feminine": "-lā / -vā (e.g. Fa-lā: female dog)"
+    },
+    "examples": [
+      {
+        "tangkhul_masc": "Ngasotnao mayara",
+        "tangkhul_fem": "Ngasotnao ngalava",
+        "english": "Friend (male / female)",
+        "hindi": "मित्र / सहेली"
+      },
+      {
+        "tangkhul_masc": "Yaron-a",
+        "tangkhul_fem": "Laron-a",
+        "english": "Bachelor / Spinster",
+        "hindi": "कुँवारा / कुँवारी"
+      },
+      {
+        "tangkhul_masc": "Awun-a",
+        "tangkhul_fem": "Phila-va",
+        "english": "Chief / Chieftess",
+        "hindi": "मुखिया / मुखियाइन"
+      },
+      {
+        "tangkhul_masc": "Sigui a-vā",
+        "tangkhul_fem": "Sigui a-lā",
+        "english": "Stallion / Mare",
+        "hindi": "घोड़ा / घोड़ी"
+      },
+      {
+        "tangkhul_masc": "Fa-vā",
+        "tangkhul_fem": "Fa-lā",
+        "english": "Dog (male) / Bitch (female)",
+        "hindi": "कुत्ता / कुतिया"
+      },
+      {
+        "tangkhul_masc": "Har-va",
+        "tangkhul_fem": "Har-va / Har-la",
+        "english": "Rooster / Hen",
+        "hindi": "मुर्गा / मुर्गी"
+      }
+    ]
+  },
+  "case_markers": {
+    "description": "Postpositional case markers attached to nouns and pronouns.",
+    "cases": [
+      {
+        "case": "Nominative (कर्ता)",
+        "marker": "-na",
+        "function": "Agent of transitive/intransitive verb",
+        "example": "I-na zat-ra (I will go / मैं जाऊँगा)"
+      },
+      {
+        "case": "Accusative (कर्म)",
+        "marker": "-li",
+        "function": "Direct/indirect human object",
+        "example": "A-na i-li leishi (He loves me / वह मुझे प्रेम करता है)"
+      },
+      {
+        "case": "Instrumental (करण)",
+        "marker": "-eina",
+        "function": "Instrument, means, or from",
+        "example": "Pang eina kasa (Made by hand / हाथ से बनाया गया)"
+      },
+      {
+        "case": "Dative (संप्रदान)",
+        "marker": "-li / -wui vang",
+        "function": "For, towards, to the benefit of",
+        "example": "I-wui vang (For me / मेरे लिए)"
+      },
+      {
+        "case": "Ablative (अपादान)",
+        "marker": "-wui eina",
+        "function": "Source or separation",
+        "example": "Ukhrul wui eina (From Ukhrul / उखरुल से)"
+      },
+      {
+        "case": "Genitive (संबंध)",
+        "marker": "-wui",
+        "function": "Possession (of, 's)",
+        "example": "I-wui aming (My name / मेरा नाम)"
+      },
+      {
+        "case": "Locative (अधिकरण)",
+        "marker": "-li",
+        "function": "In, at, on location",
+        "example": "Shim-li pam (Stay at home / घर में रहना)"
+      }
+    ]
+  },
+  "pronoun_declensions": {
+    "description": "Personal and demonstrative pronouns in Tangkhul.",
+    "table": [
+      {
+        "person": "1st Person Singular",
+        "tangkhul": "I",
+        "nominative": "I-na",
+        "accusative": "I-li",
+        "genitive": "I-wui",
+        "english": "I / Me / My",
+        "hindi": "मैं / मुझे / मेरा"
+      },
+      {
+        "person": "2nd Person Singular",
+        "tangkhul": "Na",
+        "nominative": "Na-na",
+        "accusative": "Na-li",
+        "genitive": "Na-wui",
+        "english": "You / You / Your",
+        "hindi": "तुम / तुम्हें / तुम्हारा"
+      },
+      {
+        "person": "3rd Person Singular (He)",
+        "tangkhul": "A / Mayara pa",
+        "nominative": "A-na",
+        "accusative": "A-li",
+        "genitive": "A-wui",
+        "english": "He / Him / His",
+        "hindi": "वह / उसे / उसका"
+      },
+      {
+        "person": "3rd Person Singular (She)",
+        "tangkhul": "Ngalavapa",
+        "nominative": "Ngalavapa-na",
+        "accusative": "Ngalavapa-li",
+        "genitive": "Ngalavapa-wui",
+        "english": "She / Her / Her",
+        "hindi": "वह / उसे / उसका"
+      },
+      {
+        "person": "1st Person Plural",
+        "tangkhul": "Ithum",
+        "nominative": "Ithum-na",
+        "accusative": "Ithum-li",
+        "genitive": "Ithum-wui",
+        "english": "We / Us / Our",
+        "hindi": "हम / हमें / हमारा"
+      },
+      {
+        "person": "2nd Person Plural",
+        "tangkhul": "Nathum",
+        "nominative": "Nathum-na",
+        "accusative": "Nathum-li",
+        "genitive": "Nathum-wui",
+        "english": "You all / Your",
+        "hindi": "आप सब / आप सबका"
+      },
+      {
+        "person": "3rd Person Plural",
+        "tangkhul": "Athum",
+        "nominative": "Athum-na",
+        "accusative": "Athum-li",
+        "genitive": "Athum-wui",
+        "english": "They / Them / Their",
+        "hindi": "वे / उन्हें / उनका"
+      }
+    ]
+  },
+  "verb_tenses": {
+    "description": "Verbal tense and aspect morphology in Tangkhul Naga.",
+    "tenses": [
+      {
+        "tense": "Present Continuous / Progressive (अपूर्ण वर्तमान)",
+        "marker": "-bam",
+        "example": {
+          "tangkhul": "I zat-bam-me",
+          "english": "I am going",
+          "hindi": "मैं जा रहा हूँ"
+        }
+      },
+      {
+        "tense": "Past Tense (भूतकाल)",
+        "marker": "-sai / -haira",
+        "example": {
+          "tangkhul": "I zat-sai",
+          "english": "I went",
+          "hindi": "मैं गया / गई"
+        }
+      },
+      {
+        "tense": "Completive Past (पूर्ण भूतकाल)",
+        "marker": "-haira",
+        "example": {
+          "tangkhul": "Maphazahaira",
+          "english": "Have eaten / Finished eating",
+          "hindi": "खाना खा लिया है"
+        }
+      },
+      {
+        "tense": "Future Tense (भविष्यत काल)",
+        "marker": "-ra / -ga",
+        "example": {
+          "tangkhul": "I zat-ra",
+          "english": "I will go",
+          "hindi": "मैं जाऊँगा / जाऊँगी"
+        }
+      },
+      {
+        "tense": "Negative Form (नकारात्मक)",
+        "marker": "Prefix ma- + verb root + -mana",
+        "example": {
+          "tangkhul": "I ma-zat-mana",
+          "english": "I do not go",
+          "hindi": "मैं नहीं जाता हूँ"
+        }
+      },
+      {
+        "tense": "Imperative (आज्ञार्थक)",
+        "marker": "-lu (polite) / -lo",
+        "example": {
+          "tangkhul": "Zat-lu!",
+          "english": "Go!",
+          "hindi": "जाओ! / जाइए!"
+        }
+      }
+    ]
+  },
+  "syntax": {
+    "word_order": "SOV (Subject - Object - Verb)",
+    "description": "Tangkhul Naga strictly adheres to the Subject-Object-Verb word order, identical to Hindi and Japanese.",
+    "example": {
+      "tangkhul": "I-na tara mang-ra",
+      "literal": "I (Subject) + water (Object) + will drink (Verb)",
+      "english": "I will drink water",
+      "hindi": "मैं पानी पीऊँगा (कर्ता + कर्म + क्रिया)"
+    }
+  }
+}

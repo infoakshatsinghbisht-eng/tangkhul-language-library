@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-004",
+  "resource_type": "songs",
+  "title": "Ngayang Kahai Leishat",
+  "alternate_titles": [],
+  "title_translation": "Unwavering Love",
+  "singer": "Rewben Mashangva",
+  "lyricist": "Rewben Mashangva",
+  "composer": "Rewben Mashangva",
+  "collector": null,
+  "performers": [
+    "Rewben Mashangva"
+  ],
+  "year": null,
+  "village": "Choithar",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-RM-003",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Reflective folk ballad on love, endurance, and memory.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Ngayang kahai leishat wuklungli pamei.",
+        "Kaphung konglao kanhaida leikashi kapha."
+      ],
+      "lines_translation": [
+        "Unwavering devotion abides steadfast in the depth of my heart.",
+        "Enduring across rivers and mountains in lifelong love."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL FOLK LITERATURE ANTHOLOGY
+IDENTIFIER: LIT-ANTH-001 | GENRE: LITERARY_ANTHOLOGY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Folk Literature Anthology
+  Title Translation:     Anthology of Tangkhul Folklore, Ballads, and Proverbs
+  Literary Genre / Type: literary_anthology (literary_anthology)
+  Author / Storyteller:  S. Arokianathan
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-FLK-1982-ANTH
+  Source URL:            https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Academic Research Publication (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Seminal scholarly anthology published under CIIL Folklore Series documenting Tangkhul oral narratives, courting songs, funeral dirges, proverbs, and riddles with linguistic commentary.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Central Institute of Indian Languages (CIIL) Mysore-na 1982-li Tangkhul Folk Literature monograph publish sakya.
+  Dr. S. Arokianathan-na oral narratives, folk ballads (Maitonphi), dirges, riddles, kala proverbs document sakya.
+  Phonetic transcription, English translations, kala structural linguistic analysis comprehensive-laka sanga.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In 1982, the Central Institute of Indian Languages (CIIL) in Mysore published this definitive Tangkhul Folk Literature monograph.
+  Compiled by Dr. S. Arokianathan, it systematically documented oral tales, the ballad of Maitonphi, proverbs, and riddles.
+  Featuring IPA phonetic transcriptions and interlinear English translations, it remains a landmark of academic linguistic folklore.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Comprehensive scientific documentation of oral literature genres
+  * Preservation of archaic dialects (Phungcham, Ukhrul, Champhung)
+  * Linguistic, metric, and syntactic analysis of traditional verbal art
+
+STRUCTURE & POETIC METER: Multilingual scholarly monograph containing bilingual texts, phonetic notations, structural tables, and glossaries.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  The premier academic anthology of Tangkhul oral verbal art, establishing standard methodology for Tibeto-Burman folklore documentation.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Folk-Literature        : Indigenous oral lore, verbal art, and narrative tradition
+  * Paochirun              : Traditional poetic riddles and witty word-games
+  * Paotam                 : Customary proverbs and ancestral maxims
+  * Khararchan-Laa         : Ballad poetry set to traditional melodies
+
+================================================================================
+END OF RECORD: LIT-ANTH-001 - Tangkhul Language Library Digital Archive
+================================================================================

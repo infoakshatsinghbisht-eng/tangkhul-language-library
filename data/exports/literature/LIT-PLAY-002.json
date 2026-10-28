@@ -1,0 +1,54 @@
+{
+  "id": "LIT-PLAY-002",
+  "resource_type": "literature",
+  "title": "Maitonphi: A Dramatic Adaptation",
+  "title_translation": "Verse-Drama of Maitonphi and Shimreishang",
+  "creator": "Tangkhul Dramatic Troupe & TLS",
+  "author": "Tangkhul Literature Society",
+  "year": 1995,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "play",
+  "work_type": "play",
+  "genres": [
+    "play",
+    "ballad"
+  ],
+  "book_id": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1995-MP-PLAY",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-PLAY-002.txt",
+  "notes": "Stage play adaptation of the northern Tangkhul tragic love narrative, structured in five acts preserving traditional dialogue and song interludes.",
+  "indigenous_tangkhul_text": [
+    "Act III: Maitonphi weaves the ceremonial Luirim cloth at her backstrap loom while singing an elegiac lament.",
+    "Shimreishang arrives at dusk, pledging undying devotion before departing on a perilous distant expedition.",
+    "The dramatic chorus echoes traditional folk song melodies (Pheichak Laa) commenting on fate's unyielding decree."
+  ],
+  "english_translation_text": [
+    "Act III: Maitonphi weaves the ceremonial Luirim shawl at her backstrap loom, singing a haunting song of longing.",
+    "Shimreishang arrives at dusk, declaring his eternal devotion before departing on a perilous frontier journey.",
+    "The chorus chants antiphonal folk refrains, reflecting on the inexorable tragedy of human destiny."
+  ],
+  "literary_themes": [
+    "Theatrical dramatization of the 17th-century Phungcham tragic romance",
+    "Integration of folk songs, weaving chants, and backstrap loom rhythms into stage performance",
+    "Tension between clan duties and individual emotional devotion"
+  ],
+  "structure_and_meter": "Five-act verse drama with alternating spoken dialogue, choral antiphony, and lyrical monologues.",
+  "critical_commentary": "Adapted by the Tangkhul Dramatic Troupe and published by TLS in 1995, this play has been staged in community auditoriums across Ukhrul and Imphal to acclaim.",
+  "poetic_vocabulary_terms": {
+    "Luirim-Tak": "The rhythmic art of weaving the ceremonial shawl",
+    "Kharashot-Laa": "Elegiac song of enduring longing and sorrow",
+    "Yarsho": "Mountain path taken by travelers and warriors",
+    "Ning-Khamathan": "Pure and faithful devotion of the heart"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

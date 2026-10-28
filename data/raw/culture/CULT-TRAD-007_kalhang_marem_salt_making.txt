@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-TRAD-007
+TITLE: Kalhang & Marem Brine Well Salt-Making
+TITLE TRANSLATION: Indigenous Brine Well Salt Extraction & Cake Manufacturing
+CATEGORY: tradition | SUBCATEGORY: craft_metallurgy_industry
+VILLAGE / REGION: Kalhang | DIALECT: Kalhang / Raphei
+CONTRIBUTOR / DOCUMENTATION: Kalhang & Marem Salt Guilds
+PUBLICATION / SOURCE: Documented in Hodson 1911
+SOURCE ID: Hodson-1911-Ch2-Salt
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Historical mineral salt manufacture from natural deep mountain brine wells (Machi kong), evaporated in circular iron cauldrons to form flat salt cakes historically used as currency.
+
+[SEASONAL TIMING & OCCASION]
+Dry season (Historically central mineral industry)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Kalhang and Marem Salt Guilds
+- Furnace Masters
+- Trade Caravans
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Drawing brine water from deep ancestral masonry brine wells (Machi kong).
+2. Channeling brine into shallow circular iron cauldrons over subterranean flue furnaces.
+3. Continuous boiling with mountain oak firewood until brine evaporates into thick white crystals.
+4. Pressing hot salt paste into shallow circular moulds to solidify into heavy salt cakes.
+5. Distribution and barter trade across regional mountain markets.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Kalhang Machi kongli tara thuklaka, iram mibingwui lan.
+Machi phungda meili kharong, kazei katha salt cake sai.
+Manipur kaphung konglaoli shailaga, machi thotli lan kakhare.
+
+[ENGLISH TRANSLATION & MEANING]
+From the deep brine springs of Kalhang and Marem flows precious mineral wealth.
+Boiling brine in iron pans over hardwood fires to form dense circular salt cakes.
+Traded across the mountains of Manipur, serving historically as high-value currency and food essence.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

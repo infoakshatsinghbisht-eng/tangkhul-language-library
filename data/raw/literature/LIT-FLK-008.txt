@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: MARĀNAO EINA KAZING PHILAVA WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-008 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Marānao eina Kazing Philava wui Khararchan
+  Title Translation:     The Orphan Cowherd and the Queen of the Sky
+  Literary Genre / Type: folk_tale (folk_tale)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-FLK-1982-MKP
+  Source URL:            https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Traditional Oral Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Mythological oral romance narrating the union and tragic parting between a humble cowherd boy and a celestial princess.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Marānao mayarnao seishatpamli seikhur kachikhangai, kazing kaphunga eili phaphung-won khamatha mayonzatta.
+  Chitharan kazing-chiko kashungli Kazing Philavana meikaphara mashon eina seipam-li ngur-ngur tonda kashun.
+
+  Marānaona kayei-kaphung ngareili Philavawui kachon shimkhuilaga, 'Inangli ngakhunmila, iwui ramli ngasamphang-lu!' da marui.
+  Kazing Philavana marānao kachamnaowui ning-leishat theida, ngaleili pamlaga thithang shimwui kapha kaphara ser-manda.
+
+  Kha kachung-chihui ngacheilaga kazing mashon kachon samphanglaga, Philavana kaphung-kazing ramli ngaláng-haowa.
+  Marānaona kazeiram kala kazing ngalei mangayapda, ngasam-kakha mangli leishat khon horda meingap-pamhaowa.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  An impoverished cowherd boy watched his cattle upon the mountain grasslands where wild lilies bloomed beneath the clouds.
+  At the mystical hour of dusk, the Celestial Maiden (Queen of the Heavens) descended in a cloak of starlight to bathe in the spring.
+
+  The cowherd hid her celestial feathered robe and whispered: 'Abide with me in this earthly home, and be my beloved companion.'
+  Moved by his humble gentleness and genuine devotion, she dwelt with him upon the earth, blessing his homestead with abundance.
+
+  Yet after many moons, finding her concealed celestial robe beneath the granary, she was summoned back to the starry heavens.
+  The cowherd looked up into the twilight sky with unending longing, his hearth-song forever carrying the melody of celestial love.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Celestial-terrestrial romantic union (*Kazing eina Ngalei Leikashi*)
+  * The magic feather robe motif (*Mashon Kachon*) common to world folklore
+  * Humble virtue rewarded by divine favor and agricultural prosperity
+  * Inevitable separation between mortal earth and the eternal sky realm
+
+STRUCTURE & POETIC METER: Mythological oral romance in episodic narrative stanzas with lyrical pastoral interludes.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A canonical Tangkhul iteration of the celestial maiden folktale. It explores the tension between earthly mortal existence and transcendent divine beauty, celebrating the purity of the impoverished cowherd's spirit.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Marānao                : Impoverished young cowherd / orphan youth
+  * Kazing Philava         : Queen or maiden of the heavenly realm / celestial princess
+  * Mashon kachon          : Feathered celestial garment enabling flight between heavens and earth
+  * Meingap-pam            : To sit by the fireside in deep yearning and contemplative longing
+
+================================================================================
+END OF RECORD: LIT-FLK-008 - Tangkhul Language Library Digital Archive
+================================================================================

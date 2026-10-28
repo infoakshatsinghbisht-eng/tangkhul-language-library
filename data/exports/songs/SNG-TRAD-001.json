@@ -1,0 +1,71 @@
+{
+  "id": "SNG-TRAD-001",
+  "resource_type": "songs",
+  "title": "Shimreishang Kala Maitonphi",
+  "alternate_titles": [
+    "Ashang Aton Laa",
+    "The Ballad of Shimreishang and Maitonphi"
+  ],
+  "title_translation": "Ballad of Shimreishang and Maitonphi",
+  "singer": "Traditional",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Phungcham Village Elders / Oral Tradition",
+  "performers": [],
+  "year": null,
+  "village": "Phungcham",
+  "dialect": "Phungcham / Standard Tangkhul",
+  "song_type": "ballad",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TRAD-PHUNG-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Legendary 17th-century tragic romance ballad originating from Phungcham village. Documented in oral histories and theatrical works.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Shimreishangwui ningli leikashi lei.",
+        "Atonphi kachihi ramwui won kapha.",
+        "Phungcham kongrei wui ngaloong pamei."
+      ],
+      "lines_translation": [
+        "Love dwells deep in the heart of Shimreishang.",
+        "Maitonphi is the fairest flower of the land.",
+        "Beside the clear running streams of Phungcham."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Iram Phungchamli ningkachon pamei.",
+        "Chitharan leikashi thot khangatei lei.",
+        "Atonphi wui sam kaphana won thada."
+      ],
+      "lines_translation": [
+        "In our Phungcham village, deep affection grew.",
+        "At that sacred time, our generation was transformed by love.",
+        "Maitonphi's beauty blossomed like the wild mountain flower."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Shimreishang na khangayei wui tui kashak.",
+        "Thot kachungli mashimanpaimana.",
+        "Vare wui ningli leikashi kasakna."
+      ],
+      "lines_translation": [
+        "Shimreishang's enduring vow of lifelong faithfulness.",
+        "Shall never fade through the turning of generations.",
+        "Under the divine gaze of the Creator, true love endures."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-CUST-002
+TITLE: Hangva Council of Elders
+TITLE TRANSLATION: Traditional Village Governance Council
+CATEGORY: custom | SUBCATEGORY: governance
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Clan Representatives
+PUBLICATION / SOURCE: Documented in Horam 1977, Hodson 1911
+SOURCE ID: Horam-1977-Ch3
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Customary governing council of village clan leaders (Hangva) assisting the Awunga (hereditary chief). Mediates property boundaries, inter-clan disputes, and customary fines.
+
+[SEASONAL TIMING & OCCASION]
+Continuous customary governance council
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Awunga (Chief)
+- Hereditary Clan Heads (Hangva)
+- Village Witnesses
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Representation of each clan by its senior hereditary elder on the Hangva Council.
+2. Convening at the Awunga's courtyard to hear boundary, marriage, or customary property cases.
+3. Hearing testimonies from disputants and witnesses under solemn oaths.
+4. Deliberation based on unwritten customary jurisprudence (Chanjam).
+5. Issuance of binding verdict and enforcement of customary restitution (Khayor).
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Hangvawui ning mashunglak aina ramwui tui khamata sai.
+Awungali ngasoda kashan kachiva kashak ngachek.
+Phungcham, Hunphun, Ukhrul kachida Hangvawui tui ngana.
+
+[ENGLISH TRANSLATION & MEANING]
+With upright justice, the Hangva Council deliberates on vital matters of land and law.
+Assisting the Awunga, they uphold ancestral covenants and settle village disputes.
+Across every Tangkhul village, the voice of the Hangva is heeded with deep deference.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

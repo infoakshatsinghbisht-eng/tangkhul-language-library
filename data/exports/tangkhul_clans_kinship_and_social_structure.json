@@ -1,0 +1,122 @@
+{
+  "id": "CULT-SOC-001",
+  "title": "Tangkhul Clan System, Kinship & Social Order (Shang, Shangnao kala Hangva)",
+  "title_translation": "Comprehensive Monograph on Tangkhul Patrilineal Clans, Exogamy Rules, Hereditary Governance, and Longshim Institutions",
+  "category": "custom",
+  "subcategory": "clan_system_and_social_order",
+  "creator": "Tangkhul Clan Genealogists, Hangva Council & Cultural Scholars",
+  "year": 1977,
+  "publisher": "Documented in Horam 1977, Hodson 1911, Ruivah 1993, Shimray 2000",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul (Ukhrul / Hunphun / Somdal / Phungcham)",
+  "village": "All Tangkhul Regions (Northern Raphei, Southern Kamo, Western Remva, Eastern Somra)",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/culture/CULT-SOC-001_tangkhul_clans_social_order.txt",
+  "notes": "Foundational sociological and anthropological study of Tangkhul Naga social structure. Clarifies the complete absence of a caste system, examining instead the democratic patrilineal clan (Shang / Shangnao) structure, strict clan exogamy, village governance (Awunga and Hangva council), and youth dormitory institutions (Longshim).",
+  "sociological_framework": {
+    "caste_clarification": "The Tangkhul Naga people do NOT have a caste (varna or jati) system. Tangkhul society is fundamentally egalitarian, democratic, and non-hierarchical with respect to hereditary servitude. Social organization is instead governed by ancient patrilineal clans (Shang or Shangnao), clan exogamy, and village council democracy.",
+    "principles_of_kinship": [
+      "Patrilineal Descent: Clan membership and ancestral land inheritance pass through the male lineage.",
+      "Strict Clan Exogamy (Shang wui Shimlut): Marriage between individuals of the same clan (Shang) is strictly forbidden. A breach of this law is termed 'Masi-kongra' (spiritual pollution requiring heavy customary purification and possible exile).",
+      "Complementary Clan Alliances: Matrimonial unions create binding socio-economic covenants between complementary clans across and within villages.",
+      "Egalitarian Wealth Redistribution: Wealthy villagers do not oppress poorer members; through the 'Maran Kasa' (Feast of Merit), wealth is communally consumed and redistributed, earning social honor rather than coercive dominion."
+    ]
+  },
+  "major_clans": [
+    {
+      "clan_name": "Shimray / Shimray-nao",
+      "prominent_regions": "Hunphun (Ukhrul), Chingjaroi, Paorei, Phungcham",
+      "traditional_roles": "One of the most ancient and prominent patrician lineages; historically provides hereditary chiefs (Awunga) and supreme judicial arbiters; renowned custodians of oral covenants.",
+      "totem_or_crest": "Hornbill crest (Langva) and royal spear insignia."
+    },
+    {
+      "clan_name": "Luikham",
+      "prominent_regions": "Hunphun, Nungbi, Tolloi, Ngaimu",
+      "traditional_roles": "Venerable agricultural and political lineage; historically entrusted with presiding over the inaugural sod-turning rites and boundary demarcation.",
+      "totem_or_crest": "Terraced sheaf motif and sacred bronze gong."
+    },
+    {
+      "clan_name": "Kasomwoshi",
+      "prominent_regions": "Hunphun, Somdal, Huishu, Shirui",
+      "traditional_roles": "Celebrated custodians of philosophical jurisprudence, customary proverbs (Chanjam / Paotam), diplomatic arbitration, and literary history.",
+      "totem_or_crest": "Carved council post and wisdom staff."
+    },
+    {
+      "clan_name": "Zimik",
+      "prominent_regions": "Northern Tangkhul (Raphei), Hunphun, Kharasom, Jessami borders",
+      "traditional_roles": "Prominent mountain lineage; renowned for high bravery, customary water irrigation covenants, and elder council leadership.",
+      "totem_or_crest": "Mountain eagle and water spring symbol."
+    },
+    {
+      "clan_name": "Vashum",
+      "prominent_regions": "Hunphun, Teinem, Somdal, Lambui",
+      "traditional_roles": "Celebrated lineage renowned for warrior prowess, defense strategy, master woodcraft, and hunting ceremonial rites.",
+      "totem_or_crest": "Crossed battle spears and wild boar tusks."
+    },
+    {
+      "clan_name": "Shaiza",
+      "prominent_regions": "Hunphun (Ukhrul), Somdal, Choithar",
+      "traditional_roles": "Highly influential patrician clan; has produced illustrious statesmen, writers, educators, political leaders, and cultural chroniclers.",
+      "totem_or_crest": "Laurel wreath and ceremonial Haora weave."
+    },
+    {
+      "clan_name": "Ruivah",
+      "prominent_regions": "Somdal, Western Tangkhul (Remva), Phadang",
+      "traditional_roles": "Eminent lineage renowned for scholarship, customary law codification, pioneering education, and village arbitration.",
+      "totem_or_crest": "Scroll and sunburst motif."
+    },
+    {
+      "clan_name": "Shingnaisui",
+      "prominent_regions": "Hunphun, Lunghar, Sihai",
+      "traditional_roles": "Ancient clan renowned for religious integrity, peace pacts (Phaikham), and inter-village diplomatic embassies.",
+      "totem_or_crest": "Peace branch and white quartz emblem."
+    },
+    {
+      "clan_name": "Sareo",
+      "prominent_regions": "Eastern and Southern ranges (Kamo, Somra)",
+      "traditional_roles": "Respected lineage renowned for agricultural terrace mastery, hunting rites, and communal stewardship.",
+      "totem_or_crest": "Terrace crescent and quiver."
+    },
+    {
+      "clan_name": "A'Shao (AS)",
+      "prominent_regions": "Hunphun ancestral village site",
+      "traditional_roles": "Foundational clan lineage with deep genealogical roots; custodians of original settlement lore and village hearth rights.",
+      "totem_or_crest": "Ancient stone hearth and horn post."
+    },
+    {
+      "clan_name": "Other Prominent Lineages",
+      "prominent_regions": "Widespread across all Tangkhul valleys",
+      "traditional_roles": "Includes Kashung, Phungshok, Raleng, Kengoo, Mahongnao, Kaping, Muivah, Khangrah, Rungsung, Hongray, Chahong—each preserving specific village roles, clan lands, and hereditary seats in their local Hangva councils.",
+      "totem_or_crest": "Distinctive clan weaving designs and ancestral heirlooms."
+    }
+  ],
+  "village_governance": [
+    {
+      "institution": "Awunga (Hereditary Village King / Chief)",
+      "jurisdiction": "Supreme titular head of the village sovereign territory.",
+      "powers_and_functions": "Inaugurates annual festivals (Luira sod-turning); leads war defense in ancient times; acts as chief justice in conjunction with the Hangva council; maintains village boundaries with neighboring polities."
+    },
+    {
+      "institution": "Hangva (Council of Village Clan Elders)",
+      "jurisdiction": "The supreme legislative, judicial, and executive assembly of the village.",
+      "powers_and_functions": "Composed of representative heads of each patrilineal clan (Shang); deliberates on property disputes, theft, customary restitution, divorce cases, and public infrastructure works."
+    },
+    {
+      "institution": "Pikha / Khunbu (Sacred Priest & Land Custodian)",
+      "jurisdiction": "Spiritual rites and ancient sacrificial custody.",
+      "powers_and_functions": "Descendant of the foundational village settler; performs invocations at sacred groves; sanctifies boundaries; maintains oral knowledge of sacred spots."
+    },
+    {
+      "institution": "Yarnao (Peer-Group Labor Cooperatives)",
+      "jurisdiction": "Youth and adult mutual-aid agricultural teams.",
+      "powers_and_functions": "Rotates intensive labor across member terraced paddy fields during planting, weeding, and harvesting; enforces social solidarity and youth discipline."
+    },
+    {
+      "institution": "Longshim (Youth Dormitory Institution)",
+      "jurisdiction": "Central educational, military, and cultural institution.",
+      "powers_and_functions": "Divided into Mayarshim (boys dormitory) and Ngashim (girls dormitory). Served as indigenous universities teaching tribal history, etiquette, weaving, woodcraft, songcraft, and civic defense."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "HIST-EVT-007",
+  "resource_type": "history",
+  "title": "1891 Anglo-Manipur War and Tangkhul Pass Neutrality Pacts",
+  "title_translation": "Defense of Hill Passes During the Anglo-Manipur Conflict",
+  "creator": "Hunphun and Hundung Village Councils",
+  "year": 1891,
+  "publisher": "Documented in Grimwood 1891, Hodson 1911, Manipur State Archives",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul / Hundung",
+  "village": "Hunphun & Hundung",
+  "place": "Ukhrul Pass",
+  "category": "historical_event",
+  "event_date": "March–April 1891",
+  "period": "Colonial Conquest Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Anglo-Manipur-1891-Pacts",
+  "license": "Historical Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-EVT-007.txt",
+  "verification_status": "verified",
+  "notes": "During the Anglo-Manipur War of 1891 following the palace uprising in Imphal, Tangkhul village councils maintained strategic defensive neutrality, safeguarding mountain passes and protecting non-combatants retreating across the eastern hills.",
+  "indigenous_tangkhul_chronicle": [
+    "1891 kum Anglo-Manipur War tharan British columns Kohima kala Tamu-wui ngathur-da Kangla chotchan.",
+    "Hunphun kala Hundung Awunga-bingna mountain passes guard sakda sovereign diplomatic neutrality maintain sakya.",
+    "Hill people-na conflict-li non-combatants-li shimlut sangda hill villages-wui destruction banish sakya."
+  ],
+  "english_translation_text": [
+    "During the 1891 Anglo-Manipur War, British military columns advanced toward Kangla Palace via Kohima and Tamu through eastern hill passes.",
+    "The chiefs of Hunphun and Hundung maintained strategic diplomatic neutrality, guarding the mountain trails and securing their territories.",
+    "Tangkhul village councils granted humanitarian sanctuary to fleeing non-combatants, shielding the hill populations from military devastation."
+  ],
+  "chronicle_milestones": [
+    "1. March 1891: Palace uprising in Imphal resulting in the execution of Chief Commissioner Quinton and British officers.",
+    "2. April 1891: Three-pronged British invasion launched from Kohima, Silchar, and Tamu.",
+    "3. April 1891: Tangkhul village councils meet at Hundung pass; deliberate and enact non-belligerent defense covenants.",
+    "4. May 1891: Direct political administration established under Political Agent Major Maxwell; hill regions formally reorganized."
+  ],
+  "key_figures": [
+    "Chiefs of Hunphun & Hundung",
+    "Major Maxwell",
+    "Major General H. Collett",
+    "Village Council Arbitrators"
+  ],
+  "geographical_scope": "Eastern Manipur Hill Passes (Ukhrul-Hundung-Kangla Route)",
+  "historical_significance": "Demonstrated the strategic sovereign autonomy and diplomatic statesmanship of Tangkhul village polities during colonial conquest.",
+  "historical_terms": {
+    "Ralam-Gari": "Guarding the sovereign mountain pass",
+    "Khamasit-Pao": "Diplomatic peace pact and non-aggression declaration",
+    "Shimlut-Sang": "Granting humanitarian sanctuary to travelers in flight",
+    "Hangva-Ning": "Collective wisdom and verdict of the elder council"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "DIC-LSI-001",
+  "resource_type": "dictionaries",
+  "title": "Linguistic Survey of India: Tangkhul Vocabulary and Comparative Wordlist",
+  "title_translation": "Tangkhul Wordlist from Linguistic Survey of India",
+  "creator": "George A. Grierson",
+  "year": 1903,
+  "publisher": "Superintendent of Government Printing, Calcutta",
+  "language": "Tangkhul",
+  "language_pair": "English-Tangkhul",
+  "dialect": "Ukhrul",
+  "source_type": "wordlist",
+  "source_url": "https://dsal.uchicago.edu/books/lsi/",
+  "source_identifier": "LSI-Vol-III-Part-II",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/dictionaries/DIC-LSI-001_grierson_1903.txt",
+  "verification_status": "verified",
+  "notes": "Standard comparative vocabulary of 241 words and illustrative phrases in Tangkhul (Ukhrul variety), Vol. III, Part II. Public domain.",
+  "alternate_title": "Tangkhul Wordlist from Linguistic Survey of India",
+  "background": "Published in 1903 as part of Volume III, Part II of Sir George Abraham Grierson's monumental Linguistic Survey of India (LSI). Documents 241 standard comparative vocabulary items and grammatical paradigm tables elicited from native Tangkhul speakers in Ukhrul. One of the most widely cited early sources for Tibeto-Burman comparative linguistics.",
+  "phonology_notes": "Uses Roman orthography with acute accents and macrons for vowel length. Includes standard comparative numbering from 1 to 241 matching other languages across the British Indian Empire.",
+  "entries": [
+    {
+      "headword": "mi",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "man",
+        "human being",
+        "person"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Mi akha wui wari (Story of a certain man)."
+    },
+    {
+      "headword": "mayarnao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "boy",
+        "young man",
+        "son"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Mayarnao mayawon (Youthful and strong son)."
+    },
+    {
+      "headword": "ngalanao",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "girl",
+        "maiden",
+        "unmarried daughter"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Ngalanao kakhon (Adorned village maiden)."
+    },
+    {
+      "headword": "khamasung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "nose",
+        "olfactory organ"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Khamasung eina shiman (Smelling with the nose)."
+    },
+    {
+      "headword": "ha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tooth"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Ha kachang (White and healthy teeth)."
+    },
+    {
+      "headword": "murva",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "hair of the head"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Murva kaza (Braided traditional hair)."
+    },
+    {
+      "headword": "malei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tongue"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Malei kaphung (Tongue for human speech)."
+    },
+    {
+      "headword": "zingsho",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sun",
+        "solar sphere"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Zingsho rili (Basking in the morning sun)."
+    },
+    {
+      "headword": "kachang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "moon",
+        "lunar month"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Kachang kachung (Full moon night)."
+    },
+    {
+      "headword": "sirak",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "star",
+        "stellar point"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Sirak kachang (Twinkling star in the firmament)."
+    },
+    {
+      "headword": "kazing",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sky",
+        "weather",
+        "season"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 17",
+      "alternative_spellings": [],
+      "example": "Kazing mathasek (Clear blue mountain sky)."
+    },
+    {
+      "headword": "akha",
+      "part_of_speech": "num",
+      "definitions_en": [
+        "one",
+        "single"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 18",
+      "alternative_spellings": [],
+      "example": "Mi akha (One person alone)."
+    },
+    {
+      "headword": "khani",
+      "part_of_speech": "num",
+      "definitions_en": [
+        "two",
+        "pair"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 18",
+      "alternative_spellings": [],
+      "example": "Nao khani (Two sons in the household)."
+    },
+    {
+      "headword": "kathum",
+      "part_of_speech": "num",
+      "definitions_en": [
+        "three",
+        "triad"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 18",
+      "alternative_spellings": [],
+      "example": "Kum kathum (Three years passed)."
+    },
+    {
+      "headword": "mati",
+      "part_of_speech": "num",
+      "definitions_en": [
+        "four",
+        "quadruplet"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 18",
+      "alternative_spellings": [],
+      "example": "Shim mati (Four houses in the clan)."
+    },
+    {
+      "headword": "phanga",
+      "part_of_speech": "num",
+      "definitions_en": [
+        "five"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 18",
+      "alternative_spellings": [
+        "p hanga"
+      ],
+      "example": "Longkhor phanga (Five harvest baskets)."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "CULT-FEST-007",
+  "resource_type": "culture",
+  "title": "Khamang Phanit",
+  "title_translation": "Communal River Fishing & Walnut Bark Festival",
+  "creator": "Hundung & Ukhrul River Troupes",
+  "year": 1982,
+  "publisher": "Documented in Arokianathan 1982, Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Hundung / Ukhrul",
+  "village": "Hundung",
+  "category": "festival",
+  "subcategory": "communal_harvest",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruivah-1993-Ch4-Khamang",
+  "license": "Cultural Heritage Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-FEST-007_khamang_phanit.txt",
+  "verification_status": "verified",
+  "notes": "Autumn communal river expedition where river channels are treated with pulverized wild walnut root (Ngasung) to stun fish, accompanied by forest fellowship banquets.",
+  "indigenous_tangkhul_text": [
+    "Khamang phanitli tara kongli kazip, Hundung mibing saikora.",
+    "Ngasung thingron aparali shailaga tara kongli horhaisa.",
+    "Nga samphangda kaphung konglaoli ringkaphawui thotna mazaingasot."
+  ],
+  "english_translation_text": [
+    "At Khamang festival, the community gathers beside the mountain river channels.",
+    "Harvesting and pounding wild walnut root (Ngasung) to stun river fish naturally.",
+    "Sharing the bountiful catch in joyous forest fellowship banquets beneath the hills."
+  ],
+  "procedural_stages": [
+    "1. Gathering wild walnut root (Ngasung) and mountain herbal bark from high ridges.",
+    "2. Pounding the bark into fibrous pulp using wooden mallets on riverside rocks.",
+    "3. Releasing the sap into natural pools to temporarily stun river fish.",
+    "4. Communal harvesting of fish using conical cane nets and hands.",
+    "5. Riverside open-fire grilling and egalitarian distribution of fish among all clans."
+  ],
+  "ceremonial_participants": [
+    "River Troupes",
+    "Youth Dormitories",
+    "Village Elders"
+  ],
+  "seasonal_timing": "November / Autumn post-harvest season"
+}

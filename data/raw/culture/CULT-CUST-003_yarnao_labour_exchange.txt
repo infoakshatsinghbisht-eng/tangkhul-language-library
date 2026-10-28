@@ -1,0 +1,44 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-CUST-003
+TITLE: Yarnao Agricultural Labour Exchange
+TITLE TRANSLATION: Peer Labor Group Cooperative
+CATEGORY: custom | SUBCATEGORY: agricultural
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Youth & Farming Peer Groups
+PUBLICATION / SOURCE: Documented in Ruivah 1993
+SOURCE ID: Ruivah-1993-Ch5
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Mutual assistance cooperative where groups of young men and women rotate work across each member's terraced fields during sowing and harvesting seasons.
+
+[SEASONAL TIMING & OCCASION]
+Sowing, transplantation, and harvest agricultural seasons
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Youth and Adult Farming Cohorts
+- Host Households
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Formation of peer labor groups (Yarnao) among youths of similar age cohorts.
+2. Scheduling rotational workdays covering each member's terraced fields sequentially.
+3. Mutual provision of noon meal and rice beverage by the host household.
+4. Singing of rhythmic working chants to pace transplantation and weeding.
+5. Equal reciprocity: Each member owes an exact day of labor to every cohort member.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Yarnao mibingna ot kachida ngasoda luisang ot sai.
+Aja iwui luili, khama nawui luili, ringkaphada ngachon.
+Monsoon kazingli phungrei kongrei thata luisang kashung.
+
+[ENGLISH TRANSLATION & MEANING]
+Members of the Yarnao cooperative unite shoulder to shoulder in all terrace farm work.
+Today on my paddy, tomorrow on yours, supporting one another with joy and vigor.
+Under monsoon clouds, the terrace transplanting is accomplished through shared solidarity.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

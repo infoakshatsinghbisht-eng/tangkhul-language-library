@@ -1,0 +1,122 @@
+{
+  "id": "SNG-HIST-012",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 17: Arui Ngayali Ili Ngachonlu",
+  "alternate_titles": [
+    "Abide with Me (Tangkhul)",
+    "Hymn No. 17 (1907)"
+  ],
+  "title_translation": "Abide with Me in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "Henry F. Lyte (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "William H. Monk (Tune 297 | Doh is G)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-017",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-012_jesuwui_laa_17_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 17 from Jesuwui La: Hymns in Tangkhul Naga (1907). 6 complete stanzas translated by Rev. William Pettigrew.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Arui ngayali ili ngachonlu,",
+        "Tangmangtinghoda machihoalu.",
+        "Kataina mangachonlala Amai,",
+        "Nana ngachonrada, ithumna thai."
+      ],
+      "lines_translation": [
+        "Abide with me, fast falls the eventide;",
+        "The darkness deepens, Lord, with me abide.",
+        "When other helpers fail and comforts flee,",
+        "Help of the helpless, oh, abide with me."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Okkathui hi kashanaka pamli,",
+        "Ringkapha teoda thakta shimanli.",
+        "Mikumo pamli kashiman mang lai,",
+        "Na makashiman ishachaina."
+      ],
+      "lines_translation": [
+        "Swift to its close ebbs out life's little day;",
+        "Earth's joys grow dim, its glories pass away;",
+        "Change and decay in all around I see;",
+        "O Thou who changest not, abide with me."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Kharargida ili maraahi,",
+        "Lumashenda ili kharamihi;",
+        "Kakhanang thaida laishimaikapa,",
+        "Ishamai nana phamaikaplaka."
+      ],
+      "lines_translation": [
+        "Not a brief glance I beg, a passing word,",
+        "But as Thou dwell'st with Thy disciples, Lord,",
+        "Familiar, condescending, patient, free.",
+        "Come not to sojourn, but abide with me."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "lines_tangkhul": [
+        "Minute kachida ngachon phalungra,",
+        "Chipeena ili yuipaishinada;",
+        "Ringkashi pamli ringkaphahla;",
+        "Jesu namang ithumli huishapa."
+      ],
+      "lines_translation": [
+        "I need Thy presence every passing hour;",
+        "What but Thy grace can foil the tempter's power?",
+        "Who like Thyself my guide and stay can be?",
+        "Through cloud and sunshine, Lord, abide with me."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "lines_tangkhul": [
+        "Hi ngasoda laichinghaiaka,",
+        "Yenggashibingli ina yuishapra.",
+        "Kathila raok kangachee malai,",
+        "Kachingli nali thaira Ishamai."
+      ],
+      "lines_translation": [
+        "I fear no foe, with Thee at hand to bless;",
+        "Ills have no weight, and tears no bitterness.",
+        "Where is death's sting? Where, grave, thy victory?",
+        "I triumph still, if Thou abide with me."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "lines_tangkhul": [
+        "Ina piki kachiurana,",
+        "Iwui ngalemli pamda mayonra.",
+        "Kahor khara aina angkar thuida,",
+        "Einda thihaila Amaina huira."
+      ],
+      "lines_translation": [
+        "Hold Thou Thy cross before my closing eyes;",
+        "Shine through the gloom and point me to the skies.",
+        "Heaven's morning breaks, and earth's vain shadows flee;",
+        "In life, in death, O Lord, abide with me."
+      ]
+    }
+  ]
+}

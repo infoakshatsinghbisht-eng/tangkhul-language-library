@@ -1,0 +1,232 @@
+{
+  "id": "DIC-CIIL-001",
+  "resource_type": "dictionaries",
+  "title": "Tangkhul-English-Hindi Dictionary",
+  "title_translation": "Tangkhul-English-Hindi Trilingual Dictionary",
+  "creator": "Rekha Sharma, S. Arokianathan, E. Annamalai",
+  "year": 1995,
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English-Hindi",
+  "dialect": "Standard Tangkhul",
+  "source_type": "multilingual_dictionary",
+  "source_url": "https://sec.bharatavani.in/tangkhul/dictionaries",
+  "source_identifier": "CIIL-DS-1995-TKH",
+  "license": "Copyright Central Institute of Indian Languages",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-CIIL-001_ciil_1995.txt",
+  "verification_status": "verified",
+  "notes": "Trilingual dictionary in CIIL Dictionary Series mapping Tangkhul headwords to English and Hindi glosses. Digitized entry under review; metadata-only access preserved.",
+  "alternate_title": "Tangkhul-English-Hindi Trilingual Dictionary",
+  "background": "Part of the prestigious Dictionary Series published by the Central Institute of Indian Languages (CIIL) under the Ministry of Education, Government of India. Compiled by linguists Rekha Sharma and S. Arokianathan under the general editorship of E. Annamalai, this work provides trilingual glosses in English and Devanagari Hindi for standard Tangkhul vocabulary, accompanied by grammatical categorizations and semantic domain fields.",
+  "phonology_notes": "Incorporates systematic phonemic transcriptions and Devanagari transliteration alongside the standard Latin alphabet, making Tangkhul lexical items accessible to Indian multilingual scholars.",
+  "entries": [
+    {
+      "headword": "ngavā",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "bird",
+        "fowl",
+        "avian creature"
+      ],
+      "definitions_hi": [
+        "चिड़िया",
+        "पक्षी"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 92",
+      "alternative_spellings": [
+        "ngava"
+      ],
+      "example": "Ngavā kaphungli ngazap (Bird flying over the hills)."
+    },
+    {
+      "headword": "ngarun",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "horn",
+        "antler"
+      ],
+      "definitions_hi": [
+        "सींग"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 95",
+      "alternative_spellings": [],
+      "example": "Se ngarun khamatha (Fine mithun horns)."
+    },
+    {
+      "headword": "meikazing",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "lightning",
+        "atmospheric electrical flash"
+      ],
+      "definitions_hi": [
+        "बिजली",
+        "विद्युत"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 81",
+      "alternative_spellings": [],
+      "example": "Meikazing kazingli kashok (Lightning flashing across the sky)."
+    },
+    {
+      "headword": "kaphung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mountain",
+        "hill",
+        "high peak"
+      ],
+      "definitions_hi": [
+        "पहाड़",
+        "पर्वत"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 64",
+      "alternative_spellings": [],
+      "example": "Kaphung kachui pam (High mountain ridge)."
+    },
+    {
+      "headword": "kong",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "river",
+        "stream",
+        "brook",
+        "waterway"
+      ],
+      "definitions_hi": [
+        "नदी",
+        "सरिता",
+        "धारा"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 52",
+      "alternative_spellings": [],
+      "example": "Kongrei ngalomli kapam (Living near the great river)."
+    },
+    {
+      "headword": "chup",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to drink",
+        "to sip",
+        "to imbibe"
+      ],
+      "definitions_hi": [
+        "पीना",
+        "घूँट लेना"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 38",
+      "alternative_spellings": [],
+      "example": "Tara chupkhavai (To drink fresh water)."
+    },
+    {
+      "headword": "khazat",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to walk",
+        "to march",
+        "to step forward"
+      ],
+      "definitions_hi": [
+        "चलना",
+        "पदयात्रा करना"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 118",
+      "alternative_spellings": [],
+      "example": "Phei eina khazat (Walking forward on foot)."
+    },
+    {
+      "headword": "mathasek",
+      "part_of_speech": "adj",
+      "definitions_en": [
+        "clean",
+        "pure",
+        "spotless",
+        "unblemished"
+      ],
+      "definitions_hi": [
+        "साफ़",
+        "स्वच्छ",
+        "निर्मल"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 77",
+      "alternative_spellings": [],
+      "example": "Shim mathasek kasak (Keeping the home clean)."
+    },
+    {
+      "headword": "khalat",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to fill",
+        "to replenish",
+        "to pack full"
+      ],
+      "definitions_hi": [
+        "भरना",
+        "परिपूर्ण करना"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 112",
+      "alternative_spellings": [],
+      "example": "Longkhor khalat ngasak (Filling the conical basket)."
+    },
+    {
+      "headword": "won",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "flower",
+        "blossom",
+        "bloom"
+      ],
+      "definitions_hi": [
+        "फूल",
+        "पुष्प"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 195",
+      "alternative_spellings": [],
+      "example": "Shirui won kathi (The blooming of Shirui lily)."
+    },
+    {
+      "headword": "thei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "fruit",
+        "produce",
+        "crop yield"
+      ],
+      "definitions_hi": [
+        "फल"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 172",
+      "alternative_spellings": [],
+      "example": "Thing thei kaphapha (Sweet and healthy tree fruit)."
+    },
+    {
+      "headword": "kachang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "moon",
+        "lunar month",
+        "crescent"
+      ],
+      "definitions_hi": [
+        "चाँद",
+        "चन्द्रमा",
+        "महीना"
+      ],
+      "dialect": "Standard Tangkhul",
+      "page": "p. 59",
+      "alternative_spellings": [],
+      "example": "Kachang kakhang kazing (Bright moonlit sky)."
+    }
+  ]
+}

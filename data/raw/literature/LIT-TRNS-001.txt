@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KAKASHAK NAOMAYAWUI KHARARCHAN: PARABLE OF THE PRODIGAL SON IN TANGKHUL
+IDENTIFIER: LIT-TRNS-001 | GENRE: TRANSLATION
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kakashak Naomayawui Khararchan: Parable of the Prodigal Son in Tangkhul
+  Title Translation:     The Prodigal Son Parable Specimen in Tangkhul
+  Literary Genre / Type: translation (translation)
+  Author / Storyteller:  Rev. William Pettigrew
+  Publication Year:      1903
+  Publisher:             Superintendent of Government Printing, Calcutta
+  Village / Dialect:     Ukhrul [Ukhrul]
+  Source Identifier:     LSI-Vol-III-Part-II-Specimen
+  Source URL:            https://archive.org/details/linguisticsurvey03grierich
+  Associated Book:       BK-ARCH-001
+  License & Clearance:   Public Domain (public_domain)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Earliest formally documented continuous narrative prose translation in Tangkhul, published in Grierson's Linguistic Survey of India (1903). Demonstrates early 20th-century syntax and orthography.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  1903 kum Linguistic Survey of India-li Rev. William Pettigrew-wui Parable of the Prodigal Son Tangkhul translation publish sakya.
+  'Minao khani kakhaleiwui ngachonli, inawungana avashangli, "Ava, iwui share of property tharan mili," hithada tuitsang.'
+  Hina printed historical literature-li Tangkhul continuous narrative prose-wui earliest systematic specimen shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In 1903, Rev. William Pettigrew's Tangkhul translation of the Parable of the Prodigal Son was published in Grierson's Linguistic Survey of India.
+  'A certain man had two sons; and the younger of them said to his father, "Father, give me the portion of goods that falleth to me."'
+  This historic specimen provided comparative linguists with the earliest printed continuous prose text in the Tangkhul language.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * The pioneer specimen of formal Tangkhul printed narrative prose
+  * Syntactic adaptation of classical biblical parables into indigenous Ukhrul idiom
+  * Phonetic Roman orthography in its earliest historical transitional state
+
+STRUCTURE & POETIC METER: Continuous narrative prose with interlinear syntactic markers and comparative grammatical glosses.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Published in Grierson's LSI (Vol. III, Part III, Calcutta), this 1903 text is celebrated by linguists as the birth certificate of printed Tangkhul narrative literature.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Parable-Khararchan     : Allegorical teaching story / moral parable
+  * Inawunga               : The younger brother / younger son
+  * Avashang               : Respected father and household patriarch
+  * Share-Kaphun           : Apportioning of inheritance under customary law
+
+================================================================================
+END OF RECORD: LIT-TRNS-001 - Tangkhul Language Library Digital Archive
+================================================================================

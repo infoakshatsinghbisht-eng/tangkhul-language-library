@@ -1,0 +1,144 @@
+{
+  "id": "DIC-HIST-005",
+  "resource_type": "dictionaries",
+  "title": "Comparative Vocabulary of the Naga Tribes of Manipur (Tangkhul Section)",
+  "title_translation": "Comparative Vocabulary of the Naga Tribes of Manipur",
+  "creator": "T. C. Hodson",
+  "year": 1911,
+  "publisher": "Macmillan and Co., London",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Ukhrul / Hundung",
+  "source_type": "wordlist",
+  "source_url": "https://archive.org/details/nayatribesofmani00hodsrich",
+  "source_identifier": "Hodson-NTM-1911-App",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/dictionaries/DIC-HIST-005_hodson_1911.txt",
+  "verification_status": "verified",
+  "notes": "Comparative linguistic appendix from The Naga Tribes of Manipur covering numerals, anatomy, flora, fauna, and cultural institutions across Manipur hill tribes. Public domain.",
+  "alternate_title": "Comparative Vocabulary of the Naga Tribes of Manipur",
+  "background": "Published in 1911 by Macmillan and Co. in London as the linguistic and lexicographical appendix to T. C. Hodson's seminal ethnography 'The Naga Tribes of Manipur'. Systematically compares vocabularies of Tangkhul, Mao, Maram, Kabui, and Maring across standardized semantic lists: numerals, anatomical terms, fauna, agriculture, religion, kin relations, and traditional technology.",
+  "phonology_notes": "Harmonizes phonetic transcriptions across multiple hill languages, providing an invaluable early 20th-century comparative baseline for assessing phonetic correspondence and loanwords.",
+  "entries": [
+    {
+      "headword": "machi",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "salt",
+        "mineral brine salt cake currency"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 182",
+      "alternative_spellings": [],
+      "example": "Machi kongwui machi (Boiled salt cakes from the natural brine springs)."
+    },
+    {
+      "headword": "tarang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sacred forked sacrificial post",
+        "monument of merit"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 185",
+      "alternative_spellings": [],
+      "example": "Tarang kaphan (Erecting the forked sacrificial post)."
+    },
+    {
+      "headword": "maran",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "feast of merit",
+        "social elevation festival"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 186",
+      "alternative_spellings": [
+        "maran kasa"
+      ],
+      "example": "Maran kasa (Performing the great feast of merit cycle)."
+    },
+    {
+      "headword": "lengcheng",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "crossed roof-horns of prominent house"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 188",
+      "alternative_spellings": [],
+      "example": "Lengcheng shim (The roof-horned noble dwelling)."
+    },
+    {
+      "headword": "khamasit",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sacred taboo",
+        "genna prohibition rite"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 190",
+      "alternative_spellings": [],
+      "example": "Khamasit kachiphun (Observing community genna ritual abstention)."
+    },
+    {
+      "headword": "longshim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "clan youth dormitory",
+        "village educational house"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 192",
+      "alternative_spellings": [],
+      "example": "Longshimli kapam (Residing and learning in the dormitory)."
+    },
+    {
+      "headword": "luira",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "spring seed-sowing festival",
+        "first agrarian feast"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 194",
+      "alternative_spellings": [],
+      "example": "Luira phanit (The spring seed-sowing celebration)."
+    },
+    {
+      "headword": "chumpha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "post-harvest granary festival",
+        "blessing of harvest"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 195",
+      "alternative_spellings": [],
+      "example": "Chumpha phanit (The granary consecration feast)."
+    },
+    {
+      "headword": "mangkhap",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "post-transplantation resting festival"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 196",
+      "alternative_spellings": [],
+      "example": "Mangkhap phanit (Resting feast following paddy transplantation)."
+    },
+    {
+      "headword": "thisham",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "feast of departure for ancestral souls"
+      ],
+      "dialect": "Ukhrul / Hundung",
+      "page": "p. 198",
+      "alternative_spellings": [],
+      "example": "Thisham phanit (Ceremony guiding departed ancestral souls to the beyond)."
+    }
+  ]
+}

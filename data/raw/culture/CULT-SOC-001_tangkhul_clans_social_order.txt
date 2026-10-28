@@ -1,0 +1,120 @@
+================================================================================
+TANGKHUL CULTURAL HERITAGE ARCHIVE: TANGKHUL CLAN SYSTEM, KINSHIP & SOCIAL ORDER (SHANG, SHANGNAO KALA HANGVA)
+RESOURCE IDENTIFIER: CULT-SOC-001 | CATEGORY: CUSTOM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Clan System, Kinship & Social Order (Shang, Shangnao kala Hangva)
+  Title Translation:     Comprehensive Monograph on Tangkhul Patrilineal Clans, Exogamy Rules, Hereditary Governance, and Longshim Institutions
+  Category:              custom
+  Subcategory:           clan_system_and_social_order
+  Creator / Storyteller: Tangkhul Clan Genealogists, Hangva Council & Cultural Scholars
+  Year:                  1977
+  Publisher / Source:    Documented in Horam 1977, Hodson 1911, Ruivah 1993, Shimray 2000
+  Village / Dialect:     All Tangkhul Regions (Northern Raphei, Southern Kamo, Western Remva, Eastern Somra) [Standard Tangkhul (Ukhrul / Hunphun / Somdal / Phungcham)]
+  Permission Status:     community_authorized
+  Verification Status:   verified
+
+ETHNOGRAPHIC OVERVIEW & NOTES:
+  Foundational sociological and anthropological study of Tangkhul Naga social structure. Clarifies the complete absence of a caste system, examining instead the democratic patrilineal clan (Shang / Shangnao) structure, strict clan exogamy, village governance (Awunga and Hangva council), and youth dormitory institutions (Longshim).
+
+--------------------------------------------------------------------------------
+CULTURAL TEXT, INVOCATIONS, PROCEDURES & SOCIOLOGICAL DATA:
+--------------------------------------------------------------------------------
+
+[SOCIOLOGICAL FRAMEWORK]
+  Caste Clarification: The Tangkhul Naga people do NOT have a caste (varna or jati) system. Tangkhul society is fundamentally egalitarian, democratic, and non-hierarchical with respect to hereditary servitude. Social organization is instead governed by ancient patrilineal clans (Shang or Shangnao), clan exogamy, and village council democracy.
+  Kinship Principles:
+    - Patrilineal Descent: Clan membership and ancestral land inheritance pass through the male lineage.
+    - Strict Clan Exogamy (Shang wui Shimlut): Marriage between individuals of the same clan (Shang) is strictly forbidden. A breach of this law is termed 'Masi-kongra' (spiritual pollution requiring heavy customary purification and possible exile).
+    - Complementary Clan Alliances: Matrimonial unions create binding socio-economic covenants between complementary clans across and within villages.
+    - Egalitarian Wealth Redistribution: Wealthy villagers do not oppress poorer members; through the 'Maran Kasa' (Feast of Merit), wealth is communally consumed and redistributed, earning social honor rather than coercive dominion.
+
+[MAJOR PATRILINEAL CLANS (SHANGNAO)]
+
+  * Clan Name:     Shimray / Shimray-nao
+    Regions:       Hunphun (Ukhrul), Chingjaroi, Paorei, Phungcham
+    Historic Role: One of the most ancient and prominent patrician lineages; historically provides hereditary chiefs (Awunga) and supreme judicial arbiters; renowned custodians of oral covenants.
+    Insignia:      Hornbill crest (Langva) and royal spear insignia.
+
+  * Clan Name:     Luikham
+    Regions:       Hunphun, Nungbi, Tolloi, Ngaimu
+    Historic Role: Venerable agricultural and political lineage; historically entrusted with presiding over the inaugural sod-turning rites and boundary demarcation.
+    Insignia:      Terraced sheaf motif and sacred bronze gong.
+
+  * Clan Name:     Kasomwoshi
+    Regions:       Hunphun, Somdal, Huishu, Shirui
+    Historic Role: Celebrated custodians of philosophical jurisprudence, customary proverbs (Chanjam / Paotam), diplomatic arbitration, and literary history.
+    Insignia:      Carved council post and wisdom staff.
+
+  * Clan Name:     Zimik
+    Regions:       Northern Tangkhul (Raphei), Hunphun, Kharasom, Jessami borders
+    Historic Role: Prominent mountain lineage; renowned for high bravery, customary water irrigation covenants, and elder council leadership.
+    Insignia:      Mountain eagle and water spring symbol.
+
+  * Clan Name:     Vashum
+    Regions:       Hunphun, Teinem, Somdal, Lambui
+    Historic Role: Celebrated lineage renowned for warrior prowess, defense strategy, master woodcraft, and hunting ceremonial rites.
+    Insignia:      Crossed battle spears and wild boar tusks.
+
+  * Clan Name:     Shaiza
+    Regions:       Hunphun (Ukhrul), Somdal, Choithar
+    Historic Role: Highly influential patrician clan; has produced illustrious statesmen, writers, educators, political leaders, and cultural chroniclers.
+    Insignia:      Laurel wreath and ceremonial Haora weave.
+
+  * Clan Name:     Ruivah
+    Regions:       Somdal, Western Tangkhul (Remva), Phadang
+    Historic Role: Eminent lineage renowned for scholarship, customary law codification, pioneering education, and village arbitration.
+    Insignia:      Scroll and sunburst motif.
+
+  * Clan Name:     Shingnaisui
+    Regions:       Hunphun, Lunghar, Sihai
+    Historic Role: Ancient clan renowned for religious integrity, peace pacts (Phaikham), and inter-village diplomatic embassies.
+    Insignia:      Peace branch and white quartz emblem.
+
+  * Clan Name:     Sareo
+    Regions:       Eastern and Southern ranges (Kamo, Somra)
+    Historic Role: Respected lineage renowned for agricultural terrace mastery, hunting rites, and communal stewardship.
+    Insignia:      Terrace crescent and quiver.
+
+  * Clan Name:     A'Shao (AS)
+    Regions:       Hunphun ancestral village site
+    Historic Role: Foundational clan lineage with deep genealogical roots; custodians of original settlement lore and village hearth rights.
+    Insignia:      Ancient stone hearth and horn post.
+
+  * Clan Name:     Other Prominent Lineages
+    Regions:       Widespread across all Tangkhul valleys
+    Historic Role: Includes Kashung, Phungshok, Raleng, Kengoo, Mahongnao, Kaping, Muivah, Khangrah, Rungsung, Hongray, Chahong—each preserving specific village roles, clan lands, and hereditary seats in their local Hangva councils.
+    Insignia:      Distinctive clan weaving designs and ancestral heirlooms.
+
+[VILLAGE GOVERNANCE INSTITUTIONS]
+
+  >> Awunga (Hereditary Village King / Chief)
+     Jurisdiction: Supreme titular head of the village sovereign territory.
+     Functions:    Inaugurates annual festivals (Luira sod-turning); leads war defense in ancient times; acts as chief justice in conjunction with the Hangva council; maintains village boundaries with neighboring polities.
+
+  >> Hangva (Council of Village Clan Elders)
+     Jurisdiction: The supreme legislative, judicial, and executive assembly of the village.
+     Functions:    Composed of representative heads of each patrilineal clan (Shang); deliberates on property disputes, theft, customary restitution, divorce cases, and public infrastructure works.
+
+  >> Pikha / Khunbu (Sacred Priest & Land Custodian)
+     Jurisdiction: Spiritual rites and ancient sacrificial custody.
+     Functions:    Descendant of the foundational village settler; performs invocations at sacred groves; sanctifies boundaries; maintains oral knowledge of sacred spots.
+
+  >> Yarnao (Peer-Group Labor Cooperatives)
+     Jurisdiction: Youth and adult mutual-aid agricultural teams.
+     Functions:    Rotates intensive labor across member terraced paddy fields during planting, weeding, and harvesting; enforces social solidarity and youth discipline.
+
+  >> Longshim (Youth Dormitory Institution)
+     Jurisdiction: Central educational, military, and cultural institution.
+     Functions:    Divided into Mayarshim (boys dormitory) and Ngashim (girls dormitory). Served as indigenous universities teaching tribal history, etiquette, weaving, woodcraft, songcraft, and civic defense.
+
+--------------------------------------------------------------------------------
+CULTURAL HERITAGE PRESERVATION NOTICE:
+--------------------------------------------------------------------------------
+  * Transcribed and preserved according to authentic Tangkhul elder documentation
+  * Strict community authorized clearance for academic and cultural preservation
+
+================================================================================
+END OF RECORD: CULT-SOC-001 - Tangkhul Language Library Digital Archive
+================================================================================

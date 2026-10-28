@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: CONTEMPORARY TANGKHUL POETRY ANTHOLOGY (FIELD COLLECTION)
+IDENTIFIER: LIT-CAND-001 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Contemporary Tangkhul Poetry Anthology (Field Collection)
+  Title Translation:     Unpublished Village Poetry and Monologue Candidate Collection
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  Various Contemporary Poets
+  Publication Year:      2020
+  Publisher:             Community Manuscript
+  Village / Dialect:     Ukhrul [Ukhrul]
+  Source Identifier:     TDDP-LIT-2020-01
+  Source URL:            https://tangkhullanguage.org/archive/literature/fieldwork-2020
+  Associated Book:       None
+  License & Clearance:   Pending Community Clearance (pending)
+  Verification Status:   needs_review
+
+LITERARY OVERVIEW & CONTEXT:
+  Candidate collection of contemporary unpublished village poetry compiled during fieldwork; awaiting individual author clearance and formal orthographic review.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Contemporary Tangkhul Youth Writers Circle-na village fieldwork-li unpublished modern poems and monologues compile sakya.
+  Modern urban identity, mountain environmental ecology, social justice, kala digital era-wui youth reflections explore sakya.
+  Candidate collection-hi individual poet clearance kala formal orthographic review-wui pending status-li pama.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Compiled during village fieldwork in 2020, this candidate collection gathers unpublished poems by emerging Tangkhul writers.
+  Exploring modern urban identity, mountain ecology, social justice, and the dilemmas of youth in the digital era.
+  This candidate anthology is catalogued under ethical community protocols awaiting individual clearance and orthographic review.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Contemporary 21st-century youth poetry and free-verse innovation
+  * Environmental preservation of the fragile hill ridges and forests
+  * Diaspora identity and nostalgic yearning for ancestral roots
+
+STRUCTURE & POETIC METER: Contemporary free verse, experimental line breaks, and conversational poetic monologues.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Represents the active cutting edge of contemporary Tangkhul creative writing, bridging oral heritage with 21st-century global poetics.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Kathara-Laa            : Contemporary free verse / modern poetic composition
+  * Ning-Kashuk            : Reflective personal monologue
+  * Ramvum-Leishat         : Nostalgic yearning for the ancestral soil
+  * Mayarnao-Ning          : The youthful consciousness of the new generation
+
+================================================================================
+END OF RECORD: LIT-CAND-001 - Tangkhul Language Library Digital Archive
+================================================================================

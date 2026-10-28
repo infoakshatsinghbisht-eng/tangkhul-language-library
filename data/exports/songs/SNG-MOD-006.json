@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-006",
+  "resource_type": "songs",
+  "title": "Ningna Khamaya",
+  "alternate_titles": [],
+  "title_translation": "The Heart's Consent",
+  "singer": "Thangmeiso Shinglai",
+  "lyricist": "Thangmeiso Shinglai",
+  "composer": "Thangmeiso Shinglai",
+  "collector": null,
+  "performers": [
+    "Thangmeiso Shinglai"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-TS-002",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Contemporary romantic ballad on mutual devotion and longing.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Ningna khamaya leikashi wui maram.",
+        "Thot kachungli mashimanmana wuklungli."
+      ],
+      "lines_translation": [
+        "The heart's gentle consent in true mutual love.",
+        "Never perishing through the years, cherished deep within."
+      ]
+    }
+  ]
+}

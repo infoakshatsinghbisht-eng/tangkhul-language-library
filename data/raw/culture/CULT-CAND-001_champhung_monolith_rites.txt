@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-CAND-001
+TITLE: Champhung Village Sacred Monolith Rites
+TITLE TRANSLATION: Megalith Erection Rite at Champhung
+CATEGORY: ritual | SUBCATEGORY: megalithic
+VILLAGE / REGION: Champhung | DIALECT: Champhung
+CONTRIBUTOR / DOCUMENTATION: Champhung Community Elders
+PUBLICATION / SOURCE: Field Documentation Candidate
+SOURCE ID: TDDP-CULT-2019-01
+SOURCE URL: https://tangkhullanguage.org/archive/culture/champhung-monolith
+PERMISSION: pending | ACCESS: metadata_only
+VERIFICATION: needs_review
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Fieldwork documentation on commemorative stone pulling and monolith erection rites in Champhung village. Candidate record awaiting full elder review and clan clearance.
+
+[SEASONAL TIMING & OCCASION]
+Dry winter post-harvest season (Candidate status: needs_review)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Champhung Clan Leaders
+- Feast Giver
+- Village Hauling Teams
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Selection of monumental stone in riverbed or quarry by the feast giver.
+2. Crafting heavy wooden sledge and twisting long creepers/cane ropes.
+3. Village-wide communal dragging (Lungphung) accompanied by rhythmic hauling chants.
+4. Erection of monolith along traditional village approach ridge.
+5. Communal feast of merit celebrating the accomplishment and elder blessings.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Champhung kaphungli lungphung kashak avava apuipui wui ngashan.
+Lungrei kakatli iram mibing kangarum, ot phungda thotli ringpha.
+Champhung dialectli tui khamata, candidate record elder reviewli.
+
+[ENGLISH TRANSLATION & MEANING]
+In Champhung village, commemorative stone-pulling preserves the megalithic honors of ancestors.
+The entire village unites with cane ropes to pull massive monoliths to commemorate prestige feasts.
+Preserving distinct Champhung dialect terms, currently undergoing community review and elder clearance.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

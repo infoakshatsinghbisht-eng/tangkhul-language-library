@@ -1,0 +1,113 @@
+================================================================================
+TANGKHUL CULTURAL HERITAGE ARCHIVE: TANGKHUL SACRED RITUALS, CEREMONIES & TABOOS (PHANIT, KAKHANGASO KALA KHAMASIT)
+RESOURCE IDENTIFIER: CULT-RIT-003 | CATEGORY: RITUAL
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Sacred Rituals, Ceremonies & Taboos (Phanit, Kakhangaso kala Khamasit)
+  Title Translation:     Master Archive of Tangkhul Lifecycle Ceremonies, Agrarian Rites, and Sacred Taboo Observances
+  Category:              ritual
+  Subcategory:           lifecycle_and_agrarian_rituals
+  Creator / Storyteller: Tangkhul Hereditary Custodians & Village Elders
+  Year:                  1911
+  Publisher / Source:    Documented in Hodson 1911, Horam 1977, Ruivah 1993
+  Village / Dialect:     Ukhrul / Hunphun [Standard Tangkhul (Ukhrul / Hunphun)]
+  Permission Status:     community_authorized
+  Verification Status:   verified
+
+ETHNOGRAPHIC OVERVIEW & NOTES:
+  Comprehensive archival codification of Tangkhul ceremonial life: agrarian seasonal rites (Luira, Chumpha, Mangkhap, Dharreo), human lifecycle rituals (birth, naming, youth dormitory induction, marriage, house dedication, death), prestige feast cycles (Maran Kasa), chiefly enthronement, and sacred taboo (Khamasit / Genna) observances.
+
+--------------------------------------------------------------------------------
+CULTURAL TEXT, INVOCATIONS, PROCEDURES & SOCIOLOGICAL DATA:
+--------------------------------------------------------------------------------
+
+[CEREMONIAL CYCLE: Agrarian Ritual Cycle (Luisak Kakhangaso)]
+
+  * Rite: Luira Shimlut-kaphung (First Sowing Rite)
+    Timing:        January / February (Spring seed-sowing)
+    Presiding:     Awunga (Hereditary Village Chief)
+    Description:   At dawn on the first day of Luira Phanit, the chief turns the ceremonial first clod of earth and sows seeds before any villager may begin cultivation, accompanied by libations and wrestling (Kaphung).
+    Significance:  Sanctifies communal agriculture and establishes cosmological harmony between the soil and the village lineage.
+
+  * Rite: Chumkhur Kakhon (Granary Consecration Rite)
+    Timing:        December (Post-harvest thanksgiving)
+    Presiding:     Senior Female Clan Custodians (Shanao mibing)
+    Description:   Ceremonial unlocking and fumigation of the granary (Chum); ritual transfer of keys and first invocation of blessing over newly harvested rice.
+    Significance:  Honors women as custodians of grain, life, and domestic prosperity in Tangkhul custom.
+
+  * Rite: Mangkhap Kaphung (Transplantation Rest Rite)
+    Timing:        July (Post-transplantation midsummer)
+    Presiding:     Village Farming Guilds & Lineage Elders
+    Description:   Communal purification of spade, hoe, and sickle; ceremonial consumption of fermented rice brew (Khor); seven-day period of agricultural stillness.
+    Significance:  Allows fields and bodies to recuperate; prevents early pestilence through ritual rest.
+
+  * Rite: Dharreo Invocations (Pre-Harvest Shielding Rite)
+    Timing:        October (Pre-harvest autumn)
+    Presiding:     Pikha (Priest) & Clan Elders
+    Description:   Placement of ceremonial bamboo charms around terraced perimeters to ward off unseasonable hail, violent gales, and rodent swarms.
+    Significance:  Guarantees that the golden harvest reaches the granaries unmolested by natural calamities.
+
+[CEREMONIAL CYCLE: Lifecycle Rites of Passage (Thotkakhui Kakhangaso)]
+
+  * Rite: Naothara Kaphok & Samkhui (Birth, Naming & Ear-Piercing)
+    Timing:        Infancy (Within five days of birth)
+    Presiding:     Maternal Uncle (Ato) & Midwives
+    Description:   Newborn infant purificatory bath; severance of umbilical cord with sterile bamboo blade; divination of ancestral clan name (Shang wui Ming); ceremonial ear-piercing.
+    Significance:  Integrates the newborn into the patrilineal clan and ancestral cosmological lineage.
+
+  * Rite: Longshim Induction Ceremony
+    Timing:        Puberty / Adolescence (Ages 12-14)
+    Presiding:     Longshim Elders & Ward Leaders
+    Description:   Formal entrance into Mayarshim (boys dormitory) or Ngashim (girls dormitory); presentation of first handwoven Haora or Kashan attire; instruction in martial defense, weaving, and oral songs.
+    Significance:  Civic graduation from domestic dependence to communal responsibility and village defense.
+
+  * Rite: Manom & Shimlut (Customary Marriage Rites)
+    Timing:        Adulthood (Winter post-harvest season)
+    Presiding:     Clan Negotiators & Village Hangva Council
+    Description:   Formal betrothal negotiation between exogamous clans; presentation of bridal attire (Chonkhom, Seichan) and bronze gongs (Sanam); nuptial banquet and elder blessings.
+    Significance:  Binds two distinct clans in perpetual mutual covenant and socio-economic alliance.
+
+  * Rite: Shimsa (House Dedication & Hearth Consecration)
+    Timing:        Upon completion of a new timber dwelling
+    Presiding:     Master Builders & Village Invocators
+    Description:   Ritual kindling of the new hearth fire using traditional flint stones (Meitai); libation of rice beer at threshold; installation of protective ancestral charms.
+    Significance:  Transforms physical architecture into a living sanctum protected by ancestral spirits.
+
+  * Rite: Thisham Phanit (The Great Memorial Feast of the Dead)
+    Timing:        Winter (December / January)
+    Presiding:     Clan Lineage Heads & Departed Souls Custodians
+    Description:   Ten-day solemn festival commemorating all souls deceased during the year; lighting of resinous pine torches (Meira Kaphit) to guide souls to Kasa Akhava; farewell banquet.
+    Significance:  Ensures that departed spirits transition peacefully to the ancestral spirit realm without lingering in distress.
+
+[CEREMONIAL CYCLE: Prestige, Chiefly & Societal Rites]
+
+  * Rite: Maran Kasa (The Multi-Stage Feast of Merit)
+    Timing:        Lifetime milestone (After exceptional agricultural wealth)
+    Presiding:     Benefactor Couple, Awunga & Entire Village Council
+    Description:   Five-tier progressive feast cycle hosting the entire village; sacrificial feast of mithun and cattle; confers the lifelong privilege of erecting the horned Tarang post and Lengcheng roof structure.
+    Significance:  Redistributes personal wealth communally, cementing high moral prestige without permanent social stratification.
+
+  * Rite: Awunga Enthronement & Sacred Oath Ceremony
+    Timing:        Upon succession of the hereditary village chief
+    Presiding:     Hangva Council of Elders & Clan Representatives
+    Description:   Investiture of the new chief; drinking from the ancestral buffalo horn cup; swearing the sacred covenant of boundary protection, customary equity, and peace.
+    Significance:  Renews the constitutional authority of village governance and judicial integrity.
+
+[CEREMONIAL CYCLE: Khamasit & Khamthei (Sacred Taboo & Genna Observances)]
+
+  * Rite: Village Boundary Khamthei (Quarantine & Taboo Closure)
+    Timing:        During epidemics, lightning strikes, or after tragic deaths
+    Presiding:     Awunga & Village Herald
+    Description:   Sealing of all village entry pathways with green sprigs; complete cessation of farm labor and travel; day of absolute village stillness.
+    Significance:  Prevents contamination, restores spiritual purity, and averts supernatural displeasure.
+
+--------------------------------------------------------------------------------
+CULTURAL HERITAGE PRESERVATION NOTICE:
+--------------------------------------------------------------------------------
+  * Transcribed and preserved according to authentic Tangkhul elder documentation
+  * Strict community authorized clearance for academic and cultural preservation
+
+================================================================================
+END OF RECORD: CULT-RIT-003 - Tangkhul Language Library Digital Archive
+================================================================================

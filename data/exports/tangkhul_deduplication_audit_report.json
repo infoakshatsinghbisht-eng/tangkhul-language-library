@@ -1,0 +1,55 @@
+{
+  "report_title": "Tangkhul Language Library Comprehensive Deduplication & Integrity Audit",
+  "audit_timestamp": "2026-10-28T12:00:00Z",
+  "manifest_audit": {
+    "total_manifests_checked": 6,
+    "manifest_record_counts": {
+      "books.jsonl": 35,
+      "culture.jsonl": 35,
+      "dictionaries.jsonl": 16,
+      "history.jsonl": 32,
+      "literature.jsonl": 60,
+      "songs.jsonl": 48
+    },
+    "total_records": 226,
+    "global_id_duplicates": 0,
+    "status": "PASSED (Zero duplicate IDs across all catalogues)"
+  },
+  "dictionary_audit": {
+    "dataset_name": "Tangkhul Master Lexicon & Dictionary",
+    "original_raw_entries": 6773,
+    "deduplicated_unique_entries": 6480,
+    "duplicates_merged_count": 293,
+    "unique_headword_keys": 6480,
+    "duplicate_keys_resolved": 240
+  },
+  "riddles_audit": {
+    "total_riddles": 400,
+    "duplicate_riddles": 0,
+    "unique_numbers": "1 through 400 complete without gaps"
+  },
+  "proverbs_audit": {
+    "total_proverbs": 35,
+    "duplicate_proverbs": 0,
+    "unique_ids": "PAOCHAM-001 through PAOCHAM-035 complete"
+  },
+  "scriptures_and_epics_audit": {
+    "total_works": 4,
+    "duplicate_works": 0,
+    "work_ids": [
+      "LIT-SCRP-001",
+      "LIT-EPIC-001",
+      "LIT-EPIC-002",
+      "LIT-EPIC-003"
+    ]
+  },
+  "prayers_rituals_clans_audit": {
+    "total_modules": 3,
+    "duplicate_records": 0,
+    "record_ids": [
+      "CULT-PRAY-001",
+      "CULT-RIT-003",
+      "CULT-SOC-001"
+    ]
+  }
+}

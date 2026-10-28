@@ -1,0 +1,76 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KASOMWOSHI KALA KHAYING-SHA
+IDENTIFIER: LIT-FLK-014 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kasomwoshi Kala Khaying-Sha
+  Title Translation:     Kasomwoshi and the Spirit Beast of the Deep Forest
+  Literary Genre / Type: folk_tale (folk_tale, oral_narrative)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages / Tangkhul Folk Archives
+  Village / Dialect:     Kasom [Southern Tangkhul / Standard Tangkhul]
+  Source Identifier:     CIIL-FLK-1982-KKS
+  Source URL:            https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Traditional Oral Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Ancestral southern Tangkhul ecological legend recounting the master hunter Kasomwoshi's encounter with the sacred forest guardian beast Khaying-Sha in the Somra forests.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Somra phungkhuili kapam thikashung mayarnao Kasomwoshi, ngaleiwui changvei eina malen kathānao khare.
+  Chitharan khaying ngashitpamli zatta mayarnao, ngalei mashun kahao ngashitphungli Khaying-Sha thurahaowa.
+
+  Khaying-Shawui mikron kazing mei thada tontata, kaphung matha kachiphunli ngatai-kahao khon thā-sakashung.
+  'I-ramwui sha kala thingwon mashukalu!' da, kaphung ngalei katharao wui khon ningli ngarormanda.
+
+  Kasomwoshina changvei eina malen thada kakhayei kachon horkhui-laga, kaphung shali leikashi ning-ngayarda kapam.
+  Khamashung shatung kazat mayarnao hi ningkacham eina phung-ngathangli mayon-kazat rathat-lakmana.
+
+  Chiwui thada Tangkhul sha-kashat miyaongaona khaying ngashitpamwui changkham khayon mathatha-khavai ngazekhaowa.
+  Ngaleiwui sha kala thingwon maningmana eina kaphung katharao ningchot khavai tuitam hi ringda pamhaora.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In the rugged mountain ridges of Somra lived the renowned master hunter Kasomwoshi, skilled with lance and iron arrow.
+  Venture he did into the primeval sanctuary of the sacred forest, where the ancient guardian beast Khaying-Sha arose.
+
+  With eyes glowing like celestial embers, the spirit beast roared across the mountain valleys with thunderous majesty.
+  'Do not pillage the wild creatures nor strip bare the fragrant flowering forest canopy!' echoed the guardian voice.
+
+  Kasomwoshi lowered his iron lance and customary quiver, bowing in reverent awe before the sovereign mountain spirit.
+  The righteous hunter understood that mountain stewardship requires restraint, humility, and customary covenant.
+
+  Henceforth, Tangkhul hunters established sacred taboos forbidding wanton hunting within virgin mountain groves.
+  This ancient lore lives on, commanding youth to preserve ancestral forests and honor the ecological spirit of the hills.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Sacred mountain hunting taboos and forest conservation (*Khaying Ngashitpam*)
+  * Encounter with the primordial forest spirit beast (*Khaying-Sha*)
+  * Ecological restraint, customary ethics, and indigenous stewardship
+  * Ancestral spiritual reverence for high ridge sanctuaries and wildlife
+
+STRUCTURE & POETIC METER: Epic oral narrative composed in traditional heptametric verse with didactic prose intermezzos.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A foundational environmental folktale from the southern Tangkhul and Somra borderlands. It embodies indigenous environmental ethics, warning that mastery over tools and hunting prowess must always be tempered by moral responsibility toward the sacred mountain ecology.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Khaying-Sha            : Primordial spirit beast / mythological guardian of deep mountain forests
+  * Changvei               : Customary Tangkhul warrior lance adorned with dyed goat hair
+  * Malen                  : Customary hunting quiver crafted from cured bamboo and mountain hide
+  * Shakashat              : The traditional art, protocol, and clan laws of mountain hunting
+
+================================================================================
+END OF RECORD: LIT-FLK-014 - Tangkhul Language Library Digital Archive
+================================================================================

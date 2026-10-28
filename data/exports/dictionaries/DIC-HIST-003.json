@@ -1,0 +1,170 @@
+{
+  "id": "DIC-HIST-003",
+  "resource_type": "dictionaries",
+  "title": "Comparison of Indo-Chinese Languages: Tangkhul (Luhuppa) and Champhung Vocabularies",
+  "title_translation": "Comparison of Indo-Chinese Languages",
+  "creator": "Nathan Brown, George Gordon",
+  "year": 1837,
+  "publisher": "Journal of the Asiatic Society of Bengal, Vol. 6, Calcutta",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Luhuppa & Champhung",
+  "source_type": "wordlist",
+  "source_url": "https://biostor.org/reference/111387",
+  "source_identifier": "JASB-Vol-VI-1837",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/dictionaries/DIC-HIST-003_brown_1837.txt",
+  "verification_status": "verified",
+  "notes": "Earliest published comparative lexical wordlist of the Tangkhul language and the archaic Champhung variety collected by Capt. George Gordon and published in 1837 by Nathan Brown in JASB. Out of copyright.",
+  "alternate_title": "Comparison of Indo-Chinese Languages",
+  "background": "Published in 1837 in the Journal of the Asiatic Society of Bengal (Vol. 6, pp. 1023-1038) by American Baptist missionary and scholar Nathan Brown. The lexical elicitations were collected by Captain George Gordon, Political Agent in Manipur, and document two distinct varieties: the northern Luhuppa (Tangkhul) and the archaic Champhung language. This is the earliest known published comparative wordlist for any Tangkhulic speech variety, predating McCulloch by 22 years.",
+  "phonology_notes": "Transcribed using early 19th-century British orientalist Roman orthography. Preserves archaic Champhung initial clusters and distinct lexical cognates before extensive 20th-century levelling.",
+  "entries": [
+    {
+      "headword": "mi",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "man",
+        "human person"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1028",
+      "alternative_spellings": [
+        "mī"
+      ],
+      "example": "Mī ahkā (One human person)."
+    },
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mouth",
+        "spoken voice",
+        "speech"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1029",
+      "alternative_spellings": [
+        "khahmōr"
+      ],
+      "example": "Khamor tui (Spoken voice of the people)."
+    },
+    {
+      "headword": "tara",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "water",
+        "stream liquid"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1030",
+      "alternative_spellings": [
+        "tahrā"
+      ],
+      "example": "Tara chup (Drinking fresh river water)."
+    },
+    {
+      "headword": "mei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "fire",
+        "hearth fire",
+        "flame"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1030",
+      "alternative_spellings": [
+        "may"
+      ],
+      "example": "Mei katum (Lighting the central fire)."
+    },
+    {
+      "headword": "kazing",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sky",
+        "heavens",
+        "atmosphere"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1031",
+      "alternative_spellings": [
+        "kahzeeng"
+      ],
+      "example": "Kazing ngalem (Underneath the open sky)."
+    },
+    {
+      "headword": "ngalung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "stone",
+        "rock",
+        "megalith"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1031",
+      "alternative_spellings": [
+        "nahloong"
+      ],
+      "example": "Ngalung kachui (A great rock monument)."
+    },
+    {
+      "headword": "shim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "house",
+        "dwelling",
+        "roofed shelter"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1032",
+      "alternative_spellings": [
+        "sheem"
+      ],
+      "example": "Shim kathara (A new clan house)."
+    },
+    {
+      "headword": "pang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "hand",
+        "arm"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1032",
+      "alternative_spellings": [
+        "pahng"
+      ],
+      "example": "Pang eina ot kasa (Working with hand labor)."
+    },
+    {
+      "headword": "phei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "foot",
+        "leg"
+      ],
+      "dialect": "Luhuppa / Northern Tangkhul",
+      "page": "p. 1033",
+      "alternative_spellings": [
+        "phee"
+      ],
+      "example": "Phei eina khazat (Walking upon one's feet)."
+    },
+    {
+      "headword": "lengvai",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "village gate",
+        "ceremonial portal"
+      ],
+      "dialect": "Champhung",
+      "page": "p. 1035",
+      "alternative_spellings": [
+        "layngvai"
+      ],
+      "example": "Lengvaili kapam (Standing at the fortified village portal)."
+    }
+  ]
+}

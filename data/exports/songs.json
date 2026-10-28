@@ -1,0 +1,3131 @@
+[
+  {
+    "id": "SNG-TRAD-001",
+    "resource_type": "songs",
+    "title": "Shimreishang Kala Maitonphi",
+    "alternate_titles": [
+      "Ashang Aton Laa",
+      "The Ballad of Shimreishang and Maitonphi"
+    ],
+    "title_translation": "Ballad of Shimreishang and Maitonphi",
+    "singer": "Traditional",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Phungcham Village Elders / Oral Tradition",
+    "performers": [],
+    "year": null,
+    "village": "Phungcham",
+    "dialect": "Phungcham / Standard Tangkhul",
+    "song_type": "ballad",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TRAD-PHUNG-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Legendary 17th-century tragic romance ballad originating from Phungcham village. Documented in oral histories and theatrical works.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Shimreishangwui ningli leikashi lei.",
+          "Atonphi kachihi ramwui won kapha.",
+          "Phungcham kongrei wui ngaloong pamei."
+        ],
+        "lines_translation": [
+          "Love dwells deep in the heart of Shimreishang.",
+          "Maitonphi is the fairest flower of the land.",
+          "Beside the clear running streams of Phungcham."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Iram Phungchamli ningkachon pamei.",
+          "Chitharan leikashi thot khangatei lei.",
+          "Atonphi wui sam kaphana won thada."
+        ],
+        "lines_translation": [
+          "In our Phungcham village, deep affection grew.",
+          "At that sacred time, our generation was transformed by love.",
+          "Maitonphi's beauty blossomed like the wild mountain flower."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Shimreishang na khangayei wui tui kashak.",
+          "Thot kachungli mashimanpaimana.",
+          "Vare wui ningli leikashi kasakna."
+        ],
+        "lines_translation": [
+          "Shimreishang's enduring vow of lifelong faithfulness.",
+          "Shall never fade through the turning of generations.",
+          "Under the divine gaze of the Creator, true love endures."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-002",
+    "resource_type": "songs",
+    "title": "Haola: Luira Laa",
+    "alternate_titles": [
+      "Luira Phanit Laa",
+      "Seed-Sowing Festival Song"
+    ],
+    "title_translation": "Song of the Luira Festival",
+    "singer": "Traditional Community Chorus",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Tangkhul Literature Society / CIIL",
+    "performers": [],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "festival",
+    "language": "Tangkhul",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-HAOLA-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Ritual seed-sowing festival (Luira Phanit) ceremonial chant invoking agricultural blessings and ancestral protection.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Luira phanitli kaphung ngasak.",
+          "Iram Ukhrul wui phanit kaphana.",
+          "Thot kachungwui kashan thotna."
+        ],
+        "lines_translation": [
+          "At the Luira seed-sowing festival, the hills rejoice.",
+          "The auspicious celebration of our mountain homeland.",
+          "Passed down through ancient ancestral generations."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Awunga wui kakhon aina lui kahon.",
+          "Luiram kachivali luira kathara.",
+          "Vareli khorumda thot kapha kasam."
+        ],
+        "lines_translation": [
+          "Led by the solemn invocation of the village chief.",
+          "The sacred seed grains are blessed across every field.",
+          "Bowing before the Creator for a bountiful harvest year."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Mayarnaomaya wui pheichak khangatei.",
+          "Luira won kapha iramli khawon.",
+          "Kaphung konglao aina ngasoda yuilu."
+        ],
+        "lines_translation": [
+          "The maidens and warriors step in traditional dance.",
+          "The finest blossoms of youth adorn our village.",
+          "Echoing across every hill and river gorge."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-003",
+    "resource_type": "songs",
+    "title": "Haola: Chumpha Laa",
+    "alternate_titles": [
+      "Chumpha Festival Song",
+      "Harvest Festival Chant"
+    ],
+    "title_translation": "Harvest Festival Chant",
+    "singer": "Traditional Community Chorus",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Tangkhul Literature Society",
+    "performers": [],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "festival",
+    "language": "Tangkhul",
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-CHUMPHA-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Post-harvest celebration song sung during Chumpha Phanit when granaries are consecrated.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Chumpha phanitli shim mashak khare.",
+          "Luiwon kapha khangasham thotna.",
+          "Kongrei konglao wui ngaloong pamei."
+        ],
+        "lines_translation": [
+          "At the Chumpha harvest feast, granaries are blessed.",
+          "Reaping the abundance of the terrace fields.",
+          "Beside the flowing rivers and eternal stones."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Apuipui na mashak kaphung kashung.",
+          "Maha wui kashamli ringkapha mazaingasot.",
+          "Phanit wui tara kachom kaphana."
+        ],
+        "lines_translation": [
+          "The matriarchs open and consecrate the rich granaries.",
+          "Rejoicing in the fullness of gathered autumn crops.",
+          "Sharing the festive feast in community harmony."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-004",
+    "resource_type": "songs",
+    "title": "Haola: Khangrei Laa",
+    "alternate_titles": [
+      "Longshim Courting Song"
+    ],
+    "title_translation": "Youth Dormitory Courting Song",
+    "singer": "Traditional",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Dr. Ringkahao Horam",
+    "performers": [],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-HAOLA-002",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Traditional youth courting chant performed during gatherings at the Longshim (traditional youth dormitory).",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Longshimli mi kazipngahei.",
+          "Mayarnaomaya wui won kapha.",
+          "Chitharan thotli leishat pamei."
+        ],
+        "lines_translation": [
+          "The youth assemble at the Longshim dormitory.",
+          "The finest flowers among young men and maidens.",
+          "In that evening circle, true love awakens."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Khangrei laawui khon kaphana kongrei thata.",
+          "Wuklungli kakhanang mapammana.",
+          "Ringkaphawui thot khangatei iramli."
+        ],
+        "lines_translation": [
+          "The courting melody flows sweetly like the mountain stream.",
+          "No grief or heaviness can linger in the heart.",
+          "The radiant joy of our ancestral generation shines bright."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-005",
+    "resource_type": "songs",
+    "title": "Haola: Thisham Laa",
+    "alternate_titles": [
+      "Feast of the Dead Lament"
+    ],
+    "title_translation": "Lamentation for the Departed Souls",
+    "singer": "Traditional",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Tangkhul Literature Society",
+    "performers": [],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "lament",
+    "language": "Tangkhul",
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-THISHAM-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Memorial lamentation chanted during Thisham, the final ancestral send-off feast for departed souls.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Thishamwui phanitli kaphung ngakhalat.",
+          "Mangkhapwui kashak thot khanganatei.",
+          "Avava apuipui wui ngashan kasak."
+        ],
+        "lines_translation": [
+          "At the Thisham memorial feast, the mountain stands silent.",
+          "Honoring the departed souls in solemn reverence.",
+          "Preserving the sacred customs of our fathers and mothers."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Kathi kazingli mangla chatkahai.",
+          "Kazingramwui kaphungli shomkakhui.",
+          "Iram wui leikashi thot mashimanmana."
+        ],
+        "lines_translation": [
+          "Into the ancestral spirit realm, the soul journeys.",
+          "Guided toward the sacred heights of the celestial hills.",
+          "The loving memory of our kindred shall never fade."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-006",
+    "resource_type": "songs",
+    "title": "Haola: Ngashan Laa",
+    "alternate_titles": [
+      "Haora Kashan Laa"
+    ],
+    "title_translation": "Song of the Traditional Shawl and Attire",
+    "singer": "Traditional",
+    "lyricist": null,
+    "composer": null,
+    "collector": "H. Kamkhenthang",
+    "performers": [],
+    "year": 1989,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "ceremonial",
+    "language": "Tangkhul",
+    "source_url": null,
+    "source_identifier": "TRI-FS-1989-01",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Cultural Heritage",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Ceremonial song celebrating Tangkhul traditional woven garments (Haora, Luirim) and cultural heritage.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Haora kashan wui won kachiphun.",
+          "Luirim chongkhom aina ngakhangaso.",
+          "Iram Tangkhul wui mashun themthot."
+        ],
+        "lines_translation": [
+          "Adorned in the woven glory of the traditional Haora shawl.",
+          "Blending the rich crimson and black stripes of Luirim.",
+          "The dignity and cultural artistry of our Tangkhul land."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Kharao apuina kashak ngashan.",
+          "Thot kachungli iramli mazaikahai.",
+          "Kaphung konglaoli pheikao ngasak."
+        ],
+        "lines_translation": [
+          "Woven by the skilled hands of our ancestral mothers.",
+          "Passed down through centuries as our cultural treasure.",
+          "Danced with pride across the mountain heights."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-007",
+    "resource_type": "songs",
+    "title": "Haola: Mawon Laa",
+    "alternate_titles": [
+      "Tangkhul Lullaby and Blessing"
+    ],
+    "title_translation": "Lullaby and Blessing",
+    "singer": "Traditional",
+    "lyricist": null,
+    "composer": null,
+    "collector": "S. Arokianathan / CIIL",
+    "performers": [],
+    "year": 1982,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "lullaby",
+    "language": "Tangkhul",
+    "source_url": null,
+    "source_identifier": "CIIL-FS-1982-01",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Cultural Heritage",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Traditional lullaby and maternal blessing chant recorded in CIIL Tangkhul Folk Literature collection.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Naoshinao iharing won kaphara.",
+          "Pukli pammaida zikahailu.",
+          "Kazingramwui Varina mayonmira."
+        ],
+        "lines_translation": [
+          "O precious little child, radiant bloom of my life.",
+          "Rest softly in peace upon your mother's breast.",
+          "The heavenly Creator shall watch over your slumber."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Khararchan kapha nawui thotli lura.",
+          "Iram wui mayar ngala kachungkana.",
+          "Won thada rakhawon kaphung kachungli."
+        ],
+        "lines_translation": [
+          "May wisdom and goodness guide your steps in youth.",
+          "Growing tall and noble among the children of our village.",
+          "Blossoming like the fairest flower upon our mountains."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-COL-001",
+    "resource_type": "songs",
+    "title": "The Tangkhul Folk Poetry in Song (HAOLA)",
+    "alternate_titles": [
+      "Haola Collection"
+    ],
+    "title_translation": "The Tangkhul Folk Poetry in Song",
+    "singer": "Various Traditional Performers",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Dr. Ringkahao Horam",
+    "performers": [],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-SANCHIKA-HAOLA",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Academic Research / CIIL",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Comprehensive research compilation of Tangkhul oral poetry and musical chants catalogued at CIIL Bhasha Sanchika.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Hao laawui khon kongrei thata ngaloong.",
+          "Avava apuipui wui tui kashak.",
+          "Kaphung konglaoli ringkapha khangaso."
+        ],
+        "lines_translation": [
+          "The melody of Hao Laa flows like an untamed mountain river.",
+          "The sacred oral poetry of our ancestral fathers and mothers.",
+          "Echoing joyous harmony through hills and forested gorges."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-COL-002",
+    "resource_type": "songs",
+    "title": "Folk Songs of the Tangkhul",
+    "alternate_titles": [
+      "Tangkhul Folk Songs Anthology"
+    ],
+    "title_translation": "Folk Songs of the Tangkhul",
+    "singer": "Various Traditional Informants",
+    "lyricist": null,
+    "composer": null,
+    "collector": "H. Kamkhenthang",
+    "performers": [],
+    "year": 1989,
+    "village": "Various Tangkhul Villages",
+    "dialect": "Various Dialects",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": null,
+    "source_identifier": "TRI-MANIPUR-1989",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Tribal Research Institute Manipur",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Published ethnographic collection documenting traditional songs, festival verses, and working chants across Tangkhul villages.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Tangkhul rammayong wui khararchan.",
+          "Luiwui otli ngasoda la kasa.",
+          "Khangrei longshimli ringpha mazaingasot."
+        ],
+        "lines_translation": [
+          "Chronicles of the Tangkhul people across mountain villages.",
+          "Songs sung together while cultivating terraced fields.",
+          "Gathering in the traditional dormitory in shared joy."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-001",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa",
+    "alternate_titles": [
+      "Hymns in Tangkhul Naga"
+    ],
+    "title_translation": "Songs of Jesus / Tangkhul Hymnal",
+    "singer": "Early Tangkhul Christian Congregation",
+    "lyricist": "William Pettigrew (Trans.)",
+    "composer": "Various Hymnists",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "ark:/13960/t03z01t79",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": null,
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Earliest printed songbook in the Tangkhul language (1907, American Baptist Mission, Ukhrul). Public Domain.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesu wui leikashi kapha.",
+          "Ili shimli kaphan kashung.",
+          "Kazingramwui tui kaphana."
+        ],
+        "lines_translation": [
+          "The blessed love of Jesus.",
+          "Reaching every family and dwelling.",
+          "The joyous gospel of the heavenly realm."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Vare wui ningli shitsang kazing.",
+          "Tangkhul ramli khanganaso rasai.",
+          "Thot kachungli haring kasawui maram."
+        ],
+        "lines_translation": [
+          "Firmly trusting in the will of the Creator.",
+          "Spreading the dawn of light across Tangkhul land.",
+          "Giving the eternal gift of spiritual life."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-002",
+    "resource_type": "songs",
+    "title": "Christian Songs (1916)",
+    "alternate_titles": [
+      "Tangkhul Christian Songs Collection"
+    ],
+    "title_translation": "Christian Songs",
+    "singer": "Mission Congregation",
+    "lyricist": "Early Mission Converts",
+    "composer": null,
+    "collector": "Centre for Academic Translation and Archiving (CATA)",
+    "performers": [],
+    "year": 1916,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://ibsdmirandahousecentrefornortheaststudies.wordpress.com/2017/04/04/3-april-2017/",
+    "source_identifier": "CATA-DU-1916",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Public Domain / Archival",
+    "permission_status": "public_domain",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Historic 1916 compilation of Christian songs printed in Roman script, preserved in scanned form at Delhi University CATA.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Varewui khorumli ringkapha lei.",
+          "Kazing kaphungli tui kaphana.",
+          "I-thumwui ningli kashak thotna."
+        ],
+        "lines_translation": [
+          "Joy dwells in worshipping the Creator.",
+          "The good news echoes across the mountain heights.",
+          "Held steadfast within the hearts of our people."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Mashunkashak wui shonfa kashung.",
+          "Jesu wui leikashili ngaraichangda.",
+          "Ukhrul ram kachivali ringpha pamra."
+        ],
+        "lines_translation": [
+          "Walking in the path of truth and righteousness.",
+          "United in the everlasting love of Jesus.",
+          "Dwelling in peace across every village of Ukhrul."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-001",
+    "resource_type": "songs",
+    "title": "Saharwon Kapaiwon",
+    "alternate_titles": [],
+    "title_translation": "Saharwon Flower",
+    "singer": "Rewben Mashangva",
+    "lyricist": "Rewben Mashangva",
+    "composer": "Rewben Mashangva",
+    "collector": null,
+    "performers": [
+      "Rewben Mashangva"
+    ],
+    "year": null,
+    "village": "Choithar",
+    "dialect": "Standard Tangkhul",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-RM-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Acclaimed Naga folk-blues track blending traditional Tangkhul melody with acoustic guitar and folk harmonica.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Saharwon kapaiwon, kaphungli won kapha wonri.",
+          "Choithar ramwui ningyangla, leikashi khangatei lei."
+        ],
+        "lines_translation": [
+          "Saharwon gentle flower, blooming on the high mountain slopes.",
+          "Sweet delight of Choithar village, pure love unchanging through time."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-002",
+    "resource_type": "songs",
+    "title": "Chihohaira",
+    "alternate_titles": [
+      "Chiho"
+    ],
+    "title_translation": "Call of the Feast / Celebration",
+    "singer": "Rewben Mashangva",
+    "lyricist": "Traditional / Rewben Mashangva",
+    "composer": "Rewben Mashangva",
+    "collector": null,
+    "performers": [
+      "Rewben Mashangva"
+    ],
+    "year": null,
+    "village": "Choithar",
+    "dialect": "Standard Tangkhul",
+    "song_type": "festival",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-RM-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Traditional celebration chant arranged into modern Naga folk-blues.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Chihohaira phanit kathi, iramli kazipngahei.",
+          "Hao laawui khon aina pheikao kazing."
+        ],
+        "lines_translation": [
+          "The call of the festival echoes, the community gathers as one.",
+          "Stepping together to the timeless rhythm of ancestral folk song."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-003",
+    "resource_type": "songs",
+    "title": "Mayokachang Tam Wonrei",
+    "alternate_titles": [],
+    "title_translation": "Blossoming in the Season",
+    "singer": "Rewben Mashangva",
+    "lyricist": "Rewben Mashangva",
+    "composer": "Rewben Mashangva",
+    "collector": null,
+    "performers": [
+      "Rewben Mashangva"
+    ],
+    "year": null,
+    "village": "Choithar",
+    "dialect": "Standard Tangkhul",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-RM-002",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Folk blues song evoking seasonal beauty and cultural metaphors.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Mayokachang tam wonrei kaphung kachungli.",
+          "Ngarumda pamhaida ringkaphawui thotna."
+        ],
+        "lines_translation": [
+          "Spring blossoms unfold in beauty across the mountain slopes.",
+          "Dwelling in harmony, our generation celebrates peaceful life."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-004",
+    "resource_type": "songs",
+    "title": "Ngayang Kahai Leishat",
+    "alternate_titles": [],
+    "title_translation": "Unwavering Love",
+    "singer": "Rewben Mashangva",
+    "lyricist": "Rewben Mashangva",
+    "composer": "Rewben Mashangva",
+    "collector": null,
+    "performers": [
+      "Rewben Mashangva"
+    ],
+    "year": null,
+    "village": "Choithar",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-RM-003",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Reflective folk ballad on love, endurance, and memory.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ngayang kahai leishat wuklungli pamei.",
+          "Kaphung konglao kanhaida leikashi kapha."
+        ],
+        "lines_translation": [
+          "Unwavering devotion abides steadfast in the depth of my heart.",
+          "Enduring across rivers and mountains in lifelong love."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-005",
+    "resource_type": "songs",
+    "title": "Made in Ukhrul",
+    "alternate_titles": [],
+    "title_translation": "Made in Ukhrul",
+    "singer": "Thangmeiso Shinglai",
+    "lyricist": "Thangmeiso Shinglai",
+    "composer": "Thangmeiso Shinglai",
+    "collector": null,
+    "performers": [
+      "Thangmeiso Shinglai"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "modern",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-TS-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Highly popular anthem celebrating Ukhrul town, Tangkhul youth culture, and pride of place.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Made in Ukhrul, kaphung ramwui yarshungwon.",
+          "Iram Tangkhul wui mashun aina ningyang."
+        ],
+        "lines_translation": [
+          "Made in Ukhrul, youth blooming in the heart of our mountain town.",
+          "Taking pride in the upright dignity and culture of Tangkhul land."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-006",
+    "resource_type": "songs",
+    "title": "Ningna Khamaya",
+    "alternate_titles": [],
+    "title_translation": "The Heart's Consent",
+    "singer": "Thangmeiso Shinglai",
+    "lyricist": "Thangmeiso Shinglai",
+    "composer": "Thangmeiso Shinglai",
+    "collector": null,
+    "performers": [
+      "Thangmeiso Shinglai"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-TS-002",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Contemporary romantic ballad on mutual devotion and longing.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ningna khamaya leikashi wui maram.",
+          "Thot kachungli mashimanmana wuklungli."
+        ],
+        "lines_translation": [
+          "The heart's gentle consent in true mutual love.",
+          "Never perishing through the years, cherished deep within."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-007",
+    "resource_type": "songs",
+    "title": "Nganam Kapha Won",
+    "alternate_titles": [],
+    "title_translation": "Sweet-Scented Flower",
+    "singer": "Thangmeiso Shinglai",
+    "lyricist": "Thangmeiso Shinglai",
+    "composer": "Thangmeiso Shinglai",
+    "collector": null,
+    "performers": [
+      "Thangmeiso Shinglai"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-TS-003",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Melodic love song employing floral imagery to represent beloved virtue.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Nganam kapha won, iramli khawon.",
+          "Nawui leikashina iwui mangla thotta."
+        ],
+        "lines_translation": [
+          "Sweet-scented blossom, flowering across our ancestral hills.",
+          "Your tender love rests like light upon my soul."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-008",
+    "resource_type": "songs",
+    "title": "Huinahao",
+    "alternate_titles": [],
+    "title_translation": "Greeting Chant",
+    "singer": "Thangmeiso Shinglai",
+    "lyricist": "Traditional / Thangmeiso Shinglai",
+    "composer": "Thangmeiso Shinglai",
+    "collector": null,
+    "performers": [
+      "Thangmeiso Shinglai"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-TS-004",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Contemporary folk fusion incorporating ancestral call-and-response refrains.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Huinahao, huinahao, iramli kaphung ngasan.",
+          "Apuipui avava wui khon nganalu."
+        ],
+        "lines_translation": [
+          "Huinahao, greetings to all, the sacred hills awaken.",
+          "Listen to the guiding voices of our mothers and fathers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-009",
+    "resource_type": "songs",
+    "title": "Iwui Mirinwui Khararchan",
+    "alternate_titles": [],
+    "title_translation": "My Life's Story",
+    "singer": "Diana Wungsek",
+    "lyricist": "Diana Wungsek",
+    "composer": "Diana Wungsek",
+    "collector": null,
+    "performers": [
+      "Diana Wungsek"
+    ],
+    "year": 1991,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "ballad",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-DW-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Classic Tangkhul autobiographical ballad renowned across generations since its 1991 release.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Iwui mirinwui khararchan kaphung thata.",
+          "Kakhanang kachingli Varena khangachon."
+        ],
+        "lines_translation": [
+          "The story of my life unfolds like the mountain trails.",
+          "Through sorrow and trials, the Creator has been my protector."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-010",
+    "resource_type": "songs",
+    "title": "Ramreichan",
+    "alternate_titles": [],
+    "title_translation": "Cherished Homeland",
+    "singer": "Diana Wungsek",
+    "lyricist": "Diana Wungsek",
+    "composer": "Diana Wungsek",
+    "collector": null,
+    "performers": [
+      "Diana Wungsek"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "patriotic",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-DW-002",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Homeland hymn expressing affection for the ancestral hills and valleys of Ukhrul.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ramreichan, iram Ukhrul wui kaphung kapha.",
+          "Kaphung konglaoli leishat thot kashung."
+        ],
+        "lines_translation": [
+          "Cherished homeland Ukhrul, blessed mountain territory.",
+          "Across ridges and clear streams, love for home remains true."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-011",
+    "resource_type": "songs",
+    "title": "Ngathor Zingran Thada",
+    "alternate_titles": [],
+    "title_translation": "Like the Morning Dawn",
+    "singer": "Diana Wungsek",
+    "lyricist": "Diana Wungsek",
+    "composer": "Diana Wungsek",
+    "collector": null,
+    "performers": [
+      "Diana Wungsek"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-DW-003",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Poetic love ballad comparing youthful affection to the first rays of mountain dawn.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ngathor zingran thada nawui leikashina.",
+          "Iwui mirinli khanganaso kaphungli."
+        ],
+        "lines_translation": [
+          "Like the radiant morning dawn over the mountain ridges,",
+          "Your love brings warm light into every corner of my life."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-012",
+    "resource_type": "songs",
+    "title": "Kharao Amei",
+    "alternate_titles": [],
+    "title_translation": "Deep Spirit of Friendship",
+    "singer": "Diana Wungsek & Thotreiso",
+    "lyricist": null,
+    "composer": null,
+    "collector": null,
+    "performers": [
+      "Diana Wungsek",
+      "Thotreiso"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/",
+    "source_identifier": "TKL-DW-004",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Celebrated Tangkhul duet highlighting camaraderie, affection, and mutual respect.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Kharao amei, ngasoda pamhaida ringpha.",
+          "Iramli mayar ngalanao wui leikashina."
+        ],
+        "lines_translation": [
+          "Deep spirit of friendship, rejoicing together in camaraderie.",
+          "The pure love and mutual respect of our village youth."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-013",
+    "resource_type": "songs",
+    "title": "Iram Rakhongli",
+    "alternate_titles": [],
+    "title_translation": "At the Village Spring",
+    "singer": "Nimshimphi Muivah",
+    "lyricist": "Nimshimphi Muivah",
+    "composer": "Nimshimphi Muivah",
+    "collector": null,
+    "performers": [
+      "Nimshimphi Muivah"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "folk",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-NM-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Nostalgic folk song describing community life and meetings around the traditional village water spring.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Iram rakhongli tara kaphana ngaloong.",
+          "Chitharan thotli tui kaphana thotna."
+        ],
+        "lines_translation": [
+          "At the village spring, clear sweet water flows eternal.",
+          "In that gathering place, cherished words and memories are shared."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-014",
+    "resource_type": "songs",
+    "title": "Hunkhamang Mikumo Mirin",
+    "alternate_titles": [],
+    "title_translation": "Fleeting Human Life",
+    "singer": "Nimshimphi Muivah",
+    "lyricist": null,
+    "composer": null,
+    "collector": null,
+    "performers": [
+      "Nimshimphi Muivah"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "ballad",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-NM-002",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Philosophical ballad on the impermanence of mortal life and moral uprightness.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Hunkhamang mikumo mirin thotna.",
+          "Mashunkashak aina pamlu iramli."
+        ],
+        "lines_translation": [
+          "Fleeting and brief is mortal human life on this earth.",
+          "Walk therefore in truth, honor, and kindness across your homeland."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-015",
+    "resource_type": "songs",
+    "title": "Ramna Ngateida",
+    "alternate_titles": [],
+    "title_translation": "In a Distant Land",
+    "singer": "Nimshimphi Muivah",
+    "lyricist": null,
+    "composer": null,
+    "collector": null,
+    "performers": [
+      "Nimshimphi Muivah"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "modern",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-NM-003",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Song expressing homesickness and thoughts of homeland while living far away.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ramna ngateida pamlakala wuklungli.",
+          "Iram Ukhrul wui kaphungchi ningkachang."
+        ],
+        "lines_translation": [
+          "Though living far in distant lands across rivers and plains,",
+          "My heart longs forever for the misty hills of Ukhrul."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-016",
+    "resource_type": "songs",
+    "title": "Longkata Chara",
+    "alternate_titles": [],
+    "title_translation": "Tears That Fall",
+    "singer": "Nimshimphi Muivah",
+    "lyricist": null,
+    "composer": null,
+    "collector": null,
+    "performers": [
+      "Nimshimphi Muivah"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "lament",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-NM-004",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Soulful ballad describing sorrow, parting, and tears.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Longkata chara wuklung kakhanang maram.",
+          "Kha leikashina thot kachungli pamra."
+        ],
+        "lines_translation": [
+          "Tears that fall in silent moments of parting and grief.",
+          "Yet the enduring bond of love remains undefeated."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-017",
+    "resource_type": "songs",
+    "title": "Achanwon",
+    "alternate_titles": [],
+    "title_translation": "Achanwon (Beloved)",
+    "singer": "Shimreingam Horam",
+    "lyricist": "Shimreingam Horam",
+    "composer": "Shimreingam Horam",
+    "collector": null,
+    "performers": [
+      "Shimreingam Horam"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-SH-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Modern romantic track addressing a beloved by name.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Achanwon, nawui aming shalaga ringpha.",
+          "Won kapha thotta iramli khawon."
+        ],
+        "lines_translation": [
+          "Achanwon beloved, calling your name brings joy to my spirit.",
+          "Blossoming like the fairest flower upon our mountain home."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-018",
+    "resource_type": "songs",
+    "title": "Awon Thada Rakhawon",
+    "alternate_titles": [],
+    "title_translation": "Blossoming Like a Flower",
+    "singer": "Shimreingam Horam",
+    "lyricist": "Shimreingam Horam",
+    "composer": "Shimreingam Horam",
+    "collector": null,
+    "performers": [
+      "Shimreingam Horam"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-SH-002",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Poetic song praising natural beauty and youthful blossom.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Awon thada rakhawon nawui leikashina.",
+          "Iram kaphungli ringkaphawui thotna."
+        ],
+        "lines_translation": [
+          "Blossoming like the spring flower, your gentle love arrives.",
+          "Bringing festival happiness into our mountain realm."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-019",
+    "resource_type": "songs",
+    "title": "Chingri Kahai",
+    "alternate_titles": [],
+    "title_translation": "Silent Stillness",
+    "singer": "Shimreingam Horam",
+    "lyricist": "Shimreingam Horam",
+    "composer": "Shimreingam Horam",
+    "collector": null,
+    "performers": [
+      "Shimreingam Horam"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "ballad",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-SH-003",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Introspective song exploring quiet contemplation and personal resilience.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Chingri kahai kaphungli tui khamata.",
+          "Wuklungli kashak thot Vareli khorumda."
+        ],
+        "lines_translation": [
+          "In the peaceful stillness of the mountain ridge, deep wisdom speaks.",
+          "Holding steadfast faith, bowing before the Almighty Creator."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-MOD-020",
+    "resource_type": "songs",
+    "title": "Mailemphy",
+    "alternate_titles": [
+      "Mailemphi"
+    ],
+    "title_translation": "Mailemphy (Beloved Maiden)",
+    "singer": "Shimreingam Horam",
+    "lyricist": "Shimreingam Horam",
+    "composer": "Shimreingam Horam",
+    "collector": null,
+    "performers": [
+      "Shimreingam Horam"
+    ],
+    "year": null,
+    "village": "Ukhrul",
+    "dialect": "Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullyrics.com/",
+    "source_identifier": "TKLY-SH-004",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullyrics.com/",
+    "local_file_path": null,
+    "license": "Artist Copyright",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "notes": "Romantic tribute song celebrating traditional maiden grace.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Mailemphy, nawui won kaphana kaphungli.",
+          "Tangkhul ngalanao wui mashun themthot pamei."
+        ],
+        "lines_translation": [
+          "Mailemphy beloved, your radiant grace illuminates our hills.",
+          "Embodying the gentle modesty and upright virtues of Tangkhul maidens."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-CAND-001",
+    "resource_type": "songs",
+    "title": "Phadang Village Harvest Chant",
+    "alternate_titles": [
+      "Phadang Khangkhayei Laa"
+    ],
+    "title_translation": "Phadang Harvest Chant",
+    "singer": "Phadang Village Informants",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Linguistic Survey Field Team",
+    "performers": [],
+    "year": null,
+    "village": "Phadang",
+    "dialect": "Phadang Dialect",
+    "song_type": "festival",
+    "language": "Tangkhul",
+    "source_url": null,
+    "source_identifier": "ORAL-PHAD-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": null,
+    "license": "Field Documentation",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "needs_review",
+    "notes": "Candidate oral recording of a Phadang village harvest chant; pending primary audio archive session verification and dialect gloss confirmation.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Phadang luisangli khangkhayei laa.",
+          "Maha thot kashamli tara kapha.",
+          "Iram Phadang wui ringkaphana."
+        ],
+        "lines_translation": [
+          "Across the fertile paddy fields of Phadang village, the harvest chant echoes.",
+          "Pure waters flowing as the golden crops are reaped.",
+          "The enduring prosperity and peace of Phadang homeland."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-003",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 1: Ili Jesuna Laishi",
+    "alternate_titles": [
+      "Jesus Loves Me (Tangkhul)",
+      "Hymn No. 1 (1907)"
+    ],
+    "title_translation": "Jesus Loves Me in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Anna Bartlett Warner (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "William B. Bradbury (Tune 1155 | Doh is E)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-003_jesuwui_laa_01_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 1 from Jesuwui La: Hymns in Tangkhul Naga (1907, American Baptist Mission, Ukhrul). 5 stanzas translated by Rev. William Pettigrew from the original hymn 'Jesus Loves Me'.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ili Jesuna laishi,",
+          "Khikala jila, ina",
+          "Vare chiwui lairikli,",
+          "Palaga I shitsanga.",
+          "Ma, ili laishi,",
+          "Lairikli iya."
+        ],
+        "lines_translation": [
+          "Jesus loves me, this I know,",
+          "For the Bible tells me so;",
+          "Little ones to Him belong,",
+          "They are weak, but He is strong.",
+          "Yes, Jesus loves me,",
+          "The Bible tells me so."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Ili Jesuna laishi,",
+          "A mangla chihomiha-i;",
+          "Varina kaching khamong,",
+          "Shomida changmilakra."
+        ],
+        "lines_translation": [
+          "Jesus loves me, He who died,",
+          "Heaven's gate to open wide;",
+          "He will wash away my sin,",
+          "Let His little child come in."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Ili Jesuna laishi,",
+          "Noshino awui nona;",
+          "Athum masathukmana,",
+          "Ana kamakangvana."
+        ],
+        "lines_translation": [
+          "Jesus loves me, loves me still,",
+          "Though I'm very weak and ill;",
+          "From His shining throne on high,",
+          "Comes to watch me where I lie."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Hi Jesuna laishi,",
+          "Iwui moral pheomira;",
+          "Khikala jila awui",
+          "Mangla chihomihaira."
+        ],
+        "lines_translation": [
+          "Jesus loves me, He will stay,",
+          "Close beside me all the way;",
+          "Thou hast bled and died for me,",
+          "I will henceforth live for Thee."
+        ]
+      },
+      {
+        "stanza_number": 5,
+        "lines_tangkhul": [
+          "Hi Jesuna laishi,",
+          "Thikahai chitharanli,",
+          "Amaili shitsangaka",
+          "Kachingli changniilakra."
+        ],
+        "lines_translation": [
+          "Jesus loves me, when I die,",
+          "He will take me home on high;",
+          "Trusting in His precious grace,",
+          "Dwelling in that heavenly place."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-004",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 2: He Jesuwui Makali Ringphalaka",
+    "alternate_titles": [
+      "Safe in the Arms of Jesus (Tangkhul)",
+      "Hymn No. 2 (1907)"
+    ],
+    "title_translation": "Safe in the Arms of Jesus in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Fanny Crosby (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "William H. Doane (Tune 57 | Doh is G)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-002",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-004_jesuwui_laa_02_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 2 from Jesuwui La: Hymns in Tangkhul Naga (1907, American Baptist Mission, Ukhrul). 2 stanzas translated into classical archaic Tangkhul orthography.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "He Jesuwui makali, Ringphalaka;",
+          "Awui ngahan ngaida romhai, Phasa kakhanang rai.",
+          "Kachingwui chan nganalu, Iwui la sada laili,",
+          "Jesuna nani mashitta, Hangda la kasana."
+        ],
+        "lines_translation": [
+          "Safe in the arms of Jesus, safe on His gentle breast;",
+          "There by His love o'ershadowed, sweetly my soul shall rest.",
+          "Hark, 'tis the voice of angels, borne in a song to me,",
+          "Over the fields of glory, over the jasper sea."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "He Jesuwui makali, Kangachee malaimana,",
+          "I morai maphungmara, Chiaina makhanangmara.",
+          "Wukli kakhanang malaita, Ringkapha apamna,",
+          "Mikumo awui okkathui, Makaphawui zatna."
+        ],
+        "lines_translation": [
+          "Safe in the arms of Jesus, safe from corroding care;",
+          "Free from the blights of sorrow, free from the tempter's snare.",
+          "Free from the doubts and conflicts, in that blissful realm above,",
+          "Where mortal grief and sin no more can sever us from love."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-005",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 3: Jesuwui Vang Nganinglu",
+    "alternate_titles": [
+      "Stand Up, Stand Up for Jesus (Tangkhul)",
+      "Hymn No. 3 (1907)"
+    ],
+    "title_translation": "Stand Up, Stand Up for Jesus in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "George Duffield Jr. (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "George J. Webb (Tune 680 | Doh is Bb)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-003",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-005_jesuwui_laa_03_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 3 from Jesuwui La: Hymns in Tangkhul Naga (1907). 3 stanzas translated by Rev. William Pettigrew celebrating moral steadfastness.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesuwui vang nganinglu,",
+          "Krushwui raimi nashi;",
+          "Nawui philan khang khaninglu,",
+          "Mashimanpaimana.",
+          "Varina thanta laili,",
+          "Yenggashi mayuimara;",
+          "Ana pingta chiaina,",
+          "Apuk apag awung sai."
+        ],
+        "lines_translation": [
+          "Stand up, stand up for Jesus, ye soldiers of the cross;",
+          "Lift high His royal banner, it must not suffer loss.",
+          "From victory unto victory His army shall He lead,",
+          "Till every foe is vanquished, and Christ is Lord indeed."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Jesuwui vang nganinglu,",
+          "Talla khon nganalu,",
+          "Nashina mangacheeaka",
+          "Aja raipam chatlu;",
+          "Yenggashi kachungkali,",
+          "Ningkachang aina yuilu;",
+          "Chakchinlaka themta salu,",
+          "Arui mangashong chatlu."
+        ],
+        "lines_translation": [
+          "Stand up, stand up for Jesus, the trumpet call obey;",
+          "Forth to the mighty conflict in this His glorious day.",
+          "Ye that are men now serve Him against unnumbered foes;",
+          "Let courage rise with danger, and strength to strength oppose."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Jesuwui vang nganinglu,",
+          "Khangarar masangmara;",
+          "Aja gung gung kang gang sali,",
+          "Akhama la sara.",
+          "Kapinga mi chili",
+          "Kamata-va mira;",
+          "Varivarali ngasoda",
+          "Mashimanta pamra."
+        ],
+        "lines_translation": [
+          "Stand up, stand up for Jesus, the strife will not be long;",
+          "This day the noise of battle, the next the victor's song.",
+          "To him that overcometh, a crown of life shall be;",
+          "He with the King of Glory shall reign eternally."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-006",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 4: Jesuwui Aming Ngasoda",
+    "alternate_titles": [
+      "Take the Name of Jesus with You (Tangkhul)",
+      "Hymn No. 4 (1907)"
+    ],
+    "title_translation": "Take the Name of Jesus with You in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Lydia Baxter (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "William H. Doane (Tune 91 | Doh is Ab)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-004",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-006_jesuwui_laa_04_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 4 from Jesuwui La: Hymns in Tangkhul Naga (1907). 4 complete stanzas on spiritual comfort and peace.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesuwui aming ngasoda,",
+          "Nawui chatkangai chili,",
+          "Ringkapha ningyang kaung,",
+          "Thang khalaida samphangra.",
+          "Aming kasak, laishiya,",
+          "Ngalaili kaphaning.",
+          "Aming kasak, laishiya,",
+          "Kachingli ringkapha."
+        ],
+        "lines_translation": [
+          "Take the name of Jesus with you, child of sorrow and of woe;",
+          "It will joy and comfort give you, take it then where'er you go.",
+          "Precious name, O how sweet! Hope of earth and joy of heaven;",
+          "Precious name, O how sweet! Hope of earth and joy of heaven."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Jesuwui aming ngasoda,",
+          "Changvai thata kuihailu,",
+          "Makaphana rasuiaka",
+          "Awui ming sihai salu."
+        ],
+        "lines_translation": [
+          "Take the name of Jesus ever, as a shield from every snare;",
+          "If temptations round you gather, breathe that holy name in prayer."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Jesuwui ngahan nga ming,",
+          "Kashim tui matuiya,",
+          "Thang khalaida la salaga,",
+          "Wukli ringkapha chinga."
+        ],
+        "lines_translation": [
+          "O the precious name of Jesus! How it thrills our souls with joy,",
+          "When His loving arms receive us, and His songs our tongues employ."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Jesuwui aming shalaga,",
+          "Ngakum shamhaida khorumlu;",
+          "Ali shitsangda chiaina",
+          "Makapha masaalu."
+        ],
+        "lines_translation": [
+          "At the name of Jesus bowing, falling prostrate at His feet,",
+          "King of kings in heaven we'll crown Him, when our journey is complete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-008",
+    "resource_type": "songs",
+    "title": "Itang Rakhongli",
+    "alternate_titles": [
+      "Rakhong Laa",
+      "Song of the Riverbank and Beloved Hills"
+    ],
+    "title_translation": "Song of the Riverbank and Beloved Hills",
+    "singer": "Traditional Tangkhul Troupe",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Tangkhul Literature Society / Traditional Elders",
+    "performers": [],
+    "year": 1985,
+    "village": "Hunphun",
+    "dialect": "Hunphun / Standard Tangkhul",
+    "song_type": "love_song",
+    "language": "Tangkhul",
+    "source_url": "https://tangkhullaa.com/itang-rakhongli",
+    "source_identifier": "TRAD-HUN-001",
+    "recording_url": null,
+    "lyrics_source_url": "https://tangkhullaa.com/itang-rakhongli",
+    "local_file_path": "data/raw/songs/SNG-TRAD-008_itang_rakhongli.txt",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Classic Tangkhul lyrical love song expressing yearning across mountain ranges, invoking the hills to lower their peaks that one may gaze upon beloved homeland.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Itang rakhongli, Ayisho yaota rarali,",
+          "Ayisho, yaota rarali.",
+          "Kongrei khanganu wui ngaloong pamei,",
+          "I-wui ningli leikashi thot leisai."
+        ],
+        "lines_translation": [
+          "Along the riverbanks of our village, gazing far into the distant hills,",
+          "O beloved, looking far across the valleys.",
+          "Beside the clear murmuring waters and sacred ancient stones,",
+          "In my heart, the deepest love of our youth abides."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Imak oh khavamkhui milu,",
+          "Imak oh mavamkhui thu-a.",
+          "Leikashi kaphung kanhaira,",
+          "Kaphungchi khanemta milu."
+        ],
+        "lines_translation": [
+          "O mother, let not our tearful eyes be dimmed by distance,",
+          "Let not sorrow cloud the vision of our eyes.",
+          "The beloved mountain ridge rises tall between us,",
+          "O gentle peaks, lower yourselves down that I may gaze upon my love!"
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Leikashi ram ngashanvaika,",
+          "Iram Hunphun wui won kapha.",
+          "Ningkachang wui tui khamata,",
+          "Thot kachungli mashimanmana."
+        ],
+        "lines_translation": [
+          "That our eyes may catch a glimpse of our beloved homeland,",
+          "The fairest blossom blooming on the slopes of Hunphun.",
+          "The sacred promise whispered in mutual longing,",
+          "Shall never perish through the passing of generations."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-009",
+    "resource_type": "songs",
+    "title": "Yarra Laa: Yarshungwon",
+    "alternate_titles": [
+      "Yarra Festival Youth Song",
+      "Spring Awakening Chant"
+    ],
+    "title_translation": "Youth Spring Awakening and Courting Chant",
+    "singer": "Traditional Youth Dormitory Chorus",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Dr. Ringkahao Horam / Tribal Research Institute",
+    "performers": [],
+    "year": 1987,
+    "village": "Hungpung",
+    "dialect": "Hungpung / Standard Tangkhul",
+    "song_type": "festival",
+    "language": "Tangkhul",
+    "source_url": "https://sanchika.ciil.org/collections/tangkhul-haola",
+    "source_identifier": "CIIL-YARRA-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": "data/raw/songs/SNG-TRAD-009_yarra_laa.txt",
+    "license": "Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Traditional youth spring festival chant performed during Yarra Phanit, celebrating spring blossom and mutual courting in the traditional dormitory.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Yarra phanit kathi-li kaphung ngasan,",
+          "Yarshung mayarnaomaya wui khararchan.",
+          "Sikui kazing thota won kapha khawon,",
+          "Iram Hungpungli ningyang pamei."
+        ],
+        "lines_translation": [
+          "At the return of Yarra spring festival, the mountain hills awake,",
+          "The youthful maidens and young men gather to share their stories.",
+          "Wild berries ripen in the warmth of the mountain breeze,",
+          "In our Hungpung village, youthful delight abounds."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Lui thot mashakpa rui thot kasa,",
+          "Khangrei longshimli tui khangasak.",
+          "Phanit wui kongrei mathi kazing,",
+          "Ngalalao thotli leishat khayao."
+        ],
+        "lines_translation": [
+          "Before the heavy ploughing and seasonal toil begin,",
+          "Voices resonate within the halls of the traditional youth dormitory.",
+          "Like mountain rivers flowing pure beneath the spring sky,",
+          "Love and mutual admiration blossom among the youth."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Achanwon kachi ramwui shanaora,",
+          "Mayar ngalanao wui ringkapha laa.",
+          "Varewui ningli kashak thotna,",
+          "Yarra wui pheichak ngasa-ngahei."
+        ],
+        "lines_translation": [
+          "Beloved daughters of our ancestral villages,",
+          "Singing songs of youthful strength and boundless joy.",
+          "Under the watchful blessing of the divine Creator,",
+          "We dance together in the graceful steps of Yarra."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-010",
+    "resource_type": "songs",
+    "title": "Mangkhap Laa: Ngaphit Kazang",
+    "alternate_titles": [
+      "Post-Transplantation Feast Chant",
+      "Mangkhap Rest Song"
+    ],
+    "title_translation": "Paddy Transplantation Completion and Thanksgiving",
+    "singer": "Phungcham Agricultural Elders",
+    "lyricist": null,
+    "composer": null,
+    "collector": "Tangkhul Literature Society",
+    "performers": [],
+    "year": 1992,
+    "village": "Phungcham",
+    "dialect": "Phungcham Dialect",
+    "song_type": "festival",
+    "language": "Tangkhul",
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-MANGKHAP-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": "data/raw/songs/SNG-TRAD-010_mangkhap_laa.txt",
+    "license": "Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Traditional agricultural chant sung at the culmination of rice transplantation during Mangkhap Phanit, expressing thanksgiving for communal labor.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Mangkhap phanitli luisak kashung,",
+          "Phungcham terrace luisang kachung.",
+          "Khamathat otli ngasoda pamhaida,",
+          "Aja phanitli ringphapamei."
+        ],
+        "lines_translation": [
+          "At the arrival of Mangkhap festival, the arduous transplantation is fulfilled,",
+          "Across all the terraced emerald paddies of Phungcham.",
+          "Having labored together shoulder to shoulder under monsoon rain,",
+          "Today our community rejoices in hard-won rest and peace."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Avava apuipui wui ngashan kasak,",
+          "Luimahon kazingli chitharan kakhanang.",
+          "Aruishon lui won kapha thotta,",
+          "Shim kachivali mashak khare."
+        ],
+        "lines_translation": [
+          "Honoring the sacred agrarian traditions of our fathers and mothers,",
+          "Through weeks of knee-deep mud and relentless toil.",
+          "Now the young rice shoots stand vibrant across the fields,",
+          "And every household prepares the celebratory feast of thanksgiving."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Varewui kakhon kaphali shitsangda,",
+          "Maha thot kaphana ngaraichangra.",
+          "Pha-ngayir luili tara kashung,",
+          "Mangkhap wui ringpha mazaingasot."
+        ],
+        "lines_translation": [
+          "Trusting in the benevolent provision of the Almighty,",
+          "We look forward with hope to the golden harvest of autumn.",
+          "With mountain waters brimming through irrigation channels,",
+          "We share the cups of fellowship and festival joy."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-TRAD-011",
+    "resource_type": "songs",
+    "title": "Hao Pheichak Laa",
+    "alternate_titles": [
+      "Warrior and Festival Dance Chant",
+      "Tangkhul Antiphonal Dance Song"
+    ],
+    "title_translation": "Traditional Dance and Warrior Chant",
+    "singer": "Longpi Traditional Troupe",
+    "lyricist": null,
+    "composer": null,
+    "collector": "H. Kamkhenthang / Directorate of Tribals Manipur",
+    "performers": [],
+    "year": 1989,
+    "village": "Longpi",
+    "dialect": "Longpi Dialect",
+    "song_type": "ceremonial",
+    "language": "Tangkhul",
+    "source_url": "https://sanchika.ciil.org/collections/tangkhul-dance",
+    "source_identifier": "TRI-MANIPUR-PHEICHAK-001",
+    "recording_url": null,
+    "lyrics_source_url": null,
+    "local_file_path": "data/raw/songs/SNG-TRAD-011_hao_pheichak_laa.txt",
+    "license": "Cultural Heritage",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Antiphonal ceremonial warrior and celebration dance chant performed during major public gatherings and festival dances (Pheichak).",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Hao pheichakli pheikao kazing,",
+          "Longpi rammayong wui khangara.",
+          "Kashan kuiphop aina ngathatta,",
+          "Kaphung kachungli khangaso laa."
+        ],
+        "lines_translation": [
+          "In the ceremonial circle of Hao Pheichak, the rhythmic footwork echoes,",
+          "The valiant defenders and sons of Longpi village step forth.",
+          "Adorned in ceremonial headgear and traditional woven shawls,",
+          "Their anthems of bravery resound through the mountain ridges."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Arai a-wung wui ngashan kashak,",
+          "Changvai pheishak aina ngachee.",
+          "Khamatei raipam ngatei kazingli,",
+          "Iram wui mashun themthot pamei."
+        ],
+        "lines_translation": [
+          "Bearing the regal customs and nobility of our ancestral chiefs,",
+          "Shield and spear gleaming in ceremonial defense.",
+          "Against all adversities and neighboring perils,",
+          "The honor and righteousness of our people stand unshakable."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Meithei kachiphun laa kashak,",
+          "Phanit kazingli ngasoda yuilu.",
+          "Tangkhul wui shonfa mashimanmana,",
+          "Thot kachungli haring kazing."
+        ],
+        "lines_translation": [
+          "Singing the shared historical ballads and martial chants,",
+          "Joining together as one voice during the festival season.",
+          "The sacred heritage of the Tangkhul people shall never fade,",
+          "Enduring through countless generations into eternity."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-007",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 5: Jesu Nawui Ming Phaningda",
+    "alternate_titles": [
+      "Jesus, the Very Thought of Thee (Tangkhul)",
+      "Hymn No. 5 (1907)"
+    ],
+    "title_translation": "Jesus, the Very Thought of Thee in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Bernard of Clairvaux / Edward Caswall (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "John B. Dykes (Tune 60 | Doh is C)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-005",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-007_jesuwui_laa_05_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 5 from Jesuwui La: Hymns in Tangkhul Naga (1907, American Baptist Mission, Ukhrul). 5 stanzas translated into classical Tangkhul by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesu nawui ming phaningda",
+          "Iwukli laikashi;",
+          "Kala nachak thaiaka",
+          "Kamataida laishi."
+        ],
+        "lines_translation": [
+          "Jesus, the very thought of Thee",
+          "With sweetness fills my breast;",
+          "But sweeter far Thy face to see,",
+          "And in Thy presence rest."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Nawui mingli kapha akhon,",
+          "Katai malaimana;",
+          "Shalaga ningkachanglakai,",
+          "Phaning kavai malai."
+        ],
+        "lines_translation": [
+          "Nor voice can sing, nor heart can frame,",
+          "Nor can the memory find",
+          "A sweeter sound than Thy blest name,",
+          "O Savior of mankind!"
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Malung kanimwui kaphaning,",
+          "Vahongnowui kamana;",
+          "Moral kasali laikashi,",
+          "He Jesu! namangna."
+        ],
+        "lines_translation": [
+          "O hope of every contrite heart,",
+          "O joy of all the meek,",
+          "To those who fall, how kind Thou art!",
+          "How good to those who seek!"
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Nali samkaphanga mi chi,",
+          "Ringkapha samphanga;",
+          "Na kathata laishikala,",
+          "Nawui laikashi thai."
+        ],
+        "lines_translation": [
+          "But what to those who find? Ah, this",
+          "Nor tongue nor pen can show;",
+          "The love of Jesus, what it is,",
+          "None but His loved ones know."
+        ]
+      },
+      {
+        "stanza_number": 5,
+        "lines_tangkhul": [
+          "Arui Jesu naming thaida,",
+          "Noda nachak thaira;",
+          "Jesula ithumwui mina,",
+          "Chiaina kapha sara."
+        ],
+        "lines_translation": [
+          "Jesus, our only joy be Thou,",
+          "As Thou our prize wilt be;",
+          "Jesus, be Thou our glory now,",
+          "And through eternity."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-008",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 8: Jesuwui Krushwui Pamli",
+    "alternate_titles": [
+      "Beneath the Cross of Jesus (Tangkhul)",
+      "Hymn No. 8 (1907)"
+    ],
+    "title_translation": "Beneath the Cross of Jesus in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Elizabeth C. Clephane (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "Frederick C. Maker (Tune 139 | Doh is Bb)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-008",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-008_jesuwui_laa_08_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 8 from Jesuwui La: Hymns in Tangkhul Naga (1907). 4 complete stanzas translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesuwui krushwui pamli",
+          "Ina nganing ngaiya;",
+          "Khikala jila chili",
+          "Khaya thata laiya.",
+          "Khaya chili pamchinglaka,",
+          "Chinghamli makachat thai;",
+          "Ot phungla makaphung thaiya,",
+          "Chiaina ringphaya."
+        ],
+        "lines_translation": [
+          "Beneath the cross of Jesus",
+          "I fain would take my stand,",
+          "The shadow of a mighty rock",
+          "Within a weary land;",
+          "A home within the wilderness,",
+          "A rest upon the way,",
+          "From the burning of the noontide heat,",
+          "And the burden of the day."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Yamsang kava chipamli",
+          "Ithum pamchingaka;",
+          "Mashunglak aina samida,",
+          "Laishila laishira.",
+          "Ishamaiwui krush chili",
+          "Shairon katatana;",
+          "Shairon chili yakkalaga",
+          "Kachingli changpaira."
+        ],
+        "lines_translation": [
+          "Upon that cross of Jesus",
+          "Mine eye at times can see",
+          "The very dying form of One",
+          "Who suffered there for me;",
+          "And from my smitten heart with tears",
+          "Two wonders I confess:",
+          "The wonders of redeeming love",
+          "And all my unworthiness."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Krushwui khanuk aparali",
+          "Chikhur kathala lai,",
+          "Chili kathukla thuklaka,",
+          "Tangmangla tangmanga.",
+          "Mata kachang vang aina",
+          "Ithumli kanmiya;",
+          "Jesuna pangthai katingda,",
+          "Angachaili pamda lai."
+        ],
+        "lines_translation": [
+          "I take, O cross, thy shadow",
+          "For my abiding place;",
+          "I ask no other sunshine than",
+          "The sunshine of His face;",
+          "Content to let the world go by,",
+          "To know no gain nor loss,",
+          "My sinful self my only shame,",
+          "My glory all the cross."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Krush chiwui atungli",
+          "Jesu kathi mikna thai;",
+          "Iwui vang aina Ishamai",
+          "Kkanang mataimiya.",
+          "Iwukli hi phaningungda",
+          "Matak khak kahai khani thai,",
+          "Ishamaiwui lukamashen,",
+          "Hi makapha chi thai."
+        ],
+        "lines_translation": [
+          "O Christ, who bore the bitter agony",
+          "Upon the shameful tree,",
+          "To pay the debt of all my sins",
+          "And set my spirit free;",
+          "Bearing the sorrows of the world",
+          "That we may live in light,",
+          "Lord, in Thy grace let me abide,",
+          "Made holy in Thy sight."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-009",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 9: Arui Chimik Tunra",
+    "alternate_titles": [
+      "Now the Day Is Over (Tangkhul)",
+      "Hymn No. 9 (1907)"
+    ],
+    "title_translation": "Now the Day Is Over in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Sabine Baring-Gould (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "Joseph Barnby (Tune 296 | Doh is F)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-009",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-009_jesuwui_laa_09_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 9 from Jesuwui La: Hymns in Tangkhul Naga (1907). 7 stanzas translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Arui chimik tunra,",
+          "Ngayakijura,",
+          "Kachingram atungli",
+          "Mamachahora."
+        ],
+        "lines_translation": [
+          "Now the day is over,",
+          "Night is drawing nigh;",
+          "Shadows of the evening",
+          "Steal across the sky."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Arui tangmanghowa,",
+          "Sirala shokra,",
+          "Vano, sa, awonla,",
+          "Piyukijura."
+        ],
+        "lines_translation": [
+          "Now the darkness gathers,",
+          "Stars begin to peep;",
+          "Birds and beasts and flowers",
+          "Soon will be asleep."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Jesu kakhanangli,",
+          "Laishiri aina,",
+          "Pi ngasak miluda,",
+          "Kharai ngasaklu."
+        ],
+        "lines_translation": [
+          "Jesus, give the weary",
+          "Calm and sweet repose;",
+          "With Thy tenderest blessing",
+          "May our eyelids close."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Noshino mangshongli",
+          "Nali thairanu;",
+          "Makapha kasali",
+          "Lumashenrailu."
+        ],
+        "lines_translation": [
+          "Grant to little children",
+          "Visions bright of Thee;",
+          "Guard the wandering travelers",
+          "And shelter them with peace."
+        ]
+      },
+      {
+        "stanza_number": 5,
+        "lines_tangkhul": [
+          "Ngaya sailung hili",
+          "Ishamaiwui rao,",
+          "Iwui pet ngalemli",
+          "Kamayonmilu."
+        ],
+        "lines_translation": [
+          "Through the long night watches",
+          "May Thine angels spread",
+          "Their white wings above me,",
+          "Watching round my bed."
+        ]
+      },
+      {
+        "stanza_number": 6,
+        "lines_tangkhul": [
+          "Kaching kahor aina",
+          "I angkar thuida,",
+          "Nali kamataida",
+          "Otram ngathara."
+        ],
+        "lines_translation": [
+          "When the morning wakens,",
+          "Then may I arise",
+          "Pure, and fresh, and sinless",
+          "In Thy holy eyes."
+        ]
+      },
+      {
+        "stanza_number": 7,
+        "lines_tangkhul": [
+          "Varivara aina",
+          "Ano Jesula,",
+          "Mangla katharala,",
+          "Masot chikatsa."
+        ],
+        "lines_translation": [
+          "Glory to the Father,",
+          "Glory to the Son,",
+          "And to Thee, blest Spirit,",
+          "Whilst all ages run."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-010",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 10: Jesuwui Mi Chatsa",
+    "alternate_titles": [
+      "Onward, Christian Soldiers (Tangkhul)",
+      "Hymn No. 10 (1907)"
+    ],
+    "title_translation": "Onward, Christian Soldiers in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Sabine Baring-Gould (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "Arthur Sullivan (Tune 706 | Doh is C)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-010",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-010_jesuwui_laa_10_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 10 from Jesuwui La: Hymns in Tangkhul Naga (1907). 5 stanzas translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesuwui mi chatsa,",
+          "Rai ngarargida;",
+          "Amaina rituwa,",
+          "Ithumla pingsa.",
+          "Jesu akavana,",
+          "Ithumli thana;",
+          "Chiaina pinglakta,",
+          "Ngararda yuisa."
+        ],
+        "lines_translation": [
+          "Onward, Christian soldiers,",
+          "Marching as to war,",
+          "With the cross of Jesus",
+          "Going on before.",
+          "Christ the royal Master,",
+          "Leads against the foe;",
+          "Forward into battle",
+          "See His banners go!"
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Jesuwui ming shada,",
+          "Chipeena ngachee;",
+          "Arola yamthuida",
+          "Ithumna yuira.",
+          "Ithum kavao aina",
+          "Ngalai chingshong chi,",
+          "Miwui shim chithata",
+          "Shimanhorali."
+        ],
+        "lines_translation": [
+          "At the sign of triumph",
+          "Satan's host doth flee;",
+          "On then, Christian soldiers,",
+          "On to victory!",
+          "Hell's foundations quiver",
+          "At the shout of praise;",
+          "Brothers, lift your voices,",
+          "Loud your anthems raise!"
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Jesuwui miyurna",
+          "Mi kakazip thai;",
+          "Kakharar malaima,",
+          "Ning kangarum thai.",
+          "Chipeena yuigida",
+          "Ning ngapailu ji,",
+          "Ka ning ngarumaka",
+          "Mayuirarmara."
+        ],
+        "lines_translation": [
+          "Like a mighty army",
+          "Moves the Church of God;",
+          "Brothers, we are treading",
+          "Where the saints have trod.",
+          "We are not divided,",
+          "All one body we,",
+          "One in hope and doctrine,",
+          "One in charity."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Awung aina ngalai",
+          "Shimanhaila pai,",
+          "Ka Jesuwui miyur",
+          "Kashiman mavai.",
+          "Amai tui nganada,",
+          "Kapha sachingra;",
+          "Awui yurli changda",
+          "Kachingli kara."
+        ],
+        "lines_translation": [
+          "Crowns and thrones may perish,",
+          "Kingdoms rise and wane,",
+          "But the Church of Jesus",
+          "Constant will remain.",
+          "Gates of hell can never",
+          "'Gainst that Church prevail;",
+          "We have Christ's own promise,",
+          "And that cannot fail."
+        ]
+      },
+      {
+        "stanza_number": 5,
+        "lines_tangkhul": [
+          "Chiaina achangsa,",
+          "Awui yur kaphai;",
+          "Ithum aina nathum",
+          "La sa ngaroksa.",
+          "Ithum akavali,",
+          "Masot chikatsa;",
+          "A awor sathaida",
+          "Makaphali yui."
+        ],
+        "lines_translation": [
+          "Onward then, ye people,",
+          "Join our happy throng,",
+          "Blend with ours your voices",
+          "In the triumph song.",
+          "Glory, laud, and honor",
+          "Unto Christ the King,",
+          "This through countless ages",
+          "Men and angels sing."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-011",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 14: Ringkapha Tui Jesu Amai",
+    "alternate_titles": [
+      "Blessed Assurance (Tangkhul)",
+      "Hymn No. 14 (1907)"
+    ],
+    "title_translation": "Blessed Assurance in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Fanny J. Crosby (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "Phoebe P. Knapp (Tune 873 | Doh is G)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-014",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-011_jesuwui_laa_14_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 14 from Jesuwui La: Hymns in Tangkhul Naga (1907). 3 stanzas with chorus translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Ringkapha tui Jesu Amai!",
+          "Arui ithumli laishida lai;",
+          "Kahui samida ithum mahaira,",
+          "Mangla kathara wukli changra.",
+          "Chan hi iwaina, la hi phamei,",
+          "Jesu amangli sochikatsa."
+        ],
+        "lines_translation": [
+          "Blessed assurance, Jesus is mine!",
+          "Oh, what a foretaste of glory divine!",
+          "Heir of salvation, purchase of God,",
+          "Born of His Spirit, washed in His blood.",
+          "This is my story, this is my song,",
+          "Praising my Savior all the day long."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Ali shitsangda ringphamaithui,",
+          "Hili ringshilala noda thaikui.",
+          "Kachingli kada kachama malai,",
+          "Makhanangmada ringphamang lai."
+        ],
+        "lines_translation": [
+          "Perfect submission, perfect delight,",
+          "Visions of rapture now burst on my sight;",
+          "Angels, descending, bring from above",
+          "Echoes of mercy, whispers of love."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Tui hi nganada kameo horhaisa,",
+          "Vari raimaida, ali changthasa.",
+          "Miwui vang aina thimaloda,",
+          "Ali shitsangda ya jilakra."
+        ],
+        "lines_translation": [
+          "Perfect submission, all is at rest,",
+          "I in my Savior am happy and blest,",
+          "Watching and waiting, looking above,",
+          "Filled with His goodness, lost in His love."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-012",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 17: Arui Ngayali Ili Ngachonlu",
+    "alternate_titles": [
+      "Abide with Me (Tangkhul)",
+      "Hymn No. 17 (1907)"
+    ],
+    "title_translation": "Abide with Me in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Henry F. Lyte (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "William H. Monk (Tune 297 | Doh is G)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-017",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-012_jesuwui_laa_17_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 17 from Jesuwui La: Hymns in Tangkhul Naga (1907). 6 complete stanzas translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Arui ngayali ili ngachonlu,",
+          "Tangmangtinghoda machihoalu.",
+          "Kataina mangachonlala Amai,",
+          "Nana ngachonrada, ithumna thai."
+        ],
+        "lines_translation": [
+          "Abide with me, fast falls the eventide;",
+          "The darkness deepens, Lord, with me abide.",
+          "When other helpers fail and comforts flee,",
+          "Help of the helpless, oh, abide with me."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Okkathui hi kashanaka pamli,",
+          "Ringkapha teoda thakta shimanli.",
+          "Mikumo pamli kashiman mang lai,",
+          "Na makashiman ishachaina."
+        ],
+        "lines_translation": [
+          "Swift to its close ebbs out life's little day;",
+          "Earth's joys grow dim, its glories pass away;",
+          "Change and decay in all around I see;",
+          "O Thou who changest not, abide with me."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Kharargida ili maraahi,",
+          "Lumashenda ili kharamihi;",
+          "Kakhanang thaida laishimaikapa,",
+          "Ishamai nana phamaikaplaka."
+        ],
+        "lines_translation": [
+          "Not a brief glance I beg, a passing word,",
+          "But as Thou dwell'st with Thy disciples, Lord,",
+          "Familiar, condescending, patient, free.",
+          "Come not to sojourn, but abide with me."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Minute kachida ngachon phalungra,",
+          "Chipeena ili yuipaishinada;",
+          "Ringkashi pamli ringkaphahla;",
+          "Jesu namang ithumli huishapa."
+        ],
+        "lines_translation": [
+          "I need Thy presence every passing hour;",
+          "What but Thy grace can foil the tempter's power?",
+          "Who like Thyself my guide and stay can be?",
+          "Through cloud and sunshine, Lord, abide with me."
+        ]
+      },
+      {
+        "stanza_number": 5,
+        "lines_tangkhul": [
+          "Hi ngasoda laichinghaiaka,",
+          "Yenggashibingli ina yuishapra.",
+          "Kathila raok kangachee malai,",
+          "Kachingli nali thaira Ishamai."
+        ],
+        "lines_translation": [
+          "I fear no foe, with Thee at hand to bless;",
+          "Ills have no weight, and tears no bitterness.",
+          "Where is death's sting? Where, grave, thy victory?",
+          "I triumph still, if Thou abide with me."
+        ]
+      },
+      {
+        "stanza_number": 6,
+        "lines_tangkhul": [
+          "Ina piki kachiurana,",
+          "Iwui ngalemli pamda mayonra.",
+          "Kahor khara aina angkar thuida,",
+          "Einda thihaila Amaina huira."
+        ],
+        "lines_translation": [
+          "Hold Thou Thy cross before my closing eyes;",
+          "Shine through the gloom and point me to the skies.",
+          "Heaven's morning breaks, and earth's vain shadows flee;",
+          "In life, in death, O Lord, abide with me."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-013",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 28: Jesuna Ili Laishi",
+    "alternate_titles": [
+      "Jesus, Lover of My Soul (Tangkhul)",
+      "Hymn No. 28 (1907)"
+    ],
+    "title_translation": "Jesus, Lover of My Soul in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Charles Wesley (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "Simeon B. Marsh (Tune 227 | Doh is F)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-028",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-013_jesuwui_laa_28_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 28 from Jesuwui La: Hymns in Tangkhul Naga (1907). 4 complete stanzas translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Jesuna ili laishi,",
+          "Nawui ngalemli pamga.",
+          "Kangachee chitharanli,",
+          "Ili huimilu ara.",
+          "Ina mathairanglaka,",
+          "Nawui pangli laichingga,",
+          "Chiaina iwui mangla,",
+          "Mashimanpailakmara."
+        ],
+        "lines_translation": [
+          "Jesus, Lover of my soul,",
+          "Let me to Thy bosom fly,",
+          "While the nearer waters roll,",
+          "While the tempest still is high.",
+          "Hide me, O my Savior, hide,",
+          "Till the storm of life is past;",
+          "Safe into the haven guide,",
+          "Oh, receive my soul at last."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Hui kashapa namanga,",
+          "Kangataili changshara.",
+          "Ili machihoalu,",
+          "Kamayonla mayonlu.",
+          "Namangli shitsangrali,",
+          "Namangna ngachon kami,",
+          "Chiaina ili yengda,",
+          "Kakhanang raichomira."
+        ],
+        "lines_translation": [
+          "Other refuge have I none,",
+          "Hangs my helpless soul on Thee;",
+          "Leave, ah! leave me not alone,",
+          "Still support and comfort me.",
+          "All my trust on Thee is stayed,",
+          "All my help from Thee I bring;",
+          "Cover my defenseless head",
+          "With the shadow of Thy wing."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Jesuna lan kathana,",
+          "Ina kuikangai chili",
+          "Nana mirada kapha,",
+          "Chiaina sochingrali.",
+          "Kagazali raikami,",
+          "Kangapeoli thai kami,",
+          "Ina moral phungda lai,",
+          "Na kathar mang sai, Amai."
+        ],
+        "lines_translation": [
+          "Thou, O Christ, art all I want;",
+          "More than all in Thee I find:",
+          "Raise the fallen, cheer the faint,",
+          "Heal the sick, and lead the blind.",
+          "Just and holy is Thy name,",
+          "I am all unrighteousness;",
+          "False and full of sin I am;",
+          "Thou art full of truth and grace."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Lumashenda laishida,",
+          "Moraili pheomisara.",
+          "Kapha ari mimungda,",
+          "Phasa thar kavai saiya.",
+          "Manglawui rakhonglaka,",
+          "Mungkangaila mungngaiya,",
+          "Iwui wukli pamchingda,",
+          "Noda nashili kara."
+        ],
+        "lines_translation": [
+          "Plenteous grace with Thee is found,",
+          "Grace to cover all my sin;",
+          "Let the healing streams abound,",
+          "Make and keep me pure within.",
+          "Thou of life the fountain art,",
+          "Freely let me take of Thee;",
+          "Spring Thou up within my heart,",
+          "Rise to all eternity."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SNG-HIST-014",
+    "resource_type": "songs",
+    "title": "Jesuwui Laa No. 31: Makashiman Lungkhuri",
+    "alternate_titles": [
+      "Rock of Ages (Tangkhul)",
+      "Hymn No. 31 (1907)"
+    ],
+    "title_translation": "Rock of Ages in Tangkhul Naga",
+    "singer": "Early Tangkhul Church Congregation",
+    "lyricist": "Augustus M. Toplady (Original) / Rev. William Pettigrew (Trans.)",
+    "composer": "Thomas Hastings / Richard Redhead (Tune 237)",
+    "collector": "Rev. William Pettigrew",
+    "performers": [],
+    "year": 1907,
+    "village": "Ukhrul",
+    "dialect": "Ukhrul Dialect (1907 Orthography)",
+    "song_type": "hymn",
+    "language": "Tangkhul",
+    "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "source_identifier": "PETTIGREW-1907-HYMN-031",
+    "recording_url": null,
+    "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+    "local_file_path": "data/raw/songs/SNG-HIST-014_jesuwui_laa_31_pettigrew_1907.txt",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Hymn No. 31 from Jesuwui La: Hymns in Tangkhul Naga (1907). 4 stanzas translated by Rev. William Pettigrew.",
+    "lyrics_stanzas": [
+      {
+        "stanza_number": 1,
+        "lines_tangkhul": [
+          "Makashiman lungkhuri,",
+          "Ina nali thumhaiga;",
+          "Na phasali runghoda,",
+          "Ashi shok kahai chili,",
+          "Chiaina iwui moral,",
+          "Pheomida kahui Amai."
+        ],
+        "lines_translation": [
+          "Rock of Ages, cleft for me,",
+          "Let me hide myself in Thee;",
+          "Let the water and the blood,",
+          "From Thy riven side which flowed,",
+          "Be of sin the double cure,",
+          "Cleanse me from its guilt and power."
+        ]
+      },
+      {
+        "stanza_number": 2,
+        "lines_tangkhul": [
+          "Nawui ningkami chili,",
+          "Sarada mararmana.",
+          "Ot sachinglala Amai,",
+          "Kachapla chapchinglala,",
+          "Iwui moral pheokavai,",
+          "Namangna pheoshaplakra."
+        ],
+        "lines_translation": [
+          "Not the labors of my hands",
+          "Can fulfill Thy law's demands;",
+          "Could my zeal no respite know,",
+          "Could my tears forever flow,",
+          "All for sin could not atone;",
+          "Thou must save, and Thou alone."
+        ]
+      },
+      {
+        "stanza_number": 3,
+        "lines_tangkhul": [
+          "Ipangli khika masing,",
+          "Krush chimangli kaphaning,",
+          "Khika mangavaimada,",
+          "Khika malailakmada,",
+          "Ili hui kavai rali,",
+          "Mahuiaka thirali."
+        ],
+        "lines_translation": [
+          "Nothing in my hand I bring,",
+          "Simply to Thy cross I cling;",
+          "Naked, come to Thee for dress;",
+          "Helpless, look to Thee for grace;",
+          "Foul, I to the fountain fly;",
+          "Wash me, Savior, or I die."
+        ]
+      },
+      {
+        "stanza_number": 4,
+        "lines_tangkhul": [
+          "Ina arui ringlaga,",
+          "Kathi chitharanlila,",
+          "Makathaiya kachingli,",
+          "Chan ngachek kavai pamli,",
+          "Thailaga Ishamaina",
+          "Ili nana kuihi jo!"
+        ],
+        "lines_translation": [
+          "While I draw this fleeting breath,",
+          "When mine eyes shall close in death,",
+          "When I soar to worlds unknown,",
+          "See Thee on Thy judgment throne,",
+          "Rock of Ages, cleft for me,",
+          "Let me hide myself in Thee."
+        ]
+      }
+    ]
+  }
+]

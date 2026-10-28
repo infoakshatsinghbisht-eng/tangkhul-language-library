@@ -1,0 +1,52 @@
+{
+  "id": "HIST-LANG-002",
+  "resource_type": "history",
+  "title": "Grierson's Linguistic Survey of India Tangkhul Classification",
+  "title_translation": "First Systematic Comparative Linguistic Survey of Tangkhul",
+  "creator": "Sir George A. Grierson",
+  "year": 1903,
+  "publisher": "Superintendent of Government Printing, Calcutta",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul & Comparative",
+  "village": "Ukhrul",
+  "place": "Calcutta / Ukhrul",
+  "category": "language_history",
+  "event_date": "1903",
+  "period": "Early 20th Century Colonial",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "BK-HIST-003",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-LANG-002.txt",
+  "verification_status": "verified",
+  "notes": "Comprehensive survey classifying Tangkhul within the Tibeto-Burman language family (Kuki-Chin-Naga group), containing grammatical sketches, vocabulary lists, and comparative dialect texts.",
+  "indigenous_tangkhul_chronicle": [
+    "1903 kumli Sir George A. Grierson Linguistic Survey of India (LSI, Vol. III, Part III)-li Tangkhul classification publish sakya.",
+    "Tangkhulic group-li classification sakda grammatical sketch, folk story texts, kala comparative vocabulary list sanga.",
+    "Comparative Tibeto-Burman research-li Tangkhul-wui structural importance international linguistics-li kashun shansangya."
+  ],
+  "english_translation_text": [
+    "In 1903, Sir George A. Grierson published the Tangkhul section in the monumental Linguistic Survey of India (Vol. III, Part III).",
+    "He classified Tangkhul in the Kuki-Chin-Naga sub-family, including grammatical paradigms, translated texts, and wordlists.",
+    "Grierson's survey established Tangkhul's scientific importance in Tibeto-Burman typological and morphological research."
+  ],
+  "chronicle_milestones": [
+    "1. 1898: Linguistic Survey of India questionnaires and translation samples distributed to Assam and Manipur administrations.",
+    "2. 1900–1902: Rev. Pettigrew submits Tangkhul interlinear glosses of the Parable of the Prodigal Son and vocabulary lists.",
+    "3. 1903: Publication of Volume III, Part III in Calcutta; comprehensive grammatical analysis of nominal and verbal prefixes.",
+    "4. Enduring Legacy: Remains the benchmark reference for comparative Tibeto-Burman classification."
+  ],
+  "key_figures": [
+    "Sir George A. Grierson",
+    "Rev. William Pettigrew (Contributor)",
+    "LSI Editorial Team"
+  ],
+  "geographical_scope": "Calcutta (Publication) & Ukhrul (Data Collection)",
+  "historical_significance": "Elevated Tangkhul from an unmapped tribal dialect into an internationally recognized and classified language of Asia.",
+  "historical_terms": {
+    "Tuitam-Kashuk": "Systematic grammatical survey",
+    "Kharashun": "Scientific classification into language families",
+    "Pakhang-tui": "Interlinear text translation sample",
+    "Ngathur-tui": "Dialectal branching and family trees"
+  }
+}

@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SHIMWUI CHUMPHA
+IDENTIFIER: LIT-STRY-006 | GENRE: SHORT_STORY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Shimwui Chumpha
+  Title Translation:     The Granary Opening: A Festival Story
+  Literary Genre / Type: short_story (short_story)
+  Author / Storyteller:  V. Ruivah
+  Publication Year:      2002
+  Publisher:             Anthropological Literary Series, Imphal
+  Village / Dialect:     Somdal [Standard Tangkhul]
+  Source Identifier:     Ruivah-2002-SWC
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Scholarly Publication (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Cultural short story depicting the solemn winter ritual of opening the family granary (Chumpha), invocations for blessing, and customary grain sharing with orphans.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Kashung winter chiko kashungli Somdal ramli Chumpha phanit kaphong kashak-kakhayei sakashung.
+  Mayarnao Luingamna shim-wui mum eina atonao eili ngateitekha chum-kashak pamli kazat shurhaowa.
+
+  Chum-wui khamahon kachashung eina awungana ancestral invocation chants horda kazingli kakhon pida mashitsang.
+  'Kazing-Awunga, luikashak wui charā hi kazeiram eina ngaleili kapam kashunao kachiva-li kapha pimi-lu!'
+
+  Chumpha wui thotharan kashunao kala kacham-kacham miyaongao kachiva-li charā eina sha-ngaprum thar-manda.
+  Luingamna theilaga, 'Tangkhul ngashan mirin hi charā theikhavai maningmana, community mutual aid eina ngasamtit mirin laka!'
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In the cold crisp days of early winter, Somdal village prepared for the solemn celebration of the Chumpha festival.
+  Young Luingam accompanied his grandfather and family elders to the ancestral household granary (Chum).
+
+  With measured solemnity, the village headman recited the ancient granary-opening invocations toward heaven:
+  'O Sovereign Creator, bless this golden harvest of terrace rice so that no orphan or neighbor goes hungry!'
+
+  During Chumpha, harvested grain is systematically apportioned to widows, orphans, and needy village households.
+  Watching this generous distribution, young Luingam realized that Tangkhul culture is founded on profound communal mutual aid.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * The harvest thanksgiving festival and granary opening (*Chumpha Phanit*)
+  * Customary wealth redistribution and social welfare for vulnerable households
+  * Sacred reverence for terrace rice (*Charā*) as ancestral sustenance
+  * Generational initiation of youth into institutionalized community generosity
+
+STRUCTURE & POETIC METER: Observational social realism short story alternating descriptive ritual prose with elder invocation dialogues.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Written by anthropologist and literary writer V. Ruivah, this story documents the institutional generosity embedded in the traditional Chumpha festival, demonstrating how traditional agrarian festivals served as effective communal safety nets.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Chumpha                : Sacred winter harvest festival marking the formal opening of grain storage barns
+  * Chum                   : Customary raised timber granary built separate from dwellings to safeguard against fire
+  * Charā                  : Harvested unhusked rice / paddy grain, sacred gift of the earth
+  * Awunga                 : Village chief / hereditary headman responsible for customary rites
+
+================================================================================
+END OF RECORD: LIT-STRY-006 - Tangkhul Language Library Digital Archive
+================================================================================

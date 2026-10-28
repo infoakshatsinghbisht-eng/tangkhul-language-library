@@ -1,0 +1,55 @@
+{
+  "id": "LIT-PLAY-001",
+  "resource_type": "literature",
+  "title": "Shongza",
+  "title_translation": "Shongza: A Tangkhul Drama",
+  "creator": "Tangkhul Literature Society Dramatic Board",
+  "author": "Tangkhul Literature Society",
+  "year": 2007,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "play",
+  "work_type": "play",
+  "genres": [
+    "play"
+  ],
+  "book_id": "BK-TLS-014",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-014",
+  "license": "Educational Curriculum",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-PLAY-001.txt",
+  "notes": "Major full-length theatrical drama written for undergraduate literature studies, addressing customary clan dispute arbitration, youth romance, and modern social reconciliation.",
+  "indigenous_tangkhul_text": [
+    "Scene 1: Hangva elders council meets at the village sanctuary to arbitrate a disputed terraced border.",
+    "Shongzana mayarnao-bingli customary law (Ngashan) kala peaceful mediation-wui virtue interpret sakya.",
+    "Customary oaths (Lung-Kashun) kala ancestral covenants-na village warfare-wui tragedy avert sakya.",
+    "Dialogue balances classical oratorical Tangkhul with realistic village colloquial idiom."
+  ],
+  "english_translation_text": [
+    "Act I: The council of elders (*Hangva*) convenes at the village assembly ground to arbitrate a boundary conflict.",
+    "Shongza, the noble mediator, passionately articulates the sanctity of customary jurisprudence and peace.",
+    "Through sacred stone covenants (*Lung-Kashun*), clan vengeance is averted and harmony restored.",
+    "The dramatic dialogue balances dignified classical rhetoric with lively, authentic village speech."
+  ],
+  "literary_themes": [
+    "Traditional customary jurisprudence (*Ngashan*) and peaceful conflict resolution",
+    "The role of the orator-mediator (*Shongza*) in community welfare",
+    "The sacredness of land boundaries and ancestral oaths"
+  ],
+  "structure_and_meter": "Three-act theatrical stage play featuring structured dramatic conflict, choral interludes, and oratorical monologues.",
+  "critical_commentary": "Commissioned by the Tangkhul Literature Society Dramatic Board in 2007 for collegiate study, Shongza is widely recognized as a masterwork of modern indigenous drama.",
+  "poetic_vocabulary_terms": {
+    "Shongza": "The noble orator, peacemaker, and customary judicial advocate",
+    "Hangva": "Village elder council and judicial tribunal",
+    "Lung-Kashun": "Sacred stone covenant marking inviolable boundaries",
+    "Khamasit": "Peace pact and mutual reconciliation"
+  },
+  "stanza_count": 4,
+  "line_count": 4,
+  "text_availability": "full_text"
+}

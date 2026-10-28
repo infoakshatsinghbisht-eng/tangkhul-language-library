@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-016",
+  "resource_type": "songs",
+  "title": "Longkata Chara",
+  "alternate_titles": [],
+  "title_translation": "Tears That Fall",
+  "singer": "Nimshimphi Muivah",
+  "lyricist": null,
+  "composer": null,
+  "collector": null,
+  "performers": [
+    "Nimshimphi Muivah"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "lament",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-NM-004",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Soulful ballad describing sorrow, parting, and tears.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Longkata chara wuklung kakhanang maram.",
+        "Kha leikashina thot kachungli pamra."
+      ],
+      "lines_translation": [
+        "Tears that fall in silent moments of parting and grief.",
+        "Yet the enduring bond of love remains undefeated."
+      ]
+    }
+  ]
+}

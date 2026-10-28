@@ -1,0 +1,108 @@
+{
+  "id": "SNG-HIST-014",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 31: Makashiman Lungkhuri",
+  "alternate_titles": [
+    "Rock of Ages (Tangkhul)",
+    "Hymn No. 31 (1907)"
+  ],
+  "title_translation": "Rock of Ages in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "Augustus M. Toplady (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "Thomas Hastings / Richard Redhead (Tune 237)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-031",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-014_jesuwui_laa_31_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 31 from Jesuwui La: Hymns in Tangkhul Naga (1907). 4 stanzas translated by Rev. William Pettigrew.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Makashiman lungkhuri,",
+        "Ina nali thumhaiga;",
+        "Na phasali runghoda,",
+        "Ashi shok kahai chili,",
+        "Chiaina iwui moral,",
+        "Pheomida kahui Amai."
+      ],
+      "lines_translation": [
+        "Rock of Ages, cleft for me,",
+        "Let me hide myself in Thee;",
+        "Let the water and the blood,",
+        "From Thy riven side which flowed,",
+        "Be of sin the double cure,",
+        "Cleanse me from its guilt and power."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Nawui ningkami chili,",
+        "Sarada mararmana.",
+        "Ot sachinglala Amai,",
+        "Kachapla chapchinglala,",
+        "Iwui moral pheokavai,",
+        "Namangna pheoshaplakra."
+      ],
+      "lines_translation": [
+        "Not the labors of my hands",
+        "Can fulfill Thy law's demands;",
+        "Could my zeal no respite know,",
+        "Could my tears forever flow,",
+        "All for sin could not atone;",
+        "Thou must save, and Thou alone."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Ipangli khika masing,",
+        "Krush chimangli kaphaning,",
+        "Khika mangavaimada,",
+        "Khika malailakmada,",
+        "Ili hui kavai rali,",
+        "Mahuiaka thirali."
+      ],
+      "lines_translation": [
+        "Nothing in my hand I bring,",
+        "Simply to Thy cross I cling;",
+        "Naked, come to Thee for dress;",
+        "Helpless, look to Thee for grace;",
+        "Foul, I to the fountain fly;",
+        "Wash me, Savior, or I die."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "lines_tangkhul": [
+        "Ina arui ringlaga,",
+        "Kathi chitharanlila,",
+        "Makathaiya kachingli,",
+        "Chan ngachek kavai pamli,",
+        "Thailaga Ishamaina",
+        "Ili nana kuihi jo!"
+      ],
+      "lines_translation": [
+        "While I draw this fleeting breath,",
+        "When mine eyes shall close in death,",
+        "When I soar to worlds unknown,",
+        "See Thee on Thy judgment throne,",
+        "Rock of Ages, cleft for me,",
+        "Let me hide myself in Thee."
+      ]
+    }
+  ]
+}

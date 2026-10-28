@@ -1,0 +1,85 @@
+# Complete Digital Lexicographical Record: Linguistic Survey of India: Tangkhul Vocabulary and Comparative Wordlist
+# Identifier: DIC-LSI-001
+# Primary Creator / Lexicographer: George A. Grierson
+# Publication Year: 1903
+# Publisher: Superintendent of Government Printing, Calcutta
+# Language Pair: English-Tangkhul
+# Dialect Variety: Ukhrul
+# Source Classification: wordlist
+# License: Public Domain
+# Permission Status: public_domain
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Linguistic Survey of India: Tangkhul Vocabulary and Comparative Wordlist
+ALTERNATE TITLE: Tangkhul Wordlist from Linguistic Survey of India
+COMPILER / AUTHORS: George A. Grierson
+YEAR: 1903
+PUBLISHING BODY: Superintendent of Government Printing, Calcutta
+DIALECT / VARIETY: Ukhrul
+SOURCE IDENTIFIER: LSI-Vol-III-Part-II
+CANONICAL SOURCE URL: https://dsal.uchicago.edu/books/lsi/
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Published in 1903 as part of Volume III, Part II of Sir George Abraham Grierson's monumental Linguistic Survey of India (LSI). Documents 241 standard comparative vocabulary items and grammatical paradigm tables elicited from native Tangkhul speakers in Ukhrul. One of the most widely cited early sources for Tibeto-Burman comparative linguistics.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Uses Roman orthography with acute accents and macrons for vowel length. Includes standard comparative numbering from 1 to 241 matching other languages across the British Indian Empire.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (16 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. mi (noun) -- man, human being, person [Citation: p. 17]
+   Context / Example: Mi akha wui wari (Story of a certain man).
+
+ENTRY  2. mayarnao (noun) -- boy, young man, son [Citation: p. 17]
+   Context / Example: Mayarnao mayawon (Youthful and strong son).
+
+ENTRY  3. ngalanao (noun) -- girl, maiden, unmarried daughter [Citation: p. 17]
+   Context / Example: Ngalanao kakhon (Adorned village maiden).
+
+ENTRY  4. khamasung (noun) -- nose, olfactory organ [Citation: p. 17]
+   Context / Example: Khamasung eina shiman (Smelling with the nose).
+
+ENTRY  5. ha (noun) -- tooth [Citation: p. 17]
+   Context / Example: Ha kachang (White and healthy teeth).
+
+ENTRY  6. murva (noun) -- hair of the head [Citation: p. 17]
+   Context / Example: Murva kaza (Braided traditional hair).
+
+ENTRY  7. malei (noun) -- tongue [Citation: p. 17]
+   Context / Example: Malei kaphung (Tongue for human speech).
+
+ENTRY  8. zingsho (noun) -- sun, solar sphere [Citation: p. 17]
+   Context / Example: Zingsho rili (Basking in the morning sun).
+
+ENTRY  9. kachang (noun) -- moon, lunar month [Citation: p. 17]
+   Context / Example: Kachang kachung (Full moon night).
+
+ENTRY 10. sirak (noun) -- star, stellar point [Citation: p. 17]
+   Context / Example: Sirak kachang (Twinkling star in the firmament).
+
+ENTRY 11. kazing (noun) -- sky, weather, season [Citation: p. 17]
+   Context / Example: Kazing mathasek (Clear blue mountain sky).
+
+ENTRY 12. akha (num) -- one, single [Citation: p. 18]
+   Context / Example: Mi akha (One person alone).
+
+ENTRY 13. khani (num) -- two, pair [Citation: p. 18]
+   Context / Example: Nao khani (Two sons in the household).
+
+ENTRY 14. kathum (num) -- three, triad [Citation: p. 18]
+   Context / Example: Kum kathum (Three years passed).
+
+ENTRY 15. mati (num) -- four, quadruplet [Citation: p. 18]
+   Context / Example: Shim mati (Four houses in the clan).
+
+ENTRY 16. phanga (num) -- five [Citation: p. 18] [Alt: p hanga]
+   Context / Example: Longkhor phanga (Five harvest baskets).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Public Domain
+Permission Tier: public_domain
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. George A. Grierson (1903). Linguistic Survey of India: Tangkhul Vocabulary and Comparative Wordlist. Superintendent of Government Printing, Calcutta.
+=======================================================================

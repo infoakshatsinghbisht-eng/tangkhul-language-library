@@ -1,0 +1,1245 @@
+{
+  "id": "BK-ARCH-004",
+  "resource_type": "books",
+  "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa",
+  "alternate_titles": [
+    "The Gospel of St. John in Tangkhul Naga (1904)"
+  ],
+  "authors": [
+    "William Pettigrew"
+  ],
+  "editors": [],
+  "publisher": "British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+  "publication_year": 1904,
+  "year": 1904,
+  "edition": "First Edition",
+  "subject": "Biblical Literature & Early Linguistic Translation",
+  "educational_level": "Historical / Scriptural / Linguistic",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/gospelofstjohnintangkhul1904",
+  "source_identifier": "BFBS-TKH-1904-JOHN",
+  "catalogue_url": "https://archive.org/details/gospelofstjohnintangkhul1904",
+  "local_file_path": "data/raw/books/BK-ARCH-004_pettigrew_1904.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Pioneering 1904 translation of the Gospel of John into Ukhrul Tangkhul by Rev. William Pettigrew. Published by BFBS. Public Domain.",
+  "front_matter": {
+    "title_page": {
+      "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa",
+      "alternate_titles": [
+        "The Gospel of St. John in Tangkhul Naga (1904)"
+      ],
+      "authors": [
+        "William Pettigrew"
+      ],
+      "editors": [],
+      "publisher": "British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+      "publication_year": 1904,
+      "edition": "First Edition",
+      "educational_level": "Historical / Scriptural / Linguistic",
+      "subject": "Biblical Literature & Early Linguistic Translation",
+      "language": "Tangkhul",
+      "dialect": "Ukhrul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-ARCH-004",
+      "license": "Public Domain",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "BFBS-TKH-1904-JOHN",
+      "source_url": "https://archive.org/details/gospelofstjohnintangkhul1904"
+    },
+    "preface": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa (The Gospel According to St. John in Tangkhul Naga), translated from the original Greek by Rev. William Pettigrew. Published in London by the British and Foreign Bible Society in 1904; printed at the Baptist Mission Press, Calcutta. This landmark volume represents the first printed continuous scripture portion in the Tangkhul Naga language in the Ukhrul dialect."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Kaphung-kachungwui Tui (The Word in the Beginning)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Cana Ramli Phankahai Thot (The Marriage in Cana)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Nicodemusli Tui Kaphung (Discourse with Nicodemus)",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Samaria Shanawui Tui (The Samaritan Woman at the Well)",
+      "page_start": 13,
+      "page_end": 14
+    },
+    {
+      "chapter_number": 5,
+      "title": "Bethesda Tuikhorli Thotkhamatei (Healing at Bethesda)",
+      "page_start": 15,
+      "page_end": 16
+    },
+    {
+      "chapter_number": 6,
+      "title": "Raruikatha Kachiwui Paothem (The Bread of Life)",
+      "page_start": 17,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 7,
+      "title": "Haring Tara Kong (Rivers of Living Water)",
+      "page_start": 19,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Kaphung-kachungwui Tui (The Word in the Beginning)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "The prologue to St. John: The Word was with God, life, light, and the testimony of John the Baptist.",
+      "tangkhul_text": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli leisai. Ali vangteina ot kathata pamei sakahaisai; Awui chungli haring kasawui maram leisai; kala haring chi miwungwui khanganaso thotsai. Kala Tuichi miwung thot sakahaida i-wui ngachaili pamsai; kala i-thumna Awui mashunkashak theisai.",
+      "english_translation": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by Him. In Him was life, and the life was the light of men. And the Word was made flesh, and dwelt among us, and we beheld His glory, full of grace and truth.",
+      "vocabulary": [
+        {
+          "word": "Tui",
+          "pos": "noun",
+          "meaning": "word, divine discourse, logos"
+        },
+        {
+          "word": "Kaphung-kachung",
+          "pos": "noun",
+          "meaning": "the very beginning, ancient origin"
+        },
+        {
+          "word": "Varivara",
+          "pos": "proper noun",
+          "meaning": "God Almighty, Supreme Creator"
+        },
+        {
+          "word": "Khanganaso",
+          "pos": "noun",
+          "meaning": "light, radiant illumination"
+        },
+        {
+          "word": "Mashunkashak",
+          "pos": "noun",
+          "meaning": "glory, righteous majesty"
+        }
+      ],
+      "grammar_notes": "The copula clitic '-sai' signifies remote past narrative, while '-na' marks divine nominative agency.",
+      "exercises": [
+        {
+          "question": "How did Pettigrew translate 'the Word' (Logos) in Tangkhul?",
+          "type": "comprehension"
+        },
+        {
+          "question": "Explain the semantic adaptation of 'Varivara' for the Supreme Deity.",
+          "type": "linguistic_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Cana Ramli Phankahai Thot (The Marriage in Cana)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The first sign in Cana of Galilee: turning water into wine and the cleansing of the Temple in Jerusalem.",
+      "tangkhul_text": "Thot thumana phungli Galilee ramwui Cana shongli phankahai thotli amina pamsai; Jesu kala Awui ngashunbingli chili ho-ngarursai. Jesuna athumli hosa: Tuisin hili tara kaping zang-chihailu. Kala athumna ngathumda kaping zangsai. Phankahai wui pamshim-khararna tara chi khamarao kasada theiphun chitharan, kashak maram mathangsa mana. Kala Varivarawui shimli A se-bing kala tangka kakhalimbingi theida shim katharawui pammali khor-khaleisai.",
+      "english_translation": "On the third day there was a marriage in Cana of Galilee. Jesus and His disciples were invited. Jesus said unto them: Fill the waterpots with water. And they filled them to the brim. When the ruler of the feast tasted the water that was made wine, he knew not whence it was. And in the temple He found those that sold oxen and sheep, and drove them out of the holy place.",
+      "vocabulary": [
+        {
+          "word": "Phankahai",
+          "pos": "noun",
+          "meaning": "marriage ceremony, wedding feast"
+        },
+        {
+          "word": "Tuisin",
+          "pos": "noun",
+          "meaning": "waterpot, earthen water vessel"
+        },
+        {
+          "word": "Khamarao",
+          "pos": "noun",
+          "meaning": "wine, ceremonial grape beverage"
+        },
+        {
+          "word": "Pamshim-kharar",
+          "pos": "noun",
+          "meaning": "governor of the feast, master of ceremonies"
+        }
+      ],
+      "grammar_notes": "Prefix 'ka-' with stative stem '-ping' (full) forms the participial modifier 'kaping' (completely full).",
+      "exercises": [
+        {
+          "question": "Where did the first miracle take place in Tangkhul?",
+          "type": "factual"
+        },
+        {
+          "question": "What Tangkhul phrase translates 'filled to the brim'?",
+          "type": "translation"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Nicodemusli Tui Kaphung (Discourse with Nicodemus)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Discourse on spiritual rebirth from above, the work of the Spirit, and the love of God for the world.",
+      "tangkhul_text": "Phariseebingwui ngachaili Nicodemus kahona mi akhat pamsai, aya Judea miwungwui khararsai. Jesuna ngahanda hosa: Kaphung-kachangli Ina nali hosa, mi akhatna thot katharada mazat-khalakha Varivarawui kazingram theikhami mathailak mana. Kha Varivarana ngalei hiwui miwungli kongashi-kasa thotna, Amani Makaza Mayarwui khali ngashir-khami, chiya Ali kachithek phungmei khikha masiman-lakla, kashak thotwui haring kazang pamsai.",
+      "english_translation": "There was a man of the Pharisees named Nicodemus, a ruler of the Jews. Jesus answered: Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.",
+      "vocabulary": [
+        {
+          "word": "Thot kathara",
+          "pos": "noun phrase",
+          "meaning": "new birth, born again, regenerated life"
+        },
+        {
+          "word": "Kazingram",
+          "pos": "noun",
+          "meaning": "heaven, the celestial kingdom"
+        },
+        {
+          "word": "Kongashi-kasa",
+          "pos": "verb phrase",
+          "meaning": "to love tenderly, divine agape love"
+        },
+        {
+          "word": "Makaza Mayar",
+          "pos": "noun phrase",
+          "meaning": "only-begotten Son"
+        }
+      ],
+      "grammar_notes": "Conditional suffix '-khalakha' (unless / except) governs the subjunctive negative verbal stem 'mazat-'.",
+      "exercises": [
+        {
+          "question": "Translate John 3:16 from Tangkhul into English.",
+          "type": "translation"
+        },
+        {
+          "question": "Identify the theological terms used for 'heaven' and 'everlasting life'.",
+          "type": "textual_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Samaria Shanawui Tui (The Samaritan Woman at the Well)",
+      "page_start": 13,
+      "page_end": 14,
+      "summary": "Jesus at Jacob's well in Sychar of Samaria: living water and worshipping God in spirit and truth.",
+      "tangkhul_text": "Jesu zattangda Jacobwui tuikhor ngalenli pamsai. Samaria shanawui akhatna tara khaphungli rasai; Jesuna ali hosa: Ili tara mangkhami khalu. Ina khami tara khamang chi thangmatharada khangaraophung mapamlik mana; kha Ina khami tara chi awui chungli kashak thotwui haring kaphanwui tuikhor thot salikha. Varivaraya Mangan thotsai; kala Ali khangamorbingna Mangan kala Kashungli khangamor kashungsa.",
+      "english_translation": "Jesus sat thus on the well of Jacob. There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink. Whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life. God is a Spirit: and they that worship Him must worship Him in spirit and in truth.",
+      "vocabulary": [
+        {
+          "word": "Tuikhor",
+          "pos": "noun",
+          "meaning": "well, freshwater spring"
+        },
+        {
+          "word": "Khangaraophung",
+          "pos": "noun",
+          "meaning": "thirst, physical or spiritual longing"
+        },
+        {
+          "word": "Mangan",
+          "pos": "noun",
+          "meaning": "spirit, soul, transcendent essence"
+        },
+        {
+          "word": "Khangamor",
+          "pos": "verb / noun",
+          "meaning": "to worship, reverent bow"
+        }
+      ],
+      "grammar_notes": "The dual case postposition 'kala' pairs 'Mangan' (Spirit) and 'Kashung' (Truth) as twin coordinates.",
+      "exercises": [
+        {
+          "question": "Where was the well located according to the text?",
+          "type": "factual"
+        },
+        {
+          "question": "What is the requirement for true worshippers stated in John 4:24?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Bethesda Tuikhorli Thotkhamatei (Healing at Bethesda)",
+      "page_start": 15,
+      "page_end": 16,
+      "summary": "Healing of the infirm man of thirty-eight years at Bethesda on the Sabbath and discourse on divine authority.",
+      "tangkhul_text": "Jerusalemli sayat kachung khami gate wui pammali Bethesda kahona tuikhor pamsai. Chili kum thumchitaruk kachang kazat akhatna pamsai; Jesuna ali theida hosa: Nana kaphara phasasholakha? Jesuna ali hosa: Ngakaranglu, nawui khamathali phunglu kala zatlu! Kaphung-kachangli Ina nithumli hosa, Iwui tui kakhangasho kala Ili kasobingli kachithekna kashak thotwui haring leisai, kala thikahaiwui ngachaili haringli kaphan theisai.",
+      "english_translation": "Now there is at Jerusalem by the sheep market a pool called Bethesda. A certain man was there, which had an infirmity thirty and eight years. Jesus saith unto him, Wilt thou be made whole? Rise, take up thy bed, and walk! Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and is passed from death unto life.",
+      "vocabulary": [
+        {
+          "word": "Thotkhamatei",
+          "pos": "noun",
+          "meaning": "miracle, supernatural wonder, sign"
+        },
+        {
+          "word": "Ngakaranglu",
+          "pos": "imperative verb",
+          "meaning": "arise, stand up immediately"
+        },
+        {
+          "word": "Khamatha",
+          "pos": "noun",
+          "meaning": "sleeping mat, traditional mattress"
+        },
+        {
+          "word": "Thikahai",
+          "pos": "noun",
+          "meaning": "death, mortality, departed state"
+        }
+      ],
+      "grammar_notes": "Imperative suffix '-lu' forms strong commands: 'ngakaranglu' (arise!), 'phunglu' (take up!), 'zatlu' (walk!).",
+      "exercises": [
+        {
+          "question": "For how many years was the man infirm at Bethesda?",
+          "type": "factual"
+        },
+        {
+          "question": "What three commands did Jesus give the healed man?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Raruikatha Kachiwui Paothem (The Bread of Life)",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "Feeding of the multitudes and declaration: I am the living bread that came down from heaven.",
+      "tangkhul_text": "Jesuna athumli hosa: Ina haringwui raruikatha thotsai; Iwui kachungli khara chi thangmatharada kharashok mapamlik mana; kala Ili kachithek chi thangmatharada khangaraophung mapamlik mana. Simon Peterna ngahanda hosa: O Mapao, ithumna khipalishong zatta katha? Nawui kachungli kashak thotwui tui pamsai. Kala ithumna chitheksai kala theisai Nana Varivarawui Kathara chi thotsai.",
+      "english_translation": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. Simon Peter answered Him, Lord, to whom shall we go? Thou hast the words of eternal life. And we believe and are sure that thou art that Christ, the Son of the living God.",
+      "vocabulary": [
+        {
+          "word": "Raruikatha",
+          "pos": "noun",
+          "meaning": "bread, food of life, sustenance"
+        },
+        {
+          "word": "Kharashok",
+          "pos": "noun",
+          "meaning": "hunger, physical want of nourishment"
+        },
+        {
+          "word": "Kachithek",
+          "pos": "noun / verb",
+          "meaning": "faith, believing trust, conviction"
+        },
+        {
+          "word": "Kathara",
+          "pos": "adjective",
+          "meaning": "holy, pure, consecrated"
+        }
+      ],
+      "grammar_notes": "Double negative particle 'mapamlik mana' emphasizes categorical impossibility: shall never ever hunger.",
+      "exercises": [
+        {
+          "question": "What title did Simon Peter confess in John 6:69?",
+          "type": "factual"
+        },
+        {
+          "question": "Explain the metaphor of 'haringwui raruikatha'.",
+          "type": "theological_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Haring Tara Kong (Rivers of Living Water)",
+      "page_start": 19,
+      "page_end": 20,
+      "summary": "The proclamation at the Feast of Tabernacles: rivers of living water flowing from within.",
+      "tangkhul_text": "Phanitwui thang kashung chili Jesu ngakarangda kaho: Mi akhatna khangaraokhalakha Iwui kachungli rada manglu. Ili kachithekna, tui katharali kakashitheithata, awui malungli haring tara kong shokkasa pamsai. Kha Aya Manganwui maram hosa, chiya Ali kachithekna khapan kashung thotsai.",
+      "english_translation": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water. But this spake he of the Spirit, which they that believe on him should receive.",
+      "vocabulary": [
+        {
+          "word": "Tara kong",
+          "pos": "noun phrase",
+          "meaning": "flowing river, living stream"
+        },
+        {
+          "word": "Malung",
+          "pos": "noun",
+          "meaning": "heart, innermost belly, emotional center"
+        },
+        {
+          "word": "Shokkasa",
+          "pos": "verb participle",
+          "meaning": "flowing forth, welling up from within"
+        },
+        {
+          "word": "Kachungli",
+          "pos": "postposition",
+          "meaning": "unto, toward, into the presence of"
+        }
+      ],
+      "grammar_notes": "The compound noun 'tara kong' combines 'tara' (water) and 'kong' (river/stream) denoting an abundant torrent.",
+      "exercises": [
+        {
+          "question": "What promise is given to believers in John 7:38?",
+          "type": "comprehension"
+        },
+        {
+          "question": "What does 'malung' symbolize in Tangkhul psychology?",
+          "type": "cultural_analysis"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-ARCH-004",
+      "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa",
+      "lines": [
+        "TITLE: Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa",
+        "Identifier: BK-ARCH-004",
+        "Level: Historical / Scriptural / Linguistic | Subject: Biblical Literature & Early Linguistic Translation",
+        "Publisher: British and Foreign Bible Society, London / Baptist Mission Press, Calcutta (1904)",
+        "Language: Tangkhul (Ukhrul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa (The",
+        "Gospel According to St. John in Tangkhul Naga), translated from the",
+        "original Greek by Rev. William Pettigrew. Published in London by the",
+        "British and Foreign Bible Society in 1904; printed at the Baptist Mission",
+        "Press, Calcutta. This landmark volume represents the first printed",
+        "continuous scripture portion in the Tangkhul Naga language in the Ukhrul",
+        "dialect."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Kaphung-kachungwui Tui (The Word in the Beginning) (pp. 4-6)",
+        "  Chapter 2: Cana Ramli Phankahai Thot (The Marriage in Cana) (pp. 7-9)",
+        "  Chapter 3: Nicodemusli Tui Kaphung (Discourse with Nicodemus) (pp. 10-12)",
+        "  Chapter 4: Samaria Shanawui Tui (The Samaritan Woman at the Well) (pp. 13-14)",
+        "  Chapter 5: Bethesda Tuikhorli Thotkhamatei (Healing at Bethesda) (pp. 15-16)",
+        "  Chapter 6: Raruikatha Kachiwui Paothem (The Bread of Life) (pp. 17-18)",
+        "  Chapter 7: Haring Tara Kong (Rivers of Living Water) (pp. 19-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Kaphung-kachungwui Tui (The Word in the Beginning) (Page 4)",
+      "title": "Chapter 1: Kaphung-kachungwui Tui (The Word in the Beginning)",
+      "lines": [
+        "CHAPTER 1: KAPHUNG-KACHUNGWUI TUI (THE WORD IN THE BEGINNING)",
+        "Summary: The prologue to St. John: The Word was with God, life, light, and the testimony of John the Baptist.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei,",
+        "kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli",
+        "leisai. Ali vangteina ot kathata pamei sakahaisai; Awui chungli haring",
+        "kasawui maram leisai; kala haring chi miwungwui khanganaso thotsai. Kala",
+        "Tuichi miwung thot sakahaida i-wui ngachaili pamsai; kala i-thumna Awui",
+        "mashunkashak theisai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "In the beginning was the Word, and the Word was with God, and the Word",
+        "was God. The same was in the beginning with God. All things were made by",
+        "Him. In Him was life, and the life was the light of men. And the Word",
+        "was made flesh, and dwelt among us, and we beheld His glory, full of",
+        "grace and truth."
+      ],
+      "tangkhul_content": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli leisai. Ali vangteina ot kathata pamei sakahaisai; Awui chungli haring kasawui maram leisai; kala haring chi miwungwui khanganaso thotsai. Kala Tuichi miwung thot sakahaida i-wui ngachaili pamsai; kala i-thumna Awui mashunkashak theisai.",
+      "english_translation": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by Him. In Him was life, and the life was the light of men. And the Word was made flesh, and dwelt among us, and we beheld His glory, full of grace and truth.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 1: Continuation (Page 5)",
+      "title": "Chapter 1 (Continued)",
+      "lines": [
+        "CHAPTER 1: READING CONTINUATION (PAGE 5)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei,",
+        "kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli",
+        "leisai. Ali vangteina ot kathata pamei sakahaisai; Awui chungli haring",
+        "kasawui maram leisai; kala haring chi miwungwui khanganaso thotsai. Kala",
+        "Tuichi miwung thot sakahaida i-wui ngachaili pamsai; kala i-thumna Awui",
+        "mashunkashak theisai.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "In the beginning was the Word, and the Word was with God, and the Word",
+        "was God. The same was in the beginning with God. All things were made by",
+        "Him. In Him was life, and the life was the light of men. And the Word",
+        "was made flesh, and dwelt among us, and we beheld His glory, full of",
+        "grace and truth."
+      ],
+      "tangkhul_content": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli leisai. Ali vangteina ot kathata pamei sakahaisai; Awui chungli haring kasawui maram leisai; kala haring chi miwungwui khanganaso thotsai. Kala Tuichi miwung thot sakahaida i-wui ngachaili pamsai; kala i-thumna Awui mashunkashak theisai.",
+      "english_translation": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by Him. In Him was life, and the life was the light of men. And the Word was made flesh, and dwelt among us, and we beheld His glory, full of grace and truth.",
+      "notes": [
+        "Continuation reading page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 6)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Tui (noun): word, divine discourse, logos",
+        "  * Kaphung-kachung (noun): the very beginning, ancient origin",
+        "  * Varivara (proper noun): God Almighty, Supreme Creator",
+        "  * Khanganaso (noun): light, radiant illumination",
+        "  * Mashunkashak (noun): glory, righteous majesty",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The copula clitic '-sai' signifies remote past narrative, while '-na' marks divine nominative agency.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How did Pettigrew translate 'the Word' (Logos) in Tangkhul?",
+        "  ? Explain the semantic adaptation of 'Varivara' for the Supreme Deity."
+      ],
+      "tangkhul_content": "Tui: word, divine discourse, logos\nKaphung-kachung: the very beginning, ancient origin\nVarivara: God Almighty, Supreme Creator\nKhanganaso: light, radiant illumination\nMashunkashak: glory, righteous majesty",
+      "english_translation": "The copula clitic '-sai' signifies remote past narrative, while '-na' marks divine nominative agency.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Cana Ramli Phankahai Thot (The Marriage in Cana) (Page 7)",
+      "title": "Chapter 2: Cana Ramli Phankahai Thot (The Marriage in Cana)",
+      "lines": [
+        "CHAPTER 2: CANA RAMLI PHANKAHAI THOT (THE MARRIAGE IN CANA)",
+        "Summary: The first sign in Cana of Galilee: turning water into wine and the cleansing of the Temple in Jerusalem.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Thot thumana phungli Galilee ramwui Cana shongli phankahai thotli amina",
+        "pamsai; Jesu kala Awui ngashunbingli chili ho-ngarursai. Jesuna athumli",
+        "hosa: Tuisin hili tara kaping zang-chihailu. Kala athumna ngathumda",
+        "kaping zangsai. Phankahai wui pamshim-khararna tara chi khamarao kasada",
+        "theiphun chitharan, kashak maram mathangsa mana. Kala Varivarawui shimli",
+        "A se-bing kala tangka kakhalimbingi theida shim katharawui pammali khor-",
+        "khaleisai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "On the third day there was a marriage in Cana of Galilee. Jesus and His",
+        "disciples were invited. Jesus said unto them: Fill the waterpots with",
+        "water. And they filled them to the brim. When the ruler of the feast",
+        "tasted the water that was made wine, he knew not whence it was. And in",
+        "the temple He found those that sold oxen and sheep, and drove them out",
+        "of the holy place."
+      ],
+      "tangkhul_content": "Thot thumana phungli Galilee ramwui Cana shongli phankahai thotli amina pamsai; Jesu kala Awui ngashunbingli chili ho-ngarursai. Jesuna athumli hosa: Tuisin hili tara kaping zang-chihailu. Kala athumna ngathumda kaping zangsai. Phankahai wui pamshim-khararna tara chi khamarao kasada theiphun chitharan, kashak maram mathangsa mana. Kala Varivarawui shimli A se-bing kala tangka kakhalimbingi theida shim katharawui pammali khor-khaleisai.",
+      "english_translation": "On the third day there was a marriage in Cana of Galilee. Jesus and His disciples were invited. Jesus said unto them: Fill the waterpots with water. And they filled them to the brim. When the ruler of the feast tasted the water that was made wine, he knew not whence it was. And in the temple He found those that sold oxen and sheep, and drove them out of the holy place.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 2: Continuation (Page 8)",
+      "title": "Chapter 2 (Continued)",
+      "lines": [
+        "CHAPTER 2: READING CONTINUATION (PAGE 8)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Thot thumana phungli Galilee ramwui Cana shongli phankahai thotli amina",
+        "pamsai; Jesu kala Awui ngashunbingli chili ho-ngarursai. Jesuna athumli",
+        "hosa: Tuisin hili tara kaping zang-chihailu. Kala athumna ngathumda",
+        "kaping zangsai. Phankahai wui pamshim-khararna tara chi khamarao kasada",
+        "theiphun chitharan, kashak maram mathangsa mana. Kala Varivarawui shimli",
+        "A se-bing kala tangka kakhalimbingi theida shim katharawui pammali khor-",
+        "khaleisai.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "On the third day there was a marriage in Cana of Galilee. Jesus and His",
+        "disciples were invited. Jesus said unto them: Fill the waterpots with",
+        "water. And they filled them to the brim. When the ruler of the feast",
+        "tasted the water that was made wine, he knew not whence it was. And in",
+        "the temple He found those that sold oxen and sheep, and drove them out",
+        "of the holy place."
+      ],
+      "tangkhul_content": "Thot thumana phungli Galilee ramwui Cana shongli phankahai thotli amina pamsai; Jesu kala Awui ngashunbingli chili ho-ngarursai. Jesuna athumli hosa: Tuisin hili tara kaping zang-chihailu. Kala athumna ngathumda kaping zangsai. Phankahai wui pamshim-khararna tara chi khamarao kasada theiphun chitharan, kashak maram mathangsa mana. Kala Varivarawui shimli A se-bing kala tangka kakhalimbingi theida shim katharawui pammali khor-khaleisai.",
+      "english_translation": "On the third day there was a marriage in Cana of Galilee. Jesus and His disciples were invited. Jesus said unto them: Fill the waterpots with water. And they filled them to the brim. When the ruler of the feast tasted the water that was made wine, he knew not whence it was. And in the temple He found those that sold oxen and sheep, and drove them out of the holy place.",
+      "notes": [
+        "Continuation reading page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Phankahai (noun): marriage ceremony, wedding feast",
+        "  * Tuisin (noun): waterpot, earthen water vessel",
+        "  * Khamarao (noun): wine, ceremonial grape beverage",
+        "  * Pamshim-kharar (noun): governor of the feast, master of ceremonies",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Prefix 'ka-' with stative stem '-ping' (full) forms the participial modifier 'kaping' (completely full).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Where did the first miracle take place in Tangkhul?",
+        "  ? What Tangkhul phrase translates 'filled to the brim'?"
+      ],
+      "tangkhul_content": "Phankahai: marriage ceremony, wedding feast\nTuisin: waterpot, earthen water vessel\nKhamarao: wine, ceremonial grape beverage\nPamshim-kharar: governor of the feast, master of ceremonies",
+      "english_translation": "Prefix 'ka-' with stative stem '-ping' (full) forms the participial modifier 'kaping' (completely full).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Nicodemusli Tui Kaphung (Discourse with Nicodemus) (Page 10)",
+      "title": "Chapter 3: Nicodemusli Tui Kaphung (Discourse with Nicodemus)",
+      "lines": [
+        "CHAPTER 3: NICODEMUSLI TUI KAPHUNG (DISCOURSE WITH NICODEMUS)",
+        "Summary: Discourse on spiritual rebirth from above, the work of the Spirit, and the love of God for the world.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Phariseebingwui ngachaili Nicodemus kahona mi akhat pamsai, aya Judea",
+        "miwungwui khararsai. Jesuna ngahanda hosa: Kaphung-kachangli Ina nali",
+        "hosa, mi akhatna thot katharada mazat-khalakha Varivarawui kazingram",
+        "theikhami mathailak mana. Kha Varivarana ngalei hiwui miwungli kongashi-",
+        "kasa thotna, Amani Makaza Mayarwui khali ngashir-khami, chiya Ali",
+        "kachithek phungmei khikha masiman-lakla, kashak thotwui haring kazang",
+        "pamsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "There was a man of the Pharisees named Nicodemus, a ruler of the Jews.",
+        "Jesus answered: Verily, verily, I say unto thee, Except a man be born",
+        "again, he cannot see the kingdom of God. For God so loved the world,",
+        "that He gave His only begotten Son, that whosoever believeth in Him",
+        "should not perish, but have everlasting life."
+      ],
+      "tangkhul_content": "Phariseebingwui ngachaili Nicodemus kahona mi akhat pamsai, aya Judea miwungwui khararsai. Jesuna ngahanda hosa: Kaphung-kachangli Ina nali hosa, mi akhatna thot katharada mazat-khalakha Varivarawui kazingram theikhami mathailak mana. Kha Varivarana ngalei hiwui miwungli kongashi-kasa thotna, Amani Makaza Mayarwui khali ngashir-khami, chiya Ali kachithek phungmei khikha masiman-lakla, kashak thotwui haring kazang pamsai.",
+      "english_translation": "There was a man of the Pharisees named Nicodemus, a ruler of the Jews. Jesus answered: Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 3: Continuation (Page 11)",
+      "title": "Chapter 3 (Continued)",
+      "lines": [
+        "CHAPTER 3: READING CONTINUATION (PAGE 11)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Phariseebingwui ngachaili Nicodemus kahona mi akhat pamsai, aya Judea",
+        "miwungwui khararsai. Jesuna ngahanda hosa: Kaphung-kachangli Ina nali",
+        "hosa, mi akhatna thot katharada mazat-khalakha Varivarawui kazingram",
+        "theikhami mathailak mana. Kha Varivarana ngalei hiwui miwungli kongashi-",
+        "kasa thotna, Amani Makaza Mayarwui khali ngashir-khami, chiya Ali",
+        "kachithek phungmei khikha masiman-lakla, kashak thotwui haring kazang",
+        "pamsai.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "There was a man of the Pharisees named Nicodemus, a ruler of the Jews.",
+        "Jesus answered: Verily, verily, I say unto thee, Except a man be born",
+        "again, he cannot see the kingdom of God. For God so loved the world,",
+        "that He gave His only begotten Son, that whosoever believeth in Him",
+        "should not perish, but have everlasting life."
+      ],
+      "tangkhul_content": "Phariseebingwui ngachaili Nicodemus kahona mi akhat pamsai, aya Judea miwungwui khararsai. Jesuna ngahanda hosa: Kaphung-kachangli Ina nali hosa, mi akhatna thot katharada mazat-khalakha Varivarawui kazingram theikhami mathailak mana. Kha Varivarana ngalei hiwui miwungli kongashi-kasa thotna, Amani Makaza Mayarwui khali ngashir-khami, chiya Ali kachithek phungmei khikha masiman-lakla, kashak thotwui haring kazang pamsai.",
+      "english_translation": "There was a man of the Pharisees named Nicodemus, a ruler of the Jews. Jesus answered: Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.",
+      "notes": [
+        "Continuation reading page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 12)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Thot kathara (noun phrase): new birth, born again, regenerated life",
+        "  * Kazingram (noun): heaven, the celestial kingdom",
+        "  * Kongashi-kasa (verb phrase): to love tenderly, divine agape love",
+        "  * Makaza Mayar (noun phrase): only-begotten Son",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Conditional suffix '-khalakha' (unless / except) governs the subjunctive negative verbal stem 'mazat-'.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Translate John 3:16 from Tangkhul into English.",
+        "  ? Identify the theological terms used for 'heaven' and 'everlasting life'."
+      ],
+      "tangkhul_content": "Thot kathara: new birth, born again, regenerated life\nKazingram: heaven, the celestial kingdom\nKongashi-kasa: to love tenderly, divine agape love\nMakaza Mayar: only-begotten Son",
+      "english_translation": "Conditional suffix '-khalakha' (unless / except) governs the subjunctive negative verbal stem 'mazat-'.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Samaria Shanawui Tui (The Samaritan Woman at the Well) (Page 13)",
+      "title": "Chapter 4: Samaria Shanawui Tui (The Samaritan Woman at the Well)",
+      "lines": [
+        "CHAPTER 4: SAMARIA SHANAWUI TUI (THE SAMARITAN WOMAN AT THE WELL)",
+        "Summary: Jesus at Jacob's well in Sychar of Samaria: living water and worshipping God in spirit and truth.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Jesu zattangda Jacobwui tuikhor ngalenli pamsai. Samaria shanawui",
+        "akhatna tara khaphungli rasai; Jesuna ali hosa: Ili tara mangkhami",
+        "khalu. Ina khami tara khamang chi thangmatharada khangaraophung mapamlik",
+        "mana; kha Ina khami tara chi awui chungli kashak thotwui haring",
+        "kaphanwui tuikhor thot salikha. Varivaraya Mangan thotsai; kala Ali",
+        "khangamorbingna Mangan kala Kashungli khangamor kashungsa.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Jesus sat thus on the well of Jacob. There cometh a woman of Samaria to",
+        "draw water: Jesus saith unto her, Give me to drink. Whosoever drinketh",
+        "of the water that I shall give him shall never thirst; but the water",
+        "that I shall give him shall be in him a well of water springing up into",
+        "everlasting life. God is a Spirit: and they that worship Him must",
+        "worship Him in spirit and in truth."
+      ],
+      "tangkhul_content": "Jesu zattangda Jacobwui tuikhor ngalenli pamsai. Samaria shanawui akhatna tara khaphungli rasai; Jesuna ali hosa: Ili tara mangkhami khalu. Ina khami tara khamang chi thangmatharada khangaraophung mapamlik mana; kha Ina khami tara chi awui chungli kashak thotwui haring kaphanwui tuikhor thot salikha. Varivaraya Mangan thotsai; kala Ali khangamorbingna Mangan kala Kashungli khangamor kashungsa.",
+      "english_translation": "Jesus sat thus on the well of Jacob. There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink. Whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life. God is a Spirit: and they that worship Him must worship Him in spirit and in truth.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 14)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Tuikhor (noun): well, freshwater spring",
+        "  * Khangaraophung (noun): thirst, physical or spiritual longing",
+        "  * Mangan (noun): spirit, soul, transcendent essence",
+        "  * Khangamor (verb / noun): to worship, reverent bow",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The dual case postposition 'kala' pairs 'Mangan' (Spirit) and 'Kashung' (Truth) as twin coordinates.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Where was the well located according to the text?",
+        "  ? What is the requirement for true worshippers stated in John 4:24?"
+      ],
+      "tangkhul_content": "Tuikhor: well, freshwater spring\nKhangaraophung: thirst, physical or spiritual longing\nMangan: spirit, soul, transcendent essence\nKhangamor: to worship, reverent bow",
+      "english_translation": "The dual case postposition 'kala' pairs 'Mangan' (Spirit) and 'Kashung' (Truth) as twin coordinates.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Bethesda Tuikhorli Thotkhamatei (Healing at Bethesda) (Page 15)",
+      "title": "Chapter 5: Bethesda Tuikhorli Thotkhamatei (Healing at Bethesda)",
+      "lines": [
+        "CHAPTER 5: BETHESDA TUIKHORLI THOTKHAMATEI (HEALING AT BETHESDA)",
+        "Summary: Healing of the infirm man of thirty-eight years at Bethesda on the Sabbath and discourse on divine authority.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Jerusalemli sayat kachung khami gate wui pammali Bethesda kahona tuikhor",
+        "pamsai. Chili kum thumchitaruk kachang kazat akhatna pamsai; Jesuna ali",
+        "theida hosa: Nana kaphara phasasholakha? Jesuna ali hosa: Ngakaranglu,",
+        "nawui khamathali phunglu kala zatlu! Kaphung-kachangli Ina nithumli",
+        "hosa, Iwui tui kakhangasho kala Ili kasobingli kachithekna kashak",
+        "thotwui haring leisai, kala thikahaiwui ngachaili haringli kaphan",
+        "theisai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Now there is at Jerusalem by the sheep market a pool called Bethesda. A",
+        "certain man was there, which had an infirmity thirty and eight years.",
+        "Jesus saith unto him, Wilt thou be made whole? Rise, take up thy bed,",
+        "and walk! Verily, verily, I say unto you, He that heareth my word, and",
+        "believeth on him that sent me, hath everlasting life, and is passed from",
+        "death unto life."
+      ],
+      "tangkhul_content": "Jerusalemli sayat kachung khami gate wui pammali Bethesda kahona tuikhor pamsai. Chili kum thumchitaruk kachang kazat akhatna pamsai; Jesuna ali theida hosa: Nana kaphara phasasholakha? Jesuna ali hosa: Ngakaranglu, nawui khamathali phunglu kala zatlu! Kaphung-kachangli Ina nithumli hosa, Iwui tui kakhangasho kala Ili kasobingli kachithekna kashak thotwui haring leisai, kala thikahaiwui ngachaili haringli kaphan theisai.",
+      "english_translation": "Now there is at Jerusalem by the sheep market a pool called Bethesda. A certain man was there, which had an infirmity thirty and eight years. Jesus saith unto him, Wilt thou be made whole? Rise, take up thy bed, and walk! Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and is passed from death unto life.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 16)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Thotkhamatei (noun): miracle, supernatural wonder, sign",
+        "  * Ngakaranglu (imperative verb): arise, stand up immediately",
+        "  * Khamatha (noun): sleeping mat, traditional mattress",
+        "  * Thikahai (noun): death, mortality, departed state",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Imperative suffix '-lu' forms strong commands: 'ngakaranglu' (arise!), 'phunglu' (take up!), 'zatlu' (walk!).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? For how many years was the man infirm at Bethesda?",
+        "  ? What three commands did Jesus give the healed man?"
+      ],
+      "tangkhul_content": "Thotkhamatei: miracle, supernatural wonder, sign\nNgakaranglu: arise, stand up immediately\nKhamatha: sleeping mat, traditional mattress\nThikahai: death, mortality, departed state",
+      "english_translation": "Imperative suffix '-lu' forms strong commands: 'ngakaranglu' (arise!), 'phunglu' (take up!), 'zatlu' (walk!).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Raruikatha Kachiwui Paothem (The Bread of Life) (Page 17)",
+      "title": "Chapter 6: Raruikatha Kachiwui Paothem (The Bread of Life)",
+      "lines": [
+        "CHAPTER 6: RARUIKATHA KACHIWUI PAOTHEM (THE BREAD OF LIFE)",
+        "Summary: Feeding of the multitudes and declaration: I am the living bread that came down from heaven.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Jesuna athumli hosa: Ina haringwui raruikatha thotsai; Iwui kachungli",
+        "khara chi thangmatharada kharashok mapamlik mana; kala Ili kachithek chi",
+        "thangmatharada khangaraophung mapamlik mana. Simon Peterna ngahanda",
+        "hosa: O Mapao, ithumna khipalishong zatta katha? Nawui kachungli kashak",
+        "thotwui tui pamsai. Kala ithumna chitheksai kala theisai Nana",
+        "Varivarawui Kathara chi thotsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And Jesus said unto them, I am the bread of life: he that cometh to me",
+        "shall never hunger; and he that believeth on me shall never thirst.",
+        "Simon Peter answered Him, Lord, to whom shall we go? Thou hast the words",
+        "of eternal life. And we believe and are sure that thou art that Christ,",
+        "the Son of the living God."
+      ],
+      "tangkhul_content": "Jesuna athumli hosa: Ina haringwui raruikatha thotsai; Iwui kachungli khara chi thangmatharada kharashok mapamlik mana; kala Ili kachithek chi thangmatharada khangaraophung mapamlik mana. Simon Peterna ngahanda hosa: O Mapao, ithumna khipalishong zatta katha? Nawui kachungli kashak thotwui tui pamsai. Kala ithumna chitheksai kala theisai Nana Varivarawui Kathara chi thotsai.",
+      "english_translation": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. Simon Peter answered Him, Lord, to whom shall we go? Thou hast the words of eternal life. And we believe and are sure that thou art that Christ, the Son of the living God.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Raruikatha (noun): bread, food of life, sustenance",
+        "  * Kharashok (noun): hunger, physical want of nourishment",
+        "  * Kachithek (noun / verb): faith, believing trust, conviction",
+        "  * Kathara (adjective): holy, pure, consecrated",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Double negative particle 'mapamlik mana' emphasizes categorical impossibility: shall never ever hunger.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What title did Simon Peter confess in John 6:69?",
+        "  ? Explain the metaphor of 'haringwui raruikatha'."
+      ],
+      "tangkhul_content": "Raruikatha: bread, food of life, sustenance\nKharashok: hunger, physical want of nourishment\nKachithek: faith, believing trust, conviction\nKathara: holy, pure, consecrated",
+      "english_translation": "Double negative particle 'mapamlik mana' emphasizes categorical impossibility: shall never ever hunger.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Haring Tara Kong (Rivers of Living Water) (Page 19)",
+      "title": "Chapter 7: Haring Tara Kong (Rivers of Living Water)",
+      "lines": [
+        "CHAPTER 7: HARING TARA KONG (RIVERS OF LIVING WATER)",
+        "Summary: The proclamation at the Feast of Tabernacles: rivers of living water flowing from within.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Phanitwui thang kashung chili Jesu ngakarangda kaho: Mi akhatna",
+        "khangaraokhalakha Iwui kachungli rada manglu. Ili kachithekna, tui",
+        "katharali kakashitheithata, awui malungli haring tara kong shokkasa",
+        "pamsai. Kha Aya Manganwui maram hosa, chiya Ali kachithekna khapan",
+        "kashung thotsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "In the last day, that great day of the feast, Jesus stood and cried,",
+        "saying, If any man thirst, let him come unto me, and drink. He that",
+        "believeth on me, as the scripture hath said, out of his belly shall flow",
+        "rivers of living water. But this spake he of the Spirit, which they that",
+        "believe on him should receive."
+      ],
+      "tangkhul_content": "Phanitwui thang kashung chili Jesu ngakarangda kaho: Mi akhatna khangaraokhalakha Iwui kachungli rada manglu. Ili kachithekna, tui katharali kakashitheithata, awui malungli haring tara kong shokkasa pamsai. Kha Aya Manganwui maram hosa, chiya Ali kachithekna khapan kashung thotsai.",
+      "english_translation": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water. But this spake he of the Spirit, which they that believe on him should receive.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Tara kong (noun phrase): flowing river, living stream",
+        "  * Malung (noun): heart, innermost belly, emotional center",
+        "  * Shokkasa (verb participle): flowing forth, welling up from within",
+        "  * Kachungli (postposition): unto, toward, into the presence of",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The compound noun 'tara kong' combines 'tara' (water) and 'kong' (river/stream) denoting an abundant torrent.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What promise is given to believers in John 7:38?",
+        "  ? What does 'malung' symbolize in Tangkhul psychology?"
+      ],
+      "tangkhul_content": "Tara kong: flowing river, living stream\nMalung: heart, innermost belly, emotional center\nShokkasa: flowing forth, welling up from within\nKachungli: unto, toward, into the presence of",
+      "english_translation": "The compound noun 'tara kong' combines 'tara' (water) and 'kong' (river/stream) denoting an abundant torrent.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  Tui [noun]: word, divine discourse, logos",
+        "  Kaphung-kachung [noun]: the very beginning, ancient origin",
+        "  Varivara [proper noun]: God Almighty, Supreme Creator",
+        "  Khanganaso [noun]: light, radiant illumination",
+        "  Mashunkashak [noun]: glory, righteous majesty",
+        "  Phankahai [noun]: marriage ceremony, wedding feast",
+        "  Tuisin [noun]: waterpot, earthen water vessel",
+        "  Khamarao [noun]: wine, ceremonial grape beverage",
+        "  Pamshim-kharar [noun]: governor of the feast, master of ceremonies",
+        "  Thot kathara [noun phrase]: new birth, born again, regenerated life",
+        "  Kazingram [noun]: heaven, the celestial kingdom",
+        "  Kongashi-kasa [verb phrase]: to love tenderly, divine agape love",
+        "  Makaza Mayar [noun phrase]: only-begotten Son",
+        "  Tuikhor [noun]: well, freshwater spring",
+        "  Khangaraophung [noun]: thirst, physical or spiritual longing",
+        "  Mangan [noun]: spirit, soul, transcendent essence",
+        "  Khangamor [verb / noun]: to worship, reverent bow",
+        "  Thotkhamatei [noun]: miracle, supernatural wonder, sign",
+        "  Ngakaranglu [imperative verb]: arise, stand up immediately",
+        "  Khamatha [noun]: sleeping mat, traditional mattress",
+        "  Thikahai [noun]: death, mortality, departed state",
+        "  Raruikatha [noun]: bread, food of life, sustenance",
+        "  Kharashok [noun]: hunger, physical want of nourishment",
+        "  Kachithek [noun / verb]: faith, believing trust, conviction",
+        "  Kathara [adjective]: holy, pure, consecrated",
+        "  Tara kong [noun phrase]: flowing river, living stream",
+        "  Malung [noun]: heart, innermost belly, emotional center",
+        "  Shokkasa [verb participle]: flowing forth, welling up from within",
+        "  Kachungli [postposition]: unto, toward, into the presence of"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 29"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-ARCH-004",
+        "Title: Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa",
+        "Publisher: British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+        "Publication Year: 1904",
+        "Dialect Variety: Ukhrul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 7",
+        "Total Words Indexed: 813",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "Tui",
+        "pos": "noun",
+        "meaning": "word, divine discourse, logos"
+      },
+      {
+        "word": "Kaphung-kachung",
+        "pos": "noun",
+        "meaning": "the very beginning, ancient origin"
+      },
+      {
+        "word": "Varivara",
+        "pos": "proper noun",
+        "meaning": "God Almighty, Supreme Creator"
+      },
+      {
+        "word": "Khanganaso",
+        "pos": "noun",
+        "meaning": "light, radiant illumination"
+      },
+      {
+        "word": "Mashunkashak",
+        "pos": "noun",
+        "meaning": "glory, righteous majesty"
+      },
+      {
+        "word": "Phankahai",
+        "pos": "noun",
+        "meaning": "marriage ceremony, wedding feast"
+      },
+      {
+        "word": "Tuisin",
+        "pos": "noun",
+        "meaning": "waterpot, earthen water vessel"
+      },
+      {
+        "word": "Khamarao",
+        "pos": "noun",
+        "meaning": "wine, ceremonial grape beverage"
+      },
+      {
+        "word": "Pamshim-kharar",
+        "pos": "noun",
+        "meaning": "governor of the feast, master of ceremonies"
+      },
+      {
+        "word": "Thot kathara",
+        "pos": "noun phrase",
+        "meaning": "new birth, born again, regenerated life"
+      },
+      {
+        "word": "Kazingram",
+        "pos": "noun",
+        "meaning": "heaven, the celestial kingdom"
+      },
+      {
+        "word": "Kongashi-kasa",
+        "pos": "verb phrase",
+        "meaning": "to love tenderly, divine agape love"
+      },
+      {
+        "word": "Makaza Mayar",
+        "pos": "noun phrase",
+        "meaning": "only-begotten Son"
+      },
+      {
+        "word": "Tuikhor",
+        "pos": "noun",
+        "meaning": "well, freshwater spring"
+      },
+      {
+        "word": "Khangaraophung",
+        "pos": "noun",
+        "meaning": "thirst, physical or spiritual longing"
+      },
+      {
+        "word": "Mangan",
+        "pos": "noun",
+        "meaning": "spirit, soul, transcendent essence"
+      },
+      {
+        "word": "Khangamor",
+        "pos": "verb / noun",
+        "meaning": "to worship, reverent bow"
+      },
+      {
+        "word": "Thotkhamatei",
+        "pos": "noun",
+        "meaning": "miracle, supernatural wonder, sign"
+      },
+      {
+        "word": "Ngakaranglu",
+        "pos": "imperative verb",
+        "meaning": "arise, stand up immediately"
+      },
+      {
+        "word": "Khamatha",
+        "pos": "noun",
+        "meaning": "sleeping mat, traditional mattress"
+      },
+      {
+        "word": "Thikahai",
+        "pos": "noun",
+        "meaning": "death, mortality, departed state"
+      },
+      {
+        "word": "Raruikatha",
+        "pos": "noun",
+        "meaning": "bread, food of life, sustenance"
+      },
+      {
+        "word": "Kharashok",
+        "pos": "noun",
+        "meaning": "hunger, physical want of nourishment"
+      },
+      {
+        "word": "Kachithek",
+        "pos": "noun / verb",
+        "meaning": "faith, believing trust, conviction"
+      },
+      {
+        "word": "Kathara",
+        "pos": "adjective",
+        "meaning": "holy, pure, consecrated"
+      },
+      {
+        "word": "Tara kong",
+        "pos": "noun phrase",
+        "meaning": "flowing river, living stream"
+      },
+      {
+        "word": "Malung",
+        "pos": "noun",
+        "meaning": "heart, innermost belly, emotional center"
+      },
+      {
+        "word": "Shokkasa",
+        "pos": "verb participle",
+        "meaning": "flowing forth, welling up from within"
+      },
+      {
+        "word": "Kachungli",
+        "pos": "postposition",
+        "meaning": "unto, toward, into the presence of"
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-ARCH-004",
+      "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: John Kahona Kasa",
+      "total_pages": 22,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 7,
+  "total_words": 1515,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Kaphung-kachungwui Tui (The Word in the Beginning)",
+      "tangkhul_text": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli leisai. Ali vangteina ot kathata pamei sakahaisai; Awui chungli haring kasawui maram leisai; kala haring chi miwungwui khanganaso thotsai. Kala Tuichi miwung thot sakahaida i-wui ngachaili pamsai; kala i-thumna Awui mashunkashak theisai.",
+      "translation_en": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by Him. In Him was life, and the life was the light of men. And the Word was made flesh, and dwelt among us, and we beheld His glory, full of grace and truth."
+    },
+    {
+      "chapter": "Chapter 2: Cana Ramli Phankahai Thot (The Marriage in Cana)",
+      "tangkhul_text": "Thot thumana phungli Galilee ramwui Cana shongli phankahai thotli amina pamsai; Jesu kala Awui ngashunbingli chili ho-ngarursai. Jesuna athumli hosa: Tuisin hili tara kaping zang-chihailu. Kala athumna ngathumda kaping zangsai. Phankahai wui pamshim-khararna tara chi khamarao kasada theiphun chitharan, kashak maram mathangsa mana. Kala Varivarawui shimli A se-bing kala tangka kakhalimbingi theida shim katharawui pammali khor-khaleisai.",
+      "translation_en": "On the third day there was a marriage in Cana of Galilee. Jesus and His disciples were invited. Jesus said unto them: Fill the waterpots with water. And they filled them to the brim. When the ruler of the feast tasted the water that was made wine, he knew not whence it was. And in the temple He found those that sold oxen and sheep, and drove them out of the holy place."
+    },
+    {
+      "chapter": "Chapter 3: Nicodemusli Tui Kaphung (Discourse with Nicodemus)",
+      "tangkhul_text": "Phariseebingwui ngachaili Nicodemus kahona mi akhat pamsai, aya Judea miwungwui khararsai. Jesuna ngahanda hosa: Kaphung-kachangli Ina nali hosa, mi akhatna thot katharada mazat-khalakha Varivarawui kazingram theikhami mathailak mana. Kha Varivarana ngalei hiwui miwungli kongashi-kasa thotna, Amani Makaza Mayarwui khali ngashir-khami, chiya Ali kachithek phungmei khikha masiman-lakla, kashak thotwui haring kazang pamsai.",
+      "translation_en": "There was a man of the Pharisees named Nicodemus, a ruler of the Jews. Jesus answered: Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life."
+    },
+    {
+      "chapter": "Chapter 4: Samaria Shanawui Tui (The Samaritan Woman at the Well)",
+      "tangkhul_text": "Jesu zattangda Jacobwui tuikhor ngalenli pamsai. Samaria shanawui akhatna tara khaphungli rasai; Jesuna ali hosa: Ili tara mangkhami khalu. Ina khami tara khamang chi thangmatharada khangaraophung mapamlik mana; kha Ina khami tara chi awui chungli kashak thotwui haring kaphanwui tuikhor thot salikha. Varivaraya Mangan thotsai; kala Ali khangamorbingna Mangan kala Kashungli khangamor kashungsa.",
+      "translation_en": "Jesus sat thus on the well of Jacob. There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink. Whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life. God is a Spirit: and they that worship Him must worship Him in spirit and in truth."
+    },
+    {
+      "chapter": "Chapter 5: Bethesda Tuikhorli Thotkhamatei (Healing at Bethesda)",
+      "tangkhul_text": "Jerusalemli sayat kachung khami gate wui pammali Bethesda kahona tuikhor pamsai. Chili kum thumchitaruk kachang kazat akhatna pamsai; Jesuna ali theida hosa: Nana kaphara phasasholakha? Jesuna ali hosa: Ngakaranglu, nawui khamathali phunglu kala zatlu! Kaphung-kachangli Ina nithumli hosa, Iwui tui kakhangasho kala Ili kasobingli kachithekna kashak thotwui haring leisai, kala thikahaiwui ngachaili haringli kaphan theisai.",
+      "translation_en": "Now there is at Jerusalem by the sheep market a pool called Bethesda. A certain man was there, which had an infirmity thirty and eight years. Jesus saith unto him, Wilt thou be made whole? Rise, take up thy bed, and walk! Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and is passed from death unto life."
+    },
+    {
+      "chapter": "Chapter 6: Raruikatha Kachiwui Paothem (The Bread of Life)",
+      "tangkhul_text": "Jesuna athumli hosa: Ina haringwui raruikatha thotsai; Iwui kachungli khara chi thangmatharada kharashok mapamlik mana; kala Ili kachithek chi thangmatharada khangaraophung mapamlik mana. Simon Peterna ngahanda hosa: O Mapao, ithumna khipalishong zatta katha? Nawui kachungli kashak thotwui tui pamsai. Kala ithumna chitheksai kala theisai Nana Varivarawui Kathara chi thotsai.",
+      "translation_en": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. Simon Peter answered Him, Lord, to whom shall we go? Thou hast the words of eternal life. And we believe and are sure that thou art that Christ, the Son of the living God."
+    },
+    {
+      "chapter": "Chapter 7: Haring Tara Kong (Rivers of Living Water)",
+      "tangkhul_text": "Phanitwui thang kashung chili Jesu ngakarangda kaho: Mi akhatna khangaraokhalakha Iwui kachungli rada manglu. Ili kachithekna, tui katharali kakashitheithata, awui malungli haring tara kong shokkasa pamsai. Kha Aya Manganwui maram hosa, chiya Ali kachithekna khapan kashung thotsai.",
+      "translation_en": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water. But this spake he of the Spirit, which they that believe on him should receive."
+    }
+  ]
+}

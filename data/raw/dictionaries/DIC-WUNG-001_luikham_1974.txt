@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Tangkhul (Wung) Dictionary (Tangkhul-English)
+# Identifier: DIC-WUNG-001
+# Primary Creator / Lexicographer: T. Luikham
+# Publication Year: 1974
+# Publisher: Tangkhul Literature Society, Ukhrul
+# Language Pair: Tangkhul-English
+# Dialect Variety: Wung / Standard Tangkhul
+# Source Classification: dictionary
+# License: Copyright Tangkhul Literature Society
+# Permission Status: restricted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Tangkhul (Wung) Dictionary (Tangkhul-English)
+ALTERNATE TITLE: Tangkhul Wung Dictionary
+COMPILER / AUTHORS: T. Luikham
+YEAR: 1974
+PUBLISHING BODY: Tangkhul Literature Society, Ukhrul
+DIALECT / VARIETY: Wung / Standard Tangkhul
+SOURCE IDENTIFIER: TLS-WUNG-1974
+CANONICAL SOURCE URL: https://openlibrary.org/books/OL5044439M
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Compiled by respected cultural scholar T. Luikham and published in 1974 in Ukhrul by the Tangkhul Literature Society. It is one of the definitive mid-20th-century bilingual lexicons, focusing specifically on classical 'Wung' (the traditional literary and poetic dialect of the Tangkhul heartland). Contains extensive entries for customary jurisprudence, indigenous botanical species, traditional weaving names, and agrarian terminology.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Integrates traditional Ukhrul literary spellings with colloquial expressions, providing invaluable etymological insight into compound words formed through classical morphemes.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. wungram (noun) -- homeland of the Tangkhul (Wung) people, ancestral territory [Citation: p. 280]
+   Context / Example: Wungram leikashi (Deep devotion to the Tangkhul ancestral homeland).
+
+ENTRY  2. okthot (noun) -- traditional lifeways, human conduct, living culture [Citation: p. 175]
+   Context / Example: Okthot mayonza (Traditional conduct and societal customary rules).
+
+ENTRY  3. shiyan (noun) -- customary jurisprudence, ancestral code of justice [Citation: p. 230]
+   Context / Example: Shiyan kashak (Established customary law observed by elders).
+
+ENTRY  4. manom (noun) -- customary bridal endowment, dowry cattle and property [Citation: p. 142]
+   Context / Example: Manomwui se (Mithun and cattle given as bridal endowment).
+
+ENTRY  5. yarnao (noun) -- mutual peer labor group, youth reciprocal agricultural team [Citation: p. 310]
+   Context / Example: Yarnaowui luimat (Reciprocal field work by youth peer team).
+
+ENTRY  6. hamlei (noun) -- black serpentinite cooking vessel, Longpi stone pot [Citation: p. 95]
+   Context / Example: Hamlei khami (Handcrafting the renowned Longpi black stone pot).
+
+ENTRY  7. leshong (noun) -- serpentinite rock, pottery stone crushed for durability [Citation: p. 120] [Alt: leshong lung]
+   Context / Example: Leshong lung kaphei (Crushing serpentinite rock on flat stones).
+
+ENTRY  8. chonkhom (noun) -- women's embroidered ceremonial wrap, prestigious textile [Citation: p. 55]
+   Context / Example: Chonkhom kachon (Draping the prestigious embroidered wrap).
+
+ENTRY  9. seichan (noun) -- handwoven skirt with geometric colored bands [Citation: p. 215]
+   Context / Example: Seichan kashan (Wearing the traditional woven skirt).
+
+ENTRY 10. ngasung (noun) -- wild walnut root used for river fishing [Citation: p. 160]
+   Context / Example: Ngasung ngakharu (Crushing walnut roots for communal fishing).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Copyright Tangkhul Literature Society
+Permission Tier: restricted
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. T. Luikham (1974). Tangkhul (Wung) Dictionary (Tangkhul-English). Tangkhul Literature Society, Ukhrul.
+=======================================================================

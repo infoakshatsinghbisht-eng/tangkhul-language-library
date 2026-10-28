@@ -1,0 +1,57 @@
+{
+  "id": "LIT-FLK-014",
+  "resource_type": "literature",
+  "title": "Kasomwoshi Kala Khaying-Sha",
+  "title_translation": "Kasomwoshi and the Spirit Beast of the Deep Forest",
+  "creator": "Kasom & Somra Village Elders",
+  "author": "Traditional",
+  "year": 1982,
+  "publisher": "Central Institute of Indian Languages / Tangkhul Folk Archives",
+  "language": "Tangkhul",
+  "dialect": "Southern Tangkhul / Standard Tangkhul",
+  "village": "Kasom",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "oral_narrative"
+  ],
+  "book_id": "BK-CIIL-003",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "CIIL-FLK-1982-KKS",
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-014.txt",
+  "notes": "Ancestral southern Tangkhul ecological legend recounting the master hunter Kasomwoshi's encounter with the sacred forest guardian beast Khaying-Sha in the Somra forests.",
+  "indigenous_tangkhul_text": [
+    "Somra phungkhuili kapam thikashung mayarnao Kasomwoshi, ngaleiwui changvei eina malen kathānao khare.\nChitharan khaying ngashitpamli zatta mayarnao, ngalei mashun kahao ngashitphungli Khaying-Sha thurahaowa.",
+    "Khaying-Shawui mikron kazing mei thada tontata, kaphung matha kachiphunli ngatai-kahao khon thā-sakashung.\n'I-ramwui sha kala thingwon mashukalu!' da, kaphung ngalei katharao wui khon ningli ngarormanda.",
+    "Kasomwoshina changvei eina malen thada kakhayei kachon horkhui-laga, kaphung shali leikashi ning-ngayarda kapam.\nKhamashung shatung kazat mayarnao hi ningkacham eina phung-ngathangli mayon-kazat rathat-lakmana.",
+    "Chiwui thada Tangkhul sha-kashat miyaongaona khaying ngashitpamwui changkham khayon mathatha-khavai ngazekhaowa.\nNgaleiwui sha kala thingwon maningmana eina kaphung katharao ningchot khavai tuitam hi ringda pamhaora."
+  ],
+  "english_translation_text": [
+    "In the rugged mountain ridges of Somra lived the renowned master hunter Kasomwoshi, skilled with lance and iron arrow.\nVenture he did into the primeval sanctuary of the sacred forest, where the ancient guardian beast Khaying-Sha arose.",
+    "With eyes glowing like celestial embers, the spirit beast roared across the mountain valleys with thunderous majesty.\n'Do not pillage the wild creatures nor strip bare the fragrant flowering forest canopy!' echoed the guardian voice.",
+    "Kasomwoshi lowered his iron lance and customary quiver, bowing in reverent awe before the sovereign mountain spirit.\nThe righteous hunter understood that mountain stewardship requires restraint, humility, and customary covenant.",
+    "Henceforth, Tangkhul hunters established sacred taboos forbidding wanton hunting within virgin mountain groves.\nThis ancient lore lives on, commanding youth to preserve ancestral forests and honor the ecological spirit of the hills."
+  ],
+  "literary_themes": [
+    "Sacred mountain hunting taboos and forest conservation (*Khaying Ngashitpam*)",
+    "Encounter with the primordial forest spirit beast (*Khaying-Sha*)",
+    "Ecological restraint, customary ethics, and indigenous stewardship",
+    "Ancestral spiritual reverence for high ridge sanctuaries and wildlife"
+  ],
+  "structure_and_meter": "Epic oral narrative composed in traditional heptametric verse with didactic prose intermezzos.",
+  "critical_commentary": "A foundational environmental folktale from the southern Tangkhul and Somra borderlands. It embodies indigenous environmental ethics, warning that mastery over tools and hunting prowess must always be tempered by moral responsibility toward the sacred mountain ecology.",
+  "poetic_vocabulary_terms": {
+    "Khaying-Sha": "Primordial spirit beast / mythological guardian of deep mountain forests",
+    "Changvei": "Customary Tangkhul warrior lance adorned with dyed goat hair",
+    "Malen": "Customary hunting quiver crafted from cured bamboo and mountain hide",
+    "Shakashat": "The traditional art, protocol, and clan laws of mountain hunting"
+  },
+  "stanza_count": 4,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

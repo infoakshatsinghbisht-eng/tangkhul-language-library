@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-011",
+  "resource_type": "songs",
+  "title": "Ngathor Zingran Thada",
+  "alternate_titles": [],
+  "title_translation": "Like the Morning Dawn",
+  "singer": "Diana Wungsek",
+  "lyricist": "Diana Wungsek",
+  "composer": "Diana Wungsek",
+  "collector": null,
+  "performers": [
+    "Diana Wungsek"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-DW-003",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Poetic love ballad comparing youthful affection to the first rays of mountain dawn.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Ngathor zingran thada nawui leikashina.",
+        "Iwui mirinli khanganaso kaphungli."
+      ],
+      "lines_translation": [
+        "Like the radiant morning dawn over the mountain ridges,",
+        "Your love brings warm light into every corner of my life."
+      ]
+    }
+  ]
+}

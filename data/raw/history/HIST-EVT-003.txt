@@ -1,0 +1,66 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: BATTLE OF SANGSHAK IN WORLD WAR II
+IDENTIFIER: HIST-EVT-003 | CATEGORY: HISTORICAL_EVENT
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Battle of Sangshak in World War II
+  Title Translation:     The Sangshak Delaying Action
+  Historical Category:   historical_event
+  Event Date / Period:   March 19–26, 1944 | World War II
+  Sort Year:             1944
+  Place / Settlement:    Sangshak [Sangshak]
+  Dialect / Variety:     Ukhrul
+  Key Figures / Creator: Allied Forces, 50th Parachute Brigade & Sangshak Villagers
+  Publisher / Source:    Documented in Slim 1956, Horam 1977
+  Source Identifier:     WWII-Sangshak-Battle-1944
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Historical Documentation (community_authorized)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Fierce six-day delaying battle fought across the Sangshak plateau by the 50th Indian Parachute Brigade against the Japanese 31st Division, critically blunting the enemy drive towards Kohima and Imphal.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1944 kum March 19-26 tharan Sangshak kaphungli Japanese 31st Division kala Allied 50th Parachute Brigade ngaraikhit.
+  Ngachon khani marik-likha khangaraida Allied forces Kohima kala Imphal ngari-thuiya.
+  Sangshak mibingna kakhama kachon marikta ralam kashun kala pan-kaso makhayipmana.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  From March 19 to 26, 1944, the fierce Battle of Sangshak was contested between the Japanese 31st Division and the Indian 50th Parachute Brigade.
+  The six-day delaying stand on the Sangshak ridge critically disrupted General Sato's rapid advance toward Kohima and Dimapur.
+  Local villagers provided indispensable reconnaissance, casualty evacuation, and logistical support across steep jungle terrain.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. March 15, 1944: Japanese 15th Army launches Operation U-Go across the Chindwin River into Manipur.
+  2. March 19, 1944: Advance elements clash at Sheldon's Corner east of Sangshak.
+  3. March 22-25, 1944: Indian 50th Parachute Brigade encircled on the rocky plateau; bitter hand-to-hand fighting.
+  4. March 26, 1944: Orderly fighting breakout to Imphal; Japanese casualties exceed 400 with critical timetable shattered.
+  5. Strategic aftermath: Delayed Japanese units arrived at Kohima too late to prevent 2nd British Division reinforcements.
+
+KEY FIGURES & LEADERS:
+  Brigadier M.R.J. Hope-Thompson, General Kotoku Sato (Japanese 31st Division), Sangshak Scouts & Guides
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Sangshak Ridge, Ukhrul District (Elevation 1,700 m)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Described by Field Marshal Slim as a critical pivot of the Burma Campaign that saved Kohima and Imphal from surprise capture.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Ngaraikhit             : Fierce combat / battle engagement
+  * Kaphung                : High mountain ridge / defensive plateau
+  * Ralam                  : Pathway / reconnaissance route
+  * Pan-kaso               : Heroic assistance / wartime aid
+
+================================================================================
+END OF RECORD: HIST-EVT-003 - Tangkhul Language Library Digital Archive
+================================================================================

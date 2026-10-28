@@ -1,0 +1,175 @@
+{
+  "title": "Comprehensive Tangkhul Naga Grammar & Linguistic System",
+  "hindi_title": "तंगखुल नागा विस्तृत व्याकरण एवं भाषा-विज्ञान निर्देशिका",
+  "author": "Rev. William Pettigrew, S. Arokianathan & Tangkhul Language Scholars",
+  "year": 2024,
+  "dialect": "Standard Tangkhul (Ukhrul)",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Phonology, Orthography & Alphabet",
+      "hindi_title": "वर्णमाला, ध्वनिविज्ञान एवं वर्तनी",
+      "sections": [
+        {
+          "subtitle": "Tangkhul Roman Alphabet & Vowel System",
+          "content": "Tangkhul utilizes a Latin-based phonetic alphabet introduced by Rev. William Pettigrew in 1897 and standardized by the Tangkhul Literature Society (TLS). Vowels: a, ā, e, i, o, u (short and long variants).",
+          "rules": [
+            "Long vowels marked with macrons (ā, ē, ī, ō, ū) distinguish lexical minimal pairs (e.g., 'ram' [country] vs 'rām' [dry field]).",
+            "Diphthongs include: ei (meira), ai (kakhai), ao (vanao), ui (ngashui), oi (choi)."
+          ]
+        },
+        {
+          "subtitle": "Consonant Inventory",
+          "content": "Stops: p, t, k, ph, th, kh, b, d, g. Nasals: m, n, ng. Fricatives: s, sh, h, z. Liquids: r, l. Glides: w, y.",
+          "rules": [
+            "Velar nasal 'ng' can occur in syllable initial, medial, and coda positions (e.g., ngalei [earth], thingrong [tree]).",
+            "Initial consonant clusters predominantly involve liquids: pr-, tr-, kr-, phr-, thr-, khr-."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Noun Morphology & Gender System",
+      "hindi_title": "संज्ञा रूप-रचना एवं लिंग व्यवस्था",
+      "sections": [
+        {
+          "subtitle": "Gender Classification",
+          "content": "Tangkhul distinguishes biological and social gender through suffixed markers.",
+          "rules": [
+            "Human Masculine: -mayar / -va (e.g., ngalava -> youth/man, naomayar -> boy/son).",
+            "Human Feminine: -shanao / -la (e.g., shanaonao -> girl/daughter, ava -> mother).",
+            "Animal Gender: Male suffix -khon / -mayara (simuk-mayara [bull]), Female suffix -lui / -shanao (simuk-lui [cow])."
+          ]
+        },
+        {
+          "subtitle": "Number & Pluralization",
+          "content": "Plurality is marked by appending collective and pluralizing postpositions.",
+          "rules": [
+            "Plural suffix -bing / -bina: mi (person) -> mibing (people), vanao (bird) -> vanaobing (birds).",
+            "Collective marker -saikora (all/entirety): ngalanaobing saikora (all the young maidens)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Case Marking System (Postpositions)",
+      "hindi_title": "कारक एवं विभक्ति व्यवस्था",
+      "sections": [
+        {
+          "subtitle": "Core Case Postpositions",
+          "content": "Tangkhul is an agglutinative postpositional language. Cases are attached directly to the noun phrase head.",
+          "rules": [
+            "Nominative / Agentive: -na (e.g., I-na shansera -> I have read).",
+            "Accusative / Dative: -li (e.g., Ali milu -> Give to him; Vanaoli thei -> Saw the bird).",
+            "Instrumental: -eina (e.g., Ngaphei-eina tulu -> Cut with a machete).",
+            "Genitive / Possessive: -wui (e.g., Shim-wui kuiphung -> The pillar of the house).",
+            "Locative: -li (e.g., Kaphung-li pamda -> Residing on the mountain).",
+            "Ablative: -wui eina / -li eina (e.g., Ukhrul-wui eina kazat -> Coming from Ukhrul).",
+            "Comitative / Associative: -le / -nga (e.g., Amei-le kazat -> Walking together with brother)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pronoun Paradigms & Declensions",
+      "hindi_title": "सर्वनाम व्यवस्था एवं रूप-रूपांतरण",
+      "sections": [
+        {
+          "subtitle": "Personal Pronouns",
+          "content": "First, second, and third person pronouns with singular, dual, and plural distinctions.",
+          "rules": [
+            "1st Person Singular: I (I, me) | Plural: Ithum (we, us) | Dual: Inikha (the two of us).",
+            "2nd Person Singular: Na (you) | Plural: Nathum (you all) | Dual: Nanikha (the two of you).",
+            "3rd Person Singular: Ana (he/she/it) | Plural: Amathum (they, them).",
+            "Demonstratives: Hi (this), Chi (that), Hili (here), Chili (there)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Adjectives, Numerals & Classifiers",
+      "hindi_title": "विशेषण, संख्याएँ एवं गणना-प्रत्यय",
+      "sections": [
+        {
+          "subtitle": "Adjective Formation & Comparison",
+          "content": "Most Tangkhul adjectives are derived from stative verbal roots prefixed with ka- or kha-.",
+          "rules": [
+            "Positive: kapha (good), kakhangar (heavy), kathuk (deep), kahung (red).",
+            "Comparative suffix: -shang / -meila (kapha-meila -> better than).",
+            "Superlative suffix: -saikora wui meila / -tak (kaphatak -> the very best)."
+          ]
+        },
+        {
+          "subtitle": "Cardinal Numerals",
+          "content": "1: akha, 2: khani, 3: kathum, 4: mati, 5: phanga, 6: taruk, 7: shini, 8: shet, 9: chiko, 10: thara, 20: maku, 100: sha akha.",
+          "rules": [
+            "Numerals follow the noun they qualify: mi kathum (three persons), thingrong mati (four trees)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Verb Morphology, Aspect & Tense",
+      "hindi_title": "क्रिया रूप-रचना, काल एवं भाव",
+      "sections": [
+        {
+          "subtitle": "Tense and Aspect Suffixes",
+          "content": "Tangkhul verbs carry inflectional suffixes indicating tense, aspect, and completion.",
+          "rules": [
+            "Root verbs take prefix ka- / kha- in citation/infinitive form: kasa (to do), kazat (to go), kapam (to sit).",
+            "Present Simple / Habitual: -i / -ya (e.g., I zat-ya -> I go).",
+            "Present Continuous: -da lei (e.g., I pam-da lei -> I am sitting / waiting).",
+            "Past Perfective: -ser-re / -haowa (e.g., Ana zat-haowa -> He has departed).",
+            "Future Tense: -ra (e.g., Ithum shok-ra -> We will come out / emerge).",
+            "Imperative: -lu (positive: Salu -> Do it!), -kha (negative: Masalu -> Don't do it!)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Negation, Interrogation & Modality",
+      "hindi_title": "निषेध, प्रश्नवाचक एवं संभावनार्थ",
+      "sections": [
+        {
+          "subtitle": "Negative Particles",
+          "content": "Negation in Tangkhul is achieved primarily through the circumfix ma-...-mana.",
+          "rules": [
+            "Declarative Negation: ma- [verb root] -mana (e.g., I ma-thei-mana -> I do not see/know).",
+            "Stative Negation: ma-kalei (is not / does not exist) vs lei (exists).",
+            "Prohibitive Imperative: ma- [verb root] -alu (e.g., Ma-zat-alu -> Do not go!)."
+          ]
+        },
+        {
+          "subtitle": "Interrogative Particles",
+          "content": "Questions end with interrogative enclitics.",
+          "rules": [
+            "Polar (Yes/No) questions: -la? (e.g., Na pamra-la? -> Will you stay?).",
+            "Wh-Questions: Khi (what), Kachida (where), Khipa (who), Khitharan (when), Khipakha (why)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "Syntax, Word Order & Discourse Particles",
+      "hindi_title": "वाक्य-रचना, पद-क्रम एवं संलाप-कण",
+      "sections": [
+        {
+          "subtitle": "Basic Constituent Order (SOV)",
+          "content": "Tangkhul strictly adheres to Subject-Object-Verb (SOV) typology with head-final syntactic trees.",
+          "rules": [
+            "Standard word order: Subject + Object + Verb (e.g., Mayarnao-na [S] kharai [O] phungda lei [V] -> The man is carrying the basket).",
+            "Modifier precedes or follows based on category: Demonstratives precede, numerals and adjectives follow head nouns.",
+            "Honorific and polite particles: -sho, -rei, -meo signify mutual respect between kin and elders."
+          ]
+        }
+      ]
+    }
+  ]
+}

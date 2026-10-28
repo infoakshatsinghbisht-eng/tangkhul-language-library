@@ -1,0 +1,44 @@
+{
+  "id": "CULT-RIT-002",
+  "resource_type": "culture",
+  "title": "Luira Shimlut-Kaphung Sod-Turning Rite",
+  "title_translation": "Ceremonial First Sowing Ritual",
+  "creator": "Awunga (Village Chief) of Hunphun",
+  "year": 1977,
+  "publisher": "Documented in Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Hunphun / Ukhrul",
+  "village": "Hunphun",
+  "category": "ritual",
+  "subcategory": "agricultural",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Ch5",
+  "license": "Cultural Heritage Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-RIT-002_luira_shimlut_kaphung_rite.txt",
+  "verification_status": "verified",
+  "notes": "Ceremonial act performed at dawn on the first day of Luira Phanit where the village chief turns the first clod of soil and sows the first seeds before any villager may plant.",
+  "indigenous_tangkhul_text": [
+    "Awungana ngathorpai Shimlut-Kaphung sara iram Hunphunli.",
+    "Kaphung kakhare luili kaso, Varewui kakhon nganada.",
+    "Chitharan mibing saikora luikho kaza, luira phanit kashung."
+  ],
+  "english_translation_text": [
+    "At dawn, the village chief performs the sacred Shimlut-Kaphung first sowing rite in Hunphun.",
+    "Turning the first sod and offering the first grain to the benevolent Creator of the earth.",
+    "Only thereafter may every farming family commence their sowing, opening the Luira festival."
+  ],
+  "procedural_stages": [
+    "1. The Awunga of Hunphun rises at pre-dawn on the inaugural day of Luira Phanit.",
+    "2. Accompanied by elders, he walks to the designated sacred communal terrace plot.",
+    "3. Using a traditional iron hoe, he cuts the first clod of soil and invokes blessing for rain and fertility.",
+    "4. He casts the first grains of seed rice into the furrow with sacred prayer.",
+    "5. Signal is sent to the village through gong strikes that planting season is officially inaugurated."
+  ],
+  "ceremonial_participants": [
+    "Awunga (Chief) of Hunphun",
+    "Council Elders",
+    "Spiritual Custodians"
+  ],
+  "seasonal_timing": "First day of Luira Phanit at dawn"
+}

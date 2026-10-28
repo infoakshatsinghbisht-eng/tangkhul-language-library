@@ -1,0 +1,52 @@
+{
+  "id": "LIT-FLK-013",
+  "resource_type": "literature",
+  "title": "Kashan-Kachon wui Khararchan",
+  "title_translation": "The Origin Lore of Sacred Tangkhul Weaving and Shawls",
+  "creator": "Tangkhul Women Weavers Guild & TLS",
+  "author": "Traditional",
+  "year": 1981,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "oral_narrative",
+  "work_type": "oral_narrative",
+  "genres": [
+    "oral_narrative"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1981-KKW",
+  "license": "Cultural Oral Lore",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-013.txt",
+  "notes": "Cultural narrative detailing the spiritual and genealogical symbolism of Tangkhul traditional textiles including Luirim and Haora shawls.",
+  "indigenous_tangkhul_text": [
+    "Tangkhul kashan-kachon hi ngaleiwui kachang eina kaphung-wui won thada khamatha mayonzat-laka.\nPhungcham, Hungpung, kala Chingjaroi shanaonaona khararchar-li chon-kashan eina ngashan mirin kasak zatta.",
+    "Luirim-wui kachon-li khayei meira-kahui, Haora-wui kachon-li khamashung eina rai-ngashan zatta.\nKashan-wui kapi kachiphun eili shanao-wui mirin, phara-kachak, kala kazeiram kashungwui mang chithei-kahaowa.",
+    "Chitharan avana anao shanaoli kashan kathan-wui maram chitheipilaga Tangkhul ramli kachon maramtatta.\nKashan-kachonwui khararchan hi Tangkhul textile heritage kala oral literature-wui pangkakha kacham thada pamya."
+  ],
+  "english_translation_text": [
+    "Tangkhul woven shawls and traditional skirts mirror the vivid colors of high mountain flora and sunrise over the ridges.\nFrom Phungcham to Hungpung and Chingjaroi, elder women wove the sacred history and customary status of their clans into cloth.\nIn the Luirim shawl gleam the fiery stripes of nobility, while in the Haora shawl are embedded the triumphs of brave defenders.\nEvery woven motif on the women's skirt (*Kashan*) narrates rites of passage, ancestral lineages, and spirits entering Kazeiram.\nMothers sat beside daughters at the backstrap loom, singing oral verses that taught the sacred counts of thread and dye.\nThe legend of traditional weaving endures as an essential pillar connecting Tangkhul textile artistry with oral literature."
+  ],
+  "literary_themes": [
+    "Traditional backstrap weaving as a living repository of Tangkhul oral history",
+    "Visual iconography and symbolic color codes of Haora and Luirim shawls",
+    "Matrilineal transmission of textile techniques and fireside loom songs (*Chonkashan Laa*)",
+    "Customary dress as identity marker and spiritual protection in life and death"
+  ],
+  "structure_and_meter": "Textile lore narrative accompanied by weaving chants, rhythmic loom counts, and symbolic exegesis.",
+  "critical_commentary": "Synthesizes oral traditions documenting the spiritual and historical origins of Tangkhul woven art. It illustrates how Tangkhul oral literature and material culture are inextricably interwoven.",
+  "poetic_vocabulary_terms": {
+    "Kashan": "Traditional hand-woven Tangkhul woman's skirt, rich in clan-specific motifs",
+    "Kachon": "Hand-woven shawl / garment of customary prestige",
+    "Haora": "Quintessential white, red, and black striped Tangkhul national shawl",
+    "Chonkashan": "The art and cultural practice of weaving on the traditional backstrap loom"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

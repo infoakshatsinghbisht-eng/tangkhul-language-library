@@ -1,0 +1,61 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SHIRUI KASHONGWUI WON
+IDENTIFIER: LIT-POEM-003 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Shirui Kashongwui Won
+  Title Translation:     Flower of Mount Shirui
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  T. Luikham
+  Publication Year:      2021
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-008-P02
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-008
+  License & Clearance:   Educational Curriculum (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Evocative ode celebrating the delicate bloom of the Shirui Lily, using ecological imagery as a metaphor for modesty, beauty, and endurance. Published in Class X Tuitam Kathara.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Kashong yarsho-li Philavawui won, delicate pink-white bloom kachara,
+  Windswept crest-li proud thada shoka, nature-wui rarest jewel lakahon.
+  Nawui modesti kala quiet majesty, Tangkhul shanao-wui virtue thada pama,
+  Thot kachivali Shirui kaphungna nawui purity protect sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Upon the jagged ridge of the peak blooms the lily of Princess Philava, tender in pink and white hues,
+  Standing proud against alpine winds, celebrated as nature's most precious jewel.
+  Your modesty and quiet majesty reflect the graceful virtue of Tangkhul maidenhood,
+  Through all the changing seasons, Mount Shirui cradles and protects your sacred purity.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Ecological ode and celebration of the endemic flora
+  * Metaphorical pairing of the lily with indigenous feminine modesty and virtue
+  * The mountain summit as a fortress of natural and spiritual sanctity
+
+STRUCTURE & POETIC METER: Lyrical ode in rhymed quatrains with rich sensory imagery evoking alpine breezes, dew, and granite crags.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Written by pioneer educationist and lexicographer T. Luikham and anthologized in Class X Tuitam Kathara (2021), this ode is celebrated for its musicality and ecological symbolism.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Kachara                : Delicate, tender, and exquisite blossoming
+  * Kashong                : Mountain crest / pinnacle summit
+  * Modesti                : Quiet, dignified modesty and humility
+  * Kaza-Khangao           : Breathtaking natural splendor
+
+================================================================================
+END OF RECORD: LIT-POEM-003 - Tangkhul Language Library Digital Archive
+================================================================================

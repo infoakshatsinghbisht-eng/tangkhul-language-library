@@ -1,0 +1,43 @@
+{
+  "id": "CULT-CUST-003",
+  "resource_type": "culture",
+  "title": "Yarnao Agricultural Labour Exchange",
+  "title_translation": "Peer Labor Group Cooperative",
+  "creator": "Tangkhul Youth & Farming Peer Groups",
+  "year": 1993,
+  "publisher": "Documented in Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "custom",
+  "subcategory": "agricultural",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruivah-1993-Ch5",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-CUST-003_yarnao_labour_exchange.txt",
+  "verification_status": "verified",
+  "notes": "Mutual assistance cooperative where groups of young men and women rotate work across each member's terraced fields during sowing and harvesting seasons.",
+  "indigenous_tangkhul_text": [
+    "Yarnao mibingna ot kachida ngasoda luisang ot sai.",
+    "Aja iwui luili, khama nawui luili, ringkaphada ngachon.",
+    "Monsoon kazingli phungrei kongrei thata luisang kashung."
+  ],
+  "english_translation_text": [
+    "Members of the Yarnao cooperative unite shoulder to shoulder in all terrace farm work.",
+    "Today on my paddy, tomorrow on yours, supporting one another with joy and vigor.",
+    "Under monsoon clouds, the terrace transplanting is accomplished through shared solidarity."
+  ],
+  "procedural_stages": [
+    "1. Formation of peer labor groups (Yarnao) among youths of similar age cohorts.",
+    "2. Scheduling rotational workdays covering each member's terraced fields sequentially.",
+    "3. Mutual provision of noon meal and rice beverage by the host household.",
+    "4. Singing of rhythmic working chants to pace transplantation and weeding.",
+    "5. Equal reciprocity: Each member owes an exact day of labor to every cohort member."
+  ],
+  "ceremonial_participants": [
+    "Youth and Adult Farming Cohorts",
+    "Host Households"
+  ],
+  "seasonal_timing": "Sowing, transplantation, and harvest agricultural seasons"
+}

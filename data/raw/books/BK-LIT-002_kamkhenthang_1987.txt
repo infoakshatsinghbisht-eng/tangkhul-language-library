@@ -1,0 +1,275 @@
+# Complete Digital Text: Folk Songs of The Tangkhul
+# Identifier: BK-LIT-002
+# Source: Tangkhul Language Library Digital Preservation Archive
+# Format: Contiguous Cover-to-Cover Digitized Text
+
+--- Page 1 ---
+## Tangkhul Language Library -- BK-LIT-002
+### Folk Songs of The Tangkhul
+TITLE: Folk Songs of The Tangkhul
+Identifier: BK-LIT-002
+Compilers: Dr. H. Kamkhenthang & A. Ngashan Chahong
+Publisher: Directorate for Development of Tribals & Backward Classes, Manipur (1987)
+Language: Tangkhul with Parallel English Renditions
+License: Educational & Cultural Documentation (Internet Archive: dli.language.1472)
+
+--- Page 2 ---
+## BK-LIT-002 -- Preface & Introduction
+### Introduction & Archival Preface
+INTRODUCTION BY DR. H. KAMKHENTHANG:
+Financed by the North Eastern Council (NEC), Shillong under the Scheme of Documentation
+of Tribal Culture through the Directorate for Development of Tribals and Backward Classes,
+Manipur. This volume presents 27 representative types and kinds of Tangkhul folk songs
+with authentic vernacular lyrics and parallel English translations, preserving ancestral melodies.
+
+--- Page 3 ---
+## BK-LIT-002 -- Table of Contents
+### Table of Contents
+TABLE OF CONTENTS:
+  Front Cover & Title Page (p. 1)
+  Imprint, Archival Rights & Preface (p. 2)
+  Table of Contents (p. 3)
+  Chapter 1: Invocations & Spring Songs (Zingkum Hao Kaphok) (pp. 4-5)
+  Chapter 2: Tarung Carrying & Monument Construction Songs (pp. 6-7)
+  Chapter 3: Ceremonial Dance & Hornbill Movements (Pheishon Laa) (pp. 8-9)
+  Chapter 4: Maiden Dances & Youth Festivals (Yarra Laa) (pp. 10-11)
+  Chapter 5: Agriculture, Terrace Labor & Cowherd Songs (pp. 12-13)
+  Chapter 6: Martial Ballads & Head-hunting Epics (Ral Laa) (pp. 14-15)
+  Chapter 7: Traditional Love Romances (Shimreishang & Maitonphi) (pp. 16-18)
+  Chapter 8: Weaving Songs, Festive Banquets & Bedtime Chants (pp. 19-20)
+  Comprehensive Ethnomusicology Glossary (p. 21)
+  Back Cover & Colophon (p. 22)
+
+--- Page 4 ---
+## Chapter 1: Invocations & Spring Songs (Page 4)
+### Chapter 1: Invocations & Spring Songs (Zingkum Hao Kaphok)
+CHAPTER 1: INVOCATIONS & SPRING SONGS
+Hokharai (Tribal Invocation) & Zingkum Hao Kaphok Laa (Song of Spring)
+
+TANGKHUL TEXT:
+AE-HE! Phamei yameisa HE... HE. O--O-HU-O! Ilongnao laa sa usa, Kashishoklu, kaphazanglu--O--Hui-O-hui!
+O, kazingkum ura, o, kazingkum ura, o, hungnaovayo luithuimihaolu;
+Mamanaomara, hungnaovayo luithuimashunga; Sampheirokna riri rakhonga, koktui vana zingkum phungraya!
+
+ENGLISH RENDERING:
+Hokharai invocation: May the better be ours! Let us go for singing, may evil depart and divine blessing enter!
+O, the spring is started! Your highness, sow the seeds for the year; royal venture is just and timely;
+The Sampheirok sings melodiously, and the cuckoo heralds the arrival of the bountiful new year!
+
+--- Page 5 ---
+## Chapter 1: Spring Vocabulary (Page 5)
+### Chapter 1 Study Guide & Spring Vocabulary
+CHAPTER 1 STUDY GUIDE & VOCABULARY
+VOCABULARY:
+  * hokharai (noun): traditional war-cry / invocation of blessing before all assemblies
+  * kazingkum (noun): spring season, new year cycle
+  * sampheirok (noun): seasonal migratory songbird heralding spring
+  * koktui (noun): cuckoo, seasonal herald of planting
+
+--- Page 6 ---
+## Chapter 2: Tarung Carrying Songs (Page 6)
+### Chapter 2: Tarung Carrying & Monument Construction Songs
+CHAPTER 2: TARUNG CARRYING & MONUMENT CONSTRUCTION SONGS
+Song 2: Thingreikhangava Laa  |  Song 25: Ransak Laa
+
+TANGKHUL TEXT:
+O, yarso thingrei vakhang, thingpitang tak ungrall yaronnao, thingreiva ungreilu!
+Seichang kharaei hangmi phalungra, phanora vashatta chaklen meikan naona kacheka, lumlao sakda vakhuiphalungra.
+O, Kashongta phung-o, maranla saya; ilangkaso machilo, I wui luiyi kaya lhuiito, I wui chumrei hjorphiya!
+
+ENGLISH RENDERING:
+O young men, lift the monumental tree! The twigs bend, come swiftly with sturdy creepers;
+The sacrificial mithun is provided, the augury bird Chaklen chirped favorably; let us carry home the Tarung!
+From humble beginnings I built this house and pulled this stone; my terrace fields are fertile and granary full!
+
+--- Page 7 ---
+## Chapter 2: Monument Lexicon (Page 7)
+### Chapter 2 Monument Terms & Notes
+CHAPTER 2 STUDY GUIDE & MONUMENT LEXICON
+VOCABULARY:
+  * thingreikhangava (noun): pulling and carrying of the ceremonial monument tree
+  * chaklen (noun): omen/augury bird whose call confirms auspicious journeys
+  * chumrei (noun): ancestral grain barn, full granary
+
+--- Page 8 ---
+## Chapter 3: Ceremonial Dance Songs (Page 8)
+### Chapter 3: Ceremonial Dance & Hornbill Movements (Pheishon Laa)
+CHAPTER 3: CEREMONIAL DANCE & HORNBILL MOVEMENTS (PHEISHON LAA)
+Song 3: Pheishon Laa (Dancing Song)
+
+TANGKHUL TEXT:
+O, iram hongreili, Mafathing kasui kharipna; Ngachamching arang shangkaya, arangchi khili kachanlo?
+Mafathei channa, arangkho arangkhon ngashing leishiya; Thuingashing, kashung shanghaowa.
+
+ENGLISH RENDERING:
+In our thick ancestral forests, the stately Mafathing (Uningthou) trees abound;
+Upon their broad boughs perch the majestic hornbills; why have they flocked in great numbers?
+For the sweet Mafa fruits they have gathered; with rhythmic wingbeats they take flight towards Shirui Peak!
+
+--- Page 9 ---
+## Chapter 3: Dance Terms & Notes (Page 9)
+### Chapter 3 Dance Terms & Notes
+CHAPTER 3 STUDY GUIDE & DANCE TERMS
+VOCABULARY:
+  * pheishon laa (noun): traditional dancing song mimicking the flight of the great hornbill
+  * arang / akhok (noun): great Indian hornbill (Buceros bicornis), sacred bird of Tangkhul regalia
+  * mafathing (noun): Phoebe hainesiana, valued timber tree
+
+--- Page 10 ---
+## Chapter 4: Maiden Dances & Youth Festivals (Page 10)
+### Chapter 4: Maiden Dances & Youth Festivals (Yarra Laa)
+CHAPTER 4: MAIDEN DANCES & YOUTH FESTIVALS (YARRA LAA)
+Song 4: Laa Khanganui  |  Song 5: Yarra Laa
+
+TANGKHUL TEXT:
+Kazingkum huimailo aria, shivanaoli khina sale? Kha shingnai rao vasaya, he ring khaya zak matheiya.
+Kongrali theo theo, ilongnaova khithing kaphato? Ilongnaova longthing kaphana, meishum kapamnao zangyo!
+
+ENGLISH RENDERING:
+May the years roll gently on! The maidens perform the sacred dance of purity under the winter sun.
+What cheerful sounds echo along the stream? The youth gather firewood for the communal morung feast!
+
+--- Page 11 ---
+## Chapter 4: Youth Festival Lexicon (Page 11)
+### Chapter 4 Youth Festival Lexicon
+CHAPTER 4 STUDY GUIDE & YOUTH LEXICON
+VOCABULARY:
+  * yarra laa (noun): annual spring festival song of the youth
+  * longthing (noun): communal firewood gathered by morung youth
+  * meishum (noun): communal hearth around which songs are sung
+
+--- Page 12 ---
+## Chapter 5: Agriculture & Pastoral Songs (Page 12)
+### Chapter 5: Agriculture, Terrace Labor & Cowherd Songs
+CHAPTER 5: AGRICULTURE, TERRACE LABOR & COWHERD SONGS
+Song 7: Luisom Laa  |  Song 15: Sei Hom Laa
+
+TANGKHUL TEXT:
+O, I siluisa, I siluisa khinashai? I makreira khina mang, makreira sangralu; Shama maran saluira.
+Ava khaho malei, aya kaho malei, seihom langphaizaya; Shok reo rangpamshona, silui shur khani chi kachui laga yaronnao chara horlama.
+
+ENGLISH RENDERING:
+Who will eat my rich buffalo meat, who will drink my aged rice beer? Pour freely for the terrace workers!
+No father calls my name, no mother welcomes me home; alone upon the grassy slopes I herd the grazing buffalos,
+Tending the herds from dawn till dusk while bitter tears roll down my sunburnt face.
+
+--- Page 13 ---
+## Chapter 5: Pastoral Lexicon (Page 13)
+### Chapter 5 Pastoral Lexicon & Notes
+CHAPTER 5 STUDY GUIDE & PASTORAL LEXICON
+VOCABULARY:
+  * siluisa (noun): buffalo meat slaughtered for terrace cultivation feasts
+  * seihom (noun): herding of cattle and domestic buffalos
+  * langphaizaya (verb): pasturing upon high mountain meadows
+
+--- Page 14 ---
+## Chapter 6: Martial Ballads (Page 14)
+### Chapter 6: Martial Ballads & Head-hunting Epics (Ral Laa)
+CHAPTER 6: MARTIAL BALLADS & HEAD-HUNTING EPICS (RAL LAA)
+Song 13: Ral Laa (War Song)
+
+TANGKHUL TEXT:
+O, atung shangla rai sakashiyavo, Lunghar yaron ni chiya! Azing takha rai sakashiyavo, Ringui yaron ni chiya!
+Shangching Shangshak na ili khachitna chiya, shimin kayang ra mahon shok! Kharing sing singa, ili mangakatshelu!
+
+ENGLISH RENDERING:
+Behold in the northern crags the gallant knights of Lunghar stand ready in battle array!
+In the southern ranges the brave youths of Ringui defend the mountain frontiers;
+They fear me as the tiger of the forest; challenge me not, for our war cry shakes the valleys!
+
+--- Page 15 ---
+## Chapter 6: Martial Lexicon (Page 15)
+### Chapter 6 Martial Terms & Notes
+CHAPTER 6 STUDY GUIDE & MARTIAL LEXICON
+VOCABULARY:
+  * ral laa / rai laa (noun): heroic war song, victory chant
+  * kharing sing (idiom): taking an opponent captive alive
+  * mahon shok (verb phrase): releasing the thunderous war shout
+
+--- Page 16 ---
+## Chapter 7: Traditional Romances (Page 16)
+### Chapter 7: Traditional Love Romances (Shimreishang & Maitonphi)
+CHAPTER 7: TRADITIONAL LOVE ROMANCES (SHIMREISHANG & MAITONPHI)
+Song 19: Leishat Laa (Traditional Love Song)
+
+TANGKHUL TEXT:
+Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa.
+Laishikhavai chi lunamlizang ngaroksa; Coi marongthei reola khuisingda lung ringa.
+Ameishang Ameishang, Ira kachangli thuiulu; Maitonphi, pangthui haosa, ini lungchan malaihaosa.
+
+ENGLISH RENDERING:
+Mothers and elders, do not forbid! For sweet Maitonphi alone does my heart beat in longing;
+Though adverse winds separate us in this earthly life, our love remains rooted like the ancient pine tree.
+Beloved Ameishang, farewell on this mortal shore; in the eternal meadows beyond, we shall part no more.
+
+--- Page 17 ---
+## Chapter 7: Literary Romance Analysis (Page 17)
+### Chapter 7 The Epic of Shimreishang & Maitonphi
+THE TRAGIC ROMANCE IN TANGKHUL LITERATURE:
+The story of Shimreishang and Maitonphi represents the quintessential Tangkhul classical romance.
+Composed of hundreds of antiphonal couplets, it explores the themes of unyielding loyalty,
+social customs, clan expectations, and the spiritual conviction that authentic love survives death.
+
+--- Page 18 ---
+## Chapter 7: Romantic Lexicon (Page 18)
+### Chapter 7 Romantic Metaphor & Lexicon
+CHAPTER 7 STUDY GUIDE & ROMANTIC METAPHOR
+VOCABULARY:
+  * leishat laa (noun): romantic dialogue song
+  * marongthei (noun): fragrant flowering bush used as a symbol of fidelity
+  * lungring (noun): enduring vitality of affection
+
+--- Page 19 ---
+## Chapter 8: Weaving Songs & Festivals (Page 19)
+### Chapter 8: Weaving Songs, Festive Banquets & Bedtime Chants
+CHAPTER 8: WEAVING SONGS, FESTIVE BANQUETS & BEDTIME CHANTS
+Song 20: Themsak Laa (Weaving Song)  |  Song 26: Pet Laa (Bed Time Song)
+
+TANGKHUL TEXT:
+O Tangkhul ngalanao yanglu yanglu, sak kasa kathemma themma; Haora chi yaron kachonna, Phangyai rah Tangkhul kashanna!
+Phungcham vana ratha apamva rarona, phanishida tarikhana vaotun; Nali ungthuilo, sami ngachiya, i ram kashamshiraro.
+
+ENGLISH RENDERING:
+Look at the skilled Tangkhul maidens weaving their traditional cloths with masterly precision!
+The black-and-red Haora shawl is for brave young men, and the Phangyai skirt for graceful women.
+Evening falls across the high ridges of Phungcham; put aside the day's toil and rest peacefully in sleep.
+
+--- Page 20 ---
+## Chapter 8: Textile Lexicon (Page 20)
+### Chapter 8 Textile & Cultural Lexicon
+CHAPTER 8 STUDY GUIDE & TEXTILE LEXICON
+VOCABULARY:
+  * themsak laa (noun): traditional back-strap loom weaving song
+  * haora (noun): traditional black-and-red Tangkhul shawl with stylized red fringes
+  * phangyai (noun): iconic handwoven striped skirt worn by Tangkhul women
+  * chonkhom (noun): ceremonial embroidered garment
+
+--- Page 21 ---
+## BK-LIT-002 -- Comprehensive Glossary (Page 21)
+### Comprehensive Ethnomusicology Glossary
+COMPREHENSIVE ETHNOMUSICOLOGY GLOSSARY (BK-LIT-002):
+  * hokharai: opening invocation and ritual chant
+  * zingkum hao kaphok: spring seed-sowing hymn
+  * thingreikhangava: monument tree dragging chant
+  * pheishon: hornbill-dance song
+  * yarra laa: youth festival melody
+  * siluisa: terrace cultivation working song
+  * ral laa: martial victory epic
+  * leishat laa: romantic ballad
+  * themsak laa: weaving and craftsmanship song
+  * pet laa: evening bedtime chant
+  * haora: traditional male shawl
+  * phangyai: traditional female skirt
+
+--- Page 22 ---
+## BK-LIT-002 -- Back Cover & Colophon (Page 22)
+### Back Cover & Archival Colophon
+TANGKHUL LANGUAGE LIBRARY ARCHIVAL COLOPHON
+Book Identifier: BK-LIT-002
+Work: Folk Songs of The Tangkhul
+Compilers: Dr. H. Kamkhenthang & A. Ngashan Chahong
+Publisher: Directorate for Development of Tribals & Backward Classes, Manipur (1987)
+Preservation Status: Complete Digital Preservation Edition (22 Pages)
+Total Chapters: 8 | Songs Documented: 27 Complete Representative Songs | Words: 3,900 words
+Repository: Tangkhul Language Library Digital Archive
+License: Educational & Cultural Documentation

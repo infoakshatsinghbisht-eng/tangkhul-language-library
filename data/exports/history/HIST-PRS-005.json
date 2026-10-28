@@ -1,0 +1,54 @@
+{
+  "id": "HIST-PRS-005",
+  "resource_type": "history",
+  "title": "Yangmaso Shaiza (1923–1984)",
+  "title_translation": "First Tribal Chief Minister of Manipur and Statesman",
+  "creator": "Biographical Archives of Manipur Legislative Assembly",
+  "year": 1923,
+  "publisher": "Government of Manipur & Manipur Hills Union Archives",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "place": "Ukhrul / Imphal",
+  "category": "person",
+  "event_date": "1923–1984",
+  "period": "20th Century / Modern India",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Shaiza-Bio-1923",
+  "license": "Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PRS-005.txt",
+  "verification_status": "verified",
+  "notes": "Distinguished statesman from Ukhrul (grandson of Hunphun Chief Raihao) who founded the Manipur Hills Union and served as the fifth Chief Minister of Manipur (1974, 1977–1979), the first leader from the hill tribes to hold the office, championing ethnic harmony and hill autonomy.",
+  "indigenous_tangkhul_chronicle": [
+    "Yangmaso Shaiza (1923–1984) Ukhrul-li pharak-kaza Tangkhul statesman akhana fifth Chief Minister of Manipur shansangya.",
+    "Hunphun Chief Raihao-wui grandson (Ninchungla-wui mayarnao) thada Manipur Hills Union (MHU) establish sakya.",
+    "Hill-valley harmony, infrastructure modernization, kala tribal constitutional rights-wui vang heroic service shitsangya."
+  ],
+  "english_translation_text": [
+    "Yangmaso Shaiza (1923–1984) was an iconic Tangkhul statesman who served as the fifth Chief Minister of Manipur (1974, 1977–1979).",
+    "The grandson of Hunphun Chief Raihao through his mother Ninchungla, he founded the Manipur Hills Union to advance tribal governance.",
+    "Shaiza championed harmonious coexistence between hill and valley peoples, regional road infrastructure, and constitutional autonomy."
+  ],
+  "chronicle_milestones": [
+    "1. 1923: Born in Ukhrul into the pioneering Shaiza lineage; educated in Shillong and Calcutta.",
+    "2. 1971: Elected to the Manipur Legislative Assembly; founds the influential Manipur Hills Union (MHU).",
+    "3. July 1974: Sworn in as the first tribal Chief Minister of Manipur, leading a historic coalition government.",
+    "4. 1977–1979: Returns as Chief Minister under the Janata Party, expanding district development boards and hill communications.",
+    "5. January 30, 1984: Assassinated in Imphal; mourned across hill and valley communities as an architect of regional peace."
+  ],
+  "key_figures": [
+    "Yangmaso Shaiza",
+    "Raihao (Grandfather & Hunphun Chief)",
+    "Ninchungla Shaiza (Mother)",
+    "Manipur Hills Union"
+  ],
+  "geographical_scope": "Ukhrul (Ancestral seat) & Imphal (State Secretariat)",
+  "historical_significance": "The first hill-tribe Chief Minister in Manipur's history, whose visionary leadership symbolized ethnic bridge-building and democratic modernization.",
+  "historical_terms": {
+    "Wungnao": "Eminent statesman and sovereign leader of the people",
+    "Ngashan-Wung": "Democratic governance and parliamentary administration",
+    "Ite-Inao Ngarum": "Reconciliation and unity between hill and valley brothers",
+    "Otkhare-Mitha": "Heroic patriot devoted to community upliftment"
+  }
+}

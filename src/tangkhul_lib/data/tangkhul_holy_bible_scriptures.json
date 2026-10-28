@@ -1,0 +1,113 @@
+{
+  "id": "LIT-SCRP-001",
+  "title": "Varivara wui Tui Kathara: The Holy Bible in Tangkhul Naga",
+  "hindi_title": "तंगखुल नागा पवित्र बाइबिल (उत्पत्ति, भजन, नीतिवचन, सुसमाचार एवं प्रकाशितवाक्य)",
+  "translator": "Rev. William Pettigrew & Tangkhul Translation Committee (BSI)",
+  "year": 1927,
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul (Ukhrul)",
+  "sections": [
+    {
+      "book": "Hau-kaphok (Genesis / उत्पत्ति)",
+      "chapter": "Chapter 1: Kazing kala Ngalei Kasa (Creation of Heaven and Earth)",
+      "verses": [
+        {
+          "verse": "1:1",
+          "tangkhul": "Hau-kaphokli Varivarana kazing kala ngalei kasa.",
+          "english": "In the beginning God created the heaven and the earth.",
+          "hindi": "आदि में परमेश्वर ने आकाश और पृथ्वी की सृष्टि की।"
+        },
+        {
+          "verse": "1:2",
+          "tangkhul": "Kala ngaleiya mai-kaphā makaleida ngazishingli leisai; kala Varivarawui Mangkhapna tarawui mai-ngathangli rurungsai.",
+          "english": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+          "hindi": "और पृथ्वी बेडौल और सुनसान पड़ी थी, और गहरे जल के ऊपर अंधियारा था; और परमेश्वर की आत्मा जल के ऊपर मण्डलाती थी।"
+        },
+        {
+          "verse": "1:3",
+          "tangkhul": "Kala Varivarana hosa: 'Meira ngaphar-lu!' kala meira ngapharsai.",
+          "english": "And God said, Let there be light: and there was light.",
+          "hindi": "तब परमेश्वर ने कहा, 'उजियाला हो', तो उजियाला हो गया।"
+        },
+        {
+          "verse": "1:4",
+          "tangkhul": "Kala Varivarana meira chi kapha theisai; kala Varivarana meira eina ngazishingli kharar-hai-sai.",
+          "english": "And God saw the light, that it was good: and God divided the light from the darkness.",
+          "hindi": "और परमेश्वर ने उजियाले को देखा कि अच्छा है; और परमेश्वर ने उजियाले को अंधियारे से अलग किया।"
+        }
+      ]
+    },
+    {
+      "book": "Sam (Psalms / भजन संहिता)",
+      "chapter": "Psalm 23: Isha-wui Mayonpa (The Lord is my Shepherd)",
+      "verses": [
+        {
+          "verse": "23:1",
+          "tangkhul": "Isha-wui Varivara Iwui Mayonpasai; I khikha machot-mana.",
+          "english": "The Lord is my shepherd; I shall not want.",
+          "hindi": "यहोवा मेरा चरवाहा है; मुझे कुछ घटी न होगी।"
+        },
+        {
+          "verse": "23:2",
+          "tangkhul": "Ana ili pui-kaphā ngaleili pam-ngasakya; Ana ili tara-khamashungli mayon-zatta.",
+          "english": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+          "hindi": "वह मुझे हरी-हरी चराइयों में बैठाता है; वह मुझे सुखदाई जल के झरने के पास ले चलता है।"
+        },
+        {
+          "verse": "23:3",
+          "tangkhul": "Ana iwui ningli kathara mi; Awui mingwui vang mashunkasawui shongfali ili pashun-ngasakya.",
+          "english": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+          "hindi": "वह मेरे जी में जी ले आता है; और अपने नाम के निमित्त मुझे धर्म के मार्गों में ले चलता है।"
+        },
+        {
+          "verse": "23:4",
+          "tangkhul": "I kathi-wui ngazishing kongkhurli zat-la khikha ma-ngachee-mana, maramchilu Na ilei; Nawui thei-changna ili ningphā-mi.",
+          "english": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+          "hindi": "चाहे मैं मृत्यु की छाया से होकर चलूँ, तो भी हानि से न डरूँगा, क्योंकि तू मेरे साथ रहता है; तेरी सोंटी और तेरी लाठी से मुझे शांति मिलती है।"
+        }
+      ]
+    },
+    {
+      "book": "Paotam (Proverbs / नीतिवचन)",
+      "chapter": "Chapter 3: Ning-nganilu (Trust in the Lord)",
+      "verses": [
+        {
+          "verse": "3:5",
+          "tangkhul": "Na nawui ning saikora eina Varivarali ning-nganilu; nawui phaning-shonli ma-nganip-alu.",
+          "english": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+          "hindi": "तू अपनी सम्पूर्ण समझ पर भरोसा न रखना, वरन सम्पूर्ण मन से यहोवा पर भरोसा रखना।"
+        },
+        {
+          "verse": "3:6",
+          "tangkhul": "Nawui shongfa saikorali Ali theikhuilu, kala Ana nawui shongfali mashun-ngasak-ra.",
+          "english": "In all thy ways acknowledge him, and he shall direct thy paths.",
+          "hindi": "उसी को अपने सब मार्गों में स्मरण रखना, तब वह तेरे लिये सीधा मार्ग निकालेगा।"
+        }
+      ]
+    },
+    {
+      "book": "John Kahona Kasa (Gospel of John / यूहन्ना रचित सुसमाचार)",
+      "chapter": "Chapter 1 & 3: Tui Kathara (The Eternal Word & Grace)",
+      "verses": [
+        {
+          "verse": "1:1",
+          "tangkhul": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai.",
+          "english": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "hindi": "आदि में वचन था, और वचन परमेश्वर के साथ था, और वचन परमेश्वर था।"
+        },
+        {
+          "verse": "1:14",
+          "tangkhul": "Kala Tuichi miwung thot sakahaida i-wui ngachaili pamsai, Ava-wui Mayar Makazawui mathi kachicham thotna.",
+          "english": "And the Word was made flesh, and dwelt among us, full of grace and truth.",
+          "hindi": "और वचन देहधारी हुआ; और अनुग्रह और सच्चाई से परिपूर्ण होकर हमारे बीच में डेरा किया।"
+        },
+        {
+          "verse": "3:16",
+          "tangkhul": "Varivarana okathui-hi leishilak-da, Awui Naomayar Makaza akhana mili, khipakha Ali ning-nganira chichi makashiman-eili haring kapha thot phangra.",
+          "english": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+          "hindi": "क्योंकि परमेश्वर ने जगत से ऐसा प्रेम रखा कि उसने अपना एकलौता पुत्र दे दिया, ताकि जो कोई उस पर विश्वास करे, वह नाश न हो, परन्तु अनन्त जीवन पाए।"
+        }
+      ]
+    }
+  ]
+}

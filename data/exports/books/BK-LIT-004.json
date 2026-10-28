@@ -1,0 +1,1260 @@
+{
+  "id": "BK-LIT-004",
+  "resource_type": "books",
+  "title": "Wung (Tangkhul) Naga Okthot Mayonza",
+  "alternate_titles": [
+    "Tangkhul Customary Law, Jurisprudence, and Social Ethics"
+  ],
+  "authors": [
+    "T. Luikham"
+  ],
+  "editors": [],
+  "publisher": "Tangkhul Literature Society / Published at Imphal",
+  "publication_year": 1961,
+  "year": 1961,
+  "edition": "First Edition",
+  "subject": "Customary Law, Tribal Jurisprudence, and Ethics",
+  "educational_level": "Community / Traditional Legal Bench",
+  "language": "Tangkhul / English",
+  "dialect": "Ukhrul / Wung",
+  "isbn": null,
+  "source_url": "https://openlibrary.org/works/OL1829462W/Wung_Naga_Okthot_Mayonza",
+  "source_identifier": "LUIKHAM-1961-MAYONZA",
+  "catalogue_url": "https://openlibrary.org/works/OL1829462W/Wung_Naga_Okthot_Mayonza",
+  "local_file_path": "data/raw/books/BK-LIT-004_luikham_1961.txt",
+  "file_format": "txt",
+  "license": "Public Domain / Community Heritage Documentation",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Foundational codification of Tangkhul customary jurisprudence (Mayonza), trial by ordeal, land tenure, and marriage laws by indigenous scholar T. Luikham.",
+  "front_matter": {
+    "title_page": {
+      "title": "Wung (Tangkhul) Naga Okthot Mayonza",
+      "alternate_titles": [
+        "Tangkhul Customary Law, Jurisprudence, and Social Ethics"
+      ],
+      "authors": [
+        "T. Luikham"
+      ],
+      "editors": [],
+      "publisher": "Tangkhul Literature Society / Published at Imphal",
+      "publication_year": 1961,
+      "edition": "First Edition",
+      "educational_level": "Community / Traditional Legal Bench",
+      "subject": "Customary Law, Tribal Jurisprudence, and Ethics",
+      "language": "Tangkhul / English",
+      "dialect": "Ukhrul / Wung"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-LIT-004",
+      "license": "Public Domain / Community Heritage Documentation",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "LUIKHAM-1961-MAYONZA",
+      "source_url": "https://openlibrary.org/works/OL1829462W/Wung_Naga_Okthot_Mayonza"
+    },
+    "preface": "Wung (Tangkhul) Naga Okthot Mayonza (Tangkhul Customary Law, Jurisprudence, and Social Ethics), compiled and authored by T. Luikham (Indigenous Scholar and Author, published at Imphal/Ukhrul, 1961). The definitive native codification of Tangkhul legal philosophy, matrimonial codes, clan inheritance, trials by ordeal, sanctuary rights, and compensatory restitution."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "The Jurisprudential Philosophy of Wung Law",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Marriage Laws (Ngalong), Alliances, and Bride Wealth",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Clan Inheritance (Kashak) and Land Tenures",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 4,
+      "title": "Civil Wrongs, Thefts, and Restitution (Shiman)",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 5,
+      "title": "Judicial Oaths and Trial by Ordeal (Theishak)",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 6,
+      "title": "Traditional Taboos (Khamthei) and Sanctuary Rights",
+      "page_start": 16,
+      "page_end": 17
+    },
+    {
+      "chapter_number": 7,
+      "title": "Village Administration and Modern Legal Recognition",
+      "page_start": 18,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Jurisprudential Philosophy of Wung Law",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Core principles of restorative justice: cosmic equilibrium (shak-kasa), communal restitution, and clan liability.",
+      "tangkhul_text": "Wung (Tangkhul) customary law does not distinguish rigidly between civil tort and criminal injury; every offense is understood as a breach of cosmic and communal equilibrium (shak-kasa). The primary goal of judicial proceedings is not punitive incarceration, but the restitution of social harmony through compensatory settlement (shiman). Law is rooted in three principles: Respect for Ancestral Covenant (Khararchanwui Tuingashit), Preservation of Clan Integrity (Shangwui Kaphung), and Absolute Truthfulness before Varivara. The clan stands collective surety for its members.",
+      "english_translation": "Wung customary law does not distinguish rigidly between tort and crime; every offense is a breach of cosmic equilibrium (shak-kasa). The primary goal is restorative harmony through compensatory settlement (shiman) rather than punitive incarceration. Law rests on three pillars: ancestral covenants, clan integrity, and truthfulness before God. The clan bears collective liability.",
+      "vocabulary": [
+        {
+          "word": "Mayonza",
+          "pos": "noun",
+          "meaning": "customary law, justice code, jurisprudence"
+        },
+        {
+          "word": "Shak-kasa",
+          "pos": "noun",
+          "meaning": "breach of taboo, disrupting communal balance"
+        },
+        {
+          "word": "Shiman",
+          "pos": "noun",
+          "meaning": "compensatory fine, restitution, indemnification"
+        },
+        {
+          "word": "Shangwui kaphung",
+          "pos": "noun phrase",
+          "meaning": "corporate clan honor and collective standing"
+        }
+      ],
+      "grammar_notes": "The abstract noun 'mayonza' derives from root 'mayon' (to watch over / govern responsibly) + '-za' (statute).",
+      "exercises": [
+        {
+          "question": "What is the primary objective of judicial proceedings in Wung customary law?",
+          "type": "comprehension"
+        },
+        {
+          "question": "How does clan solidarity function regarding civil liabilities and fines?",
+          "type": "legal_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Marriage Laws (Ngalong), Alliances, and Bride Wealth",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Strict clan exogamy, matrilateral cross-cousin alliances, bride wealth (shiman) protocols, and divorce penalties.",
+      "tangkhul_text": "Marriage is an alliance between two distinct clans (shang). Strict exogamy is enforced under pain of grave moral censure. Marriage with a maternal aunt's daughter or mother's clan was preferred (cross-cousin marriage), cementing alliances. Bride wealth among the Tangkhul is not a commercial transaction, but a symbolic recompense to the bride's clan for the loss of her productive labor. Typical gifts include cattle (se), brass gongs (sen-kuir), and shawls. Divorce was uncommon and subject to rigorous financial penalties and property restitution.",
+      "english_translation": "Marriage is an alliance between two distinct clans under strict exogamy. Cross-cousin marriage cemented bilateral ties. Bride wealth was a symbolic recompense for the loss of female labor, consisting of cattle, brass gongs, and handwoven textiles. Divorce was rare and penalized by stringent property forfeitures and subsistence indemnities.",
+      "vocabulary": [
+        {
+          "word": "Ngalong",
+          "pos": "noun",
+          "meaning": "matrimonial law, marriage institution"
+        },
+        {
+          "word": "Sen-kuir",
+          "pos": "noun",
+          "meaning": "valuable brass ceremonial gong used in bride wealth"
+        },
+        {
+          "word": "Tui-kachathei",
+          "pos": "noun",
+          "meaning": "formal betrothal negotiation between clan spokesmen"
+        },
+        {
+          "word": "Ngalawui phunglung",
+          "pos": "noun phrase",
+          "meaning": "dowry possessions brought by the bride"
+        }
+      ],
+      "grammar_notes": "The nominal compound 'sen-kuir' fuses 'sen' (brass / bell-metal) with 'kuir' (circular rim / gong).",
+      "exercises": [
+        {
+          "question": "Why was cross-cousin marriage favored in traditional Tangkhul society?",
+          "type": "sociological_analysis"
+        },
+        {
+          "question": "What customary articles constituted bride wealth in Luikham's documentation?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Clan Inheritance (Kashak) and Land Tenures",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Inalienability of ancestral terrace fields, right of preemption by clan brethren, and primogeniture obligations.",
+      "tangkhul_text": "Terrace land (Luingam) is held in perpetuity by lineages. Under no circumstance may ancestral land be sold to an outsider from another village. If an individual must alienate land due to debt, he must first offer the right of preemption to his nearest clan brethren (shangwui ngacham-mi). The eldest son (kaphung-mayar) inherits the ancestral home (shim-kharar) and principal terrace fields, assuming the obligation of maintaining aging parents and performing funeral rites. Younger sons receive secondary plots and assistance in constructing independent homesteads.",
+      "english_translation": "Terrace land (Luingam) is held in perpetuity by lineages and can never be alienated to outside villagers. Preemption rights belong strictly to nearest clan brethren. The eldest son inherits the ancestral home and fields, assuming the solemn duty of caring for aged parents and funding funeral rites. Younger sons receive subordinate shares.",
+      "vocabulary": [
+        {
+          "word": "Kashak",
+          "pos": "noun",
+          "meaning": "inheritance, division of ancestral patrimony"
+        },
+        {
+          "word": "Shim-kharar",
+          "pos": "noun",
+          "meaning": "ancestral home, the elder family hearth"
+        },
+        {
+          "word": "Kaphung-mayar",
+          "pos": "noun",
+          "meaning": "eldest son, principal heir and hearth keeper"
+        },
+        {
+          "word": "Thikahaiwui ot",
+          "pos": "noun phrase",
+          "meaning": "funeral rites and ceremonial obligations for deceased parents"
+        }
+      ],
+      "grammar_notes": "The kinship term 'kaphung-mayar' signifies literally 'the son who bears the lineage weight' ('phung' = carry).",
+      "exercises": [
+        {
+          "question": "State the rule of preemption governing Tangkhul terrace fields.",
+          "type": "legal_analysis"
+        },
+        {
+          "question": "What specific duties fall upon the eldest son under primogeniture?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Civil Wrongs, Thefts, and Restitution (Shiman)",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "The threefold restitution rule for animal theft, grain theft penalties, and mediation of accidental injuries.",
+      "tangkhul_text": "Theft of domestic animals was punished by threefold restitution (thum-ngashit): returning the stolen beast plus two additional animals of equal value as fine (kashiman) to the aggrieved family, plus a cleansing pig to the village council. Theft of harvested grain from field granaries was regarded as an aggravated offense requiring immediate public apology and heavy indemnity. Accidental physical injury was compensated according to working days lost, with the responsible party supplying rice and fowl. Homicide required temporary banishment to avert blood vengeance, followed by Pukreila peace negotiations.",
+      "english_translation": "Theft of domestic animals was punished by threefold restitution (thum-ngashit): returning the animal plus two others as fine, with a cleansing pig for the council. Granary theft required public apology and heavy indemnity. Accidental injuries were compensated based on lost working days and medicinal supplies. Homicide necessitated temporary exile to avert vengeance.",
+      "vocabulary": [
+        {
+          "word": "Thum-ngashit",
+          "pos": "noun",
+          "meaning": "threefold restitution, triple compensatory penalty"
+        },
+        {
+          "word": "Kashiman",
+          "pos": "noun",
+          "meaning": "judicial fine, indemnification sum"
+        },
+        {
+          "word": "Rai-shiman",
+          "pos": "noun",
+          "meaning": "blood vengeance compensation, homicide settlement"
+        },
+        {
+          "word": "Khamazik",
+          "pos": "noun",
+          "meaning": "public apology, ceremonial reconciliation before council"
+        }
+      ],
+      "grammar_notes": "Numeral compound 'thum-ngashit' combines 'thum' (three) with 'ngashit' (equal fold / multiplied measure).",
+      "exercises": [
+        {
+          "question": "Explain the formula of 'thum-ngashit' for livestock theft.",
+          "type": "mathematical_legal_analysis"
+        },
+        {
+          "question": "Why was granary theft considered an aggravated offense against the village?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Judicial Oaths and Trial by Ordeal (Theishak)",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Trial by ordeal when evidence fails: tiger tooth oaths, water immersion diving (tara-kachung), and divine judgment.",
+      "tangkhul_text": "When oral testimony conflicted and evidence was inconclusive, the Hangva administered judicial oaths (theishak). An oath was not taken lightly; invoking false testimony before Varivara or clan ancestors was believed to result in premature death or the extinction of the swearer's lineage. The most solemn oath involved biting a tiger's tooth (shilwui ha) or touching a spear point. In property boundary disputes, contestants submitted to water immersion ordeals (tara-kachung), diving simultaneously into a river pool; the individual who surfaced first was adjudged dishonest. Hot water tests were also administered under the village priest's scrutiny.",
+      "english_translation": "When testimony conflicted, the Hangva administered judicial oaths (theishak). False oaths before God or ancestors were believed to bring premature death or lineage extinction. Solemn oaths included biting a tiger's tooth or holding a spear point. Boundary disputes were decided by water immersion ordeals (tara-kachung); the contestant surfacing first lost the case.",
+      "vocabulary": [
+        {
+          "word": "Theishak",
+          "pos": "noun",
+          "meaning": "judicial oath, solemn ordeal, invocation of divine judgment"
+        },
+        {
+          "word": "Shilwui ha",
+          "pos": "noun phrase",
+          "meaning": "tiger's tooth used in swearing supreme oaths"
+        },
+        {
+          "word": "Tara-kachung",
+          "pos": "noun",
+          "meaning": "water immersion ordeal, competitive diving under river water"
+        },
+        {
+          "word": "Shang-khamatei",
+          "pos": "noun",
+          "meaning": "extinction of lineage as consequence of perjury"
+        }
+      ],
+      "grammar_notes": "The verbal noun 'tara-kachung' derives from 'tara' (water) and 'kachung' (entering / submerging deeply).",
+      "exercises": [
+        {
+          "question": "What metaphysical consequences were believed to follow false oaths in Tangkhul law?",
+          "type": "theological_analysis"
+        },
+        {
+          "question": "Describe the procedural rules of the 'tara-kachung' water ordeal.",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Traditional Taboos (Khamthei) and Sanctuary Rights",
+      "page_start": 16,
+      "page_end": 17,
+      "summary": "Sacred rest days (genna / khamthei), the sanctuary of the chief's central pillar (shim-chui), and hearth purification.",
+      "tangkhul_text": "Certain days were declared Khamthei (sacred rest days / genna) during which agricultural labor, weaving, and woodchopping were strictly forbidden. Breaching Khamthei was believed to blight crops and attracted village fines. The homestead of the Awunga served as an inviolable sanctuary. A fugitive fleeing vengeance who succeeded in touching the Awunga's central house-pillar (shim-chui) was granted temporary immunity while elders convened to arbitrate. Following unnatural deaths, purification ceremonies (shim-kashak) were conducted by the village Maiba before normal commensality could resume.",
+      "english_translation": "Certain days were declared Khamthei (sacred genna days) where all labor was forbidden. Breaching taboos blighted crops and drew fines. The chief's home was an inviolable sanctuary; a fugitive touching the central pillar (shim-chui) gained immunity pending arbitration. Unnatural deaths required ritual house-cleansing (shim-kashak) by the priest before social commensality was restored.",
+      "vocabulary": [
+        {
+          "word": "Khamthei",
+          "pos": "noun",
+          "meaning": "taboo, sacred non-working day, genna restriction"
+        },
+        {
+          "word": "Shim-chui",
+          "pos": "noun",
+          "meaning": "central house-pillar, sacred pillar of sanctuary"
+        },
+        {
+          "word": "Shim-kashak",
+          "pos": "noun",
+          "meaning": "ritual purification of hearth following defilement"
+        },
+        {
+          "word": "Khamatei thi",
+          "pos": "noun phrase",
+          "meaning": "unnatural death, demise by lightning, predator, or cliff fall"
+        }
+      ],
+      "grammar_notes": "Stative verb 'khamthei' (to be forbidden / set apart) nominalizes into the general term for taboo.",
+      "exercises": [
+        {
+          "question": "What physical act granted a fugitive temporary immunity from vengeance?",
+          "type": "factual"
+        },
+        {
+          "question": "Describe the ceremonies conducted after an unnatural death ('khamatei thi').",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Village Administration and Modern Legal Recognition",
+      "page_start": 18,
+      "page_end": 20,
+      "summary": "Customary dues of the Awunga, codification under Manipur Hill Peoples Regulation (1947), and contemporary customary courts.",
+      "tangkhul_text": "The Awunga was endowed with customary prerogatives: he received the right thigh of all game felled in village forests, was entitled to communal labor on his fields during the sowing season, and received a portion of adjudication fines. In exchange, the Awunga maintained the village covenant stones and represented the community in external treaties. Under the Manipur State Hill Peoples Regulation (1947), Tangkhul customary courts were granted formal statutory recognition to adjudicate civil and customary disputes, preserving speedy, restorative, and cost-free community justice.",
+      "english_translation": "The Awunga received the right thigh of game felled in forests, communal labor on his fields, and judicial fine portions. In return, he maintained covenant stones and represented the village diplomatically. Under the Manipur State Hill Peoples Regulation (1947), customary courts received formal statutory recognition, ensuring restorative, cost-free justice.",
+      "vocabulary": [
+        {
+          "word": "Awungawui share",
+          "pos": "noun phrase",
+          "meaning": "customary tribute due to the chief (game thigh, field labor)"
+        },
+        {
+          "word": "Tuingashit lung",
+          "pos": "noun phrase",
+          "meaning": "covenant stones erected at village boundaries"
+        },
+        {
+          "word": "Manipur Hill Regulation",
+          "pos": "proper noun",
+          "meaning": "1947 statutory act recognizing tribal customary courts"
+        },
+        {
+          "word": "Mayonza kashung",
+          "pos": "noun phrase",
+          "meaning": "just and equitable administration of customary law"
+        }
+      ],
+      "grammar_notes": "Noun phrase 'Tuingashit lung' joins 'tuingashit' (covenant) and 'lung' (stone megalith).",
+      "exercises": [
+        {
+          "question": "What customary tributes were historically rendered to the Tangkhul Awunga?",
+          "type": "factual"
+        },
+        {
+          "question": "How did the 1947 Regulation protect indigenous tribal jurisprudence?",
+          "type": "legal_history"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-LIT-004",
+      "title": "Wung (Tangkhul) Naga Okthot Mayonza",
+      "lines": [
+        "TITLE: Wung (Tangkhul) Naga Okthot Mayonza",
+        "Identifier: BK-LIT-004",
+        "Level: Community / Traditional Legal Bench | Subject: Customary Law, Tribal Jurisprudence, and Ethics",
+        "Publisher: Tangkhul Literature Society / Published at Imphal (1961)",
+        "Language: Tangkhul (Ukhrul / Wung)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Wung (Tangkhul) Naga Okthot Mayonza -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Wung (Tangkhul) Naga Okthot Mayonza.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Wung (Tangkhul) Naga Okthot Mayonza -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Wung (Tangkhul) Naga Okthot Mayonza (Tangkhul Customary Law, Jurisprudence,",
+        "and Social Ethics), compiled and authored by T. Luikham (Indigenous Scholar",
+        "and Author, published at Imphal/Ukhrul, 1961). The definitive native",
+        "codification of Tangkhul legal philosophy, matrimonial codes, clan",
+        "inheritance, trials by ordeal, sanctuary rights, and compensatory",
+        "restitution."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Wung (Tangkhul) Naga Okthot Mayonza -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: The Jurisprudential Philosophy of Wung Law (pp. 4-6)",
+        "  Chapter 2: Marriage Laws (Ngalong), Alliances, and Bride Wealth (pp. 7-9)",
+        "  Chapter 3: Clan Inheritance (Kashak) and Land Tenures (pp. 10-11)",
+        "  Chapter 4: Civil Wrongs, Thefts, and Restitution (Shiman) (pp. 12-13)",
+        "  Chapter 5: Judicial Oaths and Trial by Ordeal (Theishak) (pp. 14-15)",
+        "  Chapter 6: Traditional Taboos (Khamthei) and Sanctuary Rights (pp. 16-17)",
+        "  Chapter 7: Village Administration and Modern Legal Recognition (pp. 18-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: The Jurisprudential Philosophy of Wung Law (Page 4)",
+      "title": "Chapter 1: The Jurisprudential Philosophy of Wung Law",
+      "lines": [
+        "CHAPTER 1: THE JURISPRUDENTIAL PHILOSOPHY OF WUNG LAW",
+        "Summary: Core principles of restorative justice: cosmic equilibrium (shak-kasa), communal restitution, and clan liability.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Wung (Tangkhul) customary law does not distinguish rigidly between civil",
+        "tort and criminal injury; every offense is understood as a breach of",
+        "cosmic and communal equilibrium (shak-kasa). The primary goal of",
+        "judicial proceedings is not punitive incarceration, but the restitution",
+        "of social harmony through compensatory settlement (shiman). Law is",
+        "rooted in three principles: Respect for Ancestral Covenant",
+        "(Khararchanwui Tuingashit), Preservation of Clan Integrity (Shangwui",
+        "Kaphung), and Absolute Truthfulness before Varivara. The clan stands",
+        "collective surety for its members.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Wung customary law does not distinguish rigidly between tort and crime;",
+        "every offense is a breach of cosmic equilibrium (shak-kasa). The primary",
+        "goal is restorative harmony through compensatory settlement (shiman)",
+        "rather than punitive incarceration. Law rests on three pillars:",
+        "ancestral covenants, clan integrity, and truthfulness before God. The",
+        "clan bears collective liability."
+      ],
+      "tangkhul_content": "Wung (Tangkhul) customary law does not distinguish rigidly between civil tort and criminal injury; every offense is understood as a breach of cosmic and communal equilibrium (shak-kasa). The primary goal of judicial proceedings is not punitive incarceration, but the restitution of social harmony through compensatory settlement (shiman). Law is rooted in three principles: Respect for Ancestral Covenant (Khararchanwui Tuingashit), Preservation of Clan Integrity (Shangwui Kaphung), and Absolute Truthfulness before Varivara. The clan stands collective surety for its members.",
+      "english_translation": "Wung customary law does not distinguish rigidly between tort and crime; every offense is a breach of cosmic equilibrium (shak-kasa). The primary goal is restorative harmony through compensatory settlement (shiman) rather than punitive incarceration. Law rests on three pillars: ancestral covenants, clan integrity, and truthfulness before God. The clan bears collective liability.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 1: Continuation (Page 5)",
+      "title": "Chapter 1 (Continued)",
+      "lines": [
+        "CHAPTER 1: READING CONTINUATION (PAGE 5)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Wung (Tangkhul) customary law does not distinguish rigidly between civil",
+        "tort and criminal injury; every offense is understood as a breach of",
+        "cosmic and communal equilibrium (shak-kasa). The primary goal of",
+        "judicial proceedings is not punitive incarceration, but the restitution",
+        "of social harmony through compensatory settlement (shiman). Law is",
+        "rooted in three principles: Respect for Ancestral Covenant",
+        "(Khararchanwui Tuingashit), Preservation of Clan Integrity (Shangwui",
+        "Kaphung), and Absolute Truthfulness before Varivara. The clan stands",
+        "collective surety for its members.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Wung customary law does not distinguish rigidly between tort and crime;",
+        "every offense is a breach of cosmic equilibrium (shak-kasa). The primary",
+        "goal is restorative harmony through compensatory settlement (shiman)",
+        "rather than punitive incarceration. Law rests on three pillars:",
+        "ancestral covenants, clan integrity, and truthfulness before God. The",
+        "clan bears collective liability."
+      ],
+      "tangkhul_content": "Wung (Tangkhul) customary law does not distinguish rigidly between civil tort and criminal injury; every offense is understood as a breach of cosmic and communal equilibrium (shak-kasa). The primary goal of judicial proceedings is not punitive incarceration, but the restitution of social harmony through compensatory settlement (shiman). Law is rooted in three principles: Respect for Ancestral Covenant (Khararchanwui Tuingashit), Preservation of Clan Integrity (Shangwui Kaphung), and Absolute Truthfulness before Varivara. The clan stands collective surety for its members.",
+      "english_translation": "Wung customary law does not distinguish rigidly between tort and crime; every offense is a breach of cosmic equilibrium (shak-kasa). The primary goal is restorative harmony through compensatory settlement (shiman) rather than punitive incarceration. Law rests on three pillars: ancestral covenants, clan integrity, and truthfulness before God. The clan bears collective liability.",
+      "notes": [
+        "Continuation reading page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 6)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Mayonza (noun): customary law, justice code, jurisprudence",
+        "  * Shak-kasa (noun): breach of taboo, disrupting communal balance",
+        "  * Shiman (noun): compensatory fine, restitution, indemnification",
+        "  * Shangwui kaphung (noun phrase): corporate clan honor and collective standing",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The abstract noun 'mayonza' derives from root 'mayon' (to watch over / govern responsibly) + '-za' (statute).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is the primary objective of judicial proceedings in Wung customary law?",
+        "  ? How does clan solidarity function regarding civil liabilities and fines?"
+      ],
+      "tangkhul_content": "Mayonza: customary law, justice code, jurisprudence\nShak-kasa: breach of taboo, disrupting communal balance\nShiman: compensatory fine, restitution, indemnification\nShangwui kaphung: corporate clan honor and collective standing",
+      "english_translation": "The abstract noun 'mayonza' derives from root 'mayon' (to watch over / govern responsibly) + '-za' (statute).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Marriage Laws (Ngalong), Alliances, and Bride Wealth (Page 7)",
+      "title": "Chapter 2: Marriage Laws (Ngalong), Alliances, and Bride Wealth",
+      "lines": [
+        "CHAPTER 2: MARRIAGE LAWS (NGALONG), ALLIANCES, AND BRIDE WEALTH",
+        "Summary: Strict clan exogamy, matrilateral cross-cousin alliances, bride wealth (shiman) protocols, and divorce penalties.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Marriage is an alliance between two distinct clans (shang). Strict",
+        "exogamy is enforced under pain of grave moral censure. Marriage with a",
+        "maternal aunt's daughter or mother's clan was preferred (cross-cousin",
+        "marriage), cementing alliances. Bride wealth among the Tangkhul is not a",
+        "commercial transaction, but a symbolic recompense to the bride's clan",
+        "for the loss of her productive labor. Typical gifts include cattle (se),",
+        "brass gongs (sen-kuir), and shawls. Divorce was uncommon and subject to",
+        "rigorous financial penalties and property restitution.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Marriage is an alliance between two distinct clans under strict exogamy.",
+        "Cross-cousin marriage cemented bilateral ties. Bride wealth was a",
+        "symbolic recompense for the loss of female labor, consisting of cattle,",
+        "brass gongs, and handwoven textiles. Divorce was rare and penalized by",
+        "stringent property forfeitures and subsistence indemnities."
+      ],
+      "tangkhul_content": "Marriage is an alliance between two distinct clans (shang). Strict exogamy is enforced under pain of grave moral censure. Marriage with a maternal aunt's daughter or mother's clan was preferred (cross-cousin marriage), cementing alliances. Bride wealth among the Tangkhul is not a commercial transaction, but a symbolic recompense to the bride's clan for the loss of her productive labor. Typical gifts include cattle (se), brass gongs (sen-kuir), and shawls. Divorce was uncommon and subject to rigorous financial penalties and property restitution.",
+      "english_translation": "Marriage is an alliance between two distinct clans under strict exogamy. Cross-cousin marriage cemented bilateral ties. Bride wealth was a symbolic recompense for the loss of female labor, consisting of cattle, brass gongs, and handwoven textiles. Divorce was rare and penalized by stringent property forfeitures and subsistence indemnities.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 2: Continuation (Page 8)",
+      "title": "Chapter 2 (Continued)",
+      "lines": [
+        "CHAPTER 2: READING CONTINUATION (PAGE 8)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Marriage is an alliance between two distinct clans (shang). Strict",
+        "exogamy is enforced under pain of grave moral censure. Marriage with a",
+        "maternal aunt's daughter or mother's clan was preferred (cross-cousin",
+        "marriage), cementing alliances. Bride wealth among the Tangkhul is not a",
+        "commercial transaction, but a symbolic recompense to the bride's clan",
+        "for the loss of her productive labor. Typical gifts include cattle (se),",
+        "brass gongs (sen-kuir), and shawls. Divorce was uncommon and subject to",
+        "rigorous financial penalties and property restitution.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Marriage is an alliance between two distinct clans under strict exogamy.",
+        "Cross-cousin marriage cemented bilateral ties. Bride wealth was a",
+        "symbolic recompense for the loss of female labor, consisting of cattle,",
+        "brass gongs, and handwoven textiles. Divorce was rare and penalized by",
+        "stringent property forfeitures and subsistence indemnities."
+      ],
+      "tangkhul_content": "Marriage is an alliance between two distinct clans (shang). Strict exogamy is enforced under pain of grave moral censure. Marriage with a maternal aunt's daughter or mother's clan was preferred (cross-cousin marriage), cementing alliances. Bride wealth among the Tangkhul is not a commercial transaction, but a symbolic recompense to the bride's clan for the loss of her productive labor. Typical gifts include cattle (se), brass gongs (sen-kuir), and shawls. Divorce was uncommon and subject to rigorous financial penalties and property restitution.",
+      "english_translation": "Marriage is an alliance between two distinct clans under strict exogamy. Cross-cousin marriage cemented bilateral ties. Bride wealth was a symbolic recompense for the loss of female labor, consisting of cattle, brass gongs, and handwoven textiles. Divorce was rare and penalized by stringent property forfeitures and subsistence indemnities.",
+      "notes": [
+        "Continuation reading page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Ngalong (noun): matrimonial law, marriage institution",
+        "  * Sen-kuir (noun): valuable brass ceremonial gong used in bride wealth",
+        "  * Tui-kachathei (noun): formal betrothal negotiation between clan spokesmen",
+        "  * Ngalawui phunglung (noun phrase): dowry possessions brought by the bride",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The nominal compound 'sen-kuir' fuses 'sen' (brass / bell-metal) with 'kuir' (circular rim / gong).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Why was cross-cousin marriage favored in traditional Tangkhul society?",
+        "  ? What customary articles constituted bride wealth in Luikham's documentation?"
+      ],
+      "tangkhul_content": "Ngalong: matrimonial law, marriage institution\nSen-kuir: valuable brass ceremonial gong used in bride wealth\nTui-kachathei: formal betrothal negotiation between clan spokesmen\nNgalawui phunglung: dowry possessions brought by the bride",
+      "english_translation": "The nominal compound 'sen-kuir' fuses 'sen' (brass / bell-metal) with 'kuir' (circular rim / gong).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Clan Inheritance (Kashak) and Land Tenures (Page 10)",
+      "title": "Chapter 3: Clan Inheritance (Kashak) and Land Tenures",
+      "lines": [
+        "CHAPTER 3: CLAN INHERITANCE (KASHAK) AND LAND TENURES",
+        "Summary: Inalienability of ancestral terrace fields, right of preemption by clan brethren, and primogeniture obligations.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Terrace land (Luingam) is held in perpetuity by lineages. Under no",
+        "circumstance may ancestral land be sold to an outsider from another",
+        "village. If an individual must alienate land due to debt, he must first",
+        "offer the right of preemption to his nearest clan brethren (shangwui",
+        "ngacham-mi). The eldest son (kaphung-mayar) inherits the ancestral home",
+        "(shim-kharar) and principal terrace fields, assuming the obligation of",
+        "maintaining aging parents and performing funeral rites. Younger sons",
+        "receive secondary plots and assistance in constructing independent",
+        "homesteads.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Terrace land (Luingam) is held in perpetuity by lineages and can never",
+        "be alienated to outside villagers. Preemption rights belong strictly to",
+        "nearest clan brethren. The eldest son inherits the ancestral home and",
+        "fields, assuming the solemn duty of caring for aged parents and funding",
+        "funeral rites. Younger sons receive subordinate shares."
+      ],
+      "tangkhul_content": "Terrace land (Luingam) is held in perpetuity by lineages. Under no circumstance may ancestral land be sold to an outsider from another village. If an individual must alienate land due to debt, he must first offer the right of preemption to his nearest clan brethren (shangwui ngacham-mi). The eldest son (kaphung-mayar) inherits the ancestral home (shim-kharar) and principal terrace fields, assuming the obligation of maintaining aging parents and performing funeral rites. Younger sons receive secondary plots and assistance in constructing independent homesteads.",
+      "english_translation": "Terrace land (Luingam) is held in perpetuity by lineages and can never be alienated to outside villagers. Preemption rights belong strictly to nearest clan brethren. The eldest son inherits the ancestral home and fields, assuming the solemn duty of caring for aged parents and funding funeral rites. Younger sons receive subordinate shares.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Kashak (noun): inheritance, division of ancestral patrimony",
+        "  * Shim-kharar (noun): ancestral home, the elder family hearth",
+        "  * Kaphung-mayar (noun): eldest son, principal heir and hearth keeper",
+        "  * Thikahaiwui ot (noun phrase): funeral rites and ceremonial obligations for deceased parents",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The kinship term 'kaphung-mayar' signifies literally 'the son who bears the lineage weight' ('phung' = carry).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? State the rule of preemption governing Tangkhul terrace fields.",
+        "  ? What specific duties fall upon the eldest son under primogeniture?"
+      ],
+      "tangkhul_content": "Kashak: inheritance, division of ancestral patrimony\nShim-kharar: ancestral home, the elder family hearth\nKaphung-mayar: eldest son, principal heir and hearth keeper\nThikahaiwui ot: funeral rites and ceremonial obligations for deceased parents",
+      "english_translation": "The kinship term 'kaphung-mayar' signifies literally 'the son who bears the lineage weight' ('phung' = carry).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Civil Wrongs, Thefts, and Restitution (Shiman) (Page 12)",
+      "title": "Chapter 4: Civil Wrongs, Thefts, and Restitution (Shiman)",
+      "lines": [
+        "CHAPTER 4: CIVIL WRONGS, THEFTS, AND RESTITUTION (SHIMAN)",
+        "Summary: The threefold restitution rule for animal theft, grain theft penalties, and mediation of accidental injuries.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Theft of domestic animals was punished by threefold restitution (thum-",
+        "ngashit): returning the stolen beast plus two additional animals of",
+        "equal value as fine (kashiman) to the aggrieved family, plus a cleansing",
+        "pig to the village council. Theft of harvested grain from field",
+        "granaries was regarded as an aggravated offense requiring immediate",
+        "public apology and heavy indemnity. Accidental physical injury was",
+        "compensated according to working days lost, with the responsible party",
+        "supplying rice and fowl. Homicide required temporary banishment to avert",
+        "blood vengeance, followed by Pukreila peace negotiations.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Theft of domestic animals was punished by threefold restitution (thum-",
+        "ngashit): returning the animal plus two others as fine, with a cleansing",
+        "pig for the council. Granary theft required public apology and heavy",
+        "indemnity. Accidental injuries were compensated based on lost working",
+        "days and medicinal supplies. Homicide necessitated temporary exile to",
+        "avert vengeance."
+      ],
+      "tangkhul_content": "Theft of domestic animals was punished by threefold restitution (thum-ngashit): returning the stolen beast plus two additional animals of equal value as fine (kashiman) to the aggrieved family, plus a cleansing pig to the village council. Theft of harvested grain from field granaries was regarded as an aggravated offense requiring immediate public apology and heavy indemnity. Accidental physical injury was compensated according to working days lost, with the responsible party supplying rice and fowl. Homicide required temporary banishment to avert blood vengeance, followed by Pukreila peace negotiations.",
+      "english_translation": "Theft of domestic animals was punished by threefold restitution (thum-ngashit): returning the animal plus two others as fine, with a cleansing pig for the council. Granary theft required public apology and heavy indemnity. Accidental injuries were compensated based on lost working days and medicinal supplies. Homicide necessitated temporary exile to avert vengeance.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Thum-ngashit (noun): threefold restitution, triple compensatory penalty",
+        "  * Kashiman (noun): judicial fine, indemnification sum",
+        "  * Rai-shiman (noun): blood vengeance compensation, homicide settlement",
+        "  * Khamazik (noun): public apology, ceremonial reconciliation before council",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Numeral compound 'thum-ngashit' combines 'thum' (three) with 'ngashit' (equal fold / multiplied measure).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Explain the formula of 'thum-ngashit' for livestock theft.",
+        "  ? Why was granary theft considered an aggravated offense against the village?"
+      ],
+      "tangkhul_content": "Thum-ngashit: threefold restitution, triple compensatory penalty\nKashiman: judicial fine, indemnification sum\nRai-shiman: blood vengeance compensation, homicide settlement\nKhamazik: public apology, ceremonial reconciliation before council",
+      "english_translation": "Numeral compound 'thum-ngashit' combines 'thum' (three) with 'ngashit' (equal fold / multiplied measure).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Judicial Oaths and Trial by Ordeal (Theishak) (Page 14)",
+      "title": "Chapter 5: Judicial Oaths and Trial by Ordeal (Theishak)",
+      "lines": [
+        "CHAPTER 5: JUDICIAL OATHS AND TRIAL BY ORDEAL (THEISHAK)",
+        "Summary: Trial by ordeal when evidence fails: tiger tooth oaths, water immersion diving (tara-kachung), and divine judgment.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "When oral testimony conflicted and evidence was inconclusive, the Hangva",
+        "administered judicial oaths (theishak). An oath was not taken lightly;",
+        "invoking false testimony before Varivara or clan ancestors was believed",
+        "to result in premature death or the extinction of the swearer's lineage.",
+        "The most solemn oath involved biting a tiger's tooth (shilwui ha) or",
+        "touching a spear point. In property boundary disputes, contestants",
+        "submitted to water immersion ordeals (tara-kachung), diving",
+        "simultaneously into a river pool; the individual who surfaced first was",
+        "adjudged dishonest. Hot water tests were also administered under the",
+        "village priest's scrutiny.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "When testimony conflicted, the Hangva administered judicial oaths",
+        "(theishak). False oaths before God or ancestors were believed to bring",
+        "premature death or lineage extinction. Solemn oaths included biting a",
+        "tiger's tooth or holding a spear point. Boundary disputes were decided",
+        "by water immersion ordeals (tara-kachung); the contestant surfacing",
+        "first lost the case."
+      ],
+      "tangkhul_content": "When oral testimony conflicted and evidence was inconclusive, the Hangva administered judicial oaths (theishak). An oath was not taken lightly; invoking false testimony before Varivara or clan ancestors was believed to result in premature death or the extinction of the swearer's lineage. The most solemn oath involved biting a tiger's tooth (shilwui ha) or touching a spear point. In property boundary disputes, contestants submitted to water immersion ordeals (tara-kachung), diving simultaneously into a river pool; the individual who surfaced first was adjudged dishonest. Hot water tests were also administered under the village priest's scrutiny.",
+      "english_translation": "When testimony conflicted, the Hangva administered judicial oaths (theishak). False oaths before God or ancestors were believed to bring premature death or lineage extinction. Solemn oaths included biting a tiger's tooth or holding a spear point. Boundary disputes were decided by water immersion ordeals (tara-kachung); the contestant surfacing first lost the case.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Theishak (noun): judicial oath, solemn ordeal, invocation of divine judgment",
+        "  * Shilwui ha (noun phrase): tiger's tooth used in swearing supreme oaths",
+        "  * Tara-kachung (noun): water immersion ordeal, competitive diving under river water",
+        "  * Shang-khamatei (noun): extinction of lineage as consequence of perjury",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The verbal noun 'tara-kachung' derives from 'tara' (water) and 'kachung' (entering / submerging deeply).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What metaphysical consequences were believed to follow false oaths in Tangkhul law?",
+        "  ? Describe the procedural rules of the 'tara-kachung' water ordeal."
+      ],
+      "tangkhul_content": "Theishak: judicial oath, solemn ordeal, invocation of divine judgment\nShilwui ha: tiger's tooth used in swearing supreme oaths\nTara-kachung: water immersion ordeal, competitive diving under river water\nShang-khamatei: extinction of lineage as consequence of perjury",
+      "english_translation": "The verbal noun 'tara-kachung' derives from 'tara' (water) and 'kachung' (entering / submerging deeply).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Traditional Taboos (Khamthei) and Sanctuary Rights (Page 16)",
+      "title": "Chapter 6: Traditional Taboos (Khamthei) and Sanctuary Rights",
+      "lines": [
+        "CHAPTER 6: TRADITIONAL TABOOS (KHAMTHEI) AND SANCTUARY RIGHTS",
+        "Summary: Sacred rest days (genna / khamthei), the sanctuary of the chief's central pillar (shim-chui), and hearth purification.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Certain days were declared Khamthei (sacred rest days / genna) during",
+        "which agricultural labor, weaving, and woodchopping were strictly",
+        "forbidden. Breaching Khamthei was believed to blight crops and attracted",
+        "village fines. The homestead of the Awunga served as an inviolable",
+        "sanctuary. A fugitive fleeing vengeance who succeeded in touching the",
+        "Awunga's central house-pillar (shim-chui) was granted temporary immunity",
+        "while elders convened to arbitrate. Following unnatural deaths,",
+        "purification ceremonies (shim-kashak) were conducted by the village",
+        "Maiba before normal commensality could resume.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Certain days were declared Khamthei (sacred genna days) where all labor",
+        "was forbidden. Breaching taboos blighted crops and drew fines. The",
+        "chief's home was an inviolable sanctuary; a fugitive touching the",
+        "central pillar (shim-chui) gained immunity pending arbitration.",
+        "Unnatural deaths required ritual house-cleansing (shim-kashak) by the",
+        "priest before social commensality was restored."
+      ],
+      "tangkhul_content": "Certain days were declared Khamthei (sacred rest days / genna) during which agricultural labor, weaving, and woodchopping were strictly forbidden. Breaching Khamthei was believed to blight crops and attracted village fines. The homestead of the Awunga served as an inviolable sanctuary. A fugitive fleeing vengeance who succeeded in touching the Awunga's central house-pillar (shim-chui) was granted temporary immunity while elders convened to arbitrate. Following unnatural deaths, purification ceremonies (shim-kashak) were conducted by the village Maiba before normal commensality could resume.",
+      "english_translation": "Certain days were declared Khamthei (sacred genna days) where all labor was forbidden. Breaching taboos blighted crops and drew fines. The chief's home was an inviolable sanctuary; a fugitive touching the central pillar (shim-chui) gained immunity pending arbitration. Unnatural deaths required ritual house-cleansing (shim-kashak) by the priest before social commensality was restored.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 17)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Khamthei (noun): taboo, sacred non-working day, genna restriction",
+        "  * Shim-chui (noun): central house-pillar, sacred pillar of sanctuary",
+        "  * Shim-kashak (noun): ritual purification of hearth following defilement",
+        "  * Khamatei thi (noun phrase): unnatural death, demise by lightning, predator, or cliff fall",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Stative verb 'khamthei' (to be forbidden / set apart) nominalizes into the general term for taboo.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What physical act granted a fugitive temporary immunity from vengeance?",
+        "  ? Describe the ceremonies conducted after an unnatural death ('khamatei thi')."
+      ],
+      "tangkhul_content": "Khamthei: taboo, sacred non-working day, genna restriction\nShim-chui: central house-pillar, sacred pillar of sanctuary\nShim-kashak: ritual purification of hearth following defilement\nKhamatei thi: unnatural death, demise by lightning, predator, or cliff fall",
+      "english_translation": "Stative verb 'khamthei' (to be forbidden / set apart) nominalizes into the general term for taboo.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Village Administration and Modern Legal Recognition (Page 18)",
+      "title": "Chapter 7: Village Administration and Modern Legal Recognition",
+      "lines": [
+        "CHAPTER 7: VILLAGE ADMINISTRATION AND MODERN LEGAL RECOGNITION",
+        "Summary: Customary dues of the Awunga, codification under Manipur Hill Peoples Regulation (1947), and contemporary customary courts.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "The Awunga was endowed with customary prerogatives: he received the",
+        "right thigh of all game felled in village forests, was entitled to",
+        "communal labor on his fields during the sowing season, and received a",
+        "portion of adjudication fines. In exchange, the Awunga maintained the",
+        "village covenant stones and represented the community in external",
+        "treaties. Under the Manipur State Hill Peoples Regulation (1947),",
+        "Tangkhul customary courts were granted formal statutory recognition to",
+        "adjudicate civil and customary disputes, preserving speedy, restorative,",
+        "and cost-free community justice.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The Awunga received the right thigh of game felled in forests, communal",
+        "labor on his fields, and judicial fine portions. In return, he",
+        "maintained covenant stones and represented the village diplomatically.",
+        "Under the Manipur State Hill Peoples Regulation (1947), customary courts",
+        "received formal statutory recognition, ensuring restorative, cost-free",
+        "justice."
+      ],
+      "tangkhul_content": "The Awunga was endowed with customary prerogatives: he received the right thigh of all game felled in village forests, was entitled to communal labor on his fields during the sowing season, and received a portion of adjudication fines. In exchange, the Awunga maintained the village covenant stones and represented the community in external treaties. Under the Manipur State Hill Peoples Regulation (1947), Tangkhul customary courts were granted formal statutory recognition to adjudicate civil and customary disputes, preserving speedy, restorative, and cost-free community justice.",
+      "english_translation": "The Awunga received the right thigh of game felled in forests, communal labor on his fields, and judicial fine portions. In return, he maintained covenant stones and represented the village diplomatically. Under the Manipur State Hill Peoples Regulation (1947), customary courts received formal statutory recognition, ensuring restorative, cost-free justice.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 19)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 19)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "The Awunga was endowed with customary prerogatives: he received the",
+        "right thigh of all game felled in village forests, was entitled to",
+        "communal labor on his fields during the sowing season, and received a",
+        "portion of adjudication fines. In exchange, the Awunga maintained the",
+        "village covenant stones and represented the community in external",
+        "treaties. Under the Manipur State Hill Peoples Regulation (1947),",
+        "Tangkhul customary courts were granted formal statutory recognition to",
+        "adjudicate civil and customary disputes, preserving speedy, restorative,",
+        "and cost-free community justice.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "The Awunga received the right thigh of game felled in forests, communal",
+        "labor on his fields, and judicial fine portions. In return, he",
+        "maintained covenant stones and represented the village diplomatically.",
+        "Under the Manipur State Hill Peoples Regulation (1947), customary courts",
+        "received formal statutory recognition, ensuring restorative, cost-free",
+        "justice."
+      ],
+      "tangkhul_content": "The Awunga was endowed with customary prerogatives: he received the right thigh of all game felled in village forests, was entitled to communal labor on his fields during the sowing season, and received a portion of adjudication fines. In exchange, the Awunga maintained the village covenant stones and represented the community in external treaties. Under the Manipur State Hill Peoples Regulation (1947), Tangkhul customary courts were granted formal statutory recognition to adjudicate civil and customary disputes, preserving speedy, restorative, and cost-free community justice.",
+      "english_translation": "The Awunga received the right thigh of game felled in forests, communal labor on his fields, and judicial fine portions. In return, he maintained covenant stones and represented the village diplomatically. Under the Manipur State Hill Peoples Regulation (1947), customary courts received formal statutory recognition, ensuring restorative, cost-free justice.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Awungawui share (noun phrase): customary tribute due to the chief (game thigh, field labor)",
+        "  * Tuingashit lung (noun phrase): covenant stones erected at village boundaries",
+        "  * Manipur Hill Regulation (proper noun): 1947 statutory act recognizing tribal customary courts",
+        "  * Mayonza kashung (noun phrase): just and equitable administration of customary law",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Noun phrase 'Tuingashit lung' joins 'tuingashit' (covenant) and 'lung' (stone megalith).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What customary tributes were historically rendered to the Tangkhul Awunga?",
+        "  ? How did the 1947 Regulation protect indigenous tribal jurisprudence?"
+      ],
+      "tangkhul_content": "Awungawui share: customary tribute due to the chief (game thigh, field labor)\nTuingashit lung: covenant stones erected at village boundaries\nManipur Hill Regulation: 1947 statutory act recognizing tribal customary courts\nMayonza kashung: just and equitable administration of customary law",
+      "english_translation": "Noun phrase 'Tuingashit lung' joins 'tuingashit' (covenant) and 'lung' (stone megalith).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Wung (Tangkhul) Naga Okthot Mayonza -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  Mayonza [noun]: customary law, justice code, jurisprudence",
+        "  Shak-kasa [noun]: breach of taboo, disrupting communal balance",
+        "  Shiman [noun]: compensatory fine, restitution, indemnification",
+        "  Shangwui kaphung [noun phrase]: corporate clan honor and collective standing",
+        "  Ngalong [noun]: matrimonial law, marriage institution",
+        "  Sen-kuir [noun]: valuable brass ceremonial gong used in bride wealth",
+        "  Tui-kachathei [noun]: formal betrothal negotiation between clan spokesmen",
+        "  Ngalawui phunglung [noun phrase]: dowry possessions brought by the bride",
+        "  Kashak [noun]: inheritance, division of ancestral patrimony",
+        "  Shim-kharar [noun]: ancestral home, the elder family hearth",
+        "  Kaphung-mayar [noun]: eldest son, principal heir and hearth keeper",
+        "  Thikahaiwui ot [noun phrase]: funeral rites and ceremonial obligations for deceased parents",
+        "  Thum-ngashit [noun]: threefold restitution, triple compensatory penalty",
+        "  Kashiman [noun]: judicial fine, indemnification sum",
+        "  Rai-shiman [noun]: blood vengeance compensation, homicide settlement",
+        "  Khamazik [noun]: public apology, ceremonial reconciliation before council",
+        "  Theishak [noun]: judicial oath, solemn ordeal, invocation of divine judgment",
+        "  Shilwui ha [noun phrase]: tiger's tooth used in swearing supreme oaths",
+        "  Tara-kachung [noun]: water immersion ordeal, competitive diving under river water",
+        "  Shang-khamatei [noun]: extinction of lineage as consequence of perjury",
+        "  Khamthei [noun]: taboo, sacred non-working day, genna restriction",
+        "  Shim-chui [noun]: central house-pillar, sacred pillar of sanctuary",
+        "  Shim-kashak [noun]: ritual purification of hearth following defilement",
+        "  Khamatei thi [noun phrase]: unnatural death, demise by lightning, predator, or cliff fall",
+        "  Awungawui share [noun phrase]: customary tribute due to the chief (game thigh, field labor)",
+        "  Tuingashit lung [noun phrase]: covenant stones erected at village boundaries",
+        "  Manipur Hill Regulation [proper noun]: 1947 statutory act recognizing tribal customary courts",
+        "  Mayonza kashung [noun phrase]: just and equitable administration of customary law"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 28"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Wung (Tangkhul) Naga Okthot Mayonza -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-LIT-004",
+        "Title: Wung (Tangkhul) Naga Okthot Mayonza",
+        "Publisher: Tangkhul Literature Society / Published at Imphal",
+        "Publication Year: 1961",
+        "Dialect Variety: Ukhrul / Wung",
+        "Total Digital Pages: 22",
+        "Total Chapters: 7",
+        "Total Words Indexed: 942",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "Mayonza",
+        "pos": "noun",
+        "meaning": "customary law, justice code, jurisprudence"
+      },
+      {
+        "word": "Shak-kasa",
+        "pos": "noun",
+        "meaning": "breach of taboo, disrupting communal balance"
+      },
+      {
+        "word": "Shiman",
+        "pos": "noun",
+        "meaning": "compensatory fine, restitution, indemnification"
+      },
+      {
+        "word": "Shangwui kaphung",
+        "pos": "noun phrase",
+        "meaning": "corporate clan honor and collective standing"
+      },
+      {
+        "word": "Ngalong",
+        "pos": "noun",
+        "meaning": "matrimonial law, marriage institution"
+      },
+      {
+        "word": "Sen-kuir",
+        "pos": "noun",
+        "meaning": "valuable brass ceremonial gong used in bride wealth"
+      },
+      {
+        "word": "Tui-kachathei",
+        "pos": "noun",
+        "meaning": "formal betrothal negotiation between clan spokesmen"
+      },
+      {
+        "word": "Ngalawui phunglung",
+        "pos": "noun phrase",
+        "meaning": "dowry possessions brought by the bride"
+      },
+      {
+        "word": "Kashak",
+        "pos": "noun",
+        "meaning": "inheritance, division of ancestral patrimony"
+      },
+      {
+        "word": "Shim-kharar",
+        "pos": "noun",
+        "meaning": "ancestral home, the elder family hearth"
+      },
+      {
+        "word": "Kaphung-mayar",
+        "pos": "noun",
+        "meaning": "eldest son, principal heir and hearth keeper"
+      },
+      {
+        "word": "Thikahaiwui ot",
+        "pos": "noun phrase",
+        "meaning": "funeral rites and ceremonial obligations for deceased parents"
+      },
+      {
+        "word": "Thum-ngashit",
+        "pos": "noun",
+        "meaning": "threefold restitution, triple compensatory penalty"
+      },
+      {
+        "word": "Kashiman",
+        "pos": "noun",
+        "meaning": "judicial fine, indemnification sum"
+      },
+      {
+        "word": "Rai-shiman",
+        "pos": "noun",
+        "meaning": "blood vengeance compensation, homicide settlement"
+      },
+      {
+        "word": "Khamazik",
+        "pos": "noun",
+        "meaning": "public apology, ceremonial reconciliation before council"
+      },
+      {
+        "word": "Theishak",
+        "pos": "noun",
+        "meaning": "judicial oath, solemn ordeal, invocation of divine judgment"
+      },
+      {
+        "word": "Shilwui ha",
+        "pos": "noun phrase",
+        "meaning": "tiger's tooth used in swearing supreme oaths"
+      },
+      {
+        "word": "Tara-kachung",
+        "pos": "noun",
+        "meaning": "water immersion ordeal, competitive diving under river water"
+      },
+      {
+        "word": "Shang-khamatei",
+        "pos": "noun",
+        "meaning": "extinction of lineage as consequence of perjury"
+      },
+      {
+        "word": "Khamthei",
+        "pos": "noun",
+        "meaning": "taboo, sacred non-working day, genna restriction"
+      },
+      {
+        "word": "Shim-chui",
+        "pos": "noun",
+        "meaning": "central house-pillar, sacred pillar of sanctuary"
+      },
+      {
+        "word": "Shim-kashak",
+        "pos": "noun",
+        "meaning": "ritual purification of hearth following defilement"
+      },
+      {
+        "word": "Khamatei thi",
+        "pos": "noun phrase",
+        "meaning": "unnatural death, demise by lightning, predator, or cliff fall"
+      },
+      {
+        "word": "Awungawui share",
+        "pos": "noun phrase",
+        "meaning": "customary tribute due to the chief (game thigh, field labor)"
+      },
+      {
+        "word": "Tuingashit lung",
+        "pos": "noun phrase",
+        "meaning": "covenant stones erected at village boundaries"
+      },
+      {
+        "word": "Manipur Hill Regulation",
+        "pos": "proper noun",
+        "meaning": "1947 statutory act recognizing tribal customary courts"
+      },
+      {
+        "word": "Mayonza kashung",
+        "pos": "noun phrase",
+        "meaning": "just and equitable administration of customary law"
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-LIT-004",
+      "title": "Wung (Tangkhul) Naga Okthot Mayonza",
+      "total_pages": 22,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 7,
+  "total_words": 1738,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: The Jurisprudential Philosophy of Wung Law",
+      "tangkhul_text": "Wung (Tangkhul) customary law does not distinguish rigidly between civil tort and criminal injury; every offense is understood as a breach of cosmic and communal equilibrium (shak-kasa). The primary goal of judicial proceedings is not punitive incarceration, but the restitution of social harmony through compensatory settlement (shiman). Law is rooted in three principles: Respect for Ancestral Covenant (Khararchanwui Tuingashit), Preservation of Clan Integrity (Shangwui Kaphung), and Absolute Truthfulness before Varivara. The clan stands collective surety for its members.",
+      "translation_en": "Wung customary law does not distinguish rigidly between tort and crime; every offense is a breach of cosmic equilibrium (shak-kasa). The primary goal is restorative harmony through compensatory settlement (shiman) rather than punitive incarceration. Law rests on three pillars: ancestral covenants, clan integrity, and truthfulness before God. The clan bears collective liability."
+    },
+    {
+      "chapter": "Chapter 2: Marriage Laws (Ngalong), Alliances, and Bride Wealth",
+      "tangkhul_text": "Marriage is an alliance between two distinct clans (shang). Strict exogamy is enforced under pain of grave moral censure. Marriage with a maternal aunt's daughter or mother's clan was preferred (cross-cousin marriage), cementing alliances. Bride wealth among the Tangkhul is not a commercial transaction, but a symbolic recompense to the bride's clan for the loss of her productive labor. Typical gifts include cattle (se), brass gongs (sen-kuir), and shawls. Divorce was uncommon and subject to rigorous financial penalties and property restitution.",
+      "translation_en": "Marriage is an alliance between two distinct clans under strict exogamy. Cross-cousin marriage cemented bilateral ties. Bride wealth was a symbolic recompense for the loss of female labor, consisting of cattle, brass gongs, and handwoven textiles. Divorce was rare and penalized by stringent property forfeitures and subsistence indemnities."
+    },
+    {
+      "chapter": "Chapter 3: Clan Inheritance (Kashak) and Land Tenures",
+      "tangkhul_text": "Terrace land (Luingam) is held in perpetuity by lineages. Under no circumstance may ancestral land be sold to an outsider from another village. If an individual must alienate land due to debt, he must first offer the right of preemption to his nearest clan brethren (shangwui ngacham-mi). The eldest son (kaphung-mayar) inherits the ancestral home (shim-kharar) and principal terrace fields, assuming the obligation of maintaining aging parents and performing funeral rites. Younger sons receive secondary plots and assistance in constructing independent homesteads.",
+      "translation_en": "Terrace land (Luingam) is held in perpetuity by lineages and can never be alienated to outside villagers. Preemption rights belong strictly to nearest clan brethren. The eldest son inherits the ancestral home and fields, assuming the solemn duty of caring for aged parents and funding funeral rites. Younger sons receive subordinate shares."
+    },
+    {
+      "chapter": "Chapter 4: Civil Wrongs, Thefts, and Restitution (Shiman)",
+      "tangkhul_text": "Theft of domestic animals was punished by threefold restitution (thum-ngashit): returning the stolen beast plus two additional animals of equal value as fine (kashiman) to the aggrieved family, plus a cleansing pig to the village council. Theft of harvested grain from field granaries was regarded as an aggravated offense requiring immediate public apology and heavy indemnity. Accidental physical injury was compensated according to working days lost, with the responsible party supplying rice and fowl. Homicide required temporary banishment to avert blood vengeance, followed by Pukreila peace negotiations.",
+      "translation_en": "Theft of domestic animals was punished by threefold restitution (thum-ngashit): returning the animal plus two others as fine, with a cleansing pig for the council. Granary theft required public apology and heavy indemnity. Accidental injuries were compensated based on lost working days and medicinal supplies. Homicide necessitated temporary exile to avert vengeance."
+    },
+    {
+      "chapter": "Chapter 5: Judicial Oaths and Trial by Ordeal (Theishak)",
+      "tangkhul_text": "When oral testimony conflicted and evidence was inconclusive, the Hangva administered judicial oaths (theishak). An oath was not taken lightly; invoking false testimony before Varivara or clan ancestors was believed to result in premature death or the extinction of the swearer's lineage. The most solemn oath involved biting a tiger's tooth (shilwui ha) or touching a spear point. In property boundary disputes, contestants submitted to water immersion ordeals (tara-kachung), diving simultaneously into a river pool; the individual who surfaced first was adjudged dishonest. Hot water tests were also administered under the village priest's scrutiny.",
+      "translation_en": "When testimony conflicted, the Hangva administered judicial oaths (theishak). False oaths before God or ancestors were believed to bring premature death or lineage extinction. Solemn oaths included biting a tiger's tooth or holding a spear point. Boundary disputes were decided by water immersion ordeals (tara-kachung); the contestant surfacing first lost the case."
+    },
+    {
+      "chapter": "Chapter 6: Traditional Taboos (Khamthei) and Sanctuary Rights",
+      "tangkhul_text": "Certain days were declared Khamthei (sacred rest days / genna) during which agricultural labor, weaving, and woodchopping were strictly forbidden. Breaching Khamthei was believed to blight crops and attracted village fines. The homestead of the Awunga served as an inviolable sanctuary. A fugitive fleeing vengeance who succeeded in touching the Awunga's central house-pillar (shim-chui) was granted temporary immunity while elders convened to arbitrate. Following unnatural deaths, purification ceremonies (shim-kashak) were conducted by the village Maiba before normal commensality could resume.",
+      "translation_en": "Certain days were declared Khamthei (sacred genna days) where all labor was forbidden. Breaching taboos blighted crops and drew fines. The chief's home was an inviolable sanctuary; a fugitive touching the central pillar (shim-chui) gained immunity pending arbitration. Unnatural deaths required ritual house-cleansing (shim-kashak) by the priest before social commensality was restored."
+    },
+    {
+      "chapter": "Chapter 7: Village Administration and Modern Legal Recognition",
+      "tangkhul_text": "The Awunga was endowed with customary prerogatives: he received the right thigh of all game felled in village forests, was entitled to communal labor on his fields during the sowing season, and received a portion of adjudication fines. In exchange, the Awunga maintained the village covenant stones and represented the community in external treaties. Under the Manipur State Hill Peoples Regulation (1947), Tangkhul customary courts were granted formal statutory recognition to adjudicate civil and customary disputes, preserving speedy, restorative, and cost-free community justice.",
+      "translation_en": "The Awunga received the right thigh of game felled in forests, communal labor on his fields, and judicial fine portions. In return, he maintained covenant stones and represented the village diplomatically. Under the Manipur State Hill Peoples Regulation (1947), customary courts received formal statutory recognition, ensuring restorative, cost-free justice."
+    }
+  ]
+}

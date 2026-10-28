@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: CIIL Tangkhul Lexical Survey and Field Audio Lexicon
+# Identifier: DIC-CIIL-002
+# Primary Creator / Lexicographer: S. Arokianathan
+# Publication Year: 1982
+# Publisher: Central Institute of Indian Languages, Mysore
+# Language Pair: Tangkhul-English
+# Dialect Variety: Ukhrul and Village Variants
+# Source Classification: glossary
+# License: Copyright Central Institute of Indian Languages
+# Permission Status: restricted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: CIIL Tangkhul Lexical Survey and Field Audio Lexicon
+ALTERNATE TITLE: Tangkhul Lexical Survey
+COMPILER / AUTHORS: S. Arokianathan
+YEAR: 1982
+PUBLISHING BODY: Central Institute of Indian Languages, Mysore
+DIALECT / VARIETY: Ukhrul and Village Variants
+SOURCE IDENTIFIER: Sanchika-CIIL-Audio-041
+CANONICAL SOURCE URL: https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Recorded in 1982 by field linguist Dr. S. Arokianathan during dialect mapping surveys across the Ukhrul district. Preserved in the CIIL Bhasha Sanchika audio and manuscript archive. Documents ethnographic material culture, pottery techniques, weaving terminology, and village-level lexical variations.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Phonetic transcriptions cross-referenced with tape recordings. Includes specific material culture terminology for Longpi black pottery, traditional salt manufacturing, and weaving.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. hamlei (noun) -- black serpentinite earthenware vessel, traditional Longpi pot [Citation: p. 42]
+   Context / Example: Hamlei khami (Shaping the black stone pot).
+
+ENTRY  2. leshong (noun) -- crushed serpentinite rock used in wheel-less pottery [Citation: p. 43] [Alt: leshong lung]
+   Context / Example: Leshong lung kaphei (Crushing the serpentinite rock).
+
+ENTRY  3. tarang (noun) -- sacred forked sacrificial post erected during feast of merit [Citation: p. 89]
+   Context / Example: Tarang kaphungli rui (Decorating the sacred forked post).
+
+ENTRY  4. chonkhom (noun) -- prestigious embroidered wrap for Tangkhul women [Citation: p. 57]
+   Context / Example: Chonkhom kachon kakhon (Draping the prestigious Chonkhom wrap).
+
+ENTRY  5. seichan (noun) -- handwoven skirt with colored geometric panels [Citation: p. 61]
+   Context / Example: Seichan kashan kakhon (Wearing the traditional handwoven skirt).
+
+ENTRY  6. lengvai (noun) -- village entrance gate, fortified ceremonial wooden portal [Citation: p. 73]
+   Context / Example: Lengvaili khangayei (Guarding the fortified village gate).
+
+ENTRY  7. khangrei (noun) -- competitive community war song, loud harvest chant [Citation: p. 98]
+   Context / Example: Khangrei laa khangakhum (Singing the resounding harvest chant).
+
+ENTRY  8. shiyan (noun) -- customary law, oral jurisprudence, unwritten constitution [Citation: p. 114]
+   Context / Example: Shiyan eina khamathei (Adjudicating disputes according to customary law).
+
+ENTRY  9. machi (noun) -- brine well salt, natural mineral salt cake currency [Citation: p. 126] [Alt: machi lung]
+   Context / Example: Machi kongwui machi (Boiled salt cakes from the natural brine springs).
+
+ENTRY 10. ngaso (verb) -- to accompany, to join together, to walk as companions [Citation: p. 82]
+   Context / Example: Ithum ngasolaga khazat (Walking together as steadfast companions).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Copyright Central Institute of Indian Languages
+Permission Tier: restricted
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. S. Arokianathan (1982). CIIL Tangkhul Lexical Survey and Field Audio Lexicon. Central Institute of Indian Languages, Mysore.
+=======================================================================

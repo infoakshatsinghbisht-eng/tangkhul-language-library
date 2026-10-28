@@ -1,0 +1,52 @@
+{
+  "id": "HIST-PLC-009",
+  "resource_type": "history",
+  "title": "Chingjaroi (Swemi) Tri-Hamlet Ancestral Settlement",
+  "title_translation": "Northern Frontier Citadel of Megaliths and Customary Defense",
+  "creator": "Chingjaroi Village Oral Historians",
+  "year": 1600,
+  "publisher": "Documented in Hodson 1911, Horam 1977, Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Chingjaroi / Raphei",
+  "village": "Chingjaroi",
+  "place": "Chingjaroi",
+  "category": "place",
+  "event_date": "Ancestral Era to Present",
+  "period": "Pre-colonial Sentinel Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Chingjaroi-Settlement",
+  "license": "Oral Folk Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-009.txt",
+  "verification_status": "verified",
+  "notes": "Formidable northern border settlement comprising three historic hamlets (Khullen, CV, Raphiei). Renowned for ancient stone megaliths (Lungchei), stone-dragging roads, and heroic defense pacts along the ancestral Naga frontier.",
+  "indigenous_tangkhul_chronicle": [
+    "Chingjaroi (Swemi) village-hi northern frontier-li three historic hamlets (Khullen, CV, Raphiei) kashung settlement akha.",
+    "Massive megaliths (Lungchei), stone-dragging roads (Lungkhangasan), kala customary village defense pacts intact thada pama.",
+    "Unique archaic Raphei dialect retaining ancient phonological features of the early Tangkhulic migrations."
+  ],
+  "english_translation_text": [
+    "Chingjaroi (Swemi) is a formidable northern border settlement consisting of three historic hamlets: Khullen, CV, and Raphiei.",
+    "It is renowned for towering stone megaliths (Lungchei), ceremonial stone-dragging routes, and customary mutual defense pacts.",
+    "The village preserves an archaic Northern Raphei dialect offering crucial evidence for early Tangkhulic phonological history."
+  ],
+  "chronicle_milestones": [
+    "1. Pre-colonial: Established as a fortified frontier sentinel on the mountain ridge dividing Manipur and the Naga hills.",
+    "2. 18th Century: Construction of the great ceremonial megalithic platforms celebrating village feasts of merit.",
+    "3. 1911: Documented by British ethnographers as one of the largest and most strategically fortified northern communities.",
+    "4. Present: Custodian of ancestral stone-pulling pathways, customary law tribunals, and rich oral chronicles."
+  ],
+  "key_figures": [
+    "Swemi Clan Patriarchs",
+    "Chingjaroi Hangva Council",
+    "Megalith Dragging Guilds"
+  ],
+  "geographical_scope": "Chingjaroi Ridge, Northern Manipur-Nagaland Border (Elevation 1,800 m)",
+  "historical_significance": "A living repository of monumental megalithic architecture and frontier customary defense alliances.",
+  "historical_terms": {
+    "Swemi": "Archaic indigenous name for the Chingjaroi settlement",
+    "Lungchei": "Towering megalithic stone memorial",
+    "Lung-Ralam": "Sacred road paved for ceremonial stone-dragging",
+    "Raphiei": "Northern frontier slope community hamlet"
+  }
+}

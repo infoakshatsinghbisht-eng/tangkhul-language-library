@@ -1,0 +1,36 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-PROV-003
+TITLE: Proverb on the Power of Words: Khamor kachangna
+TITLE TRANSLATION: Sharp Words Pierce Deeper than Spear Wounds
+CATEGORY: proverb | SUBCATEGORY: ethics
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Traditional Oral Wisdom (Pettigrew 1918, Sira 1991)
+PUBLICATION / SOURCE: Documented in Pettigrew 1918, p. 312
+SOURCE ID: Pettigrew-1918-Paotam
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: public_domain | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Original saying: 'Khamor kachangna phei ngazekli.' Warns that harsh words inflict psychological injuries that endure far longer than physical wounds.
+
+[SEASONAL TIMING & OCCASION]
+Social mediation and ethics
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Elders
+- Community Members
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+Invoked in conflict resolution to encourage restrained, respectful speech.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Khamor kachangna phei ngazekli.
+
+[ENGLISH TRANSLATION & MEANING]
+Sharp words pierce deeper and endure longer than spear wounds.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

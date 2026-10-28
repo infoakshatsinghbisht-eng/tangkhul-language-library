@@ -1,0 +1,44 @@
+{
+  "id": "CULT-RIT-001",
+  "resource_type": "culture",
+  "title": "Khamasit Sacred Taboo Observance",
+  "title_translation": "Village Genna / Taboo Observance",
+  "creator": "Traditional Religious Guardians",
+  "year": 1911,
+  "publisher": "Documented in Hodson 1911",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "ritual",
+  "subcategory": "ceremonial",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Hodson-1911-Ch4",
+  "license": "Cultural Heritage / Restricted Ceremonial",
+  "permission_status": "restricted",
+  "local_path": "data/raw/culture/CULT-RIT-001_khamasit_sacred_taboo.txt",
+  "verification_status": "verified",
+  "notes": "Solemn days of village boundary closure and ritual stillness where agricultural tasks and travel cease to appease natural spirits. Specific esoteric incantations remain restricted.",
+  "indigenous_tangkhul_text": [
+    "Khamasit wui thangli ramwui khamong shimhaida pamching.",
+    "Tara kongli luili ot masa, chingri kahai thotna.",
+    "Vareli khorumda ngachon kachi, makapha saikora shimanhorali."
+  ],
+  "english_translation_text": [
+    "During Khamasit sacred taboo observance, the boundary paths of the village are sealed in stillness.",
+    "No field labor, woodcutting, or travel is permitted, as the community rests in solemn prayer.",
+    "Petitioning divine guardianship, that pestilence and misfortune may be averted from our realm."
+  ],
+  "procedural_stages": [
+    "1. Declaration of Khamasit by the Awunga and village elders in response to natural omens or seasonal transition.",
+    "2. Erection of green leafy branches across village boundary trails to indicate closed village status.",
+    "3. Total cessation of agricultural labor, hunting, spinning, and outbound or inbound travel.",
+    "4. Observance of hearth cleanliness and reverent quiet within household compounds.",
+    "5. Lifting of taboo at dawn following ritual purification and elder prayers."
+  ],
+  "ceremonial_participants": [
+    "Awunga",
+    "Village Priests",
+    "Entire Village Population"
+  ],
+  "seasonal_timing": "Designated ceremonial taboo days (Access Tier: RESTRICTED for esoteric prayers)"
+}

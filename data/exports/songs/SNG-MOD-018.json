@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-018",
+  "resource_type": "songs",
+  "title": "Awon Thada Rakhawon",
+  "alternate_titles": [],
+  "title_translation": "Blossoming Like a Flower",
+  "singer": "Shimreingam Horam",
+  "lyricist": "Shimreingam Horam",
+  "composer": "Shimreingam Horam",
+  "collector": null,
+  "performers": [
+    "Shimreingam Horam"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-SH-002",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Poetic song praising natural beauty and youthful blossom.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Awon thada rakhawon nawui leikashina.",
+        "Iram kaphungli ringkaphawui thotna."
+      ],
+      "lines_translation": [
+        "Blossoming like the spring flower, your gentle love arrives.",
+        "Bringing festival happiness into our mountain realm."
+      ]
+    }
+  ]
+}

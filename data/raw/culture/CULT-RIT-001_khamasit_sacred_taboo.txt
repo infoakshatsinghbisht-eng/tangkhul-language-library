@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-RIT-001
+TITLE: Khamasit Sacred Taboo Observance
+TITLE TRANSLATION: Village Genna / Taboo Observance
+CATEGORY: ritual | SUBCATEGORY: ceremonial
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Traditional Religious Guardians
+PUBLICATION / SOURCE: Documented in Hodson 1911
+SOURCE ID: Hodson-1911-Ch4
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: restricted | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Solemn days of village boundary closure and ritual stillness where agricultural tasks and travel cease to appease natural spirits. Specific esoteric incantations remain restricted.
+
+[SEASONAL TIMING & OCCASION]
+Designated ceremonial taboo days (Access Tier: RESTRICTED for esoteric prayers)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Awunga
+- Village Priests
+- Entire Village Population
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Declaration of Khamasit by the Awunga and village elders in response to natural omens or seasonal transition.
+2. Erection of green leafy branches across village boundary trails to indicate closed village status.
+3. Total cessation of agricultural labor, hunting, spinning, and outbound or inbound travel.
+4. Observance of hearth cleanliness and reverent quiet within household compounds.
+5. Lifting of taboo at dawn following ritual purification and elder prayers.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Khamasit wui thangli ramwui khamong shimhaida pamching.
+Tara kongli luili ot masa, chingri kahai thotna.
+Vareli khorumda ngachon kachi, makapha saikora shimanhorali.
+
+[ENGLISH TRANSLATION & MEANING]
+During Khamasit sacred taboo observance, the boundary paths of the village are sealed in stillness.
+No field labor, woodcutting, or travel is permitted, as the community rests in solemn prayer.
+Petitioning divine guardianship, that pestilence and misfortune may be averted from our realm.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

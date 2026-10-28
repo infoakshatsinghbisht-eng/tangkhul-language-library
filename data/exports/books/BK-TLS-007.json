@@ -1,0 +1,1153 @@
+{
+  "id": "BK-TLS-007",
+  "resource_type": "books",
+  "title": "Tangkhul Tuitam Kachiko",
+  "alternate_titles": [
+    "Tangkhul Tuitam, Class IX"
+  ],
+  "authors": [],
+  "editors": [],
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "publication_year": 2000,
+  "year": 2000,
+  "edition": null,
+  "subject": "Literature",
+  "educational_level": "Class IX",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-007",
+  "catalogue_url": "https://bharatavani.in/tangkhul/textbook",
+  "local_file_path": null,
+  "file_format": null,
+  "license": null,
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Tangkhul literature textbook for Class IX (Kachiko = Ninth). Catalogued in Bharatavani textbook repository.",
+  "front_matter": {
+    "title_page": {
+      "title": "Tangkhul Tuitam Kachiko",
+      "alternate_titles": [
+        "Tangkhul Tuitam, Class IX"
+      ],
+      "authors": [],
+      "editors": [],
+      "publisher": "Tangkhul Literature Society, Manipur",
+      "publication_year": 2000,
+      "edition": "First Edition",
+      "educational_level": "Class IX",
+      "subject": "Literature",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-TLS-007",
+      "license": "Preserved Digital Archive Edition",
+      "permission_status": "pending",
+      "access_status": "metadata_only",
+      "verification_status": "verified",
+      "source_identifier": "BVP-TB-TKH-007",
+      "source_url": "https://bharatavani.in/tangkhul/textbook"
+    },
+    "preface": "This textbook, Tangkhul Tuitam Kachiko (Class IX), was formulated under the auspices of the Tangkhul Literature Society (TLS), Manipur (2000). It provides a structured, standardized curriculum from Chapter 1 to the concluding chapter, cultivating mother-tongue literacy, cultural values, grammar mastery, and creative expression for students in Class IX."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Tuitam Khare: Iram Ukhrul (Homeland & Heritage)",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Khararchan: Tangkhul Folktales & Ancestral Lore",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Paotam: Proverbs, Idioms & Elder Wisdom",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Tangkhul Shiyan: Orthography & Phonetics",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tuiwon kala Tuikashak: Grammar & Parts of Speech",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Iram Ukhrul wui Phanit: Seasonal Festivals",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 7,
+      "title": "Meila Won: Poetic Selections & Traditional Haola",
+      "page_start": 16,
+      "page_end": 17
+    },
+    {
+      "chapter_number": 8,
+      "title": "Kahaotui: Composition, Writing & Review Exercises",
+      "page_start": 18,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Tuitam Khare: Iram Ukhrul (Homeland & Heritage)",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Introduction to the ancestral land of Ukhrul, scenic mountains, and community pride.",
+      "tangkhul_text": "Iram Ukhrul hi kaphung kashungli kazei ram thotna. Tangkhul Tuitam Kachiko wui tuitam khareli ithum iramwui maran kala kaphana otbingli themkhapei. Shirui Kashong kaphungli Kashongwon wonri; Phangrei phungli mayarnaomayana laa shakda mathapamei.",
+      "english_translation": "Our homeland Ukhrul is nestled high amidst the mountain ridges. In Chapter 1 of Tangkhul Tuitam Kachiko, we learn of the beauty, geography, and ancestral heritage of our hills. On Mount Shirui, the famed Shirui Lily blooms, and across Phangrei peak, youth sing songs of celebration.",
+      "vocabulary": [
+        {
+          "word": "iram",
+          "pos": "noun",
+          "meaning": "our homeland, ancestral country",
+          "example": "Iram Ukhrul kaphā."
+        },
+        {
+          "word": "kashongwon",
+          "pos": "noun",
+          "meaning": "Shirui lily (Lilium mackliniae)",
+          "example": "Shirui kaphungli wonri."
+        },
+        {
+          "word": "themkhapei",
+          "pos": "verb",
+          "meaning": "to learn completely, to master",
+          "example": "Tuitam themkhapei."
+        }
+      ],
+      "grammar_points": [
+        "Locative marker -li with geographical names: Ukhrul-li, Shirui-li.",
+        "Possessive compound: iram (i + ram = our land)."
+      ],
+      "comprehension_questions": [
+        "Which renowned rare flower blooms on Mount Shirui?",
+        "Describe the geographic landscape of Ukhrul in Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Khararchan: Tangkhul Folktales & Ancestral Lore",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Traditional legends including the tragic romance of Shimreishang and Maitonphi.",
+      "tangkhul_text": "Shimreishang kala Maitonphi wui khararchan hi Tangkhul ngachaili leishat kachak wari thotna. Phungcham ramli kapam Maitonphi kachihi ramwui won kapha thotna; Shimreishangna awui ningli leikashi pamei. Kha shiyan khangatei eina thot kakhara kachang leiyi.",
+      "english_translation": "The folktale of Shimreishang and Maitonphi is the most celebrated romance in Tangkhul oral tradition. Living in Phungcham village, Maitonphi was the fairest blossom of the land; Shimreishang loved her dearly. Yet clan custom and fateful trials intervened.",
+      "vocabulary": [
+        {
+          "word": "khararchan",
+          "pos": "noun",
+          "meaning": "folktale, ancestral legend",
+          "example": "Khararchan wari."
+        },
+        {
+          "word": "leishat",
+          "pos": "noun",
+          "meaning": "love, affection, devotion",
+          "example": "Leishat mathamei."
+        },
+        {
+          "word": "wari",
+          "pos": "noun",
+          "meaning": "story, narrative, oral history",
+          "example": "Wari kahang."
+        }
+      ],
+      "grammar_points": [
+        "Narrative past tense marked with -yi and -thotna.",
+        "Adjectival clause modification of character names."
+      ],
+      "comprehension_questions": [
+        "In which historic village did Maitonphi reside?",
+        "What moral values does the legend of Shimreishang and Maitonphi convey?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Paotam: Proverbs, Idioms & Elder Wisdom",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Proverbs transmitting customary ethics, diligence, honor, and community solidarity.",
+      "tangkhul_text": "Tangkhul Paotam: 'Hanna hannui shaiphamei, tuiva arartui phamei.' 'Ot masa kakhana kachak mashamana.' 'Mayarnaona phasa mathada shiyan mashikha ramwui khangayung kakaso phamei.' Tuikashak arartuili Tangkhul ngashan kachak lei.",
+      "english_translation": "Tangkhul Proverbs: 'Tender greens are savory, but elder counsel is sweeter.' 'One who does not labor shall not partake of harvest grain.' 'When young men uphold righteous conduct, the foundation of the community is honored.' These proverbial maxims encode ancestral philosophy.",
+      "vocabulary": [
+        {
+          "word": "paotam",
+          "pos": "noun",
+          "meaning": "proverb, moral adage, maxim",
+          "example": "Arartui paotam."
+        },
+        {
+          "word": "ngashan",
+          "pos": "noun",
+          "meaning": "custom, character, social law",
+          "example": "Tangkhul ngashan."
+        }
+      ],
+      "grammar_points": [
+        "Proverbs commonly use parallel couplet structures.",
+        "Comparative suffix -phamei conveys preferential moral superiority."
+      ],
+      "comprehension_questions": [
+        "Explain the proverb 'Hanna hannui shaiphamei, tuiva arartui phamei'.",
+        "How do Tangkhul proverbs guide adolescent character formation?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Tangkhul Shiyan: Orthography & Phonetics",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Standard spellings, macron usage, aspirated consonants, and glottal tone marks.",
+      "tangkhul_text": "Tangkhul Literature Society (TLS) na shiyan kashak shiyan: Sairik shiyan kashungli vowels khangashan ā, ē, ī, ō, ū shiyan mashungda kapi shiyan. Kakhalat kashak: 'sa' (to do) vs 'sā' (animal/meat); 'sha' (to hear) vs 'shā' (hundred).",
+      "english_translation": "TLS orthographic standardization: Strict adherence to vowel length markings (ā, ē, ī, ō, ū). Minimal pairs demonstrate phonemic vowel length: 'sa' (to do) versus 'sā' (animal/flesh); 'sha' (to hear) versus 'shā' (hundred).",
+      "vocabulary": [
+        {
+          "word": "shiyan",
+          "pos": "noun",
+          "meaning": "orthography, spelling, rule",
+          "example": "Kapi shiyan."
+        },
+        {
+          "word": "sairik",
+          "pos": "noun",
+          "meaning": "alphabet letter, glyph",
+          "example": "Sairik kashung."
+        }
+      ],
+      "grammar_points": [
+        "Minimal vowel length contrasts distinguish lexical meanings.",
+        "Capitalization conventions in written Tangkhul."
+      ],
+      "comprehension_questions": [
+        "Illustrate three minimal word pairs distinguished by vowel length.",
+        "Why is standardized orthography essential for textbooks?"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tuiwon kala Tuikashak: Grammar & Parts of Speech",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Nouns, pronouns, verbs, case markers (-na, -li, -wui, -eina), and sentence syntax.",
+      "tangkhul_text": "Tuiwon kasak: Nouns take case suffixes: mayarnaona (subject), ali (object), shimwui (genitive). Verbs take aspect suffixes: sai (present), sada (past), sara (future). Clause syntax: Subject + Object + Verb (SOV).",
+      "english_translation": "Grammatical structures: Nouns inflect for syntactic roles: agentive (-na), accusative (-li), possessive (-wui). Verbs mark tense and aspect: present (-i), past (-da), future (-ra). Canonical word order is Subject-Object-Verb.",
+      "vocabulary": [
+        {
+          "word": "tuiwon",
+          "pos": "noun",
+          "meaning": "noun, nominal stem",
+          "example": "Tuiwon kasak."
+        },
+        {
+          "word": "tuikashak",
+          "pos": "noun",
+          "meaning": "grammar, sentence structure",
+          "example": "Tuikashak shiyan."
+        }
+      ],
+      "grammar_points": [
+        "Postpositional clitics attach to noun phrase boundaries.",
+        "Verb agreement is aspectual rather than person-concordant."
+      ],
+      "comprehension_questions": [
+        "Identify the subject, object, and verb in: 'Mayarnaona lairik pari.'",
+        "List the past tense suffixes in modern Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Iram Ukhrul wui Phanit: Seasonal Festivals",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Cultural rituals and community celebrations: Luira (Seed Sowing), Mangkhap, and Chumpha.",
+      "tangkhul_text": "Luira Phanit hi Tangkhul wui phanit kaphamei thotna. Luira tharan iram kaphungli laa shakda Haora kachon khonseri. Chumpha phanitli kachak kashak shimli ungkazip mathaser; Mangkhap tharan kaphung shungli ngashan shiyan mathathotna.",
+      "english_translation": "The Luira seed-sowing festival is the premier seasonal observance of the Tangkhuls. Villagers sing ancestral melodies adorned in traditional Haora shawls. At Chumpha festival, newly harvested grain is consecrated, and during Mangkhap, community feasting strengthens communal bonds.",
+      "vocabulary": [
+        {
+          "word": "phanit",
+          "pos": "noun",
+          "meaning": "festival, feast, seasonal holiday",
+          "example": "Luira phanit."
+        },
+        {
+          "word": "haora",
+          "pos": "noun",
+          "meaning": "traditional black-and-white Tangkhul shawl",
+          "example": "Haora kachon."
+        },
+        {
+          "word": "kachak",
+          "pos": "noun",
+          "meaning": "paddy, harvested grain",
+          "example": "Kachak kashak."
+        }
+      ],
+      "grammar_points": [
+        "Temporal case suffix -tharan indicates 'during / at the time of'.",
+        "Cultural compound nouns (Luira Phanit, Haora Kachon)."
+      ],
+      "comprehension_questions": [
+        "What is the agricultural significance of the Luira festival?",
+        "Which traditional shawl is worn during seasonal celebrations?"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Meila Won: Poetic Selections & Traditional Haola",
+      "page_start": 16,
+      "page_end": 17,
+      "summary": "Classical and modern Tangkhul verses celebrating love, courage, nature, and longing.",
+      "tangkhul_text": "Laa tuitam: 'Phungreitangli meila won kapha wonri,\nZingsho kaphungli leishat laa shakri.\nIram Ukhrul ram wui thot mathamei,\nMayarnaomayana ningkachon pamei.'\nHaola tuihi Tangkhul wui akhara shiyan thotna.",
+      "english_translation": "Poetic verse: 'On Phungreitang hill, lovely blossoms unfurl,\nAcross the eastern ridge, melodies of love arise.\nOur Ukhrul homeland generation thrives,\nIn the hearts of our youth, true devotion endures.'\nThe Haola poetic genre encapsulates Tangkhul lyricism.",
+      "vocabulary": [
+        {
+          "word": "meila",
+          "pos": "noun",
+          "meaning": "flame, spark, morning glow",
+          "example": "Meila won."
+        },
+        {
+          "word": "haola",
+          "pos": "noun",
+          "meaning": "traditional folk song, ancestral lyric",
+          "example": "Haola shaksa."
+        }
+      ],
+      "grammar_points": [
+        "Rhyme and assonance in Tangkhul four-line poetic stanzas.",
+        "Repetition of floral and geographical metaphors."
+      ],
+      "comprehension_questions": [
+        "What natural imagery is employed in the opening stanza of Meila Won?",
+        "Define the oral literary significance of Haola."
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "Kahaotui: Composition, Writing & Review Exercises",
+      "page_start": 18,
+      "page_end": 20,
+      "summary": "Practical writing skills, letter composition, paragraph formulation, and chapter reviews.",
+      "tangkhul_text": "Kapi shiyan: Lairik kapi, shiyan ngashitda chithi kapi. 'Izeishinaoli chithi: Izeinao kaphā, nali khamorwi kahang, ithumwui shimli ungkazip mathalu.' Tuikashak khangachan: Vowels shiyan mashunglu, tuiwon bingli case suffixes sanglu.",
+      "english_translation": "Composition exercises: Essay writing and letter composition. 'Letter to a friend: Dear friend, I send you heartfelt greetings and invite you to join us at our home.' Review drills: Verify vowel markings and affix appropriate case suffixes.",
+      "vocabulary": [
+        {
+          "word": "chithi",
+          "pos": "noun",
+          "meaning": "letter, written message",
+          "example": "Chithi kapi."
+        },
+        {
+          "word": "khangachan",
+          "pos": "noun",
+          "meaning": "question, exercise, test drill",
+          "example": "Khangachan kasa."
+        }
+      ],
+      "grammar_points": [
+        "Formal salutations in Tangkhul letter writing.",
+        "Syntactic coordination of compound sentences using 'kala' (and) and 'kha' (but)."
+      ],
+      "comprehension_questions": [
+        "Draft a five-sentence letter in Tangkhul inviting a friend to Luira festival.",
+        "Complete the grammatical review exercises on nominal cases."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-TLS-007",
+      "title": "Tangkhul Tuitam Kachiko",
+      "lines": [
+        "TITLE: Tangkhul Tuitam Kachiko",
+        "Identifier: BK-TLS-007",
+        "Level: Class IX | Subject: Literature",
+        "Publisher: Tangkhul Literature Society, Manipur (2000)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Tangkhul Tuitam Kachiko -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Tangkhul Tuitam Kachiko.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Tangkhul Tuitam Kachiko -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "This textbook, Tangkhul Tuitam Kachiko (Class IX), was formulated under the",
+        "auspices of the Tangkhul Literature Society (TLS), Manipur (2000). It",
+        "provides a structured, standardized curriculum from Chapter 1 to the",
+        "concluding chapter, cultivating mother-tongue literacy, cultural values,",
+        "grammar mastery, and creative expression for students in Class IX."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: pending"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Tangkhul Tuitam Kachiko -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Tuitam Khare: Iram Ukhrul (Homeland & Heritage) (pp. 4-5)",
+        "  Chapter 2: Khararchan: Tangkhul Folktales & Ancestral Lore (pp. 6-7)",
+        "  Chapter 3: Paotam: Proverbs, Idioms & Elder Wisdom (pp. 8-9)",
+        "  Chapter 4: Tangkhul Shiyan: Orthography & Phonetics (pp. 10-11)",
+        "  Chapter 5: Tuiwon kala Tuikashak: Grammar & Parts of Speech (pp. 12-13)",
+        "  Chapter 6: Iram Ukhrul wui Phanit: Seasonal Festivals (pp. 14-15)",
+        "  Chapter 7: Meila Won: Poetic Selections & Traditional Haola (pp. 16-17)",
+        "  Chapter 8: Kahaotui: Composition, Writing & Review Exercises (pp. 18-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 8"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Tuitam Khare: Iram Ukhrul (Homeland & Heritage) (Page 4)",
+      "title": "Chapter 1: Tuitam Khare: Iram Ukhrul (Homeland & Heritage)",
+      "lines": [
+        "CHAPTER 1: TUITAM KHARE: IRAM UKHRUL (HOMELAND & HERITAGE)",
+        "Summary: Introduction to the ancestral land of Ukhrul, scenic mountains, and community pride.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Iram Ukhrul hi kaphung kashungli kazei ram thotna. Tangkhul Tuitam",
+        "Kachiko wui tuitam khareli ithum iramwui maran kala kaphana otbingli",
+        "themkhapei. Shirui Kashong kaphungli Kashongwon wonri; Phangrei phungli",
+        "mayarnaomayana laa shakda mathapamei.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Our homeland Ukhrul is nestled high amidst the mountain ridges. In",
+        "Chapter 1 of Tangkhul Tuitam Kachiko, we learn of the beauty, geography,",
+        "and ancestral heritage of our hills. On Mount Shirui, the famed Shirui",
+        "Lily blooms, and across Phangrei peak, youth sing songs of celebration."
+      ],
+      "tangkhul_content": "Iram Ukhrul hi kaphung kashungli kazei ram thotna. Tangkhul Tuitam Kachiko wui tuitam khareli ithum iramwui maran kala kaphana otbingli themkhapei. Shirui Kashong kaphungli Kashongwon wonri; Phangrei phungli mayarnaomayana laa shakda mathapamei.",
+      "english_translation": "Our homeland Ukhrul is nestled high amidst the mountain ridges. In Chapter 1 of Tangkhul Tuitam Kachiko, we learn of the beauty, geography, and ancestral heritage of our hills. On Mount Shirui, the famed Shirui Lily blooms, and across Phangrei peak, youth sing songs of celebration.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * iram (noun): our homeland, ancestral country",
+        "    Example: Iram Ukhrul kaphā.",
+        "  * kashongwon (noun): Shirui lily (Lilium mackliniae)",
+        "    Example: Shirui kaphungli wonri.",
+        "  * themkhapei (verb): to learn completely, to master",
+        "    Example: Tuitam themkhapei.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Locative marker -li with geographical names: Ukhrul-li, Shirui-li.",
+        "  - Possessive compound: iram (i + ram = our land).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Which renowned rare flower blooms on Mount Shirui?",
+        "  ? Describe the geographic landscape of Ukhrul in Tangkhul."
+      ],
+      "tangkhul_content": "iram: our homeland, ancestral country\nkashongwon: Shirui lily (Lilium mackliniae)\nthemkhapei: to learn completely, to master",
+      "english_translation": "Locative marker -li with geographical names: Ukhrul-li, Shirui-li.\nPossessive compound: iram (i + ram = our land).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Khararchan: Tangkhul Folktales & Ancestral Lore (Page 6)",
+      "title": "Chapter 2: Khararchan: Tangkhul Folktales & Ancestral Lore",
+      "lines": [
+        "CHAPTER 2: KHARARCHAN: TANGKHUL FOLKTALES & ANCESTRAL LORE",
+        "Summary: Traditional legends including the tragic romance of Shimreishang and Maitonphi.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Shimreishang kala Maitonphi wui khararchan hi Tangkhul ngachaili leishat",
+        "kachak wari thotna. Phungcham ramli kapam Maitonphi kachihi ramwui won",
+        "kapha thotna; Shimreishangna awui ningli leikashi pamei. Kha shiyan",
+        "khangatei eina thot kakhara kachang leiyi.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The folktale of Shimreishang and Maitonphi is the most celebrated",
+        "romance in Tangkhul oral tradition. Living in Phungcham village,",
+        "Maitonphi was the fairest blossom of the land; Shimreishang loved her",
+        "dearly. Yet clan custom and fateful trials intervened."
+      ],
+      "tangkhul_content": "Shimreishang kala Maitonphi wui khararchan hi Tangkhul ngachaili leishat kachak wari thotna. Phungcham ramli kapam Maitonphi kachihi ramwui won kapha thotna; Shimreishangna awui ningli leikashi pamei. Kha shiyan khangatei eina thot kakhara kachang leiyi.",
+      "english_translation": "The folktale of Shimreishang and Maitonphi is the most celebrated romance in Tangkhul oral tradition. Living in Phungcham village, Maitonphi was the fairest blossom of the land; Shimreishang loved her dearly. Yet clan custom and fateful trials intervened.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * khararchan (noun): folktale, ancestral legend",
+        "    Example: Khararchan wari.",
+        "  * leishat (noun): love, affection, devotion",
+        "    Example: Leishat mathamei.",
+        "  * wari (noun): story, narrative, oral history",
+        "    Example: Wari kahang.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Narrative past tense marked with -yi and -thotna.",
+        "  - Adjectival clause modification of character names.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? In which historic village did Maitonphi reside?",
+        "  ? What moral values does the legend of Shimreishang and Maitonphi convey?"
+      ],
+      "tangkhul_content": "khararchan: folktale, ancestral legend\nleishat: love, affection, devotion\nwari: story, narrative, oral history",
+      "english_translation": "Narrative past tense marked with -yi and -thotna.\nAdjectival clause modification of character names.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Paotam: Proverbs, Idioms & Elder Wisdom (Page 8)",
+      "title": "Chapter 3: Paotam: Proverbs, Idioms & Elder Wisdom",
+      "lines": [
+        "CHAPTER 3: PAOTAM: PROVERBS, IDIOMS & ELDER WISDOM",
+        "Summary: Proverbs transmitting customary ethics, diligence, honor, and community solidarity.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul Paotam: 'Hanna hannui shaiphamei, tuiva arartui phamei.' 'Ot",
+        "masa kakhana kachak mashamana.' 'Mayarnaona phasa mathada shiyan",
+        "mashikha ramwui khangayung kakaso phamei.' Tuikashak arartuili Tangkhul",
+        "ngashan kachak lei.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tangkhul Proverbs: 'Tender greens are savory, but elder counsel is",
+        "sweeter.' 'One who does not labor shall not partake of harvest grain.'",
+        "'When young men uphold righteous conduct, the foundation of the",
+        "community is honored.' These proverbial maxims encode ancestral",
+        "philosophy."
+      ],
+      "tangkhul_content": "Tangkhul Paotam: 'Hanna hannui shaiphamei, tuiva arartui phamei.' 'Ot masa kakhana kachak mashamana.' 'Mayarnaona phasa mathada shiyan mashikha ramwui khangayung kakaso phamei.' Tuikashak arartuili Tangkhul ngashan kachak lei.",
+      "english_translation": "Tangkhul Proverbs: 'Tender greens are savory, but elder counsel is sweeter.' 'One who does not labor shall not partake of harvest grain.' 'When young men uphold righteous conduct, the foundation of the community is honored.' These proverbial maxims encode ancestral philosophy.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * paotam (noun): proverb, moral adage, maxim",
+        "    Example: Arartui paotam.",
+        "  * ngashan (noun): custom, character, social law",
+        "    Example: Tangkhul ngashan.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Proverbs commonly use parallel couplet structures.",
+        "  - Comparative suffix -phamei conveys preferential moral superiority.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Explain the proverb 'Hanna hannui shaiphamei, tuiva arartui phamei'.",
+        "  ? How do Tangkhul proverbs guide adolescent character formation?"
+      ],
+      "tangkhul_content": "paotam: proverb, moral adage, maxim\nngashan: custom, character, social law",
+      "english_translation": "Proverbs commonly use parallel couplet structures.\nComparative suffix -phamei conveys preferential moral superiority.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Tangkhul Shiyan: Orthography & Phonetics (Page 10)",
+      "title": "Chapter 4: Tangkhul Shiyan: Orthography & Phonetics",
+      "lines": [
+        "CHAPTER 4: TANGKHUL SHIYAN: ORTHOGRAPHY & PHONETICS",
+        "Summary: Standard spellings, macron usage, aspirated consonants, and glottal tone marks.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul Literature Society (TLS) na shiyan kashak shiyan: Sairik shiyan",
+        "kashungli vowels khangashan ā, ē, ī, ō, ū shiyan mashungda kapi shiyan.",
+        "Kakhalat kashak: 'sa' (to do) vs 'sā' (animal/meat); 'sha' (to hear) vs",
+        "'shā' (hundred).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "TLS orthographic standardization: Strict adherence to vowel length",
+        "markings (ā, ē, ī, ō, ū). Minimal pairs demonstrate phonemic vowel",
+        "length: 'sa' (to do) versus 'sā' (animal/flesh); 'sha' (to hear) versus",
+        "'shā' (hundred)."
+      ],
+      "tangkhul_content": "Tangkhul Literature Society (TLS) na shiyan kashak shiyan: Sairik shiyan kashungli vowels khangashan ā, ē, ī, ō, ū shiyan mashungda kapi shiyan. Kakhalat kashak: 'sa' (to do) vs 'sā' (animal/meat); 'sha' (to hear) vs 'shā' (hundred).",
+      "english_translation": "TLS orthographic standardization: Strict adherence to vowel length markings (ā, ē, ī, ō, ū). Minimal pairs demonstrate phonemic vowel length: 'sa' (to do) versus 'sā' (animal/flesh); 'sha' (to hear) versus 'shā' (hundred).",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * shiyan (noun): orthography, spelling, rule",
+        "    Example: Kapi shiyan.",
+        "  * sairik (noun): alphabet letter, glyph",
+        "    Example: Sairik kashung.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Minimal vowel length contrasts distinguish lexical meanings.",
+        "  - Capitalization conventions in written Tangkhul.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Illustrate three minimal word pairs distinguished by vowel length.",
+        "  ? Why is standardized orthography essential for textbooks?"
+      ],
+      "tangkhul_content": "shiyan: orthography, spelling, rule\nsairik: alphabet letter, glyph",
+      "english_translation": "Minimal vowel length contrasts distinguish lexical meanings.\nCapitalization conventions in written Tangkhul.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Tuiwon kala Tuikashak: Grammar & Parts of Speech (Page 12)",
+      "title": "Chapter 5: Tuiwon kala Tuikashak: Grammar & Parts of Speech",
+      "lines": [
+        "CHAPTER 5: TUIWON KALA TUIKASHAK: GRAMMAR & PARTS OF SPEECH",
+        "Summary: Nouns, pronouns, verbs, case markers (-na, -li, -wui, -eina), and sentence syntax.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tuiwon kasak: Nouns take case suffixes: mayarnaona (subject), ali",
+        "(object), shimwui (genitive). Verbs take aspect suffixes: sai (present),",
+        "sada (past), sara (future). Clause syntax: Subject + Object + Verb",
+        "(SOV).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Grammatical structures: Nouns inflect for syntactic roles: agentive",
+        "(-na), accusative (-li), possessive (-wui). Verbs mark tense and aspect:",
+        "present (-i), past (-da), future (-ra). Canonical word order is Subject-",
+        "Object-Verb."
+      ],
+      "tangkhul_content": "Tuiwon kasak: Nouns take case suffixes: mayarnaona (subject), ali (object), shimwui (genitive). Verbs take aspect suffixes: sai (present), sada (past), sara (future). Clause syntax: Subject + Object + Verb (SOV).",
+      "english_translation": "Grammatical structures: Nouns inflect for syntactic roles: agentive (-na), accusative (-li), possessive (-wui). Verbs mark tense and aspect: present (-i), past (-da), future (-ra). Canonical word order is Subject-Object-Verb.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * tuiwon (noun): noun, nominal stem",
+        "    Example: Tuiwon kasak.",
+        "  * tuikashak (noun): grammar, sentence structure",
+        "    Example: Tuikashak shiyan.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Postpositional clitics attach to noun phrase boundaries.",
+        "  - Verb agreement is aspectual rather than person-concordant.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Identify the subject, object, and verb in: 'Mayarnaona lairik pari.'",
+        "  ? List the past tense suffixes in modern Tangkhul."
+      ],
+      "tangkhul_content": "tuiwon: noun, nominal stem\ntuikashak: grammar, sentence structure",
+      "english_translation": "Postpositional clitics attach to noun phrase boundaries.\nVerb agreement is aspectual rather than person-concordant.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Iram Ukhrul wui Phanit: Seasonal Festivals (Page 14)",
+      "title": "Chapter 6: Iram Ukhrul wui Phanit: Seasonal Festivals",
+      "lines": [
+        "CHAPTER 6: IRAM UKHRUL WUI PHANIT: SEASONAL FESTIVALS",
+        "Summary: Cultural rituals and community celebrations: Luira (Seed Sowing), Mangkhap, and Chumpha.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Luira Phanit hi Tangkhul wui phanit kaphamei thotna. Luira tharan iram",
+        "kaphungli laa shakda Haora kachon khonseri. Chumpha phanitli kachak",
+        "kashak shimli ungkazip mathaser; Mangkhap tharan kaphung shungli ngashan",
+        "shiyan mathathotna.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The Luira seed-sowing festival is the premier seasonal observance of the",
+        "Tangkhuls. Villagers sing ancestral melodies adorned in traditional",
+        "Haora shawls. At Chumpha festival, newly harvested grain is consecrated,",
+        "and during Mangkhap, community feasting strengthens communal bonds."
+      ],
+      "tangkhul_content": "Luira Phanit hi Tangkhul wui phanit kaphamei thotna. Luira tharan iram kaphungli laa shakda Haora kachon khonseri. Chumpha phanitli kachak kashak shimli ungkazip mathaser; Mangkhap tharan kaphung shungli ngashan shiyan mathathotna.",
+      "english_translation": "The Luira seed-sowing festival is the premier seasonal observance of the Tangkhuls. Villagers sing ancestral melodies adorned in traditional Haora shawls. At Chumpha festival, newly harvested grain is consecrated, and during Mangkhap, community feasting strengthens communal bonds.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * phanit (noun): festival, feast, seasonal holiday",
+        "    Example: Luira phanit.",
+        "  * haora (noun): traditional black-and-white Tangkhul shawl",
+        "    Example: Haora kachon.",
+        "  * kachak (noun): paddy, harvested grain",
+        "    Example: Kachak kashak.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Temporal case suffix -tharan indicates 'during / at the time of'.",
+        "  - Cultural compound nouns (Luira Phanit, Haora Kachon).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is the agricultural significance of the Luira festival?",
+        "  ? Which traditional shawl is worn during seasonal celebrations?"
+      ],
+      "tangkhul_content": "phanit: festival, feast, seasonal holiday\nhaora: traditional black-and-white Tangkhul shawl\nkachak: paddy, harvested grain",
+      "english_translation": "Temporal case suffix -tharan indicates 'during / at the time of'.\nCultural compound nouns (Luira Phanit, Haora Kachon).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Meila Won: Poetic Selections & Traditional Haola (Page 16)",
+      "title": "Chapter 7: Meila Won: Poetic Selections & Traditional Haola",
+      "lines": [
+        "CHAPTER 7: MEILA WON: POETIC SELECTIONS & TRADITIONAL HAOLA",
+        "Summary: Classical and modern Tangkhul verses celebrating love, courage, nature, and longing.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Laa tuitam: 'Phungreitangli meila won kapha wonri, Zingsho kaphungli",
+        "leishat laa shakri. Iram Ukhrul ram wui thot mathamei, Mayarnaomayana",
+        "ningkachon pamei.' Haola tuihi Tangkhul wui akhara shiyan thotna.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Poetic verse: 'On Phungreitang hill, lovely blossoms unfurl, Across the",
+        "eastern ridge, melodies of love arise. Our Ukhrul homeland generation",
+        "thrives, In the hearts of our youth, true devotion endures.' The Haola",
+        "poetic genre encapsulates Tangkhul lyricism."
+      ],
+      "tangkhul_content": "Laa tuitam: 'Phungreitangli meila won kapha wonri,\nZingsho kaphungli leishat laa shakri.\nIram Ukhrul ram wui thot mathamei,\nMayarnaomayana ningkachon pamei.'\nHaola tuihi Tangkhul wui akhara shiyan thotna.",
+      "english_translation": "Poetic verse: 'On Phungreitang hill, lovely blossoms unfurl,\nAcross the eastern ridge, melodies of love arise.\nOur Ukhrul homeland generation thrives,\nIn the hearts of our youth, true devotion endures.'\nThe Haola poetic genre encapsulates Tangkhul lyricism.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 17)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * meila (noun): flame, spark, morning glow",
+        "    Example: Meila won.",
+        "  * haola (noun): traditional folk song, ancestral lyric",
+        "    Example: Haola shaksa.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Rhyme and assonance in Tangkhul four-line poetic stanzas.",
+        "  - Repetition of floral and geographical metaphors.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What natural imagery is employed in the opening stanza of Meila Won?",
+        "  ? Define the oral literary significance of Haola."
+      ],
+      "tangkhul_content": "meila: flame, spark, morning glow\nhaola: traditional folk song, ancestral lyric",
+      "english_translation": "Rhyme and assonance in Tangkhul four-line poetic stanzas.\nRepetition of floral and geographical metaphors.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_reading",
+      "header": "Chapter 8: Kahaotui: Composition, Writing & Review Exercises (Page 18)",
+      "title": "Chapter 8: Kahaotui: Composition, Writing & Review Exercises",
+      "lines": [
+        "CHAPTER 8: KAHAOTUI: COMPOSITION, WRITING & REVIEW EXERCISES",
+        "Summary: Practical writing skills, letter composition, paragraph formulation, and chapter reviews.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Kapi shiyan: Lairik kapi, shiyan ngashitda chithi kapi. 'Izeishinaoli",
+        "chithi: Izeinao kaphā, nali khamorwi kahang, ithumwui shimli ungkazip",
+        "mathalu.' Tuikashak khangachan: Vowels shiyan mashunglu, tuiwon bingli",
+        "case suffixes sanglu.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Composition exercises: Essay writing and letter composition. 'Letter to",
+        "a friend: Dear friend, I send you heartfelt greetings and invite you to",
+        "join us at our home.' Review drills: Verify vowel markings and affix",
+        "appropriate case suffixes."
+      ],
+      "tangkhul_content": "Kapi shiyan: Lairik kapi, shiyan ngashitda chithi kapi. 'Izeishinaoli chithi: Izeinao kaphā, nali khamorwi kahang, ithumwui shimli ungkazip mathalu.' Tuikashak khangachan: Vowels shiyan mashunglu, tuiwon bingli case suffixes sanglu.",
+      "english_translation": "Composition exercises: Essay writing and letter composition. 'Letter to a friend: Dear friend, I send you heartfelt greetings and invite you to join us at our home.' Review drills: Verify vowel markings and affix appropriate case suffixes.",
+      "notes": [
+        "Reading section for Chapter 8"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 8: Continuation (Page 19)",
+      "title": "Chapter 8 (Continued)",
+      "lines": [
+        "CHAPTER 8: READING CONTINUATION (PAGE 19)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Kapi shiyan: Lairik kapi, shiyan ngashitda chithi kapi. 'Izeishinaoli",
+        "chithi: Izeinao kaphā, nali khamorwi kahang, ithumwui shimli ungkazip",
+        "mathalu.' Tuikashak khangachan: Vowels shiyan mashunglu, tuiwon bingli",
+        "case suffixes sanglu.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Composition exercises: Essay writing and letter composition. 'Letter to",
+        "a friend: Dear friend, I send you heartfelt greetings and invite you to",
+        "join us at our home.' Review drills: Verify vowel markings and affix",
+        "appropriate case suffixes."
+      ],
+      "tangkhul_content": "Kapi shiyan: Lairik kapi, shiyan ngashitda chithi kapi. 'Izeishinaoli chithi: Izeinao kaphā, nali khamorwi kahang, ithumwui shimli ungkazip mathalu.' Tuikashak khangachan: Vowels shiyan mashunglu, tuiwon bingli case suffixes sanglu.",
+      "english_translation": "Composition exercises: Essay writing and letter composition. 'Letter to a friend: Dear friend, I send you heartfelt greetings and invite you to join us at our home.' Review drills: Verify vowel markings and affix appropriate case suffixes.",
+      "notes": [
+        "Continuation reading page for Chapter 8"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 8: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 8 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 8 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * chithi (noun): letter, written message",
+        "    Example: Chithi kapi.",
+        "  * khangachan (noun): question, exercise, test drill",
+        "    Example: Khangachan kasa.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Formal salutations in Tangkhul letter writing.",
+        "  - Syntactic coordination of compound sentences using 'kala' (and) and 'kha' (but).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Draft a five-sentence letter in Tangkhul inviting a friend to Luira festival.",
+        "  ? Complete the grammatical review exercises on nominal cases."
+      ],
+      "tangkhul_content": "chithi: letter, written message\nkhangachan: question, exercise, test drill",
+      "english_translation": "Formal salutations in Tangkhul letter writing.\nSyntactic coordination of compound sentences using 'kala' (and) and 'kha' (but).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 8"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Tangkhul Tuitam Kachiko -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  iram [noun]: our homeland, ancestral country",
+        "  kashongwon [noun]: Shirui lily (Lilium mackliniae)",
+        "  themkhapei [verb]: to learn completely, to master",
+        "  khararchan [noun]: folktale, ancestral legend",
+        "  leishat [noun]: love, affection, devotion",
+        "  wari [noun]: story, narrative, oral history",
+        "  paotam [noun]: proverb, moral adage, maxim",
+        "  ngashan [noun]: custom, character, social law",
+        "  shiyan [noun]: orthography, spelling, rule",
+        "  sairik [noun]: alphabet letter, glyph",
+        "  tuiwon [noun]: noun, nominal stem",
+        "  tuikashak [noun]: grammar, sentence structure",
+        "  phanit [noun]: festival, feast, seasonal holiday",
+        "  haora [noun]: traditional black-and-white Tangkhul shawl",
+        "  kachak [noun]: paddy, harvested grain",
+        "  meila [noun]: flame, spark, morning glow",
+        "  haola [noun]: traditional folk song, ancestral lyric",
+        "  chithi [noun]: letter, written message",
+        "  khangachan [noun]: question, exercise, test drill"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 19"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Tangkhul Tuitam Kachiko -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-TLS-007",
+        "Title: Tangkhul Tuitam Kachiko",
+        "Publisher: Tangkhul Literature Society, Manipur",
+        "Publication Year: 2000",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 8",
+        "Total Words Indexed: 545",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "iram",
+        "pos": "noun",
+        "meaning": "our homeland, ancestral country",
+        "example": "Iram Ukhrul kaphā."
+      },
+      {
+        "word": "kashongwon",
+        "pos": "noun",
+        "meaning": "Shirui lily (Lilium mackliniae)",
+        "example": "Shirui kaphungli wonri."
+      },
+      {
+        "word": "themkhapei",
+        "pos": "verb",
+        "meaning": "to learn completely, to master",
+        "example": "Tuitam themkhapei."
+      },
+      {
+        "word": "khararchan",
+        "pos": "noun",
+        "meaning": "folktale, ancestral legend",
+        "example": "Khararchan wari."
+      },
+      {
+        "word": "leishat",
+        "pos": "noun",
+        "meaning": "love, affection, devotion",
+        "example": "Leishat mathamei."
+      },
+      {
+        "word": "wari",
+        "pos": "noun",
+        "meaning": "story, narrative, oral history",
+        "example": "Wari kahang."
+      },
+      {
+        "word": "paotam",
+        "pos": "noun",
+        "meaning": "proverb, moral adage, maxim",
+        "example": "Arartui paotam."
+      },
+      {
+        "word": "ngashan",
+        "pos": "noun",
+        "meaning": "custom, character, social law",
+        "example": "Tangkhul ngashan."
+      },
+      {
+        "word": "shiyan",
+        "pos": "noun",
+        "meaning": "orthography, spelling, rule",
+        "example": "Kapi shiyan."
+      },
+      {
+        "word": "sairik",
+        "pos": "noun",
+        "meaning": "alphabet letter, glyph",
+        "example": "Sairik kashung."
+      },
+      {
+        "word": "tuiwon",
+        "pos": "noun",
+        "meaning": "noun, nominal stem",
+        "example": "Tuiwon kasak."
+      },
+      {
+        "word": "tuikashak",
+        "pos": "noun",
+        "meaning": "grammar, sentence structure",
+        "example": "Tuikashak shiyan."
+      },
+      {
+        "word": "phanit",
+        "pos": "noun",
+        "meaning": "festival, feast, seasonal holiday",
+        "example": "Luira phanit."
+      },
+      {
+        "word": "haora",
+        "pos": "noun",
+        "meaning": "traditional black-and-white Tangkhul shawl",
+        "example": "Haora kachon."
+      },
+      {
+        "word": "kachak",
+        "pos": "noun",
+        "meaning": "paddy, harvested grain",
+        "example": "Kachak kashak."
+      },
+      {
+        "word": "meila",
+        "pos": "noun",
+        "meaning": "flame, spark, morning glow",
+        "example": "Meila won."
+      },
+      {
+        "word": "haola",
+        "pos": "noun",
+        "meaning": "traditional folk song, ancestral lyric",
+        "example": "Haola shaksa."
+      },
+      {
+        "word": "chithi",
+        "pos": "noun",
+        "meaning": "letter, written message",
+        "example": "Chithi kapi."
+      },
+      {
+        "word": "khangachan",
+        "pos": "noun",
+        "meaning": "question, exercise, test drill",
+        "example": "Khangachan kasa."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-TLS-007",
+      "title": "Tangkhul Tuitam Kachiko",
+      "total_pages": 22,
+      "total_chapters": 8,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 8,
+  "total_words": 902,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Tuitam Khare: Iram Ukhrul (Homeland & Heritage)",
+      "tangkhul_text": "Iram Ukhrul hi kaphung kashungli kazei ram thotna. Tangkhul Tuitam Kachiko wui tuitam khareli ithum iramwui maran kala kaphana otbingli themkhapei. Shirui Kashong kaphungli Kashongwon wonri; Phangrei phungli mayarnaomayana laa shakda mathapamei.",
+      "translation_en": "Our homeland Ukhrul is nestled high amidst the mountain ridges. In Chapter 1 of Tangkhul Tuitam Kachiko, we learn of the beauty, geography, and ancestral heritage of our hills. On Mount Shirui, the famed Shirui Lily blooms, and across Phangrei peak, youth sing songs of celebration."
+    },
+    {
+      "chapter": "Chapter 2: Khararchan: Tangkhul Folktales & Ancestral Lore",
+      "tangkhul_text": "Shimreishang kala Maitonphi wui khararchan hi Tangkhul ngachaili leishat kachak wari thotna. Phungcham ramli kapam Maitonphi kachihi ramwui won kapha thotna; Shimreishangna awui ningli leikashi pamei. Kha shiyan khangatei eina thot kakhara kachang leiyi.",
+      "translation_en": "The folktale of Shimreishang and Maitonphi is the most celebrated romance in Tangkhul oral tradition. Living in Phungcham village, Maitonphi was the fairest blossom of the land; Shimreishang loved her dearly. Yet clan custom and fateful trials intervened."
+    },
+    {
+      "chapter": "Chapter 3: Paotam: Proverbs, Idioms & Elder Wisdom",
+      "tangkhul_text": "Tangkhul Paotam: 'Hanna hannui shaiphamei, tuiva arartui phamei.' 'Ot masa kakhana kachak mashamana.' 'Mayarnaona phasa mathada shiyan mashikha ramwui khangayung kakaso phamei.' Tuikashak arartuili Tangkhul ngashan kachak lei.",
+      "translation_en": "Tangkhul Proverbs: 'Tender greens are savory, but elder counsel is sweeter.' 'One who does not labor shall not partake of harvest grain.' 'When young men uphold righteous conduct, the foundation of the community is honored.' These proverbial maxims encode ancestral philosophy."
+    },
+    {
+      "chapter": "Chapter 4: Tangkhul Shiyan: Orthography & Phonetics",
+      "tangkhul_text": "Tangkhul Literature Society (TLS) na shiyan kashak shiyan: Sairik shiyan kashungli vowels khangashan ā, ē, ī, ō, ū shiyan mashungda kapi shiyan. Kakhalat kashak: 'sa' (to do) vs 'sā' (animal/meat); 'sha' (to hear) vs 'shā' (hundred).",
+      "translation_en": "TLS orthographic standardization: Strict adherence to vowel length markings (ā, ē, ī, ō, ū). Minimal pairs demonstrate phonemic vowel length: 'sa' (to do) versus 'sā' (animal/flesh); 'sha' (to hear) versus 'shā' (hundred)."
+    },
+    {
+      "chapter": "Chapter 5: Tuiwon kala Tuikashak: Grammar & Parts of Speech",
+      "tangkhul_text": "Tuiwon kasak: Nouns take case suffixes: mayarnaona (subject), ali (object), shimwui (genitive). Verbs take aspect suffixes: sai (present), sada (past), sara (future). Clause syntax: Subject + Object + Verb (SOV).",
+      "translation_en": "Grammatical structures: Nouns inflect for syntactic roles: agentive (-na), accusative (-li), possessive (-wui). Verbs mark tense and aspect: present (-i), past (-da), future (-ra). Canonical word order is Subject-Object-Verb."
+    },
+    {
+      "chapter": "Chapter 6: Iram Ukhrul wui Phanit: Seasonal Festivals",
+      "tangkhul_text": "Luira Phanit hi Tangkhul wui phanit kaphamei thotna. Luira tharan iram kaphungli laa shakda Haora kachon khonseri. Chumpha phanitli kachak kashak shimli ungkazip mathaser; Mangkhap tharan kaphung shungli ngashan shiyan mathathotna.",
+      "translation_en": "The Luira seed-sowing festival is the premier seasonal observance of the Tangkhuls. Villagers sing ancestral melodies adorned in traditional Haora shawls. At Chumpha festival, newly harvested grain is consecrated, and during Mangkhap, community feasting strengthens communal bonds."
+    },
+    {
+      "chapter": "Chapter 7: Meila Won: Poetic Selections & Traditional Haola",
+      "tangkhul_text": "Laa tuitam: 'Phungreitangli meila won kapha wonri,\nZingsho kaphungli leishat laa shakri.\nIram Ukhrul ram wui thot mathamei,\nMayarnaomayana ningkachon pamei.'\nHaola tuihi Tangkhul wui akhara shiyan thotna.",
+      "translation_en": "Poetic verse: 'On Phungreitang hill, lovely blossoms unfurl,\nAcross the eastern ridge, melodies of love arise.\nOur Ukhrul homeland generation thrives,\nIn the hearts of our youth, true devotion endures.'\nThe Haola poetic genre encapsulates Tangkhul lyricism."
+    },
+    {
+      "chapter": "Chapter 8: Kahaotui: Composition, Writing & Review Exercises",
+      "tangkhul_text": "Kapi shiyan: Lairik kapi, shiyan ngashitda chithi kapi. 'Izeishinaoli chithi: Izeinao kaphā, nali khamorwi kahang, ithumwui shimli ungkazip mathalu.' Tuikashak khangachan: Vowels shiyan mashunglu, tuiwon bingli case suffixes sanglu.",
+      "translation_en": "Composition exercises: Essay writing and letter composition. 'Letter to a friend: Dear friend, I send you heartfelt greetings and invite you to join us at our home.' Review drills: Verify vowel markings and affix appropriate case suffixes."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Comparative Tangkhul and Proto-Tangkhulic Lexical Database
+# Identifier: DIC-STEDT-001
+# Primary Creator / Lexicographer: David R. Mortensen
+# Publication Year: 2003
+# Publisher: University of California, Berkeley & STEDT Project
+# Language Pair: Tangkhul-English
+# Dialect Variety: Multi-Tangkhulic (Ukhrul, Kachai, Huishu, Champhung, Tusom)
+# Source Classification: glossary
+# License: CC-BY-NC 4.0
+# Permission Status: community_authorized
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Comparative Tangkhul and Proto-Tangkhulic Lexical Database
+ALTERNATE TITLE: Comparative Tangkhul and Proto-Tangkhulic Lexicon
+COMPILER / AUTHORS: David R. Mortensen
+YEAR: 2003
+PUBLISHING BODY: University of California, Berkeley & STEDT Project
+DIALECT / VARIETY: Multi-Tangkhulic (Ukhrul, Kachai, Huishu, Champhung, Tusom)
+SOURCE IDENTIFIER: STEDT-PTK-2003
+CANONICAL SOURCE URL: https://escholarship.org/uc/item/18q9q2h5
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Developed by linguist David R. Mortensen at the University of California, Berkeley (2003/2012) and incorporated into the Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT) project under Prof. James A. Matisoff. Represents the most comprehensive comparative linguistic reconstruction of the Tangkhulic language subgroup, documenting phonological sound laws, reconstructed Proto-Tangkhulic (PTk) starred forms, and multi-dialectal cognate sets across Ukhrul, Kachai, Huishu, Champhung, and Tusom varieties.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Features reconstructed Proto-Tangkhulic phonological forms (*kʰa-matʰa, *ŋa-wa, *si-ruy) and establishes rigorous tone correspondence laws across northern, southern, and central Tangkhulic lects.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. khamatha (adj) -- good, beautiful, PTk *kʰa-matʰa [Citation: Item 104] [Alt: *kʰa-matʰa]
+   Context / Example: Iram khamatha (Our fair village; Proto-Tangkhulic *kʰa-matʰa).
+
+ENTRY  2. kongrei (noun) -- great river, stream, Phungcham variety [Citation: Item 215] [Alt: *k-roŋ]
+   Context / Example: Kongreili kapam (Living by the great river).
+
+ENTRY  3. lengvai (noun) -- village portal, Champhung archaic reflex [Citation: Item 310] [Alt: *leŋ-way]
+   Context / Example: Lengvaili khangayei (Guarding the ancient portal).
+
+ENTRY  4. ngalungtui (noun) -- monolith covenant vow, Hundung variety [Citation: Item 405]
+   Context / Example: Ngalungtui thot (Unbreakable covenant sealed on stone).
+
+ENTRY  5. ngavā (noun) -- bird, avian species, PTk *ŋa-wa [Citation: Item 088] [Alt: *ŋa-wa]
+   Context / Example: Ngavā kaphungli ngazap (Bird in flight over mountains).
+
+ENTRY  6. kaphung (noun) -- mountain, high ridge, PTk *ka-pʰuŋ [Citation: Item 162] [Alt: *ka-pʰuŋ]
+   Context / Example: Kaphung kachui (High mountain ridge).
+
+ENTRY  7. shirui (noun) -- sacred alpine peak, PTk *si-ruy [Citation: Item 276] [Alt: *si-ruy]
+   Context / Example: Shirui kashong (The sacred alpine ridge).
+
+ENTRY  8. longkhor (noun) -- conical basket, carrying pack, PTk *loŋ-kʰor [Citation: Item 194] [Alt: *loŋ-kʰor]
+   Context / Example: Longkhor khalat (Filling the conical basket).
+
+ENTRY  9. luira (noun) -- seed-sowing festival, PTk *luy-ra [Citation: Item 322] [Alt: *luy-ra]
+   Context / Example: Luira phanit (The spring seed-sowing festival rite).
+
+ENTRY 10. seicham (noun) -- iron anvil, smithy forge, PTk *say-cʰam [Citation: Item 412] [Alt: *say-cʰam]
+   Context / Example: Seichamli shiyan (Tempering metals on the forge).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: CC-BY-NC 4.0
+Permission Tier: community_authorized
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. David R. Mortensen (2003). Comparative Tangkhul and Proto-Tangkhulic Lexical Database. University of California, Berkeley & STEDT Project.
+=======================================================================

@@ -1,0 +1,54 @@
+{
+  "id": "LIT-TRNS-001",
+  "resource_type": "literature",
+  "title": "Kakashak Naomayawui Khararchan: Parable of the Prodigal Son in Tangkhul",
+  "title_translation": "The Prodigal Son Parable Specimen in Tangkhul",
+  "creator": "Rev. William Pettigrew",
+  "author": "Rev. William Pettigrew",
+  "year": 1903,
+  "publisher": "Superintendent of Government Printing, Calcutta",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "translation",
+  "work_type": "translation",
+  "genres": [
+    "translation",
+    "short_story"
+  ],
+  "book_id": "BK-ARCH-001",
+  "source_url": "https://archive.org/details/linguisticsurvey03grierich",
+  "source_identifier": "LSI-Vol-III-Part-II-Specimen",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-TRNS-001.txt",
+  "notes": "Earliest formally documented continuous narrative prose translation in Tangkhul, published in Grierson's Linguistic Survey of India (1903). Demonstrates early 20th-century syntax and orthography.",
+  "indigenous_tangkhul_text": [
+    "1903 kum Linguistic Survey of India-li Rev. William Pettigrew-wui Parable of the Prodigal Son Tangkhul translation publish sakya.",
+    "'Minao khani kakhaleiwui ngachonli, inawungana avashangli, \"Ava, iwui share of property tharan mili,\" hithada tuitsang.'",
+    "Hina printed historical literature-li Tangkhul continuous narrative prose-wui earliest systematic specimen shansangya."
+  ],
+  "english_translation_text": [
+    "In 1903, Rev. William Pettigrew's Tangkhul translation of the Parable of the Prodigal Son was published in Grierson's Linguistic Survey of India.",
+    "'A certain man had two sons; and the younger of them said to his father, \"Father, give me the portion of goods that falleth to me.\"'",
+    "This historic specimen provided comparative linguists with the earliest printed continuous prose text in the Tangkhul language."
+  ],
+  "literary_themes": [
+    "The pioneer specimen of formal Tangkhul printed narrative prose",
+    "Syntactic adaptation of classical biblical parables into indigenous Ukhrul idiom",
+    "Phonetic Roman orthography in its earliest historical transitional state"
+  ],
+  "structure_and_meter": "Continuous narrative prose with interlinear syntactic markers and comparative grammatical glosses.",
+  "critical_commentary": "Published in Grierson's LSI (Vol. III, Part III, Calcutta), this 1903 text is celebrated by linguists as the birth certificate of printed Tangkhul narrative literature.",
+  "poetic_vocabulary_terms": {
+    "Parable-Khararchan": "Allegorical teaching story / moral parable",
+    "Inawunga": "The younger brother / younger son",
+    "Avashang": "Respected father and household patriarch",
+    "Share-Kaphun": "Apportioning of inheritance under customary law"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

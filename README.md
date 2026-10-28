@@ -1,12 +1,14 @@
 # Tangkhul Language Library
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Foundational%20Architecture%20(Step%201)-informational.svg)](#current-project-status)
-[![Testing](https://img.shields.io/badge/Pytest-Passing-brightgreen.svg)](#testing-and-development)
-[![Linter](https://img.shields.io/badge/Ruff-Checked-blue.svg)](#testing-and-development)
+[![Status](https://img.shields.io/badge/Status-Step%2015%20(Audio%20Corpus%20%26%20Speech%20Infrastructure)-informational.svg)](#current-project-status)
+[![Testing](https://img.shields.io/badge/Pytest-307%20Passing-brightgreen.svg)](#testing-and-development)
+[![Linter](https://img.shields.io/badge/Ruff-Checked-blue.svg)](file:///f:/tangkhul-language-library/pyproject.toml)
 [![License](https://img.shields.io/badge/License-Pending%20Confirmation-lightgrey.svg)](#license-and-citation)
 
 A professional, modular Python library for **Tangkhul language preservation, linguistic research, vocabulary extraction, and cultural documentation**.
+
+> 📌 **Executive Summary & Complete Navigation Guide**: For a high-level overview, complete file catalogue, and direct clickable navigation across all 15 implemented milestones, see [EXECUTIVE_SUMMARY.md](file:///f:/tangkhul-language-library/EXECUTIVE_SUMMARY.md).
 
 ---
 
@@ -38,7 +40,7 @@ A professional, modular Python library for **Tangkhul language preservation, lin
 **Tangkhul** (*Tangkhul Naga*) is a Tibeto-Burman language of the Tangkhulic branch, spoken primarily in the Ukhrul and Kamjong districts of Manipur, northeast India, and in contiguous areas of Myanmar. It possesses an exceptionally rich heritage of oral traditions, intricate weaving and folk songs, customary laws, proverbs (*Paotam*), and significant dialectal variation across dozens of ancestral villages.
 
 The **Tangkhul Language Library** aims to:
-1. **Preserve Tangkhul Language Resources**: Systematically catalogue, protect, and digitize linguistic assets across print publications, folk songs, dictionaries, oral narratives, and cultural records.
+1. **Preserve Tangkhul Language Resources**: Systematically catalogue, protect, and digitize linguistic assets across print publications, folk songs, dictionaries, oral narratives, cultural records, and creative literature.
 2. **Connect Vocabulary to Source Material**: Bridge isolated lexical entries directly to verified bibliographic sources, page numbers, stanzas, and real-world textual contexts through a unified provenance model.
 3. **Respect Dialectal Diversity**: Document village-level dialect variants and historical spelling shifts alongside standard Ukhrul orthography without destructive flattening.
 4. **Provide Open Computational Tools**: Offer Python developers, linguists, and educators reliable, tested tools for text normalization, manifest validation, and corpus access.
@@ -48,10 +50,24 @@ The **Tangkhul Language Library** aims to:
 ## Current Project Status
 
 > **Important Notice on Implementation Status**:
-> This project is currently at **Step 1: Foundational Architecture and Project Structure**.
+> This project has completed **Step 15: Tangkhul Audio Corpus, Pronunciation Records & Permission-Aware Speech Data Infrastructure** and holds **35 fully digitized books (741 pages, 261 chapters)**, **48 fully digitized songs (with bilingual lyrics and stanzas)**, **32 fully digitized cultural records (proverbs, seasonal festivals, feasts of merit, stone pottery, and architecture)**, **16 fully digitized dictionaries (with historical backgrounds, phonological frameworks, and representative bilingual/trilingual headwords)**, **32 fully digitized historical records (events, biographies, sacred toponyms, Makhel dispersal, and royal chronicles)**, and **41 fully digitized literature works (epic ballads, folktales, fables, lyric poetry, full-length plays, short stories, and canonical readers)**.
 >
-> - **Operational in this step**: Package packaging layout (`src/` layout), `pyproject.toml`, core configuration manager, data models (`ManifestRecord`, `VocabularyEntry`, `ProvenanceRecord`), manifest schema validator, test suite, and linter configuration.
-> - **Planned for subsequent steps**: Bulk resource ingestion, OCR/text extraction, automated database population, full-text vocabulary search, and domain-specific extractors for Books, Songs, Dictionaries, Culture, History, and Literature. These features are documented in this specification as architectural designs and will be implemented progressively.
+> - **Operational and Audited**:
+>   - **Audio Corpus & Pronunciation Data Architecture (`src/tangkhul_lib/audio/`)**: Relational and FTS5 data models for audio recordings, multiple pronunciation variants per vocabulary entry, word- and segment-level timestamps, and speaker consent records.
+>   - **Zero-Dependency Technical Audio Validation**: Built-in WAV header parser (duration, sample rate, channels, file size) via standard library `wave` module, with optional fallback to `mutagen` for compressed audio (`mp3`, `ogg`, `flac`, `m4a`).
+>   - **Path Traversal & Checksum Security**: Strict path confinement (`safe_resolve_audio_path`), filename sanitization, and SHA-256 fingerprinting to prevent directory traversal and detect duplicate files idempotently.
+>   - **Permission & Ethical Consent Governance (`AudioPermissionService`)**: Five explicit clearance tiers (`pending`, `authorized`, `restricted`, `withdrawn`, `needs_review`), immutable audit logging (`AudioConsentRecord`), consent revocation workflow, and automatic metadata shielding (`[RESTRICTED AUDIO FILE - ACCESS PRIVILEGED]`, `[SHIELDED SPEAKER]`).
+>   - **Permission-Enforced Distribution (`export_corpus`)**: Excludes pending, unverified, restricted, and withdrawn recordings, generating verified `audio_manifest.jsonl`.
+>   - **Audio Command Suite (`tangkhul audio`)**: Subcommands for `summary`, `list`, `inspect`, `validate`, `import`, `search`, `pronunciation`, `permissions`, and `export`.
+>   - **Multi-Reviewer Consensus Engine (`tangkhul review`)**: Step 14 community consensus engine with independent approvals, review tasks, and shielded offline packages.
+>   - **Vocabulary Enrichment Pipeline (`tangkhul enrich`)**: Step 13 source-backed lexicon enrichment pipeline.
+>   - **Vocabulary Review Service (`VocabularyReviewService`)**: Step 12 review lifecycle with immutable audit logging.
+>   - **Document Ingestion Pipeline (`tangkhul ingest`)**: Step 11 permission-aware ingestion across PDF, TXT/MD, and DOCX.
+>   - **SQLite FTS5 Full-Text Search & Phonetics (`tangkhul vocab`)**: Multi-mode search (`substring`, `fulltext`, `fuzzy`, `phonetic`) with BM25 ranking.
+>   - **Six Operational Domain Modules**: Books, Songs, Dictionaries, Culture, History, and Literature (217 catalogued records, 0 duplicates, 35 full books, 48 songs, 32 cultural records, 16 dictionaries, 32 historical records, 54 literature works).
+>   - **Test Suite**: 307 automated tests passing with 100% lint compliance under `ruff`.
+
+
 
 ---
 
@@ -281,6 +297,89 @@ word_entry = VocabularyEntry(
 # Distinct meanings or dialect variants are never discarded
 merged_list = deduplicate_entries([word_entry])
 print(f"Headword: {merged_list[0].headword}, Sources: {len(merged_list[0].provenance)}")
+
+# 6. Query Tangkhul history catalogue and chronological timeline
+from tangkhul_lib.history.catalogue import HistoryCatalogue
+
+history_cat = HistoryCatalogue.load_from_manifest(
+    config.paths.manifests_dir / "history.jsonl"
+)
+print(f"Total catalogued historical records: {len(history_cat)}")
+timeline = history_cat.get_timeline(start_year=1890, end_year=1920)
+for evt in timeline:
+    print(f"  {evt.sort_year}: {evt.title} [{evt.record_type}]")
+```
+
+### Command-Line Interface (`tangkhul`)
+
+```bash
+# Books catalogue
+tangkhul books --list
+tangkhul books --search "Grammar"
+tangkhul books --id BK-HIST-001
+
+# Songs catalogue
+tangkhul songs --list
+tangkhul songs --type folk
+
+# Dictionaries catalogue
+tangkhul dictionaries --list
+tangkhul dictionaries --id DIC-HIST-001
+
+# Culture catalogue
+tangkhul culture --list
+tangkhul culture --category proverb
+tangkhul culture --search "Luira"
+
+# History catalogue & timeline
+tangkhul history --list
+tangkhul history --id HIST-EVT-001
+tangkhul history --type person
+tangkhul history --period "Colonial Era"
+tangkhul history --place "Ukhrul"
+tangkhul history --verification-status needs_review
+
+# Literature catalogue
+tangkhul literature --list
+tangkhul literature --id LIT-POEM-001
+tangkhul literature --type poem
+tangkhul literature --type folk_tale
+tangkhul literature --genre ballad
+tangkhul literature --search "Tangkhul poetry"
+tangkhul literature --author "Luingam"
+tangkhul literature --verification-status needs_review
+
+# Unified Vocabulary Search (Cross-Module across all six modules)
+tangkhul vocab --search "khamor"
+tangkhul vocab --exact "khararchan"
+tangkhul vocab --meaning "custom"
+tangkhul vocab --dialect "Ukhrul"
+tangkhul vocab --source-type books
+tangkhul vocab --source-type songs
+tangkhul vocab --source-type dictionaries
+tangkhul vocab --source-type culture
+tangkhul vocab --source-type history
+tangkhul vocab --source-type literature
+tangkhul vocab --verification-status verified
+tangkhul vocab --limit 20
+tangkhul vocab --id VOC-BK-0001
+
+# Document Ingestion Pipeline
+tangkhul ingest --list-sources
+tangkhul ingest --source-id BK-HIST-001 --file path/to/document.pdf --dry-run
+tangkhul ingest --search "ngashan" --limit 5
+
+# Vocabulary Review & Validation Workflow
+tangkhul review --list --status pending_review
+tangkhul review --show VOCAB-CAND-001
+tangkhul review --accept VOCAB-CAND-001 --reviewer "Elder-Khangam" --meaning "traditional custom"
+
+# Authorized Vocabulary Enrichment (Step 13)
+tangkhul enrich --list-sources --source-type dictionaries
+tangkhul enrich --preview path/to/lexicon.tsv
+tangkhul enrich --source-id DIC-HIST-001 --file path/to/lexicon.tsv --dry-run
+tangkhul enrich --source-id DIC-HIST-001 --file path/to/lexicon.tsv --show-duplicates
+tangkhul enrich --source-id DIC-HIST-001 --file path/to/lexicon.tsv --export-candidates data/review/candidates.jsonl
 ```
 
 ---
@@ -430,18 +529,32 @@ We welcome contributions from linguists, developers, and native Tangkhul speaker
 
 ## Project Roadmap
 
-- [x] **Step 1: Project Architecture and Packaging** *(Current)*
+- [x] **Step 1: Project Architecture and Packaging**
   - Package structure, `pyproject.toml`, core data models, manifest validator, initial test suite, and complete documentation.
-- [ ] **Step 2: Resource Ingestion & Manifest Population**
-  - Catalogue verified Tangkhul books, dictionaries, and folk song archives with bibliographic provenance.
-- [ ] **Step 3: Text Extraction & Normalization Pipelines**
-  - OCR extraction, Unicode NFC normalization, and page/section citation alignment.
-- [ ] **Step 4: Unified Vocabulary Database & SQLite Persistence**
-  - Database schema migration, repository layer implementation, and cross-module vocabulary linking.
-- [ ] **Step 5: Domain Module Implementation**
-  - Specialized APIs for Books, Songs, Dictionaries, Culture, History, and Literature.
-- [ ] **Step 6: Vocabulary Search & CLI Suite**
-  - Full-text search, dialect lookup, concordance viewing, and dataset export commands.
+- [x] **Step 2: Tangkhul Books Catalogue & Vocabulary Extraction**
+  - Books domain module, verified manifest records, deduplication, and extraction pipelines.
+- [x] **Step 3: Tangkhul Songs Catalogue & Musical Heritage Integration**
+  - Songs module, folk and contemporary recordings, stanza/line parsing, and poetic vocabulary.
+- [x] **Step 4: Tangkhul Dictionaries Module & Lexicographical Database**
+  - Historical and contemporary dictionaries, headword normalization, multilingual definitions, and conflict detection.
+- [x] **Step 5: Tangkhul Culture, Customs, Traditions & Proverbs Module**
+  - Cultural catalogue, proverbs (*Paotam* / *Chanjam*), festivals, customs, rituals, and consent-gated extraction.
+- [x] **Step 6: Tangkhul History Module & Chronological Timeline Integration**
+  - Historical events, people, places, migrations, timelines, and toponym harvesting with approximate date support.
+- [x] **Step 7: Tangkhul Literature Module & Unified Language Archive Integration**
+  - Poetry, short stories, folk tales (*Khararchan*), drama (*Shongza*), riddles (*Paochirun*), and early prose translations.
+- [x] **Step 10: Full-Text Search (FTS5), Phonetic Matching & Unified Lexical Index**
+  - SQLite FTS5 integration, Soundex/Metaphone-adapted phonetic indexing, cross-domain querying, and provenance tracing.
+- [x] **Step 11: Dialectal Harmonization & Cross-Village Linguistic Alignment**
+  - Village-level dialect mapping, phonetic shift rules, multi-village lexical variants, and non-flattening harmonization.
+- [x] **Step 12: Native-Speaker Review Workflow & Lexicon Verification**
+  - Verification states (`pending`, `verified`, `needs_review`, `disputed`), reviewer attribution, and audit logs.
+- [x] **Step 13: Authorized Vocabulary Expansion & Source-Backed Lexicon Enrichment**
+  - Source-backed enrichment pipelines, citation-linked vocabulary expansion, and dialect-aware harvesting.
+- [x] **Step 14: Native-Speaker Validation, Multi-Reviewer Consensus & Community Governance**
+  - Multi-reviewer consensus algorithms, quorum requirements, dispute arbitration, and offline review package generation.
+- [x] **Step 15: Tangkhul Audio Corpus, Pronunciation Records & Permission-Aware Speech Data Infrastructure** *(Current)*
+  - Relational & FTS5 audio corpus schema, pronunciation variant linkage, zero-dependency audio validation, ethical consent state machine, metadata masking, and permission-enforced export engine.
 
 ---
 

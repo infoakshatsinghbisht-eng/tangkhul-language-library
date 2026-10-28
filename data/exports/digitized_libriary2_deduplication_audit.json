@@ -1,0 +1,36 @@
+{
+  "source_path": "F:\\tangkhul-language-libriary2",
+  "timestamp": "2026-10-28T04:36:12.747171+00:00",
+  "literature_audit": {
+    "raw_count": 2,
+    "deleted_duplicates_count": 0,
+    "retained_count": 2,
+    "deleted_records": []
+  },
+  "idioms_audit": {
+    "raw_count": 22,
+    "deleted_duplicates_count": 1,
+    "retained_count": 21,
+    "deleted_records": [
+      {
+        "id": "idiom_07",
+        "tangkhul": "Fa-phei mei-ka-chui tha-lak-li, kachi katha.",
+        "reason": "Exact duplicate of existing culture record CULT-PROV-004"
+      }
+    ]
+  },
+  "dictionary_audit": {
+    "raw_count": 6773,
+    "deleted_duplicates_count": 1,
+    "retained_count": 6772,
+    "deleted_records": [
+      {
+        "duplicate_id": 1543,
+        "original_id": 40,
+        "tangkhul": "hili ",
+        "english": "Here",
+        "reason": "Internal exact duplicate pair in source table"
+      }
+    ]
+  }
+}

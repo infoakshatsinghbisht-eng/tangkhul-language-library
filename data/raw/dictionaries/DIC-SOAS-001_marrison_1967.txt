@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: The Classification of the Naga Languages of North-East India (Tangkhul Comparative Lexicon)
+# Identifier: DIC-SOAS-001
+# Primary Creator / Lexicographer: G. E. Marrison
+# Publication Year: 1967
+# Publisher: School of Oriental and African Studies, University of London
+# Language Pair: Tangkhul-English
+# Dialect Variety: Ukhrul, Champhung, Maring
+# Source Classification: wordlist
+# License: Educational / Open Research
+# Permission Status: permitted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: The Classification of the Naga Languages of North-East India (Tangkhul Comparative Lexicon)
+ALTERNATE TITLE: Tangkhul Comparative Lexicon
+COMPILER / AUTHORS: G. E. Marrison
+YEAR: 1967
+PUBLISHING BODY: School of Oriental and African Studies, University of London
+DIALECT / VARIETY: Ukhrul, Champhung, Maring
+SOURCE IDENTIFIER: SOAS-Marrison-1967
+CANONICAL SOURCE URL: https://eprints.soas.ac.uk/29168/
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Researched by British comparative linguist Geoffrey E. Marrison at the School of Oriental and African Studies (SOAS), University of London, and submitted in 1967 as a doctoral thesis. Volume II contains exhaustive comparative lexical matrices mapping hundreds of basic core vocabulary items across all major Naga groups. Establishes the phonological and lexical affinities between Tangkhul, Champhung, Maring, and the central Tibeto-Burman branch.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Systematic phonemic notation based on IPA principles with proto-Naga comparisons and reflexes for initial consonants, vowels, and final nasals and stops (-k, -t, -p, -ng, -n, -m).
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. mik (noun) -- eye, organ of vision [Citation: p. 142]
+   Context / Example: Mik theikhavai (Perceiving with one's eyes).
+
+ENTRY  2. khamor (noun) -- mouth, speech, oral orifice [Citation: p. 143]
+   Context / Example: Khamor tui (Spoken words of human discourse).
+
+ENTRY  3. ha (noun) -- tooth [Citation: p. 145]
+   Context / Example: Ha kachang (Sound and strong teeth).
+
+ENTRY  4. malei (noun) -- tongue [Citation: p. 146]
+   Context / Example: Malei kapaw (Tongue articulating spoken words).
+
+ENTRY  5. khana (noun) -- ear, auditory organ [Citation: p. 147]
+   Context / Example: Khana khulu (Attentive ears listening).
+
+ENTRY  6. pang (noun) -- arm, hand [Citation: p. 148]
+   Context / Example: Pang eina (Working with hands).
+
+ENTRY  7. phei (noun) -- foot, lower extremity, leg [Citation: p. 150]
+   Context / Example: Phei eina (Journeying on foot).
+
+ENTRY  8. mei (noun) -- fire, hearth burning embers [Citation: p. 152]
+   Context / Example: Mei katum (Kindling the village fire).
+
+ENTRY  9. tara (noun) -- water, liquid stream [Citation: p. 154]
+   Context / Example: Tara chup (Drinking spring water).
+
+ENTRY 10. ngalung (noun) -- stone, monolith, rock [Citation: p. 156]
+   Context / Example: Ngalung kachui (A great erected stone monolith).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Educational / Open Research
+Permission Tier: permitted
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. G. E. Marrison (1967). The Classification of the Naga Languages of North-East India (Tangkhul Comparative Lexicon). School of Oriental and African Studies, University of London.
+=======================================================================

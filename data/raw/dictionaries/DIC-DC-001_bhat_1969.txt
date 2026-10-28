@@ -1,0 +1,73 @@
+# Complete Digital Lexicographical Record: Tankhur Naga Vocabulary
+# Identifier: DIC-DC-001
+# Primary Creator / Lexicographer: D. N. S. Bhat
+# Publication Year: 1969
+# Publisher: Deccan College Postgraduate and Research Institute, Poona
+# Language Pair: Tangkhul-English
+# Dialect Variety: Hunphun (Ukhrul)
+# Source Classification: wordlist
+# License: Copyright Deccan College
+# Permission Status: restricted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Tankhur Naga Vocabulary
+ALTERNATE TITLE: Tangkhul Naga Vocabulary
+COMPILER / AUTHORS: D. N. S. Bhat
+YEAR: 1969
+PUBLISHING BODY: Deccan College Postgraduate and Research Institute, Poona
+DIALECT / VARIETY: Hunphun (Ukhrul)
+SOURCE IDENTIFIER: Deccan-Centenary-67
+CANONICAL SOURCE URL: https://glottolog.org/resource/reference/id/29671
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Published in 1969 by Deccan College Postgraduate and Research Institute in Poona (Publication No. 67) by linguist D. N. S. Bhat. Consists of xii + 100 pages detailing the phonology and lexical elicitation collected from a native speaker from Hunphun (the ancestral parent village of Ukhrul). Features rigorous structuralist phonemic notation, tonal descriptions, and comparative glottal analysis.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Employs IPA structuralist phonemic notation indicating vowel quality (ǝ, ɛ, ɔ), aspirates (pʰ, tʰ, kʰ), retroflex/palatal contours, and high, mid, and low tonal registers.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (12 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. khamatha (adj) -- beautiful, pleasant, agreeable [Citation: p. 14] [Alt: mǝkhǝtʰa]
+   Context / Example: a-ram mǝkhǝtʰa (His village is pleasant and fair).
+
+ENTRY  2. shim (noun) -- house, roofed dwelling, shelter [Citation: p. 28] [Alt: sʰim]
+   Context / Example: sʰim tʰa-ra (Newly erected dwelling).
+
+ENTRY  3. ngalung (noun) -- stone, megalith, rock monument [Citation: p. 33] [Alt: ŋǝ-luŋ]
+   Context / Example: ŋǝluŋ kǝ-tʰi (Erected stone monument).
+
+ENTRY  4. phei (noun) -- leg, lower limb, foot [Citation: p. 42] [Alt: pʰɛj]
+   Context / Example: pʰɛj eina (Journeying on foot).
+
+ENTRY  5. pang (noun) -- arm, hand, upper limb [Citation: p. 39] [Alt: paŋ]
+   Context / Example: paŋ kǝ-sa (Handmade crafted artifact).
+
+ENTRY  6. mik (noun) -- eye, organ of vision [Citation: p. 36]
+   Context / Example: mik tʰɛj (Perceiving with one's eyes).
+
+ENTRY  7. khana (noun) -- ear, auditory organ [Citation: p. 24] [Alt: kʰǝ-na]
+   Context / Example: kʰǝna kʰu-lu (Hearing attentively with ears).
+
+ENTRY  8. tara (noun) -- water, natural liquid stream [Citation: p. 48] [Alt: tǝ-ra]
+   Context / Example: tǝra cʰup (Drinking spring water).
+
+ENTRY  9. mei (noun) -- flame, embers, hearth fire [Citation: p. 35] [Alt: mɛj]
+   Context / Example: mɛj kǝ-tum (Kindling the hearth embers).
+
+ENTRY 10. kaphung (noun) -- hill, elevation, mountain ridge [Citation: p. 26] [Alt: kǝ-pʰuŋ]
+   Context / Example: kǝpʰuŋ kǝ-cʰuj (Climbing the high ridge).
+
+ENTRY 11. yarra (noun) -- youth festival society, club [Citation: p. 55] [Alt: jǝr-ra]
+   Context / Example: jǝrra pʰǝ-nit (Youth festival celebrations).
+
+ENTRY 12. khamor (noun) -- mouth, oral cavity, spoken voice [Citation: p. 25] [Alt: kʰǝ-mor]
+   Context / Example: kʰǝmor tʰot (The sound of the human voice).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Copyright Deccan College
+Permission Tier: restricted
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. D. N. S. Bhat (1969). Tankhur Naga Vocabulary. Deccan College Postgraduate and Research Institute, Poona.
+=======================================================================

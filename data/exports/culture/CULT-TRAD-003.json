@@ -1,0 +1,43 @@
+{
+  "id": "CULT-TRAD-003",
+  "resource_type": "culture",
+  "title": "Seichan Kashan Wraparound Skirt",
+  "title_translation": "Traditional Handwoven Women's Skirt",
+  "creator": "Tangkhul Women Weavers",
+  "year": 1977,
+  "publisher": "Traditional Craft (Horam 1977)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "tradition",
+  "subcategory": "attire",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-Textile-Seichan",
+  "license": "Traditional Cultural Expression",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-TRAD-003_seichan_kashan_skirt.txt",
+  "verification_status": "verified",
+  "notes": "Intricately patterned wraparound skirt (Kashan) featuring ancestral motifs, traditionally worn by women during cultural gatherings and dance performances.",
+  "indigenous_tangkhul_text": [
+    "Seichan Kashan kazei katha shanaobingwui pheichakli.",
+    "Kashan wui wonri kaphung won thada, Tangkhul ngalanao won.",
+    "Pheichak laali ngasoda kashan kaza, ngashan thotli ringpha."
+  ],
+  "english_translation_text": [
+    "The Seichan Kashan wraparound skirt is worn with elegance in traditional festival dances.",
+    "Patterned with vibrant ancestral motifs resembling mountain wild blossoms.",
+    "Swirling gracefully in the Pheichak dance, honoring the living heritage of our ancestors."
+  ],
+  "procedural_stages": [
+    "1. Weaving dense black and deep red cotton canvas on backstrap loom.",
+    "2. Incorporating supplementary weft geometric bands representing nature, fauna, and stars.",
+    "3. Fitting borders with reinforced selvedge for vigorous ceremonial dance movement.",
+    "4. Dressing by wrapping around waist with secure embroidered sash."
+  ],
+  "ceremonial_participants": [
+    "Tangkhul Women",
+    "Youth Dance Troupes",
+    "Weavers"
+  ],
+  "seasonal_timing": "Festival dances (Pheichak), civic celebrations, and cultural pageants"
+}

@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Comparative Vocabulary of the Naga Tribes of Manipur (Tangkhul Section)
+# Identifier: DIC-HIST-005
+# Primary Creator / Lexicographer: T. C. Hodson
+# Publication Year: 1911
+# Publisher: Macmillan and Co., London
+# Language Pair: Tangkhul-English
+# Dialect Variety: Ukhrul / Hundung
+# Source Classification: wordlist
+# License: Public Domain
+# Permission Status: public_domain
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Comparative Vocabulary of the Naga Tribes of Manipur (Tangkhul Section)
+ALTERNATE TITLE: Comparative Vocabulary of the Naga Tribes of Manipur
+COMPILER / AUTHORS: T. C. Hodson
+YEAR: 1911
+PUBLISHING BODY: Macmillan and Co., London
+DIALECT / VARIETY: Ukhrul / Hundung
+SOURCE IDENTIFIER: Hodson-NTM-1911-App
+CANONICAL SOURCE URL: https://archive.org/details/nayatribesofmani00hodsrich
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Published in 1911 by Macmillan and Co. in London as the linguistic and lexicographical appendix to T. C. Hodson's seminal ethnography 'The Naga Tribes of Manipur'. Systematically compares vocabularies of Tangkhul, Mao, Maram, Kabui, and Maring across standardized semantic lists: numerals, anatomical terms, fauna, agriculture, religion, kin relations, and traditional technology.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Harmonizes phonetic transcriptions across multiple hill languages, providing an invaluable early 20th-century comparative baseline for assessing phonetic correspondence and loanwords.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. machi (noun) -- salt, mineral brine salt cake currency [Citation: p. 182]
+   Context / Example: Machi kongwui machi (Boiled salt cakes from the natural brine springs).
+
+ENTRY  2. tarang (noun) -- sacred forked sacrificial post, monument of merit [Citation: p. 185]
+   Context / Example: Tarang kaphan (Erecting the forked sacrificial post).
+
+ENTRY  3. maran (noun) -- feast of merit, social elevation festival [Citation: p. 186] [Alt: maran kasa]
+   Context / Example: Maran kasa (Performing the great feast of merit cycle).
+
+ENTRY  4. lengcheng (noun) -- crossed roof-horns of prominent house [Citation: p. 188]
+   Context / Example: Lengcheng shim (The roof-horned noble dwelling).
+
+ENTRY  5. khamasit (noun) -- sacred taboo, genna prohibition rite [Citation: p. 190]
+   Context / Example: Khamasit kachiphun (Observing community genna ritual abstention).
+
+ENTRY  6. longshim (noun) -- clan youth dormitory, village educational house [Citation: p. 192]
+   Context / Example: Longshimli kapam (Residing and learning in the dormitory).
+
+ENTRY  7. luira (noun) -- spring seed-sowing festival, first agrarian feast [Citation: p. 194]
+   Context / Example: Luira phanit (The spring seed-sowing celebration).
+
+ENTRY  8. chumpha (noun) -- post-harvest granary festival, blessing of harvest [Citation: p. 195]
+   Context / Example: Chumpha phanit (The granary consecration feast).
+
+ENTRY  9. mangkhap (noun) -- post-transplantation resting festival [Citation: p. 196]
+   Context / Example: Mangkhap phanit (Resting feast following paddy transplantation).
+
+ENTRY 10. thisham (noun) -- feast of departure for ancestral souls [Citation: p. 198]
+   Context / Example: Thisham phanit (Ceremony guiding departed ancestral souls to the beyond).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Public Domain
+Permission Tier: public_domain
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. T. C. Hodson (1911). Comparative Vocabulary of the Naga Tribes of Manipur (Tangkhul Section). Macmillan and Co., London.
+=======================================================================

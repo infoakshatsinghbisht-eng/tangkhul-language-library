@@ -1,0 +1,2327 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R] /Count 22 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 2011 >>
+stream
+BT
+50 780 Td
+/F2 20 Tf
+(Tangkhul Language Library \(Libriary2 Digitized Compendium\)) Tj
+0 -24 Td
+/F2 13 Tf
+(Trilingual Lexicon, Traditional Literature, Idioms, Grammar & Orthography) Tj
+0 -17 Td
+/F1 10 Tf
+(Source: F:\\tangkhul-language-libriary2 Archive) Tj
+0 -14 Td
+/F1 10 Tf
+(Digitized & Verified: 2026-10-28 04:36:12 UTC) Tj
+0 -14 Td
+/F1 10 Tf
+(Standard: Clean Latin-1 & English-Tangkhul Scholarly Compendium) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 12 Tf
+(Digitized Collection Summary:) Tj
+0 -16 Td
+/F1 10 Tf
+(  * Literature & Traditional Folk Works: 2 unique works) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Classical Idioms & Moral Proverbs:    21 unique proverbs \(1 duplicate purged\)) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Trilingual Dictionary & Lexicon:      6772 unique entries \(1 duplicate purged\)) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Comprehensive Grammar Rules:          5 linguistic sections) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Alphabet, Vowels & Tonal Registers:   6 phonological sections) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 11 Tf
+(Table of Contents:) Tj
+0 -15 Td
+/F1 10 Tf
+(  Section 1: Data Deduplication & Hygiene Audit Report) Tj
+0 -14 Td
+/F1 10 Tf
+(  Section 2: Tangkhul Alphabet, Phonetics & Tonal Inventory) Tj
+0 -14 Td
+/F1 10 Tf
+(  Section 3: Tangkhul Grammar, Morphology & Syntactic Structures) Tj
+0 -14 Td
+/F1 10 Tf
+(  Section 4: Traditional Literature & Festive Ballads \(Luklam & Haorao\)) Tj
+0 -14 Td
+/F1 10 Tf
+(  Section 5: Classical Tangkhul Proverbs & Idioms \(21 Unique Entries\)) Tj
+0 -14 Td
+/F1 10 Tf
+(  Section 6: Core Conversational Vocabulary & Everyday Phrases) Tj
+0 -14 Td
+/F1 10 Tf
+(  Section 7: Rev. William Pettigrew 1918 Historical Lexical Index) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F1 9 Tf
+(Tangkhul Language Preservation Project - Digital Library Archive) Tj
+0 -13 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 1678 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 1: Data Deduplication & Hygiene Audit) Tj
+0 -20 Td
+/F1 10 Tf
+(Mandate: Detect, purge, and verify all duplicate records prior to digitization.) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 12 Tf
+(1. Proverbs & Idioms Deduplication:) Tj
+0 -16 Td
+/F1 10 Tf
+(  * Total Raw Idioms in Source: 22) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Duplicates Identified & DELETED: 1) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Clean Retained Idioms: 21) Tj
+0 -14 Td
+/F1 9 Tf
+(    - DELETED ID [idiom_07]: 'Fa-phei mei-ka-chui tha-lak-li, kachi ka...') Tj
+0 -13 Td
+/F1 9 Tf
+(      Reason: Exact duplicate of existing culture record CULT-PROV-004) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(2. Dictionary Lexical Words Deduplication:) Tj
+0 -16 Td
+/F1 10 Tf
+(  * Total Raw Words in Source Table: 6773) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Duplicates Identified & DELETED: 1) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Clean Retained Unique Entries: 6772) Tj
+0 -14 Td
+/F1 9 Tf
+(    - DELETED ID [1543]: Tangkhul: 'hili ', English: 'Here') Tj
+0 -13 Td
+/F1 9 Tf
+(      Reason: Internal exact duplicate pair in source table \(Original ID: 40\)) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(3. Literature & Folk Works Verification:) Tj
+0 -16 Td
+/F1 10 Tf
+(  * Total Raw Works: 2) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Duplicate Works Detected: 0 \(100% Unique\)) Tj
+0 -14 Td
+/F1 10 Tf
+(  * Retained Works: 2 \(Both novel to repository\)) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 10 Tf
+(Hygiene Status: AUDIT PASSED -- Zero duplicate records retained in export bundle.) Tj
+0 -14 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 10 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 3138 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 2: Tangkhul Alphabet & Phonology) Tj
+0 -20 Td
+/F1 10 Tf
+(Script: Latin \(Hunterian transliteration as adapted for Tangkhul Naga\)) Tj
+0 -14 Td
+/F1 9 Tf
+(Description: Tangkhul Naga language is written in the Roman script with specific ph) Tj
+0 -13 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 12 Tf
+(Vowels \(Vowel Length & Quality Distinctions\):) Tj
+0 -16 Td
+/F1 9 Tf
+(  * a   IPA: /a/    | Sound: as in father \(short\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  * a   IPA: /a:/   | Sound: as in father \(elongated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  * e   IPA: /e/    | Sound: as in bet, get) Tj
+0 -13 Td
+/F1 9 Tf
+(  * i   IPA: /i/    | Sound: as in machine, pin) Tj
+0 -13 Td
+/F1 9 Tf
+(  * o   IPA: /o/    | Sound: as in note, go) Tj
+0 -13 Td
+/F1 9 Tf
+(  * u   IPA: /u/    | Sound: as in rule, boot) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ?   IPA: /?/    | Sound: high back unrounded vowel \(found in Ukhrul Tangkhul\)) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(Diphthongs & Glides:) Tj
+0 -16 Td
+/F1 9 Tf
+(  * ai   Sound: as 'ie' in lie / pie) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ao   Sound: as 'ow' in how / house) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ei   Sound: as in feign, eight) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ui   Sound: as 'ee' in between or French 'ui') Tj
+0 -13 Td
+/F1 9 Tf
+(  * oe   Sound: as 'oy' in boy) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(Consonant Inventory & Special Digraphs:) Tj
+0 -16 Td
+/F1 9 Tf
+(  * p    Type: voiceless bilabial stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ph   Type: aspirated voiceless bilabial stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * t    Type: voiceless dental/alveolar stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * th   Type: aspirated voiceless dental stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * k    Type: voiceless velar stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * kh   Type: aspirated voiceless velar stop) Tj
+0 -13 Td
+/F1 9 Tf
+(  * c / ch Type: voiceless postalveolar affricate) Tj
+0 -13 Td
+/F1 9 Tf
+(  * s    Type: voiceless alveolar fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * sh   Type: voiceless postalveolar fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * h    Type: voiceless glottal fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * m    Type: bilabial nasal) Tj
+0 -13 Td
+/F1 9 Tf
+(  * n    Type: alveolar nasal) Tj
+0 -13 Td
+/F1 9 Tf
+(  * ng \(?\) Type: velar nasal \(as in 'sing'\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  * l    Type: alveolar lateral approximant) Tj
+0 -13 Td
+/F1 9 Tf
+(  * r    Type: alveolar trill/tap) Tj
+0 -13 Td
+/F1 9 Tf
+(  * v    Type: labiodental voiced fricative) Tj
+0 -13 Td
+/F1 9 Tf
+(  * w    Type: voiced labial-velar approximant) Tj
+0 -13 Td
+/F1 9 Tf
+(  * y    Type: palatal approximant) Tj
+0 -13 Td
+/F1 9 Tf
+(  * z    Type: voiced alveolar fricative) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(Tone System & Pitch Registers:) Tj
+0 -16 Td
+/F1 9 Tf
+(  - Tone: High Tone \(Rising\) \(´ or high pitch\) -- Rising high pitch. E.g. 'Mi' \(to give\) with h) Tj
+0 -13 Td
+/F1 9 Tf
+(  - Tone: Mid Tone \(Level\) \(unmarked\) -- Neutral standard level tone without rise or f) Tj
+0 -13 Td
+/F1 9 Tf
+(  - Tone: Low Tone \(Falling\) \(` or low pitch\) -- Deep falling pitch. E.g. 'Kahu?' \(neck\) vs 'K) Tj
+0 -13 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 12 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 1078 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 3: Tangkhul Grammar & Syntactic Rules) Tj
+0 -20 Td
+/F1 10 Tf
+(Typology: Subject-Object-Verb \(SOV\) agglutinative language structure.) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 12 Tf
+(1. Noun Gender System:) Tj
+0 -16 Td
+/F1 9 Tf
+(  Description: Tangkhul distinguishes natural gender for human beings and animals usi) Tj
+0 -13 Td
+/F1 9 Tf
+(  Human Gender Suffixes: Masc: -a / mayara | Fem: -va / ngalava) Tj
+0 -13 Td
+/F1 9 Tf
+(  Animal Gender Suffixes: Masc: -va \(e.g. Fa-va: male dog\) | Fem: -la / -va \(e.g. Fa-la: female dog\)) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(2. Case Marking Particles:) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(3. Verb Tense Suffixes & Aspects:) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 12 Tf
+(4. Syntax & Word Order:) Tj
+0 -16 Td
+/F1 9 Tf
+(  Word Order: SOV \(Subject-Object-Verb\)) Tj
+0 -13 Td
+/F1 9 Tf
+(  Interrogative Particle: 'khalei / haola') Tj
+0 -13 Td
+/F1 9 Tf
+(  Negation Prefix/Suffix: 'ma- / -mana') Tj
+0 -13 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 14 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 1468 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 4A: Traditional Folktale -- Luklam Phila-vawui Tui) Tj
+0 -20 Td
+/F2 12 Tf
+(English Title: The Story of the Chieftess of Luklam) Tj
+0 -16 Td
+/F1 10 Tf
+(Genre: traditional_folktale | Provenance: Luklam Village Oral Lore) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 11 Tf
+(Original Tangkhul Literary Text:) Tj
+0 -15 Td
+/F1 10 Tf
+(  A-chila kha Luklam phila-vashi chi-na a-shi-tui lu-ri-bam. Chi-wui eina mi-) Tj
+0 -14 Td
+/F1 10 Tf
+(  na a-li ngashit-laga shim-khun-li pam-ngasak-sai. Phila-va chi-na awun sa-) Tj
+0 -14 Td
+/F1 10 Tf
+(  bam-lala, a-wui ngashao-ngachei-wui vang mi-bingna a-li horkahai.) Tj
+0 -14 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 11 Tf
+(English Literary Translation & Summary:) Tj
+0 -15 Td
+/F1 10 Tf
+(  An ancient Tangkhul tale from Luklam village describing the reign of a) Tj
+0 -14 Td
+/F1 10 Tf
+(  proud female chief \(Phila-va\). When she became overly haughty, the) Tj
+0 -14 Td
+/F1 10 Tf
+(  villagers held counsel and left the village, leaving her isolated with her) Tj
+0 -14 Td
+/F1 10 Tf
+(  pride.) Tj
+0 -14 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 11 Tf
+(Moral & Didactic Wisdom:) Tj
+0 -15 Td
+/F1 10 Tf
+(  English: Haughtiness and arrogance alienate true friends.) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F1 9 Tf
+(Preserved in Tangkhul Language Library Digital Archive) Tj
+0 -13 Td
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 16 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 1419 >>
+stream
+BT
+50 780 Td
+/F2 16 Tf
+(Section 4B: Traditional Folk Song -- Lu Khayei: Haorao Phanit Lu) Tj
+0 -20 Td
+/F2 12 Tf
+(English Title: Traditional Tangkhul Folk Song: Haorao Festival Song) Tj
+0 -16 Td
+/F1 10 Tf
+(Genre: folk_song | Theme: Love & Seasonal Festivity) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F2 11 Tf
+(Traditional Tangkhul Lyric Stanzas:) Tj
+0 -15 Td
+/F1 10 Tf
+(    Kaphung ngalemli leikashi won,) Tj
+0 -14 Td
+/F1 10 Tf
+(    Ngashun ngaya i nangli ngacham.) Tj
+0 -14 Td
+/F1 10 Tf
+(    I-wui ningli kashak leikashi,) Tj
+0 -14 Td
+/F1 10 Tf
+(    Zimik-sho eina zingkum shurda.) Tj
+0 -14 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 11 Tf
+(English Poetic Translation & Overview:) Tj
+0 -15 Td
+/F1 10 Tf
+(  A traditional festive folk lyric singing of love blooming amidst the green) Tj
+0 -14 Td
+/F1 10 Tf
+(  hills, longing through day and night from sunrise to every turning year.) Tj
+0 -14 Td
+/F1 10 Tf
+() Tj
+0 -14 Td
+/F2 11 Tf
+(Cultural & Seasonal Context:) Tj
+0 -15 Td
+/F1 10 Tf
+(  Sung during Haorao harvest celebrations expressing youthful romantic longing) Tj
+0 -14 Td
+/F1 10 Tf
+(  amidst the green hills, honoring steadfast fidelity through changing seasons.) Tj
+0 -14 Td
+/F1 10 Tf
+(---------------------------------------------------------------------------) Tj
+0 -14 Td
+/F1 9 Tf
+(Preserved in Tangkhul Language Library Digital Archive) Tj
+0 -13 Td
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 18 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2867 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 5: Traditional Proverbs & Idioms \(Part 1 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Rev. William Pettigrew 1918 Grammar \(pp. 116-120\) -- Deduplicated & Verified) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 10 Tf
+( 1. [idiom_01] Ra-chay-li theingui-shai-lu, rit-linga-lung khang-san-lu, kachi k) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Roasting fruit when thirsty, or putting a stone on an already heavy ) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to a person who adds to his misery by repeated silly actions) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Adding fuel to fire / Adding insult to injury) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 2. [idiom_02] Par-ki kaja-na shup-a, shup-ki kaja-na par-a, kachi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Closing fist when one ought to open it, and opening when one ought t) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to an ambitious, greedy person who thinks he can get a lot f) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Covetousness over-reacheth itself) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 3. [idiom_03] Khamatha sa-gi ji-la fa nga-sa-thui-ho-wa, kachi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Intending to do something good, but turning it into a complete mess.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to one who is unfortunate in any attempt to do something goo) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: The road to hell is paved with good intentions) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 4. [idiom_04] Nga-ley-akha shi-ley-tha, nga-yur-akha nga-wur tha, yay-akha nga-) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: If united, like wasps' nest on rock; if divided, like moles' nest; i) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Unity brings unbreakable strength; division leads to instant ruin; u) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: United we stand, divided we fall) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 5. [idiom_05] Tho-rachi-than thri, thai-ra chi-than tho, kachi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Expecting a feast and getting nothing, and expecting nothing but get) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to unpredictable fortunes: receiving when least expected, an) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Expect the unexpected) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 6. [idiom_06] Fa-na sajao shim-khun rik-kha ma-shai-pha-lung kachi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: A dog trying to eat an entire pounding receptacle full of dry sajao ) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to a person who attempts an impossible task beyond their cap) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Biting off more than one can chew) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 20 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 2775 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 5: Traditional Proverbs & Idioms \(Part 2 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Rev. William Pettigrew 1918 Grammar \(pp. 116-120\) -- Deduplicated & Verified) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 10 Tf
+( 7. [idiom_08] Pur-hum-na ka-phung min-ta-akha khi za-si-do ji, ka-tum-li yon-sa) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Bull frogs crying 'what shall we eat?' when mud collapses, and 'what) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to a chronically ungrateful person who is never satisfied wi) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Nothing is enough to the man for whom enough is too little) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 8. [idiom_09] Fa-na pai-laga har-na kha-yaya katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Fowls pecking at waste and scattering dirt all over the yard.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to a careless person who does tasks haphazardly and spreads ) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: A careless hand spoils the land) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+( 9. [idiom_10] Zing-sho phi-lava-li a-chon ho-la a-mai-li sao-ka-ta katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: The eastern chieftess addressed reverently as 'achon', becoming haug) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Pride and haughtiness lead inevitably to downfall.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Pride hath a fall) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(10. [idiom_11] Nga-wur la chuin-akha a-rang-kham ma-shung kachi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Too many moles leaving the opening of their burrow wide open.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to someone who leaves opportunities open but fails to seize ) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Opportunity seldom knocks twice) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(11. [idiom_12] Si-lui-li fa-na sha-lala a-kha mei ma-ka-kha-yit katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: A dog barking wildly at a buffalo, while the buffalo does not even f) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to being completely unperturbed by barking critics or minor ) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: The dogs bark, but the caravan moves on) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(12. [idiom_13] Ma-lum tha-ta cham-ka-thi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: White ants enjoying flight in rain, only to die moments later.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to fleeting, short-lived moments of joy in a difficult life.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Brief is the splendour of the moth) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 22 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2700 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 5: Traditional Proverbs & Idioms \(Part 3 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Rev. William Pettigrew 1918 Grammar \(pp. 116-120\) -- Deduplicated & Verified) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 10 Tf
+(13. [idiom_14] Pa-wung ma-shui-thei-won katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: An owl yearning to eat the fruit of Ma-shui-thei, discovering it onl) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Applies to someone whose hopes and expectations are thoroughly crush) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Hopes dashed to the ground) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(14. [idiom_15] Hui-ki kaja-na thak, thak-ki kaja-na hui, kachi katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: The slow one finishes first, while the hasty one falls behind.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Patience and persistence always triumph over reckless speed.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Slow and steady wins the race) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(15. [idiom_16] Sei ka-homa-li shao-ki chila sei ka-homa-na ka-shao katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: The cattle owner seeking to punish the cow-keeper, but gets beaten b) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Plotting harm against another and falling into one's own trap.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Digging a pit and falling into it yourself) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(16. [idiom_17] Shan-kha kha-mor-li ba-chang yong-ka-sang katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: A fly willingly flying straight into a tiger's wide mouth.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Trusting a dishonest or predatory person with one's wealth or secret) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Walking into the lion's den) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(17. [idiom_18] Na-yong shim-sak katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Monkeys daily resolving to build a shelter, but postponing it foreve) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Continuous procrastination that prevents ever finishing necessary wo) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Procrastination is the thief of time) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(18. [idiom_19] Na-yong kha-ma katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: A monkey scratching a tiny itch until it transforms into a massive w) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Blowing minor grievances out of proportion into major disputes.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Scratching a mosquito bite into an ulcer) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 24 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 1500 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 5: Traditional Proverbs & Idioms \(Part 4 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Rev. William Pettigrew 1918 Grammar \(pp. 116-120\) -- Deduplicated & Verified) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 10 Tf
+(19. [idiom_20] Har-va eina ra-la-wui li kha-sa-nui ka-hi.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: A dance competition between a cock and a snipe bird.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: A selfish deal where one partner grabs all advantages and dumps the ) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Lion's share for the sly) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(20. [idiom_21] Pao-yi ra-khan shai katha.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Praising the delicious taste of Powi village beer dregs without havi) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: Making grand authoritative claims on matters one knows absolutely no) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Talking through one's hat) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(21. [idiom_22] Lat-shai tha-lak-a.) Tj
+0 -14 Td
+/F1 9 Tf
+(    Literal: Possessing a tongue as unnaturally long as an ant-eater bird.) Tj
+0 -13 Td
+/F1 9 Tf
+(    Application: An incorrigible gossip or habitual liar whose tales stretch endlessl) Tj
+0 -13 Td
+/F1 9 Tf
+(    Parallel: Having a tongue that runs on wheels) Tj
+0 -13 Td
+/F1 9 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 26 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3305 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 6: Core Conversational Vocabulary \(Part 1 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Trilingual Basic Lexicon -- Deduplicated Conversational Vocabulary) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(#   TANGKHUL                  ENGLISH                      CATEGORY      ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(1   Mahairareo!               Hi / Hello                   greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(2   Leikhaya ngathor!         Good morning!                greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(3   Maringphali Khalei?       How are you?                 greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(4   Ringphadalei              I am fine                    greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(5   Makathei sanghairakho!    Long time no see!            greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(6   Nali aming khipa ho?      What is your name?           greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(7   Iwui aming [Name] hoi     My name is [Name]            greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(8   Na khikha nao khalei?     Where are you from?          greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(9   I Ukhrul wui eina na      I'm from Ukhrul              greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(10  Na Tangkhul tui mamatui   Do you speak Tangkhul?       greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(11  Mha / Maningmanei         Yes / No                     greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(12  Ningshi ngaroksei         You're welcome               greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(13  I nali leishiya           I love you                   greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(14  I bhap taya               I understand                 greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(15  I bhap matamana           I don't understand           greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(16  Yonhaira                  I am sorry                   greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(17  Na maphazahaira khalei?   Have you eaten?              greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(18  Samphangnaosei!           Goodbye / See you again      greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(19  Mangphameisei             Good night                   greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(20  Ningshinahaire            Thank you                    greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(21  Ngaoshikkan               I miss you                   greetings     ) Tj
+0 -13 Td
+/F1 9 Tf
+(22  Akui                      Head                         body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(23  Kuisam                    Hair                         body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(24  Amai                      Face                         body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(25  Apang                     Hand                         body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(26  Amik                      Eye                          body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(27  Akhana                    Ear                          body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(28  Natang                    Nose                         body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 28 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3309 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 6: Core Conversational Vocabulary \(Part 2 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Trilingual Basic Lexicon -- Deduplicated Conversational Vocabulary) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(#   TANGKHUL                  ENGLISH                      CATEGORY      ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(29  Khamor                    Mouth                        body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(30  Aha                       Tooth                        body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(31  Aphei                     Foot / Leg                   body_parts    ) Tj
+0 -13 Td
+/F1 9 Tf
+(32  I                         I                            pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(33  Na                        You                          pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(34  Mayara pa                 He                           pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(35  Ngalavapa                 She                          pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(36  Athum                     It / They                    pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(37  Ithum                     We                           pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(38  Hipahi                    This                         pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(39  Chipachi                  That                         pronoun       ) Tj
+0 -13 Td
+/F1 9 Tf
+(40  Hili                      Here                         adverb        ) Tj
+0 -13 Td
+/F1 9 Tf
+(41  Chili                     There                        adverb        ) Tj
+0 -13 Td
+/F1 9 Tf
+(42  Ava                       Father                       family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(43  Ava                       Mother                       family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(44  Awa                       Grandfather                  family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(45  Ayi                       Grandmother                  family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(46  Amei                      Brother \(older\)              family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(47  Achon                     Sister \(older\)               family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(48  Nao mayara                Son                          family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(49  Nao ngalava               Daughter                     family        ) Tj
+0 -13 Td
+/F1 9 Tf
+(50  Mibing                    People                       people        ) Tj
+0 -13 Td
+/F1 9 Tf
+(51  Mayarnao                  Male / Man                   people        ) Tj
+0 -13 Td
+/F1 9 Tf
+(52  Shanao                    Female / Woman               people        ) Tj
+0 -13 Td
+/F1 9 Tf
+(53  Ngasotnao                 Friend                       people        ) Tj
+0 -13 Td
+/F1 9 Tf
+(54  Oja                       Teacher                      people        ) Tj
+0 -13 Td
+/F1 9 Tf
+(55  Katamnao                  Student                      people        ) Tj
+0 -13 Td
+/F1 9 Tf
+(56  Ngashun                   Day                          nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 30 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3325 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 6: Core Conversational Vocabulary \(Part 3 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Trilingual Basic Lexicon -- Deduplicated Conversational Vocabulary) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(#   TANGKHUL                  ENGLISH                      CATEGORY      ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(57  Ngaya                     Night                        nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(58  Zingkum                   Year                         nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(59  Zimik                     Sun                          nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(60  Kachang                   Moon                         nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(61  Sira                      Stars                        nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(62  Mei                       Fire                         nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(63  Tara                      Water                        nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(64  Masi                      Air / Wind                   nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(65  Okathui                   Earth / World                nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(66  Kazingram                 Sky / Heaven                 nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(67  Ngayi                     Sea / Ocean                  nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(68  Kaphung                   Mountain / Hill              nature        ) Tj
+0 -13 Td
+/F1 9 Tf
+(69  Akha                      One \(1\)                      numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(70  Khani                     Two \(2\)                      numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(71  Kathum                    Three \(3\)                    numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(72  Mati                      Four \(4\)                     numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(73  Panga                     Five \(5\)                     numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(74  Tharuk                    Six \(6\)                      numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(75  Shini                     Seven \(7\)                    numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(76  Chisat                    Eight \(8\)                    numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(77  Chiko                     Nine \(9\)                     numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(78  Thara                     Ten \(10\)                     numbers       ) Tj
+0 -13 Td
+/F1 9 Tf
+(79  Fa                        Dog                          animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(80  Lami                      Cat                          animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(81  Hok                       Pig                          animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(82  Simuk                     Cow / Cattle                 animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(83  Yao                       Sheep                        animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(84  Sigui                     Horse                        animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 32 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 1559 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 6: Core Conversational Vocabulary \(Part 4 of 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Source: Trilingual Basic Lexicon -- Deduplicated Conversational Vocabulary) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(#   TANGKHUL                  ENGLISH                      CATEGORY      ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(85  Shiwok                    Mouse / Rat                  animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(86  Har anao                  Chicken / Chick              animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(87  Vanao                     Bird                         animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(88  Khai                      Fish                         animals       ) Tj
+0 -13 Td
+/F1 9 Tf
+(89  Kazik                     Black                        colors        ) Tj
+0 -13 Td
+/F1 9 Tf
+(90  Kachar                    White                        colors        ) Tj
+0 -13 Td
+/F1 9 Tf
+(91  Naopai                    Yellow                       colors        ) Tj
+0 -13 Td
+/F1 9 Tf
+(92  Khamatek                  Green                        colors        ) Tj
+0 -13 Td
+/F1 9 Tf
+(93  Kahung                    Red                          colors        ) Tj
+0 -13 Td
+/F1 9 Tf
+(94  Khamaying                 Blue                         colors        ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 34 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3521 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 1\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 1 to 30 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(khayak khayasak        Abandoner                        p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khayak ngasak kahai    Abase                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khayak kha?asak        Abased                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(aman suikata , suikat  Abash                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sha -kba?asak          Abate                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(vuk , monkhui , aphur  Abbreviate                       p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ni?kakachai            Abdomen                          p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kapam                  Abhor                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(awor , payshap , sash  Abide                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(phok - kahai           Ability                          p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sakashap               Abjure                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ashi -shim             Able                             p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ni? kachai             Abode                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ni? kakachai           Abominable                       p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(= li hisho? , chishon  Abominate                        p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(amai tarer , kakashui  About                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(lak sada               Abrupt                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngathumta yamkathui    Abruptly                         p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(makaka , makhalei      Abscond                          p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ning kashïman          Absent                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kaikhamiya , pheokham  Absent minded                    p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakashui               Absolve                          p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khamayon               Absorb ,                         p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khumkazara             Abstain                          p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kachuyka               Abstemious                       p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakharar , makapha ka  Abundant                         p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(thi?ro?wui yur akha    Abuse                            p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khamaya                Acacia                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakhui , khuikhami     Accede                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khuikhayai , khuikapa  Accept                           p. 121            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 36 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3525 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 2\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 501 to 530 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(kabo                   Calmly                           p. 137            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngailon cina           Calumniate                       p. 137            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khamasat , khonkashi   Camp                             p. 137            ) Tj
+0 -13 Td
+/F1 9 Tf
+(phapha kahan           Can                              p. 137            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kachon shimli kapam    Cancel                           p. 137            ) Tj
+0 -13 Td
+/F1 9 Tf
+(pai ,-shap kachi       Candle                           p. 137            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Certain                English . Tangkhul Naga          p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Certa'nly              Carefully                        p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chaff                  Careless                         p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chain                  Carelessly                       p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chair , \(8             Caress                           p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chalk                  Carpenter                        p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chamber                Carpet                           p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chance                 Carriage                         p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Change                 Carrier                          p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Changed                Carry                            p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Channel                Cart                             p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Chapati                Case                             p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khamarek eina          Cast                             p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mayana kasay           Caste                            p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mayana kasan cina      Castrate                         p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(soriri kahai           y Cat                            p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mistri , thi? kasa mi  Catch                            p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(pheinai kachon         Caterpillar                      p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(gari                   Catfish                          p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ot kaphu?a             Cattle                           p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kaphun                 Caul                             p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(gari                   Cause                            p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tui kashok , oko       Causelessly                      p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kahor , horkabai       Cave                             p. 138            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 38 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3526 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 3\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 1001 to 1030 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(ayarkhui , l haila     Edge                             p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khai phara             Eel                              p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khamalao               Effervesce                       p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(harra                  Egg                              p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khavathei              Egg fruit                        p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(chishat                Eight                            p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tharata kachishata     Eighteenth                       p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kachishata             Eighth                           p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(hankachishata          Eightieth                        p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(haîchishat             Eighty                           p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khaniwui ngachaili ak  Either                           p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kharom kahai           Eject                            p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khayarak               Eke out                          p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(titi                   Ekra                             p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngakhun ranran kabai   Elastic                          p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ni? khamahai , khamat  Elated                           p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(paykhuk                Elbow                            p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kharara                Elder                            p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mayha                  V Elephant                       p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mavha tukkhui khavai   Elephant trap                    p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kachui                 Elevated                         p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(naoshinaowni sam khay  Elfin lock                       p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(chi mathaakha , kala   Else                             p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(apam khayatei akhali   Elsewhere                        p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngalei thaykaka        Embank                           p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(koyphei                Embankment                       p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(meihili katon          Embark                           p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khakshiyak kahai , hu  Embarrassed                      p. 154            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ot kasaa               English . Tangkhul Naga          p. 155            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ot kasa akhaya         Employee                         p. 155            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 40 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3527 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 4\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 1501 to 1530 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(chot kha?asak , sakaz  Hunt                             p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(agahara                Hurl                             p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(chinrihai khayasak ,   Hurriedly                        p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(k hayasak              Hurry                            p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(shim ; ram             Hart                             p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(la                     Husband                          p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(niy kagaza ?, apei ka  II ush                           p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(phakakhaniya mi        hay -kachi                       p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(phäkakhanin \)          khayakashi , maluy khanim        p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Hut                    khayashisa kabai                 p. 171            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Improvident            PART 1.DIOTIONARY .              p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Impulsive              English . Tangkhul Naga          p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(In                     Immerse                          p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Inattentive            Immerse                          p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(rakahik                Immortal                         p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(rakahik                Impatient                        p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kathi makhavai         Impede                           p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mayarai kharar         Impenitent                       p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakham                 Imperfect                        p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khayarar               Implicate                        p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(maka kapei , ngaikaha  Implement                        p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(hanphat -mikahai       Important                        p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ceikhai ngaha          Importune                        p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kankhana ; saphalu?ra  Impossible                       p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(baylui haylui kacbi    Impotent                         p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(masarar kachi          Impress                          p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(chok -kachai           Impression                       p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khanam ; ava khanam    Imprison                         p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(wukli say kahai ohi    Imprisoned                       p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(phatopli kasan         Improper                         p. 172            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 42 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3530 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 5\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 2001 to 2030 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(kolom                  Pelt                             p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(pencil , slateli kapi  Pen                              p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kazan                  Pencil                           p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sha?kui                Penetrate                        p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(makapha sada wukli ka  Penis                            p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mi , mibi?             Penitent                         p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kasathei yur akha      People                           p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kathei , theishin kak  Peppercorn                       p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(vanona kapa            Perceive                         p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sakharik kahai         Perch                            p. 190            ) Tj
+0 -13 Td
+/F1 9 Tf
+(peichoda , ngaro?lida  English . Tangkhul Naga          p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kas?                   Perfectly                        p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(nganam kapha           Perform                          p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(aili, -pai ,           Perfume                          p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sakashipam , kala kas  Perhaps                          p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sashilak kachi         Peril , \( to be in \)             p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kashiman               Perilous                         p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(shimanki kachi         Perish                           p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ni?khami , khamaya     Perishable                       p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(nizmi kahai            Permission                       p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(shunshi? kahai         Permit                           p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(shunshi? kahai eina    Perpendicular                    p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(niyyaoya kahai         Perpendicularly                  p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ninyaoya -baida        Perplex                          p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(pakshi , khami , that  Perplexing                       p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(shimanranuda kasa      Perquisite , \( to receive \)      p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sakchan -lak eina kas  Persecute                        p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kharei                 Persevere                        p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sakcha?lak eina sada   Persevering                      p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(sakchanlak eina , lak  Perseveringly                    p. 191            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 44 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3526 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 6\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 2501 to 2530 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(shu?kahai              Shudder                          p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakhayak               Shut                             p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kagaza , phasa marar   Shy                              p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kazat kaka             Sick                             p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kazat kaka             Sickly                           p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ayarshoy , arap , aya  Sickness                         p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngahermit eina         Side                             p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ayarshonwui sho?fa     Side by side                     p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(miza? kasa , miza? ka  Sideway                          p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngayan                 Sidewith                         p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khanayang              Sieve                            p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(niyrei khasut kahai    Sift                             p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(mik eina kathei , mat  Sighi                            p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kalai                  Sight                            p. 207            ) Tj
+0 -13 Td
+/F1 9 Tf
+(azarya , agatuiva , a  English . Tangkhul Naga          p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(nova                   Sister                           p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(azarva , agatuiva , a  Sister -in -law                  p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(növa                   v Sit                            p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kapam                  Six                              p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tharuk                 Sixteen                          p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tharata tharuk         Sixteenth                        p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tharata katbaruka      Sixtieth                         p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(haykatharuka           Sixty                            p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(hantharuk              Skein                            p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kazaira phuylui        Skeleton                         p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(talak kalai            Skewer                           p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(saruithin              Skilful                          p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kathema , sachamcham   V Skin                           p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ahui                   Skip                             p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngawokkada kazat , ng  Skirt                            p. 208            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 46 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3526 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 7\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 3001 to 3030 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(kachi                  Upset                            p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngani? kahai , mashu?  Upside down                      p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(heikatha , koylui kat  Upstream                         p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(masho kba?achei        Urge                             p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ko?chok kazan          Urinate                          p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kasat kasan            Urine                            p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khanachir . " [ 17,5   Unruly                           p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ngachirra              Us                               p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kaha? makha?ana        Use                              p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(itbumli                Used to                          p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kankhana , sakhavai    T'sed up                         p. 223            ) Tj
+0 -13 Td
+/F1 9 Tf
+(shiman kahai , thui k  English . Tangkhul Naga          p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakahur                Valiant                          p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khapi khana?da kasa    Valley                           p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(likli yur akha         Valuable                         p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(khareia , kazoka       Value                            p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(theishirai , khawo ,   Vanish                           p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tha?thap raprap eina   Vapour                           p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ashiwui athi?neira     Variegated                       p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kathiri , mithitkha    Vase                             p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ya?khup                Vast                             p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kashon khara? tui nga  Vegetable                        p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(kakaso                 Vehemently                       p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(tuicha , yurkha kata   Vein                             p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Vertical               Venom                            p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Vertically             Verandah                         p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Very                   Verdict                          p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Vessel                 malunkachay , kapi?              p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Vest                   ngachamtham kahai ngalei         p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(Vex                    aman kasak                       p. 224            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 48 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3526 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(Section 7: Rev. William Pettigrew 1918 Dictionary \(Page Sample 8\)) Tj
+0 -19 Td
+/F1 9 Tf
+(Lexical Range: Entries 3501 to 3530 of 6678 \(Deduplicated\)) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F2 9 Tf
+(TANGKHUL               ENGLISH GLOSS                    PAGE SOURCE       ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+/F1 9 Tf
+(to this day            Aruihonwui                       p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(present age            Aruihon wui man                  p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(current price          Aruihonwui va?                   p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(provisional            Arui -la                         p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(still , till now       Aruilal a                        p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ever                   Arui m ani?mana                  p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(not now                Aruma '                          p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(presently              Arap                             p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(breadth , side         Arapchi?sho?                     p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(beyond                 Arapthiyra                       p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(rib , ribs             Asaksak ' eina                   p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(absolutely             VAsa                             p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(flesh                  Asa kaka                         p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(plump , portly         Asa khamathei                    p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(even                   Asa kha?arum                     p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(inlierit               Asa makaki                       p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(skinny                 Asama? kaja                      p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(bare                   V Asan                           p. 246            ) Tj
+0 -13 Td
+/F1 9 Tf
+(flat or level place    Tangkhul Naga . English          p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(plain                  Ashat                            p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(fiat , level , as a v  Ashat hamchamri kahai            p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(blood , family , sang  Ashat hamphap kalai              p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(a ragged garment or g  V Ashi                           p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(ments , trumpery       Ashi arui                        p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(bloody                 Ashi kaka                        p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(dysentery              Ashi kapai                       p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(to bleed , to shed bl  Ashi kashok                      p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(rolative , connexion   Ashi shaînao                     p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(relation or connectio  Ashi shannao khayashik           p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(of the same descent    Ashi shannao ngarai kacha        p. 247            ) Tj
+0 -13 Td
+/F1 9 Tf
+(---------------------------------------------------------------------------) Tj
+0 -13 Td
+ET
+endstream
+endobj
+xref
+0 49
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000261 00000 n 
+0000000331 00000 n 
+0000000406 00000 n 
+0000000542 00000 n 
+0000002605 00000 n 
+0000002741 00000 n 
+0000004471 00000 n 
+0000004608 00000 n 
+0000007799 00000 n 
+0000007937 00000 n 
+0000009068 00000 n 
+0000009206 00000 n 
+0000010727 00000 n 
+0000010865 00000 n 
+0000012337 00000 n 
+0000012475 00000 n 
+0000015395 00000 n 
+0000015533 00000 n 
+0000018361 00000 n 
+0000018499 00000 n 
+0000021252 00000 n 
+0000021390 00000 n 
+0000022943 00000 n 
+0000023081 00000 n 
+0000026439 00000 n 
+0000026577 00000 n 
+0000029939 00000 n 
+0000030077 00000 n 
+0000033455 00000 n 
+0000033593 00000 n 
+0000035205 00000 n 
+0000035343 00000 n 
+0000038917 00000 n 
+0000039055 00000 n 
+0000042633 00000 n 
+0000042771 00000 n 
+0000046350 00000 n 
+0000046488 00000 n 
+0000050068 00000 n 
+0000050206 00000 n 
+0000053789 00000 n 
+0000053927 00000 n 
+0000057506 00000 n 
+0000057644 00000 n 
+0000061223 00000 n 
+0000061361 00000 n 
+trailer
+<< /Size 49 /Root 1 0 R >>
+startxref
+64940
+%%EOF

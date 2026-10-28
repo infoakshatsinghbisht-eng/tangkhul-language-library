@@ -1,0 +1,44 @@
+{
+  "id": "CULT-CAND-001",
+  "resource_type": "culture",
+  "title": "Champhung Village Sacred Monolith Rites",
+  "title_translation": "Megalith Erection Rite at Champhung",
+  "creator": "Champhung Community Elders",
+  "year": 2019,
+  "publisher": "Field Documentation Candidate",
+  "language": "Tangkhul",
+  "dialect": "Champhung",
+  "village": "Champhung",
+  "category": "ritual",
+  "subcategory": "megalithic",
+  "source_url": "https://tangkhullanguage.org/archive/culture/champhung-monolith",
+  "source_identifier": "TDDP-CULT-2019-01",
+  "license": "Pending Community Clearance",
+  "permission_status": "pending",
+  "local_path": "data/raw/culture/CULT-CAND-001_champhung_monolith_rites.txt",
+  "verification_status": "needs_review",
+  "notes": "Fieldwork documentation on commemorative stone pulling and monolith erection rites in Champhung village. Candidate record awaiting full elder review and clan clearance.",
+  "indigenous_tangkhul_text": [
+    "Champhung kaphungli lungphung kashak avava apuipui wui ngashan.",
+    "Lungrei kakatli iram mibing kangarum, ot phungda thotli ringpha.",
+    "Champhung dialectli tui khamata, candidate record elder reviewli."
+  ],
+  "english_translation_text": [
+    "In Champhung village, commemorative stone-pulling preserves the megalithic honors of ancestors.",
+    "The entire village unites with cane ropes to pull massive monoliths to commemorate prestige feasts.",
+    "Preserving distinct Champhung dialect terms, currently undergoing community review and elder clearance."
+  ],
+  "procedural_stages": [
+    "1. Selection of monumental stone in riverbed or quarry by the feast giver.",
+    "2. Crafting heavy wooden sledge and twisting long creepers/cane ropes.",
+    "3. Village-wide communal dragging (Lungphung) accompanied by rhythmic hauling chants.",
+    "4. Erection of monolith along traditional village approach ridge.",
+    "5. Communal feast of merit celebrating the accomplishment and elder blessings."
+  ],
+  "ceremonial_participants": [
+    "Champhung Clan Leaders",
+    "Feast Giver",
+    "Village Hauling Teams"
+  ],
+  "seasonal_timing": "Dry winter post-harvest season (Candidate status: needs_review)"
+}

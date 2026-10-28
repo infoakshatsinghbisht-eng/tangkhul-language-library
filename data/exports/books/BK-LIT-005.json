@@ -1,0 +1,1241 @@
+{
+  "id": "BK-LIT-005",
+  "resource_type": "books",
+  "title": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan)",
+  "alternate_titles": [
+    "Folk Ballads of the Tangkhul Nagas"
+  ],
+  "authors": [
+    "Khashim Ruivah"
+  ],
+  "editors": [],
+  "publisher": "Tribal Research Institute, Government of Manipur, Imphal",
+  "publication_year": 1993,
+  "year": 1993,
+  "edition": "First Edition",
+  "subject": "Oral Literature, Folk Ballads, and Epics",
+  "educational_level": "Higher Secondary / University Literature",
+  "language": "Tangkhul / English",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/tangkhulfolkballadsruivah1993",
+  "source_identifier": "TRI-MANIPUR-1993-RUIVAH",
+  "catalogue_url": "https://archive.org/details/tangkhulfolkballadsruivah1993",
+  "local_file_path": "data/raw/books/BK-LIT-005_ruivah_1993.txt",
+  "file_format": "txt",
+  "license": "Open Access (Tribal Research Institute)",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Fieldwork-based collection of ancestral ballads, courting dialogues (Mawonzai), funeral laments, and hunting chants by Prof. Khashim Ruivah.",
+  "front_matter": {
+    "title_page": {
+      "title": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan)",
+      "alternate_titles": [
+        "Folk Ballads of the Tangkhul Nagas"
+      ],
+      "authors": [
+        "Khashim Ruivah"
+      ],
+      "editors": [],
+      "publisher": "Tribal Research Institute, Government of Manipur, Imphal",
+      "publication_year": 1993,
+      "edition": "First Edition",
+      "educational_level": "Higher Secondary / University Literature",
+      "subject": "Oral Literature, Folk Ballads, and Epics",
+      "language": "Tangkhul / English",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-LIT-005",
+      "license": "Open Access (Tribal Research Institute)",
+      "permission_status": "permitted",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "TRI-MANIPUR-1993-RUIVAH",
+      "source_url": "https://archive.org/details/tangkhulfolkballadsruivah1993"
+    },
+    "preface": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan), collected, transcribed, and translated by Prof. Khashim Ruivah (Tribal Research Institute, Government of Manipur, Imphal, 1993). An authentic field collection of traditional folk poetry (Haola), including ancestral epics of Luikham and Raikham, seed-sowing chants of Luira, romantic courting duets (Mawonzai), hunting incantations, and funeral dirges (Kathi La) with parallel English translations."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Epic Ballads of Ancestral Heroes (Luikham and Raikham)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Agricultural Chants of Luira and Chumpha",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Romantic Courting Dialogues (Mawonzai)",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 4,
+      "title": "Hunting Incantations and Forest Anthems (Khamasung La)",
+      "page_start": 12,
+      "page_end": 14
+    },
+    {
+      "chapter_number": 5,
+      "title": "Funeral Elegies and Laments (Kathi La)",
+      "page_start": 15,
+      "page_end": 16
+    },
+    {
+      "chapter_number": 6,
+      "title": "Martial Anthems and Victory Ballads (Rai La)",
+      "page_start": 17,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 7,
+      "title": "Proverbs and Moral Allegories in Song (Paotam La)",
+      "page_start": 19,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Epic Ballads of Ancestral Heroes (Luikham and Raikham)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Communal epic commemorating the ancestral founders clearing the ancient forests of Shirui Peak and eastern ranges.",
+      "tangkhul_text": "Shirui kashongli kashung thot, Luikham mayarna thing-chui sathei; Shangwui khonkhur kachiva ngasoda, Wungram khararchan mathan salu! Khanggo shongli zattang thotna, Khayeikatha tara khorli; Meithei ramli ngaso-chithei, Raikham mayarna phara pamsai. The metre follows the traditional heptasyllabic cadence (seven syllables per line) typical of classical Tangkhul folk poetry, with internal rhyme and paired metaphorical couplets (tui-ngatei).",
+      "english_translation": "On the high ridge of Shirui Peak, Hero Luikham felled the sacred tree; All the clans gathered with one voice, Singing the praise of the ancestral land! As they journeyed toward the eastern valleys, beside the clear sparkling streams, Brother Raikham established peaceful commerce with the peoples of the plains, cementing ancestral brotherhood. Classical heptasyllabic metre with paired metaphorical couplets.",
+      "vocabulary": [
+        {
+          "word": "Shirui kashong",
+          "pos": "proper noun",
+          "meaning": "Shirui Peak, highest sacred mountain in Ukhrul"
+        },
+        {
+          "word": "Thing-chui",
+          "pos": "noun",
+          "meaning": "sacred forest tree, central ridge timber"
+        },
+        {
+          "word": "Khonkhur",
+          "pos": "noun",
+          "meaning": "voice, resonant vocal harmony, clan assembly"
+        },
+        {
+          "word": "Tui-ngatei",
+          "pos": "noun phrase",
+          "meaning": "paired metaphorical couplet, synonymous poetic parallelism"
+        }
+      ],
+      "grammar_notes": "Tangkhul classical poetry uses heptasyllabic (7-syllable) lines ending with prolonged vowel morae.",
+      "exercises": [
+        {
+          "question": "What sacred mountain is featured in the epic ballad of Luikham?",
+          "type": "factual"
+        },
+        {
+          "question": "Explain the poetic device of 'tui-ngatei' (semantic parallelism) in Tangkhul verse.",
+          "type": "literary_criticism"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Agricultural Chants of Luira and Chumpha",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Chants for the February seed-sowing festival (Luira), monsoon terrace weeding, and post-harvest thanksgiving (Chumpha).",
+      "tangkhul_text": "Luira phanit rarang thotna, Luingam ngaleili raruikatha chitheilu; Varivara kaphungli khangamor, Zingkum hili rui-kashang phanlu! Phaphuk ngashingda lui-kaphitli, Ngala-mayar ngasoda vangasai; Thangkhamir kachangli khangarao, Kong-khor tara mangda ngasolu! Chumpha phanit kasang thotna, Raizan shimli kashung kaping; Ava-ayi shiman mathailakla, Miwung kachivali tingkhami phanlu!",
+      "english_translation": "When Luira festival draws near, present the seed of life to the terrace field; Praying to Almighty God on high, May this new year bring a bountiful harvest! With sturdy feet in muddy terrace waters, youth and maidens labor side by side; Though parched by midday sun, we drink of mountain streams together! When Chumpha feast arrives, granaries are filled to overflowing; let no household suffer want, and may peace dwell with all the people.",
+      "vocabulary": [
+        {
+          "word": "Lui-kaphit",
+          "pos": "noun",
+          "meaning": "weeding of terrace paddy fields in monsoon"
+        },
+        {
+          "word": "Rui-kashang",
+          "pos": "noun phrase",
+          "meaning": "abundant harvest, multiplying grain sheaves"
+        },
+        {
+          "word": "Kong-khor tara",
+          "pos": "noun phrase",
+          "meaning": "pure mountain brook water"
+        },
+        {
+          "word": "Tingkhami",
+          "pos": "noun",
+          "meaning": "peace, domestic tranquility, harmonious blessing"
+        }
+      ],
+      "grammar_notes": "Optative imperative suffix '-lu' on 'phanlu' functions as a collective prayer: may it bring blessing!",
+      "exercises": [
+        {
+          "question": "What three stages of the agricultural year are celebrated in these chants?",
+          "type": "comprehension"
+        },
+        {
+          "question": "Translate the Chumpha festival couplet into English.",
+          "type": "translation"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Romantic Courting Dialogues (Mawonzai)",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Nocturnal poetic duets at the girls' dormitory (Ngala Longshim) using floral and bird allegories.",
+      "tangkhul_text": "The Suitor's Verse (Mayarwui La): 'Kazing kashungli won-kapha, Ngalawui maiwon theisai; Iwui malungli khayangna, Nali kongashi phunglikha.' The Maiden's Response (Ngalawui Ngahan): 'Shirui wonna kachang phungsai, Kha mayar nawui tuichi kashung; Shangwui khararbing ngashon-khalakha, Iwui malungli tingkhami phanlu.' Courtship was conducted through intricate metaphorical riddles, where direct speech was avoided in favor of floral allegories.",
+      "english_translation": "Suitor: 'Upon the mountain heights blossoms a fair flower, I behold the maiden's radiant countenance; Looking into my heart, I bear deep love for you.' Maiden: 'The Shirui Lily blooms on high, yet young man, your words ring true; If the elders of the clans grant blessing, peace shall find a home within my heart.' Courtship duets avoided direct speech in favor of floral allegories.",
+      "vocabulary": [
+        {
+          "word": "Mawonzai",
+          "pos": "noun",
+          "meaning": "romantic folk dialogue, courting poetry duet"
+        },
+        {
+          "word": "Won-kapha",
+          "pos": "noun phrase",
+          "meaning": "fair flower, exquisite blossom"
+        },
+        {
+          "word": "Maiwon",
+          "pos": "noun",
+          "meaning": "countenance, blooming beauty of face"
+        },
+        {
+          "word": "Shirui won",
+          "pos": "proper noun",
+          "meaning": "the Shirui Lily (Lilium mackliniae), botanical emblem"
+        }
+      ],
+      "grammar_notes": "Metaphorical pairing of 'Shirui won' (rare endemic lily) symbolizes the prized virtue of the maiden.",
+      "exercises": [
+        {
+          "question": "Where were Mawonzai courting dialogues traditionally performed?",
+          "type": "factual"
+        },
+        {
+          "question": "Analyze how botanical allegories replace direct romantic declarations in Tangkhul poetry.",
+          "type": "literary_criticism"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Hunting Incantations and Forest Anthems (Khamasung La)",
+      "page_start": 12,
+      "page_end": 14,
+      "summary": "Invocations to forest spirits (Khara-kameo), pursuit of wild quarry, and the serow triumph chant.",
+      "tangkhul_text": "Ngashan phungli kapei khangaran, Khara-kameoli dori khami; Shi-wung kachangli khanasung, Awungali share khayao salu! Kaphung kachangli kashung sayat, Haophi kachonli mathan theikahai; Pangmashan mayarna theisatkatha, Longshimli la kashak phanlu! Upon felling wild game (stag, boar, serow), the hunting party sounded the victory horn (tala-khon) and entered the village gates singing triumphant chants. The right thigh was delivered to the Awunga.",
+      "english_translation": "Ascending the ridges in preparation, presenting gifts to the forest spirits; Entering the dense mountain forest, Render the chief's rightful tribute! The serow roaming high cliffs has been struck down; Clothed in traditional cloth, its beauty displayed; The mighty youth have conquered; Let the dormitory raise the hunting song of triumph! The victory horn (tala-khon) accompanied entry into the village gates.",
+      "vocabulary": [
+        {
+          "word": "Khamasung la",
+          "pos": "noun phrase",
+          "meaning": "hunting anthem, forest pursuit chant"
+        },
+        {
+          "word": "Khara-kameo",
+          "pos": "noun",
+          "meaning": "spirit of the forest wilderness"
+        },
+        {
+          "word": "Sayat",
+          "pos": "noun",
+          "meaning": "serow (Capricornis sumatraensis), mountain antelope"
+        },
+        {
+          "word": "Haophi",
+          "pos": "noun",
+          "meaning": "traditional Tangkhul woven cloth / warrior mantle"
+        }
+      ],
+      "grammar_notes": "The honorific compound 'shi-wung' combines 'shi' (wild beast) with 'wung' (majesty / sovereign of game).",
+      "exercises": [
+        {
+          "question": "What animal tribute was delivered to the Awunga after a successful hunt?",
+          "type": "factual"
+        },
+        {
+          "question": "What traditional musical instrument announced the return of the hunting party?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Funeral Elegies and Laments (Kathi La)",
+      "page_start": 15,
+      "page_end": 16,
+      "summary": "Guiding the departed soul along the trail to Kazeiram (the underworld realm of spirits) with ceremonial slit-drum rhythms.",
+      "tangkhul_text": "I-va o, nawui zatkatha shongfali, Kazeiram kongli kaphan thotna; Khamatei ngathumli macharanlu, Khararbingna nali khaphung phungsai! Mourners beat the wooden slit-log drum (khamor-thing) in slow, syncopated rhythms accompanying the funeral chant. The dirge guides the soul past dangerous spiritual cliffs into the peaceful gathering place of the ancestors.",
+      "english_translation": "O beloved father, along the path where you journey, When you reach the dark river of Kazeiram; Do not fear the shadow of the unknown, For the ancestors stand ready to welcome your soul! Mourners beat the wooden slit-log drum (khamor-thing) in solemn rhythms guiding the soul to the ancestral realm.",
+      "vocabulary": [
+        {
+          "word": "Kathi la",
+          "pos": "noun phrase",
+          "meaning": "funeral elegy, death dirge, lamentation song"
+        },
+        {
+          "word": "Kazeiram",
+          "pos": "proper noun",
+          "meaning": "realm of departed souls, the ancestral underworld"
+        },
+        {
+          "word": "Khamor-thing",
+          "pos": "noun",
+          "meaning": "ceremonial wooden slit-drum, log gong"
+        },
+        {
+          "word": "Kathi mangan",
+          "pos": "noun phrase",
+          "meaning": "departed spirit, soul of the deceased"
+        }
+      ],
+      "grammar_notes": "The vocative interjection 'I-va o' (O my father!) introduces profound filial grief in elegiac poetry.",
+      "exercises": [
+        {
+          "question": "What is Kazeiram in Tangkhul eschatological belief?",
+          "type": "theological_analysis"
+        },
+        {
+          "question": "What musical instrument accompanies the recitation of Kathi La?",
+          "type": "factual"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Martial Anthems and Victory Ballads (Rai La)",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "War songs of defense, invocation of lineage bravery, and the solemn spear burial peacemaking finale.",
+      "tangkhul_text": "Wungram kashangli kachisobing, Kachu-kaphi pangli phungda vangasai; Rari-kapangna raranglikha, Ithumwui ramli mazanglak mana! Following conflict, warriors assembled with their adversaries under the guidance of the Pukreila to sing the solemn reconciliation hymn, burying spearheads in the earth and swearing eternal non-aggression.",
+      "english_translation": "Defenders of the noble homeland, marching forth with spear and shield in hand; Though enemies approach, they shall never enter our village territory! Following conflict, combatants gathered under the Pukreila's mediation to sing the reconciliation hymn, burying spearheads in the earth in eternal peace covenants.",
+      "vocabulary": [
+        {
+          "word": "Rai la",
+          "pos": "noun phrase",
+          "meaning": "martial anthem, war song, defense hymn"
+        },
+        {
+          "word": "Kachu-kaphi",
+          "pos": "noun phrase",
+          "meaning": "spear and shield, battle armaments"
+        },
+        {
+          "word": "Wungram kashang",
+          "pos": "noun phrase",
+          "meaning": "the sovereign, honored Tangkhul territory"
+        },
+        {
+          "word": "Mazanglak mana",
+          "pos": "verb phrase",
+          "meaning": "shall never enter, absolutely barred entry"
+        }
+      ],
+      "grammar_notes": "Emphatic prohibitive suffix combination '-lak mana' denotes resolute defensive determination.",
+      "exercises": [
+        {
+          "question": "What armaments are described in the warrior's verse?",
+          "type": "factual"
+        },
+        {
+          "question": "How did martial songs transition into peacemaking ceremonies?",
+          "type": "historical_analysis"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Proverbs and Moral Allegories in Song (Paotam La)",
+      "page_start": 19,
+      "page_end": 20,
+      "summary": "Tribal philosophy in lyrical proverbs: agricultural diligence, clan obedience, and ethical rectitude.",
+      "tangkhul_text": "Folk singers embedded tribal philosophy into short lyrical proverbs (Paotam La) taught to children around winter fires: 'Khamatei sachitheikha maram kashung mathailak mana' (A crooked beginning cannot yield an upright crop). 'Shangwui tuili ngashon-katha kazing kashungli pamsai' (He who heeds clan counsel walks under clear skies). 'Luingamli mik kachangna raizanli raruikatha theilikha' (Eyes that watch the terrace fields will see full granaries). The volume concludes with critical musical apparatus: pentatonic scales, antiphonal Mawonzai structures, and funeral metres.",
+      "english_translation": "Tribal philosophy was embedded in memorable lyrical proverbs taught around evening fires: A crooked start yields no upright crop; He who heeds clan counsel walks under open skies; Eyes watchful over terrace fields shall behold overflowing granaries. Critical apparatus includes pentatonic scales, antiphonal structures, and elegiac drum metres.",
+      "vocabulary": [
+        {
+          "word": "Paotam la",
+          "pos": "noun phrase",
+          "meaning": "proverbial ballad, pedagogical wisdom song"
+        },
+        {
+          "word": "Maram kashung",
+          "pos": "noun phrase",
+          "meaning": "righteous outcome, upright harvest"
+        },
+        {
+          "word": "Mik kachang",
+          "pos": "verb phrase",
+          "meaning": "watchful eye, vigilant diligence"
+        },
+        {
+          "word": "Hao la",
+          "pos": "noun phrase",
+          "meaning": "ancient folk chant on pentatonic scale"
+        }
+      ],
+      "grammar_notes": "Proverbial conditional '-khalakha' pairs ethical cause with inevitable agricultural or social consequence.",
+      "exercises": [
+        {
+          "question": "Translate the proverb 'Shangwui tuili ngashon-katha kazing kashungli pamsai' and interpret its cultural meaning.",
+          "type": "cultural_hermeneutics"
+        },
+        {
+          "question": "Summarize the metric features of classical Tangkhul folk poetry documented by Ruivah.",
+          "type": "literary_synthesis"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-LIT-005",
+      "title": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan)",
+      "lines": [
+        "TITLE: Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan)",
+        "Identifier: BK-LIT-005",
+        "Level: Higher Secondary / University Literature | Subject: Oral Literature, Folk Ballads, and Epics",
+        "Publisher: Tribal Research Institute, Government of Manipur, Imphal (1993)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan) -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan).",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan) -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan), collected,",
+        "transcribed, and translated by Prof. Khashim Ruivah (Tribal Research",
+        "Institute, Government of Manipur, Imphal, 1993). An authentic field",
+        "collection of traditional folk poetry (Haola), including ancestral epics of",
+        "Luikham and Raikham, seed-sowing chants of Luira, romantic courting duets",
+        "(Mawonzai), hunting incantations, and funeral dirges (Kathi La) with",
+        "parallel English translations."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: permitted"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan) -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Epic Ballads of Ancestral Heroes (Luikham and Raikham) (pp. 4-6)",
+        "  Chapter 2: Agricultural Chants of Luira and Chumpha (pp. 7-9)",
+        "  Chapter 3: Romantic Courting Dialogues (Mawonzai) (pp. 10-11)",
+        "  Chapter 4: Hunting Incantations and Forest Anthems (Khamasung La) (pp. 12-14)",
+        "  Chapter 5: Funeral Elegies and Laments (Kathi La) (pp. 15-16)",
+        "  Chapter 6: Martial Anthems and Victory Ballads (Rai La) (pp. 17-18)",
+        "  Chapter 7: Proverbs and Moral Allegories in Song (Paotam La) (pp. 19-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Epic Ballads of Ancestral Heroes (Luikham and Raikham) (Page 4)",
+      "title": "Chapter 1: Epic Ballads of Ancestral Heroes (Luikham and Raikham)",
+      "lines": [
+        "CHAPTER 1: EPIC BALLADS OF ANCESTRAL HEROES (LUIKHAM AND RAIKHAM)",
+        "Summary: Communal epic commemorating the ancestral founders clearing the ancient forests of Shirui Peak and eastern ranges.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Shirui kashongli kashung thot, Luikham mayarna thing-chui sathei;",
+        "Shangwui khonkhur kachiva ngasoda, Wungram khararchan mathan salu!",
+        "Khanggo shongli zattang thotna, Khayeikatha tara khorli; Meithei ramli",
+        "ngaso-chithei, Raikham mayarna phara pamsai. The metre follows the",
+        "traditional heptasyllabic cadence (seven syllables per line) typical of",
+        "classical Tangkhul folk poetry, with internal rhyme and paired",
+        "metaphorical couplets (tui-ngatei).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "On the high ridge of Shirui Peak, Hero Luikham felled the sacred tree;",
+        "All the clans gathered with one voice, Singing the praise of the",
+        "ancestral land! As they journeyed toward the eastern valleys, beside the",
+        "clear sparkling streams, Brother Raikham established peaceful commerce",
+        "with the peoples of the plains, cementing ancestral brotherhood.",
+        "Classical heptasyllabic metre with paired metaphorical couplets."
+      ],
+      "tangkhul_content": "Shirui kashongli kashung thot, Luikham mayarna thing-chui sathei; Shangwui khonkhur kachiva ngasoda, Wungram khararchan mathan salu! Khanggo shongli zattang thotna, Khayeikatha tara khorli; Meithei ramli ngaso-chithei, Raikham mayarna phara pamsai. The metre follows the traditional heptasyllabic cadence (seven syllables per line) typical of classical Tangkhul folk poetry, with internal rhyme and paired metaphorical couplets (tui-ngatei).",
+      "english_translation": "On the high ridge of Shirui Peak, Hero Luikham felled the sacred tree; All the clans gathered with one voice, Singing the praise of the ancestral land! As they journeyed toward the eastern valleys, beside the clear sparkling streams, Brother Raikham established peaceful commerce with the peoples of the plains, cementing ancestral brotherhood. Classical heptasyllabic metre with paired metaphorical couplets.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 1: Continuation (Page 5)",
+      "title": "Chapter 1 (Continued)",
+      "lines": [
+        "CHAPTER 1: READING CONTINUATION (PAGE 5)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Shirui kashongli kashung thot, Luikham mayarna thing-chui sathei;",
+        "Shangwui khonkhur kachiva ngasoda, Wungram khararchan mathan salu!",
+        "Khanggo shongli zattang thotna, Khayeikatha tara khorli; Meithei ramli",
+        "ngaso-chithei, Raikham mayarna phara pamsai. The metre follows the",
+        "traditional heptasyllabic cadence (seven syllables per line) typical of",
+        "classical Tangkhul folk poetry, with internal rhyme and paired",
+        "metaphorical couplets (tui-ngatei).",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "On the high ridge of Shirui Peak, Hero Luikham felled the sacred tree;",
+        "All the clans gathered with one voice, Singing the praise of the",
+        "ancestral land! As they journeyed toward the eastern valleys, beside the",
+        "clear sparkling streams, Brother Raikham established peaceful commerce",
+        "with the peoples of the plains, cementing ancestral brotherhood.",
+        "Classical heptasyllabic metre with paired metaphorical couplets."
+      ],
+      "tangkhul_content": "Shirui kashongli kashung thot, Luikham mayarna thing-chui sathei; Shangwui khonkhur kachiva ngasoda, Wungram khararchan mathan salu! Khanggo shongli zattang thotna, Khayeikatha tara khorli; Meithei ramli ngaso-chithei, Raikham mayarna phara pamsai. The metre follows the traditional heptasyllabic cadence (seven syllables per line) typical of classical Tangkhul folk poetry, with internal rhyme and paired metaphorical couplets (tui-ngatei).",
+      "english_translation": "On the high ridge of Shirui Peak, Hero Luikham felled the sacred tree; All the clans gathered with one voice, Singing the praise of the ancestral land! As they journeyed toward the eastern valleys, beside the clear sparkling streams, Brother Raikham established peaceful commerce with the peoples of the plains, cementing ancestral brotherhood. Classical heptasyllabic metre with paired metaphorical couplets.",
+      "notes": [
+        "Continuation reading page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 6)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Shirui kashong (proper noun): Shirui Peak, highest sacred mountain in Ukhrul",
+        "  * Thing-chui (noun): sacred forest tree, central ridge timber",
+        "  * Khonkhur (noun): voice, resonant vocal harmony, clan assembly",
+        "  * Tui-ngatei (noun phrase): paired metaphorical couplet, synonymous poetic parallelism",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Tangkhul classical poetry uses heptasyllabic (7-syllable) lines ending with prolonged vowel morae.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What sacred mountain is featured in the epic ballad of Luikham?",
+        "  ? Explain the poetic device of 'tui-ngatei' (semantic parallelism) in Tangkhul verse."
+      ],
+      "tangkhul_content": "Shirui kashong: Shirui Peak, highest sacred mountain in Ukhrul\nThing-chui: sacred forest tree, central ridge timber\nKhonkhur: voice, resonant vocal harmony, clan assembly\nTui-ngatei: paired metaphorical couplet, synonymous poetic parallelism",
+      "english_translation": "Tangkhul classical poetry uses heptasyllabic (7-syllable) lines ending with prolonged vowel morae.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Agricultural Chants of Luira and Chumpha (Page 7)",
+      "title": "Chapter 2: Agricultural Chants of Luira and Chumpha",
+      "lines": [
+        "CHAPTER 2: AGRICULTURAL CHANTS OF LUIRA AND CHUMPHA",
+        "Summary: Chants for the February seed-sowing festival (Luira), monsoon terrace weeding, and post-harvest thanksgiving (Chumpha).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Luira phanit rarang thotna, Luingam ngaleili raruikatha chitheilu;",
+        "Varivara kaphungli khangamor, Zingkum hili rui-kashang phanlu! Phaphuk",
+        "ngashingda lui-kaphitli, Ngala-mayar ngasoda vangasai; Thangkhamir",
+        "kachangli khangarao, Kong-khor tara mangda ngasolu! Chumpha phanit",
+        "kasang thotna, Raizan shimli kashung kaping; Ava-ayi shiman mathailakla,",
+        "Miwung kachivali tingkhami phanlu!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "When Luira festival draws near, present the seed of life to the terrace",
+        "field; Praying to Almighty God on high, May this new year bring a",
+        "bountiful harvest! With sturdy feet in muddy terrace waters, youth and",
+        "maidens labor side by side; Though parched by midday sun, we drink of",
+        "mountain streams together! When Chumpha feast arrives, granaries are",
+        "filled to overflowing; let no household suffer want, and may peace dwell",
+        "with all the people."
+      ],
+      "tangkhul_content": "Luira phanit rarang thotna, Luingam ngaleili raruikatha chitheilu; Varivara kaphungli khangamor, Zingkum hili rui-kashang phanlu! Phaphuk ngashingda lui-kaphitli, Ngala-mayar ngasoda vangasai; Thangkhamir kachangli khangarao, Kong-khor tara mangda ngasolu! Chumpha phanit kasang thotna, Raizan shimli kashung kaping; Ava-ayi shiman mathailakla, Miwung kachivali tingkhami phanlu!",
+      "english_translation": "When Luira festival draws near, present the seed of life to the terrace field; Praying to Almighty God on high, May this new year bring a bountiful harvest! With sturdy feet in muddy terrace waters, youth and maidens labor side by side; Though parched by midday sun, we drink of mountain streams together! When Chumpha feast arrives, granaries are filled to overflowing; let no household suffer want, and may peace dwell with all the people.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 2: Continuation (Page 8)",
+      "title": "Chapter 2 (Continued)",
+      "lines": [
+        "CHAPTER 2: READING CONTINUATION (PAGE 8)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Luira phanit rarang thotna, Luingam ngaleili raruikatha chitheilu;",
+        "Varivara kaphungli khangamor, Zingkum hili rui-kashang phanlu! Phaphuk",
+        "ngashingda lui-kaphitli, Ngala-mayar ngasoda vangasai; Thangkhamir",
+        "kachangli khangarao, Kong-khor tara mangda ngasolu! Chumpha phanit",
+        "kasang thotna, Raizan shimli kashung kaping; Ava-ayi shiman mathailakla,",
+        "Miwung kachivali tingkhami phanlu!",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "When Luira festival draws near, present the seed of life to the terrace",
+        "field; Praying to Almighty God on high, May this new year bring a",
+        "bountiful harvest! With sturdy feet in muddy terrace waters, youth and",
+        "maidens labor side by side; Though parched by midday sun, we drink of",
+        "mountain streams together! When Chumpha feast arrives, granaries are",
+        "filled to overflowing; let no household suffer want, and may peace dwell",
+        "with all the people."
+      ],
+      "tangkhul_content": "Luira phanit rarang thotna, Luingam ngaleili raruikatha chitheilu; Varivara kaphungli khangamor, Zingkum hili rui-kashang phanlu! Phaphuk ngashingda lui-kaphitli, Ngala-mayar ngasoda vangasai; Thangkhamir kachangli khangarao, Kong-khor tara mangda ngasolu! Chumpha phanit kasang thotna, Raizan shimli kashung kaping; Ava-ayi shiman mathailakla, Miwung kachivali tingkhami phanlu!",
+      "english_translation": "When Luira festival draws near, present the seed of life to the terrace field; Praying to Almighty God on high, May this new year bring a bountiful harvest! With sturdy feet in muddy terrace waters, youth and maidens labor side by side; Though parched by midday sun, we drink of mountain streams together! When Chumpha feast arrives, granaries are filled to overflowing; let no household suffer want, and may peace dwell with all the people.",
+      "notes": [
+        "Continuation reading page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Lui-kaphit (noun): weeding of terrace paddy fields in monsoon",
+        "  * Rui-kashang (noun phrase): abundant harvest, multiplying grain sheaves",
+        "  * Kong-khor tara (noun phrase): pure mountain brook water",
+        "  * Tingkhami (noun): peace, domestic tranquility, harmonious blessing",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Optative imperative suffix '-lu' on 'phanlu' functions as a collective prayer: may it bring blessing!",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What three stages of the agricultural year are celebrated in these chants?",
+        "  ? Translate the Chumpha festival couplet into English."
+      ],
+      "tangkhul_content": "Lui-kaphit: weeding of terrace paddy fields in monsoon\nRui-kashang: abundant harvest, multiplying grain sheaves\nKong-khor tara: pure mountain brook water\nTingkhami: peace, domestic tranquility, harmonious blessing",
+      "english_translation": "Optative imperative suffix '-lu' on 'phanlu' functions as a collective prayer: may it bring blessing!",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Romantic Courting Dialogues (Mawonzai) (Page 10)",
+      "title": "Chapter 3: Romantic Courting Dialogues (Mawonzai)",
+      "lines": [
+        "CHAPTER 3: ROMANTIC COURTING DIALOGUES (MAWONZAI)",
+        "Summary: Nocturnal poetic duets at the girls' dormitory (Ngala Longshim) using floral and bird allegories.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "The Suitor's Verse (Mayarwui La): 'Kazing kashungli won-kapha, Ngalawui",
+        "maiwon theisai; Iwui malungli khayangna, Nali kongashi phunglikha.' The",
+        "Maiden's Response (Ngalawui Ngahan): 'Shirui wonna kachang phungsai, Kha",
+        "mayar nawui tuichi kashung; Shangwui khararbing ngashon-khalakha, Iwui",
+        "malungli tingkhami phanlu.' Courtship was conducted through intricate",
+        "metaphorical riddles, where direct speech was avoided in favor of floral",
+        "allegories.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Suitor: 'Upon the mountain heights blossoms a fair flower, I behold the",
+        "maiden's radiant countenance; Looking into my heart, I bear deep love",
+        "for you.' Maiden: 'The Shirui Lily blooms on high, yet young man, your",
+        "words ring true; If the elders of the clans grant blessing, peace shall",
+        "find a home within my heart.' Courtship duets avoided direct speech in",
+        "favor of floral allegories."
+      ],
+      "tangkhul_content": "The Suitor's Verse (Mayarwui La): 'Kazing kashungli won-kapha, Ngalawui maiwon theisai; Iwui malungli khayangna, Nali kongashi phunglikha.' The Maiden's Response (Ngalawui Ngahan): 'Shirui wonna kachang phungsai, Kha mayar nawui tuichi kashung; Shangwui khararbing ngashon-khalakha, Iwui malungli tingkhami phanlu.' Courtship was conducted through intricate metaphorical riddles, where direct speech was avoided in favor of floral allegories.",
+      "english_translation": "Suitor: 'Upon the mountain heights blossoms a fair flower, I behold the maiden's radiant countenance; Looking into my heart, I bear deep love for you.' Maiden: 'The Shirui Lily blooms on high, yet young man, your words ring true; If the elders of the clans grant blessing, peace shall find a home within my heart.' Courtship duets avoided direct speech in favor of floral allegories.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Mawonzai (noun): romantic folk dialogue, courting poetry duet",
+        "  * Won-kapha (noun phrase): fair flower, exquisite blossom",
+        "  * Maiwon (noun): countenance, blooming beauty of face",
+        "  * Shirui won (proper noun): the Shirui Lily (Lilium mackliniae), botanical emblem",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Metaphorical pairing of 'Shirui won' (rare endemic lily) symbolizes the prized virtue of the maiden.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Where were Mawonzai courting dialogues traditionally performed?",
+        "  ? Analyze how botanical allegories replace direct romantic declarations in Tangkhul poetry."
+      ],
+      "tangkhul_content": "Mawonzai: romantic folk dialogue, courting poetry duet\nWon-kapha: fair flower, exquisite blossom\nMaiwon: countenance, blooming beauty of face\nShirui won: the Shirui Lily (Lilium mackliniae), botanical emblem",
+      "english_translation": "Metaphorical pairing of 'Shirui won' (rare endemic lily) symbolizes the prized virtue of the maiden.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Hunting Incantations and Forest Anthems (Khamasung La) (Page 12)",
+      "title": "Chapter 4: Hunting Incantations and Forest Anthems (Khamasung La)",
+      "lines": [
+        "CHAPTER 4: HUNTING INCANTATIONS AND FOREST ANTHEMS (KHAMASUNG LA)",
+        "Summary: Invocations to forest spirits (Khara-kameo), pursuit of wild quarry, and the serow triumph chant.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Ngashan phungli kapei khangaran, Khara-kameoli dori khami; Shi-wung",
+        "kachangli khanasung, Awungali share khayao salu! Kaphung kachangli",
+        "kashung sayat, Haophi kachonli mathan theikahai; Pangmashan mayarna",
+        "theisatkatha, Longshimli la kashak phanlu! Upon felling wild game (stag,",
+        "boar, serow), the hunting party sounded the victory horn (tala-khon) and",
+        "entered the village gates singing triumphant chants. The right thigh was",
+        "delivered to the Awunga.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Ascending the ridges in preparation, presenting gifts to the forest",
+        "spirits; Entering the dense mountain forest, Render the chief's rightful",
+        "tribute! The serow roaming high cliffs has been struck down; Clothed in",
+        "traditional cloth, its beauty displayed; The mighty youth have",
+        "conquered; Let the dormitory raise the hunting song of triumph! The",
+        "victory horn (tala-khon) accompanied entry into the village gates."
+      ],
+      "tangkhul_content": "Ngashan phungli kapei khangaran, Khara-kameoli dori khami; Shi-wung kachangli khanasung, Awungali share khayao salu! Kaphung kachangli kashung sayat, Haophi kachonli mathan theikahai; Pangmashan mayarna theisatkatha, Longshimli la kashak phanlu! Upon felling wild game (stag, boar, serow), the hunting party sounded the victory horn (tala-khon) and entered the village gates singing triumphant chants. The right thigh was delivered to the Awunga.",
+      "english_translation": "Ascending the ridges in preparation, presenting gifts to the forest spirits; Entering the dense mountain forest, Render the chief's rightful tribute! The serow roaming high cliffs has been struck down; Clothed in traditional cloth, its beauty displayed; The mighty youth have conquered; Let the dormitory raise the hunting song of triumph! The victory horn (tala-khon) accompanied entry into the village gates.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 4: Continuation (Page 13)",
+      "title": "Chapter 4 (Continued)",
+      "lines": [
+        "CHAPTER 4: READING CONTINUATION (PAGE 13)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Ngashan phungli kapei khangaran, Khara-kameoli dori khami; Shi-wung",
+        "kachangli khanasung, Awungali share khayao salu! Kaphung kachangli",
+        "kashung sayat, Haophi kachonli mathan theikahai; Pangmashan mayarna",
+        "theisatkatha, Longshimli la kashak phanlu! Upon felling wild game (stag,",
+        "boar, serow), the hunting party sounded the victory horn (tala-khon) and",
+        "entered the village gates singing triumphant chants. The right thigh was",
+        "delivered to the Awunga.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Ascending the ridges in preparation, presenting gifts to the forest",
+        "spirits; Entering the dense mountain forest, Render the chief's rightful",
+        "tribute! The serow roaming high cliffs has been struck down; Clothed in",
+        "traditional cloth, its beauty displayed; The mighty youth have",
+        "conquered; Let the dormitory raise the hunting song of triumph! The",
+        "victory horn (tala-khon) accompanied entry into the village gates."
+      ],
+      "tangkhul_content": "Ngashan phungli kapei khangaran, Khara-kameoli dori khami; Shi-wung kachangli khanasung, Awungali share khayao salu! Kaphung kachangli kashung sayat, Haophi kachonli mathan theikahai; Pangmashan mayarna theisatkatha, Longshimli la kashak phanlu! Upon felling wild game (stag, boar, serow), the hunting party sounded the victory horn (tala-khon) and entered the village gates singing triumphant chants. The right thigh was delivered to the Awunga.",
+      "english_translation": "Ascending the ridges in preparation, presenting gifts to the forest spirits; Entering the dense mountain forest, Render the chief's rightful tribute! The serow roaming high cliffs has been struck down; Clothed in traditional cloth, its beauty displayed; The mighty youth have conquered; Let the dormitory raise the hunting song of triumph! The victory horn (tala-khon) accompanied entry into the village gates.",
+      "notes": [
+        "Continuation reading page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 14)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Khamasung la (noun phrase): hunting anthem, forest pursuit chant",
+        "  * Khara-kameo (noun): spirit of the forest wilderness",
+        "  * Sayat (noun): serow (Capricornis sumatraensis), mountain antelope",
+        "  * Haophi (noun): traditional Tangkhul woven cloth / warrior mantle",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The honorific compound 'shi-wung' combines 'shi' (wild beast) with 'wung' (majesty / sovereign of game).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What animal tribute was delivered to the Awunga after a successful hunt?",
+        "  ? What traditional musical instrument announced the return of the hunting party?"
+      ],
+      "tangkhul_content": "Khamasung la: hunting anthem, forest pursuit chant\nKhara-kameo: spirit of the forest wilderness\nSayat: serow (Capricornis sumatraensis), mountain antelope\nHaophi: traditional Tangkhul woven cloth / warrior mantle",
+      "english_translation": "The honorific compound 'shi-wung' combines 'shi' (wild beast) with 'wung' (majesty / sovereign of game).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Funeral Elegies and Laments (Kathi La) (Page 15)",
+      "title": "Chapter 5: Funeral Elegies and Laments (Kathi La)",
+      "lines": [
+        "CHAPTER 5: FUNERAL ELEGIES AND LAMENTS (KATHI LA)",
+        "Summary: Guiding the departed soul along the trail to Kazeiram (the underworld realm of spirits) with ceremonial slit-drum rhythms.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "I-va o, nawui zatkatha shongfali, Kazeiram kongli kaphan thotna;",
+        "Khamatei ngathumli macharanlu, Khararbingna nali khaphung phungsai!",
+        "Mourners beat the wooden slit-log drum (khamor-thing) in slow,",
+        "syncopated rhythms accompanying the funeral chant. The dirge guides the",
+        "soul past dangerous spiritual cliffs into the peaceful gathering place",
+        "of the ancestors.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "O beloved father, along the path where you journey, When you reach the",
+        "dark river of Kazeiram; Do not fear the shadow of the unknown, For the",
+        "ancestors stand ready to welcome your soul! Mourners beat the wooden",
+        "slit-log drum (khamor-thing) in solemn rhythms guiding the soul to the",
+        "ancestral realm."
+      ],
+      "tangkhul_content": "I-va o, nawui zatkatha shongfali, Kazeiram kongli kaphan thotna; Khamatei ngathumli macharanlu, Khararbingna nali khaphung phungsai! Mourners beat the wooden slit-log drum (khamor-thing) in slow, syncopated rhythms accompanying the funeral chant. The dirge guides the soul past dangerous spiritual cliffs into the peaceful gathering place of the ancestors.",
+      "english_translation": "O beloved father, along the path where you journey, When you reach the dark river of Kazeiram; Do not fear the shadow of the unknown, For the ancestors stand ready to welcome your soul! Mourners beat the wooden slit-log drum (khamor-thing) in solemn rhythms guiding the soul to the ancestral realm.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 16)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Kathi la (noun phrase): funeral elegy, death dirge, lamentation song",
+        "  * Kazeiram (proper noun): realm of departed souls, the ancestral underworld",
+        "  * Khamor-thing (noun): ceremonial wooden slit-drum, log gong",
+        "  * Kathi mangan (noun phrase): departed spirit, soul of the deceased",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The vocative interjection 'I-va o' (O my father!) introduces profound filial grief in elegiac poetry.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is Kazeiram in Tangkhul eschatological belief?",
+        "  ? What musical instrument accompanies the recitation of Kathi La?"
+      ],
+      "tangkhul_content": "Kathi la: funeral elegy, death dirge, lamentation song\nKazeiram: realm of departed souls, the ancestral underworld\nKhamor-thing: ceremonial wooden slit-drum, log gong\nKathi mangan: departed spirit, soul of the deceased",
+      "english_translation": "The vocative interjection 'I-va o' (O my father!) introduces profound filial grief in elegiac poetry.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Martial Anthems and Victory Ballads (Rai La) (Page 17)",
+      "title": "Chapter 6: Martial Anthems and Victory Ballads (Rai La)",
+      "lines": [
+        "CHAPTER 6: MARTIAL ANTHEMS AND VICTORY BALLADS (RAI LA)",
+        "Summary: War songs of defense, invocation of lineage bravery, and the solemn spear burial peacemaking finale.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Wungram kashangli kachisobing, Kachu-kaphi pangli phungda vangasai;",
+        "Rari-kapangna raranglikha, Ithumwui ramli mazanglak mana! Following",
+        "conflict, warriors assembled with their adversaries under the guidance",
+        "of the Pukreila to sing the solemn reconciliation hymn, burying",
+        "spearheads in the earth and swearing eternal non-aggression.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Defenders of the noble homeland, marching forth with spear and shield in",
+        "hand; Though enemies approach, they shall never enter our village",
+        "territory! Following conflict, combatants gathered under the Pukreila's",
+        "mediation to sing the reconciliation hymn, burying spearheads in the",
+        "earth in eternal peace covenants."
+      ],
+      "tangkhul_content": "Wungram kashangli kachisobing, Kachu-kaphi pangli phungda vangasai; Rari-kapangna raranglikha, Ithumwui ramli mazanglak mana! Following conflict, warriors assembled with their adversaries under the guidance of the Pukreila to sing the solemn reconciliation hymn, burying spearheads in the earth and swearing eternal non-aggression.",
+      "english_translation": "Defenders of the noble homeland, marching forth with spear and shield in hand; Though enemies approach, they shall never enter our village territory! Following conflict, combatants gathered under the Pukreila's mediation to sing the reconciliation hymn, burying spearheads in the earth in eternal peace covenants.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Rai la (noun phrase): martial anthem, war song, defense hymn",
+        "  * Kachu-kaphi (noun phrase): spear and shield, battle armaments",
+        "  * Wungram kashang (noun phrase): the sovereign, honored Tangkhul territory",
+        "  * Mazanglak mana (verb phrase): shall never enter, absolutely barred entry",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Emphatic prohibitive suffix combination '-lak mana' denotes resolute defensive determination.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What armaments are described in the warrior's verse?",
+        "  ? How did martial songs transition into peacemaking ceremonies?"
+      ],
+      "tangkhul_content": "Rai la: martial anthem, war song, defense hymn\nKachu-kaphi: spear and shield, battle armaments\nWungram kashang: the sovereign, honored Tangkhul territory\nMazanglak mana: shall never enter, absolutely barred entry",
+      "english_translation": "Emphatic prohibitive suffix combination '-lak mana' denotes resolute defensive determination.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Proverbs and Moral Allegories in Song (Paotam La) (Page 19)",
+      "title": "Chapter 7: Proverbs and Moral Allegories in Song (Paotam La)",
+      "lines": [
+        "CHAPTER 7: PROVERBS AND MORAL ALLEGORIES IN SONG (PAOTAM LA)",
+        "Summary: Tribal philosophy in lyrical proverbs: agricultural diligence, clan obedience, and ethical rectitude.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Folk singers embedded tribal philosophy into short lyrical proverbs",
+        "(Paotam La) taught to children around winter fires: 'Khamatei",
+        "sachitheikha maram kashung mathailak mana' (A crooked beginning cannot",
+        "yield an upright crop). 'Shangwui tuili ngashon-katha kazing kashungli",
+        "pamsai' (He who heeds clan counsel walks under clear skies). 'Luingamli",
+        "mik kachangna raizanli raruikatha theilikha' (Eyes that watch the",
+        "terrace fields will see full granaries). The volume concludes with",
+        "critical musical apparatus: pentatonic scales, antiphonal Mawonzai",
+        "structures, and funeral metres.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tribal philosophy was embedded in memorable lyrical proverbs taught",
+        "around evening fires: A crooked start yields no upright crop; He who",
+        "heeds clan counsel walks under open skies; Eyes watchful over terrace",
+        "fields shall behold overflowing granaries. Critical apparatus includes",
+        "pentatonic scales, antiphonal structures, and elegiac drum metres."
+      ],
+      "tangkhul_content": "Folk singers embedded tribal philosophy into short lyrical proverbs (Paotam La) taught to children around winter fires: 'Khamatei sachitheikha maram kashung mathailak mana' (A crooked beginning cannot yield an upright crop). 'Shangwui tuili ngashon-katha kazing kashungli pamsai' (He who heeds clan counsel walks under clear skies). 'Luingamli mik kachangna raizanli raruikatha theilikha' (Eyes that watch the terrace fields will see full granaries). The volume concludes with critical musical apparatus: pentatonic scales, antiphonal Mawonzai structures, and funeral metres.",
+      "english_translation": "Tribal philosophy was embedded in memorable lyrical proverbs taught around evening fires: A crooked start yields no upright crop; He who heeds clan counsel walks under open skies; Eyes watchful over terrace fields shall behold overflowing granaries. Critical apparatus includes pentatonic scales, antiphonal structures, and elegiac drum metres.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Paotam la (noun phrase): proverbial ballad, pedagogical wisdom song",
+        "  * Maram kashung (noun phrase): righteous outcome, upright harvest",
+        "  * Mik kachang (verb phrase): watchful eye, vigilant diligence",
+        "  * Hao la (noun phrase): ancient folk chant on pentatonic scale",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Proverbial conditional '-khalakha' pairs ethical cause with inevitable agricultural or social consequence.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Translate the proverb 'Shangwui tuili ngashon-katha kazing kashungli pamsai' and interpret its cultural meaning.",
+        "  ? Summarize the metric features of classical Tangkhul folk poetry documented by Ruivah."
+      ],
+      "tangkhul_content": "Paotam la: proverbial ballad, pedagogical wisdom song\nMaram kashung: righteous outcome, upright harvest\nMik kachang: watchful eye, vigilant diligence\nHao la: ancient folk chant on pentatonic scale",
+      "english_translation": "Proverbial conditional '-khalakha' pairs ethical cause with inevitable agricultural or social consequence.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan) -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  Shirui kashong [proper noun]: Shirui Peak, highest sacred mountain in Ukhrul",
+        "  Thing-chui [noun]: sacred forest tree, central ridge timber",
+        "  Khonkhur [noun]: voice, resonant vocal harmony, clan assembly",
+        "  Tui-ngatei [noun phrase]: paired metaphorical couplet, synonymous poetic parallelism",
+        "  Lui-kaphit [noun]: weeding of terrace paddy fields in monsoon",
+        "  Rui-kashang [noun phrase]: abundant harvest, multiplying grain sheaves",
+        "  Kong-khor tara [noun phrase]: pure mountain brook water",
+        "  Tingkhami [noun]: peace, domestic tranquility, harmonious blessing",
+        "  Mawonzai [noun]: romantic folk dialogue, courting poetry duet",
+        "  Won-kapha [noun phrase]: fair flower, exquisite blossom",
+        "  Maiwon [noun]: countenance, blooming beauty of face",
+        "  Shirui won [proper noun]: the Shirui Lily (Lilium mackliniae), botanical emblem",
+        "  Khamasung la [noun phrase]: hunting anthem, forest pursuit chant",
+        "  Khara-kameo [noun]: spirit of the forest wilderness",
+        "  Sayat [noun]: serow (Capricornis sumatraensis), mountain antelope",
+        "  Haophi [noun]: traditional Tangkhul woven cloth / warrior mantle",
+        "  Kathi la [noun phrase]: funeral elegy, death dirge, lamentation song",
+        "  Kazeiram [proper noun]: realm of departed souls, the ancestral underworld",
+        "  Khamor-thing [noun]: ceremonial wooden slit-drum, log gong",
+        "  Kathi mangan [noun phrase]: departed spirit, soul of the deceased",
+        "  Rai la [noun phrase]: martial anthem, war song, defense hymn",
+        "  Kachu-kaphi [noun phrase]: spear and shield, battle armaments",
+        "  Wungram kashang [noun phrase]: the sovereign, honored Tangkhul territory",
+        "  Mazanglak mana [verb phrase]: shall never enter, absolutely barred entry",
+        "  Paotam la [noun phrase]: proverbial ballad, pedagogical wisdom song",
+        "  Maram kashung [noun phrase]: righteous outcome, upright harvest",
+        "  Mik kachang [verb phrase]: watchful eye, vigilant diligence",
+        "  Hao la [noun phrase]: ancient folk chant on pentatonic scale"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 28"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan) -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-LIT-005",
+        "Title: Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan)",
+        "Publisher: Tribal Research Institute, Government of Manipur, Imphal",
+        "Publication Year: 1993",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 7",
+        "Total Words Indexed: 784",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "Shirui kashong",
+        "pos": "proper noun",
+        "meaning": "Shirui Peak, highest sacred mountain in Ukhrul"
+      },
+      {
+        "word": "Thing-chui",
+        "pos": "noun",
+        "meaning": "sacred forest tree, central ridge timber"
+      },
+      {
+        "word": "Khonkhur",
+        "pos": "noun",
+        "meaning": "voice, resonant vocal harmony, clan assembly"
+      },
+      {
+        "word": "Tui-ngatei",
+        "pos": "noun phrase",
+        "meaning": "paired metaphorical couplet, synonymous poetic parallelism"
+      },
+      {
+        "word": "Lui-kaphit",
+        "pos": "noun",
+        "meaning": "weeding of terrace paddy fields in monsoon"
+      },
+      {
+        "word": "Rui-kashang",
+        "pos": "noun phrase",
+        "meaning": "abundant harvest, multiplying grain sheaves"
+      },
+      {
+        "word": "Kong-khor tara",
+        "pos": "noun phrase",
+        "meaning": "pure mountain brook water"
+      },
+      {
+        "word": "Tingkhami",
+        "pos": "noun",
+        "meaning": "peace, domestic tranquility, harmonious blessing"
+      },
+      {
+        "word": "Mawonzai",
+        "pos": "noun",
+        "meaning": "romantic folk dialogue, courting poetry duet"
+      },
+      {
+        "word": "Won-kapha",
+        "pos": "noun phrase",
+        "meaning": "fair flower, exquisite blossom"
+      },
+      {
+        "word": "Maiwon",
+        "pos": "noun",
+        "meaning": "countenance, blooming beauty of face"
+      },
+      {
+        "word": "Shirui won",
+        "pos": "proper noun",
+        "meaning": "the Shirui Lily (Lilium mackliniae), botanical emblem"
+      },
+      {
+        "word": "Khamasung la",
+        "pos": "noun phrase",
+        "meaning": "hunting anthem, forest pursuit chant"
+      },
+      {
+        "word": "Khara-kameo",
+        "pos": "noun",
+        "meaning": "spirit of the forest wilderness"
+      },
+      {
+        "word": "Sayat",
+        "pos": "noun",
+        "meaning": "serow (Capricornis sumatraensis), mountain antelope"
+      },
+      {
+        "word": "Haophi",
+        "pos": "noun",
+        "meaning": "traditional Tangkhul woven cloth / warrior mantle"
+      },
+      {
+        "word": "Kathi la",
+        "pos": "noun phrase",
+        "meaning": "funeral elegy, death dirge, lamentation song"
+      },
+      {
+        "word": "Kazeiram",
+        "pos": "proper noun",
+        "meaning": "realm of departed souls, the ancestral underworld"
+      },
+      {
+        "word": "Khamor-thing",
+        "pos": "noun",
+        "meaning": "ceremonial wooden slit-drum, log gong"
+      },
+      {
+        "word": "Kathi mangan",
+        "pos": "noun phrase",
+        "meaning": "departed spirit, soul of the deceased"
+      },
+      {
+        "word": "Rai la",
+        "pos": "noun phrase",
+        "meaning": "martial anthem, war song, defense hymn"
+      },
+      {
+        "word": "Kachu-kaphi",
+        "pos": "noun phrase",
+        "meaning": "spear and shield, battle armaments"
+      },
+      {
+        "word": "Wungram kashang",
+        "pos": "noun phrase",
+        "meaning": "the sovereign, honored Tangkhul territory"
+      },
+      {
+        "word": "Mazanglak mana",
+        "pos": "verb phrase",
+        "meaning": "shall never enter, absolutely barred entry"
+      },
+      {
+        "word": "Paotam la",
+        "pos": "noun phrase",
+        "meaning": "proverbial ballad, pedagogical wisdom song"
+      },
+      {
+        "word": "Maram kashung",
+        "pos": "noun phrase",
+        "meaning": "righteous outcome, upright harvest"
+      },
+      {
+        "word": "Mik kachang",
+        "pos": "verb phrase",
+        "meaning": "watchful eye, vigilant diligence"
+      },
+      {
+        "word": "Hao la",
+        "pos": "noun phrase",
+        "meaning": "ancient folk chant on pentatonic scale"
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-LIT-005",
+      "title": "Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan)",
+      "total_pages": 22,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 7,
+  "total_words": 1521,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Epic Ballads of Ancestral Heroes (Luikham and Raikham)",
+      "tangkhul_text": "Shirui kashongli kashung thot, Luikham mayarna thing-chui sathei; Shangwui khonkhur kachiva ngasoda, Wungram khararchan mathan salu! Khanggo shongli zattang thotna, Khayeikatha tara khorli; Meithei ramli ngaso-chithei, Raikham mayarna phara pamsai. The metre follows the traditional heptasyllabic cadence (seven syllables per line) typical of classical Tangkhul folk poetry, with internal rhyme and paired metaphorical couplets (tui-ngatei).",
+      "translation_en": "On the high ridge of Shirui Peak, Hero Luikham felled the sacred tree; All the clans gathered with one voice, Singing the praise of the ancestral land! As they journeyed toward the eastern valleys, beside the clear sparkling streams, Brother Raikham established peaceful commerce with the peoples of the plains, cementing ancestral brotherhood. Classical heptasyllabic metre with paired metaphorical couplets."
+    },
+    {
+      "chapter": "Chapter 2: Agricultural Chants of Luira and Chumpha",
+      "tangkhul_text": "Luira phanit rarang thotna, Luingam ngaleili raruikatha chitheilu; Varivara kaphungli khangamor, Zingkum hili rui-kashang phanlu! Phaphuk ngashingda lui-kaphitli, Ngala-mayar ngasoda vangasai; Thangkhamir kachangli khangarao, Kong-khor tara mangda ngasolu! Chumpha phanit kasang thotna, Raizan shimli kashung kaping; Ava-ayi shiman mathailakla, Miwung kachivali tingkhami phanlu!",
+      "translation_en": "When Luira festival draws near, present the seed of life to the terrace field; Praying to Almighty God on high, May this new year bring a bountiful harvest! With sturdy feet in muddy terrace waters, youth and maidens labor side by side; Though parched by midday sun, we drink of mountain streams together! When Chumpha feast arrives, granaries are filled to overflowing; let no household suffer want, and may peace dwell with all the people."
+    },
+    {
+      "chapter": "Chapter 3: Romantic Courting Dialogues (Mawonzai)",
+      "tangkhul_text": "The Suitor's Verse (Mayarwui La): 'Kazing kashungli won-kapha, Ngalawui maiwon theisai; Iwui malungli khayangna, Nali kongashi phunglikha.' The Maiden's Response (Ngalawui Ngahan): 'Shirui wonna kachang phungsai, Kha mayar nawui tuichi kashung; Shangwui khararbing ngashon-khalakha, Iwui malungli tingkhami phanlu.' Courtship was conducted through intricate metaphorical riddles, where direct speech was avoided in favor of floral allegories.",
+      "translation_en": "Suitor: 'Upon the mountain heights blossoms a fair flower, I behold the maiden's radiant countenance; Looking into my heart, I bear deep love for you.' Maiden: 'The Shirui Lily blooms on high, yet young man, your words ring true; If the elders of the clans grant blessing, peace shall find a home within my heart.' Courtship duets avoided direct speech in favor of floral allegories."
+    },
+    {
+      "chapter": "Chapter 4: Hunting Incantations and Forest Anthems (Khamasung La)",
+      "tangkhul_text": "Ngashan phungli kapei khangaran, Khara-kameoli dori khami; Shi-wung kachangli khanasung, Awungali share khayao salu! Kaphung kachangli kashung sayat, Haophi kachonli mathan theikahai; Pangmashan mayarna theisatkatha, Longshimli la kashak phanlu! Upon felling wild game (stag, boar, serow), the hunting party sounded the victory horn (tala-khon) and entered the village gates singing triumphant chants. The right thigh was delivered to the Awunga.",
+      "translation_en": "Ascending the ridges in preparation, presenting gifts to the forest spirits; Entering the dense mountain forest, Render the chief's rightful tribute! The serow roaming high cliffs has been struck down; Clothed in traditional cloth, its beauty displayed; The mighty youth have conquered; Let the dormitory raise the hunting song of triumph! The victory horn (tala-khon) accompanied entry into the village gates."
+    },
+    {
+      "chapter": "Chapter 5: Funeral Elegies and Laments (Kathi La)",
+      "tangkhul_text": "I-va o, nawui zatkatha shongfali, Kazeiram kongli kaphan thotna; Khamatei ngathumli macharanlu, Khararbingna nali khaphung phungsai! Mourners beat the wooden slit-log drum (khamor-thing) in slow, syncopated rhythms accompanying the funeral chant. The dirge guides the soul past dangerous spiritual cliffs into the peaceful gathering place of the ancestors.",
+      "translation_en": "O beloved father, along the path where you journey, When you reach the dark river of Kazeiram; Do not fear the shadow of the unknown, For the ancestors stand ready to welcome your soul! Mourners beat the wooden slit-log drum (khamor-thing) in solemn rhythms guiding the soul to the ancestral realm."
+    },
+    {
+      "chapter": "Chapter 6: Martial Anthems and Victory Ballads (Rai La)",
+      "tangkhul_text": "Wungram kashangli kachisobing, Kachu-kaphi pangli phungda vangasai; Rari-kapangna raranglikha, Ithumwui ramli mazanglak mana! Following conflict, warriors assembled with their adversaries under the guidance of the Pukreila to sing the solemn reconciliation hymn, burying spearheads in the earth and swearing eternal non-aggression.",
+      "translation_en": "Defenders of the noble homeland, marching forth with spear and shield in hand; Though enemies approach, they shall never enter our village territory! Following conflict, combatants gathered under the Pukreila's mediation to sing the reconciliation hymn, burying spearheads in the earth in eternal peace covenants."
+    },
+    {
+      "chapter": "Chapter 7: Proverbs and Moral Allegories in Song (Paotam La)",
+      "tangkhul_text": "Folk singers embedded tribal philosophy into short lyrical proverbs (Paotam La) taught to children around winter fires: 'Khamatei sachitheikha maram kashung mathailak mana' (A crooked beginning cannot yield an upright crop). 'Shangwui tuili ngashon-katha kazing kashungli pamsai' (He who heeds clan counsel walks under clear skies). 'Luingamli mik kachangna raizanli raruikatha theilikha' (Eyes that watch the terrace fields will see full granaries). The volume concludes with critical musical apparatus: pentatonic scales, antiphonal Mawonzai structures, and funeral metres.",
+      "translation_en": "Tribal philosophy was embedded in memorable lyrical proverbs taught around evening fires: A crooked start yields no upright crop; He who heeds clan counsel walks under open skies; Eyes watchful over terrace fields shall behold overflowing granaries. Critical apparatus includes pentatonic scales, antiphonal structures, and elegiac drum metres."
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "title": "35 Traditional Tangkhul Naga Proverbs & Idiomatic Maxims (Paocham / Paotam)",
+  "hindi_title": "तंगखुल नागा ३५ पारम्परिक लोकोक्तियाँ, मुहावरे एवं नीति-वचन संग्रह",
+  "total_proverbs": 35,
+  "source": "Rev. William Pettigrew (1918) & Tangkhul Elders Folklore Documentation",
+  "proverbs": [
+    {
+      "id": "PAOCHAM-001",
+      "tangkhul": "Ra-chay-li theingui-shai-lu, rit-linga-lung khang-san-lu, kachi katha.",
+      "literal": "Roasting fruit when thirsty, or putting a stone on an already heavy load.",
+      "english": "Applies to a person who adds to his misery by repeated silly actions.",
+      "hindi": "प्यास लगने पर फल भूनना, या भारी बोझ पर पत्थर और लाद देना। (अपनी ही बेवकूफी से अपनी मुसीबत बढ़ाना / आफत मोल लेना।)",
+      "parallel_english_proverb": "Adding fuel to fire / Adding insult to injury",
+      "category": "folklore & wisdom"
+    },
+    {
+      "id": "PAOCHAM-002",
+      "tangkhul": "Par-ki kaja-na shup-a, shup-ki kaja-na par-a, kachi katha.",
+      "literal": "Closing fist when one ought to open it, and opening when one ought to close.",
+      "english": "Applies to an ambitious, greedy person who thinks he can get a lot for nothing.",
+      "hindi": "जब हाथ खोलना चाहिए तब मुट्ठी भींचना, और जब बंद रखना चाहिए तब खोल देना। (लालच में सब कुछ गँवा बैठना / लालच बुरी बला है।)",
+      "parallel_english_proverb": "Covetousness over-reacheth itself",
+      "category": "greed & folly"
+    },
+    {
+      "id": "PAOCHAM-003",
+      "tangkhul": "Khamatha sa-gi ji-la fa nga-sa-thui-ho-wa, kachi katha.",
+      "literal": "Intending to do something good, but turning it into a complete mess.",
+      "english": "Applies to one who is unfortunate in any attempt to do something good.",
+      "hindi": "अच्छा करने चले थे पर काम और बिगड़ गया। (चौबे जी गए थे छब्बे बनने, दुबे बन कर आए।)",
+      "parallel_english_proverb": "The road to hell is paved with good intentions",
+      "category": "experience"
+    },
+    {
+      "id": "PAOCHAM-004",
+      "tangkhul": "Nga-ley-a-kha shi-ley-tha, nga-yur-a-kha nga-wur tha, yay-a-kha nga-yay tha, kachi katha.",
+      "literal": "Unity is like wasps' nest on rock; discord is like moles' nest; shallowness is like a sieve.",
+      "english": "United we stand strong as a rock; divided we collapse like dry loam.",
+      "hindi": "एकता चट्टान पर बने ततैयों के छत्ते जैसी अटूट होती है; फूट पड़ने पर वह छछूंदर के बिल जैसी ढह जाती है।",
+      "parallel_english_proverb": "United we stand, divided we fall",
+      "category": "kinship & unity"
+    },
+    {
+      "id": "PAOCHAM-005",
+      "tangkhul": "Tho-rachi-than thri, thai-ra chi-than tho, kachi katha.",
+      "literal": "Expecting feast and starving; expecting nothing and finding abundance.",
+      "english": "Receiving unexpected fortune when least expected, and disappointed when expectant.",
+      "hindi": "जब बहुत उम्मीद थी तब भूखे रहे, और जब कोई आस न थी तब छप्पर फाड़ कर मिला।",
+      "parallel_english_proverb": "Blessed are they that expect nothing, for they shall not be disappointed",
+      "category": "fortune & expectation"
+    },
+    {
+      "id": "PAOCHAM-006",
+      "tangkhul": "Mei kachot-li tara phungda kazat, kachi katha.",
+      "literal": "Carrying cold water while running towards a raging wild forest fire.",
+      "english": "Coming well-prepared with peace when tempers flare in clan gatherings.",
+      "hindi": "जंगल की आग बुझाने के लिए ठंडा पानी लेकर दौड़ना। (क्रोध में शांति का मरहम लगाना।)",
+      "parallel_english_proverb": "A soft answer turneth away wrath",
+      "category": "peace & conciliation"
+    },
+    {
+      "id": "PAOCHAM-007",
+      "tangkhul": "Lung-kui eina tonda kazat kha pheikhavai makalei, kachi katha.",
+      "literal": "Gliding down steep crags like river eel without arms or feet.",
+      "english": "Overcoming insurmountable natural obstacles through quiet perseverance and adaptability.",
+      "hindi": "बिना हाथ-पैर के भी ऊँची फिसलन भरी चट्टानों से सुरक्षित निकल जाना। (धैर्य और युक्ति से हर बाधा पार करना।)",
+      "parallel_english_proverb": "Where there is a will, there is a way",
+      "category": "perseverance"
+    },
+    {
+      "id": "PAOCHAM-008",
+      "tangkhul": "Kaphung terrace-li yarshon-sakashung kha phei eina khon masamana.",
+      "literal": "Bowing low across terrace fields from dawn to dusk without complaining.",
+      "english": "Tireless diligence and quiet hard work bringing forth abundant harvest.",
+      "hindi": "सीढ़ीदार खेतों में भोर से शाम तक बिना उफ किए मेहनत करना। (परिश्रम ही सफलता की कुंजी है।)",
+      "parallel_english_proverb": "Hard work never kills a man / Diligence is the mother of good luck",
+      "category": "labor & agriculture"
+    },
+    {
+      "id": "PAOCHAM-009",
+      "tangkhul": "Khamang-tui ror-a-kha lungli chei-thada kapam, kachi katha.",
+      "literal": "A solemn promise once carved stands firmer than iron in mountain granite.",
+      "english": "A man of true honor never breaks his sworn word.",
+      "hindi": "मुँह से निकला वचन पत्थर की लकीर होता है। (प्राण जाए पर वचन न जाए।)",
+      "parallel_english_proverb": "An honest man's word is as good as his bond",
+      "category": "honor & integrity"
+    },
+    {
+      "id": "PAOCHAM-010",
+      "tangkhul": "Ngashunli khangapa, ngaya tharan meira phungkazat, kachi katha.",
+      "literal": "Resting quietly by day, glowing brightly when darkness falls over the ridge.",
+      "english": "A humble and modest person whose true brilliance shines in times of crisis.",
+      "hindi": "दिन में शांत रहकर विपत्ति की रात में मशाल बनकर चमकना। (संकट में ही सच्चे वीर की पहचान होती है।)",
+      "parallel_english_proverb": "Adversity introduces a man to himself",
+      "category": "modesty & courage"
+    },
+    {
+      "id": "PAOCHAM-011",
+      "tangkhul": "Maza khamahon tharan samkui eina phei mashun, kachi katha.",
+      "literal": "Striking the wooden mortar with rhythmic precision when golden paddy is ripe.",
+      "english": "Seizing the opportune moment when circumstances are ripe for harvest.",
+      "hindi": "धान पकते ही सही ताल में मूसल चलाना। (अवसर का लाभ उठाना / मौके पर चौका मारना।)",
+      "parallel_english_proverb": "Strike while the iron is hot",
+      "category": "opportunity"
+    },
+    {
+      "id": "PAOCHAM-012",
+      "tangkhul": "Ava-wui ning eina tara kaphung thada ngakhum, kachi katha.",
+      "literal": "A mother's heart is a deep spring that never dries through summer drought.",
+      "english": "Unconditional motherly love and boundless familial devotion.",
+      "hindi": "माँ का स्नेह उस गहरे चश्मे जैसा है जो जेठ की दुपहरी में भी कभी नहीं सूखता।",
+      "parallel_english_proverb": "A mother's love is peace / Blood is thicker than water",
+      "category": "kinship & devotion"
+    },
+    {
+      "id": "PAOCHAM-013",
+      "tangkhul": "Minao-na kaphungli zat-la thing-kuisam ma-khat-mana, kachi katha.",
+      "literal": "Walking through high pine woods without disturbing dry fallen needles.",
+      "english": "Living so harmoniously and respectfully with nature that no harm is left behind.",
+      "hindi": "चीड़ के जंगल से इस तरह गुज़रना कि सूखी पत्ती भी न चटके। (प्रकृति के साथ पूर्ण सामंजस्य।)",
+      "parallel_english_proverb": "Leave nothing but footprints, take nothing but memories",
+      "category": "ecology & nature"
+    },
+    {
+      "id": "PAOCHAM-014",
+      "tangkhul": "Sira kachangli khayang-eili phei khurli ngatak, kachi katha.",
+      "literal": "Gazing at the distant stars while stepping blind into the muddy ditch.",
+      "english": "Being so preoccupied with lofty daydreams that one forgets immediate duties.",
+      "hindi": "आसमान के तारे देखते-देखते पैरों के नीचे के गड्ढे में गिर जाना। (हवाई किले बनाना।)",
+      "parallel_english_proverb": "Keep your feet on the ground and your eyes on the stars",
+      "category": "folly & distraction"
+    },
+    {
+      "id": "PAOCHAM-015",
+      "tangkhul": "Khamiyang-wui hamli tara kachui ma-tam-mana, kachi katha.",
+      "literal": "The guest pot in a hospitable home is never dry when a stranger knocks.",
+      "english": "Generous hospitality is the crown jewel of Tangkhul village character.",
+      "hindi": "अतिथि-सत्कार करने वाले के घर की हाँडी कभी खाली नहीं रहती। (अतिथि देवो भव।)",
+      "parallel_english_proverb": "Hospitality makes all men kin",
+      "category": "hospitality"
+    },
+    {
+      "id": "PAOCHAM-016",
+      "tangkhul": "Khara-ngashat kakhon eina lami yām-thui-haowa, kachi katha.",
+      "literal": "The single sharp bark of the deer causes the lurking leopard to flee.",
+      "english": "Timely warning from the alert saves the entire community from disaster.",
+      "hindi": "काकड़ की एक तीखी पुकार से घात लगाए तेंदुए को भागना पड़ता है। (समय पर दी गई चेतावनी जान बचाती है।)",
+      "parallel_english_proverb": "Forewarned is forearmed",
+      "category": "vigilance"
+    },
+    {
+      "id": "PAOCHAM-017",
+      "tangkhul": "Wung-wui akhonli ngaka kha mashunli zang-ra, kachi katha.",
+      "literal": "Heeding the quiet counsel of village elders keeps one upon the safe mountain trail.",
+      "english": "Respect for ancestral wisdom safeguards the youth from cliffside ruin.",
+      "hindi": "बुजुर्गों की बात मानकर चलने से पथरीले रास्तों पर कभी पैर नहीं फिसलते।",
+      "parallel_english_proverb": "Listen to the elders, for they have traveled the road",
+      "category": "wisdom & elders"
+    },
+    {
+      "id": "PAOCHAM-018",
+      "tangkhul": "Fa-kharar-na ngaya rurung-eili chimik kakhaya mathei, kachi katha.",
+      "literal": "The aged hound dozes by the fire, yet hears the softest tread in the yard.",
+      "english": "Old age brings sharpened inner perception and quiet intuition.",
+      "hindi": "बूढ़ा कुत्ता चूल्हे के पास सोता ज़रूर है, पर आँगन की मद्धिम आहट भी सुन लेता है।",
+      "parallel_english_proverb": "There is no fool like an old fool / Experience is the best teacher",
+      "category": "intuition & age"
+    },
+    {
+      "id": "PAOCHAM-019",
+      "tangkhul": "Khong-kharar kakhong tharan mayarnao saikora ngasot-ser-re, kachi katha.",
+      "literal": "When the great village log drum sounds, all men stand together as one wall.",
+      "english": "In times of collective defense, internal bickering vanishes instantly.",
+      "hindi": "जब गाँव का महा-नगाड़ा बजता है, तब सब मतभेद भूलकर एक दीवार बन जाते हैं।",
+      "parallel_english_proverb": "A common danger unites even foes",
+      "category": "solidarity"
+    },
+    {
+      "id": "PAOCHAM-020",
+      "tangkhul": "Shongfa kharar-li kazat-a-kha aphei ma-chot-mana, kachi katha.",
+      "literal": "Walking along the ancient beaten footpath ensures sure feet that never stumble.",
+      "english": "Adhering to proven tradition brings security and peace of mind.",
+      "hindi": "पुरखों की बनी पगडंडी पर चलने से पाँव में कभी काँटा नहीं चुभता।",
+      "parallel_english_proverb": "Do not leave the old road for a new one",
+      "category": "tradition"
+    },
+    {
+      "id": "PAOCHAM-021",
+      "tangkhul": "Rap-kaphungli meikha kashur-thada ning kacham ngachon-ra, kachi katha.",
+      "literal": "Like smoked venison cured above the hearth, patience sweetens character.",
+      "english": "Trials endured with patience temper human character into pure gold.",
+      "hindi": "जैसे मचान पर धुएँ में सूखा माँस सालों चलता है, वैसे ही धैर्य से इंसान परिपक्व होता है।",
+      "parallel_english_proverb": "Patience is bitter, but its fruit is sweet",
+      "category": "patience"
+    },
+    {
+      "id": "PAOCHAM-022",
+      "tangkhul": "Tangkhul-tui eina laa kasa-kha kaphung chiko ngakhum-ra, kachi katha.",
+      "literal": "Singing in ancestral Tangkhul tongue echoes across nine mountain ridges.",
+      "english": "Preserving one's native language preserves the very soul of the ancestors.",
+      "hindi": "मातृभाषा तंगखुल में गाया गया लोक-गीत नौ पहाड़ियों के पार तक गूँजता है।",
+      "parallel_english_proverb": "A language is the soul of its people",
+      "category": "language & identity"
+    },
+    {
+      "id": "PAOCHAM-023",
+      "tangkhul": "Zimik kashung-tharan kachon phunglu, ngazing tharan chabi thumlu, kachi katha.",
+      "literal": "Work while the sun blazes high; lock the gate securely when dusk falls.",
+      "english": "Do all things in their proper season and balance labor with domestic rest.",
+      "hindi": "धूप रहते मेहनत करो, और शाम होते ही घर की अर्गला लगाओ। (समय पर काम और समय पर विश्राम।)",
+      "parallel_english_proverb": "Make hay while the sun shines",
+      "category": "discipline"
+    },
+    {
+      "id": "PAOCHAM-024",
+      "tangkhul": "Meikhu makalei-eili meira ma-ngaphar-mana, kachi katha.",
+      "literal": "Where there is no smoke rising, there can be no crackling campfire.",
+      "english": "Rumors rarely originate without some core grain of truth.",
+      "hindi": "जहाँ धुआँ नहीं, वहाँ आग नहीं हो सकती। (बिना आग के धुआँ नहीं उठता।)",
+      "parallel_english_proverb": "Where there's smoke, there's fire",
+      "category": "truth & observation"
+    },
+    {
+      "id": "PAOCHAM-025",
+      "tangkhul": "Kharai-kanao-li lungkui khangsan-a-kha kachir kakhai-ra, kachi katha.",
+      "literal": "Packing heavy river stones into a tiny cane basket breaks the bottom through.",
+      "english": "Imposing unbearable responsibilities upon the young or weak causes ruin.",
+      "hindi": "नन्ही टोकरी में भारी पत्थर लादने से उसकी तली फट जाती है। (क्षमता से अधिक बोझ न डालो।)",
+      "parallel_english_proverb": "The last straw breaks the camel's back",
+      "category": "moderation"
+    },
+    {
+      "id": "PAOCHAM-026",
+      "tangkhul": "Hamei makalei-eili khor-tara ma-nganam-mana, kachi katha.",
+      "literal": "Without yeast cake, boiled rice can never turn into fragrant wine.",
+      "english": "Great accomplishments require the catalytic spark of inspiration and effort.",
+      "hindi": "बिना खमीर के चावल कभी मीठी मदिरा में नहीं बदल सकता। (बिना प्रेरणा और प्रयास के सिद्धि नहीं।)",
+      "parallel_english_proverb": "No pain, no gain",
+      "category": "effort & transformation"
+    },
+    {
+      "id": "PAOCHAM-027",
+      "tangkhul": "Pui-kashao eina lung-phei chathat-a-kha pui kakhai-ra, kachi katha.",
+      "literal": "Striking sharp cliff rocks with flexible green bamboo snaps the cane in two.",
+      "english": "Trying to defeat rigid malice with rash anger harms oneself alone.",
+      "hindi": "पत्थर पर बाँस की छड़ी जोर से मारने पर छड़ी ही टूटती है। (क्रोध में अपना ही नुकसान होता है।)",
+      "parallel_english_proverb": "He who spits against the wind spits in his own face",
+      "category": "prudence"
+    },
+    {
+      "id": "PAOCHAM-028",
+      "tangkhul": "Shim-wui yumshang kaphung-thada amei-ngasot-na shim khavai lei, kachi katha.",
+      "literal": "Like the central house pillar holds the roof, loving brotherhood sustains the clan.",
+      "english": "Mutual trust between brothers is the unbreakable support of the family.",
+      "hindi": "जैसे घर का मुख्य खंभा छप्पर थामता है, वैसे ही भाइयों का प्रेम परिवार को जोड़े रखता है।",
+      "parallel_english_proverb": "A brother is a friend given by nature",
+      "category": "brotherhood & family"
+    },
+    {
+      "id": "PAOCHAM-029",
+      "tangkhul": "Tara-shongfa-li khangao-eili khorum makalei, kachi katha.",
+      "literal": "Drawing water at the living spring leaves no mud inside the drinking cup.",
+      "english": "Seeking knowledge directly from original ancestral sources keeps the mind clear.",
+      "hindi": "ताज़ा बहते झरने से पानी लेने पर प्याले में कभी कीचड़ नहीं आता। (मूल स्रोतों से ज्ञान पाना।)",
+      "parallel_english_proverb": "Drink from the spring, not the ditch",
+      "category": "knowledge & clarity"
+    },
+    {
+      "id": "PAOCHAM-030",
+      "tangkhul": "Shirui-wui kashong won-thada kaphā-bing-na kuiphungli phā-ra, kachi katha.",
+      "literal": "Like the Shirui Lily blooming on the summit, genuine virtue cannot be hidden in shadow.",
+      "english": "True noble character is recognized and celebrated far and wide.",
+      "hindi": "शिरुई पर्वत के दुर्लभ फूल की तरह, सच्चा सद्गुण कभी अँधेरे में नहीं छिपता।",
+      "parallel_english_proverb": "A good name is better than precious ointment",
+      "category": "virtue & renown"
+    },
+    {
+      "id": "PAOCHAM-031",
+      "tangkhul": "Chumpha tharan shimkhur khong-eili maza-wui ngachee kathei, kachi katha.",
+      "literal": "When opening the granary at Chumpha, the harvest tells the truth of the year's toil.",
+      "english": "Ultimate results reveal the true quality of past labor and preparation.",
+      "hindi": "कटाई के बाद जब अन्न-भंडार खुलता है, तब साल भर की मेहनत का सच सामने आता है।",
+      "parallel_english_proverb": "By their fruits ye shall know them",
+      "category": "harvest & reward"
+    },
+    {
+      "id": "PAOCHAM-032",
+      "tangkhul": "Lami-kanao-na kuisam ngaphar-la hok-kharam ma-ngachee-mana, kachi katha.",
+      "literal": "A small wildcat spitting fire cannot intimidate a tusker boar.",
+      "english": "Empty bluster and hollow boasts collapse before genuine strength.",
+      "hindi": "छोटी बिल्ली के गुर्राने से जंगली सूअर कभी भयभीत नहीं होता। (खोखली धमकी से काम नहीं चलता।)",
+      "parallel_english_proverb": "Barking dogs seldom bite",
+      "category": "courage vs boast"
+    },
+    {
+      "id": "PAOCHAM-033",
+      "tangkhul": "Thingrong kaphung-wui tarep-thada okathuili thot-thotli mashang, kachi katha.",
+      "literal": "Like deep roots of an ancient banyan holding terrace slopes through centuries.",
+      "english": "Deep ancestral cultural roots keep a people standing through all historic storms.",
+      "hindi": "विशाल वटवृक्ष की गहरी जड़ों की तरह, जो तूफानों में भी धरती को थामे रखती हैं।",
+      "parallel_english_proverb": "A tree with strong roots laughs at storms",
+      "category": "heritage & endurance"
+    },
+    {
+      "id": "PAOCHAM-034",
+      "tangkhul": "Amai mashun-eili khon kashok marang, kachi katha.",
+      "literal": "The straight wooden hoe cuts clean without clattering noise.",
+      "english": "A truly competent craftsman works quietly without bragging.",
+      "hindi": "सीधा मजबूत फावड़ा बिना शोर मचाए साफ काम करता है। (योग्य व्यक्ति काम करके दिखाता है, बातें नहीं।)",
+      "parallel_english_proverb": "Still waters run deep / Actions speak louder than words",
+      "category": "humility & craft"
+    },
+    {
+      "id": "PAOCHAM-035",
+      "tangkhul": "Tangkhul Ram-wui lung-kharar-thada phaning-kacham ngaror-ra, kachi katha.",
+      "literal": "Standing as unyielding as the sacred standing stones of our Tangkhul homeland.",
+      "english": "Uncompromising loyalty to land, people, and truth through all eternity.",
+      "hindi": "तंगखुल मातृभूमि के पवित्र स्मृति-स्तंभों की तरह सत्य और स्वाभिमान पर अडिग रहना।",
+      "parallel_english_proverb": "Firm as a rock in the midst of the sea",
+      "category": "patriotism & honor"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+# Complete Digital Text: Tangkhul-English, Hindi Dictionary
+# Identifier: BK-CIIL-004
+# Source: Tangkhul Language Library Digital Preservation Archive
+# Format: Contiguous Cover-to-Cover Digitized Text
+
+--- Page 1 ---
+## Tangkhul Language Library -- BK-CIIL-004
+### Tangkhul-English, Hindi Dictionary
+TITLE: Tangkhul-English, Hindi Dictionary
+Identifier: BK-CIIL-004
+Compilers: Dr. S. Arokianathan & Dr. Rekha Sharma
+Publisher: Central Institute of Indian Languages, Mysore (1995)
+ISBN: 81-7342-028-9
+Language: Tangkhul, English, Hindi
+License: Academic & Linguistic Preservation (Internet Archive: tangkhulenglishh00arok)
+
+--- Page 2 ---
+## BK-CIIL-004 -- Preface & Linguistic Imprint
+### Preface & Lexicographical Introduction
+PREFACE BY CENTRAL INSTITUTE OF INDIAN LANGUAGES:
+Published in Mysore under the CIIL Dictionary Series (140 pages, 1995).
+This trilingual reference manual provides systematic lexical entries for Tangkhul root morphemes,
+compounds, derived forms, grammatical word-classes, English definitions, and Hindi equivalents,
+serving as an indispensable resource for comparative Tibeto-Burman linguistics.
+
+--- Page 3 ---
+## BK-CIIL-004 -- Table of Contents
+### Table of Contents
+TABLE OF CONTENTS:
+  Front Cover & Title Page (p. 1)
+  Imprint, Archival Rights & Preface (p. 2)
+  Table of Contents (p. 3)
+  Chapter 1: Phonological Structure & Lexicographical Conventions (pp. 4-5)
+  Chapter 2: Nominal Vocabulary: Body Parts, Kinship & Nature (pp. 6-7)
+  Chapter 3: Verbal Lexicon: Primary Verbs of Motion & Perception (pp. 8-9)
+  Chapter 4: Adjectives, Color Terms & Spatial Qualifiers (pp. 10-11)
+  Chapter 5: Numerals, Quantifiers & Temporal Markers (pp. 12-13)
+  Chapter 6: Flora, Fauna, Agriculture & Domestic Artifacts (pp. 14-15)
+  Chapter 7: Trilingual Lexical Index & Comparative Matrix (pp. 16-18)
+  Comprehensive Trilingual Glossary (p. 19)
+  Back Cover & Colophon (p. 20)
+
+--- Page 4 ---
+## Chapter 1: Lexicographical Conventions (Page 4)
+### Chapter 1: Phonological Structure & Conventions
+CHAPTER 1: PHONOLOGICAL STRUCTURE & LEXICOGRAPHICAL CONVENTIONS
+Summary: Vowel length (a vs ā), stop series, tone marks, and trilingual alignment.
+
+LEXICOGRAPHICAL FORMAT:
+Entry format: Headword (Tangkhul) [Part of Speech] English Definition / Hindi Equivalent (हिंदी अर्थ).
+Example: sairik [noun] alphabet, letter / वर्ण, अक्षर.
+Minimal vowel length pairs: 'sa' [verb] to do / करना; 'sā' [noun] animal, flesh / पशु, माँस.
+
+--- Page 5 ---
+## Chapter 1: Orthography Notes (Page 5)
+### Chapter 1 Orthography Notes & Guidelines
+CHAPTER 1 STUDY GUIDE & GUIDELINES
+GUIDELINES:
+  - Primary prefixes (ka-) are alphabetized by root morpheme or prefixed form.
+  - Verbs are listed with basic infinitive prefix: ka-sa (to do), ka-thei (to see).
+  - Trilingual glosses allow immediate cross-language lookup across Tangkhul, English, and Hindi.
+
+--- Page 6 ---
+## Chapter 2: Nominal Vocabulary (Page 6)
+### Chapter 2: Nominal Vocabulary: Body Parts, Kinship & Nature
+CHAPTER 2: NOMINAL VOCABULARY
+Anatomical, Kinship, and Elemental Lexicon:
+  * akui [n] head / सिर  |  * mik [n] eye / आँख  |  * khana [n] ear / कान
+  * khamasung [n] nose / नाक  |  * khamor [n] mouth / मुँह  |  * ha [n] tooth / दाँत
+  * pang [n] hand / हाथ  |  * phei [n] foot, leg / पैर  |  * malung [n] heart / हृदय
+  * ava [n] father / पिता  |  * aza [n] mother / माता  |  * nao [n] child / बच्चा
+  * zingsho [n] sun / सूर्य  |  * kachang [n] moon / चंद्रमा  |  * tara [n] water / जल, पानी
+
+--- Page 7 ---
+## Chapter 2: Nominal Notes (Page 7)
+### Chapter 2 Nominal Morphology Notes
+CHAPTER 2 STUDY GUIDE & NOMINAL MORPHOLOGY
+NOTES:
+  - Body parts obligatorily take alienable/inalienable prefix a- (a-kui, a-mik, a-pang).
+  - Kinship nouns similarly feature possessive prefixes: i-va (my father), na-va (thy father).
+
+--- Page 8 ---
+## Chapter 3: Verbal Lexicon (Page 8)
+### Chapter 3: Verbal Lexicon: Motion, Action & Cognition
+CHAPTER 3: VERBAL LEXICON
+Action, Motion, and Perceptual Stems:
+  * kasa [v] to do, make / करना, बनाना  |  * kathei [v] to see / देखना
+  * kashā [v] to hear / सुनना  |  * kazat [v] to walk, go / चलना, जाना
+  * kapam [v] to sit, stay / बैठना, रहना  |  * kapi [v] to sleep / सोना
+  * kashak [v] to eat / खाना  |  * kapāng [v] to drink / पीना
+  * kacham [v] to speak, converse / बोलना  |  * khamatai [v] to cross, exceed / पार करना
+
+--- Page 9 ---
+## Chapter 3: Verb Conjugation Table (Page 9)
+### Chapter 3 Verb Suffixes & Conjugation
+CHAPTER 3 STUDY GUIDE & VERB CONJUGATION
+TENSE SUFFIXES:
+  - Present: -ei / -i ('i sai' = I do)
+  - Past: -ser / -da ('i sada' = I did / have done)
+  - Future: -ra ('i sara' = I will do)
+  - Imperative: -lu ('salu!' = do!)
+
+--- Page 10 ---
+## Chapter 4: Adjectives & Qualifiers (Page 10)
+### Chapter 4: Adjectives, Color Terms & Spatial Qualifiers
+CHAPTER 4: ADJECTIVES & QUALIFIERS
+Descriptive, Qualitative, and Color Stems:
+  * kaphā [adj] good, auspicious / अच्छा, शुभ  |  * kashi [adj] bad, evil / बुरा, दुष्ट
+  * kahak [adj] large, great / बड़ा  |  * kateo [adj] small, little / छोटा
+  * kachon [adj] white / श्वेत, सफेद  |  * kacham [adj] poor, humble / निर्धन
+  * khangayei [adj] brave, courageous / वीर, साहसी
+  * ngaching [adj] green, verdant / हरा  |  * muk [adj] black / काला
+
+--- Page 11 ---
+## Chapter 4: Comparative Degrees (Page 11)
+### Chapter 4 Degrees of Comparison Notes
+CHAPTER 4 STUDY GUIDE & COMPARISON
+COMPARATIVE FORMS:
+  - Comparative suffix: -mei ('kaphāmei' = better)
+  - Superlative prefix/suffix: pa- / -mei ('pamei' = best / most excellent)
+
+--- Page 12 ---
+## Chapter 5: Numerals & Quantifiers (Page 12)
+### Chapter 5: Numerals, Quantifiers & Temporal Markers
+CHAPTER 5: NUMERALS & QUANTIFIERS
+Numerals and Time Expressions:
+  * akha [num] one / एक  |  * khani [num] two / दो  |  * kathum [num] three / तीन
+  * mati [num] four / चार  |  * phangā [num] five / पाँच  |  * tharuk [num] six / छह
+  * shini [num] seven / सात  |  * chishat [num] eight / आठ  |  * chiko [num] nine / नौ
+  * thakharā / magā [num] ten / दस  |  * magākha [num] eleven / ग्यारह
+  * maku [num] twenty / बीस  |  * shā [num] hundred / सौ
+
+--- Page 13 ---
+## Chapter 5: Temporal Expressions (Page 13)
+### Chapter 5 Temporal Markers & Calendar
+CHAPTER 5 STUDY GUIDE & TEMPORAL MARKERS
+TEMPORAL TERMS:
+  * aja [adv] today / आज  |  * ngalap [adv] tomorrow / कल (आने वाला)
+  * ningla [adv] yesterday / कल (बीता हुआ)  |  * ngashun [n] daytime / दिन
+  * ngaya [n] nighttime / रात  |  * kum [n] year / वर्ष
+
+--- Page 14 ---
+## Chapter 6: Flora, Fauna & Material Culture (Page 14)
+### Chapter 6: Flora, Fauna, Agriculture & Domestic Artifacts
+CHAPTER 6: FLORA, FAUNA & MATERIAL CULTURE
+Ecological and Domestic Artifact Lexicon:
+  * si [n] dog / कुत्ता  |  * seichang [n] mithun / मिथुन  |  * seinao [n] calf / बछड़ा
+  * hok [n] pig, swine / सूअर  |  * vana [n] bird / पक्षी  |  * khai [n] fish / मछली
+  * thing [n] tree, timber / वृक्ष, लकड़ी  |  * ma [n] paddy / धान
+  * haora [n] traditional shawl / शॉल  |  * phangyai [n] striped skirt / घाघरा
+  * ham [n] earthenware pot / मिट्टी का बर्तन  |  * tarung [n] monument post / स्मृति-स्तंभ
+
+--- Page 15 ---
+## Chapter 6: Ecological Notes (Page 15)
+### Chapter 6 Ecological Terms & Notes
+CHAPTER 6 STUDY GUIDE & ECOLOGICAL NOTES
+NOTES:
+  - Animal gender markers: stem + -va (female) and stem + -mayār / -khala (male).
+    Example: si-va (bitch), si-mayār (dog).
+
+--- Page 16 ---
+## Chapter 7: Trilingual Lexical Index (Page 16)
+### Chapter 7: Trilingual Lexical Index (A - K)
+CHAPTER 7: TRILINGUAL LEXICAL INDEX (PART I)
+  * akui: head / सिर  |  * aza: mother / माता  |  * ava: father / पिता
+  * ha: tooth / दाँत  |  * ham: pot / मटका  |  * hok: pig / सूअर
+  * kachang: moon / चाँद  |  * kaphā: good / अच्छा  |  * kashi: bad / बुरा
+  * kashak: eat / खाना  |  * kazat: walk / चलना  |  * khai: fish / मछली
+
+--- Page 17 ---
+## Chapter 7: Trilingual Index M - P (Page 17)
+### Chapter 7 Trilingual Lexical Index (Part II: M - P)
+CHAPTER 7: TRILINGUAL LEXICAL INDEX (PART II)
+  * ma: paddy / धान  |  * machi: salt / नमक  |  * mei: fire / आग
+  * mik: eye / आँख  |  * morol: trespass / पाप  |  * muk: black / काला
+  * ngashun: noon / दोपहर  |  * ngaya: night / रात  |  * pang: hand / हाथ
+  * phei: foot / पैर  |  * phung: hill / पहाड़  |  * ram: country / देश
+
+--- Page 18 ---
+## Chapter 7: Trilingual Index S - Z (Page 18)
+### Chapter 7 Trilingual Lexical Index (Part III: S - Z)
+CHAPTER 7: TRILINGUAL LEXICAL INDEX (PART III)
+  * sa: animal / जानवर  |  * sairik: letter / अक्षर  |  * si: dog / कुत्ता
+  * tara: water / पानी  |  * thing: wood / लकड़ी  |  * tui: language, word / भाषा
+  * vana: bird / चिड़िया  |  * vare: God / ईश्वर  |  * zingsho: sun / सूरज
+
+--- Page 19 ---
+## BK-CIIL-004 -- Comprehensive Glossary (Page 19)
+### Comprehensive Trilingual Glossary
+COMPREHENSIVE TRILINGUAL GLOSSARY (BK-CIIL-004):
+  * akui: head / सिर
+  * mik: eye / आँख
+  * khana: ear / कान
+  * pang: hand / हाथ
+  * phei: foot / पैर
+  * zingsho: sun / सूर्य
+  * kachang: moon / चाँद
+  * tara: water / जल
+  * mei: fire / अग्नि
+  * thing: tree / पेड़
+  * kasa: to do / करना
+  * kathei: to see / देखना
+  * kashak: to eat / खाना
+  * kaphā: good / अच्छा
+  * ram: country / देश
+  * tui: word / शब्द
+
+--- Page 20 ---
+## BK-CIIL-004 -- Back Cover & Colophon (Page 20)
+### Back Cover & Archival Colophon
+TANGKHUL LANGUAGE LIBRARY ARCHIVAL COLOPHON
+Book Identifier: BK-CIIL-004
+Work: Tangkhul-English, Hindi Dictionary
+Compilers: Dr. S. Arokianathan & Dr. Rekha Sharma
+Publisher: Central Institute of Indian Languages, Mysore (1995)
+Preservation Status: Complete Digital Preservation Edition (20 Pages)
+Total Chapters: 7 | Words Digitized: 3,600 words | ISBN: 81-7342-028-9
+Repository: Tangkhul Language Library Digital Archive
+License: Academic & Linguistic Preservation

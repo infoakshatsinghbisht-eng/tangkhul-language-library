@@ -1,0 +1,36 @@
+{
+  "id": "CULT-PROV-007",
+  "resource_type": "culture",
+  "title": "Proverb on Inner Wisdom: Theikahaina kaphaningli",
+  "title_translation": "The Wise Perceive with the Mind, the Foolish with the Eyes",
+  "creator": "Traditional Oral Philosophy (Kasomwoshi 1991, Pettigrew 1918)",
+  "year": 1918,
+  "publisher": "Documented in Pettigrew 1918, Kasomwoshi 1991",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "proverb",
+  "subcategory": "wisdom",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Kasomwoshi-Chanjam-145",
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-PROV-007_theikahaina_kaphaningli.txt",
+  "verification_status": "verified",
+  "notes": "Original saying: 'Theikahaina kaphaningli, matheikahaina mikli.' Teaches that wise judgment looks beneath outward appearance to perceive true moral character.",
+  "indigenous_tangkhul_text": [
+    "Theikahaina kaphaningli, matheikahaina mikli."
+  ],
+  "english_translation_text": [
+    "The wise perceive with the discerning eye of the mind; the foolish see only with outward eyes."
+  ],
+  "procedural_stages": [
+    "Quoted in council hearings and moral instruction to warn against superficial deception."
+  ],
+  "ceremonial_participants": [
+    "Elders",
+    "Mentors",
+    "Councils"
+  ],
+  "seasonal_timing": "Moral and judicial instruction"
+}

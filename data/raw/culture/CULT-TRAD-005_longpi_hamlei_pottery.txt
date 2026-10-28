@@ -1,0 +1,44 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-TRAD-005
+TITLE: Longpi Hamlei Black Stone Pottery
+TITLE TRANSLATION: Indigenous Handcrafted Black Serpentinite Pottery
+CATEGORY: tradition | SUBCATEGORY: craft
+VILLAGE / REGION: Longpi | DIALECT: Longpi / Loree
+CONTRIBUTOR / DOCUMENTATION: Longpi (Loree) Master Potters
+PUBLICATION / SOURCE: Traditional Craft (Hodson 1911, TRI Manipur)
+SOURCE ID: Hodson-1911-Ch2-Pottery
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Renowned ancient pottery crafted without a potter's wheel using ground black serpentinite rock (leshong lung) and weathered clay (sali), fired outdoors and polished with Chiron/Mahasa leaves.
+
+[SEASONAL TIMING & OCCASION]
+Dry winter months (Exclusively Longpi village)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Longpi Master Potters (Men and Women)
+- Village Apprentices
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Mining serpentinite rock (leshong lung) and weathering clay (sali) from sacred local sites.
+2. Crushing and grinding the stone into fine powder on stone mortars.
+3. Kneading stone powder and clay in equal proportion with mountain water into stiff paste.
+4. Hand-coiling and paddle-shaping vessels into pots (Ham), kettles, and platters without a wheel.
+5. Bonfire open firing and hot-burnishing with fresh Chiron/Mahasa leaves to achieve deep metallic black luster.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Longpi Loree Hamlei kashak avava apuipui wui pangthei.
+Leshong lung kala sali ngarumda, wheel makhavai pangna sai.
+Mahasa thingron aina phatsangda, kakhangaza black stone ham.
+
+[ENGLISH TRANSLATION & MEANING]
+Longpi Loree pottery embodies the ancient, unmatched craftsmanship of our ancestors.
+Blending crushed black serpentinite stone with mountain clay, shaped entirely by hand without a wheel.
+Polished with Mahasa leaves while hot from the bonfire kiln, producing lustrous black stoneware.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

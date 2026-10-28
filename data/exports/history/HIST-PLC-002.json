@@ -1,0 +1,53 @@
+{
+  "id": "HIST-PLC-002",
+  "resource_type": "history",
+  "title": "Makhel Dispersal Site",
+  "title_translation": "Sacred Ancestral Dispersal Point",
+  "creator": "Pan-Naga Ancestral Tradition",
+  "year": 1200,
+  "publisher": "Documented in Hodson 1911, Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Makhel",
+  "place": "Makhel",
+  "category": "place",
+  "event_date": "Ancestral Era",
+  "period": "Ancient Oral Tradition",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Makhel-Origins",
+  "license": "Oral Folk Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-002.txt",
+  "verification_status": "verified",
+  "notes": "Sacred historical settlement recognized across Tangkhul, Mao, Maram, and related Naga communities as the common parting point of lineages, marked by the sacred wild pear tree (Chutebu) and megalithic stone covenants.",
+  "indigenous_tangkhul_chronicle": [
+    "Makhel rali Tangkhul, Mao, Maram, Poumai kala khangatei Naga tribes-wui dispersal point kashung.",
+    "Chutebu thing-kapan (sacred pear tree) kala lung-kaphung megalith-bingna common origin-wui kashik shitsangya.",
+    "Hiyakha thotli maranao-bingna farewell feast sangda kaphung kachivali ngathur-tuiya."
+  ],
+  "english_translation_text": [
+    "Makhel is universally revered as the sacred dispersal point of the Tangkhul, Mao, Maram, Poumai, and kindred Naga nations.",
+    "The ancient sacred wild pear tree (Chutebu) and commemorative stone monoliths stand as eternal witnesses to common brotherhood.",
+    "At the parting of lineages, the ancestors held a sacred covenant meal before journeying eastward into the rugged hills."
+  ],
+  "chronicle_milestones": [
+    "1. Ancient Oral Era: Unified ancestral community resides at Makhel in northern Senapati district.",
+    "2. Parting of Lineages: Population growth prompts peaceful migration outward into designated hill ranges.",
+    "3. Planting of Chutebu: Ancestors plant the wild pear tree with a covenant to remember their common origin.",
+    "4. Erection of Parting Monoliths: Monoliths erected at the crossroads marking routes to Ukhrul, Kohima, and the valley.",
+    "5. Cultural Continuity: Contemporary cultural pilgrims regularly visit Makhel to reaffirm pan-Naga fraternity."
+  ],
+  "key_figures": [
+    "Pan-Naga Ancestral Patriarchs",
+    "Clan Lineage Forefathers",
+    "Makhel Village Custodians"
+  ],
+  "geographical_scope": "Makhel, Northern Manipur (Latitude 25.52° N, Longitude 94.18° E)",
+  "historical_significance": "The cardinal geographic and cosmological anchor of Tangkhul identity, validating shared kinship with neighboring hill nations.",
+  "historical_terms": {
+    "Makhel": "Sacred place of ancestral parting",
+    "Chutebu": "The sacred covenant pear tree",
+    "Lung-kaphung": "Erected megalithic stone marker",
+    "Ngathur-tui": "Dispersal and migration along ancient paths"
+  }
+}

@@ -1,0 +1,66 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: ESTABLISHMENT OF THE TANGKHUL LITERATURE SOCIETY (TLS)
+IDENTIFIER: HIST-EVT-004 | CATEGORY: HISTORICAL_EVENT
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Establishment of the Tangkhul Literature Society (TLS)
+  Title Translation:     Formation of Tangkhul Language Standardization Body
+  Historical Category:   historical_event
+  Event Date / Period:   c. 1937 | 20th Century Inter-war
+  Sort Year:             1937
+  Place / Settlement:    Ukhrul [Ukhrul]
+  Dialect / Variety:     Standard Tangkhul
+  Key Figures / Creator: Tangkhul Elders & Educators
+  Publisher / Source:    Tangkhul Literature Society Archives
+  Source Identifier:     TLS-Constitution-1937
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Pioneering assembly of teachers, pastors, and elders that established the Tangkhul Literature Society to standardize orthography, publish vernacular readers, and curate the literary heritage.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1937 kumli Tangkhul Literature Society (TLS) Ukhrul-li kapha tuingashit kashung.
+  Tangkhul tuitam, lairik kaphaning, kala otshak khamathan-wui vang mibing ngarum-da pama.
+  Ukhrul tui (Hunphun dialect) hithada literary standard shansang-da khangatei dialect-bing khangayung shitsangya.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  In 1937, the Tangkhul Literature Society (TLS) was formally instituted in Ukhrul by educators, elders, and church leaders.
+  The society was tasked with standardizing grammar, publishing textbooks, and fostering creative indigenous literature.
+  It adopted the Hunphun (Ukhrul) dialect as the standard literary medium while preserving regional lexical diversity.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. 1920s: Expansion of mission schools creates acute demand for uniform vernacular readers and hymnals.
+  2. 1937: Foundational convention held in Ukhrul; Tangkhul Literature Society established with executive constitution.
+  3. 1940s-1950s: Publication of graded reader series (Lairik Tharan 1 to 5) and customary law documentation.
+  4. 1974: TLS sponsors T. Luikham's Tangkhul (Wung) Dictionary, establishing definitive lexicographical definitions.
+  5. Present: Continues as the authorized custodian of Tangkhul orthography, textbooks, and curriculum standards.
+
+KEY FIGURES & LEADERS:
+  T. Luikham, R.S. Ruichumhao, Pioneering Headmasters and Native Pastors, TLS Executive Council
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Ukhrul Headquarters with jurisdiction across all Tangkhul villages
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  The institutional guardian of written Tangkhul for nearly nine decades, establishing orthographic stability and cultural continuity.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Tuitam                 : Grammar / linguistic study
+  * Lairik                 : Book / written treatise
+  * Khamathan              : Purification / aesthetic refinement
+  * Ngarum                 : Collective assembly / unifying council
+
+================================================================================
+END OF RECORD: HIST-EVT-004 - Tangkhul Language Library Digital Archive
+================================================================================

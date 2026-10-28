@@ -1,0 +1,44 @@
+{
+  "id": "CULT-FEST-002",
+  "resource_type": "culture",
+  "title": "Chumpha Phanit",
+  "title_translation": "Festival of the Granary",
+  "creator": "Tangkhul Women & Community",
+  "year": 1977,
+  "publisher": "Traditional Observation (Horam 1977, Hodson 1911)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "festival",
+  "subcategory": "agricultural",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Ch5",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-FEST-002_chumpha_phanit.txt",
+  "verification_status": "verified",
+  "notes": "Post-harvest thanksgiving festival celebrated in December. Specially honors women as custodians of the grain; involves ceremonial transfer of granary responsibility and blessings for food security.",
+  "indigenous_tangkhul_text": [
+    "Chumpha phanitli lumkaza kashung, kacham kashiman malailaka.",
+    "Shanao mibingna chumkhur kakhon, chumpam kachivali ningyanganung.",
+    "Varewui kashukli ringpha mazaida, shim kachivali tara kashung."
+  ],
+  "english_translation_text": [
+    "At the Chumpha festival, the bounty of harvest is gathered, and scarcity is banished from our midst.",
+    "The women of the household unlock the sacred granary, receiving honor as guardians of life and grain.",
+    "Rejoicing in divine blessing, every family enjoys abundant cups of fellowship and peace."
+  ],
+  "procedural_stages": [
+    "1. Formal cleansing and sanctification of the family granary (Chum) by female household heads.",
+    "2. Ritual opening of the granary door and invocation of blessing upon the stored paddy.",
+    "3. Preparation of first rice delicacies from the newly harvested crop.",
+    "4. Household visits and gift-sharing honoring maternal uncles and married daughters.",
+    "5. Community prayers of thanksgiving for food security through the winter months."
+  ],
+  "ceremonial_participants": [
+    "Women household heads (Custodians of Granary)",
+    "Family Lineages",
+    "Village Community"
+  ],
+  "seasonal_timing": "December (Post-harvest thanksgiving)"
+}

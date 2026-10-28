@@ -1,0 +1,53 @@
+{
+  "id": "LIT-STRY-003",
+  "resource_type": "literature",
+  "title": "Yarnao wui Akhama",
+  "title_translation": "The Morning of the Labor Exchange",
+  "creator": "V. Ruivah",
+  "author": "V. Ruivah",
+  "year": 1993,
+  "publisher": "Anthropological Literary Series, Imphal",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Somdal",
+  "category": "short_story",
+  "work_type": "short_story",
+  "genres": [
+    "short_story"
+  ],
+  "book_id": null,
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruivah-1993-YNA",
+  "license": "Scholarly Publication",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-STRY-003.txt",
+  "notes": "Short story depicting communal terrace paddy cultivation, youth camaraderie in the Yarnao labor group, and the rhythm of mountain village life.",
+  "indigenous_tangkhul_text": [
+    "Akhama dawn mist-li Yarnao youth labor group-na drum and song-li terraced fields-li march sakya.",
+    "Mayarnao kala shanaonao communal paddy transplantation (Luisak)-li rhythmically toil sakda fellowship foster sakya.",
+    "Mutual aid, youth humor, folk singing, kala agricultural festivity vibrant thada narrative-li captured."
+  ],
+  "english_translation_text": [
+    "In the cool morning mist, the youth cooperative labor band (*Yarnao*) marched toward the terraced fields singing in unison.",
+    "Young men and maidens transplanted green seedlings (*Luisak*) in rhythmic coordination, sharing laughter and songs.",
+    "The narrative captures the vibrant camaraderie, witty banter, and communal harmony of traditional mountain agriculture."
+  ],
+  "literary_themes": [
+    "Communal agricultural labor groups (*Yarnao*) as the heartbeat of village society",
+    "Antiphonal singing and rhythmic synchronization in manual farm work",
+    "Romantic courting and youthful wit amidst communal toil"
+  ],
+  "structure_and_meter": "Vivid atmospheric short story capturing the sounds, sensory smells, and energetic rhythm of a single agricultural workday.",
+  "critical_commentary": "Authored by anthropologist and literary writer V. Ruivah in 1993, this story provides an invaluable literary depiction of traditional cooperative labor institutions.",
+  "poetic_vocabulary_terms": {
+    "Yarnao": "Youth peer labor collective for mutual farm work",
+    "Akhama": "Dawn twilight / the fresh morning hour",
+    "Luisak": "Ceremonial transplanting of green paddy seedlings",
+    "Laa-Kakhon": "Antiphonal singing across terraced fields"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

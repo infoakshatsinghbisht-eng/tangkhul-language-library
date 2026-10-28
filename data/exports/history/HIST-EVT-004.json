@@ -1,0 +1,54 @@
+{
+  "id": "HIST-EVT-004",
+  "resource_type": "history",
+  "title": "Establishment of the Tangkhul Literature Society (TLS)",
+  "title_translation": "Formation of Tangkhul Language Standardization Body",
+  "creator": "Tangkhul Elders & Educators",
+  "year": 1937,
+  "publisher": "Tangkhul Literature Society Archives",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "place": "Ukhrul",
+  "category": "historical_event",
+  "event_date": "c. 1937",
+  "period": "20th Century Inter-war",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-Constitution-1937",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-EVT-004.txt",
+  "verification_status": "verified",
+  "notes": "Pioneering assembly of teachers, pastors, and elders that established the Tangkhul Literature Society to standardize orthography, publish vernacular readers, and curate the literary heritage.",
+  "indigenous_tangkhul_chronicle": [
+    "1937 kumli Tangkhul Literature Society (TLS) Ukhrul-li kapha tuingashit kashung.",
+    "Tangkhul tuitam, lairik kaphaning, kala otshak khamathan-wui vang mibing ngarum-da pama.",
+    "Ukhrul tui (Hunphun dialect) hithada literary standard shansang-da khangatei dialect-bing khangayung shitsangya."
+  ],
+  "english_translation_text": [
+    "In 1937, the Tangkhul Literature Society (TLS) was formally instituted in Ukhrul by educators, elders, and church leaders.",
+    "The society was tasked with standardizing grammar, publishing textbooks, and fostering creative indigenous literature.",
+    "It adopted the Hunphun (Ukhrul) dialect as the standard literary medium while preserving regional lexical diversity."
+  ],
+  "chronicle_milestones": [
+    "1. 1920s: Expansion of mission schools creates acute demand for uniform vernacular readers and hymnals.",
+    "2. 1937: Foundational convention held in Ukhrul; Tangkhul Literature Society established with executive constitution.",
+    "3. 1940s-1950s: Publication of graded reader series (Lairik Tharan 1 to 5) and customary law documentation.",
+    "4. 1974: TLS sponsors T. Luikham's Tangkhul (Wung) Dictionary, establishing definitive lexicographical definitions.",
+    "5. Present: Continues as the authorized custodian of Tangkhul orthography, textbooks, and curriculum standards."
+  ],
+  "key_figures": [
+    "T. Luikham",
+    "R.S. Ruichumhao",
+    "Pioneering Headmasters and Native Pastors",
+    "TLS Executive Council"
+  ],
+  "geographical_scope": "Ukhrul Headquarters with jurisdiction across all Tangkhul villages",
+  "historical_significance": "The institutional guardian of written Tangkhul for nearly nine decades, establishing orthographic stability and cultural continuity.",
+  "historical_terms": {
+    "Tuitam": "Grammar / linguistic study",
+    "Lairik": "Book / written treatise",
+    "Khamathan": "Purification / aesthetic refinement",
+    "Ngarum": "Collective assembly / unifying council"
+  }
+}

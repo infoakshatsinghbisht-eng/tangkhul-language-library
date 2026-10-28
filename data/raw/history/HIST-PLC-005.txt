@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: PHUNGCHAM ANCESTRAL VILLAGE
+IDENTIFIER: HIST-PLC-005 | CATEGORY: PLACE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Phungcham Ancestral Village
+  Title Translation:     Ancient Cradle Settlement of Northern Tangkhuls
+  Historical Category:   place
+  Event Date / Period:   c. 17th Century | Pre-colonial
+  Sort Year:             1982
+  Place / Settlement:    Phungcham [Phungcham]
+  Dialect / Variety:     Phungcham
+  Key Figures / Creator: Phungcham Oral Historians
+  Publisher / Source:    Documented in Arokianathan 1982, Horam 1977
+  Source Identifier:     Toponym-Phungcham-Village
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Oral Folk Heritage (community_authorized)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  One of the oldest continuously settled northern villages. Custodian of distinctive dialectal phonology and the setting of the legendary 17th-century love ballad Shimreishang Kala Maitonphi.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  Phungcham settlement-hi northern Tangkhul (Raphei) ramwui oldest continuous cradle village kashun akha.
+  Ancestral oral traditions-li Shimreishang kala Maitonphi-wui 17th-century love epic Phungchamli pharak-kashung.
+  Unique phonology kala archaic grammatical features preserving ancient Proto-Tangkhulic roots.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  Phungcham is one of the oldest continuously inhabited cradle settlements in the northern Raphei region.
+  It is celebrated in folklore as the native setting of the legendary 17th-century love tragedy of Shimreishang and Maitonphi.
+  Linguistically, Phungcham preserves an archaic phonological system vital for reconstructing Proto-Tangkhulic history.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. c. 14th–15th Century: Founded by ancestral lineages branching northwards from Makhel.
+  2. 17th Century: Era of the celebrated ballad of Shimreishang and Maitonphi, cementing Phungcham in romantic folklore.
+  3. 1980s: Linguistic documentation by CIIL scholars identifying unique segmental phonemes in Raphei lects.
+  4. Present: Custodian of sacred stone megaliths, traditional granaries, and northern customary lore.
+
+KEY FIGURES & LEADERS:
+  Shimreishang & Maitonphi, Raphei Ancestral Forefathers, Phungcham Cultural Custodians
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Northern Ukhrul District (Raphei Sector, Elevation 1,600 m)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  An irreplaceable storehouse of classical Tangkhul romance, customary megaliths, and archaic Northern dialectal phonetics.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Phungcham              : Ancient settlement / historical hearth of the ancestors
+  * Raphei                 : Northern Tangkhul geographical and dialectal region
+  * Khararchan             : Epic narrative / traditional ballad lore
+  * Shim                   : Ancestral household and lineage sanctuary
+
+================================================================================
+END OF RECORD: HIST-PLC-005 - Tangkhul Language Library Digital Archive
+================================================================================

@@ -1,0 +1,52 @@
+{
+  "id": "LIT-POEM-008",
+  "resource_type": "literature",
+  "title": "Tangkhul Meiphung: The Wounds of Time",
+  "title_translation": "Hearthside Reflections on Time and Memory",
+  "creator": "Thotdharmi Shimray",
+  "author": "Thotdharmi Shimray",
+  "year": 2019,
+  "publisher": "Contemporary Tangkhul Writers Forum, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": null,
+  "source_url": "https://e-pao.net/tangkhul-poetry-meiphung",
+  "source_identifier": "TDS-2019-TMP",
+  "license": "Author Permitted",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-008.txt",
+  "notes": "Acclaimed contemporary poem exploring cultural memory, historical displacement, and the eternal flame of the ancestral hearth.",
+  "indigenous_tangkhul_text": [
+    "Meiphung-li pamlaga khangapik meikha theida kachikhangai,\nIramwui khararchan kacham-kacham ningli ngasungtatta.\nArārana mei-tahak sakakhung eina khon sakashung,\nChiyan-chikaning ngacheiser-haowa kha meiphung mangacheimana.",
+    "Chitharan kharuikaho eina ramwui ngashan ngacheilaka,\nWounds of time thada ning-ngalungli kashak-kakhayei shoksang.\nKha meiphungwui meira hi makhapei-mana,\nTangkhul mayarnao-wui ningli ringphang-fara!"
+  ],
+  "english_translation_text": [
+    "Sitting beside the ancestral hearth, watching the glowing embers slowly breathe,\nThe ancient tales of our mountain land stir deep within the quiet soul.\nHere our forefathers stoked the sacred fire and recounted deeds of old;\nThough decades have passed and seasons shifted, the hearthstone remains unchanged.",
+    "New winds of change have swept through our valleys, altering our ways,\nLeaving the wounds of time etched upon the memory of our people.\nYet the sacred flame of this ancestral hearth can never be extinguished;\nIt shall burn forever in the hearts of Tangkhul youth across the hills!"
+  ],
+  "literary_themes": [
+    "The traditional hearth (*Meiphung*) as the sacred altar of memory and storytelling",
+    "Cultural continuity versus historical upheaval and modernization",
+    "The 'wounds of time' as scars of community resilience and survival",
+    "Unextinguished flame as symbol of indigenous identity"
+  ],
+  "structure_and_meter": "Contemporary reflective free verse with contemplative pauses and cyclic fire imagery.",
+  "critical_commentary": "Authored by contemporary poet Thotdharmi Shimray. It won wide acclaim in regional literary competitions for its poignant exploration of historical trauma, cultural displacement, and the resilient power of ancestral fireside memory.",
+  "poetic_vocabulary_terms": {
+    "Meiphung": "The traditional three-stone village hearth, center of family fellowship and oral lore",
+    "Meikha": "Glowing coals / living warmth preserved overnight beneath ash",
+    "Mei-tahak": "To kindle and feed the ancestral fire with seasoned pine wood",
+    "Ning-ngalung": "The innermost chamber of the heart and consciousness"
+  },
+  "stanza_count": 2,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

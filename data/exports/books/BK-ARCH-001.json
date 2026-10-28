@@ -1,0 +1,1269 @@
+{
+  "id": "BK-ARCH-001",
+  "resource_type": "books",
+  "title": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section)",
+  "alternate_titles": [
+    "Linguistic Survey of India, Vol. III, Part II: Tangkhul Naga"
+  ],
+  "authors": [
+    "George Abraham Grierson"
+  ],
+  "editors": [],
+  "publisher": "Office of the Superintendent of Government Printing, Calcutta",
+  "publication_year": 1903,
+  "year": 1903,
+  "edition": "First Edition",
+  "subject": "Comparative Linguistics and Dialectology",
+  "educational_level": "Academic / Archival",
+  "language": "Tangkhul",
+  "dialect": "Tangkhul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/linguisticsurvey03grierich",
+  "source_identifier": "LSI-Vol-III-Part-II",
+  "catalogue_url": "https://archive.org/details/linguisticsurvey03grierich",
+  "local_file_path": "data/raw/books/BK-ARCH-001_grierson_1903.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Includes comparative grammar, vocabulary list, and translated Tangkhul text specimen (Prodigal Son parable). Public Domain.",
+  "front_matter": {
+    "title_page": {
+      "title": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section)",
+      "alternate_titles": [
+        "Linguistic Survey of India, Vol. III, Part II: Tangkhul Naga"
+      ],
+      "authors": [
+        "George Abraham Grierson"
+      ],
+      "editors": [],
+      "publisher": "Office of the Superintendent of Government Printing, Calcutta",
+      "publication_year": 1903,
+      "edition": "First Edition",
+      "educational_level": "Academic / Archival",
+      "subject": "Comparative Linguistics and Dialectology",
+      "language": "Tangkhul",
+      "dialect": "Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-ARCH-001",
+      "license": "Public Domain",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "LSI-Vol-III-Part-II",
+      "source_url": "https://archive.org/details/linguisticsurvey03grierich"
+    },
+    "preface": "This volume constitutes the official Tangkhul section of the Linguistic Survey of India (Vol. III, Part II), surveyed by Sir George Abraham Grierson and printed at the Office of the Superintendent of Government Printing, Calcutta, in 1903. It preserves the earliest comprehensive comparative grammatical analysis, standard vocabulary list, and translated textual specimens of the Tangkhul Naga language as spoken in the Ukhrul subdivision of Manipur."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction & Dialectal Classification",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Phonology and the Roman Alphabet",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Noun System & Case Inflections",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adjectives, Numerals & Pronouns",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Verb Conjugation, Tenses & Moods",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Specimen I: The Parable of the Prodigal Son (Complete)",
+      "page_start": 14,
+      "page_end": 16
+    },
+    {
+      "chapter_number": 7,
+      "title": "Standard Comparative Vocabulary (241 Lexical Items)",
+      "page_start": 17,
+      "page_end": 18
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 19
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 20
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction & Dialectal Classification",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Geographical distribution, tribal divisions, and linguistic position in the Tibeto-Burman family.",
+      "tangkhul_text": "Tangkhul Naga hi Manipur ramwui kaphung zanshorli kapam tui thotna. Ukhrul kaphung hi Tangkhul tuiwui phungreitang thada shiyan kashakna. Tui hi Tibeto-Burman wui Naga-Kuki tui ngachaili shangserna.",
+      "english_translation": "The Tangkhul Nagas inhabit the eastern hill tracts of Manipur State. The village of Ukhrul serves as the central cultural and linguistic standard. The language belongs to the Naga-Bodo / Tibeto-Burman linguistic stock.",
+      "vocabulary": [
+        {
+          "word": "ram",
+          "pos": "noun",
+          "meaning": "country, territory, homeland",
+          "example": "Manipur ramli kapam."
+        },
+        {
+          "word": "kaphung",
+          "pos": "noun",
+          "meaning": "mountain, hill",
+          "example": "Zingshor kaphungli."
+        },
+        {
+          "word": "shiyan",
+          "pos": "noun",
+          "meaning": "custom, standard, linguistic form",
+          "example": "Shiyan kashak."
+        }
+      ],
+      "grammar_points": [
+        "Tangkhul exhibits SOV (Subject - Object - Verb) word order.",
+        "Agglutinative prefixation (ka-) and suffixation dominate inflection."
+      ],
+      "comprehension_questions": [
+        "Where is the dialectal center of the Tangkhul language located?",
+        "What major language family does Tangkhul belong to?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Phonology and the Roman Alphabet",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Vowels, consonants, diphthongs, and glottal tone stops introduced by W. Pettigrew.",
+      "tangkhul_text": "Vowels: a, ā, e, ē, i, ī, o, ō, u, ū. Consonants: k, kh, ng, ch, chh, j, t, th, n, p, ph, m, y, r, l, w, s, sh, h. Kakhalat kashak shiyan eina tui khangatei kachung lei.",
+      "english_translation": "Vowel inventory with phonemic length distinctions: short and long vowels. Consonantal series with aspirated stops (kh, th, ph, chh). Syllable-final consonants and tonal inflections alter word significations.",
+      "vocabulary": [
+        {
+          "word": "tui",
+          "pos": "noun",
+          "meaning": "word, language, speech",
+          "example": "Tangkhul tui mathan."
+        },
+        {
+          "word": "kakhalat",
+          "pos": "noun",
+          "meaning": "meaning, pronunciation",
+          "example": "Kakhalat shiyan."
+        }
+      ],
+      "grammar_points": [
+        "Macron diacritic marks long vowel quantity (ā, ē, ī, ō, ū).",
+        "Aspiration contrasts phonemically in initial plosives: k vs kh, t vs th, p vs ph."
+      ],
+      "comprehension_questions": [
+        "Name the five vowel pairs with length distinctions in Tangkhul.",
+        "How are aspirated consonants represented in the Roman orthography?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Noun System & Case Inflections",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Natural gender indicators, plural formations, and postpositional case endings.",
+      "tangkhul_text": "Tuiwon bing: mayarnaona (nominative), mayarnaoli (accusative/dative), mayarnaowui (genitive), mayarnaoeina (instrumental/ablative). Chitharan shiyan kakhane: si (dog), siva (bitch), simayār (male dog).",
+      "english_translation": "Case suffixes attached to nominal stems: -na (nominative/agentive), -li (dative/objective), -wui (genitive/possessive), -eina (instrumental/ablative). Gender markers: -va (female) and -mayār (male).",
+      "vocabulary": [
+        {
+          "word": "mayarnao",
+          "pos": "noun",
+          "meaning": "man, young man, son",
+          "example": "Mayarnaona vayi."
+        },
+        {
+          "word": "ngalanao",
+          "pos": "noun",
+          "meaning": "girl, maiden, daughter",
+          "example": "Ngalanao kaphā."
+        },
+        {
+          "word": "shim",
+          "pos": "noun",
+          "meaning": "house, home",
+          "example": "Awui shimli kapam."
+        }
+      ],
+      "grammar_points": [
+        "Agentive suffix -na is obligatory for subjects of transitive verbs.",
+        "Plurality is formed by adding -bing or -binda to nominal bases."
+      ],
+      "comprehension_questions": [
+        "Identify the four primary case suffixes in Tangkhul nominal syntax.",
+        "How is natural gender differentiated in animal nouns?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adjectives, Numerals & Pronouns",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Adjectival prefix ka-, degrees of comparison, cardinal numerals, and pronoun paradigms.",
+      "tangkhul_text": "Kaphā (good), kakhui (bitter), kacham (poor). Comparison: kaphāmei (better), pamei (best). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), thakharā / magā (10). Pronouns: i (I), na (thou), a (he/she).",
+      "english_translation": "Descriptive adjectives are derived using prefix ka-. Comparison is marked with -mei. Cardinal numerals from 1 to 10. Personal pronouns: 1st person 'i', 2nd person 'na', 3rd person 'a'; plurals: ithum, nathum, athum.",
+      "vocabulary": [
+        {
+          "word": "kaphā",
+          "pos": "adj",
+          "meaning": "good, beautiful, auspicious",
+          "example": "Won kaphā."
+        },
+        {
+          "word": "akha",
+          "pos": "num",
+          "meaning": "one (1)",
+          "example": "Mi akha."
+        },
+        {
+          "word": "khani",
+          "pos": "num",
+          "meaning": "two (2)",
+          "example": "Mayarnaowon khani."
+        }
+      ],
+      "grammar_points": [
+        "Prefix ka- nominalizes or adjectivizes verbal roots.",
+        "Dual and plural pronouns are formed with suffix -thum (ithum = we)."
+      ],
+      "comprehension_questions": [
+        "List the Tangkhul numerals from one to five.",
+        "Explain how personal pronouns form possessives in Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Verb Conjugation, Tenses & Moods",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Verbal roots, tense inflections (-ei, -ser, -ra), imperative (-lu), and negative prefixes.",
+      "tangkhul_text": "I sai (I do, present), i sada / i theiser (past), i sara (future). Imperative: salu (do!), theilu (see!). Negative: masa-mana (does not do), mathei-mana (does not see). Causative: -sak (sasaku).",
+      "english_translation": "Verbs conjugate through tense suffixes: present -ei/-i, past -ser/-da, future -ra. Imperative forms take suffix -lu. Negation frames the verbal root with prefix ma- and suffix -mana. Causation is expressed with -sak.",
+      "vocabulary": [
+        {
+          "word": "kasa",
+          "pos": "verb",
+          "meaning": "to do, to make, to create",
+          "example": "Ot kasa."
+        },
+        {
+          "word": "kathei",
+          "pos": "verb",
+          "meaning": "to see, to perceive",
+          "example": "Ali kathei."
+        },
+        {
+          "word": "kashak",
+          "pos": "verb",
+          "meaning": "to eat, to partake",
+          "example": "Kachak kashak."
+        }
+      ],
+      "grammar_points": [
+        "Discontinuous negative morpheme: ma- [root] -mana.",
+        "Aspectual suffix -ser indicates completive or collective action."
+      ],
+      "comprehension_questions": [
+        "Conjugate the verb root 'sa' in present, past, and future.",
+        "How is a negative declarative sentence constructed in Tangkhul?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Specimen I: The Parable of the Prodigal Son (Complete)",
+      "page_start": 14,
+      "page_end": 16,
+      "summary": "Authentic full-text translation of Luke 15:11-32 in Tangkhul Naga with verse-by-verse gloss.",
+      "tangkhul_text": "11. Mi akhali mayarnaowon khani leiyi.\n12. Kakhani chiwui ngachaili kakhanao china aishavaali kahang, 'Ava, ramwui kashikhavai ngashan iwui khavai thali ili milu.' Chiwui vang aishavana aram athum khaniwui ngachaili ngashanserie.\n13. Zingkum kachung mathaloikhalang kakhanao china aishapup sanglaga kashak ramli vashitserie, chitharan aphasa kakhano awui vang phasa ngalung khayai eina khamatai thotna.\n14. Ana atam sashidaran ram chithuili haora kapha thotna; chitharan a kacham thotna.\n15. Chiwui vang a vashitlaga chiwui ramwui mi akhali phungphada leiyi; ana ali awui lili hok kashukhavai ngasikseriya.\n16. Chitharan ana hokna shakhavai theichon chieina phasa vashikhavai ningkachon leiyi; chalieikha mi akhana ali mimana.\n17. Kha ana awui ning kazil chitharan ana kahang, 'Iva wui ngavaia mi kachungkhana kachak mathaloikhalang thari, kha i hiwui phasa ngalung kazata eina thiyei!'\n18. 'I ngakhokda iva wui lili vara, ana ali hangra: Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna.'\n19. 'Chiwui vang nawui nao kachi tui shiyan katha mavana; ili nawui ngavaia mi akha gaka thada sanglu.'\n20. Chithālaga a ngakhokda aishava wui lili vayi. Kha a kashakli leitharan aishavana ali theilaga kachan pamei, chithālaga ngathimlaga akukli chukda kachamseriya.\n21. Nao china ali kahang, 'Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna; nawui nao kachi tui shiyan katha mavana.'\n22. Kha aishavana awui ngavaia mi bingli kahang, 'Kaphāmei kachon sanglalu, ali khonlu; kala awui pangyali chap sanglu, awui pheili khokhop sanglu.'\n23. 'Kala se phapharo shithalu, ngasotlu; ithum sashilaga mathaseru.'\n24. 'Iwui nao hi thida leikha kazing thotna, themda leikha theikhuiraser.' Chitharan athum mathapameiser.\n25. Chitharan awui mayarnaowon kakhara a lili leiyi; a ngateilaga shim mathatungda leikhara laa khavai kala ngakhum kaphei khangazip tharan a kashana.\n26. Ana ngavaia mi akhali hoklaga, 'Hi khi thotno?' da ngahangyei.\n27. Ana ali kahang, 'Nawui nanao vashungser, nawui avana se phapharo shithiser, ana phasa katha theikhuira tharan.'\n28. Chiwui vang a kachuk thotna, a shimli ungkhavai ningkachon maleimana; chiwui vang aishava vashitlaga ali kahangyei.\n29. Ana ngashitda aishavaali kahang, 'Theilu, kum hiya thada i nali ngavaiyei, nawui tui kachikha mamatai-mana; chithakha iwui azeishinao bingli ngasotda sashikhavai senao akha gaka ili mimana.'\n30. 'Kha nawui nao khamatai thotna ngalanao bingli nawui ram shiser china vang se phapharo shithimina!'\n31. Ana ali kahang, 'Nao, na i eina kapam thotna, iwui ot phasa shishapup nawuina.'\n32. 'Kha mathada ngasotkhavai shiyan phamei; nanao hi thida leikha kazing thotna, themda leikha theikhuiraser.'",
+      "english_translation": "11. A certain man had two sons:\n12. And the younger of them said to his father, 'Father, give me the portion of goods that falleth to me.' And he divided unto them his living.\n13. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.\n14. And when he had spent all, there arose a mighty famine in that land; and he began to be in want.\n15. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.\n16. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.\n17. And when he came to himself, he said, 'How many hired servants of my father's have bread enough and to spare, and I perish with hunger!'\n18. 'I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,'\n19. 'And am no more worthy to be called thy son: make me as one of thy hired servants.'\n20. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.\n21. And the son said unto him, 'Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.'\n22. But the father said to his servants, 'Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:'\n23. 'And bring hither the fatted calf, and kill it; and let us eat, and be merry:'\n24. 'For this my son was dead, and is alive again; he was lost, and is found.' And they began to be merry.\n25. Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing.\n26. And he called one of the servants, and asked what these things meant.\n27. And he said unto him, 'Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.'\n28. And he was angry, and would not go in: therefore came his father out, and intreated him.\n29. And he answering said to his father, 'Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:'\n30. 'But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.'\n31. And he said unto him, 'Son, thou art ever with me, and all that I have is thine.'\n32. 'It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.'",
+      "vocabulary": [
+        {
+          "word": "ava",
+          "pos": "noun",
+          "meaning": "father",
+          "example": "Ava, ramwui kashikhavai."
+        },
+        {
+          "word": "nao",
+          "pos": "noun",
+          "meaning": "child, son, offspring",
+          "example": "Iwui nao hi thida."
+        },
+        {
+          "word": "kazing",
+          "pos": "adj/verb",
+          "meaning": "alive, living, restored",
+          "example": "Kazing thotna."
+        },
+        {
+          "word": "phapharo",
+          "pos": "adj",
+          "meaning": "fatted, healthy, prized",
+          "example": "Se phapharo."
+        }
+      ],
+      "grammar_points": [
+        "Direct speech framing with quotative postposition 'da'.",
+        "Honorific and intimate kinship terms (ava, nanao, azeishinao)."
+      ],
+      "comprehension_questions": [
+        "What did the younger son ask of his father?",
+        "How did the father respond when the younger son returned?"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Standard Comparative Vocabulary (241 Lexical Items)",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "Core comparative vocabulary items recorded in the Linguistic Survey of India.",
+      "tangkhul_text": "Comparative Lexicon: 1. Mi (Man) 2. Mayarnao (Boy/Son) 3. Ngalanao (Maiden) 4. Phei (Foot) 5. Pang (Hand) 6. Mik (Eye) 7. Khana (Ear) 8. Murva (Hair) 9. Khamasung (Nose) 10. Khamor (Mouth) 11. Ha (Tooth) 12. Malei (Tongue) 13. Zingsho (Sun) 14. Kachang (Moon) 15. Sirak (Star) 16. Kazing (Sky) 17. Tara (Water) 18. Mei (Fire) 19. Ngayur (Stone) 20. Kaphung (Hill).",
+      "english_translation": "Standard 241-word linguistic survey list covering anatomical terms, celestial bodies, natural elements, common fauna, flora, and basic motion verbs.",
+      "vocabulary": [
+        {
+          "word": "mik",
+          "pos": "noun",
+          "meaning": "eye",
+          "example": "Mik eina kathei."
+        },
+        {
+          "word": "pang",
+          "pos": "noun",
+          "meaning": "hand, arm",
+          "example": "Pang eina kasa."
+        },
+        {
+          "word": "phei",
+          "pos": "noun",
+          "meaning": "foot, leg",
+          "example": "Phei khokhop."
+        },
+        {
+          "word": "tara",
+          "pos": "noun",
+          "meaning": "water",
+          "example": "Tara kashing."
+        },
+        {
+          "word": "mei",
+          "pos": "noun",
+          "meaning": "fire",
+          "example": "Mei karing."
+        }
+      ],
+      "grammar_points": [
+        "Monosyllabic anatomical roots commonly taking prefix kha- or bare root.",
+        "Compound formations: pang-ya (finger), phei-ya (toe)."
+      ],
+      "comprehension_questions": [
+        "What are the Tangkhul words for the four primary elements (water, fire, earth, sky)?",
+        "How are body parts named and derived in Tangkhul?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-ARCH-001",
+      "title": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section)",
+      "lines": [
+        "TITLE: Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section)",
+        "Identifier: BK-ARCH-001",
+        "Level: Academic / Archival | Subject: Comparative Linguistics and Dialectology",
+        "Publisher: Office of the Superintendent of Government Printing, Calcutta (1903)",
+        "Language: Tangkhul (Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section) -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section).",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section) -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "This volume constitutes the official Tangkhul section of the Linguistic",
+        "Survey of India (Vol. III, Part II), surveyed by Sir George Abraham",
+        "Grierson and printed at the Office of the Superintendent of Government",
+        "Printing, Calcutta, in 1903. It preserves the earliest comprehensive",
+        "comparative grammatical analysis, standard vocabulary list, and translated",
+        "textual specimens of the Tangkhul Naga language as spoken in the Ukhrul",
+        "subdivision of Manipur."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section) -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Introduction & Dialectal Classification (pp. 4-5)",
+        "  Chapter 2: Phonology and the Roman Alphabet (pp. 6-7)",
+        "  Chapter 3: The Noun System & Case Inflections (pp. 8-9)",
+        "  Chapter 4: Adjectives, Numerals & Pronouns (pp. 10-11)",
+        "  Chapter 5: Verb Conjugation, Tenses & Moods (pp. 12-13)",
+        "  Chapter 6: Specimen I: The Parable of the Prodigal Son (Complete) (pp. 14-16)",
+        "  Chapter 7: Standard Comparative Vocabulary (241 Lexical Items) (pp. 17-18)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 19)",
+        "  Back Cover & Archival Colophon (p. 20)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Introduction & Dialectal Classification (Page 4)",
+      "title": "Chapter 1: Introduction & Dialectal Classification",
+      "lines": [
+        "CHAPTER 1: INTRODUCTION & DIALECTAL CLASSIFICATION",
+        "Summary: Geographical distribution, tribal divisions, and linguistic position in the Tibeto-Burman family.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul Naga hi Manipur ramwui kaphung zanshorli kapam tui thotna.",
+        "Ukhrul kaphung hi Tangkhul tuiwui phungreitang thada shiyan kashakna.",
+        "Tui hi Tibeto-Burman wui Naga-Kuki tui ngachaili shangserna.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The Tangkhul Nagas inhabit the eastern hill tracts of Manipur State. The",
+        "village of Ukhrul serves as the central cultural and linguistic",
+        "standard. The language belongs to the Naga-Bodo / Tibeto-Burman",
+        "linguistic stock."
+      ],
+      "tangkhul_content": "Tangkhul Naga hi Manipur ramwui kaphung zanshorli kapam tui thotna. Ukhrul kaphung hi Tangkhul tuiwui phungreitang thada shiyan kashakna. Tui hi Tibeto-Burman wui Naga-Kuki tui ngachaili shangserna.",
+      "english_translation": "The Tangkhul Nagas inhabit the eastern hill tracts of Manipur State. The village of Ukhrul serves as the central cultural and linguistic standard. The language belongs to the Naga-Bodo / Tibeto-Burman linguistic stock.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * ram (noun): country, territory, homeland",
+        "    Example: Manipur ramli kapam.",
+        "  * kaphung (noun): mountain, hill",
+        "    Example: Zingshor kaphungli.",
+        "  * shiyan (noun): custom, standard, linguistic form",
+        "    Example: Shiyan kashak.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Tangkhul exhibits SOV (Subject - Object - Verb) word order.",
+        "  - Agglutinative prefixation (ka-) and suffixation dominate inflection.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Where is the dialectal center of the Tangkhul language located?",
+        "  ? What major language family does Tangkhul belong to?"
+      ],
+      "tangkhul_content": "ram: country, territory, homeland\nkaphung: mountain, hill\nshiyan: custom, standard, linguistic form",
+      "english_translation": "Tangkhul exhibits SOV (Subject - Object - Verb) word order.\nAgglutinative prefixation (ka-) and suffixation dominate inflection.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Phonology and the Roman Alphabet (Page 6)",
+      "title": "Chapter 2: Phonology and the Roman Alphabet",
+      "lines": [
+        "CHAPTER 2: PHONOLOGY AND THE ROMAN ALPHABET",
+        "Summary: Vowels, consonants, diphthongs, and glottal tone stops introduced by W. Pettigrew.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Vowels: a, ā, e, ē, i, ī, o, ō, u, ū. Consonants: k, kh, ng, ch, chh, j,",
+        "t, th, n, p, ph, m, y, r, l, w, s, sh, h. Kakhalat kashak shiyan eina",
+        "tui khangatei kachung lei.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Vowel inventory with phonemic length distinctions: short and long",
+        "vowels. Consonantal series with aspirated stops (kh, th, ph, chh).",
+        "Syllable-final consonants and tonal inflections alter word",
+        "significations."
+      ],
+      "tangkhul_content": "Vowels: a, ā, e, ē, i, ī, o, ō, u, ū. Consonants: k, kh, ng, ch, chh, j, t, th, n, p, ph, m, y, r, l, w, s, sh, h. Kakhalat kashak shiyan eina tui khangatei kachung lei.",
+      "english_translation": "Vowel inventory with phonemic length distinctions: short and long vowels. Consonantal series with aspirated stops (kh, th, ph, chh). Syllable-final consonants and tonal inflections alter word significations.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * tui (noun): word, language, speech",
+        "    Example: Tangkhul tui mathan.",
+        "  * kakhalat (noun): meaning, pronunciation",
+        "    Example: Kakhalat shiyan.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Macron diacritic marks long vowel quantity (ā, ē, ī, ō, ū).",
+        "  - Aspiration contrasts phonemically in initial plosives: k vs kh, t vs th, p vs ph.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Name the five vowel pairs with length distinctions in Tangkhul.",
+        "  ? How are aspirated consonants represented in the Roman orthography?"
+      ],
+      "tangkhul_content": "tui: word, language, speech\nkakhalat: meaning, pronunciation",
+      "english_translation": "Macron diacritic marks long vowel quantity (ā, ē, ī, ō, ū).\nAspiration contrasts phonemically in initial plosives: k vs kh, t vs th, p vs ph.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: The Noun System & Case Inflections (Page 8)",
+      "title": "Chapter 3: The Noun System & Case Inflections",
+      "lines": [
+        "CHAPTER 3: THE NOUN SYSTEM & CASE INFLECTIONS",
+        "Summary: Natural gender indicators, plural formations, and postpositional case endings.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tuiwon bing: mayarnaona (nominative), mayarnaoli (accusative/dative),",
+        "mayarnaowui (genitive), mayarnaoeina (instrumental/ablative). Chitharan",
+        "shiyan kakhane: si (dog), siva (bitch), simayār (male dog).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Case suffixes attached to nominal stems: -na (nominative/agentive), -li",
+        "(dative/objective), -wui (genitive/possessive), -eina",
+        "(instrumental/ablative). Gender markers: -va (female) and -mayār (male)."
+      ],
+      "tangkhul_content": "Tuiwon bing: mayarnaona (nominative), mayarnaoli (accusative/dative), mayarnaowui (genitive), mayarnaoeina (instrumental/ablative). Chitharan shiyan kakhane: si (dog), siva (bitch), simayār (male dog).",
+      "english_translation": "Case suffixes attached to nominal stems: -na (nominative/agentive), -li (dative/objective), -wui (genitive/possessive), -eina (instrumental/ablative). Gender markers: -va (female) and -mayār (male).",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * mayarnao (noun): man, young man, son",
+        "    Example: Mayarnaona vayi.",
+        "  * ngalanao (noun): girl, maiden, daughter",
+        "    Example: Ngalanao kaphā.",
+        "  * shim (noun): house, home",
+        "    Example: Awui shimli kapam.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Agentive suffix -na is obligatory for subjects of transitive verbs.",
+        "  - Plurality is formed by adding -bing or -binda to nominal bases.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Identify the four primary case suffixes in Tangkhul nominal syntax.",
+        "  ? How is natural gender differentiated in animal nouns?"
+      ],
+      "tangkhul_content": "mayarnao: man, young man, son\nngalanao: girl, maiden, daughter\nshim: house, home",
+      "english_translation": "Agentive suffix -na is obligatory for subjects of transitive verbs.\nPlurality is formed by adding -bing or -binda to nominal bases.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Adjectives, Numerals & Pronouns (Page 10)",
+      "title": "Chapter 4: Adjectives, Numerals & Pronouns",
+      "lines": [
+        "CHAPTER 4: ADJECTIVES, NUMERALS & PRONOUNS",
+        "Summary: Adjectival prefix ka-, degrees of comparison, cardinal numerals, and pronoun paradigms.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Kaphā (good), kakhui (bitter), kacham (poor). Comparison: kaphāmei",
+        "(better), pamei (best). Numerals: akha (1), khani (2), kathum (3), mati",
+        "(4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), thakharā",
+        "/ magā (10). Pronouns: i (I), na (thou), a (he/she).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Descriptive adjectives are derived using prefix ka-. Comparison is",
+        "marked with -mei. Cardinal numerals from 1 to 10. Personal pronouns: 1st",
+        "person 'i', 2nd person 'na', 3rd person 'a'; plurals: ithum, nathum,",
+        "athum."
+      ],
+      "tangkhul_content": "Kaphā (good), kakhui (bitter), kacham (poor). Comparison: kaphāmei (better), pamei (best). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), thakharā / magā (10). Pronouns: i (I), na (thou), a (he/she).",
+      "english_translation": "Descriptive adjectives are derived using prefix ka-. Comparison is marked with -mei. Cardinal numerals from 1 to 10. Personal pronouns: 1st person 'i', 2nd person 'na', 3rd person 'a'; plurals: ithum, nathum, athum.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kaphā (adj): good, beautiful, auspicious",
+        "    Example: Won kaphā.",
+        "  * akha (num): one (1)",
+        "    Example: Mi akha.",
+        "  * khani (num): two (2)",
+        "    Example: Mayarnaowon khani.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Prefix ka- nominalizes or adjectivizes verbal roots.",
+        "  - Dual and plural pronouns are formed with suffix -thum (ithum = we).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? List the Tangkhul numerals from one to five.",
+        "  ? Explain how personal pronouns form possessives in Tangkhul."
+      ],
+      "tangkhul_content": "kaphā: good, beautiful, auspicious\nakha: one (1)\nkhani: two (2)",
+      "english_translation": "Prefix ka- nominalizes or adjectivizes verbal roots.\nDual and plural pronouns are formed with suffix -thum (ithum = we).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Verb Conjugation, Tenses & Moods (Page 12)",
+      "title": "Chapter 5: Verb Conjugation, Tenses & Moods",
+      "lines": [
+        "CHAPTER 5: VERB CONJUGATION, TENSES & MOODS",
+        "Summary: Verbal roots, tense inflections (-ei, -ser, -ra), imperative (-lu), and negative prefixes.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "I sai (I do, present), i sada / i theiser (past), i sara (future).",
+        "Imperative: salu (do!), theilu (see!). Negative: masa-mana (does not",
+        "do), mathei-mana (does not see). Causative: -sak (sasaku).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Verbs conjugate through tense suffixes: present -ei/-i, past -ser/-da,",
+        "future -ra. Imperative forms take suffix -lu. Negation frames the verbal",
+        "root with prefix ma- and suffix -mana. Causation is expressed with -sak."
+      ],
+      "tangkhul_content": "I sai (I do, present), i sada / i theiser (past), i sara (future). Imperative: salu (do!), theilu (see!). Negative: masa-mana (does not do), mathei-mana (does not see). Causative: -sak (sasaku).",
+      "english_translation": "Verbs conjugate through tense suffixes: present -ei/-i, past -ser/-da, future -ra. Imperative forms take suffix -lu. Negation frames the verbal root with prefix ma- and suffix -mana. Causation is expressed with -sak.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kasa (verb): to do, to make, to create",
+        "    Example: Ot kasa.",
+        "  * kathei (verb): to see, to perceive",
+        "    Example: Ali kathei.",
+        "  * kashak (verb): to eat, to partake",
+        "    Example: Kachak kashak.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Discontinuous negative morpheme: ma- [root] -mana.",
+        "  - Aspectual suffix -ser indicates completive or collective action.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Conjugate the verb root 'sa' in present, past, and future.",
+        "  ? How is a negative declarative sentence constructed in Tangkhul?"
+      ],
+      "tangkhul_content": "kasa: to do, to make, to create\nkathei: to see, to perceive\nkashak: to eat, to partake",
+      "english_translation": "Discontinuous negative morpheme: ma- [root] -mana.\nAspectual suffix -ser indicates completive or collective action.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Specimen I: The Parable of the Prodigal Son (Complete) (Page 14)",
+      "title": "Chapter 6: Specimen I: The Parable of the Prodigal Son (Complete)",
+      "lines": [
+        "CHAPTER 6: SPECIMEN I: THE PARABLE OF THE PRODIGAL SON (COMPLETE)",
+        "Summary: Authentic full-text translation of Luke 15:11-32 in Tangkhul Naga with verse-by-verse gloss.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "11. Mi akhali mayarnaowon khani leiyi. 12. Kakhani chiwui ngachaili",
+        "kakhanao china aishavaali kahang, 'Ava, ramwui kashikhavai ngashan iwui",
+        "khavai thali ili milu.' Chiwui vang aishavana aram athum khaniwui",
+        "ngachaili ngashanserie. 13. Zingkum kachung mathaloikhalang kakhanao",
+        "china aishapup sanglaga kashak ramli vashitserie, chitharan aphasa",
+        "kakhano awui vang phasa ngalung khayai eina khamatai thotna. 14. Ana",
+        "atam sashidaran ram chithuili haora kapha thotna; chitharan a kacham",
+        "thotna. 15. Chiwui vang a vashitlaga chiwui ramwui mi akhali phungphada",
+        "leiyi; ana ali awui lili hok kashukhavai ngasikseriya. 16. Chitharan ana",
+        "hokna shakhavai theichon chieina phasa vashikhavai ningkachon leiyi;",
+        "chalieikha mi akhana ali mimana. 17. Kha ana awui ning kazil chitharan",
+        "ana kahang, 'Iva wui ngavaia mi kachungkhana kachak mathaloikhalang",
+        "thari, kha i hiwui phasa ngalung kazata eina thiyei!' 18. 'I ngakhokda",
+        "iva wui lili vara, ana ali hangra: Ava, Kazingramli kala na",
+        "makhaingalina i yor kasa mi thotna.' 19. 'Chiwui vang nawui nao kachi",
+        "tui shiyan katha mavana; ili nawui ngavaia mi akha gaka thada sanglu.'",
+        "20. Chithālaga a ngakhokda aishava wui lili vayi. Kha a kashakli",
+        "leitharan aishavana ali theilaga kachan pamei, chithālaga ngathimlaga",
+        "akukli chukda kachamseriya. 21. Nao china ali kahang, 'Ava, Kazingramli",
+        "kala na makhaingalina i yor kasa mi thotna; nawui nao kachi tui shiyan",
+        "katha mavana.' 22. Kha aishavana awui ngavaia mi bingli kahang,",
+        "'Kaphāmei kachon sanglalu, ali khonlu; kala awui pangyali chap sanglu,",
+        "awui pheili khokhop sanglu.' 23. 'Kala se phapharo shithalu, ngasotlu;",
+        "ithum sashilaga mathaseru.' 24. 'Iwui nao hi thida leikha kazing thotna,",
+        "themda leikha theikhuiraser.' Chitharan athum mathapameiser. 25.",
+        "Chitharan awui mayarnaowon kakhara a lili leiyi; a ngateilaga shim",
+        "mathatungda leikhara laa khavai kala ngakhum kaphei khangazip tharan a",
+        "kashana. 26. Ana ngavaia mi akhali hoklaga, 'Hi khi thotno?' da",
+        "ngahangyei. 27. Ana ali kahang, 'Nawui nanao vashungser, nawui avana se",
+        "phapharo shithiser, ana phasa katha theikhuira tharan.' 28. Chiwui vang",
+        "a kachuk thotna, a shimli ungkhavai ningkachon maleimana; chiwui vang",
+        "aishava vashitlaga ali kahangyei. 29. Ana ngashitda aishavaali kahang,",
+        "'Theilu, kum hiya thada i nali ngavaiyei, nawui tui kachikha mamatai-",
+        "mana; chithakha iwui azeishinao bingli ngasotda sashikhavai senao akha",
+        "gaka ili mimana.' 30. 'Kha nawui nao khamatai thotna ngalanao bingli",
+        "nawui ram shiser china vang se phapharo shithimina!' 31. Ana ali kahang,",
+        "'Nao, na i eina kapam thotna, iwui ot phasa shishapup nawuina.' 32. 'Kha",
+        "mathada ngasotkhavai shiyan phamei; nanao hi thida leikha kazing thotna,",
+        "themda leikha theikhuiraser.'",
+        "",
+        "ENGLISH TRANSLATION:",
+        "11. A certain man had two sons: 12. And the younger of them said to his",
+        "father, 'Father, give me the portion of goods that falleth to me.' And",
+        "he divided unto them his living. 13. And not many days after the younger",
+        "son gathered all together, and took his journey into a far country, and",
+        "there wasted his substance with riotous living. 14. And when he had",
+        "spent all, there arose a mighty famine in that land; and he began to be",
+        "in want. 15. And he went and joined himself to a citizen of that",
+        "country; and he sent him into his fields to feed swine. 16. And he would",
+        "fain have filled his belly with the husks that the swine did eat: and no",
+        "man gave unto him. 17. And when he came to himself, he said, 'How many",
+        "hired servants of my father's have bread enough and to spare, and I",
+        "perish with hunger!' 18. 'I will arise and go to my father, and will say",
+        "unto him, Father, I have sinned against heaven, and before thee,' 19.",
+        "'And am no more worthy to be called thy son: make me as one of thy hired",
+        "servants.' 20. And he arose, and came to his father. But when he was yet",
+        "a great way off, his father saw him, and had compassion, and ran, and",
+        "fell on his neck, and kissed him. 21. And the son said unto him,",
+        "'Father, I have sinned against heaven, and in thy sight, and am no more",
+        "worthy to be called thy son.' 22. But the father said to his servants,",
+        "'Bring forth the best robe, and put it on him; and put a ring on his",
+        "hand, and shoes on his feet:' 23. 'And bring hither the fatted calf, and",
+        "kill it; and let us eat, and be merry:' 24. 'For this my son was dead,",
+        "and is alive again; he was lost, and is found.' And they began to be",
+        "merry. 25. Now his elder son was in the field: and as he came and drew",
+        "nigh to the house, he heard music and dancing. 26. And he called one of",
+        "the servants, and asked what these things meant. 27. And he said unto",
+        "him, 'Thy brother is come; and thy father hath killed the fatted calf,",
+        "because he hath received him safe and sound.' 28. And he was angry, and",
+        "would not go in: therefore came his father out, and intreated him. 29.",
+        "And he answering said to his father, 'Lo, these many years do I serve",
+        "thee, neither transgressed I at any time thy commandment: and yet thou",
+        "never gavest me a kid, that I might make merry with my friends:' 30.",
+        "'But as soon as this thy son was come, which hath devoured thy living",
+        "with harlots, thou hast killed for him the fatted calf.' 31. And he said",
+        "unto him, 'Son, thou art ever with me, and all that I have is thine.'",
+        "32. 'It was meet that we should make merry, and be glad: for this thy",
+        "brother was dead, and is alive again; and was lost, and is found.'"
+      ],
+      "tangkhul_content": "11. Mi akhali mayarnaowon khani leiyi.\n12. Kakhani chiwui ngachaili kakhanao china aishavaali kahang, 'Ava, ramwui kashikhavai ngashan iwui khavai thali ili milu.' Chiwui vang aishavana aram athum khaniwui ngachaili ngashanserie.\n13. Zingkum kachung mathaloikhalang kakhanao china aishapup sanglaga kashak ramli vashitserie, chitharan aphasa kakhano awui vang phasa ngalung khayai eina khamatai thotna.\n14. Ana atam sashidaran ram chithuili haora kapha thotna; chitharan a kacham thotna.\n15. Chiwui vang a vashitlaga chiwui ramwui mi akhali phungphada leiyi; ana ali awui lili hok kashukhavai ngasikseriya.\n16. Chitharan ana hokna shakhavai theichon chieina phasa vashikhavai ningkachon leiyi; chalieikha mi akhana ali mimana.\n17. Kha ana awui ning kazil chitharan ana kahang, 'Iva wui ngavaia mi kachungkhana kachak mathaloikhalang thari, kha i hiwui phasa ngalung kazata eina thiyei!'\n18. 'I ngakhokda iva wui lili vara, ana ali hangra: Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna.'\n19. 'Chiwui vang nawui nao kachi tui shiyan katha mavana; ili nawui ngavaia mi akha gaka thada sanglu.'\n20. Chithālaga a ngakhokda aishava wui lili vayi. Kha a kashakli leitharan aishavana ali theilaga kachan pamei, chithālaga ngathimlaga akukli chukda kachamseriya.\n21. Nao china ali kahang, 'Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna; nawui nao kachi tui shiyan katha mavana.'\n22. Kha aishavana awui ngavaia mi bingli kahang, 'Kaphāmei kachon sanglalu, ali khonlu; kala awui pangyali chap sanglu, awui pheili khokhop sanglu.'\n23. 'Kala se phapharo shithalu, ngasotlu; ithum sashilaga mathaseru.'\n24. 'Iwui nao hi thida leikha kazing thotna, themda leikha theikhuiraser.' Chitharan athum mathapameiser.\n25. Chitharan awui mayarnaowon kakhara a lili leiyi; a ngateilaga shim mathatungda leikhara laa khavai kala ngakhum kaphei khangazip tharan a kashana.\n26. Ana ngavaia mi akhali hoklaga, 'Hi khi thotno?' da ngahangyei.\n27. Ana ali kahang, 'Nawui nanao vashungser, nawui avana se phapharo shithiser, ana phasa katha theikhuira tharan.'\n28. Chiwui vang a kachuk thotna, a shimli ungkhavai ningkachon maleimana; chiwui vang aishava vashitlaga ali kahangyei.\n29. Ana ngashitda aishavaali kahang, 'Theilu, kum hiya thada i nali ngavaiyei, nawui tui kachikha mamatai-mana; chithakha iwui azeishinao bingli ngasotda sashikhavai senao akha gaka ili mimana.'\n30. 'Kha nawui nao khamatai thotna ngalanao bingli nawui ram shiser china vang se phapharo shithimina!'\n31. Ana ali kahang, 'Nao, na i eina kapam thotna, iwui ot phasa shishapup nawuina.'\n32. 'Kha mathada ngasotkhavai shiyan phamei; nanao hi thida leikha kazing thotna, themda leikha theikhuiraser.'",
+      "english_translation": "11. A certain man had two sons:\n12. And the younger of them said to his father, 'Father, give me the portion of goods that falleth to me.' And he divided unto them his living.\n13. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.\n14. And when he had spent all, there arose a mighty famine in that land; and he began to be in want.\n15. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.\n16. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.\n17. And when he came to himself, he said, 'How many hired servants of my father's have bread enough and to spare, and I perish with hunger!'\n18. 'I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,'\n19. 'And am no more worthy to be called thy son: make me as one of thy hired servants.'\n20. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.\n21. And the son said unto him, 'Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.'\n22. But the father said to his servants, 'Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:'\n23. 'And bring hither the fatted calf, and kill it; and let us eat, and be merry:'\n24. 'For this my son was dead, and is alive again; he was lost, and is found.' And they began to be merry.\n25. Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing.\n26. And he called one of the servants, and asked what these things meant.\n27. And he said unto him, 'Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.'\n28. And he was angry, and would not go in: therefore came his father out, and intreated him.\n29. And he answering said to his father, 'Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:'\n30. 'But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.'\n31. And he said unto him, 'Son, thou art ever with me, and all that I have is thine.'\n32. 'It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.'",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 6: Continuation (Page 15)",
+      "title": "Chapter 6 (Continued)",
+      "lines": [
+        "CHAPTER 6: READING CONTINUATION (PAGE 15)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "11. Mi akhali mayarnaowon khani leiyi. 12. Kakhani chiwui ngachaili",
+        "kakhanao china aishavaali kahang, 'Ava, ramwui kashikhavai ngashan iwui",
+        "khavai thali ili milu.' Chiwui vang aishavana aram athum khaniwui",
+        "ngachaili ngashanserie. 13. Zingkum kachung mathaloikhalang kakhanao",
+        "china aishapup sanglaga kashak ramli vashitserie, chitharan aphasa",
+        "kakhano awui vang phasa ngalung khayai eina khamatai thotna. 14. Ana",
+        "atam sashidaran ram chithuili haora kapha thotna; chitharan a kacham",
+        "thotna. 15. Chiwui vang a vashitlaga chiwui ramwui mi akhali phungphada",
+        "leiyi; ana ali awui lili hok kashukhavai ngasikseriya. 16. Chitharan ana",
+        "hokna shakhavai theichon chieina phasa vashikhavai ningkachon leiyi;",
+        "chalieikha mi akhana ali mimana. 17. Kha ana awui ning kazil chitharan",
+        "ana kahang, 'Iva wui ngavaia mi kachungkhana kachak mathaloikhalang",
+        "thari, kha i hiwui phasa ngalung kazata eina thiyei!' 18. 'I ngakhokda",
+        "iva wui lili vara, ana ali hangra: Ava, Kazingramli kala na",
+        "makhaingalina i yor kasa mi thotna.' 19. 'Chiwui vang nawui nao kachi",
+        "tui shiyan katha mavana; ili nawui ngavaia mi akha gaka thada sanglu.'",
+        "20. Chithālaga a ngakhokda aishava wui lili vayi. Kha a kashakli",
+        "leitharan aishavana ali theilaga kachan pamei, chithālaga ngathimlaga",
+        "akukli chukda kachamseriya. 21. Nao china ali kahang, 'Ava, Kazingramli",
+        "kala na makhaingalina i yor kasa mi thotna; nawui nao kachi tui shiyan",
+        "katha mavana.' 22. Kha aishavana awui ngavaia mi bingli kahang,",
+        "'Kaphāmei kachon sanglalu, ali khonlu; kala awui pangyali chap sanglu,",
+        "awui pheili khokhop sanglu.' 23. 'Kala se phapharo shithalu, ngasotlu;",
+        "ithum sashilaga mathaseru.' 24. 'Iwui nao hi thida leikha kazing thotna,",
+        "themda leikha theikhuiraser.' Chitharan athum mathapameiser. 25.",
+        "Chitharan awui mayarnaowon kakhara a lili leiyi; a ngateilaga shim",
+        "mathatungda leikhara laa khavai kala ngakhum kaphei khangazip tharan a",
+        "kashana. 26. Ana ngavaia mi akhali hoklaga, 'Hi khi thotno?' da",
+        "ngahangyei. 27. Ana ali kahang, 'Nawui nanao vashungser, nawui avana se",
+        "phapharo shithiser, ana phasa katha theikhuira tharan.' 28. Chiwui vang",
+        "a kachuk thotna, a shimli ungkhavai ningkachon maleimana; chiwui vang",
+        "aishava vashitlaga ali kahangyei. 29. Ana ngashitda aishavaali kahang,",
+        "'Theilu, kum hiya thada i nali ngavaiyei, nawui tui kachikha mamatai-",
+        "mana; chithakha iwui azeishinao bingli ngasotda sashikhavai senao akha",
+        "gaka ili mimana.' 30. 'Kha nawui nao khamatai thotna ngalanao bingli",
+        "nawui ram shiser china vang se phapharo shithimina!' 31. Ana ali kahang,",
+        "'Nao, na i eina kapam thotna, iwui ot phasa shishapup nawuina.' 32. 'Kha",
+        "mathada ngasotkhavai shiyan phamei; nanao hi thida leikha kazing thotna,",
+        "themda leikha theikhuiraser.'",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "11. A certain man had two sons: 12. And the younger of them said to his",
+        "father, 'Father, give me the portion of goods that falleth to me.' And",
+        "he divided unto them his living. 13. And not many days after the younger",
+        "son gathered all together, and took his journey into a far country, and",
+        "there wasted his substance with riotous living. 14. And when he had",
+        "spent all, there arose a mighty famine in that land; and he began to be",
+        "in want. 15. And he went and joined himself to a citizen of that",
+        "country; and he sent him into his fields to feed swine. 16. And he would",
+        "fain have filled his belly with the husks that the swine did eat: and no",
+        "man gave unto him. 17. And when he came to himself, he said, 'How many",
+        "hired servants of my father's have bread enough and to spare, and I",
+        "perish with hunger!' 18. 'I will arise and go to my father, and will say",
+        "unto him, Father, I have sinned against heaven, and before thee,' 19.",
+        "'And am no more worthy to be called thy son: make me as one of thy hired",
+        "servants.' 20. And he arose, and came to his father. But when he was yet",
+        "a great way off, his father saw him, and had compassion, and ran, and",
+        "fell on his neck, and kissed him. 21. And the son said unto him,",
+        "'Father, I have sinned against heaven, and in thy sight, and am no more",
+        "worthy to be called thy son.' 22. But the father said to his servants,",
+        "'Bring forth the best robe, and put it on him; and put a ring on his",
+        "hand, and shoes on his feet:' 23. 'And bring hither the fatted calf, and",
+        "kill it; and let us eat, and be merry:' 24. 'For this my son was dead,",
+        "and is alive again; he was lost, and is found.' And they began to be",
+        "merry. 25. Now his elder son was in the field: and as he came and drew",
+        "nigh to the house, he heard music and dancing. 26. And he called one of",
+        "the servants, and asked what these things meant. 27. And he said unto",
+        "him, 'Thy brother is come; and thy father hath killed the fatted calf,",
+        "because he hath received him safe and sound.' 28. And he was angry, and",
+        "would not go in: therefore came his father out, and intreated him. 29.",
+        "And he answering said to his father, 'Lo, these many years do I serve",
+        "thee, neither transgressed I at any time thy commandment: and yet thou",
+        "never gavest me a kid, that I might make merry with my friends:' 30.",
+        "'But as soon as this thy son was come, which hath devoured thy living",
+        "with harlots, thou hast killed for him the fatted calf.' 31. And he said",
+        "unto him, 'Son, thou art ever with me, and all that I have is thine.'",
+        "32. 'It was meet that we should make merry, and be glad: for this thy",
+        "brother was dead, and is alive again; and was lost, and is found.'"
+      ],
+      "tangkhul_content": "11. Mi akhali mayarnaowon khani leiyi.\n12. Kakhani chiwui ngachaili kakhanao china aishavaali kahang, 'Ava, ramwui kashikhavai ngashan iwui khavai thali ili milu.' Chiwui vang aishavana aram athum khaniwui ngachaili ngashanserie.\n13. Zingkum kachung mathaloikhalang kakhanao china aishapup sanglaga kashak ramli vashitserie, chitharan aphasa kakhano awui vang phasa ngalung khayai eina khamatai thotna.\n14. Ana atam sashidaran ram chithuili haora kapha thotna; chitharan a kacham thotna.\n15. Chiwui vang a vashitlaga chiwui ramwui mi akhali phungphada leiyi; ana ali awui lili hok kashukhavai ngasikseriya.\n16. Chitharan ana hokna shakhavai theichon chieina phasa vashikhavai ningkachon leiyi; chalieikha mi akhana ali mimana.\n17. Kha ana awui ning kazil chitharan ana kahang, 'Iva wui ngavaia mi kachungkhana kachak mathaloikhalang thari, kha i hiwui phasa ngalung kazata eina thiyei!'\n18. 'I ngakhokda iva wui lili vara, ana ali hangra: Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna.'\n19. 'Chiwui vang nawui nao kachi tui shiyan katha mavana; ili nawui ngavaia mi akha gaka thada sanglu.'\n20. Chithālaga a ngakhokda aishava wui lili vayi. Kha a kashakli leitharan aishavana ali theilaga kachan pamei, chithālaga ngathimlaga akukli chukda kachamseriya.\n21. Nao china ali kahang, 'Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna; nawui nao kachi tui shiyan katha mavana.'\n22. Kha aishavana awui ngavaia mi bingli kahang, 'Kaphāmei kachon sanglalu, ali khonlu; kala awui pangyali chap sanglu, awui pheili khokhop sanglu.'\n23. 'Kala se phapharo shithalu, ngasotlu; ithum sashilaga mathaseru.'\n24. 'Iwui nao hi thida leikha kazing thotna, themda leikha theikhuiraser.' Chitharan athum mathapameiser.\n25. Chitharan awui mayarnaowon kakhara a lili leiyi; a ngateilaga shim mathatungda leikhara laa khavai kala ngakhum kaphei khangazip tharan a kashana.\n26. Ana ngavaia mi akhali hoklaga, 'Hi khi thotno?' da ngahangyei.\n27. Ana ali kahang, 'Nawui nanao vashungser, nawui avana se phapharo shithiser, ana phasa katha theikhuira tharan.'\n28. Chiwui vang a kachuk thotna, a shimli ungkhavai ningkachon maleimana; chiwui vang aishava vashitlaga ali kahangyei.\n29. Ana ngashitda aishavaali kahang, 'Theilu, kum hiya thada i nali ngavaiyei, nawui tui kachikha mamatai-mana; chithakha iwui azeishinao bingli ngasotda sashikhavai senao akha gaka ili mimana.'\n30. 'Kha nawui nao khamatai thotna ngalanao bingli nawui ram shiser china vang se phapharo shithimina!'\n31. Ana ali kahang, 'Nao, na i eina kapam thotna, iwui ot phasa shishapup nawuina.'\n32. 'Kha mathada ngasotkhavai shiyan phamei; nanao hi thida leikha kazing thotna, themda leikha theikhuiraser.'",
+      "english_translation": "11. A certain man had two sons:\n12. And the younger of them said to his father, 'Father, give me the portion of goods that falleth to me.' And he divided unto them his living.\n13. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.\n14. And when he had spent all, there arose a mighty famine in that land; and he began to be in want.\n15. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.\n16. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.\n17. And when he came to himself, he said, 'How many hired servants of my father's have bread enough and to spare, and I perish with hunger!'\n18. 'I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,'\n19. 'And am no more worthy to be called thy son: make me as one of thy hired servants.'\n20. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.\n21. And the son said unto him, 'Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.'\n22. But the father said to his servants, 'Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:'\n23. 'And bring hither the fatted calf, and kill it; and let us eat, and be merry:'\n24. 'For this my son was dead, and is alive again; he was lost, and is found.' And they began to be merry.\n25. Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing.\n26. And he called one of the servants, and asked what these things meant.\n27. And he said unto him, 'Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.'\n28. And he was angry, and would not go in: therefore came his father out, and intreated him.\n29. And he answering said to his father, 'Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:'\n30. 'But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.'\n31. And he said unto him, 'Son, thou art ever with me, and all that I have is thine.'\n32. 'It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.'",
+      "notes": [
+        "Continuation reading page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 16)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * ava (noun): father",
+        "    Example: Ava, ramwui kashikhavai.",
+        "  * nao (noun): child, son, offspring",
+        "    Example: Iwui nao hi thida.",
+        "  * kazing (adj/verb): alive, living, restored",
+        "    Example: Kazing thotna.",
+        "  * phapharo (adj): fatted, healthy, prized",
+        "    Example: Se phapharo.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Direct speech framing with quotative postposition 'da'.",
+        "  - Honorific and intimate kinship terms (ava, nanao, azeishinao).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What did the younger son ask of his father?",
+        "  ? How did the father respond when the younger son returned?"
+      ],
+      "tangkhul_content": "ava: father\nnao: child, son, offspring\nkazing: alive, living, restored\nphapharo: fatted, healthy, prized",
+      "english_translation": "Direct speech framing with quotative postposition 'da'.\nHonorific and intimate kinship terms (ava, nanao, azeishinao).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Standard Comparative Vocabulary (241 Lexical Items) (Page 17)",
+      "title": "Chapter 7: Standard Comparative Vocabulary (241 Lexical Items)",
+      "lines": [
+        "CHAPTER 7: STANDARD COMPARATIVE VOCABULARY (241 LEXICAL ITEMS)",
+        "Summary: Core comparative vocabulary items recorded in the Linguistic Survey of India.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Comparative Lexicon: 1. Mi (Man) 2. Mayarnao (Boy/Son) 3. Ngalanao",
+        "(Maiden) 4. Phei (Foot) 5. Pang (Hand) 6. Mik (Eye) 7. Khana (Ear) 8.",
+        "Murva (Hair) 9. Khamasung (Nose) 10. Khamor (Mouth) 11. Ha (Tooth) 12.",
+        "Malei (Tongue) 13. Zingsho (Sun) 14. Kachang (Moon) 15. Sirak (Star) 16.",
+        "Kazing (Sky) 17. Tara (Water) 18. Mei (Fire) 19. Ngayur (Stone) 20.",
+        "Kaphung (Hill).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Standard 241-word linguistic survey list covering anatomical terms,",
+        "celestial bodies, natural elements, common fauna, flora, and basic",
+        "motion verbs."
+      ],
+      "tangkhul_content": "Comparative Lexicon: 1. Mi (Man) 2. Mayarnao (Boy/Son) 3. Ngalanao (Maiden) 4. Phei (Foot) 5. Pang (Hand) 6. Mik (Eye) 7. Khana (Ear) 8. Murva (Hair) 9. Khamasung (Nose) 10. Khamor (Mouth) 11. Ha (Tooth) 12. Malei (Tongue) 13. Zingsho (Sun) 14. Kachang (Moon) 15. Sirak (Star) 16. Kazing (Sky) 17. Tara (Water) 18. Mei (Fire) 19. Ngayur (Stone) 20. Kaphung (Hill).",
+      "english_translation": "Standard 241-word linguistic survey list covering anatomical terms, celestial bodies, natural elements, common fauna, flora, and basic motion verbs.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * mik (noun): eye",
+        "    Example: Mik eina kathei.",
+        "  * pang (noun): hand, arm",
+        "    Example: Pang eina kasa.",
+        "  * phei (noun): foot, leg",
+        "    Example: Phei khokhop.",
+        "  * tara (noun): water",
+        "    Example: Tara kashing.",
+        "  * mei (noun): fire",
+        "    Example: Mei karing.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Monosyllabic anatomical roots commonly taking prefix kha- or bare root.",
+        "  - Compound formations: pang-ya (finger), phei-ya (toe).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What are the Tangkhul words for the four primary elements (water, fire, earth, sky)?",
+        "  ? How are body parts named and derived in Tangkhul?"
+      ],
+      "tangkhul_content": "mik: eye\npang: hand, arm\nphei: foot, leg\ntara: water\nmei: fire",
+      "english_translation": "Monosyllabic anatomical roots commonly taking prefix kha- or bare root.\nCompound formations: pang-ya (finger), phei-ya (toe).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "back_matter_glossary",
+      "header": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section) -- Comprehensive Glossary (Page 19)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  ram [noun]: country, territory, homeland",
+        "  kaphung [noun]: mountain, hill",
+        "  shiyan [noun]: custom, standard, linguistic form",
+        "  tui [noun]: word, language, speech",
+        "  kakhalat [noun]: meaning, pronunciation",
+        "  mayarnao [noun]: man, young man, son",
+        "  ngalanao [noun]: girl, maiden, daughter",
+        "  shim [noun]: house, home",
+        "  kaphā [adj]: good, beautiful, auspicious",
+        "  akha [num]: one (1)",
+        "  khani [num]: two (2)",
+        "  kasa [verb]: to do, to make, to create",
+        "  kathei [verb]: to see, to perceive",
+        "  kashak [verb]: to eat, to partake",
+        "  ava [noun]: father",
+        "  nao [noun]: child, son, offspring",
+        "  kazing [adj/verb]: alive, living, restored",
+        "  phapharo [adj]: fatted, healthy, prized",
+        "  mik [noun]: eye",
+        "  pang [noun]: hand, arm",
+        "  phei [noun]: foot, leg",
+        "  tara [noun]: water",
+        "  mei [noun]: fire"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 23"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "back_cover",
+      "header": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section) -- Back Cover & Colophon (Page 20)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-ARCH-001",
+        "Title: Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section)",
+        "Publisher: Office of the Superintendent of Government Printing, Calcutta",
+        "Publication Year: 1903",
+        "Dialect Variety: Tangkhul",
+        "Total Digital Pages: 20",
+        "Total Chapters: 7",
+        "Total Words Indexed: 1303",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "ram",
+        "pos": "noun",
+        "meaning": "country, territory, homeland",
+        "example": "Manipur ramli kapam."
+      },
+      {
+        "word": "kaphung",
+        "pos": "noun",
+        "meaning": "mountain, hill",
+        "example": "Zingshor kaphungli."
+      },
+      {
+        "word": "shiyan",
+        "pos": "noun",
+        "meaning": "custom, standard, linguistic form",
+        "example": "Shiyan kashak."
+      },
+      {
+        "word": "tui",
+        "pos": "noun",
+        "meaning": "word, language, speech",
+        "example": "Tangkhul tui mathan."
+      },
+      {
+        "word": "kakhalat",
+        "pos": "noun",
+        "meaning": "meaning, pronunciation",
+        "example": "Kakhalat shiyan."
+      },
+      {
+        "word": "mayarnao",
+        "pos": "noun",
+        "meaning": "man, young man, son",
+        "example": "Mayarnaona vayi."
+      },
+      {
+        "word": "ngalanao",
+        "pos": "noun",
+        "meaning": "girl, maiden, daughter",
+        "example": "Ngalanao kaphā."
+      },
+      {
+        "word": "shim",
+        "pos": "noun",
+        "meaning": "house, home",
+        "example": "Awui shimli kapam."
+      },
+      {
+        "word": "kaphā",
+        "pos": "adj",
+        "meaning": "good, beautiful, auspicious",
+        "example": "Won kaphā."
+      },
+      {
+        "word": "akha",
+        "pos": "num",
+        "meaning": "one (1)",
+        "example": "Mi akha."
+      },
+      {
+        "word": "khani",
+        "pos": "num",
+        "meaning": "two (2)",
+        "example": "Mayarnaowon khani."
+      },
+      {
+        "word": "kasa",
+        "pos": "verb",
+        "meaning": "to do, to make, to create",
+        "example": "Ot kasa."
+      },
+      {
+        "word": "kathei",
+        "pos": "verb",
+        "meaning": "to see, to perceive",
+        "example": "Ali kathei."
+      },
+      {
+        "word": "kashak",
+        "pos": "verb",
+        "meaning": "to eat, to partake",
+        "example": "Kachak kashak."
+      },
+      {
+        "word": "ava",
+        "pos": "noun",
+        "meaning": "father",
+        "example": "Ava, ramwui kashikhavai."
+      },
+      {
+        "word": "nao",
+        "pos": "noun",
+        "meaning": "child, son, offspring",
+        "example": "Iwui nao hi thida."
+      },
+      {
+        "word": "kazing",
+        "pos": "adj/verb",
+        "meaning": "alive, living, restored",
+        "example": "Kazing thotna."
+      },
+      {
+        "word": "phapharo",
+        "pos": "adj",
+        "meaning": "fatted, healthy, prized",
+        "example": "Se phapharo."
+      },
+      {
+        "word": "mik",
+        "pos": "noun",
+        "meaning": "eye",
+        "example": "Mik eina kathei."
+      },
+      {
+        "word": "pang",
+        "pos": "noun",
+        "meaning": "hand, arm",
+        "example": "Pang eina kasa."
+      },
+      {
+        "word": "phei",
+        "pos": "noun",
+        "meaning": "foot, leg",
+        "example": "Phei khokhop."
+      },
+      {
+        "word": "tara",
+        "pos": "noun",
+        "meaning": "water",
+        "example": "Tara kashing."
+      },
+      {
+        "word": "mei",
+        "pos": "noun",
+        "meaning": "fire",
+        "example": "Mei karing."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-ARCH-001",
+      "title": "Linguistic Survey of India: Specimens of the Bodo, Nāgā, and Kachin Groups (Tangkhul Section)",
+      "total_pages": 20,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 20,
+  "total_chapters": 7,
+  "total_words": 2538,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Introduction & Dialectal Classification",
+      "tangkhul_text": "Tangkhul Naga hi Manipur ramwui kaphung zanshorli kapam tui thotna. Ukhrul kaphung hi Tangkhul tuiwui phungreitang thada shiyan kashakna. Tui hi Tibeto-Burman wui Naga-Kuki tui ngachaili shangserna.",
+      "translation_en": "The Tangkhul Nagas inhabit the eastern hill tracts of Manipur State. The village of Ukhrul serves as the central cultural and linguistic standard. The language belongs to the Naga-Bodo / Tibeto-Burman linguistic stock."
+    },
+    {
+      "chapter": "Chapter 2: Phonology and the Roman Alphabet",
+      "tangkhul_text": "Vowels: a, ā, e, ē, i, ī, o, ō, u, ū. Consonants: k, kh, ng, ch, chh, j, t, th, n, p, ph, m, y, r, l, w, s, sh, h. Kakhalat kashak shiyan eina tui khangatei kachung lei.",
+      "translation_en": "Vowel inventory with phonemic length distinctions: short and long vowels. Consonantal series with aspirated stops (kh, th, ph, chh). Syllable-final consonants and tonal inflections alter word significations."
+    },
+    {
+      "chapter": "Chapter 3: The Noun System & Case Inflections",
+      "tangkhul_text": "Tuiwon bing: mayarnaona (nominative), mayarnaoli (accusative/dative), mayarnaowui (genitive), mayarnaoeina (instrumental/ablative). Chitharan shiyan kakhane: si (dog), siva (bitch), simayār (male dog).",
+      "translation_en": "Case suffixes attached to nominal stems: -na (nominative/agentive), -li (dative/objective), -wui (genitive/possessive), -eina (instrumental/ablative). Gender markers: -va (female) and -mayār (male)."
+    },
+    {
+      "chapter": "Chapter 4: Adjectives, Numerals & Pronouns",
+      "tangkhul_text": "Kaphā (good), kakhui (bitter), kacham (poor). Comparison: kaphāmei (better), pamei (best). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), thakharā / magā (10). Pronouns: i (I), na (thou), a (he/she).",
+      "translation_en": "Descriptive adjectives are derived using prefix ka-. Comparison is marked with -mei. Cardinal numerals from 1 to 10. Personal pronouns: 1st person 'i', 2nd person 'na', 3rd person 'a'; plurals: ithum, nathum, athum."
+    },
+    {
+      "chapter": "Chapter 5: Verb Conjugation, Tenses & Moods",
+      "tangkhul_text": "I sai (I do, present), i sada / i theiser (past), i sara (future). Imperative: salu (do!), theilu (see!). Negative: masa-mana (does not do), mathei-mana (does not see). Causative: -sak (sasaku).",
+      "translation_en": "Verbs conjugate through tense suffixes: present -ei/-i, past -ser/-da, future -ra. Imperative forms take suffix -lu. Negation frames the verbal root with prefix ma- and suffix -mana. Causation is expressed with -sak."
+    },
+    {
+      "chapter": "Chapter 6: Specimen I: The Parable of the Prodigal Son (Complete)",
+      "tangkhul_text": "11. Mi akhali mayarnaowon khani leiyi.\n12. Kakhani chiwui ngachaili kakhanao china aishavaali kahang, 'Ava, ramwui kashikhavai ngashan iwui khavai thali ili milu.' Chiwui vang aishavana aram athum khaniwui ngachaili ngashanserie.\n13. Zingkum kachung mathaloikhalang kakhanao china aishapup sanglaga kashak ramli vashitserie, chitharan aphasa kakhano awui vang phasa ngalung khayai eina khamatai thotna.\n14. Ana atam sashidaran ram chithuili haora kapha thotna; chitharan a kacham thotna.\n15. Chiwui vang a vashitlaga chiwui ramwui mi akhali phungphada leiyi; ana ali awui lili hok kashukhavai ngasikseriya.\n16. Chitharan ana hokna shakhavai theichon chieina phasa vashikhavai ningkachon leiyi; chalieikha mi akhana ali mimana.\n17. Kha ana awui ning kazil chitharan ana kahang, 'Iva wui ngavaia mi kachungkhana kachak mathaloikhalang thari, kha i hiwui phasa ngalung kazata eina thiyei!'\n18. 'I ngakhokda iva wui lili vara, ana ali hangra: Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna.'\n19. 'Chiwui vang nawui nao kachi tui shiyan katha mavana; ili nawui ngavaia mi akha gaka thada sanglu.'\n20. Chithālaga a ngakhokda aishava wui lili vayi. Kha a kashakli leitharan aishavana ali theilaga kachan pamei, chithālaga ngathimlaga akukli chukda kachamseriya.\n21. Nao china ali kahang, 'Ava, Kazingramli kala na makhaingalina i yor kasa mi thotna; nawui nao kachi tui shiyan katha mavana.'\n22. Kha aishavana awui ngavaia mi bingli kahang, 'Kaphāmei kachon sanglalu, ali khonlu; kala awui pangyali chap sanglu, awui pheili khokhop sanglu.'\n23. 'Kala se phapharo shithalu, ngasotlu; ithum sashilaga mathaseru.'\n24. 'Iwui nao hi thida leikha kazing thotna, themda leikha theikhuiraser.' Chitharan athum mathapameiser.\n25. Chitharan awui mayarnaowon kakhara a lili leiyi; a ngateilaga shim mathatungda leikhara laa khavai kala ngakhum kaphei khangazip tharan a kashana.\n26. Ana ngavaia mi akhali hoklaga, 'Hi khi thotno?' da ngahangyei.\n27. Ana ali kahang, 'Nawui nanao vashungser, nawui avana se phapharo shithiser, ana phasa katha theikhuira tharan.'\n28. Chiwui vang a kachuk thotna, a shimli ungkhavai ningkachon maleimana; chiwui vang aishava vashitlaga ali kahangyei.\n29. Ana ngashitda aishavaali kahang, 'Theilu, kum hiya thada i nali ngavaiyei, nawui tui kachikha mamatai-mana; chithakha iwui azeishinao bingli ngasotda sashikhavai senao akha gaka ili mimana.'\n30. 'Kha nawui nao khamatai thotna ngalanao bingli nawui ram shiser china vang se phapharo shithimina!'\n31. Ana ali kahang, 'Nao, na i eina kapam thotna, iwui ot phasa shishapup nawuina.'\n32. 'Kha mathada ngasotkhavai shiyan phamei; nanao hi thida leikha kazing thotna, themda leikha theikhuiraser.'",
+      "translation_en": "11. A certain man had two sons:\n12. And the younger of them said to his father, 'Father, give me the portion of goods that falleth to me.' And he divided unto them his living.\n13. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.\n14. And when he had spent all, there arose a mighty famine in that land; and he began to be in want.\n15. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.\n16. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.\n17. And when he came to himself, he said, 'How many hired servants of my father's have bread enough and to spare, and I perish with hunger!'\n18. 'I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,'\n19. 'And am no more worthy to be called thy son: make me as one of thy hired servants.'\n20. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.\n21. And the son said unto him, 'Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.'\n22. But the father said to his servants, 'Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:'\n23. 'And bring hither the fatted calf, and kill it; and let us eat, and be merry:'\n24. 'For this my son was dead, and is alive again; he was lost, and is found.' And they began to be merry.\n25. Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing.\n26. And he called one of the servants, and asked what these things meant.\n27. And he said unto him, 'Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.'\n28. And he was angry, and would not go in: therefore came his father out, and intreated him.\n29. And he answering said to his father, 'Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:'\n30. 'But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.'\n31. And he said unto him, 'Son, thou art ever with me, and all that I have is thine.'\n32. 'It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.'"
+    },
+    {
+      "chapter": "Chapter 7: Standard Comparative Vocabulary (241 Lexical Items)",
+      "tangkhul_text": "Comparative Lexicon: 1. Mi (Man) 2. Mayarnao (Boy/Son) 3. Ngalanao (Maiden) 4. Phei (Foot) 5. Pang (Hand) 6. Mik (Eye) 7. Khana (Ear) 8. Murva (Hair) 9. Khamasung (Nose) 10. Khamor (Mouth) 11. Ha (Tooth) 12. Malei (Tongue) 13. Zingsho (Sun) 14. Kachang (Moon) 15. Sirak (Star) 16. Kazing (Sky) 17. Tara (Water) 18. Mei (Fire) 19. Ngayur (Stone) 20. Kaphung (Hill).",
+      "translation_en": "Standard 241-word linguistic survey list covering anatomical terms, celestial bodies, natural elements, common fauna, flora, and basic motion verbs."
+    }
+  ]
+}

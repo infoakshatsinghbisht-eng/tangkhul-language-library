@@ -1,0 +1,44 @@
+{
+  "id": "SNG-CAND-001",
+  "resource_type": "songs",
+  "title": "Phadang Village Harvest Chant",
+  "alternate_titles": [
+    "Phadang Khangkhayei Laa"
+  ],
+  "title_translation": "Phadang Harvest Chant",
+  "singer": "Phadang Village Informants",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Linguistic Survey Field Team",
+  "performers": [],
+  "year": null,
+  "village": "Phadang",
+  "dialect": "Phadang Dialect",
+  "song_type": "festival",
+  "language": "Tangkhul",
+  "source_url": null,
+  "source_identifier": "ORAL-PHAD-001",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Field Documentation",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "needs_review",
+  "notes": "Candidate oral recording of a Phadang village harvest chant; pending primary audio archive session verification and dialect gloss confirmation.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Phadang luisangli khangkhayei laa.",
+        "Maha thot kashamli tara kapha.",
+        "Iram Phadang wui ringkaphana."
+      ],
+      "lines_translation": [
+        "Across the fertile paddy fields of Phadang village, the harvest chant echoes.",
+        "Pure waters flowing as the golden crops are reaped.",
+        "The enduring prosperity and peace of Phadang homeland."
+      ]
+    }
+  ]
+}

@@ -1,16 +1,26 @@
 """Literature domain module for Tangkhul Language Library.
 
-Scope & Planned Capabilities:
-    - Traditional folk tales, legends, and oral narratives (Khararchan).
-    - Tangkhul poetry, creative prose, and dramatic works.
-    - Traditional riddles and allegories.
-    - Permitted text extraction and literary vocabulary linking.
-
-Status:
-    Planned domain module. Scaffolding established in Step 1.
-    Literary texts and oral corpora will be implemented in subsequent steps.
+Provides models, catalogues, and extraction utilities for Tangkhul poetry,
+short stories, folktales, drama, oral narratives, and literary anthologies.
 """
 
 from __future__ import annotations
 
+from tangkhul_lib.literature.catalogue import LiteratureCatalogue
+from tangkhul_lib.literature.extractor import LiteratureExtractor
+from tangkhul_lib.literature.models import (
+    VALID_LITERARY_GENRES,
+    VALID_TEXT_AVAILABILITY,
+    LiteraryRecord,
+)
+
 MODULE_NAME = "literature"
+
+__all__ = [
+    "MODULE_NAME",
+    "VALID_LITERARY_GENRES",
+    "VALID_TEXT_AVAILABILITY",
+    "LiteraryRecord",
+    "LiteratureCatalogue",
+    "LiteratureExtractor",
+]

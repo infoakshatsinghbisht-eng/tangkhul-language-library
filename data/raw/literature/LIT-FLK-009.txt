@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KONGYANG WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-009 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kongyang wui Khararchan
+  Title Translation:     The Story of the Cicada and the Lean Season
+  Literary Genre / Type: folk_tale (folk_tale)
+  Author / Storyteller:  Traditional
+  Publication Year:      1981
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Hunphun [Standard Tangkhul]
+  Source Identifier:     TLS-1981-KYC
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Classic didactic animal fable illustrating the virtues of foresight, agricultural diligence, and seasonal preparation in mountain villages.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Chikaning akhali ramli chiyan-ngachon kashung eina, kongyangna thing-phangli pamda laa khamatha seiser-kazatta.
+  Chitharan yarwui mayarnaona phangyāngli luikakhui eili mashun-mashun khangaran sakashung.
+
+  Kongyangna ning-ngalungli 'Yarsho kachikha thithang meingaláng, khipana maringphang kaji maleimana' da phanit-kazatta.
+  Kha kachikhangai yarthang vashungli mei-kacham eina kazing kaho rorkhavai, kongyangli kachama kashang maleikahaowa.
+
+  Luilap kashung eili kongyangna yarwui mayarnaoli 'Ili kachama mikhuilu!' da marui kha mayarnaona makhaning.
+  Kongyangwui khararchan hi kakhayak khangarang kala luingao khangashan-wui pangkakha thada Tangkhul ramli karamtatta.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  During the radiant season of spring, the cicada sat upon the oak branches, singing sweet melodies throughout the sunny days.
+  Meanwhile, the diligent youth of the village laboured under the scorching sun, clearing hillside terraces and planting paddy.
+
+  The cicada mocked them in lighthearted mirth: 'Summer is endless and sweet; why toil when the breeze invites song?'
+  Yet when the bitter winds of winter arrived and heavy frost coated the forest ridges, the cicada possessed neither grain nor shelter.
+
+  Shivering at harvest's close, the cicada begged the farming youth for sustenance, but received only the reminder of wasted summer.
+  This ancient fable serves as an enduring customary lesson among the Tangkhul people on diligence, foresight, and seasonal labor.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Diligence versus seasonal indolence (*Luingao eina Khayak*)
+  * Ecological awareness and adherence to agricultural cycles
+  * Customary work ethic of the terrace cultivators (*Luirao khangaran*)
+  * Moral fable instructing youth on communal responsibility
+
+STRUCTURE & POETIC METER: Moral animal fable in dialogue format with didactic cadence and cautionary proverb endings.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Recorded in early Tangkhul language readers and oral storytelling sessions. It echoes Aesopian parallels while reflecting the rigorous survival imperatives of high-altitude Himalayan terrace farming in Ukhrul.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Kongyang               : Cicada, associated in Tangkhul lore with seasonal summer song and lack of foresight
+  * Luingao                : Paddy cultivation, hill terrace agriculture
+  * Chiyan-ngachon         : Springtime when new shoots emerge on the mountain terraced fields
+  * Mei-kacham             : The bitter frost of winter descending upon mountain villages
+
+================================================================================
+END OF RECORD: LIT-FLK-009 - Tangkhul Language Library Digital Archive
+================================================================================

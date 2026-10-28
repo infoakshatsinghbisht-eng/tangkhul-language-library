@@ -1,0 +1,57 @@
+{
+  "id": "SNG-TRAD-006",
+  "resource_type": "songs",
+  "title": "Haola: Ngashan Laa",
+  "alternate_titles": [
+    "Haora Kashan Laa"
+  ],
+  "title_translation": "Song of the Traditional Shawl and Attire",
+  "singer": "Traditional",
+  "lyricist": null,
+  "composer": null,
+  "collector": "H. Kamkhenthang",
+  "performers": [],
+  "year": 1989,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "ceremonial",
+  "language": "Tangkhul",
+  "source_url": null,
+  "source_identifier": "TRI-FS-1989-01",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Cultural Heritage",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Ceremonial song celebrating Tangkhul traditional woven garments (Haora, Luirim) and cultural heritage.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Haora kashan wui won kachiphun.",
+        "Luirim chongkhom aina ngakhangaso.",
+        "Iram Tangkhul wui mashun themthot."
+      ],
+      "lines_translation": [
+        "Adorned in the woven glory of the traditional Haora shawl.",
+        "Blending the rich crimson and black stripes of Luirim.",
+        "The dignity and cultural artistry of our Tangkhul land."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Kharao apuina kashak ngashan.",
+        "Thot kachungli iramli mazaikahai.",
+        "Kaphung konglaoli pheikao ngasak."
+      ],
+      "lines_translation": [
+        "Woven by the skilled hands of our ancestral mothers.",
+        "Passed down through centuries as our cultural treasure.",
+        "Danced with pride across the mountain heights."
+      ]
+    }
+  ]
+}

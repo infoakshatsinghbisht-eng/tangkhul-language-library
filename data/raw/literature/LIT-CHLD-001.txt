@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KACHAKUI KALA SHANAO
+IDENTIFIER: LIT-CHLD-001 | GENRE: CHILDREN_LITERATURE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kachakui Kala Shanao
+  Title Translation:     The Crow and the Pheasant
+  Literary Genre / Type: children_literature (children_literature)
+  Author / Storyteller:  Traditional
+  Publication Year:      2022
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-002-L04
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-002
+  License & Clearance:   Educational Use (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Moral fable for children explaining the plumages of birds and warning against jealousy, pride, and greed. Published in Class IV textbook Zingyar Tangkhul.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Thotli Kachakui (Crow) kala Shanao (Pheasant) khani akha-akha-li paint sak-kacham tuingashitya.
+  Shanaona Kachakuili black soot-li marikta chapa-khavai kachon mathat-da shapkasa sakya.
+  Kachakuina ningkhamachap-da Shanaowui plumages-li colorful spots mathat-da lakahon, ngashan hithada pharora.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Once, the Crow (*Kachakui*) and the Pheasant (*Shanao*) made a covenant to paint each other's feathers with splendor.
+  The pheasant patiently decorated the crow with deep glossy soot, taking great care to craft an elegant garment.
+  Yet the impatient crow splashed colors hastily, giving the pheasant its spotted plumage and ending their brotherhood.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Children's moral fable on patience versus impetuous greed
+  * Etiological explanation of bird plumage and animal characteristics
+  * The sacredness of keeping promises and fulfilling reciprocal duties
+
+STRUCTURE & POETIC METER: Playful educational prose with simple sentence syntax and repetitive dialogue designed for elementary readers.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Published in the official Class IV Tangkhul textbook Zingyar Tangkhul (2022) to teach foundational moral principles through ancestral avian stories.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Kachakui               : The mountain crow / raven
+  * Shanao                 : The colorful forest pheasant
+  * Kachon                 : Garment / feather plumage
+  * Ningkhamachap          : Hasty impatience and selfish carelessness
+
+================================================================================
+END OF RECORD: LIT-CHLD-001 - Tangkhul Language Library Digital Archive
+================================================================================

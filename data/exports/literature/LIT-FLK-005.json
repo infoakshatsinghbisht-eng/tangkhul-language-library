@@ -1,0 +1,54 @@
+{
+  "id": "LIT-FLK-005",
+  "resource_type": "literature",
+  "title": "The Legend of Mount Shirui and Kashongwui Won",
+  "title_translation": "The Origin Legend of the Sentinel Peak and its Blossom",
+  "creator": "Shirui Community Custodians & M. Horam",
+  "author": "Traditional",
+  "year": 1977,
+  "publisher": "B.R. Publishing Corporation, Delhi",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul / Shirui",
+  "village": "Shirui",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "oral_narrative"
+  ],
+  "book_id": null,
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Shirui",
+  "license": "Cultural Oral Lore",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-005.txt",
+  "notes": "Ancestral cosmological legend narrating the spiritual union between the guardian spirit of Shirui mountain and the rare mountain lily (Lilium mackliniae).",
+  "indigenous_tangkhul_text": [
+    "Shirui Kashong kaphungli Princess Philavana cloud-dwelling spirits-wui ngachonli pamya.",
+    "Kashongwui Won (Shirui Lily) Philavawui kaphara leishat kala modesty-wui kashik thada bloom sakya.",
+    "Kaphung crest-li windswept mist-li pharak-da kaza-khangao leikashi ancestral folklore-li ngari-shitsangya."
+  ],
+  "english_translation_text": [
+    "Atop the windswept crags of Mount Shirui, the spirit princess Philava dwelt amidst swirling cloud guardians.",
+    "The sacred flower of the peak (*Kashongwui Won*) bloomed as an eternal witness to her unblemished beauty and modesty.",
+    "Encased in alpine mist, this ecological wonder has inspired centuries of poetic reverence and mythological devotion."
+  ],
+  "literary_themes": [
+    "Cosmological animism and nature spirit guardians (*Philava*)",
+    "Sacred landscape personification and alpine ecology",
+    "The flower as a symbol of feminine purity, regional pride, and mystery"
+  ],
+  "structure_and_meter": "Mythological narrative incorporating nature hymnody, descriptive topographic verse, and ritual invocations.",
+  "critical_commentary": "Recorded by anthropologist M. Horam in 1977, this legend bridges Tangkhul cosmology with the unique ecological marvel of the endemic Shirui Lily.",
+  "poetic_vocabulary_terms": {
+    "Kashongwui Won": "The flower of the peak (Shirui Lily / Lilium mackliniae)",
+    "Philava": "Mythical guardian princess and spirit protector of Mount Shirui",
+    "Kashong": "Alpine summit / sacred mountain crest",
+    "Kaza-Khangao": "Natural wonder of breathtaking majesty"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

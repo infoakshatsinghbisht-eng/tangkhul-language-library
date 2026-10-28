@@ -1,0 +1,54 @@
+{
+  "id": "LIT-CAND-001",
+  "resource_type": "literature",
+  "title": "Contemporary Tangkhul Poetry Anthology (Field Collection)",
+  "title_translation": "Unpublished Village Poetry and Monologue Candidate Collection",
+  "creator": "Tangkhul Youth Writers Circle",
+  "author": "Various Contemporary Poets",
+  "year": 2020,
+  "publisher": "Community Manuscript",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem",
+    "literary_anthology"
+  ],
+  "book_id": null,
+  "source_url": "https://tangkhullanguage.org/archive/literature/fieldwork-2020",
+  "source_identifier": "TDDP-LIT-2020-01",
+  "license": "Pending Community Clearance",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "needs_review",
+  "local_path": "data/raw/literature/LIT-CAND-001.txt",
+  "notes": "Candidate collection of contemporary unpublished village poetry compiled during fieldwork; awaiting individual author clearance and formal orthographic review.",
+  "indigenous_tangkhul_text": [
+    "Contemporary Tangkhul Youth Writers Circle-na village fieldwork-li unpublished modern poems and monologues compile sakya.",
+    "Modern urban identity, mountain environmental ecology, social justice, kala digital era-wui youth reflections explore sakya.",
+    "Candidate collection-hi individual poet clearance kala formal orthographic review-wui pending status-li pama."
+  ],
+  "english_translation_text": [
+    "Compiled during village fieldwork in 2020, this candidate collection gathers unpublished poems by emerging Tangkhul writers.",
+    "Exploring modern urban identity, mountain ecology, social justice, and the dilemmas of youth in the digital era.",
+    "This candidate anthology is catalogued under ethical community protocols awaiting individual clearance and orthographic review."
+  ],
+  "literary_themes": [
+    "Contemporary 21st-century youth poetry and free-verse innovation",
+    "Environmental preservation of the fragile hill ridges and forests",
+    "Diaspora identity and nostalgic yearning for ancestral roots"
+  ],
+  "structure_and_meter": "Contemporary free verse, experimental line breaks, and conversational poetic monologues.",
+  "critical_commentary": "Represents the active cutting edge of contemporary Tangkhul creative writing, bridging oral heritage with 21st-century global poetics.",
+  "poetic_vocabulary_terms": {
+    "Kathara-Laa": "Contemporary free verse / modern poetic composition",
+    "Ning-Kashuk": "Reflective personal monologue",
+    "Ramvum-Leishat": "Nostalgic yearning for the ancestral soil",
+    "Mayarnao-Ning": "The youthful consciousness of the new generation"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

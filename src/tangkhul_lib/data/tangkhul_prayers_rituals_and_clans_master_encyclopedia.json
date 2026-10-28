@@ -1,0 +1,351 @@
+{
+  "title": "Tangkhul Prayers, Rituals & Clan System Master Encyclopedia",
+  "hindi_title": "तंगखुल प्रार्थनाएं, पवित्र अनुष्ठान एवं गोत्र/सामाजिक व्यवस्था महा-विश्वकोश",
+  "compilation_year": 2024,
+  "language": "Tangkhul Naga (Standard Ukhrul Dialect)",
+  "modules": {
+    "prayers_and_invocations": {
+      "id": "CULT-PRAY-001",
+      "title": "Tangkhul Traditional Prayers & Invocations (Hai-kapha kala Seikha-kapha)",
+      "title_translation": "Comprehensive Compendium of Tangkhul Invocations, Blessing Prayers, and Sacred Chants",
+      "category": "ritual",
+      "subcategory": "prayers_and_invocations",
+      "creator": "Tangkhul Community Elders & Traditional Invocators",
+      "year": 1911,
+      "publisher": "Traditional Oral Heritage (Hodson 1911, Horam 1977, Pettigrew 1907)",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul (Ukhrul / Hunphun)",
+      "village": "Ukhrul / Hunphun",
+      "permission_status": "community_authorized",
+      "access_status": "metadata_only",
+      "verification_status": "verified",
+      "local_path": "data/raw/culture/CULT-PRAY-001_tangkhul_traditional_prayers.txt",
+      "notes": "Comprehensive documentation of traditional Tangkhul invocations (Hai-kapha) and blessing chants (Seikha-kapha) addressed to the Supreme Creator (Varivara), mountain spirits, hearth dedication, agricultural blessings, and ancestral spirits.",
+      "prayer_sections": [
+        {
+          "section_id": "PRAY-01",
+          "section_title": "Varivara-li Hai-kapha: Invocations to the Supreme Creator",
+          "ritual_context": "Solemn dawn invocations addressed to the Creator of heaven and earth during village convocations.",
+          "prayers": [
+            {
+              "prayer_name": "Kazing kala Ngalei Kasa Akhavara (Sovereign of Heaven and Earth)",
+              "tangkhul": "Varivara, kazing kala ngalei kasa akhavara! Iram Hunphun kala Tangkhul ngaleili kapha eina leishat kachung khami. Macham-matai, kazingwui ringkapha kala ngaleiwui kachon shim kachivali shung-ngasak-lu.",
+              "english": "O Varivara, Sovereign Creator of heaven and earth! Bestow goodness and overflowing love upon Hunphun and all Tangkhul lands. Let the peace of heaven and the fruitfulness of the earth fill every home.",
+              "hindi": "हे वरिवरा, स्वर्ग और पृथ्वी के सृष्टिकर्ता परमेश्वर! हमारे हुंफुन गांव और संपूर्ण तंगखुल भूमि पर अपनी भलाई और असीम अनुग्रह बरसाएं। हर घर को स्वर्गीय शांति और पृथ्वी की उर्वरता से परिपूर्ण करें।"
+            },
+            {
+              "prayer_name": "Ringkaphawui Ning-Ngazek (Petition for Life, Health, and Unity)",
+              "tangkhul": "Iramwui mayar-shanao kachivali kapha kakhanganuina ninglum-hai-lu; kacham-kahao maningda, maram-matai eina ngachee kachiva machik-hai-lu.",
+              "english": "Endow all the sons and daughters of our land with righteous discernment and upright character; banish famine and poverty, and protect us from every calamity.",
+              "hindi": "हमारी भूमि के सभी पुत्र-पुत्रियों को धार्मिक विवेक और सदाचार से सुशोभित करें; अकाल व दरिद्रता को दूर रखें और हर विपत्ति से हमारी रक्षा करें।"
+            }
+          ]
+        },
+        {
+          "section_id": "PRAY-02",
+          "section_title": "Luira Shimlut-wui Seikha: Agrarian Sowing & Harvest Invocations",
+          "ritual_context": "Chanted at dawn by the Awunga (chief) turning the first sod of earth during Luira Phanit.",
+          "prayers": [
+            {
+              "prayer_name": "Shimlut Kaphung Invocatory Chant (First Seed Blessing)",
+              "tangkhul": "Tara-kong kala kaphung ngalemwui makhangai ngachaili, kachang kathara eina phung-kasa oira. Kachim-kasa mayar-shanao mashung-ngasak-lu; changva kachon kachivali mathala kaza samphang-ngasak-lu.",
+              "english": "By the quiet mountain streams and along terraced slopes, let the newly sown seeds take deep root in fertile earth. Bless the labor of men and women; may every sheaf harvested bring joyful sustenance.",
+              "hindi": "पर्वतीय जलधाराओं और ढलानों पर बोए गए नए बीजों को उपजाऊ धरती में गहराई से फलने-फूलने का आशीर्वाद दें। सभी पुरुषों और महिलाओं के श्रम को सफल करें; हर बाली प्रचुर अन्न और सुख प्रदान करे।"
+            },
+            {
+              "prayer_name": "Chumpha Granary Consecration Prayer",
+              "tangkhul": "Chumkhur hili kashung tara-chang, kacham kashiman malailaka; shanao mibingwui pāng eina phung-kasa za-machit mashung-ngasak-lu.",
+              "english": "May the grain stored in this sacred granary endure through every season, banishing all want; through the blessed hands of women custodians, let our sustenance never fail.",
+              "hindi": "इस पवित्र अन्न भंडार में संचित अनाज हर ऋतु में बना रहे और हर अभाव को दूर करे; अन्न की संरक्षिका मातृशक्ति के हाथों से हमारी संपन्नता कभी कम न हो।"
+            }
+          ]
+        },
+        {
+          "section_id": "PRAY-03",
+          "section_title": "Shimsa kala Meiphung Invocations: Hearth & Domestic Protection",
+          "ritual_context": "Chanted during the dedication of a newly built house when kindling the sacred hearth fire.",
+          "prayers": [
+            {
+              "prayer_name": "Meiphung Kathara Consecration (Sacred Hearth Flame)",
+              "tangkhul": "Meiphung kathara hili mei-ngatai eina ngachee kachiva machik-hai-lu. Shimwui naonao kala marva ningcha-ngachan eina khararchan wui tui kathara thotkakhui mashung-ngasak-lu.",
+              "english": "Around this consecrated hearth, kindle the sacred fire to dispel darkness, sickness, and strife. May the children and elders of this household dwell in unity and pass down ancestral virtues across generations.",
+              "hindi": "इस पवित्र चूल्हे पर प्रज्वलित अग्नि समस्त अंधकार, व्याधि और कलह को दूर करे। इस घर के बच्चे और वृद्धजन एकता में रहें और पूर्वजों के संस्कारों को पीढ़ी-दर-पीढ़ी आगे बढ़ाएं।"
+            }
+          ]
+        },
+        {
+          "section_id": "PRAY-04",
+          "section_title": "Khayang Shongfa Hai-kapha: Mountain Wilderness & Wayfarer Blessing",
+          "ritual_context": "Uttered before undertaking mountain expeditions, hunting journeys, or cross-valley trade.",
+          "prayers": [
+            {
+              "prayer_name": "Shongfa Makhangai Prayer (Safe Passage Across Mountain Ridges)",
+              "tangkhul": "Kaphung kachang, kongrei kala thang-khala shongfali yaokhayei eina kacham-kahao maning-ngasak-lu. Awungana iram-iramli macham kashap samphang-ngasak-lu.",
+              "english": "Across high mountain ridges, turbulent torrents, and wilderness trails, grant sure footing and keep all danger afar. May the traveler return home bearing peace and honor.",
+              "hindi": "ऊंचे पर्वतों, उफनती नदियों और बीहड़ वन्य मार्गों पर हमारे कदमों को स्थिरता दें और सभी विपत्तियों से रक्षा करें। यात्री कुशलतापूर्वक शांति और सम्मान के साथ घर लौटें।"
+            }
+          ]
+        },
+        {
+          "section_id": "PRAY-05",
+          "section_title": "Thisham Kasa Akhava Hai-kapha: Ancestral Memorial Chants",
+          "ritual_context": "Chanted by village elders lighting pine-splint torches during Thisham Phanit (Feast of Departing Souls).",
+          "prayers": [
+            {
+              "prayer_name": "Kasa Akhava Chanted Requiem (Farewell to Departed Ancestors)",
+              "tangkhul": "Kasa Akhava kaphungli va-kahai araza, meira kaphit hieina shongfa theingasak-lu. Ningkacham eina mangachon-hai-lu; ringphawui ramli mashungda leisang-lu.",
+              "english": "O revered departed ancestors journeying toward Kasa Akhava (the ancestral spirit realm), let these flaming pine torches illuminate your path. Rest in tranquil grace; enter the eternal land of blessed peace.",
+              "hindi": "हे पूर्वजों की आत्माओं, कासा अखावा (परम लोक) की यात्रा पर इन पाइन की मशालों के उजाले में अपना मार्ग प्रशस्त करें। दिव्य शांति में विश्राम करें और शाश्वत सुख के धाम में प्रवेश करें।"
+            }
+          ]
+        }
+      ]
+    },
+    "rituals_and_ceremonies": {
+      "id": "CULT-RIT-003",
+      "title": "Tangkhul Sacred Rituals, Ceremonies & Taboos (Phanit, Kakhangaso kala Khamasit)",
+      "title_translation": "Master Archive of Tangkhul Lifecycle Ceremonies, Agrarian Rites, and Sacred Taboo Observances",
+      "category": "ritual",
+      "subcategory": "lifecycle_and_agrarian_rituals",
+      "creator": "Tangkhul Hereditary Custodians & Village Elders",
+      "year": 1911,
+      "publisher": "Documented in Hodson 1911, Horam 1977, Ruivah 1993",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul (Ukhrul / Hunphun)",
+      "village": "Ukhrul / Hunphun",
+      "permission_status": "community_authorized",
+      "access_status": "metadata_only",
+      "verification_status": "verified",
+      "local_path": "data/raw/culture/CULT-RIT-003_tangkhul_sacred_rituals_ceremonies.txt",
+      "notes": "Comprehensive archival codification of Tangkhul ceremonial life: agrarian seasonal rites (Luira, Chumpha, Mangkhap, Dharreo), human lifecycle rituals (birth, naming, youth dormitory induction, marriage, house dedication, death), prestige feast cycles (Maran Kasa), chiefly enthronement, and sacred taboo (Khamasit / Genna) observances.",
+      "ceremonial_cycles": [
+        {
+          "cycle_name": "Agrarian Ritual Cycle (Luisak Kakhangaso)",
+          "rites": [
+            {
+              "name": "Luira Shimlut-kaphung (First Sowing Rite)",
+              "timing": "January / February (Spring seed-sowing)",
+              "presiding": "Awunga (Hereditary Village Chief)",
+              "description": "At dawn on the first day of Luira Phanit, the chief turns the ceremonial first clod of earth and sows seeds before any villager may begin cultivation, accompanied by libations and wrestling (Kaphung).",
+              "significance": "Sanctifies communal agriculture and establishes cosmological harmony between the soil and the village lineage."
+            },
+            {
+              "name": "Chumkhur Kakhon (Granary Consecration Rite)",
+              "timing": "December (Post-harvest thanksgiving)",
+              "presiding": "Senior Female Clan Custodians (Shanao mibing)",
+              "description": "Ceremonial unlocking and fumigation of the granary (Chum); ritual transfer of keys and first invocation of blessing over newly harvested rice.",
+              "significance": "Honors women as custodians of grain, life, and domestic prosperity in Tangkhul custom."
+            },
+            {
+              "name": "Mangkhap Kaphung (Transplantation Rest Rite)",
+              "timing": "July (Post-transplantation midsummer)",
+              "presiding": "Village Farming Guilds & Lineage Elders",
+              "description": "Communal purification of spade, hoe, and sickle; ceremonial consumption of fermented rice brew (Khor); seven-day period of agricultural stillness.",
+              "significance": "Allows fields and bodies to recuperate; prevents early pestilence through ritual rest."
+            },
+            {
+              "name": "Dharreo Invocations (Pre-Harvest Shielding Rite)",
+              "timing": "October (Pre-harvest autumn)",
+              "presiding": "Pikha (Priest) & Clan Elders",
+              "description": "Placement of ceremonial bamboo charms around terraced perimeters to ward off unseasonable hail, violent gales, and rodent swarms.",
+              "significance": "Guarantees that the golden harvest reaches the granaries unmolested by natural calamities."
+            }
+          ]
+        },
+        {
+          "cycle_name": "Lifecycle Rites of Passage (Thotkakhui Kakhangaso)",
+          "rites": [
+            {
+              "name": "Naothara Kaphok & Samkhui (Birth, Naming & Ear-Piercing)",
+              "timing": "Infancy (Within five days of birth)",
+              "presiding": "Maternal Uncle (Ato) & Midwives",
+              "description": "Newborn infant purificatory bath; severance of umbilical cord with sterile bamboo blade; divination of ancestral clan name (Shang wui Ming); ceremonial ear-piercing.",
+              "significance": "Integrates the newborn into the patrilineal clan and ancestral cosmological lineage."
+            },
+            {
+              "name": "Longshim Induction Ceremony",
+              "timing": "Puberty / Adolescence (Ages 12-14)",
+              "presiding": "Longshim Elders & Ward Leaders",
+              "description": "Formal entrance into Mayarshim (boys dormitory) or Ngashim (girls dormitory); presentation of first handwoven Haora or Kashan attire; instruction in martial defense, weaving, and oral songs.",
+              "significance": "Civic graduation from domestic dependence to communal responsibility and village defense."
+            },
+            {
+              "name": "Manom & Shimlut (Customary Marriage Rites)",
+              "timing": "Adulthood (Winter post-harvest season)",
+              "presiding": "Clan Negotiators & Village Hangva Council",
+              "description": "Formal betrothal negotiation between exogamous clans; presentation of bridal attire (Chonkhom, Seichan) and bronze gongs (Sanam); nuptial banquet and elder blessings.",
+              "significance": "Binds two distinct clans in perpetual mutual covenant and socio-economic alliance."
+            },
+            {
+              "name": "Shimsa (House Dedication & Hearth Consecration)",
+              "timing": "Upon completion of a new timber dwelling",
+              "presiding": "Master Builders & Village Invocators",
+              "description": "Ritual kindling of the new hearth fire using traditional flint stones (Meitai); libation of rice beer at threshold; installation of protective ancestral charms.",
+              "significance": "Transforms physical architecture into a living sanctum protected by ancestral spirits."
+            },
+            {
+              "name": "Thisham Phanit (The Great Memorial Feast of the Dead)",
+              "timing": "Winter (December / January)",
+              "presiding": "Clan Lineage Heads & Departed Souls Custodians",
+              "description": "Ten-day solemn festival commemorating all souls deceased during the year; lighting of resinous pine torches (Meira Kaphit) to guide souls to Kasa Akhava; farewell banquet.",
+              "significance": "Ensures that departed spirits transition peacefully to the ancestral spirit realm without lingering in distress."
+            }
+          ]
+        },
+        {
+          "cycle_name": "Prestige, Chiefly & Societal Rites",
+          "rites": [
+            {
+              "name": "Maran Kasa (The Multi-Stage Feast of Merit)",
+              "timing": "Lifetime milestone (After exceptional agricultural wealth)",
+              "presiding": "Benefactor Couple, Awunga & Entire Village Council",
+              "description": "Five-tier progressive feast cycle hosting the entire village; sacrificial feast of mithun and cattle; confers the lifelong privilege of erecting the horned Tarang post and Lengcheng roof structure.",
+              "significance": "Redistributes personal wealth communally, cementing high moral prestige without permanent social stratification."
+            },
+            {
+              "name": "Awunga Enthronement & Sacred Oath Ceremony",
+              "timing": "Upon succession of the hereditary village chief",
+              "presiding": "Hangva Council of Elders & Clan Representatives",
+              "description": "Investiture of the new chief; drinking from the ancestral buffalo horn cup; swearing the sacred covenant of boundary protection, customary equity, and peace.",
+              "significance": "Renews the constitutional authority of village governance and judicial integrity."
+            }
+          ]
+        },
+        {
+          "cycle_name": "Khamasit & Khamthei (Sacred Taboo & Genna Observances)",
+          "rites": [
+            {
+              "name": "Village Boundary Khamthei (Quarantine & Taboo Closure)",
+              "timing": "During epidemics, lightning strikes, or after tragic deaths",
+              "presiding": "Awunga & Village Herald",
+              "description": "Sealing of all village entry pathways with green sprigs; complete cessation of farm labor and travel; day of absolute village stillness.",
+              "significance": "Prevents contamination, restores spiritual purity, and averts supernatural displeasure."
+            }
+          ]
+        }
+      ]
+    },
+    "clans_and_social_structure": {
+      "id": "CULT-SOC-001",
+      "title": "Tangkhul Clan System, Kinship & Social Order (Shang, Shangnao kala Hangva)",
+      "title_translation": "Comprehensive Monograph on Tangkhul Patrilineal Clans, Exogamy Rules, Hereditary Governance, and Longshim Institutions",
+      "category": "custom",
+      "subcategory": "clan_system_and_social_order",
+      "creator": "Tangkhul Clan Genealogists, Hangva Council & Cultural Scholars",
+      "year": 1977,
+      "publisher": "Documented in Horam 1977, Hodson 1911, Ruivah 1993, Shimray 2000",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul (Ukhrul / Hunphun / Somdal / Phungcham)",
+      "village": "All Tangkhul Regions (Northern Raphei, Southern Kamo, Western Remva, Eastern Somra)",
+      "permission_status": "community_authorized",
+      "access_status": "metadata_only",
+      "verification_status": "verified",
+      "local_path": "data/raw/culture/CULT-SOC-001_tangkhul_clans_social_order.txt",
+      "notes": "Foundational sociological and anthropological study of Tangkhul Naga social structure. Clarifies the complete absence of a caste system, examining instead the democratic patrilineal clan (Shang / Shangnao) structure, strict clan exogamy, village governance (Awunga and Hangva council), and youth dormitory institutions (Longshim).",
+      "sociological_framework": {
+        "caste_clarification": "The Tangkhul Naga people do NOT have a caste (varna or jati) system. Tangkhul society is fundamentally egalitarian, democratic, and non-hierarchical with respect to hereditary servitude. Social organization is instead governed by ancient patrilineal clans (Shang or Shangnao), clan exogamy, and village council democracy.",
+        "principles_of_kinship": [
+          "Patrilineal Descent: Clan membership and ancestral land inheritance pass through the male lineage.",
+          "Strict Clan Exogamy (Shang wui Shimlut): Marriage between individuals of the same clan (Shang) is strictly forbidden. A breach of this law is termed 'Masi-kongra' (spiritual pollution requiring heavy customary purification and possible exile).",
+          "Complementary Clan Alliances: Matrimonial unions create binding socio-economic covenants between complementary clans across and within villages.",
+          "Egalitarian Wealth Redistribution: Wealthy villagers do not oppress poorer members; through the 'Maran Kasa' (Feast of Merit), wealth is communally consumed and redistributed, earning social honor rather than coercive dominion."
+        ]
+      },
+      "major_clans": [
+        {
+          "clan_name": "Shimray / Shimray-nao",
+          "prominent_regions": "Hunphun (Ukhrul), Chingjaroi, Paorei, Phungcham",
+          "traditional_roles": "One of the most ancient and prominent patrician lineages; historically provides hereditary chiefs (Awunga) and supreme judicial arbiters; renowned custodians of oral covenants.",
+          "totem_or_crest": "Hornbill crest (Langva) and royal spear insignia."
+        },
+        {
+          "clan_name": "Luikham",
+          "prominent_regions": "Hunphun, Nungbi, Tolloi, Ngaimu",
+          "traditional_roles": "Venerable agricultural and political lineage; historically entrusted with presiding over the inaugural sod-turning rites and boundary demarcation.",
+          "totem_or_crest": "Terraced sheaf motif and sacred bronze gong."
+        },
+        {
+          "clan_name": "Kasomwoshi",
+          "prominent_regions": "Hunphun, Somdal, Huishu, Shirui",
+          "traditional_roles": "Celebrated custodians of philosophical jurisprudence, customary proverbs (Chanjam / Paotam), diplomatic arbitration, and literary history.",
+          "totem_or_crest": "Carved council post and wisdom staff."
+        },
+        {
+          "clan_name": "Zimik",
+          "prominent_regions": "Northern Tangkhul (Raphei), Hunphun, Kharasom, Jessami borders",
+          "traditional_roles": "Prominent mountain lineage; renowned for high bravery, customary water irrigation covenants, and elder council leadership.",
+          "totem_or_crest": "Mountain eagle and water spring symbol."
+        },
+        {
+          "clan_name": "Vashum",
+          "prominent_regions": "Hunphun, Teinem, Somdal, Lambui",
+          "traditional_roles": "Celebrated lineage renowned for warrior prowess, defense strategy, master woodcraft, and hunting ceremonial rites.",
+          "totem_or_crest": "Crossed battle spears and wild boar tusks."
+        },
+        {
+          "clan_name": "Shaiza",
+          "prominent_regions": "Hunphun (Ukhrul), Somdal, Choithar",
+          "traditional_roles": "Highly influential patrician clan; has produced illustrious statesmen, writers, educators, political leaders, and cultural chroniclers.",
+          "totem_or_crest": "Laurel wreath and ceremonial Haora weave."
+        },
+        {
+          "clan_name": "Ruivah",
+          "prominent_regions": "Somdal, Western Tangkhul (Remva), Phadang",
+          "traditional_roles": "Eminent lineage renowned for scholarship, customary law codification, pioneering education, and village arbitration.",
+          "totem_or_crest": "Scroll and sunburst motif."
+        },
+        {
+          "clan_name": "Shingnaisui",
+          "prominent_regions": "Hunphun, Lunghar, Sihai",
+          "traditional_roles": "Ancient clan renowned for religious integrity, peace pacts (Phaikham), and inter-village diplomatic embassies.",
+          "totem_or_crest": "Peace branch and white quartz emblem."
+        },
+        {
+          "clan_name": "Sareo",
+          "prominent_regions": "Eastern and Southern ranges (Kamo, Somra)",
+          "traditional_roles": "Respected lineage renowned for agricultural terrace mastery, hunting rites, and communal stewardship.",
+          "totem_or_crest": "Terrace crescent and quiver."
+        },
+        {
+          "clan_name": "A'Shao (AS)",
+          "prominent_regions": "Hunphun ancestral village site",
+          "traditional_roles": "Foundational clan lineage with deep genealogical roots; custodians of original settlement lore and village hearth rights.",
+          "totem_or_crest": "Ancient stone hearth and horn post."
+        },
+        {
+          "clan_name": "Other Prominent Lineages",
+          "prominent_regions": "Widespread across all Tangkhul valleys",
+          "traditional_roles": "Includes Kashung, Phungshok, Raleng, Kengoo, Mahongnao, Kaping, Muivah, Khangrah, Rungsung, Hongray, Chahong—each preserving specific village roles, clan lands, and hereditary seats in their local Hangva councils.",
+          "totem_or_crest": "Distinctive clan weaving designs and ancestral heirlooms."
+        }
+      ],
+      "village_governance": [
+        {
+          "institution": "Awunga (Hereditary Village King / Chief)",
+          "jurisdiction": "Supreme titular head of the village sovereign territory.",
+          "powers_and_functions": "Inaugurates annual festivals (Luira sod-turning); leads war defense in ancient times; acts as chief justice in conjunction with the Hangva council; maintains village boundaries with neighboring polities."
+        },
+        {
+          "institution": "Hangva (Council of Village Clan Elders)",
+          "jurisdiction": "The supreme legislative, judicial, and executive assembly of the village.",
+          "powers_and_functions": "Composed of representative heads of each patrilineal clan (Shang); deliberates on property disputes, theft, customary restitution, divorce cases, and public infrastructure works."
+        },
+        {
+          "institution": "Pikha / Khunbu (Sacred Priest & Land Custodian)",
+          "jurisdiction": "Spiritual rites and ancient sacrificial custody.",
+          "powers_and_functions": "Descendant of the foundational village settler; performs invocations at sacred groves; sanctifies boundaries; maintains oral knowledge of sacred spots."
+        },
+        {
+          "institution": "Yarnao (Peer-Group Labor Cooperatives)",
+          "jurisdiction": "Youth and adult mutual-aid agricultural teams.",
+          "powers_and_functions": "Rotates intensive labor across member terraced paddy fields during planting, weeding, and harvesting; enforces social solidarity and youth discipline."
+        },
+        {
+          "institution": "Longshim (Youth Dormitory Institution)",
+          "jurisdiction": "Central educational, military, and cultural institution.",
+          "powers_and_functions": "Divided into Mayarshim (boys dormitory) and Ngashim (girls dormitory). Served as indigenous universities teaching tribal history, etiquette, weaving, woodcraft, songcraft, and civic defense."
+        }
+      ]
+    }
+  }
+}

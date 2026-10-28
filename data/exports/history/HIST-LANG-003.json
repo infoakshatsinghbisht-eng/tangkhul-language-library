@@ -1,0 +1,52 @@
+{
+  "id": "HIST-LANG-003",
+  "resource_type": "history",
+  "title": "Publication of Pettigrew's Grammar and Dictionary (1918)",
+  "title_translation": "Seminal Tangkhul-English Lexicographical Milestone",
+  "creator": "Rev. William Pettigrew",
+  "year": 1918,
+  "publisher": "Government Press, Shillong",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "place": "Ukhrul / Shillong",
+  "category": "language_history",
+  "event_date": "1918",
+  "period": "Late Colonial Period",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "DIC-HIST-001",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-LANG-003.txt",
+  "verification_status": "verified",
+  "notes": "Monumental 400-page work providing the first comprehensive grammar and bilingual dictionary of Tangkhul (Ukhrul dialect), establishing standard spelling conventions and pedagogical standards.",
+  "indigenous_tangkhul_chronicle": [
+    "1918 kumli Rev. William Pettigrew Tangkhul Naga Grammar and Dictionary Shillong Government Press-li kachap shansangya.",
+    "400+ pages kashung-li comprehensive dictionary (Tangkhul-English), grammatical rules, proverbs, kala idioms sanga.",
+    "Hina modern Tangkhul literature, textbook publication, kala standard orthography-wui definitive foundation shansangya."
+  ],
+  "english_translation_text": [
+    "In 1918, Rev. William Pettigrew published his monumental 'Tangkhul Naga Grammar and Dictionary' at the Government Press, Shillong.",
+    "Spanning over 400 pages, it provided the first exhaustive bilingual lexicon, rigorous syntax rules, proverbs, and idioms.",
+    "This masterwork became the definitive foundation for standard modern orthography, literature, and educational curricula."
+  ],
+  "chronicle_milestones": [
+    "1. 1896–1917: Twenty-one years of lexicographical field recording in Hunphun with native elders and schoolboys.",
+    "2. 1918: Official publication funded and printed by the Assam Government Secretariat Press.",
+    "3. Structure: 100-page descriptive grammar followed by 300-page bidirectional Tangkhul-English dictionary.",
+    "4. Impact: Standardized the Latin-based Ukhrul orthography used in all subsequent biblical, literary, and educational texts."
+  ],
+  "key_figures": [
+    "Rev. William Pettigrew",
+    "R.S. Ruichumhao (Collaborator)",
+    "Government Press Shillong"
+  ],
+  "geographical_scope": "Ukhrul (Compilation) & Shillong (Publication)",
+  "historical_significance": "The single most influential publication in Tangkhul history, preserving early 20th-century vocabulary with unmatched authority.",
+  "historical_terms": {
+    "Lairik-Kaphun": "Authoring and publishing a monumental book",
+    "Tui-kakachon": "Compiling bilingual definitions and equivalents",
+    "Khamathan": "Orthographic regularization and standard spelling",
+    "Shitsang-lairik": "Definitive authoritative reference work"
+  }
+}

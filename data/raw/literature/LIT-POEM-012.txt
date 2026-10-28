@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: YARNAO KHAMAYON
+IDENTIFIER: LIT-POEM-012 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Yarnao Khamayon
+  Title Translation:     Fellowship of the Terrace Labor Guild
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  S. Kanrei
+  Publication Year:      2004
+  Publisher:             Tangkhul Writers Forum, Ukhrul
+  Village / Dialect:     Somdal [Standard Tangkhul]
+  Source Identifier:     SK-2004-YNK
+  Source URL:            https://ukhrultimes.com/tangkhul-poetry-yarnao
+  Associated Book:       None
+  License & Clearance:   Author Permitted (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Rhythmic lyric poem celebrating the youthful agrarian cooperative guild (Yarnao), terrace soil turning, and antiphonal working ballads.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Yarnao mayarnao kaphung lung-ngakui eina luireili tonkashun, shingkapha meikharorli kaphung ngalei ngasumhaowa.
+  Luirim chonkashan mayarnao eina shanaonao, akhan akhang eina kharor tontata.
+
+  Kachamnao changvei eina phanung zatta-laga, lui-ngatha kharorli lāsakakhung khon rathatha.
+  'Mayarnao khamayon, i-ramwui kaphung mathali lui-kashak yarshon-sakashung!'
+
+  Ngaleili meingap-pamkakhung mayarnao ningung-laga, phanung khon eina ngashitphung mashukhaowa.
+  Yarnaonao leikashan eina ngachomkaphang mirin, Tangkhul thotharanli mashan tit-lakmana.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  At sunrise the youth labor fellowship (Yarnao) descends from high village perches to the terrace paddies.
+  Clad in sturdy working cloaks, young men and maidens work shoulder to shoulder beneath the cool mountain mist.
+
+  Hoes striking the wet mountain soil in unison, their voices blend in rhythmic work-songs echoing across the ravines.
+  'Comrades of the labor guild, let us carve fruitful terraces upon these steep mountain slopes!'
+
+  Sweat glistening on youthful brows, they transform stony cliffs into rippling staircases of emerald rice.
+  Through mutual labor and generous fellowship, the Yarnao guild preserves the golden heart of Tangkhul society.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Youth agricultural cooperatives and reciprocal labor exchange (*Yarnao*)
+  * Communal dignity of agrarian labor on steep mountain terraces (*Lui-Kashak*)
+  * Harmonious antiphonal working ballads (*Haola*) keeping cadence during soil turning
+  * Camaraderie, peer courtship, and generational solidarity
+
+STRUCTURE & POETIC METER: Agrarian work-rhythm verse in trochaic meters mirroring the downward strike of cultivation tools.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Composed by S. Kanrei of Somdal, this poem commemorates the Yarnao labor group, a central institution of traditional Tangkhul youth socialization where work, song, romantic interest, and clan mutual assistance were harmoniously combined.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Yarnao                 : Youth labor fellowship / mutual-aid cooperative group for terrace agriculture
+  * Lui-ngatha             : Terrace cultivation / tilling the steep mountain paddy slopes
+  * Phanung                : Traditional wooden and iron hoe used for cutting terrace turf
+  * Haola                  : Traditional choral field-chant sung in alternating call-and-response
+
+================================================================================
+END OF RECORD: LIT-POEM-012 - Tangkhul Language Library Digital Archive
+================================================================================

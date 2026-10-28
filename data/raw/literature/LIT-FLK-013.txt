@@ -1,0 +1,68 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KASHAN-KACHON WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-013 | GENRE: ORAL_NARRATIVE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kashan-Kachon wui Khararchan
+  Title Translation:     The Origin Lore of Sacred Tangkhul Weaving and Shawls
+  Literary Genre / Type: oral_narrative (oral_narrative)
+  Author / Storyteller:  Traditional
+  Publication Year:      1981
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TLS-1981-KKW
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Cultural Oral Lore (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Cultural narrative detailing the spiritual and genealogical symbolism of Tangkhul traditional textiles including Luirim and Haora shawls.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Tangkhul kashan-kachon hi ngaleiwui kachang eina kaphung-wui won thada khamatha mayonzat-laka.
+  Phungcham, Hungpung, kala Chingjaroi shanaonaona khararchar-li chon-kashan eina ngashan mirin kasak zatta.
+
+  Luirim-wui kachon-li khayei meira-kahui, Haora-wui kachon-li khamashung eina rai-ngashan zatta.
+  Kashan-wui kapi kachiphun eili shanao-wui mirin, phara-kachak, kala kazeiram kashungwui mang chithei-kahaowa.
+
+  Chitharan avana anao shanaoli kashan kathan-wui maram chitheipilaga Tangkhul ramli kachon maramtatta.
+  Kashan-kachonwui khararchan hi Tangkhul textile heritage kala oral literature-wui pangkakha kacham thada pamya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Tangkhul woven shawls and traditional skirts mirror the vivid colors of high mountain flora and sunrise over the ridges.
+  From Phungcham to Hungpung and Chingjaroi, elder women wove the sacred history and customary status of their clans into cloth.
+  In the Luirim shawl gleam the fiery stripes of nobility, while in the Haora shawl are embedded the triumphs of brave defenders.
+  Every woven motif on the women's skirt (*Kashan*) narrates rites of passage, ancestral lineages, and spirits entering Kazeiram.
+  Mothers sat beside daughters at the backstrap loom, singing oral verses that taught the sacred counts of thread and dye.
+  The legend of traditional weaving endures as an essential pillar connecting Tangkhul textile artistry with oral literature.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Traditional backstrap weaving as a living repository of Tangkhul oral history
+  * Visual iconography and symbolic color codes of Haora and Luirim shawls
+  * Matrilineal transmission of textile techniques and fireside loom songs (*Chonkashan Laa*)
+  * Customary dress as identity marker and spiritual protection in life and death
+
+STRUCTURE & POETIC METER: Textile lore narrative accompanied by weaving chants, rhythmic loom counts, and symbolic exegesis.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Synthesizes oral traditions documenting the spiritual and historical origins of Tangkhul woven art. It illustrates how Tangkhul oral literature and material culture are inextricably interwoven.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Kashan                 : Traditional hand-woven Tangkhul woman's skirt, rich in clan-specific motifs
+  * Kachon                 : Hand-woven shawl / garment of customary prestige
+  * Haora                  : Quintessential white, red, and black striped Tangkhul national shawl
+  * Chonkashan             : The art and cultural practice of weaving on the traditional backstrap loom
+
+================================================================================
+END OF RECORD: LIT-FLK-013 - Tangkhul Language Library Digital Archive
+================================================================================

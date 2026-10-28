@@ -1,0 +1,52 @@
+{
+  "id": "HIST-LANG-001",
+  "resource_type": "history",
+  "title": "Major McCulloch's 1859 Tangkhul Wordlist Documentation",
+  "title_translation": "Earliest Recorded Tangkhul Comparative Wordlist",
+  "creator": "Major M. McCulloch",
+  "year": 1859,
+  "publisher": "Bengal Printing Company, Calcutta",
+  "language": "Tangkhul",
+  "dialect": "Archaic Tangkhul",
+  "village": "Imphal / Ukhrul",
+  "place": "Manipur",
+  "category": "language_history",
+  "event_date": "1859",
+  "period": "19th Century Colonial",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "DIC-HIST-002",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-LANG-001.txt",
+  "verification_status": "verified",
+  "notes": "Earliest known published linguistic record of Tangkhul vocabulary, documenting 150+ comparative lexical entries compiled by the Political Agent in Manipur.",
+  "indigenous_tangkhul_chronicle": [
+    "1859 kumli Major W. McCulloch (Political Agent in Manipur) Tangkhul Luhuppa comparative wordlist kachap shansangya.",
+    "Bengal Printing Company, Calcutta-li 150+ comparative lexical terms publish sakya.",
+    "Hina printed historical literature-li Tangkhul vocabulary-wui first systematic comparative record shansangya."
+  ],
+  "english_translation_text": [
+    "In 1859, Major W. McCulloch, Political Agent in Manipur, published the earliest known Tangkhul comparative wordlist.",
+    "Printed by Bengal Printing Company in Calcutta, it recorded 150+ vocabulary items under the name 'Luhuppa'.",
+    "This landmark publication provided the scientific world with its first empirical documentation of Tangkhul speech."
+  ],
+  "chronicle_milestones": [
+    "1. 1845–1859: McCulloch collects comparative vocabularies from hill tribes visiting the Imphal residency.",
+    "2. 1859: Publishes 'Account of the Valley of Munnipore and of the Hill Tribes' as Selections from Records of the Government of India.",
+    "3. Comparative Analysis: Demonstrates lexical affinities between Tangkhul (Luhuppa), Manipuri, and Tibeto-Burman cognates.",
+    "4. Impact: Cited by Grierson, Damant, and modern historical linguists tracing Sino-Tibetan roots."
+  ],
+  "key_figures": [
+    "Major W. McCulloch",
+    "Tangkhul Interlocutors in Imphal",
+    "Government of India Foreign Dept."
+  ],
+  "geographical_scope": "Imphal Residency & Ukhrul / Luhuppa Hills",
+  "historical_significance": "The inaugural empirical entry of the Tangkhul language into international comparative linguistics literature.",
+  "historical_terms": {
+    "Luhuppa": "Colonial-era ethnonym for northern and central Tangkhuls, derived from cane headgear",
+    "Tui-shur": "Tracing lexical roots and cognates",
+    "Kachap-Lairik": "Printed publication / official book record",
+    "Ngaraikakhon": "Linguistic comparison across varieties"
+  }
+}

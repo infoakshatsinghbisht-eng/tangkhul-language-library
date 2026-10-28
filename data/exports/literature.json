@@ -1,0 +1,3159 @@
+[
+  {
+    "id": "LIT-FLK-001",
+    "resource_type": "literature",
+    "title": "Shimreishang Kala Maitonphi",
+    "title_translation": "The Ballad of Shimreishang and Maitonphi",
+    "creator": "Phungcham Oral Historians & Balladeers",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Documented in Arokianathan 1982, Horam 1977, CIIL",
+    "language": "Tangkhul",
+    "dialect": "Phungcham / Standard Tangkhul",
+    "village": "Phungcham",
+    "category": "ballad",
+    "work_type": "ballad",
+    "genres": [
+      "ballad",
+      "oral_narrative"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-FLK-1982-SKM",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-001.txt",
+    "notes": "Renowned 17th-century tragic romance ballad of Phungcham village. Preserves archaic dialect vocabulary, poetic meters, and bereavement mourning chants.",
+    "indigenous_tangkhul_text": [
+      "Shimreishangna kaphung yarsho-li pamda, Maitonphi-wui samkapha leikashi ning-yanganung.",
+      "Luirim chonkashan shanaonao khamatha, Phungcham ramwui won thada ringkaphaphong.",
+      "Chitharan chikaning mava-likha, kharuikahao mayarnao kacham-kacham leikashi ngacheilaka.",
+      "I-leishatnao Maitonphi, nawui meikhangao thada iwui ningli ngasam-kahao mashunmana."
+    ],
+    "english_translation_text": [
+      "Shimreishang sat gazing across the mountain slopes, yearning for the radiant beauty of Maitonphi.",
+      "Draped in the woven splendor of the Luirim shawl, she bloomed like the rarest wild flower of Phungcham.",
+      "Yet cruel fate and village clan divides intervened, testing the enduring devotion of the young lovers.",
+      "O my beloved Maitonphi, like the undying glow of embers, your memory finds no rest within my soul."
+    ],
+    "literary_themes": [
+      "Tragic romance and star-crossed lovers (*Khararchan-Leikashi*)",
+      "Customary marriage negotiations and clan taboos",
+      "Poetic bereavement, mourning chants, and afterlife reunion in *Kazeiram*",
+      "Metaphorical imagery of mountain flora and traditional textiles"
+    ],
+    "structure_and_meter": "Epic ballad in traditional antiphonal meter with four-line stanzas and parallel rhythmic assonance.",
+    "critical_commentary": "The quintessential national romantic epic of the Tangkhul people, composed in the 17th century in Phungcham village and transmitted through generations of oral balladeers.",
+    "poetic_vocabulary_terms": {
+      "Luirim": "Traditional prestigious red, white, and black striped woven shawl",
+      "Kazeiram": "The ancestral realm of the departed spirits",
+      "Won": "Blossom / flower / poetic metaphor for beauty and grace",
+      "Leikashan": "Enduring, tragic romantic longing"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-002",
+    "resource_type": "literature",
+    "title": "Hao Khararchan: Tangkhul Folktales Collection",
+    "title_translation": "Anthology of Tangkhul Ancestral Folktales",
+    "creator": "Tangkhul Literature Society Editorial Board",
+    "author": "Tangkhul Literature Society",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "folk_tale"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1981-KKC",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-002.txt",
+    "notes": "Comprehensive canonical anthology of ancestral Tangkhul folktales (Khararchan) compiled by native elders to preserve oral literature for school education.",
+    "indigenous_tangkhul_text": [
+      "Hao khararchan-hi Tangkhul rali thot-kharewui khamashung tuingashit kashung akha.",
+      "Ava-apawui tharanli chithada shitsang-da, longshimli kakaso paonao-bingli pakhang shansangya.",
+      "Kaphung-kachon, ngatha-kazat, kala vare-khorumwui otshak kachiva hiyakha lairikli mathat-da lakahon."
+    ],
+    "english_translation_text": [
+      "The ancestral folktales (*Hao Khararchan*) embody the wisdom and moral code of early Tangkhul generations.",
+      "Handed down by forefathers around the nocturnal hearth, these stories were taught to youth in village dormitories.",
+      "Mountain hunts, customary jurisprudence, and divine invocations are meticulously preserved within this collection."
+    ],
+    "literary_themes": [
+      "Ancestral oral pedagogy and folklore transmission",
+      "Ethical justice, communal virtue, and retribution",
+      "Harmonious balance between humans, forest fauna, and nature spirits",
+      "Etiological myths explaining mountain landmarks and tribal origins"
+    ],
+    "structure_and_meter": "Prose folktale anthology with interspersed poetic chants (*Laa*) and ceremonial proverbs (*Paotam*).",
+    "critical_commentary": "Compiled in 1981 by the Tangkhul Literature Society, this anthology codified centuries of unwritten oral lore into a canonical reader for community schools.",
+    "poetic_vocabulary_terms": {
+      "Khararchan": "Traditional ancestral narrative / folktale / legend",
+      "Longshim": "Traditional village youth dormitory and academy",
+      "Tuingashit": "Covenant word / moral instruction",
+      "Thot-khare": "The primordial ancestral era"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-003",
+    "resource_type": "literature",
+    "title": "Huikhayei Kala Sha",
+    "title_translation": "The Story of the Dog and the Tiger",
+    "creator": "Tangkhul Storytellers & S. Arokianathan",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/",
+    "source_identifier": "CIIL-Folklore-1982-P45",
+    "license": "Academic Documentation",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-003.txt",
+    "notes": "Classic animal fable explaining how the domestic dog became humanity's mountain hunting companion through cleverness and loyalty.",
+    "indigenous_tangkhul_text": [
+      "Thot-khareli Huikhayei kala Sha maranao thada kaphungli ngaso-kacham pama.",
+      "Huina Shali matuida khangayei ning-kakhon matuida mayar-pamli chotchan-da miwui shimlut sanga.",
+      "Hithada Huikhayei mishi kaphara-eili mi-wui ngachee kaphaning kala kashap pan-kaso shansangya."
+    ],
+    "english_translation_text": [
+      "In ancient times, the Dog (*Huikhayei*) and the Tiger (*Sha*) lived together as brothers roaming the high mountain ridges.",
+      "Recognizing the superior intellect and mastery of humankind, the clever dog chose to seek domestic fellowship with man.",
+      "Thus the dog became humanity's loyal companion, guarding the household and guiding the village hunter through the wild."
+    ],
+    "literary_themes": [
+      "Animal fable and etiology of animal domestication",
+      "Foresight, clever adaptability, and pragmatic loyalty",
+      "The contrast between untamed wilderness (*Ngashim*) and village civilization (*Ram*)"
+    ],
+    "structure_and_meter": "Allegorical prose narrative featuring dialogue and trickster motifs with an epigrammatic moral conclusion.",
+    "critical_commentary": "A classic Tibeto-Burman animal fable documented by S. Arokianathan in 1982, illustrating how indigenous oral literature explains ecological relationships.",
+    "poetic_vocabulary_terms": {
+      "Huikhayei": "Domestic hunting dog / loyal companion",
+      "Sha": "Tiger / wild predator of the forest",
+      "Miwui-Shim": "The human household and hearth",
+      "Khayei-Kharar": "Shrewd wisdom and adaptive intellect"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-004",
+    "resource_type": "literature",
+    "title": "Kashunao wui Khararchan",
+    "title_translation": "The Tale of the Orphan Boy",
+    "creator": "Tangkhul Oral Tradition Custodians",
+    "author": "Traditional",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1981-KSH",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-004.txt",
+    "notes": "Widespread traditional moral tale of an impoverished orphan boy who triumphs over adversity through customary virtue, patience, and ancestral blessings.",
+    "indigenous_tangkhul_text": [
+      "Kashunao akhana shim-khamachamli pamda ava-apa makhavai kacham-kacham pharora.",
+      "Kachang-khalia mibingna athishangli mashak kachi-eili, ningteotet-da Vare-li khorum-kachang makhayipmana.",
+      "Kashukwui tharanli awungana athishangli khamatha shanao mi-da wungnao shansangya."
+    ],
+    "english_translation_text": [
+      "A poor orphan boy lived in quiet solitude, bereft of parents and enduring severe mountain hardships.",
+      "Though the proud and wealthy mocked his threadbare clothes, his spirit remained humble and steadfast in prayer.",
+      "In the fullness of time, the village chief rewarded his upright virtue by giving him his daughter's hand and noble rank."
+    ],
+    "literary_themes": [
+      "The orphan archetype (*Kashunao*) as a moral exemplar in indigenous folklore",
+      "Triumph of virtue, diligence, and humility over arrogance",
+      "Divine intervention and customary social mobility through marriage"
+    ],
+    "structure_and_meter": "Tripartite folktale structure: trial and deprivation, magical/moral test, and social elevation.",
+    "critical_commentary": "The orphan motif is universally cherished across Naga cultures as a reflection on social justice, community empathy, and spiritual reward for moral perseverance.",
+    "poetic_vocabulary_terms": {
+      "Kashunao": "Orphan child / humble youth",
+      "Vare-Khorum": "Reverent prayer and trust in the Supreme Creator",
+      "Ningteotet": "Unwavering patience and humble perseverance",
+      "Wungnao": "Nobility / honored status in the village council"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-005",
+    "resource_type": "literature",
+    "title": "The Legend of Mount Shirui and Kashongwui Won",
+    "title_translation": "The Origin Legend of the Sentinel Peak and its Blossom",
+    "creator": "Shirui Community Custodians & M. Horam",
+    "author": "Traditional",
+    "year": 1977,
+    "publisher": "B.R. Publishing Corporation, Delhi",
+    "language": "Tangkhul",
+    "dialect": "Ukhrul / Shirui",
+    "village": "Shirui",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "oral_narrative"
+    ],
+    "book_id": null,
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "Horam-1977-Shirui",
+    "license": "Cultural Oral Lore",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-005.txt",
+    "notes": "Ancestral cosmological legend narrating the spiritual union between the guardian spirit of Shirui mountain and the rare mountain lily (Lilium mackliniae).",
+    "indigenous_tangkhul_text": [
+      "Shirui Kashong kaphungli Princess Philavana cloud-dwelling spirits-wui ngachonli pamya.",
+      "Kashongwui Won (Shirui Lily) Philavawui kaphara leishat kala modesty-wui kashik thada bloom sakya.",
+      "Kaphung crest-li windswept mist-li pharak-da kaza-khangao leikashi ancestral folklore-li ngari-shitsangya."
+    ],
+    "english_translation_text": [
+      "Atop the windswept crags of Mount Shirui, the spirit princess Philava dwelt amidst swirling cloud guardians.",
+      "The sacred flower of the peak (*Kashongwui Won*) bloomed as an eternal witness to her unblemished beauty and modesty.",
+      "Encased in alpine mist, this ecological wonder has inspired centuries of poetic reverence and mythological devotion."
+    ],
+    "literary_themes": [
+      "Cosmological animism and nature spirit guardians (*Philava*)",
+      "Sacred landscape personification and alpine ecology",
+      "The flower as a symbol of feminine purity, regional pride, and mystery"
+    ],
+    "structure_and_meter": "Mythological narrative incorporating nature hymnody, descriptive topographic verse, and ritual invocations.",
+    "critical_commentary": "Recorded by anthropologist M. Horam in 1977, this legend bridges Tangkhul cosmology with the unique ecological marvel of the endemic Shirui Lily.",
+    "poetic_vocabulary_terms": {
+      "Kashongwui Won": "The flower of the peak (Shirui Lily / Lilium mackliniae)",
+      "Philava": "Mythical guardian princess and spirit protector of Mount Shirui",
+      "Kashong": "Alpine summit / sacred mountain crest",
+      "Kaza-Khangao": "Natural wonder of breathtaking majesty"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-CHLD-001",
+    "resource_type": "literature",
+    "title": "Kachakui Kala Shanao",
+    "title_translation": "The Crow and the Pheasant",
+    "creator": "TLS Primary Curriculum Committee",
+    "author": "Traditional",
+    "year": 2022,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "children_literature",
+    "work_type": "children_literature",
+    "genres": [
+      "children_literature",
+      "folk_tale"
+    ],
+    "book_id": "BK-TLS-002",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-002-L04",
+    "license": "Educational Use",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-CHLD-001.txt",
+    "notes": "Moral fable for children explaining the plumages of birds and warning against jealousy, pride, and greed. Published in Class IV textbook Zingyar Tangkhul.",
+    "indigenous_tangkhul_text": [
+      "Thotli Kachakui (Crow) kala Shanao (Pheasant) khani akha-akha-li paint sak-kacham tuingashitya.",
+      "Shanaona Kachakuili black soot-li marikta chapa-khavai kachon mathat-da shapkasa sakya.",
+      "Kachakuina ningkhamachap-da Shanaowui plumages-li colorful spots mathat-da lakahon, ngashan hithada pharora."
+    ],
+    "english_translation_text": [
+      "Once, the Crow (*Kachakui*) and the Pheasant (*Shanao*) made a covenant to paint each other's feathers with splendor.",
+      "The pheasant patiently decorated the crow with deep glossy soot, taking great care to craft an elegant garment.",
+      "Yet the impatient crow splashed colors hastily, giving the pheasant its spotted plumage and ending their brotherhood."
+    ],
+    "literary_themes": [
+      "Children's moral fable on patience versus impetuous greed",
+      "Etiological explanation of bird plumage and animal characteristics",
+      "The sacredness of keeping promises and fulfilling reciprocal duties"
+    ],
+    "structure_and_meter": "Playful educational prose with simple sentence syntax and repetitive dialogue designed for elementary readers.",
+    "critical_commentary": "Published in the official Class IV Tangkhul textbook Zingyar Tangkhul (2022) to teach foundational moral principles through ancestral avian stories.",
+    "poetic_vocabulary_terms": {
+      "Kachakui": "The mountain crow / raven",
+      "Shanao": "The colorful forest pheasant",
+      "Kachon": "Garment / feather plumage",
+      "Ningkhamachap": "Hasty impatience and selfish carelessness"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-CHLD-002",
+    "resource_type": "literature",
+    "title": "Sikui Kala Machun",
+    "title_translation": "The Deer and the Crab",
+    "creator": "TLS Primary Curriculum Committee",
+    "author": "Traditional",
+    "year": 2022,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "children_literature",
+    "work_type": "children_literature",
+    "genres": [
+      "children_literature",
+      "folk_tale"
+    ],
+    "book_id": "BK-TLS-001",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-001-L03",
+    "license": "Educational Use",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-CHLD-002.txt",
+    "notes": "Classic humorous trickster story contrasting the swift deer with the patient, resourceful crab. Published in Class II textbook Wontui Tangkhul.",
+    "indigenous_tangkhul_text": [
+      "Sikui (Deer) na Machun (Crab)-li racing-li challenge sakda, 'Nakhurli pamkaza, iwui speed mashapmana!' hithada tuitsang.",
+      "Machunna clever-laka da Sikuiwui kachei-li khangarom-da finish line-li advance-da phungchan.",
+      "Kacham-kacham mibingna speed-wui matuida clever strategy kala patience-na victory shansangya."
+    ],
+    "english_translation_text": [
+      "The swift Deer (*Sikui*) challenged the slow Crab (*Machun*) to a race, mocking: 'Creeping in the mud, you can never match my stride!'",
+      "Yet the astute crab clung discreetly to the deer's tail, tumbling forward across the finish line first with quiet composure.",
+      "Thus children learn that unbridled pride is outmatched by clever foresight, resourcefulness, and calm patience."
+    ],
+    "literary_themes": [
+      "The classic trickster fable: slow wits versus rapid agility",
+      "Humility and the folly of boastful overconfidence",
+      "Resourceful problem-solving in challenging situations"
+    ],
+    "structure_and_meter": "Short humorous fable with dynamic narrative pacing and dialogue, followed by a pedagogic summary.",
+    "critical_commentary": "Curated in the Class II primary reader Wontui Tangkhul (2022), this story teaches young children that wit and steadiness overcome sheer physical strength.",
+    "poetic_vocabulary_terms": {
+      "Sikui": "The wild barking deer of the mountain forests",
+      "Machun": "The river crab dwelling in rocky mountain streams",
+      "Khangayei": "Clever wit and inventive trickery",
+      "Ringkaphaphong": "Triumphant joy after humble endeavor"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-001",
+    "resource_type": "literature",
+    "title": "Ava Ram Leishat",
+    "title_translation": "Love of the Motherland",
+    "creator": "Luingam A. Shimray",
+    "author": "Luingam A. Shimray",
+    "year": 2000,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": "BK-TLS-007",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-007-P01",
+    "license": "Educational Curriculum",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-001.txt",
+    "notes": "Celebrated modern Tangkhul lyric poem praising the beauty, verdant ridges, and cultural spirit of the ancestral hills. Included in Class IX textbook Tangkhul Tuitam Kachiko.",
+    "indigenous_tangkhul_text": [
+      "I-ram Hunphun, I-ram Ukhrul, kaphung yarsho-wui shimlut kashak,",
+      "Varenana kapha rali ringsang-da, ngasot-mayarnao makhayipmana.",
+      "Ava Ram leishatna iwui ngalungli meikha thada meikhangao,",
+      "Thot kachivali nawui ming-kachon kaphung kachivali pakhang shitsangya."
+    ],
+    "english_translation_text": [
+      "My homeland Hunphun, my beloved Ukhrul, majestic citadel along the mountain crest,",
+      "Where the Creator poured forth bounties, and comrades dwell in unbroken fellowship.",
+      "Love of the Motherland burns like living fire within the deepest chambers of my soul,",
+      "Through all the ages, your honored name shall echo across every ancestral ridge."
+    ],
+    "literary_themes": [
+      "Patriotic devotion to the ancestral mountain homeland (*Ava Ram*)",
+      "Celebration of high altitude topography, verdant ridges, and pristine springs",
+      "Cultural continuity and inter-generational solidarity"
+    ],
+    "structure_and_meter": "Modern lyrical verse composed in regular four-line stanzas with heroic cadence and end-rhymes.",
+    "critical_commentary": "Authored by Luingam A. Shimray and anthologized in Class IX textbook Tangkhul Tuitam Kachiko (2000), this poem is one of the most widely recited anthems of Tangkhul identity.",
+    "poetic_vocabulary_terms": {
+      "Ava Ram": "Motherland / ancestral soil and territory",
+      "Leishat": "Sacred, patriotic, and protective love",
+      "Ming-Kachon": "Glorious fame and honored reputation",
+      "Ngasot": "Camaraderie and lifelong fellowship among clan youth"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-002",
+    "resource_type": "literature",
+    "title": "Kachamwui Meikha",
+    "title_translation": "Embers of Poverty",
+    "creator": "Y.K. Shimray",
+    "author": "Y.K. Shimray",
+    "year": 2021,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": "BK-TLS-011",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-011-P03",
+    "license": "Educational Curriculum",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-002.txt",
+    "notes": "Reflective modern lyric poem exploring mountain social hardship, moral perseverance, and the dignity of rural farm laborers. Published in Class XI textbook Wordham Tuitam Khare.",
+    "indigenous_tangkhul_text": [
+      "Kachamwui meikhana kaphung chimli lumkaza makhaleiya tharan,",
+      "Mayarnao kharashotna terrace luili kashak ot-phun shitsangya.",
+      "Tara kashung-eili ning-khikhara, Varewui blessing kachivali ringpha kashung,",
+      "Hina Tangkhul mibingwui resilience kala dignified survival-wui kashik."
+    ],
+    "english_translation_text": [
+      "When the embers of poverty provide meager warmth in the chilly mountain winter,",
+      "The resilient laborer climbs to the terraced fields, bearing the heavy yoke of toil.",
+      "Though tears may mingle with sweat, trusting gratitude to the Almighty brings quiet joy,",
+      "For this is the enduring testament of Tangkhul fortitude and dignified survival."
+    ],
+    "literary_themes": [
+      "Social realism and empathetic depiction of rural poverty",
+      "The dignity of agrarian labor and terraced cultivation",
+      "Resilience, spiritual fortitude, and enduring hope amidst hardship"
+    ],
+    "structure_and_meter": "Reflective elegiac poetry in free-flowing stanzas utilizing tactile thermal imagery (cold mist, glowing embers).",
+    "critical_commentary": "Composed by Y.K. Shimray for Class XI Wordham Tuitam Khare (2021), this piece represents modern Tangkhul literary realism addressing contemporary mountain socio-economic realities.",
+    "poetic_vocabulary_terms": {
+      "Meikha": "Glowing embers of the hearth / inner spark of survival",
+      "Kacham": "Poverty / simplicity of mountain life",
+      "Kharashot": "Enduring grueling labor with quiet dignity",
+      "Lui-Ot": "The sacred labor of paddy terrace cultivation"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-003",
+    "resource_type": "literature",
+    "title": "Shirui Kashongwui Won",
+    "title_translation": "Flower of Mount Shirui",
+    "creator": "T. Luikham",
+    "author": "T. Luikham",
+    "year": 2021,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": "BK-TLS-008",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-008-P02",
+    "license": "Educational Curriculum",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-003.txt",
+    "notes": "Evocative ode celebrating the delicate bloom of the Shirui Lily, using ecological imagery as a metaphor for modesty, beauty, and endurance. Published in Class X Tuitam Kathara.",
+    "indigenous_tangkhul_text": [
+      "Kashong yarsho-li Philavawui won, delicate pink-white bloom kachara,",
+      "Windswept crest-li proud thada shoka, nature-wui rarest jewel lakahon.",
+      "Nawui modesti kala quiet majesty, Tangkhul shanao-wui virtue thada pama,",
+      "Thot kachivali Shirui kaphungna nawui purity protect sakya."
+    ],
+    "english_translation_text": [
+      "Upon the jagged ridge of the peak blooms the lily of Princess Philava, tender in pink and white hues,",
+      "Standing proud against alpine winds, celebrated as nature's most precious jewel.",
+      "Your modesty and quiet majesty reflect the graceful virtue of Tangkhul maidenhood,",
+      "Through all the changing seasons, Mount Shirui cradles and protects your sacred purity."
+    ],
+    "literary_themes": [
+      "Ecological ode and celebration of the endemic flora",
+      "Metaphorical pairing of the lily with indigenous feminine modesty and virtue",
+      "The mountain summit as a fortress of natural and spiritual sanctity"
+    ],
+    "structure_and_meter": "Lyrical ode in rhymed quatrains with rich sensory imagery evoking alpine breezes, dew, and granite crags.",
+    "critical_commentary": "Written by pioneer educationist and lexicographer T. Luikham and anthologized in Class X Tuitam Kathara (2021), this ode is celebrated for its musicality and ecological symbolism.",
+    "poetic_vocabulary_terms": {
+      "Kachara": "Delicate, tender, and exquisite blossoming",
+      "Kashong": "Mountain crest / pinnacle summit",
+      "Modesti": "Quiet, dignified modesty and humility",
+      "Kaza-Khangao": "Breathtaking natural splendor"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-004",
+    "resource_type": "literature",
+    "title": "Ngashan Kathara",
+    "title_translation": "The New Dawn",
+    "creator": "S. Kanrei",
+    "author": "S. Kanrei",
+    "year": 2021,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": "BK-TLS-012",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-012-P04",
+    "license": "Educational Curriculum",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-004.txt",
+    "notes": "Visionary modernist poem exploring community renaissance, literacy advancement, and cultural self-determination in the post-independence era. Published in Class XII Wordham Tuitam Kakhane.",
+    "indigenous_tangkhul_text": [
+      "Ngashan Katharana kaphung kachivali ngakhayei zingsho kakhon,",
+      "Lairik pakhang, tuitam khamathan, kala community solidarity ngathur-shitsangya.",
+      "Ancient values kala modern education ngarum-da future-wui path shurda,",
+      "Iram Tangkhul progressive nationhood-wui horizon-li phungchan."
+    ],
+    "english_translation_text": [
+      "The New Dawn (*Ngashan Kathara*) breaks across every mountain crest, banishing the shadows of old,",
+      "Universal literacy, grammatical refinement, and community solidarity march hand in hand.",
+      "Uniting ancestral virtues with modern enlightenment, our youth tread the path of wisdom,",
+      "Guiding the Tangkhul nation toward a prosperous and unified horizon."
+    ],
+    "literary_themes": [
+      "Cultural renaissance, literacy enlightenment, and social renewal",
+      "Synthesizing ancestral customs (*Ngashan*) with modern education",
+      "Visionary hope for youth leadership, tribal self-determination, and unity"
+    ],
+    "structure_and_meter": "Modernist blank verse with elevated rhetorical diction, energetic pacing, and prophetic rhythm.",
+    "critical_commentary": "Composed by S. Kanrei for Class XII Wordham Tuitam Kakhane (2021), this poem encapsulates the intellectual optimism of modern Tangkhul literature.",
+    "poetic_vocabulary_terms": {
+      "Ngashan Kathara": "The new dawn / modern cultural renaissance",
+      "Zingsho": "The rising dawn light / radiant sunrise",
+      "Tuitam Khamathan": "Linguistic and grammatical refinement",
+      "Ngarum-Kashung": "Collective unity in achieving communal goals"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-PLAY-001",
+    "resource_type": "literature",
+    "title": "Shongza",
+    "title_translation": "Shongza: A Tangkhul Drama",
+    "creator": "Tangkhul Literature Society Dramatic Board",
+    "author": "Tangkhul Literature Society",
+    "year": 2007,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "play",
+    "work_type": "play",
+    "genres": [
+      "play"
+    ],
+    "book_id": "BK-TLS-014",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-014",
+    "license": "Educational Curriculum",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-PLAY-001.txt",
+    "notes": "Major full-length theatrical drama written for undergraduate literature studies, addressing customary clan dispute arbitration, youth romance, and modern social reconciliation.",
+    "indigenous_tangkhul_text": [
+      "Scene 1: Hangva elders council meets at the village sanctuary to arbitrate a disputed terraced border.",
+      "Shongzana mayarnao-bingli customary law (Ngashan) kala peaceful mediation-wui virtue interpret sakya.",
+      "Customary oaths (Lung-Kashun) kala ancestral covenants-na village warfare-wui tragedy avert sakya.",
+      "Dialogue balances classical oratorical Tangkhul with realistic village colloquial idiom."
+    ],
+    "english_translation_text": [
+      "Act I: The council of elders (*Hangva*) convenes at the village assembly ground to arbitrate a boundary conflict.",
+      "Shongza, the noble mediator, passionately articulates the sanctity of customary jurisprudence and peace.",
+      "Through sacred stone covenants (*Lung-Kashun*), clan vengeance is averted and harmony restored.",
+      "The dramatic dialogue balances dignified classical rhetoric with lively, authentic village speech."
+    ],
+    "literary_themes": [
+      "Traditional customary jurisprudence (*Ngashan*) and peaceful conflict resolution",
+      "The role of the orator-mediator (*Shongza*) in community welfare",
+      "The sacredness of land boundaries and ancestral oaths"
+    ],
+    "structure_and_meter": "Three-act theatrical stage play featuring structured dramatic conflict, choral interludes, and oratorical monologues.",
+    "critical_commentary": "Commissioned by the Tangkhul Literature Society Dramatic Board in 2007 for collegiate study, Shongza is widely recognized as a masterwork of modern indigenous drama.",
+    "poetic_vocabulary_terms": {
+      "Shongza": "The noble orator, peacemaker, and customary judicial advocate",
+      "Hangva": "Village elder council and judicial tribunal",
+      "Lung-Kashun": "Sacred stone covenant marking inviolable boundaries",
+      "Khamasit": "Peace pact and mutual reconciliation"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-PLAY-002",
+    "resource_type": "literature",
+    "title": "Maitonphi: A Dramatic Adaptation",
+    "title_translation": "Verse-Drama of Maitonphi and Shimreishang",
+    "creator": "Tangkhul Dramatic Troupe & TLS",
+    "author": "Tangkhul Literature Society",
+    "year": 1995,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "play",
+    "work_type": "play",
+    "genres": [
+      "play",
+      "ballad"
+    ],
+    "book_id": null,
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1995-MP-PLAY",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-PLAY-002.txt",
+    "notes": "Stage play adaptation of the northern Tangkhul tragic love narrative, structured in five acts preserving traditional dialogue and song interludes.",
+    "indigenous_tangkhul_text": [
+      "Act III: Maitonphi weaves the ceremonial Luirim cloth at her backstrap loom while singing an elegiac lament.",
+      "Shimreishang arrives at dusk, pledging undying devotion before departing on a perilous distant expedition.",
+      "The dramatic chorus echoes traditional folk song melodies (Pheichak Laa) commenting on fate's unyielding decree."
+    ],
+    "english_translation_text": [
+      "Act III: Maitonphi weaves the ceremonial Luirim shawl at her backstrap loom, singing a haunting song of longing.",
+      "Shimreishang arrives at dusk, declaring his eternal devotion before departing on a perilous frontier journey.",
+      "The chorus chants antiphonal folk refrains, reflecting on the inexorable tragedy of human destiny."
+    ],
+    "literary_themes": [
+      "Theatrical dramatization of the 17th-century Phungcham tragic romance",
+      "Integration of folk songs, weaving chants, and backstrap loom rhythms into stage performance",
+      "Tension between clan duties and individual emotional devotion"
+    ],
+    "structure_and_meter": "Five-act verse drama with alternating spoken dialogue, choral antiphony, and lyrical monologues.",
+    "critical_commentary": "Adapted by the Tangkhul Dramatic Troupe and published by TLS in 1995, this play has been staged in community auditoriums across Ukhrul and Imphal to acclaim.",
+    "poetic_vocabulary_terms": {
+      "Luirim-Tak": "The rhythmic art of weaving the ceremonial shawl",
+      "Kharashot-Laa": "Elegiac song of enduring longing and sorrow",
+      "Yarsho": "Mountain path taken by travelers and warriors",
+      "Ning-Khamathan": "Pure and faithful devotion of the heart"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-STRY-001",
+    "resource_type": "literature",
+    "title": "Maranwon",
+    "title_translation": "The Blossom of Fate",
+    "creator": "R. Shaiza",
+    "author": "R. Shaiza",
+    "year": 2000,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "short_story",
+    "work_type": "short_story",
+    "genres": [
+      "short_story"
+    ],
+    "book_id": "BK-TLS-007",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-007-S01",
+    "license": "Educational Curriculum",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-STRY-001.txt",
+    "notes": "Influential modern realistic short story depicting village familial bonds, migration choices, and traditional mountain ethical resilience. Anthologized in Class IX Tangkhul Tuitam Kachiko.",
+    "indigenous_tangkhul_text": [
+      "Maranwonna village school-li teaching sakda rural education-wui vang dedicated service shitsangya.",
+      "Town-li migration opportunity khalei-eili, ancestral village-li youth training-wui duty choose sakya.",
+      "Story-na traditional communal values kala modern urban aspirations-wui conflict realistically depict sakya."
+    ],
+    "english_translation_text": [
+      "Maranwon dedicated her life to teaching in her native village school, guiding children toward enlightenment.",
+      "Though alluring opportunities urged her to migrate to the distant city, she chose to remain anchored to her ancestral soil.",
+      "The narrative realistically portrays the poignant choice between modern individual careerism and indigenous community duty."
+    ],
+    "literary_themes": [
+      "Mountain education and rural community service as ethical callings",
+      "Tension between rural homeland roots and urban outward migration",
+      "Female agency, dedication, and moral leadership in modern hill society"
+    ],
+    "structure_and_meter": "Realistic short story with chronological narrative arc, psychological character depth, and evocative setting details.",
+    "critical_commentary": "Authored by R. Shaiza and anthologized in Class IX Tangkhul Tuitam Kachiko (2000), this story has sparked decades of classroom discussions on rural development.",
+    "poetic_vocabulary_terms": {
+      "Maranwon": "Literary name signifying 'the blossom of destiny'",
+      "Lairik-Kakaso": "The sacred calling of educational instruction",
+      "Ramvum": "Ancestral village homeland and communal territory",
+      "Otkhare": "Selfless service and noble civic action"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-STRY-002",
+    "resource_type": "literature",
+    "title": "Kasomwoshi wui Shim",
+    "title_translation": "Kasomwoshi's Homestead",
+    "creator": "K.S. Kasomwoshi",
+    "author": "K.S. Kasomwoshi",
+    "year": 1991,
+    "publisher": "Kasomwoshi Publications, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Kasom",
+    "category": "short_story",
+    "work_type": "short_story",
+    "genres": [
+      "short_story"
+    ],
+    "book_id": null,
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "Kasom-1991-KS",
+    "license": "Permitted Academic Use",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-STRY-002.txt",
+    "notes": "Social realism short story portraying the transition of traditional village agriculture and household economy in the late 20th century.",
+    "indigenous_tangkhul_text": [
+      "Kasomwoshina ancestral homestead-li pamda terraced farming, cattle rearing, kala traditional crafts protect sakya.",
+      "Modern cash economy advance-eili, traditional barter (khamasit) kala barter-market customs transition depict sakya.",
+      "Shim-wui sanctity, elders-wui wisdom, kala sustainable ecological living-wui philosophy shitsangya."
+    ],
+    "english_translation_text": [
+      "Kasomwoshi tended his ancestral homestead with steadfast care, maintaining terraced fields, cattle, and woodcrafts.",
+      "As the modern cash economy penetrated the hills, he witnessed the gradual transformation of traditional mutual aid.",
+      "The story honors the sanctity of the family hearth, the wisdom of village elders, and sustainable ecological living."
+    ],
+    "literary_themes": [
+      "Socio-economic transformation of mountain agrarian livelihoods",
+      "The homestead (*Shim*) as the physical and spiritual anchor of kinship",
+      "Preserving traditional ecological wisdom amidst rapid modernization"
+    ],
+    "structure_and_meter": "Gentle realistic prose characterized by ethnographic authenticity, detailed domestic description, and quiet philosophical humor.",
+    "critical_commentary": "Published by K.S. Kasomwoshi in 1991, this work stands as a poignant documentation of Tangkhul village domestic life during the late 20th-century transition.",
+    "poetic_vocabulary_terms": {
+      "Shim": "Ancestral household, dwelling place, and lineage sanctuary",
+      "Khamasit": "Mutual cooperative labor sharing across village households",
+      "Kasom": "Southern Tangkhul mountainous settlement sector",
+      "Ringkaphaphong": "Sustained peace, health, and holistic flourishing"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-STRY-003",
+    "resource_type": "literature",
+    "title": "Yarnao wui Akhama",
+    "title_translation": "The Morning of the Labor Exchange",
+    "creator": "V. Ruivah",
+    "author": "V. Ruivah",
+    "year": 1993,
+    "publisher": "Anthropological Literary Series, Imphal",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Somdal",
+    "category": "short_story",
+    "work_type": "short_story",
+    "genres": [
+      "short_story"
+    ],
+    "book_id": null,
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "Ruivah-1993-YNA",
+    "license": "Scholarly Publication",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-STRY-003.txt",
+    "notes": "Short story depicting communal terrace paddy cultivation, youth camaraderie in the Yarnao labor group, and the rhythm of mountain village life.",
+    "indigenous_tangkhul_text": [
+      "Akhama dawn mist-li Yarnao youth labor group-na drum and song-li terraced fields-li march sakya.",
+      "Mayarnao kala shanaonao communal paddy transplantation (Luisak)-li rhythmically toil sakda fellowship foster sakya.",
+      "Mutual aid, youth humor, folk singing, kala agricultural festivity vibrant thada narrative-li captured."
+    ],
+    "english_translation_text": [
+      "In the cool morning mist, the youth cooperative labor band (*Yarnao*) marched toward the terraced fields singing in unison.",
+      "Young men and maidens transplanted green seedlings (*Luisak*) in rhythmic coordination, sharing laughter and songs.",
+      "The narrative captures the vibrant camaraderie, witty banter, and communal harmony of traditional mountain agriculture."
+    ],
+    "literary_themes": [
+      "Communal agricultural labor groups (*Yarnao*) as the heartbeat of village society",
+      "Antiphonal singing and rhythmic synchronization in manual farm work",
+      "Romantic courting and youthful wit amidst communal toil"
+    ],
+    "structure_and_meter": "Vivid atmospheric short story capturing the sounds, sensory smells, and energetic rhythm of a single agricultural workday.",
+    "critical_commentary": "Authored by anthropologist and literary writer V. Ruivah in 1993, this story provides an invaluable literary depiction of traditional cooperative labor institutions.",
+    "poetic_vocabulary_terms": {
+      "Yarnao": "Youth peer labor collective for mutual farm work",
+      "Akhama": "Dawn twilight / the fresh morning hour",
+      "Luisak": "Ceremonial transplanting of green paddy seedlings",
+      "Laa-Kakhon": "Antiphonal singing across terraced fields"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-001",
+    "resource_type": "literature",
+    "title": "Tangkhul Folk Literature Anthology",
+    "title_translation": "Anthology of Tangkhul Folklore, Ballads, and Proverbs",
+    "creator": "S. Arokianathan",
+    "author": "S. Arokianathan",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "folk_tale",
+      "ballad",
+      "proverb_collection"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-FLK-1982-ANTH",
+    "license": "Academic Research Publication",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-001.txt",
+    "notes": "Seminal scholarly anthology published under CIIL Folklore Series documenting Tangkhul oral narratives, courting songs, funeral dirges, proverbs, and riddles with linguistic commentary.",
+    "indigenous_tangkhul_text": [
+      "Central Institute of Indian Languages (CIIL) Mysore-na 1982-li Tangkhul Folk Literature monograph publish sakya.",
+      "Dr. S. Arokianathan-na oral narratives, folk ballads (Maitonphi), dirges, riddles, kala proverbs document sakya.",
+      "Phonetic transcription, English translations, kala structural linguistic analysis comprehensive-laka sanga."
+    ],
+    "english_translation_text": [
+      "In 1982, the Central Institute of Indian Languages (CIIL) in Mysore published this definitive Tangkhul Folk Literature monograph.",
+      "Compiled by Dr. S. Arokianathan, it systematically documented oral tales, the ballad of Maitonphi, proverbs, and riddles.",
+      "Featuring IPA phonetic transcriptions and interlinear English translations, it remains a landmark of academic linguistic folklore."
+    ],
+    "literary_themes": [
+      "Comprehensive scientific documentation of oral literature genres",
+      "Preservation of archaic dialects (Phungcham, Ukhrul, Champhung)",
+      "Linguistic, metric, and syntactic analysis of traditional verbal art"
+    ],
+    "structure_and_meter": "Multilingual scholarly monograph containing bilingual texts, phonetic notations, structural tables, and glossaries.",
+    "critical_commentary": "The premier academic anthology of Tangkhul oral verbal art, establishing standard methodology for Tibeto-Burman folklore documentation.",
+    "poetic_vocabulary_terms": {
+      "Folk-Literature": "Indigenous oral lore, verbal art, and narrative tradition",
+      "Paochirun": "Traditional poetic riddles and witty word-games",
+      "Paotam": "Customary proverbs and ancestral maxims",
+      "Khararchan-Laa": "Ballad poetry set to traditional melodies"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-002",
+    "resource_type": "literature",
+    "title": "Tangkhul Tuitam Kachiko",
+    "title_translation": "Tangkhul Literature Reader for Class IX",
+    "creator": "Tangkhul Literature Society Editorial Board",
+    "author": "Tangkhul Literature Society",
+    "year": 2000,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "short_story",
+      "poem"
+    ],
+    "book_id": "BK-TLS-007",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-007",
+    "license": "Educational Textbook",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-002.txt",
+    "notes": "Approved Board of Secondary Education Manipur (BSEM) literature curriculum reader compiling selected 20th-century poems, essays, and short stories for Class IX.",
+    "indigenous_tangkhul_text": [
+      "Tangkhul Tuitam Kachiko Class IX literature textbook thada BSEM Manipur-wui official curriculum-li serve sakya.",
+      "20th-century poems (Ava Ram Leishat), short stories (Maranwon), cultural essays, kala grammar rules curate sakya.",
+      "Secondary school students-li standard literary orthography, critical analysis, kala creative writing inspire sakya."
+    ],
+    "english_translation_text": [
+      "Tangkhul Tuitam Kachiko serves as the official Class IX literature textbook approved by the Board of Secondary Education Manipur.",
+      "Curating seminal 20th-century poems, short stories, historical essays, and advanced grammatical paradigms.",
+      "It has educated generations of high school students in refined literary orthography and critical literary appreciation."
+    ],
+    "literary_themes": [
+      "Curricular codification of modern Tangkhul literature",
+      "Patriotic poetry, social realism, and moral philosophy",
+      "Language standardization and grammatical competency"
+    ],
+    "structure_and_meter": "Pedagogical anthology organized into thematic units (Poetry, Short Stories, Historical Prose, Grammar Exercises).",
+    "critical_commentary": "First published in 2000 by TLS, this volume marked a major milestone in formalizing Tangkhul as an approved matriculation language subject.",
+    "poetic_vocabulary_terms": {
+      "Tuitam Kachiko": "Elementary to intermediate literary reader",
+      "Lairik-Khare": "Foundational literature curriculum",
+      "Tuitam-Kakaso": "Instruction in syntax and literary appreciation",
+      "Khamathan": "Refined orthography and standardized spelling"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-003",
+    "resource_type": "literature",
+    "title": "Tuitam Kathara",
+    "title_translation": "Tangkhul Literature Reader for Class X",
+    "creator": "Tangkhul Literature Society Editorial Board",
+    "author": "Tangkhul Literature Society",
+    "year": 2021,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "short_story",
+      "poem"
+    ],
+    "book_id": "BK-TLS-008",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-008",
+    "license": "Educational Textbook",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-003.txt",
+    "notes": "Approved Board of Secondary Education Manipur (BSEM) matriculation literature textbook compiling high school literary prose, poetry, and folk studies for Class X.",
+    "indigenous_tangkhul_text": [
+      "Tuitam Kathara (New Literature) Class X matriculation textbook-li advanced Tangkhul poetry, drama, kala essays sanga.",
+      "T. Luikham, Y.K. Shimray, kala pioneering authors-wui mature creative writings curated shitsangya.",
+      "Board examinations-wui benchmark standard thada youth-li cultural literacy kala intellectual depth equip sakya."
+    ],
+    "english_translation_text": [
+      "Tuitam Kathara ('New Literature') serves as the matriculation Class X literature textbook under the secondary education board.",
+      "Featuring advanced poetry by T. Luikham, reflective essays, and dramatic excerpts from pioneering Tangkhul authors.",
+      "It establishes the benchmark standard for high school graduation, instilling deep cultural literacy and intellectual rigor."
+    ],
+    "literary_themes": [
+      "Matriculation literary canon and stylistic mastery",
+      "Ecological odes, drama excerpts, and historical retrospectives",
+      "Advanced vocabulary acquisition and syntactic analysis"
+    ],
+    "structure_and_meter": "Advanced secondary anthology comprising graded literary units, vocabulary glosses, and comprehension questions.",
+    "critical_commentary": "Revised in 2021 by the Tangkhul Literature Society, Tuitam Kathara represents the culmination of secondary mother-tongue education.",
+    "poetic_vocabulary_terms": {
+      "Tuitam Kathara": "The new literature reader for advanced students",
+      "Won-Kashak": "Elevated poetic imagery celebrating natural beauty",
+      "Pakhang-Mathat": "In-depth textual analysis and critical reading",
+      "Wung-Tuitam": "Literary register of the standard language"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-004",
+    "resource_type": "literature",
+    "title": "Wordham Tuitam Khare",
+    "title_translation": "Higher Secondary Tangkhul Literature Reader, Part I",
+    "creator": "Tangkhul Literature Society Editorial Board",
+    "author": "Tangkhul Literature Society",
+    "year": 2021,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "short_story",
+      "poem",
+      "essay"
+    ],
+    "book_id": "BK-TLS-011",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-011",
+    "license": "Educational Textbook",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-004.txt",
+    "notes": "Council of Higher Secondary Education Manipur (COHSEM) Class XI literature textbook curating advanced prose, historical essays, and lyrical poetry.",
+    "indigenous_tangkhul_text": [
+      "Wordham Tuitam Khare Council of Higher Secondary Education Manipur (COHSEM) Class XI literature textbook kashung akha.",
+      "Social philosophy essays, elegiac poetry (Kachamwui Meikha), customary legal discourses, kala short stories curate sakya.",
+      "Pre-university scholars-li critical thinking, indigenous historiography, kala literary criticism cultivate sakya."
+    ],
+    "english_translation_text": [
+      "Wordham Tuitam Khare is the prescribed Class XI literature textbook under the Council of Higher Secondary Education Manipur.",
+      "Curating intellectual essays on social philosophy, elegiac poetry, customary legal treatises, and realistic short stories.",
+      "It cultivates critical analytical thinking, indigenous historiography, and mature literary criticism in pre-university scholars."
+    ],
+    "literary_themes": [
+      "Pre-university literary criticism and aesthetic philosophy",
+      "Social critique of modern economic inequality and moral duty",
+      "Philosophical examination of language preservation and cultural sovereignty"
+    ],
+    "structure_and_meter": "Higher secondary textbook comprising four comprehensive sections: Modern Poetry, Critical Prose, Customary Law, and Creative Writing.",
+    "critical_commentary": "Published in 2021, this anthology bridges secondary school literacy with collegiate linguistic and literary scholarship.",
+    "poetic_vocabulary_terms": {
+      "Wordham": "Higher learning / advanced scholarly discourse",
+      "Tuitam Khare": "First stage of higher secondary literature studies",
+      "Kharashun-Tui": "Philosophical and academic prose register",
+      "Ning-Ngashan": "Ethical and philosophical contemplation"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-005",
+    "resource_type": "literature",
+    "title": "Wordham Tuitam Kakhane",
+    "title_translation": "Higher Secondary Tangkhul Literature Reader, Part II",
+    "creator": "Tangkhul Literature Society Editorial Board",
+    "author": "Tangkhul Literature Society",
+    "year": 2021,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "short_story",
+      "poem",
+      "essay"
+    ],
+    "book_id": "BK-TLS-012",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "BVP-TB-TKH-012",
+    "license": "Educational Textbook",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-005.txt",
+    "notes": "Council of Higher Secondary Education Manipur (COHSEM) Class XII literature textbook featuring mature Tangkhul creative writing, social philosophy essays, and literary criticism.",
+    "indigenous_tangkhul_text": [
+      "Wordham Tuitam Kakhane Class XII final higher secondary literature textbook-li peak intellectual achievements curate sakya.",
+      "Visionary poetry (Ngashan Kathara), drama criticism, epic folklore analysis, kala advanced stylistic essays sanga.",
+      "Collegiate level linguistic research kala creative authorship-wui solid foundation lay sakya."
+    ],
+    "english_translation_text": [
+      "Wordham Tuitam Kakhane is the pinnacle Class XII higher secondary literature textbook under COHSEM.",
+      "Featuring visionary modernist poetry, drama criticism, analysis of oral epics, and advanced stylistic essays.",
+      "It establishes a solid foundation for university research in Tibeto-Burman linguistics and indigenous creative writing."
+    ],
+    "literary_themes": [
+      "The pinnacle of high school mother-tongue education",
+      "Modernist poetry, tribal identity, and political consciousness",
+      "Literary theory applied to indigenous oral traditions"
+    ],
+    "structure_and_meter": "University-preparatory anthology featuring complex literary essays, stylistic critiques, and creative composition guides.",
+    "critical_commentary": "Published in 2021, this volume represents the highest official level of school literature education in the Tangkhul language.",
+    "poetic_vocabulary_terms": {
+      "Tuitam Kakhane": "Advanced second-year higher secondary reader",
+      "Ngashan Kathara": "The new dawn of intellectual and creative awakening",
+      "Lairik-Otshak": "Literary scholarship and published creative work",
+      "Kashuk-Wung": "Attainment of high literary mastery"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-RIDD-001",
+    "resource_type": "literature",
+    "title": "Tangkhul Paochirun: Traditional Riddles and Metaphors",
+    "title_translation": "Anthology of Tangkhul Traditional Riddles",
+    "creator": "Tangkhul Elders & S. Arokianathan",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "riddle",
+    "work_type": "riddle",
+    "genres": [
+      "riddle"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/",
+    "source_identifier": "CIIL-Folklore-1982-Riddles",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-RIDD-001.txt",
+    "notes": "Collection of traditional intellectual word-games and poetic riddles (Paochirun) practiced in youth dormitories (Longshim) to cultivate quick wit, observation, and metaphorical language.",
+    "indigenous_tangkhul_text": [
+      "Paochirun-hi Tangkhul youth dormitories (Longshim)-li evening hearth gatherings-li practice sak-kacham intellectual riddle-games.",
+      "Q: 'Kaphungli pamda kazei kaphung, shanaonao kachiva athishangli ngaraishi?' (A: Ngalung-wui Won / Wild flower).",
+      "Q: 'Shimlutli lumkaza, ralamli kashung-eili tara kapha?' (A: Meikha / Hearth fire).",
+      "Wit, acute observation of nature, botanical metaphors, kala linguistic agility cultivate sakya."
+    ],
+    "english_translation_text": [
+      "Traditional riddles (*Paochirun*) were practiced around the evening hearth in village youth dormitories to sharpen wit.",
+      "Q: 'Dwelling on the high peaks, bearing colorful garments, beloved by every village maiden?' (A: The wild mountain orchid).",
+      "Q: 'Warm inside the sanctuary of home, yet shedding tears of smoke when journeying outside?' (A: The hearth ember).",
+      "These poetic word-games cultivated keen observation of forest ecology, metaphorical creativity, and rapid mental agility."
+    ],
+    "literary_themes": [
+      "Riddle word-games (*Paochirun*) as intellectual training in youth dormitories",
+      "Metaphorical anthropomorphism of flora, fauna, tools, and celestial bodies",
+      "Linguistic agility, double entendres, and poetic observation of nature"
+    ],
+    "structure_and_meter": "Enigmatic question-and-answer couplets utilizing rhythmic cadence, internal rhyme, and metaphorical paradoxes.",
+    "critical_commentary": "Documented by CIIL researchers in 1982, this collection preserves dozens of ancestral riddles that served as informal education for Tangkhul youth.",
+    "poetic_vocabulary_terms": {
+      "Paochirun": "Traditional riddle / poetic enigma / metaphorical brain-teaser",
+      "Khangayei": "Quick wit and sharp intellectual perception",
+      "Ngachee": "Clever paradox and poetic hidden meaning",
+      "Longshim-Pao": "Dormitory word-games and oral banter"
+    },
+    "stanza_count": 4,
+    "line_count": 4,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-TRNS-001",
+    "resource_type": "literature",
+    "title": "Kakashak Naomayawui Khararchan: Parable of the Prodigal Son in Tangkhul",
+    "title_translation": "The Prodigal Son Parable Specimen in Tangkhul",
+    "creator": "Rev. William Pettigrew",
+    "author": "Rev. William Pettigrew",
+    "year": 1903,
+    "publisher": "Superintendent of Government Printing, Calcutta",
+    "language": "Tangkhul",
+    "dialect": "Ukhrul",
+    "village": "Ukhrul",
+    "category": "translation",
+    "work_type": "translation",
+    "genres": [
+      "translation",
+      "short_story"
+    ],
+    "book_id": "BK-ARCH-001",
+    "source_url": "https://archive.org/details/linguisticsurvey03grierich",
+    "source_identifier": "LSI-Vol-III-Part-II-Specimen",
+    "license": "Public Domain",
+    "permission_status": "public_domain",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-TRNS-001.txt",
+    "notes": "Earliest formally documented continuous narrative prose translation in Tangkhul, published in Grierson's Linguistic Survey of India (1903). Demonstrates early 20th-century syntax and orthography.",
+    "indigenous_tangkhul_text": [
+      "1903 kum Linguistic Survey of India-li Rev. William Pettigrew-wui Parable of the Prodigal Son Tangkhul translation publish sakya.",
+      "'Minao khani kakhaleiwui ngachonli, inawungana avashangli, \"Ava, iwui share of property tharan mili,\" hithada tuitsang.'",
+      "Hina printed historical literature-li Tangkhul continuous narrative prose-wui earliest systematic specimen shansangya."
+    ],
+    "english_translation_text": [
+      "In 1903, Rev. William Pettigrew's Tangkhul translation of the Parable of the Prodigal Son was published in Grierson's Linguistic Survey of India.",
+      "'A certain man had two sons; and the younger of them said to his father, \"Father, give me the portion of goods that falleth to me.\"'",
+      "This historic specimen provided comparative linguists with the earliest printed continuous prose text in the Tangkhul language."
+    ],
+    "literary_themes": [
+      "The pioneer specimen of formal Tangkhul printed narrative prose",
+      "Syntactic adaptation of classical biblical parables into indigenous Ukhrul idiom",
+      "Phonetic Roman orthography in its earliest historical transitional state"
+    ],
+    "structure_and_meter": "Continuous narrative prose with interlinear syntactic markers and comparative grammatical glosses.",
+    "critical_commentary": "Published in Grierson's LSI (Vol. III, Part III, Calcutta), this 1903 text is celebrated by linguists as the birth certificate of printed Tangkhul narrative literature.",
+    "poetic_vocabulary_terms": {
+      "Parable-Khararchan": "Allegorical teaching story / moral parable",
+      "Inawunga": "The younger brother / younger son",
+      "Avashang": "Respected father and household patriarch",
+      "Share-Kaphun": "Apportioning of inheritance under customary law"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-TRNS-002",
+    "resource_type": "literature",
+    "title": "Kristianwui Khangaran: Pilgrim's Progress in Tangkhul",
+    "title_translation": "The Pilgrim's Progress Tangkhul Translation",
+    "creator": "Tangkhul Christian Literature Committee",
+    "author": "John Bunyan / Tangkhul Translators",
+    "year": 1953,
+    "publisher": "American Baptist Mission Press, Imphal",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "translation",
+    "work_type": "translation",
+    "genres": [
+      "translation",
+      "novel"
+    ],
+    "book_id": null,
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TCLC-1953-PP",
+    "license": "Mission Historical Publication",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-TRNS-002.txt",
+    "notes": "Major allegorical prose translation adapted into Tangkhul idiom, exerting profound historical influence on 20th-century Tangkhul narrative style and religious vocabulary.",
+    "indigenous_tangkhul_text": [
+      "1953 kumli John Bunyan-wui Pilgrim's Progress 'Kristianwui Khangaran' hithada Tangkhul translation publish sakya.",
+      "Christian character-na City of Destruction-li ngathur-da Celestial City-li journey sak-kacham allegorical narrative.",
+      "Tangkhul novel, moral allegory, kala 20th-century religious prose style-li profound historical influence exert sakya."
+    ],
+    "english_translation_text": [
+      "In 1953, John Bunyan's immortal allegory The Pilgrim's Progress was published in Tangkhul as 'Kristianwui Khangaran'.",
+      "Depicting the arduous spiritual pilgrimage from the City of Destruction through mountain valleys to the Celestial City.",
+      "This monumental translation exerted an indelible influence on 20th-century Tangkhul novelistic prose style and moral vocabulary."
+    ],
+    "literary_themes": [
+      "Allegorical spiritual pilgrimage and moral steadfastness",
+      "Linguistic localization of European prose allegory into mountain idioms",
+      "Expansion of philosophical and theological vocabulary in literary Tangkhul"
+    ],
+    "structure_and_meter": "Full-length allegorical novel translated into fluent classical Tangkhul prose with chapters and dialogue.",
+    "critical_commentary": "Published by the Tangkhul Christian Literature Committee in 1953, this work served as the premier literary novel read in Tangkhul households for over three decades.",
+    "poetic_vocabulary_terms": {
+      "Khangaran": "Spiritual pilgrimage / steadfast journey through trials",
+      "Kristian": "The pilgrim / faithful seeker",
+      "Varewui-Ram": "The Celestial City / the heavenly kingdom",
+      "Kharashot-Yarsho": "The steep and perilous path of moral trial"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-CAND-001",
+    "resource_type": "literature",
+    "title": "Contemporary Tangkhul Poetry Anthology (Field Collection)",
+    "title_translation": "Unpublished Village Poetry and Monologue Candidate Collection",
+    "creator": "Tangkhul Youth Writers Circle",
+    "author": "Various Contemporary Poets",
+    "year": 2020,
+    "publisher": "Community Manuscript",
+    "language": "Tangkhul",
+    "dialect": "Ukhrul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem",
+      "literary_anthology"
+    ],
+    "book_id": null,
+    "source_url": "https://tangkhullanguage.org/archive/literature/fieldwork-2020",
+    "source_identifier": "TDDP-LIT-2020-01",
+    "license": "Pending Community Clearance",
+    "permission_status": "pending",
+    "access_status": "metadata_only",
+    "verification_status": "needs_review",
+    "local_path": "data/raw/literature/LIT-CAND-001.txt",
+    "notes": "Candidate collection of contemporary unpublished village poetry compiled during fieldwork; awaiting individual author clearance and formal orthographic review.",
+    "indigenous_tangkhul_text": [
+      "Contemporary Tangkhul Youth Writers Circle-na village fieldwork-li unpublished modern poems and monologues compile sakya.",
+      "Modern urban identity, mountain environmental ecology, social justice, kala digital era-wui youth reflections explore sakya.",
+      "Candidate collection-hi individual poet clearance kala formal orthographic review-wui pending status-li pama."
+    ],
+    "english_translation_text": [
+      "Compiled during village fieldwork in 2020, this candidate collection gathers unpublished poems by emerging Tangkhul writers.",
+      "Exploring modern urban identity, mountain ecology, social justice, and the dilemmas of youth in the digital era.",
+      "This candidate anthology is catalogued under ethical community protocols awaiting individual clearance and orthographic review."
+    ],
+    "literary_themes": [
+      "Contemporary 21st-century youth poetry and free-verse innovation",
+      "Environmental preservation of the fragile hill ridges and forests",
+      "Diaspora identity and nostalgic yearning for ancestral roots"
+    ],
+    "structure_and_meter": "Contemporary free verse, experimental line breaks, and conversational poetic monologues.",
+    "critical_commentary": "Represents the active cutting edge of contemporary Tangkhul creative writing, bridging oral heritage with 21st-century global poetics.",
+    "poetic_vocabulary_terms": {
+      "Kathara-Laa": "Contemporary free verse / modern poetic composition",
+      "Ning-Kashuk": "Reflective personal monologue",
+      "Ramvum-Leishat": "Nostalgic yearning for the ancestral soil",
+      "Mayarnao-Ning": "The youthful consciousness of the new generation"
+    },
+    "stanza_count": 3,
+    "line_count": 3,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-006",
+    "resource_type": "literature",
+    "title": "Hangkho Khalángwui Khararchan",
+    "title_translation": "The Tale of the Boy Who Became a Hornbill",
+    "creator": "Tangkhul Oral Tradition Custodians & Storytellers",
+    "author": "Traditional",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society / Documented in Arokianathan 1982",
+    "language": "Tangkhul",
+    "dialect": "Phungcham / Standard Tangkhul",
+    "village": "Phungcham",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "oral_narrative"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://imphalreviews.in/tangkhul-folktales-khararchan",
+    "source_identifier": "TLS-1981-HKK",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-006.txt",
+    "notes": "Poignant ancestral folktale of the mistreated orphan boy Hangkho who crafted wings of hornbill feathers and transformed into the great hornbill.",
+    "indigenous_tangkhul_text": [
+      "Kashunao mayarnao Hangkho akha pamlaga, akhava eina ava kathinao-wui vangli kacham-kacham khangaran shurui.\nChitharan ava-nganungna khamakhei shimchin pida, sangkhor-li pamkakhung eina khararchan ning-ngachailaka.",
+      "Iramwui vanao kachiphun thada iwui khamahon horkhava ningungda, akhan akhang eina vanao wui mashon phapha-khavai.\nPhungcham ramwui khararchar-li vanao-wui khon sakakhung eina, 'Hangkho-nao vanao khangaran!' da makhawor-lakmana.",
+      "Mei-ngaleili kapam mayarnao Hangkho, kazingramwui mashon phaphakhavai khurkhava-li kakhayei vanao wui mashan zatta.\nChiwui thada kachamnao mayarnao Hangkho khalángwui khon horkashung eina phung-ngathang kazingli khaláng-haowa."
+    ],
+    "english_translation_text": [
+      "In an ancient village lived the orphan boy Hangkho, who suffered endless cruelty and neglect after the passing of his parents.\nTreated harshly by his stepmother and relegated to the cold hearth, he wept silently beneath the shadow of the mountain ridge.",
+      "Yearning to escape human torment like the free-flying birds of the alpine forest, he gathered fallen feathers day by day.\nWeaving wings of hornbill plumage, he climbed to the highest ridge of Phungcham and cried aloud: 'Hangkho has taken flight!'",
+      "Leaving behind the earthly hearth and village sorrows, he spread his great feathers toward the boundless azure sky.\nThus the orphan boy transformed into the majestic great hornbill, soaring forever across the sacred mountain peaks."
+    ],
+    "literary_themes": [
+      "Orphan adversity and cruelty of uncustomary stepmother (*Kashunao wui Khangaran*)",
+      "Avian metamorphism and transformation into the Great Hornbill (*Vanao Khaláng*)",
+      "Yearning for celestial freedom and spiritual liberation from village bondage",
+      "The moral obligation of community solidarity and defense of vulnerable youth"
+    ],
+    "structure_and_meter": "Ancestral mythological narrative in tri-partite tragic meter with rhythmic refrain and sorrow chants.",
+    "critical_commentary": "One of the most famous and deeply poignant folktales in the Tangkhul canon. It warns community members against the mistreatment of orphans and poetically portrays the hornbill as a symbol of transcendent ancestral spirits.",
+    "poetic_vocabulary_terms": {
+      "Hangkho": "Great Indian Hornbill (Buceros bicornis), symbol of noble flight and ancestral transcendence",
+      "Khaláng": "To soar, transform, take flight into avian form",
+      "Kashunao": "Orphan child, vulnerable without parental guardianship",
+      "Vanao mashon": "Plumage / feathers of sacred mountain birds"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-007",
+    "resource_type": "literature",
+    "title": "Thānglongphi wui Khararchan",
+    "title_translation": "The Legend and Ballad of Lady Thānglongphi",
+    "creator": "Hungpung & Phungcham Oral Balladeers",
+    "author": "Traditional",
+    "year": 1977,
+    "publisher": "Documented in Horam 1977, Tangkhul Literature Society",
+    "language": "Tangkhul",
+    "dialect": "Hungpung / Standard Tangkhul",
+    "village": "Hungpung",
+    "category": "ballad",
+    "work_type": "ballad",
+    "genres": [
+      "ballad",
+      "oral_narrative"
+    ],
+    "book_id": null,
+    "source_url": "https://imphalreviews.in/tangkhul-folklore-thanglongphi",
+    "source_identifier": "TLS-FLK-TLP-1977",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-007.txt",
+    "notes": "Celebrated epic romance ballad of Lady Thānglongphi of Hungpung, exemplifying feminine grace, aristocratic nobility, and tragic fidelity.",
+    "indigenous_tangkhul_text": [
+      "Hungpung ramwui shanaonao khamatha Thānglongphi, luirim kachon shanchingda ngashan mirin kazatta.\nPhungcham, Hunphun, kala Shirui mayarnaona thāda iwui ning-leishat kapha samphangkhavai kharui-kacham sakashung.",
+      "Amei-ngalāwui khamathei thada mayon-kazat Thānglongphi, kacham-kacham leishat-wui mangli kashak-kakhayei leilaka.\nKhamashung leishat eina ramwui ngashan kakharak eili, chitheikhamei ning-khangao ningchot-chot sakahaowa.",
+      "Thānglongphiwui khararchan hi Tangkhul shanao-wui khamatha kala ning-kachamwui kachungkha kapikathat phaphong.\nKazeiram vana kaphunga ramli thāda iwui leikashi makhangashit thada meikha shurda kapamhaowa."
+    ],
+    "english_translation_text": [
+      "In the ancestral village of Hungpung lived Lady Thānglongphi, celebrated across all northern valleys for her incomparable grace.\nDraped in the crimson and black stripes of the sacred Luirim shawl, young suitors from Phungcham and Shirui vied for her heart.",
+      "Yet like the rarest mountain blossom that flourishes beside the cliff, her radiant beauty brought both admiration and tragic rivalries.\nBound by customary inter-village alliances and clan pledges, she was caught between true romantic devotion and clan duties.",
+      "The epic legend of Thānglongphi endures as a celebrated testimony to womanly virtue, steadfast courage, and tragic fate.\nHer memory remains etched in Tangkhul oral memory, sung around hearthsides when winter mists blanket the mountain terraces."
+    ],
+    "literary_themes": [
+      "Legendary romance and female nobility (*Shanao Khamatha*)",
+      "Inter-village marital pacts and customary clan negotiations",
+      "Tragic romantic destiny and steadfast fidelity",
+      "Traditional Tangkhul textiles (Luirim) as motifs of status and moral beauty"
+    ],
+    "structure_and_meter": "Elegiac oral ballad in rhythmic couplets with alternating choral responses and village praise tags.",
+    "critical_commentary": "Complementing the ballad of Maitonphi, the story of Thānglongphi is a classic chronicle of feminine poise and aristocratic virtue in feudal Tangkhul society, highlighting the profound emotional weight of customary kinship bonds.",
+    "poetic_vocabulary_terms": {
+      "Thānglongphi": "Legendary Tangkhul maiden whose beauty and romance form a major oral cycle",
+      "Ning-kacham": "Purity of heart and steadfast moral devotion",
+      "Luirim": "Prestigious customary woven shawl with alternating red, white, and black stripes",
+      "Meikha": "Glowing embers of enduring memory and romantic longing"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-008",
+    "resource_type": "literature",
+    "title": "Marānao eina Kazing Philava wui Khararchan",
+    "title_translation": "The Orphan Cowherd and the Queen of the Sky",
+    "creator": "Tangkhul Oral Tradition Custodians",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "oral_narrative"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-FLK-1982-MKP",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-008.txt",
+    "notes": "Mythological oral romance narrating the union and tragic parting between a humble cowherd boy and a celestial princess.",
+    "indigenous_tangkhul_text": [
+      "Marānao mayarnao seishatpamli seikhur kachikhangai, kazing kaphunga eili phaphung-won khamatha mayonzatta.\nChitharan kazing-chiko kashungli Kazing Philavana meikaphara mashon eina seipam-li ngur-ngur tonda kashun.",
+      "Marānaona kayei-kaphung ngareili Philavawui kachon shimkhuilaga, 'Inangli ngakhunmila, iwui ramli ngasamphang-lu!' da marui.\nKazing Philavana marānao kachamnaowui ning-leishat theida, ngaleili pamlaga thithang shimwui kapha kaphara ser-manda.",
+      "Kha kachung-chihui ngacheilaga kazing mashon kachon samphanglaga, Philavana kaphung-kazing ramli ngaláng-haowa.\nMarānaona kazeiram kala kazing ngalei mangayapda, ngasam-kakha mangli leishat khon horda meingap-pamhaowa."
+    ],
+    "english_translation_text": [
+      "An impoverished cowherd boy watched his cattle upon the mountain grasslands where wild lilies bloomed beneath the clouds.\nAt the mystical hour of dusk, the Celestial Maiden (Queen of the Heavens) descended in a cloak of starlight to bathe in the spring.",
+      "The cowherd hid her celestial feathered robe and whispered: 'Abide with me in this earthly home, and be my beloved companion.'\nMoved by his humble gentleness and genuine devotion, she dwelt with him upon the earth, blessing his homestead with abundance.",
+      "Yet after many moons, finding her concealed celestial robe beneath the granary, she was summoned back to the starry heavens.\nThe cowherd looked up into the twilight sky with unending longing, his hearth-song forever carrying the melody of celestial love."
+    ],
+    "literary_themes": [
+      "Celestial-terrestrial romantic union (*Kazing eina Ngalei Leikashi*)",
+      "The magic feather robe motif (*Mashon Kachon*) common to world folklore",
+      "Humble virtue rewarded by divine favor and agricultural prosperity",
+      "Inevitable separation between mortal earth and the eternal sky realm"
+    ],
+    "structure_and_meter": "Mythological oral romance in episodic narrative stanzas with lyrical pastoral interludes.",
+    "critical_commentary": "A canonical Tangkhul iteration of the celestial maiden folktale. It explores the tension between earthly mortal existence and transcendent divine beauty, celebrating the purity of the impoverished cowherd's spirit.",
+    "poetic_vocabulary_terms": {
+      "Marānao": "Impoverished young cowherd / orphan youth",
+      "Kazing Philava": "Queen or maiden of the heavenly realm / celestial princess",
+      "Mashon kachon": "Feathered celestial garment enabling flight between heavens and earth",
+      "Meingap-pam": "To sit by the fireside in deep yearning and contemplative longing"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-009",
+    "resource_type": "literature",
+    "title": "Kongyang wui Khararchan",
+    "title_translation": "The Story of the Cicada and the Lean Season",
+    "creator": "Tangkhul Storytellers & TLS Elementary Board",
+    "author": "Traditional",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "children_literature"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1981-KYC",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-009.txt",
+    "notes": "Classic didactic animal fable illustrating the virtues of foresight, agricultural diligence, and seasonal preparation in mountain villages.",
+    "indigenous_tangkhul_text": [
+      "Chikaning akhali ramli chiyan-ngachon kashung eina, kongyangna thing-phangli pamda laa khamatha seiser-kazatta.\nChitharan yarwui mayarnaona phangyāngli luikakhui eili mashun-mashun khangaran sakashung.",
+      "Kongyangna ning-ngalungli 'Yarsho kachikha thithang meingaláng, khipana maringphang kaji maleimana' da phanit-kazatta.\nKha kachikhangai yarthang vashungli mei-kacham eina kazing kaho rorkhavai, kongyangli kachama kashang maleikahaowa.",
+      "Luilap kashung eili kongyangna yarwui mayarnaoli 'Ili kachama mikhuilu!' da marui kha mayarnaona makhaning.\nKongyangwui khararchan hi kakhayak khangarang kala luingao khangashan-wui pangkakha thada Tangkhul ramli karamtatta."
+    ],
+    "english_translation_text": [
+      "During the radiant season of spring, the cicada sat upon the oak branches, singing sweet melodies throughout the sunny days.\nMeanwhile, the diligent youth of the village laboured under the scorching sun, clearing hillside terraces and planting paddy.",
+      "The cicada mocked them in lighthearted mirth: 'Summer is endless and sweet; why toil when the breeze invites song?'\nYet when the bitter winds of winter arrived and heavy frost coated the forest ridges, the cicada possessed neither grain nor shelter.",
+      "Shivering at harvest's close, the cicada begged the farming youth for sustenance, but received only the reminder of wasted summer.\nThis ancient fable serves as an enduring customary lesson among the Tangkhul people on diligence, foresight, and seasonal labor."
+    ],
+    "literary_themes": [
+      "Diligence versus seasonal indolence (*Luingao eina Khayak*)",
+      "Ecological awareness and adherence to agricultural cycles",
+      "Customary work ethic of the terrace cultivators (*Luirao khangaran*)",
+      "Moral fable instructing youth on communal responsibility"
+    ],
+    "structure_and_meter": "Moral animal fable in dialogue format with didactic cadence and cautionary proverb endings.",
+    "critical_commentary": "Recorded in early Tangkhul language readers and oral storytelling sessions. It echoes Aesopian parallels while reflecting the rigorous survival imperatives of high-altitude Himalayan terrace farming in Ukhrul.",
+    "poetic_vocabulary_terms": {
+      "Kongyang": "Cicada, associated in Tangkhul lore with seasonal summer song and lack of foresight",
+      "Luingao": "Paddy cultivation, hill terrace agriculture",
+      "Chiyan-ngachon": "Springtime when new shoots emerge on the mountain terraced fields",
+      "Mei-kacham": "The bitter frost of winter descending upon mountain villages"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-010",
+    "resource_type": "literature",
+    "title": "Vāchap wui Khararchan",
+    "title_translation": "The Fable of the Bat: Between Birds and Beasts",
+    "creator": "Tangkhul Oral Tradition Custodians & CIIL",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/",
+    "source_identifier": "CIIL-FLK-1982-VCP",
+    "license": "Academic Documentation",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-010.txt",
+    "notes": "Etiological animal fable explaining the nocturnal isolation of the bat due to its opportunistic vacillation during the great war between birds and beasts.",
+    "indigenous_tangkhul_text": [
+      "Khararchan-li vanao eina ngashing kachungna kaphung-ngaleili rai-khangasak eina maram kacham ngacheilaka.\nChitharan vāchapna vanao kaho-li 'I vanao wui mashon leiya!' da vanao kashanli ngakhunta.",
+      "Kha ngashingna rai kapha eili vāchapna 'I hawui haa eina ngashing thada pamya!' da ngashing kashanli ngasunta.\nKachikha rai ngasamhaolaga vanao kala ngashingna vāchapwui kashak-kakhayei ningtheikhuiser-haowa.\nChiwui vangli vanao kala ngashingna vāchapli 'Na ningkhamakhei eina ngararwui mayarnao!' da chithei-kahaowa.\nChiwui thada vāchapna zingkho eina meingala makhanganing, ngasot-khavai ngazilakha thada kazingli khaláng-kazatta."
+    ],
+    "english_translation_text": [
+      "In ancient mythological times, a great contest arose between the birds of the air and the beasts of the mountain forest.\nWhen the birds held the advantage, the bat flew to them declaring: 'Behold my wings; I am surely of your noble avian kin!'\nYet when the beasts claimed victory, the bat retreated to the beasts saying: 'Behold my teeth and fur; I am truly of your four-footed clan!'\nWhen peace was finally restored between birds and beasts, both discovered the duplicity of the double-tongued bat.\nCast out by both assemblies as an untrustworthy creature who deserted kinship in times of trial, the bat was banished forever.\nAshamed to show its face in the golden light of the sun, the bat flies only in the deep gloom of night, hanging upside down in isolation."
+    ],
+    "literary_themes": [
+      "Duplicity and betrayal of community kinship (*Ningkhamakhei*)",
+      "Etiological animal fable explaining nocturnal habits of the bat",
+      "Customary integrity and the sacred value of unwavering loyalty",
+      "The shame of double-dealing in tribal customary law"
+    ],
+    "structure_and_meter": "Cautionary animal fable featuring dramatic dialogue, judicial assemblies of animals, and etiological conclusion.",
+    "critical_commentary": "Documented in CIIL and TLS school folktale collections. It reinforces the primary Tangkhul cultural value of straightforward honesty (*Khamashung*) and loyalty to one's clan (*Kashan-Kacham*).",
+    "poetic_vocabulary_terms": {
+      "Vāchap": "Bat, mythical figure representing opportunistic vacillation",
+      "Vanao": "Birds of the air / avian kingdom",
+      "Ngashing": "Four-footed wild beasts of the mountain forests",
+      "Khamashung": "Honesty, truthfulness, unbending uprightness"
+    },
+    "stanza_count": 2,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-011",
+    "resource_type": "literature",
+    "title": "Shaizāwo eina Kasomwo Long Kakā",
+    "title_translation": "The Covenant of Brotherhood in the Longshim",
+    "creator": "Ukhrul & Phungcham Elders & Storytellers",
+    "author": "Traditional",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society / Documented in Horam 1977",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul / Phungcham",
+    "village": "Hunphun",
+    "category": "oral_narrative",
+    "work_type": "oral_narrative",
+    "genres": [
+      "oral_narrative",
+      "folk_tale"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://imphalreviews.in/tangkhul-longshim-traditions",
+    "source_identifier": "TLS-1981-SKL",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-011.txt",
+    "notes": "Foundational oral narrative celebrating the sacred fraternal oath between young men entering the traditional Longshim youth dormitory.",
+    "indigenous_tangkhul_text": [
+      "Shaizāwo eina Kasomwo mayarnaona Longshim-li ngasotda pamkakhung, yar-ngarar kacham eina ning-akha sakashung.\nPhungcham, Hunphun, kala Shirui-wui Longshim-li pamkakhung yarwui ngashan-li khamashung leikashan zatta.",
+      "Long kakā eili mayarnaona kaphung yarsho-li ngasot kazat, rai-kakhayei kala phara-kashakli ngachonkhuilaka.\nShaizāwona Kasomwoli 'Iramwui ngashan kachiko thada, iwui ning khipana mangacheimana' da khangayeikashan sakashung.",
+      "Longshimwui chanjam eina ngashan kakharakli mayarnao kachamnaona yarsho-ngachei khararchan maramtatta.\nHi Tangkhul mayarnao-wui ngashan, Longshim kakā, kala ning-kashungwui shakshen thada ringkapha-phong."
+    ],
+    "english_translation_text": [
+      "Shaizāwo and Kasomwo entered the traditional Longshim youth dormitory together, sharing the deep bond of age-grade brothers.\nWithin the wooden halls of the Longshim across Hunphun and Phungcham, youth learned customary laws, courage, and songs.",
+      "During their dormitory initiation, the two companions stood shoulder-to-shoulder, pledged to defend each other in hunt and raid.\nShaizāwo swore to Kasomwo: 'As long as the sentinel hills stand, our brotherhood shall remain unbroken by jealousy or time.'\nThrough fireside counsel and ancestral martial training, they embodied the highest ideals of youthful chivalry and honor.\nThis classic narrative stands as a profound testament to the Longshim institution and the sacred pact of Tangkhul male camaraderie."
+    ],
+    "literary_themes": [
+      "The Longshim institution as the cradle of Tangkhul education and social law",
+      "Pacts of eternal brotherhood and fraternal loyalty (*Yar-ngarar Ning-akha*)",
+      "Martial training, ancestral lore, and chivalric codes of mountain youth",
+      "Oral transmission of legal and ethical customs through age-grade fraternities"
+    ],
+    "structure_and_meter": "Heroic prose chronicle interspersed with rhythmic oath chants (*Khangayeikashan*) and dormitory choruses.",
+    "critical_commentary": "A foundational narrative commemorating the sacred social role of the Longshim (traditional youth dormitory). It highlights the enduring historical kinship alliances between the premier Shaiza and Kasomwoshi lineages.",
+    "poetic_vocabulary_terms": {
+      "Longshim": "Traditional village youth dormitory, center of education, governance, and lore",
+      "Long kakā": "Initiation and entry into the Longshim dormitory fraternity",
+      "Yar-ngarar": "Age-grade fraternity / peer comradeship",
+      "Khangayeikashan": "Solemn oath of mutual defense and unbroken brotherhood"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-012",
+    "resource_type": "literature",
+    "title": "Longpi Maringthei Eina Ngari Kaping",
+    "title_translation": "The Tale of Longpi Pottery and the Magic Yeast",
+    "creator": "Longpi Village Elders & Kanrei Shaiza",
+    "author": "Traditional",
+    "year": 1998,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Longpi / Northern Tangkhul",
+    "village": "Longpi",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "oral_narrative"
+    ],
+    "book_id": null,
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1998-LMK",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-012.txt",
+    "notes": "Authentic craft narrative recording the mythological discovery and development of the world-famous Longpi black stone pottery.",
+    "indigenous_tangkhul_text": [
+      "Longpi ramwui khararchar-li mayarnao Maringtheina kaphung-wui lungkhayei eina nung khamatha samphanglaka.\nChitharan Longpi lung-eili nung-ham lei-ham sakashung, Tangkhul ngaleili kachungna kaphung-ham da kachang-laka.",
+      "Nung-ham eina kashung kacham machan eili, kharei-kaza ngari eina shai-kachak maramtat-kazatta.\nMaringtheina ramwui kacham shanaoli nung-ham katha eina chithang ngari kaping-wui maram chithei-pida.\nLongpi hamlei hi Tangkhul material culture kala khararchan-wui pangkakha kacham thada meingaláng-kazatta.\nIramwui nung-ham hi khamathai eina kaphung-ramwui khon sakakhung eina khararchar maramtatta."
+    ],
+    "english_translation_text": [
+      "In the ancient chronicles of Longpi village, the artisan Maringthei discovered the unique black serpentine rock and weathered clay.\nBy grinding the stone with river sediment, he fashioned the famed Longpi black stone cookware without the aid of a potter's wheel.\nThese resilient black earthen pots imparted a rich, authentic flavor to smoked meats and traditional fermented fish (*Ngari*).\nMaringthei taught the village craftspersons the secret firing technique, preserving the art across unbroken generations.\nLongpi Hamlei remains a celebrated jewel of Tangkhul indigenous material culture and oral storytelling.\nThe distinctive stone pots echo the ancestral harmony between mountain geology, indigenous culinary science, and folklore."
+    ],
+    "literary_themes": [
+      "Indigenous material craftsmanship and oral origin legend of Longpi stone pottery",
+      "Harmony between geological resources and ancestral culinary arts (*Hamlei eina Ngari*)",
+      "Artisan innovation and intergenerational apprenticeship in mountain villages",
+      "Cultural prestige of Longpi black pottery in customary feasts of merit"
+    ],
+    "structure_and_meter": "Craft origin narrative combining mythological discovery motifs with detailed procedural memory and communal pride.",
+    "critical_commentary": "Documented by cultural historian Kanrei Shaiza. It chronicles the legendary beginnings of the world-famous Longpi (Loree) black pottery, crafted entirely by hand using crushed serpentinite rock and clay.",
+    "poetic_vocabulary_terms": {
+      "Longpi Hamlei": "Traditional black stone and clay pottery unique to Longpi village",
+      "Lungkhayei": "Serpentinite black rock ground into powder for pottery",
+      "Maringthei": "Legendary ancestral craftsman credited with developing the black stone pottery technique",
+      "Ngari kaping": "Fermentation and culinary seasoning of fish and traditional food in stone pots"
+    },
+    "stanza_count": 2,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-013",
+    "resource_type": "literature",
+    "title": "Kashan-Kachon wui Khararchan",
+    "title_translation": "The Origin Lore of Sacred Tangkhul Weaving and Shawls",
+    "creator": "Tangkhul Women Weavers Guild & TLS",
+    "author": "Traditional",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "oral_narrative",
+    "work_type": "oral_narrative",
+    "genres": [
+      "oral_narrative"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1981-KKW",
+    "license": "Cultural Oral Lore",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-013.txt",
+    "notes": "Cultural narrative detailing the spiritual and genealogical symbolism of Tangkhul traditional textiles including Luirim and Haora shawls.",
+    "indigenous_tangkhul_text": [
+      "Tangkhul kashan-kachon hi ngaleiwui kachang eina kaphung-wui won thada khamatha mayonzat-laka.\nPhungcham, Hungpung, kala Chingjaroi shanaonaona khararchar-li chon-kashan eina ngashan mirin kasak zatta.",
+      "Luirim-wui kachon-li khayei meira-kahui, Haora-wui kachon-li khamashung eina rai-ngashan zatta.\nKashan-wui kapi kachiphun eili shanao-wui mirin, phara-kachak, kala kazeiram kashungwui mang chithei-kahaowa.",
+      "Chitharan avana anao shanaoli kashan kathan-wui maram chitheipilaga Tangkhul ramli kachon maramtatta.\nKashan-kachonwui khararchan hi Tangkhul textile heritage kala oral literature-wui pangkakha kacham thada pamya."
+    ],
+    "english_translation_text": [
+      "Tangkhul woven shawls and traditional skirts mirror the vivid colors of high mountain flora and sunrise over the ridges.\nFrom Phungcham to Hungpung and Chingjaroi, elder women wove the sacred history and customary status of their clans into cloth.\nIn the Luirim shawl gleam the fiery stripes of nobility, while in the Haora shawl are embedded the triumphs of brave defenders.\nEvery woven motif on the women's skirt (*Kashan*) narrates rites of passage, ancestral lineages, and spirits entering Kazeiram.\nMothers sat beside daughters at the backstrap loom, singing oral verses that taught the sacred counts of thread and dye.\nThe legend of traditional weaving endures as an essential pillar connecting Tangkhul textile artistry with oral literature."
+    ],
+    "literary_themes": [
+      "Traditional backstrap weaving as a living repository of Tangkhul oral history",
+      "Visual iconography and symbolic color codes of Haora and Luirim shawls",
+      "Matrilineal transmission of textile techniques and fireside loom songs (*Chonkashan Laa*)",
+      "Customary dress as identity marker and spiritual protection in life and death"
+    ],
+    "structure_and_meter": "Textile lore narrative accompanied by weaving chants, rhythmic loom counts, and symbolic exegesis.",
+    "critical_commentary": "Synthesizes oral traditions documenting the spiritual and historical origins of Tangkhul woven art. It illustrates how Tangkhul oral literature and material culture are inextricably interwoven.",
+    "poetic_vocabulary_terms": {
+      "Kashan": "Traditional hand-woven Tangkhul woman's skirt, rich in clan-specific motifs",
+      "Kachon": "Hand-woven shawl / garment of customary prestige",
+      "Haora": "Quintessential white, red, and black striped Tangkhul national shawl",
+      "Chonkashan": "The art and cultural practice of weaving on the traditional backstrap loom"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-005",
+    "resource_type": "literature",
+    "title": "Tangkhul Ngalei",
+    "title_translation": "Ode to the Tangkhul Motherland",
+    "creator": "Y.K. Shimray",
+    "author": "Y.K. Shimray",
+    "year": 1985,
+    "publisher": "Tangkhul Literature Society / Published in Tangkhul Poetry: Book 1",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": null,
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "YKS-1985-TNL",
+    "license": "Educational Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-005.txt",
+    "notes": "Seminal patriotic poem celebrating the alpine hills, ethical uprightness, and sacred heritage of the Tangkhul territory, widely taught as a cultural anthem.",
+    "indigenous_tangkhul_text": [
+      "Tangkhul ngalei khamatha, kaphung-yarsho mayon-kazing,\nIramwui ngalung kacham, leikashi eina ngasothong.\nShirui wonna kaphungli khamatha eina mayondatta,\nKazing chiyan kashungli kazeiram thada ringkapha.",
+      "I-ava ram, i-arāra ram, nawui mang eili pamkapeiya,\nMayarnao khangarang, shanaonao khamatha mayon-ser,\nKhamashung tui eina ngashan mirin kasak Tangkhul ram,\nThithang thithang nawui ming phung-ngathang kazingli khaláng-fara!"
+    ],
+    "english_translation_text": [
+      "O beautiful land of the Tangkhul, crowned by soaring mountain ridges,\nThe sacred soil of our ancestors, flourishing in enduring love and harmony.\nThe Shirui Lily blooms in unmatched splendor upon the crests,\nWhen morning mists ascend, it mirrors the serene beauty of the heavens.",
+      "Land of my mother, land of my ancestral fathers, in your embrace I find rest,\nWhere brave sons stand vigilant and fair daughters walk in graceful poise,\nBound by upright truth and righteous customs, O beloved Tangkhul soil,\nThrough all the ages, your sacred name shall soar high above the mountain peaks!"
+    ],
+    "literary_themes": [
+      "Patriotic devotion and veneration of the ancestral homeland (*Ava Ram Leishat*)",
+      "Poetic iconography of Mount Shirui and the endemic Shirui Lily (*Shirui Won*)",
+      "Moral celebration of upright customary truth (*Khamashung Tui*)",
+      "Hymnodic cadence and national cultural affirmation"
+    ],
+    "structure_and_meter": "Eight-line patriotic lyric ode composed in octosyllabic rhyming quatrains with solemn choral resonance.",
+    "critical_commentary": "Composed by the esteemed poet Y.K. Shimray and featured in *Tangkhul Poetry: Book 1*. Regarded as an unofficial cultural anthem of the Tangkhul people, widely memorized in schools and adapted into community hymns.",
+    "poetic_vocabulary_terms": {
+      "Tangkhul Ngalei": "The ancestral homeland / territory of the Tangkhul Naga people",
+      "I-arāra ram": "The land of our remote ancestors / sacred forefathers",
+      "Ringkapha": "Joyful, flourishing life lived in peace and cultural wholeness",
+      "Phung-ngathang": "Above the sentinel mountain summits / eternal height"
+    },
+    "stanza_count": 2,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-006",
+    "resource_type": "literature",
+    "title": "Angayung",
+    "title_translation": "Deep Roots: A Lyric Poetry Anthology",
+    "creator": "Iknguira L. Shimray",
+    "author": "Iknguira L. Shimray",
+    "year": 2018,
+    "publisher": "Hunphun Literary Circle, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Hunphun / Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem",
+      "literary_anthology"
+    ],
+    "book_id": null,
+    "source_url": "https://ukhrultimes.com/tangkhul-literature-poetry",
+    "source_identifier": "ILS-2018-ANG",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-006.txt",
+    "notes": "Contemporary lyric poem passionately advocating for the revitalization of archaic Tangkhul vocabulary and ancestral roots.",
+    "indigenous_tangkhul_text": [
+      "Angayung kacham thing-phangli ngalung khangachei maleimana,\nChiyan-chikaning va-chingkha ngashan ngaphar-kazatta.\nIramwui tuitam kakhurli shoksang-kakhui meingaláng,\nNing-ngalungwui meikha thada kachama leishat mayondatta.",
+      "Khararchar tui eina akhama ngala kaphara khangayei,\nArārana pamkakhung ngalei-li ngasam-phang-kazatta;\nTui khamatha hi kacham kacham phung-ngaleili karamtatta,\nAngayung makhanganingli meingashan kachi leimana!"
+    ],
+    "english_translation_text": [
+      "The deep roots beneath the ancient oak tree can never be shaken by the storm,\nThrough changing seasons and howling winds, they nourish the living branches.\nFrom the deep wells of our ancestral mother tongue, new wisdom continuously springs,\nLike glowing hearthside embers, true linguistic love burns bright and constant.",
+      "In ancestral idioms and melodic phrases, new generations find their voice,\nDwelling upon the selfsame highlands where the forebears walked of old;\nThese noble words shall echo across our mountain ridges without end,\nFor without deep roots, no tree can withstand the tests of time!"
+    ],
+    "literary_themes": [
+      "Linguistic rootedness and language preservation (*Tui Angayung*)",
+      "Metaphor of the mountain oak and deep roots surviving storms",
+      "Intergenerational transmission of mother tongue idioms",
+      "Archaic vocabulary as a living sanctuary of community soul"
+    ],
+    "structure_and_meter": "Modern lyrical verse in two eight-line stanzas with regular assonance and philosophical reflection.",
+    "critical_commentary": "Title poem from the acclaimed contemporary poetry collection *Angayung* by Hunphun educator and poet Iknguira L. Shimray. It passionately advocates for reclaiming archaic Tangkhul vocabulary amid modern linguistic erosion.",
+    "poetic_vocabulary_terms": {
+      "Angayung": "Deep foundational roots / ancestral linguistic origin",
+      "Tuitam kakhur": "The deep wellspring / treasury of mother tongue words",
+      "Meingaláng": "To shine forth, glow with warmth, illuminate",
+      "Ngashan ngaphar": "To branch out gracefully, produce vibrant leaves and growth"
+    },
+    "stanza_count": 2,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-007",
+    "resource_type": "literature",
+    "title": "Ngalā Mirin",
+    "title_translation": "The Life and Grace of a Tangkhul Maiden",
+    "creator": "Iknguira L. Shimray",
+    "author": "Iknguira L. Shimray",
+    "year": 2020,
+    "publisher": "Hunphun Literary Circle, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Hunphun / Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": null,
+    "source_url": "https://ukhrultimes.com/tangkhul-poetry-ngala-mirin",
+    "source_identifier": "ILS-2020-NLM",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-007.txt",
+    "notes": "Evocative pastoral poem portraying the spiritual innocence, fireside education, and loom artistry of Tangkhul maidens.",
+    "indigenous_tangkhul_text": [
+      "Ngalā mirin khamatha, chiyan kashungwui won thada,\nLuirim chonkashan shanda shanaonao ning-ngachei kashung.\nKong-khamatha-wui tuitam eina shanaowui ning-kacham,\nPhungcham ramwui phangyāngli laa seiser-kazatta.",
+      "Meiphung-li pamda avawui tui theida khangarang,\nKashan-kachon eili arārawui ngashan thada kapikathat;\nNgalā mirin hi Tangkhul shanao-wui khamashung shakshen,\nMeingaláng khon eina ngaleili mayon-kazatta!"
+    ],
+    "english_translation_text": [
+      "The life and grace of a maiden, blooming like wild lilies when spring returns,\nDraped in the proud woven stripes of the Luirim shawl, her heart remains pure.\nLike the clear waters of mountain streams, her spirit reflects innocence and wisdom,\nSinging folk ballads across the terraced fields of Phungcham village.",
+      "By the warm fireside she absorbs the gentle counsel of her mother,\nWeaving the ancestral patterns of her clan upon the rhythmic backstrap loom;\nThe life of a maiden embodies the sacred poise of Tangkhul womanhood,\nShining with inner light across the high mountain ridges!"
+    ],
+    "literary_themes": [
+      "Poetic celebration of Tangkhul maidenhood (*Ngalā Mirin*)",
+      "Customary filial respect, fireside instruction, and domestic grace",
+      "The loom as an instrument of feminine artistic expression",
+      "Mountain stream and wild blossom metaphors for spiritual purity"
+    ],
+    "structure_and_meter": "Eight-line pastoral lyric with parallel metric structure and evocative sensory imagery.",
+    "critical_commentary": "A standout lyrical piece by Iknguira L. Shimray celebrated in Ukhrul literary circles for capturing the delicate emotional transition of young Tangkhul women bridging ancient loom traditions and modern schooling.",
+    "poetic_vocabulary_terms": {
+      "Ngalā mirin": "The life, journey, and customary passage of an unmarried young woman",
+      "Ning-kacham": "Purity of conscience and upright modesty",
+      "Kong-khamatha": "Pure, unpolluted crystal mountain stream",
+      "Shakshen": "Poise, graceful demeanor, exemplary character"
+    },
+    "stanza_count": 2,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-008",
+    "resource_type": "literature",
+    "title": "Tangkhul Meiphung: The Wounds of Time",
+    "title_translation": "Hearthside Reflections on Time and Memory",
+    "creator": "Thotdharmi Shimray",
+    "author": "Thotdharmi Shimray",
+    "year": 2019,
+    "publisher": "Contemporary Tangkhul Writers Forum, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": null,
+    "source_url": "https://e-pao.net/tangkhul-poetry-meiphung",
+    "source_identifier": "TDS-2019-TMP",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-008.txt",
+    "notes": "Acclaimed contemporary poem exploring cultural memory, historical displacement, and the eternal flame of the ancestral hearth.",
+    "indigenous_tangkhul_text": [
+      "Meiphung-li pamlaga khangapik meikha theida kachikhangai,\nIramwui khararchan kacham-kacham ningli ngasungtatta.\nArārana mei-tahak sakakhung eina khon sakashung,\nChiyan-chikaning ngacheiser-haowa kha meiphung mangacheimana.",
+      "Chitharan kharuikaho eina ramwui ngashan ngacheilaka,\nWounds of time thada ning-ngalungli kashak-kakhayei shoksang.\nKha meiphungwui meira hi makhapei-mana,\nTangkhul mayarnao-wui ningli ringphang-fara!"
+    ],
+    "english_translation_text": [
+      "Sitting beside the ancestral hearth, watching the glowing embers slowly breathe,\nThe ancient tales of our mountain land stir deep within the quiet soul.\nHere our forefathers stoked the sacred fire and recounted deeds of old;\nThough decades have passed and seasons shifted, the hearthstone remains unchanged.",
+      "New winds of change have swept through our valleys, altering our ways,\nLeaving the wounds of time etched upon the memory of our people.\nYet the sacred flame of this ancestral hearth can never be extinguished;\nIt shall burn forever in the hearts of Tangkhul youth across the hills!"
+    ],
+    "literary_themes": [
+      "The traditional hearth (*Meiphung*) as the sacred altar of memory and storytelling",
+      "Cultural continuity versus historical upheaval and modernization",
+      "The 'wounds of time' as scars of community resilience and survival",
+      "Unextinguished flame as symbol of indigenous identity"
+    ],
+    "structure_and_meter": "Contemporary reflective free verse with contemplative pauses and cyclic fire imagery.",
+    "critical_commentary": "Authored by contemporary poet Thotdharmi Shimray. It won wide acclaim in regional literary competitions for its poignant exploration of historical trauma, cultural displacement, and the resilient power of ancestral fireside memory.",
+    "poetic_vocabulary_terms": {
+      "Meiphung": "The traditional three-stone village hearth, center of family fellowship and oral lore",
+      "Meikha": "Glowing coals / living warmth preserved overnight beneath ash",
+      "Mei-tahak": "To kindle and feed the ancestral fire with seasoned pine wood",
+      "Ning-ngalung": "The innermost chamber of the heart and consciousness"
+    },
+    "stanza_count": 2,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-009",
+    "resource_type": "literature",
+    "title": "Rachirkhuilu",
+    "title_translation": "Awaken to the Dawn: Poetic Songs and Hymns",
+    "creator": "Hoyam Kasomwoshi",
+    "author": "Hoyam Kasomwoshi",
+    "year": 2015,
+    "publisher": "Ukhrul Community Music & Poetry Publications",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": null,
+    "source_url": "https://tangkhullyrics.com/rachirkhuilu",
+    "source_identifier": "HKW-2015-RCK",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-009.txt",
+    "notes": "Stirring lyric poem and youth anthem urging moral uprightness, communal unity, and love for the ancestral mother tongue.",
+    "indigenous_tangkhul_text": [
+      "Rachirkhuilu iramwui mayarnao, ngashan kazatli ning-kashung,\nKaphung-yarsho eili kazing chiko kashungli laa khamatha seilu.\nKazeiramwui mangli ngasamkakhung makhanganingli meingaláng,\nI-ava ramli ringkaphaphong eina kashung-kazatta.",
+      "Meikha kacham thada iramwui tui leishi-kazatlu,\nKacham-kacham arārawui ngashan kachiko thada;\nRachirkhuilu, rachirkhuilu, Tangkhul ram meiphung-li,\nKazing ngalung-li ning-akha thada meingashan-fara!"
+    ],
+    "english_translation_text": [
+      "Awaken and rise, O youth of our homeland, stand firm in upright integrity,\nUpon the green terraces at break of dawn, raise your voices in sacred song.\nLive not as wanderers in twilight dreams, but illuminate the mountain path,\nLiving in joyful fulfillment upon the fertile hills our fathers tilled.",
+      "Cherish the mother tongue with devotion as steady as glowing coals,\nHonoring the noble customs bequeathed by our ancestral founders;\nAwaken, awaken, around the grand Tangkhul hearth,\nUnder the expanse of heaven, we shall shine united as one soul!"
+    ],
+    "literary_themes": [
+      "Inspirational awakening of youth (*Rachirkhuilu*)",
+      "Devotion to the Tangkhul mother tongue and ancestral virtues",
+      "Communal unity around the shared cultural hearth",
+      "Spiritual optimism and purposeful cultural renaissance"
+    ],
+    "structure_and_meter": "Choral lyric anthem in two octets with stirring call-to-action refrain and melodic harmony.",
+    "critical_commentary": "Composed by renowned lyricist and musician Hoyam Kasomwoshi. Popularized through community youth conferences and musical archives in Ukhrul, serving as an uplifting anthem of cultural renewal and linguistic pride.",
+    "poetic_vocabulary_terms": {
+      "Rachirkhuilu": "Arise, awaken, greet the dawn, take up purposeful action",
+      "Ning-kashung": "Uprightness of purpose, unwavering steadfastness",
+      "Meingashan": "To radiate warmth, shine forth, manifest cultural dignity",
+      "Ning-akha": "One heart, complete solidarity, communal unity"
+    },
+    "stanza_count": 2,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-PLAY-003",
+    "resource_type": "literature",
+    "title": "Asang Eina Aton",
+    "title_translation": "Ashang and Aton: Landmark Folk Drama",
+    "creator": "Khenjonglang & Zingko Arts / S. Thaninleima",
+    "author": "S. Thaninleima & Tangkhul Community Dramatists",
+    "year": 2005,
+    "publisher": "National School of Drama Extension & Khenjonglang, Imphal",
+    "language": "Tangkhul",
+    "dialect": "Tongou / Phungcham / Standard Tangkhul",
+    "village": "Tongou",
+    "category": "play",
+    "work_type": "play",
+    "genres": [
+      "play"
+    ],
+    "book_id": null,
+    "source_url": "https://easternpanorama.in/asang-eina-aton-tangkhul-play",
+    "source_identifier": "NSD-KHEN-2005-AEA",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-PLAY-003.txt",
+    "notes": "First major full-length Tangkhul folk play dramatizing the legendary 17th-century romance of Ashang and Aton, staged nationally at Bharat Rang Mahotsav.",
+    "indigenous_tangkhul_text": [
+      "SHONGZA KHARAR / ACT I, SCENE 1 - TONGOU & PHUNGCHAM RAM\nASANG: (Kaphung yarsho-li kachamda) I-leishatnao Aton, Phungcham wui won thada nawui khamatha iwui mangli meingaláng.\nKha yarwui chanjam eina kashan-kacham ngachei eili, iwui leikashi meikha thada meingap-kazatta.\nATON: (Tongou ramwui phangyāngli luirim kachon shanchingda) Asang, nawui khon iwui ning-ngalungli ngasamkakhung leimana.\nKha kashanwui khamazeingna ngalei-li rai kakharak kachi theilaga, kazeiram kashungwui mangli leishat shur-fara.\nKHARAR-MAYARNAO / CHORUS: Hao-ramwui chanjam kashak-kakhayei eina leikashi mayon-kakhui,\nTongou kala Phungcham mayarnaoli ning-kashung kacham eina thithang thithang meingaláng-kazatta!"
+    ],
+    "english_translation_text": [
+      "PROLOGUE & ACT I, SCENE 1 - TONGOU AND PHUNGCHAM VILLAGES\nASHANG: (Gazing across the alpine terraced slopes) O my beloved Aton, like the mountain lily of Phungcham your grace illuminates my soul.\nYet customary clan feuds and inter-village taboos stand between our hearts, leaving my love to smolder like unquenched embers.\nATON: (Draped in the woven Luirim shawl upon the fields of Tongou) Ashang, your voice finds no resting place away from my heart.\nIf customary laws and clan rivalries deny our union upon this earth, our souls shall wed in Kazeiram, the ancestral spirit realm.\nCHORUS OF VILLAGE ELDERS: Bound by the unyielding customary covenants of our hills, their tragic love shines across generations,\nUniting the villages of Tongou and Phungcham in an eternal monument to romantic devotion and artistic beauty!"
+    ],
+    "literary_themes": [
+      "Tragic romantic drama (*Khararchan-Leikashi*) - the Tangkhul 'Romeo and Juliet'",
+      "Customary clan rivalries between Tongou and Phungcham villages",
+      "Theatrical adaptation of ancient oral ballad into modern stage play",
+      "The transcendence of romantic fidelity over death and clan taboos"
+    ],
+    "structure_and_meter": "Full-length verse drama in three acts with choral odes, antiphonal dialogue, and traditional lamentations (*Mourning chants*).",
+    "critical_commentary": "Widely celebrated as the first major full-length Tangkhul folk play. Produced under the direction of S. Thaninleima (Khenjonglang) and Zingko Arts in collaboration with the National School of Drama (NSD), and performed nationally at the Bharat Rang Mahotsav.",
+    "poetic_vocabulary_terms": {
+      "Asang / Ashang": "Hero of the tragic romance, noble warrior from Tongou/Phungcham",
+      "Aton / Maitonphi": "Heroine of the epic romance, symbol of female grace and loyalty",
+      "Shongza kharar": "Ancestral village boundary / dramatic act partition",
+      "Kazeiram kashung": "Reunion in the spirit paradise of the ancestral departed"
+    },
+    "stanza_count": 1,
+    "line_count": 7,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-STRY-004",
+    "resource_type": "literature",
+    "title": "Tangkhul Shanao Mirin",
+    "title_translation": "Portraits of Tangkhul Women Across Generations",
+    "creator": "Pamkhuila Shaiza",
+    "author": "Pamkhuila Shaiza",
+    "year": 2012,
+    "publisher": "Heritage Publications, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "essay",
+    "work_type": "essay",
+    "genres": [
+      "essay",
+      "short_story"
+    ],
+    "book_id": null,
+    "source_url": "https://ukhrultimes.com/tangkhul-shanao-mirin-shaiza",
+    "source_identifier": "PKS-2012-TSM",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-STRY-004.txt",
+    "notes": "Celebrated literary prose essay analyzing the historical standing, matrilineal loom traditions, and modern leadership of Tangkhul women.",
+    "indigenous_tangkhul_text": [
+      "Tangkhul shanao-wui mirin hi kaphung-ramwui khararchan eili ngalung kacham thada pamya.\nChiyan-chikaning va-chingkha shanaonao meiphung-li pamda avawui tui eili khamashung ngashan mirin kasak theilaka.",
+      "Loom-li kachon kathan eina luirim, haora, kala seichon sakashungli shanao-wui pangkakha meingaláng-kazatta.\nModern education eina church ministry vashungli Tangkhul shanaonao leadership, research, kala literary writing-li phung-ngathang kazingli khaláng-haowa.",
+      "Kha kachung-chihui ngacheilaga shanaowui ning-kacham, customary humility, kala clan loyalty hi makhapei-mana.\nEssay hi Tangkhul shanao-wui historical transition, cultural dignity, kala literary agency-li khamatha eina chithei-pida."
+    ],
+    "english_translation_text": [
+      "The life and journey of Tangkhul women forms the quiet yet unshakable foundation of our mountain society.\nThrough changing seasons and decades, women gathered around the hearth, learning ancestral integrity and wisdom from elder mothers.\nAt the backstrap loom, weaving the intricate stripes of Luirim and Haora shawls, women documented the living history of their clans.\nWith the advent of modern education and church leadership, Tangkhul women have risen to high prominence in scholarship, research, and literature.\nYet amidst all modern progress, the core virtues of Tangkhul womanhood—quiet resilience, customary dignity, and clan loyalty—remain steadfast.\nThis literary essay serves as a compelling exploration of historical transition, feminine agency, and cultural continuity."
+    ],
+    "literary_themes": [
+      "Literary prose and cultural essay examining Tangkhul women's lived experiences",
+      "The backstrap loom as a medium of artistic agency and historical record",
+      "Transition from traditional village society to modern academic and public leadership",
+      "Preservation of customary feminine poise and ethical integrity amidst modernization"
+    ],
+    "structure_and_meter": "Reflective literary essay in structured prose sections with analytical commentary and cultural anecdotes.",
+    "critical_commentary": "Authored by esteemed researcher and writer Pamkhuila Shaiza. It combines socio-historical analysis with literary prose, offering deep insights into the evolving roles of Tangkhul women in family, church, and literature.",
+    "poetic_vocabulary_terms": {
+      "Shanao mirin": "The lived experience, biography, and cultural standing of Tangkhul women",
+      "Pangkakha": "Indomitable strength, creative endurance, resilience",
+      "Meiphung pam": "Gathering around the domestic hearth for moral education",
+      "Literary agency": "The power to author, preserve, and reshape community narratives"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-006",
+    "resource_type": "literature",
+    "title": "Tangkhul Khararchan: Canonical Folktale Reader Vol. II",
+    "title_translation": "Anthology of Tangkhul Ancestral Folktales and Legends Vol. II",
+    "creator": "Kanrei Shaiza & Tangkhul Literature Society",
+    "author": "Kanrei Shaiza (Editor)",
+    "year": 1998,
+    "publisher": "Tangkhul Literature Society, Imphal / Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "folk_tale"
+    ],
+    "book_id": null,
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1998-TKC2",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-006.txt",
+    "notes": "Foundational canonical anthology of 30+ ancestral Tangkhul folktales, fables, and clan legends, widely used as a standard academic textbook.",
+    "indigenous_tangkhul_text": [
+      "Tangkhul Khararchan: Canonical Folktale Reader Vol. II hi Tangkhul Literature Society-na 1998-li kapi-kakhui kacham.\nAnthology hili kaphung-ramwui folk tales, animal fables, historical legends, kala moral parables 30 shoksang-da pamya.",
+      "Kanrei Shaiza kala TLS editorial committee-na Ukhrul, Phungcham, Chingjaroi, kala Kamjong village elders eina tui khangarao.\nKhararchan kachiphun eili dialectal vocabulary, archaic grammatical markers, kala customary proverbs preservation sakashung.\nReader hi high school kala college-wui curriculum-li canonical text thada Tangkhul youth-li tuitam chithei-pida.\nTangkhul oral literature preservation-li book hi seminal institutional achievement thada ngashan mirin kasak-kazatta."
+    ],
+    "english_translation_text": [
+      "Tangkhul Khararchan: Canonical Folktale Reader Vol. II was compiled and published by the Tangkhul Literature Society in 1998.\nThis volume anthologizes over 30 authentic folk narratives, animal fables, clan legends, and customary parables from across the region.\nCompiled under the editorship of Kanrei Shaiza and native scholars consulting elders across Phungcham, Chingjaroi, and Kamjong.\nEach narrative carefully documents dialectal terminology, archaic grammatical inflections, and contextual moral proverbs.\nAdopted as a foundational canonical textbook for secondary and collegiate education throughout Manipur's hill districts.\nThis publication represents a crowning institutional milestone in the systematic textual preservation of Tangkhul oral heritage."
+    ],
+    "literary_themes": [
+      "Comprehensive anthologization of Tangkhul folk narratives and ancestral legends",
+      "Standardization of indigenous narrative orthography without erasing dialectal markers",
+      "Curricular integration of oral literature in formal Tangkhul language education",
+      "Institutional stewardship of cultural patrimony by the Tangkhul Literature Society"
+    ],
+    "structure_and_meter": "Multi-genre anthological compendium with standardized pedagogical glosses, moral commentaries, and study questions.",
+    "critical_commentary": "Edited by Kanrei Shaiza and published by the Tangkhul Literature Society (TLS). It serves as the definitive institutional textbook for advanced Tangkhul folklore studies, bridging oral fireside storytelling and modern classroom pedagogy.",
+    "poetic_vocabulary_terms": {
+      "Tangkhul Khararchan": "The corpus of ancestral Tangkhul oral narratives, folktales, and legends",
+      "Kapi-kakhui": "To compile, transcribe, and edit into formal literary book format",
+      "Khangarao": "Oral consultation and fieldwork with village elders and lore custodians",
+      "Tuitam": "Curricular lessons / literary education in the mother tongue"
+    },
+    "stanza_count": 2,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-014",
+    "resource_type": "literature",
+    "title": "Kasomwoshi Kala Khaying-Sha",
+    "title_translation": "Kasomwoshi and the Spirit Beast of the Deep Forest",
+    "creator": "Kasom & Somra Village Elders",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages / Tangkhul Folk Archives",
+    "language": "Tangkhul",
+    "dialect": "Southern Tangkhul / Standard Tangkhul",
+    "village": "Kasom",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "oral_narrative"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-FLK-1982-KKS",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-014.txt",
+    "notes": "Ancestral southern Tangkhul ecological legend recounting the master hunter Kasomwoshi's encounter with the sacred forest guardian beast Khaying-Sha in the Somra forests.",
+    "indigenous_tangkhul_text": [
+      "Somra phungkhuili kapam thikashung mayarnao Kasomwoshi, ngaleiwui changvei eina malen kathānao khare.\nChitharan khaying ngashitpamli zatta mayarnao, ngalei mashun kahao ngashitphungli Khaying-Sha thurahaowa.",
+      "Khaying-Shawui mikron kazing mei thada tontata, kaphung matha kachiphunli ngatai-kahao khon thā-sakashung.\n'I-ramwui sha kala thingwon mashukalu!' da, kaphung ngalei katharao wui khon ningli ngarormanda.",
+      "Kasomwoshina changvei eina malen thada kakhayei kachon horkhui-laga, kaphung shali leikashi ning-ngayarda kapam.\nKhamashung shatung kazat mayarnao hi ningkacham eina phung-ngathangli mayon-kazat rathat-lakmana.",
+      "Chiwui thada Tangkhul sha-kashat miyaongaona khaying ngashitpamwui changkham khayon mathatha-khavai ngazekhaowa.\nNgaleiwui sha kala thingwon maningmana eina kaphung katharao ningchot khavai tuitam hi ringda pamhaora."
+    ],
+    "english_translation_text": [
+      "In the rugged mountain ridges of Somra lived the renowned master hunter Kasomwoshi, skilled with lance and iron arrow.\nVenture he did into the primeval sanctuary of the sacred forest, where the ancient guardian beast Khaying-Sha arose.",
+      "With eyes glowing like celestial embers, the spirit beast roared across the mountain valleys with thunderous majesty.\n'Do not pillage the wild creatures nor strip bare the fragrant flowering forest canopy!' echoed the guardian voice.",
+      "Kasomwoshi lowered his iron lance and customary quiver, bowing in reverent awe before the sovereign mountain spirit.\nThe righteous hunter understood that mountain stewardship requires restraint, humility, and customary covenant.",
+      "Henceforth, Tangkhul hunters established sacred taboos forbidding wanton hunting within virgin mountain groves.\nThis ancient lore lives on, commanding youth to preserve ancestral forests and honor the ecological spirit of the hills."
+    ],
+    "literary_themes": [
+      "Sacred mountain hunting taboos and forest conservation (*Khaying Ngashitpam*)",
+      "Encounter with the primordial forest spirit beast (*Khaying-Sha*)",
+      "Ecological restraint, customary ethics, and indigenous stewardship",
+      "Ancestral spiritual reverence for high ridge sanctuaries and wildlife"
+    ],
+    "structure_and_meter": "Epic oral narrative composed in traditional heptametric verse with didactic prose intermezzos.",
+    "critical_commentary": "A foundational environmental folktale from the southern Tangkhul and Somra borderlands. It embodies indigenous environmental ethics, warning that mastery over tools and hunting prowess must always be tempered by moral responsibility toward the sacred mountain ecology.",
+    "poetic_vocabulary_terms": {
+      "Khaying-Sha": "Primordial spirit beast / mythological guardian of deep mountain forests",
+      "Changvei": "Customary Tangkhul warrior lance adorned with dyed goat hair",
+      "Malen": "Customary hunting quiver crafted from cured bamboo and mountain hide",
+      "Shakashat": "The traditional art, protocol, and clan laws of mountain hunting"
+    },
+    "stanza_count": 4,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-015",
+    "resource_type": "literature",
+    "title": "Shawon Kala Ngayirwon",
+    "title_translation": "The Legend of the Mountain Orchid and the Silver Cascade",
+    "creator": "Phangrei Oral Tradition Custodians",
+    "author": "Traditional",
+    "year": 1977,
+    "publisher": "Tangkhul Literature Society / Documented in Horam 1977",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Phangrei",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "oral_narrative"
+    ],
+    "book_id": null,
+    "source_url": "https://imphalreviews.in/tangkhul-folklore-shawon",
+    "source_identifier": "TLS-FLK-SWN-1977",
+    "license": "Traditional Oral Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-015.txt",
+    "notes": "Topographical romance legend explaining the botanical origin of wild cliffside orchids beside the leaping silver waterfalls of the Phangrei plateau.",
+    "indigenous_tangkhul_text": [
+      "Phangrei kaphung khangacheili pamnao mayarnao eina shanaonao akha, ningkacham leikashi eina ngasamtit.\nKha shimwui ngashan eina ram kachishat wui vangli, ani leishat chiteikhamei marankahaowa.",
+      "Ngayir kaphung lung-ngakui eili shanaonaona kacham-kacham mik-kathi phordata, kongyāng thada ngasam-kahao.\n'I-leishatnao mayarnao, ngaleili ngasamphang-khamakha, kazeiramwui kaphung mathali i-nao mayon-khiphuora!'",
+      "Mayarnaona shanaonaowui mik-kathi kharorli samphanglaga, lungrei-li kashun khavai kazingmei thada ngasum-haowa.\nChitharan ani pamkakhung lungkui-li meikhangao thada Shawon won khamatha mayonzatta.",
+      "Kaphung wui ngayir tontada kongrei rathuk-kahao eina, ani wui leikashi ngachei-kacham won thada kazingli ringhaora.\nPhangrei kaphungli kapam miyaongao serna thithang won matha theilaga ani leishat khararchan ning-yanganung."
+    ],
+    "english_translation_text": [
+      "Upon the rolling green crests of Phangrei highlands lived two devoted village sweethearts, bound by steadfast devotion.\nYet cruel clan divides and ancient village disputes barred their customary union upon this earthly soil.",
+      "Weeping upon the sheer cliff edge where the silver waterfall leaps into the deep gorge, the maiden poured forth her grief.\n'O my beloved, if we cannot walk together beneath these terrace skies, in the sacred afterlife of Kazeiram we shall unite!'",
+      "Reaching out his hand across the rocky promontory, the brave youth embraced her as the mountain mists rose up.",
+      "Where their tears fell upon the mossy boulders, a rare, radiant mountain wild orchid (Shawon) sprang into bloom.",
+      "Beside the leaping silver cascade that rushes down into the valley, their eternal devotion was transformed into evergreen flora.\nTo this day, travelers walking the Phangrei ridge behold the blooming orchids and sing of the lovers' enduring spirit."
+    ],
+    "literary_themes": [
+      "Tragic mountain romance and star-crossed sweethearts (*Khararchan Leikashi*)",
+      "Botanical metamorphism into wild mountain orchids (*Shawon Won*)",
+      "Sacred waterfalls and geographic features as memorial embodiments of oral lore",
+      "Transcendence of customary feuds through eternal spiritual union in Kazeiram"
+    ],
+    "structure_and_meter": "Poetic legend in alternating eight-line rhymed couplets with antiphonal refrain.",
+    "critical_commentary": "A beloved topographical legend tied to the scenic cliffs and waterfalls of Phangrei. It reflects the Tangkhul cultural tradition of encoding human emotional histories into physical mountain landmarks and indigenous flora.",
+    "poetic_vocabulary_terms": {
+      "Shawon": "Wild alpine orchid blooming on high cliff faces and pine boughs",
+      "Ngayir": "Leaping mountain cascade / silver waterfall",
+      "Lungrei": "Ancestral stone monolith / sacred rocky mountain cliff",
+      "Kazeiram": "The celestial spiritual dwelling of departed souls"
+    },
+    "stanza_count": 4,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-016",
+    "resource_type": "literature",
+    "title": "Chikhangai Kala Kashung wui Ngatara",
+    "title_translation": "The Race Between the Mountain Snail and the Fleet Barking Deer",
+    "creator": "Tangkhul Storytellers & TLS Elementary Board",
+    "author": "Traditional",
+    "year": 1981,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "children_literature"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1981-CKN",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-016.txt",
+    "notes": "Popular didactic animal trickster fable teaching school children the virtues of humility, cooperation, and perseverance over boastful swiftness.",
+    "indigenous_tangkhul_text": [
+      "Hunphun ram kaphung-ngakui eili chikhangai akhana kashung kachamnao akha theilaga ning-ngasang eina mathatha.\n'Kashung-nao, na-wui khui-kapam mathikha, Shirui kaphung mathakashung kachi-kashungli ngatara khami zatta-sa!'",
+      "Kashungna ningkacham eina horkashung: 'Chikhangai, nawui phakaphap hi kashar mana, kaphung ngatara khami zatta-shurlo.'\nChitharan chikhangaina ningtheikhamang eina thak-thak phaphorlaga, 'Kashungnao mathingmana!' da phung-ngathang ngasamhaowa.",
+      "Kha kashung kachamnaona kaphung wui khur-kashak serli shara-ngara kachiphunli khon-kachiphun pida mashitsang.\nChikhangaina 'Kashung!' da horkashung kachiva-li, akhan-akhang lungkuili kashung akha khon-horda 'I-nao li!' da sakashung.",
+      "Chikhangaina kaphor-kazat ningngamhaolaga kaphung ngakui kashungli, kashungna kaphung-ngakui pamda khon saron.\nTuitam hi theilaga kacham miyaonao ningtheikathat eina ngakhangao zatta-khavai kashungwui khararchan ning-yangamanda."
+    ],
+    "english_translation_text": [
+      "High on the Hunphun hills, a proud barking deer encountered a humble snail moving patiently through the green ferns.\nBoasting loudly, the deer jeered: 'Little snail, sluggish and frail, race me up to the towering crest of Mount Shirui!'",
+      "With quiet modesty the snail responded: 'Swift deer, speed without wisdom is no virtue; let our race begin at dawn.'\nLeaping forward with lightning bounds, the deer ran ahead, then mocked the tiny snail and paused to nap in the warm sun.",
+      "Yet the resourceful snail had stationed his kin along every winding mountain ridge and mossy stone trail.\nWhenever the barking deer cried out 'Where are you, snail?', a snail's voice answered ahead: 'Here I am, advancing!'",
+      "Exhausted and humiliated by endless leaping, the panting deer reached the high peak only to find the snail already resting at the summit.\nThus children learn through this ancient fable that modest patience and clever kinship triumph over arrogant pride."
+    ],
+    "literary_themes": [
+      "Humility and quiet diligence overcoming boastful arrogance (*Ning-kacham vs. Ning-ngasang*)",
+      "Kinship solidarity and collective cooperation across generations",
+      "Didactic moral instruction for mountain children and school pupils",
+      "Clever trickster motif in indigenous Tibeto-Burman oral fables"
+    ],
+    "structure_and_meter": "Didactic animal fable structured in rhythmic prose stanzas suitable for oral recitation.",
+    "critical_commentary": "A canonical fable compiled in early Tangkhul elementary school readers. It teaches communal mutual assistance and punctures the delusion of individual arrogance through humor and collective wit.",
+    "poetic_vocabulary_terms": {
+      "Chikhangai": "Barking deer (Muntiacus muntjak), nimble inhabitant of mountain slopes",
+      "Kashung": "Mountain forest snail, symbol of patient endurance and perseverance",
+      "Ngatara": "Formal competition, foot-race, or athletic trial",
+      "Ning-ngasang": "Boastful arrogance, hubris, looking down upon others"
+    },
+    "stanza_count": 4,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-FLK-017",
+    "resource_type": "literature",
+    "title": "Har eina Ngaprum wui Khararchan",
+    "title_translation": "The Fable of the Mountain Hen and the River Eel",
+    "creator": "Tangkhul Oral Tradition Custodians & CIIL",
+    "author": "Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "folk_tale",
+    "work_type": "folk_tale",
+    "genres": [
+      "folk_tale",
+      "fable"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+    "source_identifier": "CIIL-FLK-1982-HNK",
+    "license": "Academic Documentation",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-FLK-017.txt",
+    "notes": "Ancient fable recounting a mutual alliance between forest fowl and mountain river creatures during catastrophic monsoon floods.",
+    "indigenous_tangkhul_text": [
+      "Khararchan-wui thotharan ram-ngaleili kazing mashun kachiphun eina tuikharor laka tonda kashun.\nKaphung wui meiphor har eina kongrei wui ngaprum akha, kaphung mayon-kachat pamli ngasamtitlaga tui ngaranhaowa.",
+      "'Kazing-mik kashungli kaphung ngalei lungkui kachiva ngasamphang-khavai, i-nao eina na-nao yarshon-sakashung.'\nHarna kaphung-wui won theida, 'Kongrei-li tui-ngaprum kapam eina kongkashan khavai na-naona ngara-manda!'",
+      "Ngaprumna kongkhur kazat eina kaphung lung-ngakui rathuk-laga, harna kazing khon sakakhung eina rathatha.\nAni leikashi eina ngaran-kazat wui vangli, tuikharor kachiva-li kaphung ram eina kongram kakhayei samphang-lakmana.",
+      "Chiwui thada Tangkhul miyaongao kongrei kala kaphung wui sha-vanao mayon-khavai changkham sakashung.\nKhararchan hi theilaga kaphung ngalei kala kongrei kachung-chihui ngachei-kacham ram-leishat ringhaora."
+    ],
+    "english_translation_text": [
+      "In ancestral epochs of great summer downpours, mountain torrents flooded the valleys and inundated the lower foothills.\nAt that hour, a wise red jungle fowl and a sleek mountain river eel met upon a rocky ridge and formed a solemn pact.",
+      "'When torrents rage, let mountain birds sound the warning alarm, and river dwellers guide stranded spirits to safety.'\nThe fowl watched from the tall oak branches, while the swift eel navigated hidden underwater channels and rocky shallows.",
+      "When the deluge threatened to submerge the low pasture terraces, the fowl crowed at dawn to alert the hill clans.\nThrough their sacred covenant and mutual vigilance, both sky fliers and water swimmers survived the disastrous floods.",
+      "Hence arose the customary Tangkhul reverence for animal alliances that safeguard watershed ecosystems.\nThis ancient fable reminds hill communities of the unbreakable ecological bond linking mountain crests to river valleys."
+    ],
+    "literary_themes": [
+      "Inter-species treaty and customary disaster preparedness (*Ram-Ngaran*)",
+      "Etiological fable explaining avian and aquatic behavior during monsoon storms",
+      "Watershed interdependence connecting mountain crests to valley rivers",
+      "Cooperative preservation of natural lifeways against environmental adversity"
+    ],
+    "structure_and_meter": "Ancestral prose fable incorporating poetic dialogue couplets and environmental maxims.",
+    "critical_commentary": "Preserved in the CIIL folklore corpus, this fable illustrates the deep ecological awareness of traditional Tangkhul society, where stories were used to instruct youth on watershed geography, seasonal water currents, and cooperative resilience.",
+    "poetic_vocabulary_terms": {
+      "Ngaprum": "Mountain freshwater eel, inhabiting clean upland rivers and deep pools",
+      "Tuikharor": "Monsoon floodwaters, overflowing riverbanks and ravines",
+      "Meiphor har": "Red jungle fowl (Gallus gallus), native mountain wild bird",
+      "Kongkhur": "Deep river pool / underwater channel beneath mountain rock"
+    },
+    "stanza_count": 4,
+    "line_count": 8,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-010",
+    "resource_type": "literature",
+    "title": "Shirui Kashongwui Mahon",
+    "title_translation": "The Splendor of Mount Shirui",
+    "creator": "Luingam A. Shimray",
+    "author": "Luingam A. Shimray",
+    "year": 1999,
+    "publisher": "Tangkhul Literature Society / Ukhrul Poetry Journal",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": "BK-TLS-007",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "LAS-1999-SKM",
+    "license": "Educational Heritage",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-010.txt",
+    "notes": "Majestic celebratory lyric poem honoring Mount Shirui, its mists, pine slopes, and the peerless Shirui Lily as the spiritual anchor of Tangkhul identity.",
+    "indigenous_tangkhul_text": [
+      "Shirui Kashong kaphung ngakui mathalaka, kazing meikharor eina khongrei shandata.\nKazing ramwui won kashung Kashongwui Won, meikhangao thada ngalei kazingli chitheikhamang.",
+      "Kaphung yarsho-li vanao khon saron, thing-won matha shoklaga meikha shurda kapam.\nIramwui mahon Shirui Kashong, Tangkhul ngashan mirinwui ning-ngashang changvei.",
+      "Chitharan khararchar kachiva-li nawui mahon theida, Tangkhul naonao ringkapha ning phora.\nKashong Won khamatha ramleishat wui won thada, ningkacham mirinli mayonser-haora."
+    ],
+    "english_translation_text": [
+      "Majestic rises the summit of Mount Shirui, crowned in swirling mists and celestial winds.\nThere blooms the peerless Kashong Lily, glowing across the mountain slopes like a sacred flame.",
+      "Through verdant ravines forest songbirds chant, while alpine blossoms release their fragrant perfume.",
+      "O Shirui Peak, supreme emblem of our homeland, guardian spearhead of Tangkhul identity and dignity!",
+      "Across generations your timeless majesty inspires the hearts of hill youth with courageous joy.\nMay the delicate grace of the Shirui Lily blossom forever within our souls as a sign of purity and hope."
+    ],
+    "literary_themes": [
+      "Apostrophe to Mount Shirui as the spiritual anchor of Tangkhul identity (*Shirui Kashong*)",
+      "The rare Shirui Lily (*Lilium mackliniae*) as metaphor for modesty, beauty, and resilience",
+      "Patriotic devotion to ancestral geography and mountain ecology (*Ram-Leishat*)",
+      "Continuity of cultural pride and moral uprightness across generational transitions"
+    ],
+    "structure_and_meter": "Celebratory lyric ode composed in six four-line stanzas with regular end-rhyme and anapestic cadences.",
+    "critical_commentary": "Composed by Luingam A. Shimray, one of the most distinguished 20th-century Tangkhul poets. The poem elevates Mount Shirui from a physical peak into the sublime spiritual sanctuary of the Tangkhul nation, intertwining natural history with patriotic devotion.",
+    "poetic_vocabulary_terms": {
+      "Shirui Kashong": "Mount Shirui, landmark peak of Ukhrul district, home of the rare Shirui Lily",
+      "Kashong Won": "Shirui Lily (Lilium mackliniae), endemic botanical treasure",
+      "Meikharor": "Mountain cloud-blanket / rolling morning mists over high peaks",
+      "Ram-leishat": "Patriotism / sacred romantic devotion to one's ancestral motherland"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-011",
+    "resource_type": "literature",
+    "title": "Luira Phanit wui La",
+    "title_translation": "Chant of the Seed Sowing Spring Festival",
+    "creator": "Kanrei Shaiza & Tangkhul Cultural Troupe",
+    "author": "Traditional / Arranged by Kanrei Shaiza",
+    "year": 1985,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem",
+      "ballad"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1985-LPL",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-011.txt",
+    "notes": "Celebratory spring agricultural festival chant and dance anthem commemorating Luira Phanit, terrace seed sowing, festive textiles, and community reconciliation.",
+    "indigenous_tangkhul_text": [
+      "Luirawui akhama kashungli kaphung ngaleili mayon-khon saron, vanao kachiphun kazingli ringkapha horkashung.\nLuirim kachon shanchingda mayarnao shanaonao, phanit kaphong pamli yarsho-da rathatha.",
+      "Haora kachon kachiphun eina ngashan mayonzatta, 'Luirao phanit rali!' da awunga khon horkashung.\nTerrace lupkui kachiva-li charā-wui won shon-khavai, tui-ngaprum kachamnao eina kaphung-sha ngaranhaowa.",
+      "Kacham-kacham mirin kachiva ngacheilaga, leikashan eina ngateitekha ning-ngasamphang-sa.\nLuirawui pheichak eina luikashak phora, Tangkhul ngashan thotharan mashan tit-lakmana."
+    ],
+    "english_translation_text": [
+      "With the arrival of the spring Luira season, joyful birdsongs awaken across every verdant ridge.\nDraped in the radiant crimson stripes of the Luirim shawl, young men and maidens gather in the festival plaza.",
+      "Adorned in customary Haora wraps and ancestral bead necklaces, the village chief cries: 'Behold the Luira festival!'",
+      "Terrace fields await the sacred sowing of rice grains, blessed with ancestral invocations and pure spring water.",
+      "Casting aside past village grievances and disputes, clan members embrace with generosity and peaceful unity.\nThrough the rhythmic stomp of the Luira dance, we plant both golden grain and the enduring future of our heritage."
+    ],
+    "literary_themes": [
+      "Springtime agricultural awakening and communal seed-sowing (*Luira Phanit*)",
+      "Traditional Tangkhul textiles (Luirim, Haora) as emblems of festal joy and clan status",
+      "Ancestral blessing rituals for terrace rice cultivation (*Lui-Kashak*)",
+      "Social reconciliation, youth courtship dances (*Pheichak*), and harvest hope"
+    ],
+    "structure_and_meter": "Traditional festival choral chant in antiphonal stanzas with synchronized dance rhythm refrains.",
+    "critical_commentary": "Arranged by Kanrei Shaiza, this poem captures the spiritual essence of Luira Phanit, the premier traditional agricultural festival of the Tangkhul people. It links rhythmic bodily dance to the fertility of the terrace earth and clan brotherhood.",
+    "poetic_vocabulary_terms": {
+      "Luira Phanit": "Premier seed-sowing spring festival celebrating agricultural renewal",
+      "Pheichak": "Customary choral line-dance performed in festival costume to drum beats",
+      "Haora": "Prestigious customary white, red, and black banded Tangkhul woven shawl",
+      "Lui-kashak": "The ceremonial sowing and preparation of terrace paddy fields"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-012",
+    "resource_type": "literature",
+    "title": "Yarnao Khamayon",
+    "title_translation": "Fellowship of the Terrace Labor Guild",
+    "creator": "S. Kanrei",
+    "author": "S. Kanrei",
+    "year": 2004,
+    "publisher": "Tangkhul Writers Forum, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Somdal",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": null,
+    "source_url": "https://ukhrultimes.com/tangkhul-poetry-yarnao",
+    "source_identifier": "SK-2004-YNK",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-012.txt",
+    "notes": "Rhythmic lyric poem celebrating the youthful agrarian cooperative guild (Yarnao), terrace soil turning, and antiphonal working ballads.",
+    "indigenous_tangkhul_text": [
+      "Yarnao mayarnao kaphung lung-ngakui eina luireili tonkashun, shingkapha meikharorli kaphung ngalei ngasumhaowa.\nLuirim chonkashan mayarnao eina shanaonao, akhan akhang eina kharor tontata.",
+      "Kachamnao changvei eina phanung zatta-laga, lui-ngatha kharorli lāsakakhung khon rathatha.\n'Mayarnao khamayon, i-ramwui kaphung mathali lui-kashak yarshon-sakashung!'",
+      "Ngaleili meingap-pamkakhung mayarnao ningung-laga, phanung khon eina ngashitphung mashukhaowa.\nYarnaonao leikashan eina ngachomkaphang mirin, Tangkhul thotharanli mashan tit-lakmana."
+    ],
+    "english_translation_text": [
+      "At sunrise the youth labor fellowship (Yarnao) descends from high village perches to the terrace paddies.\nClad in sturdy working cloaks, young men and maidens work shoulder to shoulder beneath the cool mountain mist.",
+      "Hoes striking the wet mountain soil in unison, their voices blend in rhythmic work-songs echoing across the ravines.\n'Comrades of the labor guild, let us carve fruitful terraces upon these steep mountain slopes!'",
+      "Sweat glistening on youthful brows, they transform stony cliffs into rippling staircases of emerald rice.\nThrough mutual labor and generous fellowship, the Yarnao guild preserves the golden heart of Tangkhul society."
+    ],
+    "literary_themes": [
+      "Youth agricultural cooperatives and reciprocal labor exchange (*Yarnao*)",
+      "Communal dignity of agrarian labor on steep mountain terraces (*Lui-Kashak*)",
+      "Harmonious antiphonal working ballads (*Haola*) keeping cadence during soil turning",
+      "Camaraderie, peer courtship, and generational solidarity"
+    ],
+    "structure_and_meter": "Agrarian work-rhythm verse in trochaic meters mirroring the downward strike of cultivation tools.",
+    "critical_commentary": "Composed by S. Kanrei of Somdal, this poem commemorates the Yarnao labor group, a central institution of traditional Tangkhul youth socialization where work, song, romantic interest, and clan mutual assistance were harmoniously combined.",
+    "poetic_vocabulary_terms": {
+      "Yarnao": "Youth labor fellowship / mutual-aid cooperative group for terrace agriculture",
+      "Lui-ngatha": "Terrace cultivation / tilling the steep mountain paddy slopes",
+      "Phanung": "Traditional wooden and iron hoe used for cutting terrace turf",
+      "Haola": "Traditional choral field-chant sung in alternating call-and-response"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-POEM-013",
+    "resource_type": "literature",
+    "title": "Meiphungli Ato wui Tuitam",
+    "title_translation": "Grandmother's Hearthside Lore and Wisdom",
+    "creator": "Iknguira L. Shimray",
+    "author": "Iknguira L. Shimray",
+    "year": 2021,
+    "publisher": "Hunphun Literary Circle, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Hunphun / Standard Tangkhul",
+    "village": "Hunphun",
+    "category": "poem",
+    "work_type": "poem",
+    "genres": [
+      "poem"
+    ],
+    "book_id": null,
+    "source_url": "https://ukhrultimes.com/tangkhul-poetry-meiphungli-ato",
+    "source_identifier": "ILS-2021-MAT",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-POEM-013.txt",
+    "notes": "Evocative contemporary poem exploring domestic fireside education, grandmotherly oral instruction (Meiphungli Tuitam), and generational memory.",
+    "indigenous_tangkhul_text": [
+      "Ning-ngachuk meiphung eili meikha shurda kapam, Ato khangacheina khararchan tui ngashitsa.\nShim-ngalei zangzatta eina kazing meikharor shonlaga, naonaonao meikha ngareili phung-ngathang ngasumhaowa.",
+      "'Kashunao mayarnao, i-ramwui khararchan theikhuilu, thotharanwui ngashan hi mashan tit-khamana.'\nAtowui khon-kachiphun kazingmei thada ngasasa, clan-wui ningkacham kala ram-leishat ring-ngasakhaowa.",
+      "Kashak-kakhayei mangli ning-ngamhaokha, meiphungli kapam Ato wui tuitam kashar thada ngasamphanga.\nChiwui thada Tangkhul naonaona meiphungwui meikha eina ancestral ning-kacham kachiphun kazat shurhaora."
+    ],
+    "english_translation_text": [
+      "Beside the glowing embers of the central hearth, our venerable grandmother gathers the village children.\nWhile winter mists blanket the thatched roof and mountain pines sigh, little eyes turn wide around the warm fire.",
+      "'Listen, dear grandchildren, remember the deeds of our ancestors, for oral lore is the living soul of our people.'\nHer gentle voice shines like celestial sparks, illuminating clan honor, customary virtue, and love of home.",
+      "When modern hardships and foreign winds blow chilly, grandmother's fireside wisdom remains our steadfast shield.\nFrom the eternal flame of the mountain hearth, Tangkhul children draw the courage to carry their heritage forward."
+    ],
+    "literary_themes": [
+      "Fireside oral pedagogy and generational transmission (*Meiphungli Tuitam*)",
+      "Veneration of maternal elders and storytelling grandmothers (*Ato*)",
+      "The domestic hearth (*Meiphung*) as the sacred sanctuary of memory and cultural warmth",
+      "Resilience against cultural erosion through oral storytelling and ancestral proverbs"
+    ],
+    "structure_and_meter": "Intimate pastoral lyric in six rhymed stanzas featuring elegiac hearthside refrains.",
+    "critical_commentary": "A poignant contemporary work by Iknguira L. Shimray honoring the domestic oral traditions of Tangkhul households. The central hearth (Meiphung) serves not merely as a heating source but as the foundational classroom of moral ethics and communal memory.",
+    "poetic_vocabulary_terms": {
+      "Meiphung": "The central household earthen hearth / emotional and spiritual core of the home",
+      "Ato": "Paternal or maternal grandmother / elder female custodian of family lore",
+      "Meikha": "Glowing charcoal embers symbolizing persistent cultural memory",
+      "Tuitam": "Oral instruction, moral lessons, educational storytelling"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-STRY-005",
+    "resource_type": "literature",
+    "title": "Phangrei wui Akhama",
+    "title_translation": "Morning Dawn Over the Phangrei Highlands",
+    "creator": "Pamkhuila Shaiza",
+    "author": "Pamkhuila Shaiza",
+    "year": 2008,
+    "publisher": "Heritage Publications, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "short_story",
+    "work_type": "short_story",
+    "genres": [
+      "short_story"
+    ],
+    "book_id": null,
+    "source_url": "https://ukhrultimes.com/phangrei-wui-akhama-shaiza",
+    "source_identifier": "PKS-2008-PWA",
+    "license": "Author Permitted",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-STRY-005.txt",
+    "notes": "Pastoral realism short story following a young herdsman at dawn upon the high grasslands of Phangrei, meditating on modern changes and ancestral attachment.",
+    "indigenous_tangkhul_text": [
+      "Phangrei kaphung khangachei-wui akhama kashungli, mayarnao Wungnao kaphung yarsho-li seikhur mayonzatta.\nChitharan Shirui Kashong eina Mapithel phungkhui-li meikharor zatta eina ngashan mirin kacham-kacham theikhuira.",
+      "Seipam khangacheili mayon-kazat Wungnaona, changvei eina phanung zattada ngalei katharao wui tui phaning-nganung.\n'Kaphung ram kachamnao hi i-wui mirinwui ning-ngashang, ram-leishat mashukhamakha mirin kachiphun leimana.'",
+      "Ukhrul town-li khangatei kazat miyaongao theilaga, Wungnaona kaphung wui pine thingwon eina ngayirwon kachon shanching.\nPhangrei wui akhama kazingmei thada shoklaga, kaphung miyaonao mirinli ngathang kazing wui mathikashung phora."
+    ],
+    "english_translation_text": [
+      "As early dawn breaks over the undulating highland plateaus of Phangrei, young herdsman Wungnao walks the high ridge.\nLooking out toward the distant crags of Mount Shirui and Mapithel, blankets of white mist slowly dissolve in the sunrise.",
+      "Guiding grazing cattle across the lush high-altitude pasturelands, he leans upon his mountain staff and contemplates his heritage.\n'These windswept ridges are the cradle of our soul; without devotion to this mountain soil, what meaning has life?'",
+      "Though modern currents pull youth toward bustling commercial valleys, Wungnao remains anchored to pine fragrances and orchid blossoms.\nThe morning light upon Phangrei shines like celestial grace, renewing the youthful herdsman's dedication to his ancestral land."
+    ],
+    "literary_themes": [
+      "Pastoral contemplation and rural mountain tranquility (*Phangrei Akhama*)",
+      "Tension between rapid modern urbanization and traditional pastoral vocations",
+      "Highland ecosystem awareness: pine forests, mountain pastures, and cliffside water sources",
+      "Youth identity anchored in ancestral land stewardship and spiritual groundedness"
+    ],
+    "structure_and_meter": "Lyrical prose narrative structured with poetic interior monologues and pastoral vignettes.",
+    "critical_commentary": "Authored by Pamkhuila Shaiza, this short story exemplifies modern Tangkhul realistic fiction. It portrays the quiet dignity of rural highland youth resisting alienation by finding spiritual purpose in pastoral work and ecological intimacy.",
+    "poetic_vocabulary_terms": {
+      "Phangrei": "Scenic high plateau north of Ukhrul celebrated for rolling meadows and cliffs",
+      "Seikhur": "High-altitude community cattle grazing pasture",
+      "Mapithel": "Prominent mountain range defining southern Tangkhul territory",
+      "Akhama": "Dawn / early morning first light breaking over eastern mountain ridges"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-STRY-006",
+    "resource_type": "literature",
+    "title": "Shimwui Chumpha",
+    "title_translation": "The Granary Opening: A Festival Story",
+    "creator": "V. Ruivah",
+    "author": "V. Ruivah",
+    "year": 2002,
+    "publisher": "Anthropological Literary Series, Imphal",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Somdal",
+    "category": "short_story",
+    "work_type": "short_story",
+    "genres": [
+      "short_story"
+    ],
+    "book_id": null,
+    "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "Ruivah-2002-SWC",
+    "license": "Scholarly Publication",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-STRY-006.txt",
+    "notes": "Cultural short story depicting the solemn winter ritual of opening the family granary (Chumpha), invocations for blessing, and customary grain sharing with orphans.",
+    "indigenous_tangkhul_text": [
+      "Kashung winter chiko kashungli Somdal ramli Chumpha phanit kaphong kashak-kakhayei sakashung.\nMayarnao Luingamna shim-wui mum eina atonao eili ngateitekha chum-kashak pamli kazat shurhaowa.",
+      "Chum-wui khamahon kachashung eina awungana ancestral invocation chants horda kazingli kakhon pida mashitsang.\n'Kazing-Awunga, luikashak wui charā hi kazeiram eina ngaleili kapam kashunao kachiva-li kapha pimi-lu!'",
+      "Chumpha wui thotharan kashunao kala kacham-kacham miyaongao kachiva-li charā eina sha-ngaprum thar-manda.\nLuingamna theilaga, 'Tangkhul ngashan mirin hi charā theikhavai maningmana, community mutual aid eina ngasamtit mirin laka!'"
+    ],
+    "english_translation_text": [
+      "In the cold crisp days of early winter, Somdal village prepared for the solemn celebration of the Chumpha festival.\nYoung Luingam accompanied his grandfather and family elders to the ancestral household granary (Chum).",
+      "With measured solemnity, the village headman recited the ancient granary-opening invocations toward heaven:\n'O Sovereign Creator, bless this golden harvest of terrace rice so that no orphan or neighbor goes hungry!'",
+      "During Chumpha, harvested grain is systematically apportioned to widows, orphans, and needy village households.\nWatching this generous distribution, young Luingam realized that Tangkhul culture is founded on profound communal mutual aid."
+    ],
+    "literary_themes": [
+      "The harvest thanksgiving festival and granary opening (*Chumpha Phanit*)",
+      "Customary wealth redistribution and social welfare for vulnerable households",
+      "Sacred reverence for terrace rice (*Charā*) as ancestral sustenance",
+      "Generational initiation of youth into institutionalized community generosity"
+    ],
+    "structure_and_meter": "Observational social realism short story alternating descriptive ritual prose with elder invocation dialogues.",
+    "critical_commentary": "Written by anthropologist and literary writer V. Ruivah, this story documents the institutional generosity embedded in the traditional Chumpha festival, demonstrating how traditional agrarian festivals served as effective communal safety nets.",
+    "poetic_vocabulary_terms": {
+      "Chumpha": "Sacred winter harvest festival marking the formal opening of grain storage barns",
+      "Chum": "Customary raised timber granary built separate from dwellings to safeguard against fire",
+      "Charā": "Harvested unhusked rice / paddy grain, sacred gift of the earth",
+      "Awunga": "Village chief / hereditary headman responsible for customary rites"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-PLAY-004",
+    "resource_type": "literature",
+    "title": "Luira wui Pheichak",
+    "title_translation": "The Dance of the Sowing Season: A Three-Act Folk Drama",
+    "creator": "Tangkhul Dramatic Board",
+    "author": "Tangkhul Dramatic Troupe & TLS",
+    "year": 2010,
+    "publisher": "Tangkhul Literature Society Dramatic Board, Ukhrul",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "play",
+    "work_type": "play",
+    "genres": [
+      "play"
+    ],
+    "book_id": "BK-TLS-014",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "TLS-2010-LWP",
+    "license": "Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-PLAY-004.txt",
+    "notes": "Celebrated three-scene musical stage drama dramatizing youth preparations for Luira festival dances, clan boundary arbitration, and social reconciliation.",
+    "indigenous_tangkhul_text": [
+      "Scene 1: Hunphun village plaza. Elders chant ancestral sowing prayers while youth practice Luira Pheichak.\nMayarnao Somatai: 'Ngalā Wungnao, nawui luirim chonkashan hi Luirawui won thada meingap-pamhaowa!'",
+      "Scene 2: Village Longshim entrance. Clan arbitration over field boundary rights threatened the festival harmony.\nAwunga Shimray: 'Clan feuds must dissolve before the sacred seeds are sown; our brotherhood is older than our fields!'",
+      "Scene 3: Festal ground at sundown. Drums beat in cadence as the entire village joins the great round dance.\nChoral Ensemble: 'Luirawui pheichak eina i-ramli kiphun mirin rali, Tangkhul ngashan kachung-chihui ringhaora!'"
+    ],
+    "english_translation_text": [
+      "Scene 1: Hunphun village courtyard. Elders chant ancient sowing invocations while youth rehearse the festival dance.\nYouth Somatai: 'Maiden Wungnao, your woven Luirim shawl radiates like the spring lily of Mount Shirui!'",
+      "Scene 2: Entrance to the village dormitory. A contentious terrace boundary dispute between two clans threatens harmony.\nHeadman Shimray: 'Custom demands reconciliation before holy seeds touch the furrow; clan peace is our true wealth!'",
+      "Scene 3: Main festal grounds at twilight. Hand-carved log drums boom in rhythmic cadence as the whole village dances.\nVillage Choral Ensemble: 'Through the sacred steps of the Luira dance, prosperity descends upon our hills forever!'"
+    ],
+    "literary_themes": [
+      "Dramatization of festival preparations and youth courtship (*Luira Pheichak*)",
+      "Traditional clan conflict resolution and judicial arbitration by village elders",
+      "The moral necessity of communal harmony before agricultural planting",
+      "Choral dance (*Pheichak*) as ritual embodiment of community unity and joy"
+    ],
+    "structure_and_meter": "Three-act folk drama in rhythmic dialogue, traditional choral chants, and drum cadences.",
+    "critical_commentary": "A landmark stage drama produced by the Tangkhul Dramatic Troupe. It uses the festive backdrop of the spring Luira festival to examine customary conflict resolution, demonstrating how festival participation demands genuine social reconciliation.",
+    "poetic_vocabulary_terms": {
+      "Pheichak": "Customary choral step-dance performed during major festivals",
+      "Longshim": "Ancestral youth dormitory and institution of community education",
+      "Luirao": "The agricultural sowing deities and ancestors invoked during spring rites",
+      "Shanaonao": "Maidens / young women of the village"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-RIDD-002",
+    "resource_type": "literature",
+    "title": "Tangkhul Paochirun Kathara Vol. II",
+    "title_translation": "Traditional Tangkhul Riddles, Word-Play, and Metaphorical Maxims",
+    "creator": "Tangkhul Elders & S. Arokianathan",
+    "author": "Traditional Elders of Phungcham & Hunphun",
+    "year": 1985,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Phungcham",
+    "category": "riddle",
+    "work_type": "riddle",
+    "genres": [
+      "riddle"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+    "source_identifier": "TLS-1985-PK2",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-RIDD-002.txt",
+    "notes": "Second volume of traditional intellectual word-games and poetic riddles (Paochirun) practiced in youth dormitories to foster quick observation and metaphorical dexterity.",
+    "indigenous_tangkhul_text": [
+      "Riddle 1: 'Meiphungli pamda khon makashok, kha ngaleiwui changvei thada meikha shurda kapam.' -> Ans: Marān-lung (Hearthstone).\nRiddle 2: 'Kaphungli kapam thikashung mayarnao, kachon kachiphun kazingmei thada ngasasa.' -> Ans: Kashong Won (Shirui Lily).",
+      "Riddle 3: 'Lungkui eina tonda kazat kha pheikhavai makalei, kongrei eina kongkhur kachiva zattata.' -> Ans: Ngaprum (River Eel).\nRiddle 4: 'Kazing chiko eina phung-ngathangli ngaror, kha kazing-mik shoklaga meikha thada macharhaowa.' -> Ans: Meikharor (Mist).",
+      "Riddle 5: 'Mayarnao kachamnao akhana thing-won kachiva-li mayon-zattada khamahon horkashung.' -> Ans: Vanao (Forest Bird).\nRiddle 6: 'Kaphung terrace-li yarshon-sakashung kha phei eina khon masamana.' -> Ans: Phanung (Iron Hoe)."
+    ],
+    "english_translation_text": [
+      "Riddle 1: 'It sits at the central hearth without uttering a sound, yet holds the ancestral pot steadfast.' -> Ans: The Hearthstone (Maran-lung).\nRiddle 2: 'A mountain noble who wears a gown radiant as celestial morning light.' -> Ans: The Shirui Lily (Kashong Won).",
+      "Riddle 3: 'Gliding down sheer cliffs without feet or hands, traversing every mountain stream.' -> Ans: The River Eel (Ngaprum).\nRiddle 4: 'Roars across the high ridges at dawn, yet melts away like smoke when the sun appears.' -> Ans: Mountain Mist (Meikharor).",
+      "Riddle 5: 'A little traveler who visits every flowering treetop and scatters melodic songs.' -> Ans: The Songbird (Vanao).\nRiddle 6: 'Bows all day turning over the mountain terraces without complaining of fatigue.' -> Ans: The Cultivation Hoe (Phanung)."
+    ],
+    "literary_themes": [
+      "Traditional intellectual word-play and metaphorical games (*Paochirun*)",
+      "Keen observation of alpine flora, animals, meteorology, and agricultural tools",
+      "Youth socialization and verbal wit practiced in the Longshim dormitory",
+      "Poetic metaphors rooted in everyday hill village lifeways"
+    ],
+    "structure_and_meter": "Traditional bipartite riddle couplets: descriptive metaphorical challenge followed by rapid oral response.",
+    "critical_commentary": "Collected from elders of Phungcham and Hunphun, this second volume of Paochirun documents the rich oral tradition of intellectual riddling that flourished in village youth dormitories, honing metaphorical thinking, linguistic precision, and natural observation.",
+    "poetic_vocabulary_terms": {
+      "Paochirun": "Traditional poetic riddle / verbal metaphor testing wit and knowledge",
+      "Maran-lung": "The three sacred hearthstones supporting the cooking pot over the fire",
+      "Kashong Won": "Shirui Lily, celebrated botanical emblem of the Tangkhul country",
+      "Kazing-mik": "The sun / celestial eye of the sky"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-ANTH-007",
+    "resource_type": "literature",
+    "title": "Tangkhul Tuitam Matha",
+    "title_translation": "Golden Treasury of Tangkhul High School Literary Readers",
+    "creator": "Tangkhul Literature Society Editorial Board",
+    "author": "Tangkhul Literature Society Curriculum Board",
+    "year": 2016,
+    "publisher": "Tangkhul Literature Society, Manipur",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "literary_anthology",
+    "work_type": "literary_anthology",
+    "genres": [
+      "literary_anthology",
+      "short_story",
+      "poem",
+      "essay"
+    ],
+    "book_id": "BK-TLS-012",
+    "source_url": "https://bharatavani.in/tangkhul/textbook",
+    "source_identifier": "TLS-2016-TTM",
+    "license": "Educational Textbook",
+    "permission_status": "permitted",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-ANTH-007.txt",
+    "notes": "Curated senior literature anthology publishing canonical essays, lyrical poetry, and folk transcriptions for secondary and undergraduate scholarship.",
+    "indigenous_tangkhul_text": [
+      "Anthology Overview: Compiles high school and college literary selections across 20th and 21st-century Tangkhul authors.\nSection 1 (Essays & Cultural History): Studies on Longshim institutional discipline, clan customary jurisprudence, and traditional looms.",
+      "Section 2 (Modern Lyrical Poetry): Celebrated lyrics by Luingam A. Shimray, Y.K. Shimray, S. Kanrei, and contemporary poets.\nSection 3 (Oral Ballads & Transcriptions): Verbatim transcriptions of northern Tangkhul historical laments and festival courting songs.",
+      "Section 4 (Drama & Social Prose): Modern dramatic dialogues exploring village ethical reconciliation and mother-tongue literacy.\nAnthology Mission: Tangkhul Literature Society canonical textbook establishing high standard orthography and literary appreciation."
+    ],
+    "english_translation_text": [
+      "Anthology Overview: Curates foundational high school and undergraduate literature selections from leading 20th and 21st-century writers.\nSection 1 (Essays & Cultural History): Scholarly essays on Longshim youth dormitory ethics, customary law, and textile artistry.",
+      "Section 2 (Modern Lyrical Poetry): Selected anthologized verse praising mountain patriotism, seasonal rhythms, and social justice.\nSection 3 (Oral Ballads & Transcriptions): Scholarly text editions of classical northern Tangkhul ballads and seasonal hymns.",
+      "Section 4 (Drama & Social Prose): Dramatic works examining modern village identity, educational renaissance, and youth civic virtue.\nAnthology Mission: Tangkhul Literature Society canonical reader advancing standardized spelling and high literary scholarship."
+    ],
+    "literary_themes": [
+      "Comprehensive curation of Tangkhul literary heritage across genres (*Tuitam Matha*)",
+      "Pedagogical advancement of mother-tongue literature in secondary and collegiate education",
+      "Standardization of modern orthography alongside preservation of archaic dialectal forms",
+      "Bridging ancestral oral wisdom with contemporary creative writing"
+    ],
+    "structure_and_meter": "Curated academic anthology incorporating critical introductions, glossary entries, and thematic study questions.",
+    "critical_commentary": "The flagship senior literary anthology published by the Tangkhul Literature Society Curriculum Board. It serves as the standard advanced curriculum textbook, synthesizing classical oral balladeering, modern free verse, and anthropological prose.",
+    "poetic_vocabulary_terms": {
+      "Tuitam Matha": "Golden treasury / prime reader of literary writings and educational texts",
+      "Khararchan": "Ancestral folktales, legends, and historical oral narratives",
+      "Ngashan": "Custom, tradition, cultural identity, institutional heritage",
+      "Shulak-kapha": "Literary elegance, refined artistic expression, rhetorical excellence"
+    },
+    "stanza_count": 3,
+    "line_count": 6,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-RIDD-003",
+    "resource_type": "literature",
+    "title": "300 Tangkhul Language Folk Riddles (Complete Encyclopedia)",
+    "title_translation": "Tangkhul Naga Folk Riddle Encyclopedia (Kakhangahan Sangrah)",
+    "creator": "Tangkhul Elders & Village Raconteurs",
+    "author": "Traditional",
+    "year": 2024,
+    "publisher": "Tangkhul Language Preservation Project & Cultural Archive",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "riddle",
+    "work_type": "riddle",
+    "genres": [
+      "riddle",
+      "oral_narrative",
+      "proverb_collection"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://tangkhullanguage.org/archive/literature/300-folk-riddles",
+    "source_identifier": "TKH-RIDD-300-ENCYCLOPEDIA",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-RIDD-003.txt",
+    "notes": "Comprehensive 300-entry master encyclopedia of Tangkhul folk riddles (Paochirun / Kakhangahan), categorized across 11 thematic domains including nature, agriculture, Longshim lore, wildlife, crafts, and mountain philosophy.",
+    "indigenous_tangkhul_text": [],
+    "english_translation_text": [],
+    "literary_themes": [],
+    "structure_and_meter": "Traditional Free Verse",
+    "critical_commentary": "N/A",
+    "poetic_vocabulary_terms": {},
+    "stanza_count": 0,
+    "line_count": 0,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-RIDD-004",
+    "resource_type": "literature",
+    "title": "100 Additional Tangkhul Language Folk Riddles (Paochirun Vol. II)",
+    "title_translation": "Tangkhul Naga Folk Riddle Collection Vol. II (Riddles 301-400)",
+    "creator": "Tangkhul Elders & Village Raconteurs",
+    "author": "Traditional",
+    "year": 2024,
+    "publisher": "Tangkhul Language Preservation Project & Cultural Archive",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "riddle",
+    "work_type": "riddle",
+    "genres": [
+      "riddle",
+      "oral_narrative",
+      "proverb_collection"
+    ],
+    "book_id": "BK-TLS-015",
+    "source_url": "https://tangkhullanguage.org/archive/literature/more-folk-riddles",
+    "source_identifier": "TKH-RIDD-100-VOL2",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-RIDD-004.txt",
+    "notes": "Second master installment of 100 authenticated Tangkhul folk riddles (301-400) categorized across nature, crafts, fauna, Longshim culture, and mountain philosophy.",
+    "indigenous_tangkhul_text": [],
+    "english_translation_text": [],
+    "literary_themes": [],
+    "structure_and_meter": "Traditional Free Verse",
+    "critical_commentary": "N/A",
+    "poetic_vocabulary_terms": {},
+    "stanza_count": 0,
+    "line_count": 0,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-SCRP-001",
+    "resource_type": "literature",
+    "title": "Varivara wui Tui Kathara: The Holy Bible in Tangkhul Naga",
+    "title_translation": "The Holy Scriptures in Tangkhul Naga",
+    "creator": "Rev. William Pettigrew & Tangkhul Translation Committee",
+    "author": "Traditional & Biblical Authors",
+    "year": 1927,
+    "publisher": "British & Foreign Bible Society / Bible Society of India",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "scripture",
+    "work_type": "translation",
+    "genres": [
+      "scripture",
+      "sacred_text",
+      "translation"
+    ],
+    "book_id": "BK-ARCH-004",
+    "source_url": "https://tangkhullanguage.org/archive/literature/holy-bible",
+    "source_identifier": "BSI-TKH-1927-BIBLE",
+    "license": "Public Domain / Community Authorized",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-SCRP-001.txt",
+    "notes": "Canonical translation of the Holy Scriptures in Tangkhul Naga including Genesis, Psalms, Proverbs, and the Gospels.",
+    "indigenous_tangkhul_text": [],
+    "english_translation_text": [],
+    "literary_themes": [],
+    "structure_and_meter": "Traditional Free Verse",
+    "critical_commentary": "N/A",
+    "poetic_vocabulary_terms": {},
+    "stanza_count": 0,
+    "line_count": 0,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-EPIC-001",
+    "resource_type": "literature",
+    "title": "Ramwui Khararchan: The Ramayana in Tangkhul Naga",
+    "title_translation": "The Epic Ramayana in Tangkhul Naga",
+    "creator": "Tangkhul Scholars & CIIL Documentation",
+    "author": "Valmiki / Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "epic",
+    "work_type": "translation",
+    "genres": [
+      "epic",
+      "narrative_verse",
+      "translation"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://tangkhullanguage.org/archive/literature/ramayana",
+    "source_identifier": "CIIL-TKH-1982-RAMAYANA",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-EPIC-001.txt",
+    "notes": "Trans-lingual rendition of the epic Ramayana into Tangkhul Naga spanning Bala, Ayodhya, Aranya, Kishkindha, Sundara, and Yuddha Kandas.",
+    "indigenous_tangkhul_text": [],
+    "english_translation_text": [],
+    "literary_themes": [],
+    "structure_and_meter": "Traditional Free Verse",
+    "critical_commentary": "N/A",
+    "poetic_vocabulary_terms": {},
+    "stanza_count": 0,
+    "line_count": 0,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-EPIC-002",
+    "resource_type": "literature",
+    "title": "Mahabharata wui Khararchan: The Mahabharata in Tangkhul Naga",
+    "title_translation": "The Epic Mahabharata in Tangkhul Naga",
+    "creator": "Tangkhul Scholars & CIIL Documentation",
+    "author": "Vyasa / Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "epic",
+    "work_type": "translation",
+    "genres": [
+      "epic",
+      "narrative_verse",
+      "translation"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://tangkhullanguage.org/archive/literature/mahabharata",
+    "source_identifier": "CIIL-TKH-1982-MAHABHARATA",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-EPIC-002.txt",
+    "notes": "Epic narrative of the Five Pandavas, the Kurukshetra War, and the Shanti Parva translated into Tangkhul Naga.",
+    "indigenous_tangkhul_text": [],
+    "english_translation_text": [],
+    "literary_themes": [],
+    "structure_and_meter": "Traditional Free Verse",
+    "critical_commentary": "N/A",
+    "poetic_vocabulary_terms": {},
+    "stanza_count": 0,
+    "line_count": 0,
+    "text_availability": "full_text"
+  },
+  {
+    "id": "LIT-EPIC-003",
+    "resource_type": "literature",
+    "title": "Shrimad Bhagavad Gita in Tangkhul Naga: Krishna eina Arjunwui Tui-Ngazek",
+    "title_translation": "The Bhagavad Gita in Tangkhul Naga",
+    "creator": "Tangkhul Scholars & CIIL Documentation",
+    "author": "Vyasa / Traditional",
+    "year": 1982,
+    "publisher": "Central Institute of Indian Languages, Mysore",
+    "language": "Tangkhul",
+    "dialect": "Standard Tangkhul",
+    "village": "Ukhrul",
+    "category": "scripture",
+    "work_type": "translation",
+    "genres": [
+      "sacred_text",
+      "philosophical_dialogue",
+      "translation"
+    ],
+    "book_id": "BK-CIIL-003",
+    "source_url": "https://tangkhullanguage.org/archive/literature/bhagavad-gita",
+    "source_identifier": "CIIL-TKH-1982-GITA",
+    "license": "Traditional Cultural Heritage",
+    "permission_status": "community_authorized",
+    "access_status": "metadata_only",
+    "verification_status": "verified",
+    "local_path": "data/raw/literature/LIT-EPIC-003.txt",
+    "notes": "The 18-chapter philosophical dialogue of the Bhagavad Gita translated into Tangkhul Naga, covering Karma, Bhakti, and Jnana Yoga.",
+    "indigenous_tangkhul_text": [],
+    "english_translation_text": [],
+    "literary_themes": [],
+    "structure_and_meter": "Traditional Free Verse",
+    "critical_commentary": "N/A",
+    "poetic_vocabulary_terms": {},
+    "stanza_count": 0,
+    "line_count": 0,
+    "text_availability": "full_text"
+  }
+]

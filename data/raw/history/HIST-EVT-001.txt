@@ -1,0 +1,66 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: PETTIGREW'S ARRIVAL AND ESTABLISHMENT OF FIRST MISSION SCHOOL
+IDENTIFIER: HIST-EVT-001 | CATEGORY: HISTORICAL_EVENT
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Pettigrew's Arrival and Establishment of First Mission School
+  Title Translation:     Founding of First Formal School in Hunphun / Ukhrul
+  Historical Category:   historical_event
+  Event Date / Period:   February 1896 | Colonial Period (Late 19th Century)
+  Sort Year:             1896
+  Place / Settlement:    Ukhrul [Hunphun / Ukhrul]
+  Dialect / Variety:     Ukhrul / Hunphun
+  Key Figures / Creator: Rev. William Pettigrew & Hunphun Community
+  Publisher / Source:    Documented in Pettigrew 1918, Horam 1977, Hodson 1911
+  Source Identifier:     Pettigrew-1918-Intro
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Public Domain / Historical Documentation (public_domain)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Rev. William Pettigrew arrived in Ukhrul after being barred from the Imphal valley by the Political Agent. With permission from Hunphun Chief Raihao, he opened the first vernacular school, introducing Roman script literacy to the Tangkhuls.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1896 kumli Rev. William Pettigrew Hunphun ramli phungchan.
+  Awunga Raihao khangayina missionary-wui kakhanang ngashing-da shimlut sanga.
+  Kashukwui thotli kakasho shimsak khayipda paonao khare kakharang kakaso tuingashit hithada shitsangya.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  In February 1896, Rev. William Pettigrew arrived in Hunphun village (Ukhrul).
+  Chief Raihao of Hunphun graciously granted sanctuary and permission after the Political Agent barred mission work in the Imphal valley.
+  The first vernacular school was founded in Hunphun, marking the genesis of formal Roman-script literacy for the Tangkhul people.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. January 1894: William Pettigrew lands in India under the Arthington Aborigines Mission.
+  2. 1894–1895: Mission work halted in Imphal by Political Agent A. E. Porteous fearing religious friction in the valley.
+  3. February 1896: Pettigrew moves to Ukhrul hills; Hunphun Awunga Raihao grants land and residential protection.
+  4. 1896: Establishment of the first formal primary school with 12 local Tangkhul boys enrolled.
+  5. 1897: Pettigrew joins the American Baptist Foreign Mission Society (ABFMS) with headquarters in Ukhrul.
+
+KEY FIGURES & LEADERS:
+  Rev. William Pettigrew, Awunga Raihao (Chief of Hunphun), A. E. Porteous, First 12 Student Pioneers
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Hunphun / Ukhrul Ridge (Latitude 25.11° N, Longitude 94.36° E, Elevation 1,660 m)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Foundational turning point that introduced modern education, alphabetic writing, and medicine to the eastern Naga hills, permanently altering social and linguistic development.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Awunga                 : Hereditary village chief / sovereign leader
+  * Shimlut                : Hospitality / sanctuary granted to a guest in one's home or domain
+  * Kakaso                 : Instruction / formal education
+  * Paonao                 : Student / pupil in learning
+
+================================================================================
+END OF RECORD: HIST-EVT-001 - Tangkhul Language Library Digital Archive
+================================================================================

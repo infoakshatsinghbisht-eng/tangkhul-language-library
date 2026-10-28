@@ -1,0 +1,52 @@
+{
+  "id": "LIT-ANTH-006",
+  "resource_type": "literature",
+  "title": "Tangkhul Khararchan: Canonical Folktale Reader Vol. II",
+  "title_translation": "Anthology of Tangkhul Ancestral Folktales and Legends Vol. II",
+  "creator": "Kanrei Shaiza & Tangkhul Literature Society",
+  "author": "Kanrei Shaiza (Editor)",
+  "year": 1998,
+  "publisher": "Tangkhul Literature Society, Imphal / Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "literary_anthology",
+  "work_type": "literary_anthology",
+  "genres": [
+    "literary_anthology",
+    "folk_tale"
+  ],
+  "book_id": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1998-TKC2",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-ANTH-006.txt",
+  "notes": "Foundational canonical anthology of 30+ ancestral Tangkhul folktales, fables, and clan legends, widely used as a standard academic textbook.",
+  "indigenous_tangkhul_text": [
+    "Tangkhul Khararchan: Canonical Folktale Reader Vol. II hi Tangkhul Literature Society-na 1998-li kapi-kakhui kacham.\nAnthology hili kaphung-ramwui folk tales, animal fables, historical legends, kala moral parables 30 shoksang-da pamya.",
+    "Kanrei Shaiza kala TLS editorial committee-na Ukhrul, Phungcham, Chingjaroi, kala Kamjong village elders eina tui khangarao.\nKhararchan kachiphun eili dialectal vocabulary, archaic grammatical markers, kala customary proverbs preservation sakashung.\nReader hi high school kala college-wui curriculum-li canonical text thada Tangkhul youth-li tuitam chithei-pida.\nTangkhul oral literature preservation-li book hi seminal institutional achievement thada ngashan mirin kasak-kazatta."
+  ],
+  "english_translation_text": [
+    "Tangkhul Khararchan: Canonical Folktale Reader Vol. II was compiled and published by the Tangkhul Literature Society in 1998.\nThis volume anthologizes over 30 authentic folk narratives, animal fables, clan legends, and customary parables from across the region.\nCompiled under the editorship of Kanrei Shaiza and native scholars consulting elders across Phungcham, Chingjaroi, and Kamjong.\nEach narrative carefully documents dialectal terminology, archaic grammatical inflections, and contextual moral proverbs.\nAdopted as a foundational canonical textbook for secondary and collegiate education throughout Manipur's hill districts.\nThis publication represents a crowning institutional milestone in the systematic textual preservation of Tangkhul oral heritage."
+  ],
+  "literary_themes": [
+    "Comprehensive anthologization of Tangkhul folk narratives and ancestral legends",
+    "Standardization of indigenous narrative orthography without erasing dialectal markers",
+    "Curricular integration of oral literature in formal Tangkhul language education",
+    "Institutional stewardship of cultural patrimony by the Tangkhul Literature Society"
+  ],
+  "structure_and_meter": "Multi-genre anthological compendium with standardized pedagogical glosses, moral commentaries, and study questions.",
+  "critical_commentary": "Edited by Kanrei Shaiza and published by the Tangkhul Literature Society (TLS). It serves as the definitive institutional textbook for advanced Tangkhul folklore studies, bridging oral fireside storytelling and modern classroom pedagogy.",
+  "poetic_vocabulary_terms": {
+    "Tangkhul Khararchan": "The corpus of ancestral Tangkhul oral narratives, folktales, and legends",
+    "Kapi-kakhui": "To compile, transcribe, and edit into formal literary book format",
+    "Khangarao": "Oral consultation and fieldwork with village elders and lore custodians",
+    "Tuitam": "Curricular lessons / literary education in the mother tongue"
+  },
+  "stanza_count": 2,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

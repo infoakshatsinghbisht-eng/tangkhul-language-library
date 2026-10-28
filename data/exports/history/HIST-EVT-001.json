@@ -1,0 +1,54 @@
+{
+  "id": "HIST-EVT-001",
+  "resource_type": "history",
+  "title": "Pettigrew's Arrival and Establishment of First Mission School",
+  "title_translation": "Founding of First Formal School in Hunphun / Ukhrul",
+  "creator": "Rev. William Pettigrew & Hunphun Community",
+  "year": 1896,
+  "publisher": "Documented in Pettigrew 1918, Horam 1977, Hodson 1911",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul / Hunphun",
+  "village": "Hunphun / Ukhrul",
+  "place": "Ukhrul",
+  "category": "historical_event",
+  "event_date": "February 1896",
+  "period": "Colonial Period (Late 19th Century)",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Pettigrew-1918-Intro",
+  "license": "Public Domain / Historical Documentation",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-EVT-001.txt",
+  "verification_status": "verified",
+  "notes": "Rev. William Pettigrew arrived in Ukhrul after being barred from the Imphal valley by the Political Agent. With permission from Hunphun Chief Raihao, he opened the first vernacular school, introducing Roman script literacy to the Tangkhuls.",
+  "indigenous_tangkhul_chronicle": [
+    "1896 kumli Rev. William Pettigrew Hunphun ramli phungchan.",
+    "Awunga Raihao khangayina missionary-wui kakhanang ngashing-da shimlut sanga.",
+    "Kashukwui thotli kakasho shimsak khayipda paonao khare kakharang kakaso tuingashit hithada shitsangya."
+  ],
+  "english_translation_text": [
+    "In February 1896, Rev. William Pettigrew arrived in Hunphun village (Ukhrul).",
+    "Chief Raihao of Hunphun graciously granted sanctuary and permission after the Political Agent barred mission work in the Imphal valley.",
+    "The first vernacular school was founded in Hunphun, marking the genesis of formal Roman-script literacy for the Tangkhul people."
+  ],
+  "chronicle_milestones": [
+    "1. January 1894: William Pettigrew lands in India under the Arthington Aborigines Mission.",
+    "2. 1894–1895: Mission work halted in Imphal by Political Agent A. E. Porteous fearing religious friction in the valley.",
+    "3. February 1896: Pettigrew moves to Ukhrul hills; Hunphun Awunga Raihao grants land and residential protection.",
+    "4. 1896: Establishment of the first formal primary school with 12 local Tangkhul boys enrolled.",
+    "5. 1897: Pettigrew joins the American Baptist Foreign Mission Society (ABFMS) with headquarters in Ukhrul."
+  ],
+  "key_figures": [
+    "Rev. William Pettigrew",
+    "Awunga Raihao (Chief of Hunphun)",
+    "A. E. Porteous",
+    "First 12 Student Pioneers"
+  ],
+  "geographical_scope": "Hunphun / Ukhrul Ridge (Latitude 25.11° N, Longitude 94.36° E, Elevation 1,660 m)",
+  "historical_significance": "Foundational turning point that introduced modern education, alphabetic writing, and medicine to the eastern Naga hills, permanently altering social and linguistic development.",
+  "historical_terms": {
+    "Awunga": "Hereditary village chief / sovereign leader",
+    "Shimlut": "Hospitality / sanctuary granted to a guest in one's home or domain",
+    "Kakaso": "Instruction / formal education",
+    "Paonao": "Student / pupil in learning"
+  }
+}

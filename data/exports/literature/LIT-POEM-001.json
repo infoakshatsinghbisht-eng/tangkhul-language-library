@@ -1,0 +1,55 @@
+{
+  "id": "LIT-POEM-001",
+  "resource_type": "literature",
+  "title": "Ava Ram Leishat",
+  "title_translation": "Love of the Motherland",
+  "creator": "Luingam A. Shimray",
+  "author": "Luingam A. Shimray",
+  "year": 2000,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": "BK-TLS-007",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-007-P01",
+  "license": "Educational Curriculum",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-001.txt",
+  "notes": "Celebrated modern Tangkhul lyric poem praising the beauty, verdant ridges, and cultural spirit of the ancestral hills. Included in Class IX textbook Tangkhul Tuitam Kachiko.",
+  "indigenous_tangkhul_text": [
+    "I-ram Hunphun, I-ram Ukhrul, kaphung yarsho-wui shimlut kashak,",
+    "Varenana kapha rali ringsang-da, ngasot-mayarnao makhayipmana.",
+    "Ava Ram leishatna iwui ngalungli meikha thada meikhangao,",
+    "Thot kachivali nawui ming-kachon kaphung kachivali pakhang shitsangya."
+  ],
+  "english_translation_text": [
+    "My homeland Hunphun, my beloved Ukhrul, majestic citadel along the mountain crest,",
+    "Where the Creator poured forth bounties, and comrades dwell in unbroken fellowship.",
+    "Love of the Motherland burns like living fire within the deepest chambers of my soul,",
+    "Through all the ages, your honored name shall echo across every ancestral ridge."
+  ],
+  "literary_themes": [
+    "Patriotic devotion to the ancestral mountain homeland (*Ava Ram*)",
+    "Celebration of high altitude topography, verdant ridges, and pristine springs",
+    "Cultural continuity and inter-generational solidarity"
+  ],
+  "structure_and_meter": "Modern lyrical verse composed in regular four-line stanzas with heroic cadence and end-rhymes.",
+  "critical_commentary": "Authored by Luingam A. Shimray and anthologized in Class IX textbook Tangkhul Tuitam Kachiko (2000), this poem is one of the most widely recited anthems of Tangkhul identity.",
+  "poetic_vocabulary_terms": {
+    "Ava Ram": "Motherland / ancestral soil and territory",
+    "Leishat": "Sacred, patriotic, and protective love",
+    "Ming-Kachon": "Glorious fame and honored reputation",
+    "Ngasot": "Camaraderie and lifelong fellowship among clan youth"
+  },
+  "stanza_count": 4,
+  "line_count": 4,
+  "text_availability": "full_text"
+}

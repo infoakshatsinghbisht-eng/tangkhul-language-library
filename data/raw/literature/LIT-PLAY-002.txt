@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: MAITONPHI: A DRAMATIC ADAPTATION
+IDENTIFIER: LIT-PLAY-002 | GENRE: PLAY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Maitonphi: A Dramatic Adaptation
+  Title Translation:     Verse-Drama of Maitonphi and Shimreishang
+  Literary Genre / Type: play (play)
+  Author / Storyteller:  Tangkhul Literature Society
+  Publication Year:      1995
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TLS-1995-MP-PLAY
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Stage play adaptation of the northern Tangkhul tragic love narrative, structured in five acts preserving traditional dialogue and song interludes.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Act III: Maitonphi weaves the ceremonial Luirim cloth at her backstrap loom while singing an elegiac lament.
+  Shimreishang arrives at dusk, pledging undying devotion before departing on a perilous distant expedition.
+  The dramatic chorus echoes traditional folk song melodies (Pheichak Laa) commenting on fate's unyielding decree.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Act III: Maitonphi weaves the ceremonial Luirim shawl at her backstrap loom, singing a haunting song of longing.
+  Shimreishang arrives at dusk, declaring his eternal devotion before departing on a perilous frontier journey.
+  The chorus chants antiphonal folk refrains, reflecting on the inexorable tragedy of human destiny.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Theatrical dramatization of the 17th-century Phungcham tragic romance
+  * Integration of folk songs, weaving chants, and backstrap loom rhythms into stage performance
+  * Tension between clan duties and individual emotional devotion
+
+STRUCTURE & POETIC METER: Five-act verse drama with alternating spoken dialogue, choral antiphony, and lyrical monologues.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Adapted by the Tangkhul Dramatic Troupe and published by TLS in 1995, this play has been staged in community auditoriums across Ukhrul and Imphal to acclaim.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Luirim-Tak             : The rhythmic art of weaving the ceremonial shawl
+  * Kharashot-Laa          : Elegiac song of enduring longing and sorrow
+  * Yarsho                 : Mountain path taken by travelers and warriors
+  * Ning-Khamathan         : Pure and faithful devotion of the heart
+
+================================================================================
+END OF RECORD: LIT-PLAY-002 - Tangkhul Language Library Digital Archive
+================================================================================

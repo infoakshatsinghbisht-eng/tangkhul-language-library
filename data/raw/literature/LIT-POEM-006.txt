@@ -1,0 +1,72 @@
+================================================================================
+TANGKHUL LITERARY RECORD: ANGAYUNG
+IDENTIFIER: LIT-POEM-006 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Angayung
+  Title Translation:     Deep Roots: A Lyric Poetry Anthology
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  Iknguira L. Shimray
+  Publication Year:      2018
+  Publisher:             Hunphun Literary Circle, Ukhrul
+  Village / Dialect:     Hunphun [Hunphun / Standard Tangkhul]
+  Source Identifier:     ILS-2018-ANG
+  Source URL:            https://ukhrultimes.com/tangkhul-literature-poetry
+  Associated Book:       None
+  License & Clearance:   Author Permitted (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Contemporary lyric poem passionately advocating for the revitalization of archaic Tangkhul vocabulary and ancestral roots.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Angayung kacham thing-phangli ngalung khangachei maleimana,
+  Chiyan-chikaning va-chingkha ngashan ngaphar-kazatta.
+  Iramwui tuitam kakhurli shoksang-kakhui meingaláng,
+  Ning-ngalungwui meikha thada kachama leishat mayondatta.
+
+  Khararchar tui eina akhama ngala kaphara khangayei,
+  Arārana pamkakhung ngalei-li ngasam-phang-kazatta;
+  Tui khamatha hi kacham kacham phung-ngaleili karamtatta,
+  Angayung makhanganingli meingashan kachi leimana!
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  The deep roots beneath the ancient oak tree can never be shaken by the storm,
+  Through changing seasons and howling winds, they nourish the living branches.
+  From the deep wells of our ancestral mother tongue, new wisdom continuously springs,
+  Like glowing hearthside embers, true linguistic love burns bright and constant.
+
+  In ancestral idioms and melodic phrases, new generations find their voice,
+  Dwelling upon the selfsame highlands where the forebears walked of old;
+  These noble words shall echo across our mountain ridges without end,
+  For without deep roots, no tree can withstand the tests of time!
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Linguistic rootedness and language preservation (*Tui Angayung*)
+  * Metaphor of the mountain oak and deep roots surviving storms
+  * Intergenerational transmission of mother tongue idioms
+  * Archaic vocabulary as a living sanctuary of community soul
+
+STRUCTURE & POETIC METER: Modern lyrical verse in two eight-line stanzas with regular assonance and philosophical reflection.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Title poem from the acclaimed contemporary poetry collection *Angayung* by Hunphun educator and poet Iknguira L. Shimray. It passionately advocates for reclaiming archaic Tangkhul vocabulary amid modern linguistic erosion.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Angayung               : Deep foundational roots / ancestral linguistic origin
+  * Tuitam kakhur          : The deep wellspring / treasury of mother tongue words
+  * Meingaláng             : To shine forth, glow with warmth, illuminate
+  * Ngashan ngaphar        : To branch out gracefully, produce vibrant leaves and growth
+
+================================================================================
+END OF RECORD: LIT-POEM-006 - Tangkhul Language Library Digital Archive
+================================================================================

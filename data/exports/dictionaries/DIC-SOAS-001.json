@@ -1,0 +1,146 @@
+{
+  "id": "DIC-SOAS-001",
+  "resource_type": "dictionaries",
+  "title": "The Classification of the Naga Languages of North-East India (Tangkhul Comparative Lexicon)",
+  "title_translation": "Tangkhul Comparative Lexicon",
+  "creator": "G. E. Marrison",
+  "year": 1967,
+  "publisher": "School of Oriental and African Studies, University of London",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Ukhrul, Champhung, Maring",
+  "source_type": "wordlist",
+  "source_url": "https://eprints.soas.ac.uk/29168/",
+  "source_identifier": "SOAS-Marrison-1967",
+  "license": "Educational / Open Research",
+  "permission_status": "permitted",
+  "local_path": "data/raw/dictionaries/DIC-SOAS-001_marrison_1967.txt",
+  "verification_status": "verified",
+  "notes": "Landmark academic comparative phonological and lexical matrix classifying Tangkhul within the Tibeto-Burman language family. Open academic research access.",
+  "alternate_title": "Tangkhul Comparative Lexicon",
+  "background": "Researched by British comparative linguist Geoffrey E. Marrison at the School of Oriental and African Studies (SOAS), University of London, and submitted in 1967 as a doctoral thesis. Volume II contains exhaustive comparative lexical matrices mapping hundreds of basic core vocabulary items across all major Naga groups. Establishes the phonological and lexical affinities between Tangkhul, Champhung, Maring, and the central Tibeto-Burman branch.",
+  "phonology_notes": "Systematic phonemic notation based on IPA principles with proto-Naga comparisons and reflexes for initial consonants, vowels, and final nasals and stops (-k, -t, -p, -ng, -n, -m).",
+  "entries": [
+    {
+      "headword": "mik",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "eye",
+        "organ of vision"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 142",
+      "alternative_spellings": [],
+      "example": "Mik theikhavai (Perceiving with one's eyes)."
+    },
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mouth",
+        "speech",
+        "oral orifice"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 143",
+      "alternative_spellings": [],
+      "example": "Khamor tui (Spoken words of human discourse)."
+    },
+    {
+      "headword": "ha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tooth"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 145",
+      "alternative_spellings": [],
+      "example": "Ha kachang (Sound and strong teeth)."
+    },
+    {
+      "headword": "malei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tongue"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 146",
+      "alternative_spellings": [],
+      "example": "Malei kapaw (Tongue articulating spoken words)."
+    },
+    {
+      "headword": "khana",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ear",
+        "auditory organ"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 147",
+      "alternative_spellings": [],
+      "example": "Khana khulu (Attentive ears listening)."
+    },
+    {
+      "headword": "pang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "arm",
+        "hand"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 148",
+      "alternative_spellings": [],
+      "example": "Pang eina (Working with hands)."
+    },
+    {
+      "headword": "phei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "foot",
+        "lower extremity",
+        "leg"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 150",
+      "alternative_spellings": [],
+      "example": "Phei eina (Journeying on foot)."
+    },
+    {
+      "headword": "mei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "fire",
+        "hearth burning embers"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 152",
+      "alternative_spellings": [],
+      "example": "Mei katum (Kindling the village fire)."
+    },
+    {
+      "headword": "tara",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "water",
+        "liquid stream"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 154",
+      "alternative_spellings": [],
+      "example": "Tara chup (Drinking spring water)."
+    },
+    {
+      "headword": "ngalung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "stone",
+        "monolith",
+        "rock"
+      ],
+      "dialect": "Ukhrul, Champhung, Maring",
+      "page": "p. 156",
+      "alternative_spellings": [],
+      "example": "Ngalung kachui (A great erected stone monolith)."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "SNG-TRAD-003",
+  "resource_type": "songs",
+  "title": "Haola: Chumpha Laa",
+  "alternate_titles": [
+    "Chumpha Festival Song",
+    "Harvest Festival Chant"
+  ],
+  "title_translation": "Harvest Festival Chant",
+  "singer": "Traditional Community Chorus",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Tangkhul Literature Society",
+  "performers": [],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "festival",
+  "language": "Tangkhul",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-CHUMPHA-001",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Post-harvest celebration song sung during Chumpha Phanit when granaries are consecrated.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Chumpha phanitli shim mashak khare.",
+        "Luiwon kapha khangasham thotna.",
+        "Kongrei konglao wui ngaloong pamei."
+      ],
+      "lines_translation": [
+        "At the Chumpha harvest feast, granaries are blessed.",
+        "Reaping the abundance of the terrace fields.",
+        "Beside the flowing rivers and eternal stones."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Apuipui na mashak kaphung kashung.",
+        "Maha wui kashamli ringkapha mazaingasot.",
+        "Phanit wui tara kachom kaphana."
+      ],
+      "lines_translation": [
+        "The matriarchs open and consecrate the rich granaries.",
+        "Rejoicing in the fullness of gathered autumn crops.",
+        "Sharing the festive feast in community harmony."
+      ]
+    }
+  ]
+}

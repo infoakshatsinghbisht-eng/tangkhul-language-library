@@ -1,0 +1,97 @@
+{
+  "id": "CULT-PRAY-001",
+  "title": "Tangkhul Traditional Prayers & Invocations (Hai-kapha kala Seikha-kapha)",
+  "title_translation": "Comprehensive Compendium of Tangkhul Invocations, Blessing Prayers, and Sacred Chants",
+  "category": "ritual",
+  "subcategory": "prayers_and_invocations",
+  "creator": "Tangkhul Community Elders & Traditional Invocators",
+  "year": 1911,
+  "publisher": "Traditional Oral Heritage (Hodson 1911, Horam 1977, Pettigrew 1907)",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul (Ukhrul / Hunphun)",
+  "village": "Ukhrul / Hunphun",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/culture/CULT-PRAY-001_tangkhul_traditional_prayers.txt",
+  "notes": "Comprehensive documentation of traditional Tangkhul invocations (Hai-kapha) and blessing chants (Seikha-kapha) addressed to the Supreme Creator (Varivara), mountain spirits, hearth dedication, agricultural blessings, and ancestral spirits.",
+  "prayer_sections": [
+    {
+      "section_id": "PRAY-01",
+      "section_title": "Varivara-li Hai-kapha: Invocations to the Supreme Creator",
+      "ritual_context": "Solemn dawn invocations addressed to the Creator of heaven and earth during village convocations.",
+      "prayers": [
+        {
+          "prayer_name": "Kazing kala Ngalei Kasa Akhavara (Sovereign of Heaven and Earth)",
+          "tangkhul": "Varivara, kazing kala ngalei kasa akhavara! Iram Hunphun kala Tangkhul ngaleili kapha eina leishat kachung khami. Macham-matai, kazingwui ringkapha kala ngaleiwui kachon shim kachivali shung-ngasak-lu.",
+          "english": "O Varivara, Sovereign Creator of heaven and earth! Bestow goodness and overflowing love upon Hunphun and all Tangkhul lands. Let the peace of heaven and the fruitfulness of the earth fill every home.",
+          "hindi": "हे वरिवरा, स्वर्ग और पृथ्वी के सृष्टिकर्ता परमेश्वर! हमारे हुंफुन गांव और संपूर्ण तंगखुल भूमि पर अपनी भलाई और असीम अनुग्रह बरसाएं। हर घर को स्वर्गीय शांति और पृथ्वी की उर्वरता से परिपूर्ण करें।"
+        },
+        {
+          "prayer_name": "Ringkaphawui Ning-Ngazek (Petition for Life, Health, and Unity)",
+          "tangkhul": "Iramwui mayar-shanao kachivali kapha kakhanganuina ninglum-hai-lu; kacham-kahao maningda, maram-matai eina ngachee kachiva machik-hai-lu.",
+          "english": "Endow all the sons and daughters of our land with righteous discernment and upright character; banish famine and poverty, and protect us from every calamity.",
+          "hindi": "हमारी भूमि के सभी पुत्र-पुत्रियों को धार्मिक विवेक और सदाचार से सुशोभित करें; अकाल व दरिद्रता को दूर रखें और हर विपत्ति से हमारी रक्षा करें।"
+        }
+      ]
+    },
+    {
+      "section_id": "PRAY-02",
+      "section_title": "Luira Shimlut-wui Seikha: Agrarian Sowing & Harvest Invocations",
+      "ritual_context": "Chanted at dawn by the Awunga (chief) turning the first sod of earth during Luira Phanit.",
+      "prayers": [
+        {
+          "prayer_name": "Shimlut Kaphung Invocatory Chant (First Seed Blessing)",
+          "tangkhul": "Tara-kong kala kaphung ngalemwui makhangai ngachaili, kachang kathara eina phung-kasa oira. Kachim-kasa mayar-shanao mashung-ngasak-lu; changva kachon kachivali mathala kaza samphang-ngasak-lu.",
+          "english": "By the quiet mountain streams and along terraced slopes, let the newly sown seeds take deep root in fertile earth. Bless the labor of men and women; may every sheaf harvested bring joyful sustenance.",
+          "hindi": "पर्वतीय जलधाराओं और ढलानों पर बोए गए नए बीजों को उपजाऊ धरती में गहराई से फलने-फूलने का आशीर्वाद दें। सभी पुरुषों और महिलाओं के श्रम को सफल करें; हर बाली प्रचुर अन्न और सुख प्रदान करे।"
+        },
+        {
+          "prayer_name": "Chumpha Granary Consecration Prayer",
+          "tangkhul": "Chumkhur hili kashung tara-chang, kacham kashiman malailaka; shanao mibingwui pāng eina phung-kasa za-machit mashung-ngasak-lu.",
+          "english": "May the grain stored in this sacred granary endure through every season, banishing all want; through the blessed hands of women custodians, let our sustenance never fail.",
+          "hindi": "इस पवित्र अन्न भंडार में संचित अनाज हर ऋतु में बना रहे और हर अभाव को दूर करे; अन्न की संरक्षिका मातृशक्ति के हाथों से हमारी संपन्नता कभी कम न हो।"
+        }
+      ]
+    },
+    {
+      "section_id": "PRAY-03",
+      "section_title": "Shimsa kala Meiphung Invocations: Hearth & Domestic Protection",
+      "ritual_context": "Chanted during the dedication of a newly built house when kindling the sacred hearth fire.",
+      "prayers": [
+        {
+          "prayer_name": "Meiphung Kathara Consecration (Sacred Hearth Flame)",
+          "tangkhul": "Meiphung kathara hili mei-ngatai eina ngachee kachiva machik-hai-lu. Shimwui naonao kala marva ningcha-ngachan eina khararchan wui tui kathara thotkakhui mashung-ngasak-lu.",
+          "english": "Around this consecrated hearth, kindle the sacred fire to dispel darkness, sickness, and strife. May the children and elders of this household dwell in unity and pass down ancestral virtues across generations.",
+          "hindi": "इस पवित्र चूल्हे पर प्रज्वलित अग्नि समस्त अंधकार, व्याधि और कलह को दूर करे। इस घर के बच्चे और वृद्धजन एकता में रहें और पूर्वजों के संस्कारों को पीढ़ी-दर-पीढ़ी आगे बढ़ाएं।"
+        }
+      ]
+    },
+    {
+      "section_id": "PRAY-04",
+      "section_title": "Khayang Shongfa Hai-kapha: Mountain Wilderness & Wayfarer Blessing",
+      "ritual_context": "Uttered before undertaking mountain expeditions, hunting journeys, or cross-valley trade.",
+      "prayers": [
+        {
+          "prayer_name": "Shongfa Makhangai Prayer (Safe Passage Across Mountain Ridges)",
+          "tangkhul": "Kaphung kachang, kongrei kala thang-khala shongfali yaokhayei eina kacham-kahao maning-ngasak-lu. Awungana iram-iramli macham kashap samphang-ngasak-lu.",
+          "english": "Across high mountain ridges, turbulent torrents, and wilderness trails, grant sure footing and keep all danger afar. May the traveler return home bearing peace and honor.",
+          "hindi": "ऊंचे पर्वतों, उफनती नदियों और बीहड़ वन्य मार्गों पर हमारे कदमों को स्थिरता दें और सभी विपत्तियों से रक्षा करें। यात्री कुशलतापूर्वक शांति और सम्मान के साथ घर लौटें।"
+        }
+      ]
+    },
+    {
+      "section_id": "PRAY-05",
+      "section_title": "Thisham Kasa Akhava Hai-kapha: Ancestral Memorial Chants",
+      "ritual_context": "Chanted by village elders lighting pine-splint torches during Thisham Phanit (Feast of Departing Souls).",
+      "prayers": [
+        {
+          "prayer_name": "Kasa Akhava Chanted Requiem (Farewell to Departed Ancestors)",
+          "tangkhul": "Kasa Akhava kaphungli va-kahai araza, meira kaphit hieina shongfa theingasak-lu. Ningkacham eina mangachon-hai-lu; ringphawui ramli mashungda leisang-lu.",
+          "english": "O revered departed ancestors journeying toward Kasa Akhava (the ancestral spirit realm), let these flaming pine torches illuminate your path. Rest in tranquil grace; enter the eternal land of blessed peace.",
+          "hindi": "हे पूर्वजों की आत्माओं, कासा अखावा (परम लोक) की यात्रा पर इन पाइन की मशालों के उजाले में अपना मार्ग प्रशस्त करें। दिव्य शांति में विश्राम करें और शाश्वत सुख के धाम में प्रवेश करें।"
+        }
+      ]
+    }
+  ]
+}

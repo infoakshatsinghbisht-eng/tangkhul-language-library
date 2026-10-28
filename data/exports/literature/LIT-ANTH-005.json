@@ -1,0 +1,56 @@
+{
+  "id": "LIT-ANTH-005",
+  "resource_type": "literature",
+  "title": "Wordham Tuitam Kakhane",
+  "title_translation": "Higher Secondary Tangkhul Literature Reader, Part II",
+  "creator": "Tangkhul Literature Society Editorial Board",
+  "author": "Tangkhul Literature Society",
+  "year": 2021,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "literary_anthology",
+  "work_type": "literary_anthology",
+  "genres": [
+    "literary_anthology",
+    "short_story",
+    "poem",
+    "essay"
+  ],
+  "book_id": "BK-TLS-012",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "BVP-TB-TKH-012",
+  "license": "Educational Textbook",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-ANTH-005.txt",
+  "notes": "Council of Higher Secondary Education Manipur (COHSEM) Class XII literature textbook featuring mature Tangkhul creative writing, social philosophy essays, and literary criticism.",
+  "indigenous_tangkhul_text": [
+    "Wordham Tuitam Kakhane Class XII final higher secondary literature textbook-li peak intellectual achievements curate sakya.",
+    "Visionary poetry (Ngashan Kathara), drama criticism, epic folklore analysis, kala advanced stylistic essays sanga.",
+    "Collegiate level linguistic research kala creative authorship-wui solid foundation lay sakya."
+  ],
+  "english_translation_text": [
+    "Wordham Tuitam Kakhane is the pinnacle Class XII higher secondary literature textbook under COHSEM.",
+    "Featuring visionary modernist poetry, drama criticism, analysis of oral epics, and advanced stylistic essays.",
+    "It establishes a solid foundation for university research in Tibeto-Burman linguistics and indigenous creative writing."
+  ],
+  "literary_themes": [
+    "The pinnacle of high school mother-tongue education",
+    "Modernist poetry, tribal identity, and political consciousness",
+    "Literary theory applied to indigenous oral traditions"
+  ],
+  "structure_and_meter": "University-preparatory anthology featuring complex literary essays, stylistic critiques, and creative composition guides.",
+  "critical_commentary": "Published in 2021, this volume represents the highest official level of school literature education in the Tangkhul language.",
+  "poetic_vocabulary_terms": {
+    "Tuitam Kakhane": "Advanced second-year higher secondary reader",
+    "Ngashan Kathara": "The new dawn of intellectual and creative awakening",
+    "Lairik-Otshak": "Literary scholarship and published creative work",
+    "Kashuk-Wung": "Attainment of high literary mastery"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

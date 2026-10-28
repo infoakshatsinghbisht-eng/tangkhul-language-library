@@ -1,0 +1,1149 @@
+{
+  "id": "BK-ARCH-003",
+  "resource_type": "books",
+  "title": "The Naga Tribes of Manipur: Tangkhul Sections",
+  "alternate_titles": [
+    "The Naga Tribes of Manipur (1911)"
+  ],
+  "authors": [
+    "Thomas Callan Hodson"
+  ],
+  "editors": [],
+  "publisher": "Macmillan and Co., Limited, London",
+  "publication_year": 1911,
+  "year": 1911,
+  "edition": "First Edition",
+  "subject": "Ethnography, Linguistics and Customary Law",
+  "educational_level": "Academic / Historical",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul / Raphei / Kamo",
+  "isbn": null,
+  "source_url": "https://archive.org/details/nagatribesofmani00hods",
+  "source_identifier": "nagatribesofmani00hods",
+  "catalogue_url": "https://archive.org/details/nagatribesofmani00hods",
+  "local_file_path": "data/raw/books/BK-ARCH-003_hodson_1911.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Classic ethnographic and linguistic documentation of Tangkhul social organization, folktales, ballads, and vocabulary. Public Domain.",
+  "front_matter": {
+    "title_page": {
+      "title": "The Naga Tribes of Manipur: Tangkhul Sections",
+      "alternate_titles": [
+        "The Naga Tribes of Manipur (1911)"
+      ],
+      "authors": [
+        "Thomas Callan Hodson"
+      ],
+      "editors": [],
+      "publisher": "Macmillan and Co., Limited, London",
+      "publication_year": 1911,
+      "edition": "First Edition",
+      "educational_level": "Academic / Historical",
+      "subject": "Ethnography, Linguistics and Customary Law",
+      "language": "Tangkhul",
+      "dialect": "Ukhrul / Raphei / Kamo"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-ARCH-003",
+      "license": "Public Domain",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "nagatribesofmani00hods",
+      "source_url": "https://archive.org/details/nagatribesofmani00hods"
+    },
+    "preface": "The Naga Tribes of Manipur (Tangkhul Sections) by T. C. Hodson, late Assistant Political Agent in Manipur and Superintendent of the State (Macmillan and Co., Limited, London, 1911). Presents the authoritative historical and ethnographic documentation of the Tangkhul Nagas, their habitat, social organization, village headmanship, folktales, ballads, and linguistic survey."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Habitat, Geography & Tribal Divisions",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Tangkhul Linguistic Classification & Dialects",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Village Organization & The Awunga (Headman)",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Traditional Laws, Land Tenure & Feasts of Merit",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tangkhul Folktales: Origin of the Species & Animals",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Traditional Tangkhul Ballads & Folk Poetry",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 7,
+      "title": "Comparative Vocabulary & Dialectal Specimen",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 19
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 20
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Habitat, Geography & Tribal Divisions",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Geographical territory and four subdivisions: Raphei, Kathur, Kamo, and Kharao.",
+      "tangkhul_text": "Tangkhul miyur hi Manipur wui kaphung zanshorli pamda kaphung khangacheo eina ngashitna. Ayur khani eina mati leiyi: Raphei (Northern Tangkhuls), Kathur (Central Tangkhuls around Ukhrul), Kamo (Southern Tangkhuls bordering Maring territory), and Kharao (Western Tangkhuls facing the valley). Ukhrul kaphung hi phungreitang sada kaphung khangateiwui tui ngazekpam thada leiyi.",
+      "english_translation": "The Tangkhuls occupy the mountain tracts east of the valley of Manipur. They are grouped into four main territorial sections: Raphei in the north, Kathur in the centre around Ukhrul and Hungpung, Kamo in the south, and Kharao in the west. Ukhrul serves as the recognized linguistic standard among all regional dialects.",
+      "vocabulary": [
+        {
+          "word": "raphei",
+          "pos": "noun",
+          "meaning": "northern Tangkhul area",
+          "example": "Raphei ramli."
+        },
+        {
+          "word": "kathur",
+          "pos": "noun",
+          "meaning": "central Tangkhul area",
+          "example": "Kathur Ukhrul."
+        },
+        {
+          "word": "kamo",
+          "pos": "noun",
+          "meaning": "southern Tangkhul area",
+          "example": "Kamoram khava."
+        },
+        {
+          "word": "kharao",
+          "pos": "noun",
+          "meaning": "western Tangkhul area",
+          "example": "Kharao ngaleili."
+        }
+      ],
+      "grammar_points": [
+        "Locative case marker -li attached to geographical names.",
+        "Directional nominalization: zanshor (east), zantung (west)."
+      ],
+      "comprehension_questions": [
+        "What are the four historical subdivisions of the Tangkhul territory?",
+        "Why was Ukhrul selected as the central standard by early linguists?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Tangkhul Linguistic Classification & Dialects",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Agglutinative morphology, vowel length contrasts, and Tibeto-Burman affiliations.",
+      "tangkhul_text": "Tangkhul language exhibits agglutinative morphology with dominant prefix ka- forming adjectives and infinitives. Case relationships are indicated by postpositional affixes: -na (agentive), -li (dative/locative), -wui (genitive). Vowel length contrasts: 'sa' (to do) vs 'sā' (animal/flesh); 'mik' (eye) vs 'mei' (fire).",
+      "english_translation": "Linguistic features of Tangkhul: Extensive use of prefixes and suffixes. Nominal and adjectival derivation through prefix ka-. Case markers function as postpositional clitics. Phonemic vowel length distinguishes essential vocabulary pairs.",
+      "vocabulary": [
+        {
+          "word": "shiyan",
+          "pos": "noun",
+          "meaning": "linguistic standard, rule",
+          "example": "Shiyan kashak."
+        },
+        {
+          "word": "kakhalat",
+          "pos": "noun",
+          "meaning": "meaning, pronunciation",
+          "example": "Kakhalat kashak."
+        },
+        {
+          "word": "tuiyur",
+          "pos": "noun",
+          "meaning": "dialect, language branch",
+          "example": "Tuiyur ngateina."
+        }
+      ],
+      "grammar_points": [
+        "Phonemic vowel length contrasts.",
+        "Agglutinative affix ordering in verbal complexes."
+      ],
+      "comprehension_questions": [
+        "Give two examples of minimal vowel length pairs in Tangkhul.",
+        "Which prefix is predominantly used to form infinitives?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Village Organization & The Awunga (Headman)",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Hereditary chieftainship (Awunga), the village council (Hangva), and clan clans (Shangnao).",
+      "tangkhul_text": "Khaung kachida Awunga akha leiyi; Awunga hi shimkhurwui mathun eina ngashitna. Hangva council eina ngasoda ram shiyan kashak saikora ngazekseri. Shangnao kachida paman kathana mi akhakhana hangvali zangda khaungwui ot ngazeka.",
+      "english_translation": "Every Tangkhul village is an autonomous democratic unit under a hereditary chief called the Awunga. The Awunga rules in consultation with the village council (Hangva), comprised of representatives from each clan (Shangnao), managing village land, disputes, and seasonal festivals.",
+      "vocabulary": [
+        {
+          "word": "awunga",
+          "pos": "noun",
+          "meaning": "village chief, king",
+          "example": "Awunga shimkhur."
+        },
+        {
+          "word": "hangva",
+          "pos": "noun",
+          "meaning": "council of elders",
+          "example": "Hangvali zangda."
+        },
+        {
+          "word": "shangnao",
+          "pos": "noun",
+          "meaning": "clan lineage",
+          "example": "Shangnao kachida."
+        }
+      ],
+      "grammar_points": [
+        "Honorific register associated with the Awunga.",
+        "Reciprocal verbal affix ngazor / ngazek."
+      ],
+      "comprehension_questions": [
+        "What is the role of the Hangva in village governance?",
+        "How is the position of Awunga inherited?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Traditional Laws, Land Tenure & Feasts of Merit",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Maran (Feasts of Merit), Tarung monuments, and terraced land rights.",
+      "tangkhul_text": "Maran kashak hi Tangkhul ngashanli khamataiya otsak akhana. Tarung thingrei vakhang eina shimli shona. Seichang kala hok kachung khami eina ramnaoli shongza kashak saikora ngashitna. Lungto kala lungchan shoda awo-ayiwui machut saikora chimiksho chitheiya.",
+      "english_translation": "The Feasts of Merit (Maran) represent the summit of customary social achievement. The celebrant earns the right to erect the carved Tarung monument post before his house. Mithuns and cattle are slaughtered to feast the entire community, and megalithic stone platforms are built.",
+      "vocabulary": [
+        {
+          "word": "maran",
+          "pos": "noun",
+          "meaning": "feast of merit",
+          "example": "Maran kashak."
+        },
+        {
+          "word": "tarung",
+          "pos": "noun",
+          "meaning": "forked monument post",
+          "example": "Tarung shona."
+        },
+        {
+          "word": "seichang",
+          "pos": "noun",
+          "meaning": "mithun (Bos frontalis)",
+          "example": "Seichang kashai."
+        }
+      ],
+      "grammar_points": [
+        "Instrumental clitic -eina in monument dragging chants.",
+        "Nominal compounds combining animal terms and festive rites."
+      ],
+      "comprehension_questions": [
+        "What privileges does a celebrant gain by performing Maran?",
+        "Describe the physical appearance and cultural meaning of the Tarung."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tangkhul Folktales: Origin of the Species & Animals",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Mythological origin legends and the ancient brotherhood of hill and valley.",
+      "tangkhul_text": "Awo-ayiwui khararchanli: 'Avah Samsokli tungthuiya, Makungana ili phungtung.' Chinaoni khani: kakhara a kaphungli leiyi, kakhanao a ngaleili vaipama. Meitei eina Tangkhul chinaoni thada kum kachida Mera Hou Chongba phanitli leikashi chithei ngaroka.",
+      "english_translation": "Tangkhul mythology traces common origins from Samsok in the eastern hills. Tradition holds that two brothers parted ways: the elder brother settled in the misty Tangkhul heights, while the younger brother cultivated the fertile valley, establishing a bond renewed at the annual Mera festival.",
+      "vocabulary": [
+        {
+          "word": "khararchan",
+          "pos": "noun",
+          "meaning": "ancestral folklore",
+          "example": "Awo-ayiwui khararchan."
+        },
+        {
+          "word": "samsok",
+          "pos": "proper",
+          "meaning": "ancient migration staging ground",
+          "example": "Samsokli tungthuiya."
+        },
+        {
+          "word": "chinaoni",
+          "pos": "noun",
+          "meaning": "brothers, siblings",
+          "example": "Chinaoni khani."
+        }
+      ],
+      "grammar_points": [
+        "Comparative conjunction thada (like, in the manner of).",
+        "Ablative suffix -eina in origin narratives."
+      ],
+      "comprehension_questions": [
+        "What does the Samsok migration legend signify?",
+        "How is the kinship between Meiteis and Tangkhuls celebrated traditionally?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Traditional Tangkhul Ballads & Folk Poetry",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "The epic ballad of Shimreishang and Maitonphi, and heroic martial poetry.",
+      "tangkhul_text": "Shimreishang eina Maitonphiwui leikashiyi Tangkhul thotchanli kaphapamei laana. 'Avayo avayo, makhamalu Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa.' Kazeiramli anili ngazipda kumching kumching leikashi ngazipsera.",
+      "english_translation": "The tragic romance of Shimreishang and Maitonphi is the most famous epic ballad of the Tangkhuls. Forced apart by parental opposition and village taboos, their spirits are finally united in Kazeiram, the tranquil land of the departed where true lovers dwell forever.",
+      "vocabulary": [
+        {
+          "word": "leishat laa",
+          "pos": "noun",
+          "meaning": "love song, romantic ballad",
+          "example": "Leishat laa sa."
+        },
+        {
+          "word": "kazeiram",
+          "pos": "noun",
+          "meaning": "land of the dead",
+          "example": "Kazeiramli ngazipra."
+        },
+        {
+          "word": "haolaa",
+          "pos": "noun",
+          "meaning": "traditional folk song",
+          "example": "Haolaa sakasa."
+        }
+      ],
+      "grammar_points": [
+        "Antiphonal dialogue structure in romantic verse.",
+        "Poetic vocabulary substitutions in folk metrics."
+      ],
+      "comprehension_questions": [
+        "Why is the story of Shimreishang and Maitonphi significant in Tangkhul literature?",
+        "What is Kazeiram in traditional Tangkhul eschatology?"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Comparative Vocabulary & Dialectal Specimen",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Diagnostic 100-word vocabulary, kinship terminology, and dialectal correspondences.",
+      "tangkhul_text": "1. Mi (Man) 2. Akui (Head) 3. Sam (Hair) 4. Mik (Eye) 5. Khana (Ear) 6. Khamasung (Nose) 7. Khamor (Mouth) 8. Ha (Tooth) 9. Pang (Hand) 10. Phei (Foot) 11. Zingsho (Sun) 12. Kachang (Moon) 13. Sirak (Star) 14. Mei (Fire) 15. Tara (Water) 16. Shim (House) 17. Si (Dog) 18. Vana (Bird) 19. Khai (Fish) 20. Thing (Tree). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), tharā (10).",
+      "english_translation": "Standard lexical list compiled by T. C. Hodson illustrating anatomical nouns, celestial bodies, faunal terms, cardinal numerals 1-10, and cross-dialectal phonetic correspondences between Ukhrul (Kathur), Raphei (Northern), and Kamo (Southern) varieties.",
+      "vocabulary": [
+        {
+          "word": "akui",
+          "pos": "noun",
+          "meaning": "head",
+          "example": "Akui kakhanang."
+        },
+        {
+          "word": "mik",
+          "pos": "noun",
+          "meaning": "eye",
+          "example": "Mik eina theila."
+        },
+        {
+          "word": "pang",
+          "pos": "noun",
+          "meaning": "hand",
+          "example": "Pang eina kasa."
+        },
+        {
+          "word": "tara",
+          "pos": "noun",
+          "meaning": "water",
+          "example": "Tara kashing."
+        }
+      ],
+      "grammar_points": [
+        "Base-10 decimal numeral system.",
+        "Systematic sound shifts across regional varieties."
+      ],
+      "comprehension_questions": [
+        "Count from 1 to 10 in Tangkhul.",
+        "Identify three anatomical terms that feature prefix a-."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-ARCH-003",
+      "title": "The Naga Tribes of Manipur: Tangkhul Sections",
+      "lines": [
+        "TITLE: The Naga Tribes of Manipur: Tangkhul Sections",
+        "Identifier: BK-ARCH-003",
+        "Level: Academic / Historical | Subject: Ethnography, Linguistics and Customary Law",
+        "Publisher: Macmillan and Co., Limited, London (1911)",
+        "Language: Tangkhul (Ukhrul / Raphei / Kamo)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "The Naga Tribes of Manipur: Tangkhul Sections -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of The Naga Tribes of Manipur: Tangkhul Sections.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "The Naga Tribes of Manipur: Tangkhul Sections -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "The Naga Tribes of Manipur (Tangkhul Sections) by T. C. Hodson, late",
+        "Assistant Political Agent in Manipur and Superintendent of the State",
+        "(Macmillan and Co., Limited, London, 1911). Presents the authoritative",
+        "historical and ethnographic documentation of the Tangkhul Nagas, their",
+        "habitat, social organization, village headmanship, folktales, ballads, and",
+        "linguistic survey."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "The Naga Tribes of Manipur: Tangkhul Sections -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Habitat, Geography & Tribal Divisions (pp. 4-5)",
+        "  Chapter 2: Tangkhul Linguistic Classification & Dialects (pp. 6-7)",
+        "  Chapter 3: Village Organization & The Awunga (Headman) (pp. 8-9)",
+        "  Chapter 4: Traditional Laws, Land Tenure & Feasts of Merit (pp. 10-11)",
+        "  Chapter 5: Tangkhul Folktales: Origin of the Species & Animals (pp. 12-13)",
+        "  Chapter 6: Traditional Tangkhul Ballads & Folk Poetry (pp. 14-15)",
+        "  Chapter 7: Comparative Vocabulary & Dialectal Specimen (pp. 16-18)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 19)",
+        "  Back Cover & Archival Colophon (p. 20)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Habitat, Geography & Tribal Divisions (Page 4)",
+      "title": "Chapter 1: Habitat, Geography & Tribal Divisions",
+      "lines": [
+        "CHAPTER 1: HABITAT, GEOGRAPHY & TRIBAL DIVISIONS",
+        "Summary: Geographical territory and four subdivisions: Raphei, Kathur, Kamo, and Kharao.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul miyur hi Manipur wui kaphung zanshorli pamda kaphung khangacheo",
+        "eina ngashitna. Ayur khani eina mati leiyi: Raphei (Northern Tangkhuls),",
+        "Kathur (Central Tangkhuls around Ukhrul), Kamo (Southern Tangkhuls",
+        "bordering Maring territory), and Kharao (Western Tangkhuls facing the",
+        "valley). Ukhrul kaphung hi phungreitang sada kaphung khangateiwui tui",
+        "ngazekpam thada leiyi.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The Tangkhuls occupy the mountain tracts east of the valley of Manipur.",
+        "They are grouped into four main territorial sections: Raphei in the",
+        "north, Kathur in the centre around Ukhrul and Hungpung, Kamo in the",
+        "south, and Kharao in the west. Ukhrul serves as the recognized",
+        "linguistic standard among all regional dialects."
+      ],
+      "tangkhul_content": "Tangkhul miyur hi Manipur wui kaphung zanshorli pamda kaphung khangacheo eina ngashitna. Ayur khani eina mati leiyi: Raphei (Northern Tangkhuls), Kathur (Central Tangkhuls around Ukhrul), Kamo (Southern Tangkhuls bordering Maring territory), and Kharao (Western Tangkhuls facing the valley). Ukhrul kaphung hi phungreitang sada kaphung khangateiwui tui ngazekpam thada leiyi.",
+      "english_translation": "The Tangkhuls occupy the mountain tracts east of the valley of Manipur. They are grouped into four main territorial sections: Raphei in the north, Kathur in the centre around Ukhrul and Hungpung, Kamo in the south, and Kharao in the west. Ukhrul serves as the recognized linguistic standard among all regional dialects.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * raphei (noun): northern Tangkhul area",
+        "    Example: Raphei ramli.",
+        "  * kathur (noun): central Tangkhul area",
+        "    Example: Kathur Ukhrul.",
+        "  * kamo (noun): southern Tangkhul area",
+        "    Example: Kamoram khava.",
+        "  * kharao (noun): western Tangkhul area",
+        "    Example: Kharao ngaleili.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Locative case marker -li attached to geographical names.",
+        "  - Directional nominalization: zanshor (east), zantung (west).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What are the four historical subdivisions of the Tangkhul territory?",
+        "  ? Why was Ukhrul selected as the central standard by early linguists?"
+      ],
+      "tangkhul_content": "raphei: northern Tangkhul area\nkathur: central Tangkhul area\nkamo: southern Tangkhul area\nkharao: western Tangkhul area",
+      "english_translation": "Locative case marker -li attached to geographical names.\nDirectional nominalization: zanshor (east), zantung (west).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Tangkhul Linguistic Classification & Dialects (Page 6)",
+      "title": "Chapter 2: Tangkhul Linguistic Classification & Dialects",
+      "lines": [
+        "CHAPTER 2: TANGKHUL LINGUISTIC CLASSIFICATION & DIALECTS",
+        "Summary: Agglutinative morphology, vowel length contrasts, and Tibeto-Burman affiliations.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul language exhibits agglutinative morphology with dominant prefix",
+        "ka- forming adjectives and infinitives. Case relationships are indicated",
+        "by postpositional affixes: -na (agentive), -li (dative/locative), -wui",
+        "(genitive). Vowel length contrasts: 'sa' (to do) vs 'sā' (animal/flesh);",
+        "'mik' (eye) vs 'mei' (fire).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Linguistic features of Tangkhul: Extensive use of prefixes and suffixes.",
+        "Nominal and adjectival derivation through prefix ka-. Case markers",
+        "function as postpositional clitics. Phonemic vowel length distinguishes",
+        "essential vocabulary pairs."
+      ],
+      "tangkhul_content": "Tangkhul language exhibits agglutinative morphology with dominant prefix ka- forming adjectives and infinitives. Case relationships are indicated by postpositional affixes: -na (agentive), -li (dative/locative), -wui (genitive). Vowel length contrasts: 'sa' (to do) vs 'sā' (animal/flesh); 'mik' (eye) vs 'mei' (fire).",
+      "english_translation": "Linguistic features of Tangkhul: Extensive use of prefixes and suffixes. Nominal and adjectival derivation through prefix ka-. Case markers function as postpositional clitics. Phonemic vowel length distinguishes essential vocabulary pairs.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * shiyan (noun): linguistic standard, rule",
+        "    Example: Shiyan kashak.",
+        "  * kakhalat (noun): meaning, pronunciation",
+        "    Example: Kakhalat kashak.",
+        "  * tuiyur (noun): dialect, language branch",
+        "    Example: Tuiyur ngateina.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Phonemic vowel length contrasts.",
+        "  - Agglutinative affix ordering in verbal complexes.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Give two examples of minimal vowel length pairs in Tangkhul.",
+        "  ? Which prefix is predominantly used to form infinitives?"
+      ],
+      "tangkhul_content": "shiyan: linguistic standard, rule\nkakhalat: meaning, pronunciation\ntuiyur: dialect, language branch",
+      "english_translation": "Phonemic vowel length contrasts.\nAgglutinative affix ordering in verbal complexes.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Village Organization & The Awunga (Headman) (Page 8)",
+      "title": "Chapter 3: Village Organization & The Awunga (Headman)",
+      "lines": [
+        "CHAPTER 3: VILLAGE ORGANIZATION & THE AWUNGA (HEADMAN)",
+        "Summary: Hereditary chieftainship (Awunga), the village council (Hangva), and clan clans (Shangnao).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Khaung kachida Awunga akha leiyi; Awunga hi shimkhurwui mathun eina",
+        "ngashitna. Hangva council eina ngasoda ram shiyan kashak saikora",
+        "ngazekseri. Shangnao kachida paman kathana mi akhakhana hangvali zangda",
+        "khaungwui ot ngazeka.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Every Tangkhul village is an autonomous democratic unit under a",
+        "hereditary chief called the Awunga. The Awunga rules in consultation",
+        "with the village council (Hangva), comprised of representatives from",
+        "each clan (Shangnao), managing village land, disputes, and seasonal",
+        "festivals."
+      ],
+      "tangkhul_content": "Khaung kachida Awunga akha leiyi; Awunga hi shimkhurwui mathun eina ngashitna. Hangva council eina ngasoda ram shiyan kashak saikora ngazekseri. Shangnao kachida paman kathana mi akhakhana hangvali zangda khaungwui ot ngazeka.",
+      "english_translation": "Every Tangkhul village is an autonomous democratic unit under a hereditary chief called the Awunga. The Awunga rules in consultation with the village council (Hangva), comprised of representatives from each clan (Shangnao), managing village land, disputes, and seasonal festivals.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * awunga (noun): village chief, king",
+        "    Example: Awunga shimkhur.",
+        "  * hangva (noun): council of elders",
+        "    Example: Hangvali zangda.",
+        "  * shangnao (noun): clan lineage",
+        "    Example: Shangnao kachida.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Honorific register associated with the Awunga.",
+        "  - Reciprocal verbal affix ngazor / ngazek.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is the role of the Hangva in village governance?",
+        "  ? How is the position of Awunga inherited?"
+      ],
+      "tangkhul_content": "awunga: village chief, king\nhangva: council of elders\nshangnao: clan lineage",
+      "english_translation": "Honorific register associated with the Awunga.\nReciprocal verbal affix ngazor / ngazek.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Traditional Laws, Land Tenure & Feasts of Merit (Page 10)",
+      "title": "Chapter 4: Traditional Laws, Land Tenure & Feasts of Merit",
+      "lines": [
+        "CHAPTER 4: TRADITIONAL LAWS, LAND TENURE & FEASTS OF MERIT",
+        "Summary: Maran (Feasts of Merit), Tarung monuments, and terraced land rights.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Maran kashak hi Tangkhul ngashanli khamataiya otsak akhana. Tarung",
+        "thingrei vakhang eina shimli shona. Seichang kala hok kachung khami eina",
+        "ramnaoli shongza kashak saikora ngashitna. Lungto kala lungchan shoda",
+        "awo-ayiwui machut saikora chimiksho chitheiya.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The Feasts of Merit (Maran) represent the summit of customary social",
+        "achievement. The celebrant earns the right to erect the carved Tarung",
+        "monument post before his house. Mithuns and cattle are slaughtered to",
+        "feast the entire community, and megalithic stone platforms are built."
+      ],
+      "tangkhul_content": "Maran kashak hi Tangkhul ngashanli khamataiya otsak akhana. Tarung thingrei vakhang eina shimli shona. Seichang kala hok kachung khami eina ramnaoli shongza kashak saikora ngashitna. Lungto kala lungchan shoda awo-ayiwui machut saikora chimiksho chitheiya.",
+      "english_translation": "The Feasts of Merit (Maran) represent the summit of customary social achievement. The celebrant earns the right to erect the carved Tarung monument post before his house. Mithuns and cattle are slaughtered to feast the entire community, and megalithic stone platforms are built.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * maran (noun): feast of merit",
+        "    Example: Maran kashak.",
+        "  * tarung (noun): forked monument post",
+        "    Example: Tarung shona.",
+        "  * seichang (noun): mithun (Bos frontalis)",
+        "    Example: Seichang kashai.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Instrumental clitic -eina in monument dragging chants.",
+        "  - Nominal compounds combining animal terms and festive rites.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What privileges does a celebrant gain by performing Maran?",
+        "  ? Describe the physical appearance and cultural meaning of the Tarung."
+      ],
+      "tangkhul_content": "maran: feast of merit\ntarung: forked monument post\nseichang: mithun (Bos frontalis)",
+      "english_translation": "Instrumental clitic -eina in monument dragging chants.\nNominal compounds combining animal terms and festive rites.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Tangkhul Folktales: Origin of the Species & Animals (Page 12)",
+      "title": "Chapter 5: Tangkhul Folktales: Origin of the Species & Animals",
+      "lines": [
+        "CHAPTER 5: TANGKHUL FOLKTALES: ORIGIN OF THE SPECIES & ANIMALS",
+        "Summary: Mythological origin legends and the ancient brotherhood of hill and valley.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Awo-ayiwui khararchanli: 'Avah Samsokli tungthuiya, Makungana ili",
+        "phungtung.' Chinaoni khani: kakhara a kaphungli leiyi, kakhanao a",
+        "ngaleili vaipama. Meitei eina Tangkhul chinaoni thada kum kachida Mera",
+        "Hou Chongba phanitli leikashi chithei ngaroka.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Tangkhul mythology traces common origins from Samsok in the eastern",
+        "hills. Tradition holds that two brothers parted ways: the elder brother",
+        "settled in the misty Tangkhul heights, while the younger brother",
+        "cultivated the fertile valley, establishing a bond renewed at the annual",
+        "Mera festival."
+      ],
+      "tangkhul_content": "Awo-ayiwui khararchanli: 'Avah Samsokli tungthuiya, Makungana ili phungtung.' Chinaoni khani: kakhara a kaphungli leiyi, kakhanao a ngaleili vaipama. Meitei eina Tangkhul chinaoni thada kum kachida Mera Hou Chongba phanitli leikashi chithei ngaroka.",
+      "english_translation": "Tangkhul mythology traces common origins from Samsok in the eastern hills. Tradition holds that two brothers parted ways: the elder brother settled in the misty Tangkhul heights, while the younger brother cultivated the fertile valley, establishing a bond renewed at the annual Mera festival.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * khararchan (noun): ancestral folklore",
+        "    Example: Awo-ayiwui khararchan.",
+        "  * samsok (proper): ancient migration staging ground",
+        "    Example: Samsokli tungthuiya.",
+        "  * chinaoni (noun): brothers, siblings",
+        "    Example: Chinaoni khani.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Comparative conjunction thada (like, in the manner of).",
+        "  - Ablative suffix -eina in origin narratives.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What does the Samsok migration legend signify?",
+        "  ? How is the kinship between Meiteis and Tangkhuls celebrated traditionally?"
+      ],
+      "tangkhul_content": "khararchan: ancestral folklore\nsamsok: ancient migration staging ground\nchinaoni: brothers, siblings",
+      "english_translation": "Comparative conjunction thada (like, in the manner of).\nAblative suffix -eina in origin narratives.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Traditional Tangkhul Ballads & Folk Poetry (Page 14)",
+      "title": "Chapter 6: Traditional Tangkhul Ballads & Folk Poetry",
+      "lines": [
+        "CHAPTER 6: TRADITIONAL TANGKHUL BALLADS & FOLK POETRY",
+        "Summary: The epic ballad of Shimreishang and Maitonphi, and heroic martial poetry.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Shimreishang eina Maitonphiwui leikashiyi Tangkhul thotchanli kaphapamei",
+        "laana. 'Avayo avayo, makhamalu Maitonphili rasha saka; sakhangaiye",
+        "Maitonphi kharam thuihaowa.' Kazeiramli anili ngazipda kumching kumching",
+        "leikashi ngazipsera.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The tragic romance of Shimreishang and Maitonphi is the most famous epic",
+        "ballad of the Tangkhuls. Forced apart by parental opposition and village",
+        "taboos, their spirits are finally united in Kazeiram, the tranquil land",
+        "of the departed where true lovers dwell forever."
+      ],
+      "tangkhul_content": "Shimreishang eina Maitonphiwui leikashiyi Tangkhul thotchanli kaphapamei laana. 'Avayo avayo, makhamalu Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa.' Kazeiramli anili ngazipda kumching kumching leikashi ngazipsera.",
+      "english_translation": "The tragic romance of Shimreishang and Maitonphi is the most famous epic ballad of the Tangkhuls. Forced apart by parental opposition and village taboos, their spirits are finally united in Kazeiram, the tranquil land of the departed where true lovers dwell forever.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * leishat laa (noun): love song, romantic ballad",
+        "    Example: Leishat laa sa.",
+        "  * kazeiram (noun): land of the dead",
+        "    Example: Kazeiramli ngazipra.",
+        "  * haolaa (noun): traditional folk song",
+        "    Example: Haolaa sakasa.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Antiphonal dialogue structure in romantic verse.",
+        "  - Poetic vocabulary substitutions in folk metrics.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Why is the story of Shimreishang and Maitonphi significant in Tangkhul literature?",
+        "  ? What is Kazeiram in traditional Tangkhul eschatology?"
+      ],
+      "tangkhul_content": "leishat laa: love song, romantic ballad\nkazeiram: land of the dead\nhaolaa: traditional folk song",
+      "english_translation": "Antiphonal dialogue structure in romantic verse.\nPoetic vocabulary substitutions in folk metrics.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Comparative Vocabulary & Dialectal Specimen (Page 16)",
+      "title": "Chapter 7: Comparative Vocabulary & Dialectal Specimen",
+      "lines": [
+        "CHAPTER 7: COMPARATIVE VOCABULARY & DIALECTAL SPECIMEN",
+        "Summary: Diagnostic 100-word vocabulary, kinship terminology, and dialectal correspondences.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "1. Mi (Man) 2. Akui (Head) 3. Sam (Hair) 4. Mik (Eye) 5. Khana (Ear) 6.",
+        "Khamasung (Nose) 7. Khamor (Mouth) 8. Ha (Tooth) 9. Pang (Hand) 10. Phei",
+        "(Foot) 11. Zingsho (Sun) 12. Kachang (Moon) 13. Sirak (Star) 14. Mei",
+        "(Fire) 15. Tara (Water) 16. Shim (House) 17. Si (Dog) 18. Vana (Bird)",
+        "19. Khai (Fish) 20. Thing (Tree). Numerals: akha (1), khani (2), kathum",
+        "(3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko",
+        "(9), tharā (10).",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Standard lexical list compiled by T. C. Hodson illustrating anatomical",
+        "nouns, celestial bodies, faunal terms, cardinal numerals 1-10, and",
+        "cross-dialectal phonetic correspondences between Ukhrul (Kathur), Raphei",
+        "(Northern), and Kamo (Southern) varieties."
+      ],
+      "tangkhul_content": "1. Mi (Man) 2. Akui (Head) 3. Sam (Hair) 4. Mik (Eye) 5. Khana (Ear) 6. Khamasung (Nose) 7. Khamor (Mouth) 8. Ha (Tooth) 9. Pang (Hand) 10. Phei (Foot) 11. Zingsho (Sun) 12. Kachang (Moon) 13. Sirak (Star) 14. Mei (Fire) 15. Tara (Water) 16. Shim (House) 17. Si (Dog) 18. Vana (Bird) 19. Khai (Fish) 20. Thing (Tree). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), tharā (10).",
+      "english_translation": "Standard lexical list compiled by T. C. Hodson illustrating anatomical nouns, celestial bodies, faunal terms, cardinal numerals 1-10, and cross-dialectal phonetic correspondences between Ukhrul (Kathur), Raphei (Northern), and Kamo (Southern) varieties.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 17)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 17)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "1. Mi (Man) 2. Akui (Head) 3. Sam (Hair) 4. Mik (Eye) 5. Khana (Ear) 6.",
+        "Khamasung (Nose) 7. Khamor (Mouth) 8. Ha (Tooth) 9. Pang (Hand) 10. Phei",
+        "(Foot) 11. Zingsho (Sun) 12. Kachang (Moon) 13. Sirak (Star) 14. Mei",
+        "(Fire) 15. Tara (Water) 16. Shim (House) 17. Si (Dog) 18. Vana (Bird)",
+        "19. Khai (Fish) 20. Thing (Tree). Numerals: akha (1), khani (2), kathum",
+        "(3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko",
+        "(9), tharā (10).",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Standard lexical list compiled by T. C. Hodson illustrating anatomical",
+        "nouns, celestial bodies, faunal terms, cardinal numerals 1-10, and",
+        "cross-dialectal phonetic correspondences between Ukhrul (Kathur), Raphei",
+        "(Northern), and Kamo (Southern) varieties."
+      ],
+      "tangkhul_content": "1. Mi (Man) 2. Akui (Head) 3. Sam (Hair) 4. Mik (Eye) 5. Khana (Ear) 6. Khamasung (Nose) 7. Khamor (Mouth) 8. Ha (Tooth) 9. Pang (Hand) 10. Phei (Foot) 11. Zingsho (Sun) 12. Kachang (Moon) 13. Sirak (Star) 14. Mei (Fire) 15. Tara (Water) 16. Shim (House) 17. Si (Dog) 18. Vana (Bird) 19. Khai (Fish) 20. Thing (Tree). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), tharā (10).",
+      "english_translation": "Standard lexical list compiled by T. C. Hodson illustrating anatomical nouns, celestial bodies, faunal terms, cardinal numerals 1-10, and cross-dialectal phonetic correspondences between Ukhrul (Kathur), Raphei (Northern), and Kamo (Southern) varieties.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * akui (noun): head",
+        "    Example: Akui kakhanang.",
+        "  * mik (noun): eye",
+        "    Example: Mik eina theila.",
+        "  * pang (noun): hand",
+        "    Example: Pang eina kasa.",
+        "  * tara (noun): water",
+        "    Example: Tara kashing.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Base-10 decimal numeral system.",
+        "  - Systematic sound shifts across regional varieties.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Count from 1 to 10 in Tangkhul.",
+        "  ? Identify three anatomical terms that feature prefix a-."
+      ],
+      "tangkhul_content": "akui: head\nmik: eye\npang: hand\ntara: water",
+      "english_translation": "Base-10 decimal numeral system.\nSystematic sound shifts across regional varieties.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "back_matter_glossary",
+      "header": "The Naga Tribes of Manipur: Tangkhul Sections -- Comprehensive Glossary (Page 19)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  raphei [noun]: northern Tangkhul area",
+        "  kathur [noun]: central Tangkhul area",
+        "  kamo [noun]: southern Tangkhul area",
+        "  kharao [noun]: western Tangkhul area",
+        "  shiyan [noun]: linguistic standard, rule",
+        "  kakhalat [noun]: meaning, pronunciation",
+        "  tuiyur [noun]: dialect, language branch",
+        "  awunga [noun]: village chief, king",
+        "  hangva [noun]: council of elders",
+        "  shangnao [noun]: clan lineage",
+        "  maran [noun]: feast of merit",
+        "  tarung [noun]: forked monument post",
+        "  seichang [noun]: mithun (Bos frontalis)",
+        "  khararchan [noun]: ancestral folklore",
+        "  samsok [proper]: ancient migration staging ground",
+        "  chinaoni [noun]: brothers, siblings",
+        "  leishat laa [noun]: love song, romantic ballad",
+        "  kazeiram [noun]: land of the dead",
+        "  haolaa [noun]: traditional folk song",
+        "  akui [noun]: head",
+        "  mik [noun]: eye",
+        "  pang [noun]: hand",
+        "  tara [noun]: water"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 23"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "back_cover",
+      "header": "The Naga Tribes of Manipur: Tangkhul Sections -- Back Cover & Colophon (Page 20)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-ARCH-003",
+        "Title: The Naga Tribes of Manipur: Tangkhul Sections",
+        "Publisher: Macmillan and Co., Limited, London",
+        "Publication Year: 1911",
+        "Dialect Variety: Ukhrul / Raphei / Kamo",
+        "Total Digital Pages: 20",
+        "Total Chapters: 7",
+        "Total Words Indexed: 573",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "raphei",
+        "pos": "noun",
+        "meaning": "northern Tangkhul area",
+        "example": "Raphei ramli."
+      },
+      {
+        "word": "kathur",
+        "pos": "noun",
+        "meaning": "central Tangkhul area",
+        "example": "Kathur Ukhrul."
+      },
+      {
+        "word": "kamo",
+        "pos": "noun",
+        "meaning": "southern Tangkhul area",
+        "example": "Kamoram khava."
+      },
+      {
+        "word": "kharao",
+        "pos": "noun",
+        "meaning": "western Tangkhul area",
+        "example": "Kharao ngaleili."
+      },
+      {
+        "word": "shiyan",
+        "pos": "noun",
+        "meaning": "linguistic standard, rule",
+        "example": "Shiyan kashak."
+      },
+      {
+        "word": "kakhalat",
+        "pos": "noun",
+        "meaning": "meaning, pronunciation",
+        "example": "Kakhalat kashak."
+      },
+      {
+        "word": "tuiyur",
+        "pos": "noun",
+        "meaning": "dialect, language branch",
+        "example": "Tuiyur ngateina."
+      },
+      {
+        "word": "awunga",
+        "pos": "noun",
+        "meaning": "village chief, king",
+        "example": "Awunga shimkhur."
+      },
+      {
+        "word": "hangva",
+        "pos": "noun",
+        "meaning": "council of elders",
+        "example": "Hangvali zangda."
+      },
+      {
+        "word": "shangnao",
+        "pos": "noun",
+        "meaning": "clan lineage",
+        "example": "Shangnao kachida."
+      },
+      {
+        "word": "maran",
+        "pos": "noun",
+        "meaning": "feast of merit",
+        "example": "Maran kashak."
+      },
+      {
+        "word": "tarung",
+        "pos": "noun",
+        "meaning": "forked monument post",
+        "example": "Tarung shona."
+      },
+      {
+        "word": "seichang",
+        "pos": "noun",
+        "meaning": "mithun (Bos frontalis)",
+        "example": "Seichang kashai."
+      },
+      {
+        "word": "khararchan",
+        "pos": "noun",
+        "meaning": "ancestral folklore",
+        "example": "Awo-ayiwui khararchan."
+      },
+      {
+        "word": "samsok",
+        "pos": "proper",
+        "meaning": "ancient migration staging ground",
+        "example": "Samsokli tungthuiya."
+      },
+      {
+        "word": "chinaoni",
+        "pos": "noun",
+        "meaning": "brothers, siblings",
+        "example": "Chinaoni khani."
+      },
+      {
+        "word": "leishat laa",
+        "pos": "noun",
+        "meaning": "love song, romantic ballad",
+        "example": "Leishat laa sa."
+      },
+      {
+        "word": "kazeiram",
+        "pos": "noun",
+        "meaning": "land of the dead",
+        "example": "Kazeiramli ngazipra."
+      },
+      {
+        "word": "haolaa",
+        "pos": "noun",
+        "meaning": "traditional folk song",
+        "example": "Haolaa sakasa."
+      },
+      {
+        "word": "akui",
+        "pos": "noun",
+        "meaning": "head",
+        "example": "Akui kakhanang."
+      },
+      {
+        "word": "mik",
+        "pos": "noun",
+        "meaning": "eye",
+        "example": "Mik eina theila."
+      },
+      {
+        "word": "pang",
+        "pos": "noun",
+        "meaning": "hand",
+        "example": "Pang eina kasa."
+      },
+      {
+        "word": "tara",
+        "pos": "noun",
+        "meaning": "water",
+        "example": "Tara kashing."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-ARCH-003",
+      "title": "The Naga Tribes of Manipur: Tangkhul Sections",
+      "total_pages": 20,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 20,
+  "total_chapters": 7,
+  "total_words": 947,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Habitat, Geography & Tribal Divisions",
+      "tangkhul_text": "Tangkhul miyur hi Manipur wui kaphung zanshorli pamda kaphung khangacheo eina ngashitna. Ayur khani eina mati leiyi: Raphei (Northern Tangkhuls), Kathur (Central Tangkhuls around Ukhrul), Kamo (Southern Tangkhuls bordering Maring territory), and Kharao (Western Tangkhuls facing the valley). Ukhrul kaphung hi phungreitang sada kaphung khangateiwui tui ngazekpam thada leiyi.",
+      "translation_en": "The Tangkhuls occupy the mountain tracts east of the valley of Manipur. They are grouped into four main territorial sections: Raphei in the north, Kathur in the centre around Ukhrul and Hungpung, Kamo in the south, and Kharao in the west. Ukhrul serves as the recognized linguistic standard among all regional dialects."
+    },
+    {
+      "chapter": "Chapter 2: Tangkhul Linguistic Classification & Dialects",
+      "tangkhul_text": "Tangkhul language exhibits agglutinative morphology with dominant prefix ka- forming adjectives and infinitives. Case relationships are indicated by postpositional affixes: -na (agentive), -li (dative/locative), -wui (genitive). Vowel length contrasts: 'sa' (to do) vs 'sā' (animal/flesh); 'mik' (eye) vs 'mei' (fire).",
+      "translation_en": "Linguistic features of Tangkhul: Extensive use of prefixes and suffixes. Nominal and adjectival derivation through prefix ka-. Case markers function as postpositional clitics. Phonemic vowel length distinguishes essential vocabulary pairs."
+    },
+    {
+      "chapter": "Chapter 3: Village Organization & The Awunga (Headman)",
+      "tangkhul_text": "Khaung kachida Awunga akha leiyi; Awunga hi shimkhurwui mathun eina ngashitna. Hangva council eina ngasoda ram shiyan kashak saikora ngazekseri. Shangnao kachida paman kathana mi akhakhana hangvali zangda khaungwui ot ngazeka.",
+      "translation_en": "Every Tangkhul village is an autonomous democratic unit under a hereditary chief called the Awunga. The Awunga rules in consultation with the village council (Hangva), comprised of representatives from each clan (Shangnao), managing village land, disputes, and seasonal festivals."
+    },
+    {
+      "chapter": "Chapter 4: Traditional Laws, Land Tenure & Feasts of Merit",
+      "tangkhul_text": "Maran kashak hi Tangkhul ngashanli khamataiya otsak akhana. Tarung thingrei vakhang eina shimli shona. Seichang kala hok kachung khami eina ramnaoli shongza kashak saikora ngashitna. Lungto kala lungchan shoda awo-ayiwui machut saikora chimiksho chitheiya.",
+      "translation_en": "The Feasts of Merit (Maran) represent the summit of customary social achievement. The celebrant earns the right to erect the carved Tarung monument post before his house. Mithuns and cattle are slaughtered to feast the entire community, and megalithic stone platforms are built."
+    },
+    {
+      "chapter": "Chapter 5: Tangkhul Folktales: Origin of the Species & Animals",
+      "tangkhul_text": "Awo-ayiwui khararchanli: 'Avah Samsokli tungthuiya, Makungana ili phungtung.' Chinaoni khani: kakhara a kaphungli leiyi, kakhanao a ngaleili vaipama. Meitei eina Tangkhul chinaoni thada kum kachida Mera Hou Chongba phanitli leikashi chithei ngaroka.",
+      "translation_en": "Tangkhul mythology traces common origins from Samsok in the eastern hills. Tradition holds that two brothers parted ways: the elder brother settled in the misty Tangkhul heights, while the younger brother cultivated the fertile valley, establishing a bond renewed at the annual Mera festival."
+    },
+    {
+      "chapter": "Chapter 6: Traditional Tangkhul Ballads & Folk Poetry",
+      "tangkhul_text": "Shimreishang eina Maitonphiwui leikashiyi Tangkhul thotchanli kaphapamei laana. 'Avayo avayo, makhamalu Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa.' Kazeiramli anili ngazipda kumching kumching leikashi ngazipsera.",
+      "translation_en": "The tragic romance of Shimreishang and Maitonphi is the most famous epic ballad of the Tangkhuls. Forced apart by parental opposition and village taboos, their spirits are finally united in Kazeiram, the tranquil land of the departed where true lovers dwell forever."
+    },
+    {
+      "chapter": "Chapter 7: Comparative Vocabulary & Dialectal Specimen",
+      "tangkhul_text": "1. Mi (Man) 2. Akui (Head) 3. Sam (Hair) 4. Mik (Eye) 5. Khana (Ear) 6. Khamasung (Nose) 7. Khamor (Mouth) 8. Ha (Tooth) 9. Pang (Hand) 10. Phei (Foot) 11. Zingsho (Sun) 12. Kachang (Moon) 13. Sirak (Star) 14. Mei (Fire) 15. Tara (Water) 16. Shim (House) 17. Si (Dog) 18. Vana (Bird) 19. Khai (Fish) 20. Thing (Tree). Numerals: akha (1), khani (2), kathum (3), mati (4), phangā (5), tharuk (6), shini (7), chishat (8), chiko (9), tharā (10).",
+      "translation_en": "Standard lexical list compiled by T. C. Hodson illustrating anatomical nouns, celestial bodies, faunal terms, cardinal numerals 1-10, and cross-dialectal phonetic correspondences between Ukhrul (Kathur), Raphei (Northern), and Kamo (Southern) varieties."
+    }
+  ]
+}

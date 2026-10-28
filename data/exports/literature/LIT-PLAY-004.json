@@ -1,0 +1,54 @@
+{
+  "id": "LIT-PLAY-004",
+  "resource_type": "literature",
+  "title": "Luira wui Pheichak",
+  "title_translation": "The Dance of the Sowing Season: A Three-Act Folk Drama",
+  "creator": "Tangkhul Dramatic Board",
+  "author": "Tangkhul Dramatic Troupe & TLS",
+  "year": 2010,
+  "publisher": "Tangkhul Literature Society Dramatic Board, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "play",
+  "work_type": "play",
+  "genres": [
+    "play"
+  ],
+  "book_id": "BK-TLS-014",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "TLS-2010-LWP",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-PLAY-004.txt",
+  "notes": "Celebrated three-scene musical stage drama dramatizing youth preparations for Luira festival dances, clan boundary arbitration, and social reconciliation.",
+  "indigenous_tangkhul_text": [
+    "Scene 1: Hunphun village plaza. Elders chant ancestral sowing prayers while youth practice Luira Pheichak.\nMayarnao Somatai: 'Ngalā Wungnao, nawui luirim chonkashan hi Luirawui won thada meingap-pamhaowa!'",
+    "Scene 2: Village Longshim entrance. Clan arbitration over field boundary rights threatened the festival harmony.\nAwunga Shimray: 'Clan feuds must dissolve before the sacred seeds are sown; our brotherhood is older than our fields!'",
+    "Scene 3: Festal ground at sundown. Drums beat in cadence as the entire village joins the great round dance.\nChoral Ensemble: 'Luirawui pheichak eina i-ramli kiphun mirin rali, Tangkhul ngashan kachung-chihui ringhaora!'"
+  ],
+  "english_translation_text": [
+    "Scene 1: Hunphun village courtyard. Elders chant ancient sowing invocations while youth rehearse the festival dance.\nYouth Somatai: 'Maiden Wungnao, your woven Luirim shawl radiates like the spring lily of Mount Shirui!'",
+    "Scene 2: Entrance to the village dormitory. A contentious terrace boundary dispute between two clans threatens harmony.\nHeadman Shimray: 'Custom demands reconciliation before holy seeds touch the furrow; clan peace is our true wealth!'",
+    "Scene 3: Main festal grounds at twilight. Hand-carved log drums boom in rhythmic cadence as the whole village dances.\nVillage Choral Ensemble: 'Through the sacred steps of the Luira dance, prosperity descends upon our hills forever!'"
+  ],
+  "literary_themes": [
+    "Dramatization of festival preparations and youth courtship (*Luira Pheichak*)",
+    "Traditional clan conflict resolution and judicial arbitration by village elders",
+    "The moral necessity of communal harmony before agricultural planting",
+    "Choral dance (*Pheichak*) as ritual embodiment of community unity and joy"
+  ],
+  "structure_and_meter": "Three-act folk drama in rhythmic dialogue, traditional choral chants, and drum cadences.",
+  "critical_commentary": "A landmark stage drama produced by the Tangkhul Dramatic Troupe. It uses the festive backdrop of the spring Luira festival to examine customary conflict resolution, demonstrating how festival participation demands genuine social reconciliation.",
+  "poetic_vocabulary_terms": {
+    "Pheichak": "Customary choral step-dance performed during major festivals",
+    "Longshim": "Ancestral youth dormitory and institution of community education",
+    "Luirao": "The agricultural sowing deities and ancestors invoked during spring rites",
+    "Shanaonao": "Maidens / young women of the village"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

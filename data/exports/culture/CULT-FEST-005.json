@@ -1,0 +1,43 @@
+{
+  "id": "CULT-FEST-005",
+  "resource_type": "culture",
+  "title": "Yarra Phanit",
+  "title_translation": "Spring Youth Festival",
+  "creator": "Longshim Youths",
+  "year": 1993,
+  "publisher": "Traditional Observation (Ruivah 1993)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "festival",
+  "subcategory": "youth",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruivah-1993-Ch4",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-FEST-005_yarra_phanit.txt",
+  "verification_status": "verified",
+  "notes": "Spring youth celebration celebrated within village dormitories (Longshim) featuring feasting, folk song exchanges, and socialization among youth.",
+  "indigenous_tangkhul_text": [
+    "Yarra phanitli won kapha wonri, iram kaphungli yarshungwon.",
+    "Longshim ngalanao mayarnao saikora, ningkashak tui la ngaroksa.",
+    "Chitharan leikashi thot khangatei lei, ringkaphawui thotna iramli."
+  ],
+  "english_translation_text": [
+    "At Yarra festival, spring blossoms blanket our mountain hills with radiant splendor.",
+    "Young men and maidens of the dormitory exchange poetic songs of mutual esteem and affection.",
+    "In this season of spring awakening, true love flourishes and unites our generation."
+  ],
+  "procedural_stages": [
+    "1. Convening of youth cohorts within the Mayarshim (boys) and Ngashim (girls) dormitories.",
+    "2. Traditional courting exchanges: Young men present flowers and firewood; young women prepare delicacies.",
+    "3. Singing of Yarra Laa (spring awakening chants) across the village grounds.",
+    "4. Athletic games, rope-pulling, and social banter fostering community cohesion.",
+    "5. Formal communal banquet funded through youth collaborative labor projects."
+  ],
+  "ceremonial_participants": [
+    "Youth Dormitory Members (Mayarnao and Ngalanao)",
+    "Dormitory Guardians"
+  ],
+  "seasonal_timing": "April (Spring season of awakening and youth courting)"
+}

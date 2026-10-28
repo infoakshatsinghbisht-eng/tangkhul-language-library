@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: COMMEMORATIVE MONOLITH INSCRIPTION AT KHANGKHUI CAVE
+IDENTIFIER: HIST-CAND-001 | CATEGORY: HISTORICAL_DOCUMENT
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Commemorative Monolith Inscription at Khangkhui Cave
+  Title Translation:     Fieldwork Candidate Record on Khangkhui Archaeological Site
+  Historical Category:   historical_document
+  Event Date / Period:   Pleistocene / Pre-historic | Pre-historic Archaeological
+  Sort Year:             1969
+  Place / Settlement:    Khangkhui Cave [Khangkhui]
+  Dialect / Variety:     Ukhrul
+  Key Figures / Creator: Field Archaeological Team & Khangkhui Elders
+  Publisher / Source:    Field Documentation Candidate
+  Source Identifier:     TDDP-HIST-2019-02
+  Source URL:            https://tangkhullanguage.org/archive/history/khangkhui-cave
+  License & Clearance:   Pending Community Clearance (pending)
+  Verification Status:   needs_review
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Candidate archaeological record concerning Upper Paleolithic stone tools and ancestral commemorative markers documented near Khangkhui Mangsor cave; awaiting corroboration and archaeological clearance.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  Khangkhui Mangsor cave archaeological site-li Pleistocene era Upper Paleolithic stone tools kala ancestral markers phung-kashung.
+  Archaeologist O.K. Singh-na 1969-li excavation sakda prehistoric human habitation in Tangkhul hills demonstrate sakya.
+  Candidate historical record-hi community corroboration kala archaeological clearance-wui pending status-li pama.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  The Khangkhui Mangsor limestone cave complex houses Upper Paleolithic stone implements and ancestral commemorative rock markers.
+  Excavations led by archaeologist O.K. Singh in 1969 proved prehistoric human habitation in the Tangkhul hills dating back tens of thousands of years.
+  This candidate historical record documents these ancient artifacts while awaiting further scientific corroboration and community clearance.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. Prehistoric Era: Cave system provides shelter and toolmaking workshops for Pleistocene hunters.
+  2. 1969: State Department of Archaeology conducts stratigraphic excavations; discovers stone hand-axes, scrapers, and bone points.
+  3. 1970s–1980s: Classified in Indian prehistory textbooks as one of the premier Stone Age cave sites of Northeast India.
+  4. Present: Candidate heritage record catalogued with ethical community protocols awaiting full archaeological publication.
+
+KEY FIGURES & LEADERS:
+  Dr. O.K. Singh (Archaeologist), Khangkhui Village Elders, Manipur State Archaeology Dept.
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Khangkhui Mangsor Caves, Eastern Ukhrul (Elevation 1,750 m)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Demonstrates that human habitation in the Tangkhul ancestral homeland stretches back into the deep Paleolithic past.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Mangsor                : Ancestral cavern / sacred limestone cave
+  * Lung-Otshak            : Stone implement / prehistoric lithic artifact
+  * Khararchan-Kaphung     : Prehistoric antiquity preserved in rock formations
+  * Shimlut-Mang           : Ancient subterranean dwelling place
+
+================================================================================
+END OF RECORD: HIST-CAND-001 - Tangkhul Language Library Digital Archive
+================================================================================

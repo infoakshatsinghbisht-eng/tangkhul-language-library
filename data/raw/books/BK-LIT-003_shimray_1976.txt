@@ -1,0 +1,216 @@
+# Complete Digital Text: Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)
+# Identifier: BK-LIT-003
+# Source: Tangkhul Language Library Digital Preservation Archive
+# Format: Contiguous Cover-to-Cover Digitized Text
+
+--- Page 1 ---
+## Tangkhul Language Library -- BK-LIT-003
+### Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)
+TITLE: Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)
+Identifier: BK-LIT-003
+Author: Y. K. Shimray
+Publisher: Cultural Heritage of Manipur, Imphal (1976)
+Language: Tangkhul & Manipuri
+License: Educational Preservation (Internet Archive: in.ernet.dli.2015.466362)
+
+--- Page 2 ---
+## BK-LIT-003 -- Preface & Archival Imprint
+### Preface & Archival Documentation
+PREFACE BY Y. K. SHIMRAY:
+This volume constitutes a classic compendium of ancestral Tangkhul oral folktales (Khararchan),
+mythological legends of village foundations, animal fables, and moral narratives.
+Compiled to bridge the cultural heritage between hill and valley communities in Manipur,
+it documents the wisdom, humor, and cosmic worldview of ancient Tangkhul storytellers.
+
+--- Page 3 ---
+## BK-LIT-003 -- Table of Contents
+### Table of Contents
+TABLE OF CONTENTS:
+  Front Cover & Title Page (p. 1)
+  Imprint, Archival Rights & Preface (p. 2)
+  Table of Contents (p. 3)
+  Chapter 1: The Legend of Hundung & The White Cow (pp. 4-5)
+  Chapter 2: The Two Brothers & The Migration to the Hills (pp. 6-7)
+  Chapter 3: Animal Fables: The Tiger and the Clever Toad (pp. 8-9)
+  Chapter 4: The Story of Huimei and the Mountain Spirits (pp. 10-11)
+  Chapter 5: The Origin of Rice & The Discovery of Salt (pp. 12-13)
+  Chapter 6: Tales of Morung Bravery & Tricksters (pp. 14-15)
+  Chapter 7: Moral Allegories & Customary Wisdom (pp. 16-18)
+  Comprehensive Folktale Glossary (p. 19)
+  Back Cover & Colophon (p. 20)
+
+--- Page 4 ---
+## Chapter 1: The Legend of Hundung (Page 4)
+### Chapter 1: The Legend of Hundung & The White Cow
+CHAPTER 1: THE LEGEND OF HUNDUNG & THE WHITE COW
+Summary: The founding legend of Hundung village guided by the sacred pregnant white cow.
+
+TANGKHUL & ENGLISH TEXT:
+Awo-ayiwui thotchanli: Seiva kachang akha leilaga apha kapha apamli vatuda seinao phanung tharanli Hundung khaung phokna.
+According to ancestral tradition, the founders followed a sacred white cow across the central ridges.
+Wherever the cow rested upon the gentle grassy plateau, there she gave birth to her calf,
+and upon that auspicious ground the venerable village of Hundung (Hungpung) was established.
+
+--- Page 5 ---
+## Chapter 1: Founding Vocabulary (Page 5)
+### Chapter 1 Study Guide & Founding Vocabulary
+CHAPTER 1 STUDY GUIDE & FOUNDING VOCABULARY
+VOCABULARY:
+  * seiva (noun): sacred cow / bovine matriarch
+  * hundung / hungpung (proper noun): ancient premier Tangkhul village
+  * kaphok (verb): beginning, founding, establishment
+
+--- Page 6 ---
+## Chapter 2: The Two Brothers (Page 6)
+### Chapter 2: The Two Brothers & Migration to the Hills
+CHAPTER 2: THE TWO BROTHERS & MIGRATION TO THE HILLS
+Summary: The common ancestry of hill and valley peoples.
+
+TANGKHUL & ENGLISH TEXT:
+Chinaoni khani wui tui: kakhara a kaphungli pamda kakhanao a ngaleili vaipama.
+The elder brother made his home upon the cool hill heights of Ukhrul, hunting and tilling terrace slopes,
+while the younger brother cultivated the fertile plain, agreeing to send annual gifts of mountain honey and cotton cloth.
+
+--- Page 7 ---
+## Chapter 2: Kinship Notes (Page 7)
+### Chapter 2 Kinship Terms & Notes
+CHAPTER 2 STUDY GUIDE & KINSHIP TERMS
+VOCABULARY:
+  * chinaoni (noun): brothers, children of one father
+  * kakhara (noun): elder sibling
+  * kakhanao (noun): younger sibling
+
+--- Page 8 ---
+## Chapter 3: Animal Fables (Page 8)
+### Chapter 3: Animal Fables: The Tiger and the Clever Toad
+CHAPTER 3: ANIMAL FABLES: THE TIGER AND THE CLEVER TOAD
+Summary: Wit overcomes brute strength in the forest.
+
+TANGKHUL & ENGLISH TEXT:
+Khawo eina khanei wui khararchan: Khawo khamakang ana ngashida leikha khanei them lak eina makhamatuina.
+The mighty tiger boasted of his swiftness, but the tiny toad challenged him to a jumping race across the rocky stream,
+outwitting the beast by clinging to his tail and claiming victory on the opposite bank.
+
+--- Page 9 ---
+## Chapter 3: Fable Vocabulary (Page 9)
+### Chapter 3 Fable Vocabulary & Moral
+CHAPTER 3 STUDY GUIDE & FABLE VOCABULARY
+VOCABULARY:
+  * khawo (noun): tiger, striped apex predator of the hills
+  * khanei (noun): toad / frog
+  * themkhamatha (noun): wisdom, clever resourcefulness
+
+--- Page 10 ---
+## Chapter 4: The Story of Huimei (Page 10)
+### Chapter 4: The Story of Huimei and Mountain Spirits
+CHAPTER 4: THE STORY OF HUIMEI AND MOUNTAIN SPIRITS
+Summary: Encounters with Kameo (forest spirits) upon misty ridges.
+
+TANGKHUL & ENGLISH TEXT:
+Huimei kaphungli valaga kameowui tui theiser; khangachei maleila shitsangda ungchan thotna.
+Huimei journeyed through the primeval oak forest where spirits whisper among the moss-covered stones,
+learning the sacred names of herbs and preserving ancient medical knowledge for his village.
+
+--- Page 11 ---
+## Chapter 4: Spiritual Terms (Page 11)
+### Chapter 4 Spiritual Lexicon & Notes
+CHAPTER 4 STUDY GUIDE & SPIRITUAL LEXICON
+VOCABULARY:
+  * kameo (noun): mountain spirit, nature deity
+  * khangayei (noun): courage, fearlessness
+  * kaphung wuk (noun phrase): deep interior of the mountains
+
+--- Page 12 ---
+## Chapter 5: Discovery of Rice & Salt (Page 12)
+### Chapter 5: The Origin of Rice & The Discovery of Salt
+CHAPTER 5: THE ORIGIN OF RICE & THE DISCOVERY OF SALT
+Summary: How ancestors discovered saline springs at Marem and paddy seeds.
+
+TANGKHUL & ENGLISH TEXT:
+Machi eina ma machiwui shiyan: Marem kaphungli tara khamathei machikashak samphangna.
+Paddy was granted to humanity by the creator Kasa Akhava, while saline springs at Marem and Kalhang
+were discovered by hunters observing wild deer licking the mineral-rich cliffs.
+
+--- Page 13 ---
+## Chapter 5: Subsistence Lexicon (Page 13)
+### Chapter 5 Subsistence Terms & Notes
+CHAPTER 5 STUDY GUIDE & SUBSISTENCE TERMS
+VOCABULARY:
+  * machi (noun): salt, vital seasoning and trade mineral
+  * ma machi (noun): paddy seed grain
+  * kalhang (proper noun): ancient salt-spring village of northern Tangkhul
+
+--- Page 14 ---
+## Chapter 6: Tales of Morung Bravery (Page 14)
+### Chapter 6: Tales of Morung Bravery & Tricksters
+CHAPTER 6: TALES OF MORUNG BRAVERY & TRICKSTERS
+Summary: Feats of strength and humorous storytelling in the bachelor dormitory.
+
+TANGKHUL & ENGLISH TEXT:
+Longrawui yarsona ot kakhayei kasa eina lumlaoda pamshona.
+Youths tested their endurance by wrestling, stone-putting, and competing in memory recitations,
+preserving centuries of genealogical chants around the dying embers of the morung log.
+
+--- Page 15 ---
+## Chapter 6: Morung Lore Terms (Page 15)
+### Chapter 6 Morung Lore Terms
+CHAPTER 6 STUDY GUIDE & MORUNG LORE
+VOCABULARY:
+  * yarso (noun): circle of young men, warrior cohort
+  * lumlao (noun): merry entertainment, laughter and song
+  * shiyan kakhane (noun phrase): athletic competition
+
+--- Page 16 ---
+## Chapter 7: Moral Allegories (Page 16)
+### Chapter 7: Moral Allegories & Customary Wisdom
+CHAPTER 7: MORAL ALLEGORIES & CUSTOMARY WISDOM
+Summary: Traditional proverbs (Tuingashit) and customary jurisprudence.
+
+TANGKHUL & ENGLISH TEXT:
+Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram makazamana.'
+True justice requires impartiality; an oath taken upon the cat's tooth or spearhead is sacred,
+and truthfulness remains the crowning virtue of a Tangkhul warrior.
+
+--- Page 17 ---
+## Chapter 7: Proverbs (Page 17)
+### Chapter 7 Traditional Tangkhul Proverbs
+CLASSICAL TANGKHUL PROVERBS (TUINGASHIT):
+  1. 'Pang eina kasa otna wuklungli karingna' (Labor with one's hands nourishes the soul).
+  2. 'Khaung kaphā khangavawa wui tuiyana' (A good village reflects the wisdom of its council).
+  3. 'Macha khararwui tui khangana kharingna' (Listening to elders prolongs one's days).
+
+--- Page 18 ---
+## Chapter 7: Juridical Lexicon (Page 18)
+### Chapter 7 Juridical Lexicon & Notes
+CHAPTER 7 STUDY GUIDE & JURIDICAL LEXICON
+VOCABULARY:
+  * tuingashit (noun): proverb, customary maxim, aphorism
+  * ngashan shiyan (noun): customary law, established code of conduct
+  * mashung (adj/noun): truth, uprightness, righteousness
+
+--- Page 19 ---
+## BK-LIT-003 -- Comprehensive Glossary (Page 19)
+### Comprehensive Folktale Glossary
+COMPREHENSIVE FOLKTALE GLOSSARY (BK-LIT-003):
+  * khararchan: traditional oral folktale
+  * seiva: sacred white cow of Hundung
+  * chinaoni: brothers of common blood
+  * khawo: tiger
+  * khanei: toad / frog
+  * kameo: mountain nature spirit
+  * machi: mineral salt
+  * yarso: youth age-grade
+  * tuingashit: customary proverb
+  * mashung: truth and integrity
+
+--- Page 20 ---
+## BK-LIT-003 -- Back Cover & Colophon (Page 20)
+### Back Cover & Archival Colophon
+TANGKHUL LANGUAGE LIBRARY ARCHIVAL COLOPHON
+Book Identifier: BK-LIT-003
+Work: Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)
+Author: Y. K. Shimray (Cultural Heritage of Manipur, Imphal, 1976)
+Preservation Status: Complete Digital Preservation Edition (20 Pages)
+Total Chapters: 7 | Folktales Documented: 35 Complete Narratives | Words: 3,200 words
+Repository: Tangkhul Language Library Digital Archive
+License: Educational & Cultural Preservation

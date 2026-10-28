@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TUITAM KATHARA
+IDENTIFIER: LIT-ANTH-003 | GENRE: LITERARY_ANTHOLOGY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tuitam Kathara
+  Title Translation:     Tangkhul Literature Reader for Class X
+  Literary Genre / Type: literary_anthology (literary_anthology)
+  Author / Storyteller:  Tangkhul Literature Society
+  Publication Year:      2021
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-008
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-008
+  License & Clearance:   Educational Textbook (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Approved Board of Secondary Education Manipur (BSEM) matriculation literature textbook compiling high school literary prose, poetry, and folk studies for Class X.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Tuitam Kathara (New Literature) Class X matriculation textbook-li advanced Tangkhul poetry, drama, kala essays sanga.
+  T. Luikham, Y.K. Shimray, kala pioneering authors-wui mature creative writings curated shitsangya.
+  Board examinations-wui benchmark standard thada youth-li cultural literacy kala intellectual depth equip sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Tuitam Kathara ('New Literature') serves as the matriculation Class X literature textbook under the secondary education board.
+  Featuring advanced poetry by T. Luikham, reflective essays, and dramatic excerpts from pioneering Tangkhul authors.
+  It establishes the benchmark standard for high school graduation, instilling deep cultural literacy and intellectual rigor.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Matriculation literary canon and stylistic mastery
+  * Ecological odes, drama excerpts, and historical retrospectives
+  * Advanced vocabulary acquisition and syntactic analysis
+
+STRUCTURE & POETIC METER: Advanced secondary anthology comprising graded literary units, vocabulary glosses, and comprehension questions.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Revised in 2021 by the Tangkhul Literature Society, Tuitam Kathara represents the culmination of secondary mother-tongue education.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Tuitam Kathara         : The new literature reader for advanced students
+  * Won-Kashak             : Elevated poetic imagery celebrating natural beauty
+  * Pakhang-Mathat         : In-depth textual analysis and critical reading
+  * Wung-Tuitam            : Literary register of the standard language
+
+================================================================================
+END OF RECORD: LIT-ANTH-003 - Tangkhul Language Library Digital Archive
+================================================================================

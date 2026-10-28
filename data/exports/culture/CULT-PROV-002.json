@@ -1,0 +1,36 @@
+{
+  "id": "CULT-PROV-002",
+  "resource_type": "culture",
+  "title": "Proverb on Restorative Justice: Nguihaowada",
+  "title_translation": "A Person Cannot be Drowned for a Mistake",
+  "creator": "Traditional Legal Lore (Kasomwoshi 1991)",
+  "year": 1991,
+  "publisher": "Documented in Hao Tangkhul Chanjam",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "proverb",
+  "subcategory": "justice",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Kasomwoshi-Chanjam-089",
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-PROV-002_nguihaowada_masi_kongra.txt",
+  "verification_status": "verified",
+  "notes": "Original saying: 'Nguihaowada masi kongra li machikhai paimana.' Emphasizes that traditional Tangkhul customary jurisprudence values restitution, reform, and reconciliation over cruel or irreversible punishment.",
+  "indigenous_tangkhul_text": [
+    "Nguihaowada masi kongra li machikhai paimana."
+  ],
+  "english_translation_text": [
+    "A person cannot be drowned in the river for committing a mere mistake."
+  ],
+  "procedural_stages": [
+    "Quoted in Hangva council deliberations to balance justice with compassion and restitution."
+  ],
+  "ceremonial_participants": [
+    "Hangva Council",
+    "Disputing Parties",
+    "Community Mediators"
+  ],
+  "seasonal_timing": "Customary legal dispute resolution"
+}

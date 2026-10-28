@@ -1,0 +1,52 @@
+{
+  "id": "HIST-PLC-008",
+  "resource_type": "history",
+  "title": "Nungbi (Luireishimphung) Black Stone Pottery Settlement",
+  "title_translation": "Ancestral Craft Cradle of Wheel-less Serpentinite Pottery",
+  "creator": "Nungbi Pottery Custodians & Archaeological Survey",
+  "year": 1750,
+  "publisher": "Documented in Horam 1977, Roy 1961, Manipur Cultural Directorate",
+  "language": "Tangkhul",
+  "dialect": "Northern Tangkhul / Raphei",
+  "village": "Nungbi Khullen",
+  "place": "Nungbi",
+  "category": "place",
+  "event_date": "Ancestral Era to Present",
+  "period": "Traditional Craft Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Nungbi-Settlement",
+  "license": "Cultural Heritage Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-008.txt",
+  "verification_status": "verified",
+  "notes": "Historic northern settlement celebrated globally for its ancient craft of hand-shaped black stone pottery (Hampai), fashioned without a potter's wheel from a sacred blend of weathered serpentinite stone and weathered clay.",
+  "indigenous_tangkhul_chronicle": [
+    "Nungbi (Luireishimphung) village-hi northern Ukhrul-li wheel-less black stone pottery (Hampai)-wui ancestral cradle kashung akha.",
+    "Serpentinite stone kala weathered black clay ngarum-da artisans-na manual sculpting-li unique cookware sakya.",
+    "Megalithic lungchei monoliths kala pottery rituals ancestral craftsman thot-li reverence shitsangya."
+  ],
+  "english_translation_text": [
+    "Nungbi (Luireishimphung) in northern Ukhrul is the world-renowned ancestral home of wheel-less black stone pottery (Hampai).",
+    "Artisans blend crushed serpentinite rock with weathered alluvial clay, shaping vessels entirely by hand without a potter's wheel.",
+    "The settlement preserves ancient commemorative megaliths (Lungchei) and seasonal taboos honoring craft ancestor spirits."
+  ],
+  "chronicle_milestones": [
+    "1. Ancient Era: Discovered by northern Tangkhul pioneers finding unique serpentinite stone outcrops along the river gorge.",
+    "2. Craft Evolution: Perfection of the wheel-less shaping technique, polishing with mountain bamboo and river stones.",
+    "3. 19th Century: Nungbi cooking pots traded across Manipur, Nagaland, and the Kabaw Valley for iron, salt, and silk.",
+    "4. Contemporary: Global recognition and Geographical Indication (GI) registration candidacy for indigenous cultural preservation."
+  ],
+  "key_figures": [
+    "Nungbi Master Potters",
+    "Village Council (Hangva)",
+    "Luireishimphung Clan Elders"
+  ],
+  "geographical_scope": "Nungbi Khullen & Nungbi Kajui, Northern Ukhrul (Elevation 1,550 m)",
+  "historical_significance": "One of the rarest living Neolithic ceramic traditions in Asia, proving centuries of indigenous mineral engineering and artistic refinement.",
+  "historical_terms": {
+    "Hampai": "Traditional wheel-less black stone pottery vessel",
+    "Nungbi": "Ancestral settlement name denoting 'rock spring'",
+    "Lungchei": "Commemorative upright stone monolith",
+    "Kachikang": "Hand burnishing and shaping of clay vessels"
+  }
+}

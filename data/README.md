@@ -25,6 +25,7 @@ data/
 │   └── literature/
 ├── processed/                  # Normalized texts and extracted plain-text corpora
 ├── exports/                    # Exported datasets (CSV, JSON, TEI/XML)
+├── review/                     # Offline review exchange JSONL candidates (shielded)
 └── database/                   # Local SQLite databases (tangkhul_corpus.sqlite)
 ```
 
@@ -47,3 +48,9 @@ data/
 4. **Git Tracking**:
    - `data/raw/`, `data/database/*.sqlite`, and temporary exports are excluded by `.gitignore`.
    - `.gitkeep` markers ensure directory presence without committing unverified or copyright-restricted payloads.
+
+5. **Vocabulary Enrichment Hygiene (Step 13)**:
+   - Candidate vocabulary files imported via `tangkhul enrich` must correspond to a verified, authorized manifest record (`public_domain`, `permitted`, or `community_authorized`).
+   - Content from `restricted` (modern copyrighted publications) or `pending` sources cannot be extracted into the vocabulary corpus.
+   - Candidate exports in `data/review/` automatically shield and mask restricted context sentences (`[RESTRICTED TEXT - ACCESS PRIVILEGED]`) to prevent unauthorized leakage.
+

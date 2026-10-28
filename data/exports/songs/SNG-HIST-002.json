@@ -1,0 +1,57 @@
+{
+  "id": "SNG-HIST-002",
+  "resource_type": "songs",
+  "title": "Christian Songs (1916)",
+  "alternate_titles": [
+    "Tangkhul Christian Songs Collection"
+  ],
+  "title_translation": "Christian Songs",
+  "singer": "Mission Congregation",
+  "lyricist": "Early Mission Converts",
+  "composer": null,
+  "collector": "Centre for Academic Translation and Archiving (CATA)",
+  "performers": [],
+  "year": 1916,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://ibsdmirandahousecentrefornortheaststudies.wordpress.com/2017/04/04/3-april-2017/",
+  "source_identifier": "CATA-DU-1916",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Public Domain / Archival",
+  "permission_status": "public_domain",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Historic 1916 compilation of Christian songs printed in Roman script, preserved in scanned form at Delhi University CATA.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Varewui khorumli ringkapha lei.",
+        "Kazing kaphungli tui kaphana.",
+        "I-thumwui ningli kashak thotna."
+      ],
+      "lines_translation": [
+        "Joy dwells in worshipping the Creator.",
+        "The good news echoes across the mountain heights.",
+        "Held steadfast within the hearts of our people."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Mashunkashak wui shonfa kashung.",
+        "Jesu wui leikashili ngaraichangda.",
+        "Ukhrul ram kachivali ringpha pamra."
+      ],
+      "lines_translation": [
+        "Walking in the path of truth and righteousness.",
+        "United in the everlasting love of Jesus.",
+        "Dwelling in peace across every village of Ukhrul."
+      ]
+    }
+  ]
+}

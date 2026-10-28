@@ -1,0 +1,44 @@
+{
+  "id": "CULT-FEST-006",
+  "resource_type": "culture",
+  "title": "Dharreo Phanit",
+  "title_translation": "Pre-Harvest Blessing Festival",
+  "creator": "Tangkhul Farming Elders",
+  "year": 1977,
+  "publisher": "Traditional Observation (Horam 1977, Hodson 1911)",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul / Phungcham",
+  "category": "festival",
+  "subcategory": "agricultural",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Ch5-Dharreo",
+  "license": "Cultural Heritage Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-FEST-006_dharreo_phanit.txt",
+  "verification_status": "verified",
+  "notes": "Autumn pre-harvest festival celebrated in October before sickle touches the golden grain. Ritual invocations petition the Creator for protection against devastating wind, hail, and vermin before harvest.",
+  "indigenous_tangkhul_text": [
+    "Dharreo phanitli luisang kashung, kacham kashiman malailaka.",
+    "Phungcham Ukhrul luishang kachivali Varewui ningli khorumda.",
+    "Kazingmasho kazingmei makhavai, Varewui kakhon kaphali shitsang."
+  ],
+  "english_translation_text": [
+    "At Dharreo festival, the golden paddy stands ripe before harvest begins.",
+    "Across Ukhrul and Phungcham, every family petitions the Almighty Creator for blessing.",
+    "Praying for protection against storm, wind, and hail, that the grain may be safely reaped."
+  ],
+  "procedural_stages": [
+    "1. Inspection of standing paddy fields by farming elders in late October.",
+    "2. Proclamation of Dharreo festival before any household strikes the sickle.",
+    "3. Morning prayers offered at the edge of terraced paddies invoking divine protection.",
+    "4. Household preparation of special roasted rice and brewed beverages for workers.",
+    "5. Reaping commences in disciplined solidarity across all village sectors."
+  ],
+  "ceremonial_participants": [
+    "Farming Elders",
+    "Family Lineages",
+    "Reaping Teams"
+  ],
+  "seasonal_timing": "October (Autumn pre-harvest blessing)"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "HIST-COMM-002",
+  "resource_type": "history",
+  "title": "The Longshim (Traditional Youth Dormitory Institution)",
+  "title_translation": "Ancestral Academy of Civic Lore, Music, and Martial Arts",
+  "creator": "Tangkhul Cultural Historians & Elders",
+  "year": 1200,
+  "publisher": "Documented in Hodson 1911, Horam 1977, Shimray 1985",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Pan-Tangkhul",
+  "place": "Traditional Villages",
+  "category": "community_history",
+  "event_date": "Ancient Era to Mid-20th Century",
+  "period": "Traditional Ancestral Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Institution-Longshim-Academy",
+  "license": "Oral Cultural Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-COMM-002.txt",
+  "verification_status": "verified",
+  "notes": "Paramount ancestral socio-educational institution of every Tangkhul village. Functioned as the community dormitory and academy where youth mastered village defense, customary jurisprudence, epic ballads (Khararchan), weaving, and agricultural rituals.",
+  "indigenous_tangkhul_chronicle": [
+    "Longshim (traditional youth dormitory) Tangkhul village kachivali ancestral education kala social foundation kashung institution akha.",
+    "Mayarnao (Mayarshim) kala Shanaonao (Shanaoshim) dormitory-li village defense, oral chronicles (Khararchan), kala weaving apprenticeships learn sakya.",
+    "Community cohesion, customary law, athletics, kala folk music preservation-wui paramount academy thada pama."
+  ],
+  "english_translation_text": [
+    "The Longshim (traditional youth dormitory) was the paramount socio-educational institution of every ancestral Tangkhul village.",
+    "Divided into male (Mayarshim) and female (Shanaoshim) dormitories, it served as the academy for martial arts, oral history, and weaving.",
+    "It was the foundational pillar of community solidarity, customary ethics, athletic wrestling, and folk song transmission."
+  ],
+  "chronicle_milestones": [
+    "1. Ancient Origins: Established upon ancestral village founding as the nocturnal security garrison and youth academy.",
+    "2. Curriculum: Elder raconteurs taught customary laws, clan genealogies, hunting lore, and antiphonal songs (Laa).",
+    "3. Apprenticeship: Young women mastered backstrap loom weaving (Haora, Luirim, Chonkhom) and domestic arts.",
+    "4. 20th Century Transition: Replaced gradually by formal western day-schools while living values remain integral to Tangkhul identity."
+  ],
+  "key_figures": [
+    "Longshim Master Mentors",
+    "Youth Dormitory Prefects",
+    "Elder Raconteurs",
+    "Village Youth"
+  ],
+  "geographical_scope": "All Ancestral Tangkhul Villages (Hunphun, Hundung, Phungcham, etc.)",
+  "historical_significance": "The traditional indigenous university and civic training academy that preserved Tangkhul culture across centuries.",
+  "historical_terms": {
+    "Longshim": "Traditional youth dormitory and civic academy",
+    "Mayarshim": "Men's dormitory and village security garrison",
+    "Shanaoshim": "Women's dormitory and textile weaving academy",
+    "Khararchan-Tuitam": "Oral historical instruction and storytelling tradition"
+  }
+}

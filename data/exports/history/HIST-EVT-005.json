@@ -1,0 +1,52 @@
+{
+  "id": "HIST-EVT-005",
+  "resource_type": "history",
+  "title": "Publication of the First Tangkhul Primer",
+  "title_translation": "Inauguration of Tangkhul Print Literature",
+  "creator": "Rev. William Pettigrew",
+  "year": 1902,
+  "publisher": "Assam Secretariat Press, Shillong",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "place": "Shillong / Ukhrul",
+  "category": "historical_event",
+  "event_date": "1902",
+  "period": "Colonial Period (Early 20th Century)",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "BK-HIST-004",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-EVT-005.txt",
+  "verification_status": "verified",
+  "notes": "First printed reading textbook adapting the Roman alphabet to Tangkhul phonology, inaugurating formal vernacular education across the Manipur eastern hills.",
+  "indigenous_tangkhul_chronicle": [
+    "1902 kumli Assam Secretariat Press, Shillong-li Rev. Pettigrew-wui Tangkhul Primer khare kachap shansangya.",
+    "Roman akshar-li Tangkhul phonology mathat-da lakahon, tui-ming kashun kala lairik pakhang kakaso kashung.",
+    "Hina Tangkhul rali lairik kakharang-wui rawung-tui kakhon shurung-da thot pharor kashi shansangya."
+  ],
+  "english_translation_text": [
+    "In 1902, the First Tangkhul Primer was printed at the Assam Secretariat Press in Shillong by Rev. William Pettigrew.",
+    "It adapted the Roman alphabet with diacritical macrons to represent Tangkhul vowels, tone markers, and consonant glides.",
+    "The primer transformed an exclusively oral culture into a literate society capable of printing textbooks, newspapers, and records."
+  ],
+  "chronicle_milestones": [
+    "1. 1897–1901: Fieldwork by Pettigrew analyzing Ukhrul phonemes with native informants Raihao and local pupils.",
+    "2. 1902: Primer published under official sanction of the Chief Commissioner of Assam.",
+    "3. 1903: Adoption of the primer in all hill mission and village day-schools across Ukhrul district.",
+    "4. 1904: Publication of companion arithmetic and reading manuals based on the primer's phonetic standard."
+  ],
+  "key_figures": [
+    "Rev. William Pettigrew",
+    "Hunphun Village Informants",
+    "Assam Secretariat Press"
+  ],
+  "geographical_scope": "Shillong (Printing) & Ukhrul (Educational Distribution)",
+  "historical_significance": "The inaugural printed Tangkhul book in world history, establishing the Roman script orthography that remains in use today.",
+  "historical_terms": {
+    "Akshar": "Letter / alphabetic character",
+    "Tui-ming": "Spoken word / lexical term",
+    "Lairik pakhang": "Reading books / literacy study",
+    "Kachap": "Printing / publishing impressions"
+  }
+}

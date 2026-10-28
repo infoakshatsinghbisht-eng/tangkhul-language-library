@@ -1,0 +1,54 @@
+{
+  "id": "LIT-TRNS-002",
+  "resource_type": "literature",
+  "title": "Kristianwui Khangaran: Pilgrim's Progress in Tangkhul",
+  "title_translation": "The Pilgrim's Progress Tangkhul Translation",
+  "creator": "Tangkhul Christian Literature Committee",
+  "author": "John Bunyan / Tangkhul Translators",
+  "year": 1953,
+  "publisher": "American Baptist Mission Press, Imphal",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "translation",
+  "work_type": "translation",
+  "genres": [
+    "translation",
+    "novel"
+  ],
+  "book_id": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TCLC-1953-PP",
+  "license": "Mission Historical Publication",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-TRNS-002.txt",
+  "notes": "Major allegorical prose translation adapted into Tangkhul idiom, exerting profound historical influence on 20th-century Tangkhul narrative style and religious vocabulary.",
+  "indigenous_tangkhul_text": [
+    "1953 kumli John Bunyan-wui Pilgrim's Progress 'Kristianwui Khangaran' hithada Tangkhul translation publish sakya.",
+    "Christian character-na City of Destruction-li ngathur-da Celestial City-li journey sak-kacham allegorical narrative.",
+    "Tangkhul novel, moral allegory, kala 20th-century religious prose style-li profound historical influence exert sakya."
+  ],
+  "english_translation_text": [
+    "In 1953, John Bunyan's immortal allegory The Pilgrim's Progress was published in Tangkhul as 'Kristianwui Khangaran'.",
+    "Depicting the arduous spiritual pilgrimage from the City of Destruction through mountain valleys to the Celestial City.",
+    "This monumental translation exerted an indelible influence on 20th-century Tangkhul novelistic prose style and moral vocabulary."
+  ],
+  "literary_themes": [
+    "Allegorical spiritual pilgrimage and moral steadfastness",
+    "Linguistic localization of European prose allegory into mountain idioms",
+    "Expansion of philosophical and theological vocabulary in literary Tangkhul"
+  ],
+  "structure_and_meter": "Full-length allegorical novel translated into fluent classical Tangkhul prose with chapters and dialogue.",
+  "critical_commentary": "Published by the Tangkhul Christian Literature Committee in 1953, this work served as the premier literary novel read in Tangkhul households for over three decades.",
+  "poetic_vocabulary_terms": {
+    "Khangaran": "Spiritual pilgrimage / steadfast journey through trials",
+    "Kristian": "The pilgrim / faithful seeker",
+    "Varewui-Ram": "The Celestial City / the heavenly kingdom",
+    "Kharashot-Yarsho": "The steep and perilous path of moral trial"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

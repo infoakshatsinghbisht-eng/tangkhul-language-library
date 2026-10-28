@@ -1,0 +1,89 @@
+{
+  "id": "SNG-HIST-005",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 3: Jesuwui Vang Nganinglu",
+  "alternate_titles": [
+    "Stand Up, Stand Up for Jesus (Tangkhul)",
+    "Hymn No. 3 (1907)"
+  ],
+  "title_translation": "Stand Up, Stand Up for Jesus in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "George Duffield Jr. (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "George J. Webb (Tune 680 | Doh is Bb)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-003",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-005_jesuwui_laa_03_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 3 from Jesuwui La: Hymns in Tangkhul Naga (1907). 3 stanzas translated by Rev. William Pettigrew celebrating moral steadfastness.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Jesuwui vang nganinglu,",
+        "Krushwui raimi nashi;",
+        "Nawui philan khang khaninglu,",
+        "Mashimanpaimana.",
+        "Varina thanta laili,",
+        "Yenggashi mayuimara;",
+        "Ana pingta chiaina,",
+        "Apuk apag awung sai."
+      ],
+      "lines_translation": [
+        "Stand up, stand up for Jesus, ye soldiers of the cross;",
+        "Lift high His royal banner, it must not suffer loss.",
+        "From victory unto victory His army shall He lead,",
+        "Till every foe is vanquished, and Christ is Lord indeed."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Jesuwui vang nganinglu,",
+        "Talla khon nganalu,",
+        "Nashina mangacheeaka",
+        "Aja raipam chatlu;",
+        "Yenggashi kachungkali,",
+        "Ningkachang aina yuilu;",
+        "Chakchinlaka themta salu,",
+        "Arui mangashong chatlu."
+      ],
+      "lines_translation": [
+        "Stand up, stand up for Jesus, the trumpet call obey;",
+        "Forth to the mighty conflict in this His glorious day.",
+        "Ye that are men now serve Him against unnumbered foes;",
+        "Let courage rise with danger, and strength to strength oppose."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Jesuwui vang nganinglu,",
+        "Khangarar masangmara;",
+        "Aja gung gung kang gang sali,",
+        "Akhama la sara.",
+        "Kapinga mi chili",
+        "Kamata-va mira;",
+        "Varivarali ngasoda",
+        "Mashimanta pamra."
+      ],
+      "lines_translation": [
+        "Stand up, stand up for Jesus, the strife will not be long;",
+        "This day the noise of battle, the next the victor's song.",
+        "To him that overcometh, a crown of life shall be;",
+        "He with the King of Glory shall reign eternally."
+      ]
+    }
+  ]
+}

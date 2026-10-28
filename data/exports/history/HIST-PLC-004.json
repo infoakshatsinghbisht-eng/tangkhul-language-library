@@ -1,0 +1,53 @@
+{
+  "id": "HIST-PLC-004",
+  "resource_type": "history",
+  "title": "Shirui Kashong Sacred Mountain",
+  "title_translation": "The Sacred Sentinel Peak of the Tangkhuls",
+  "creator": "Tangkhul Geographical & Ecological Lore",
+  "year": 1911,
+  "publisher": "Documented in Hodson 1911, Kingdon-Ward 1948",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Shirui",
+  "place": "Shirui Kashong",
+  "category": "place",
+  "event_date": "Ancient to Present",
+  "period": "Cosmological / Ecological",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Shirui-Kashong",
+  "license": "Cultural & Ecological Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-004.txt",
+  "verification_status": "verified",
+  "notes": "Prominent 2,835-meter ancestral peak overlooking Ukhrul. Revered in traditional songs and folklore as a sacred mountain guardian; endemic home of the rare Shirui Lily (Lilium mackliniae).",
+  "indigenous_tangkhul_chronicle": [
+    "Shirui Kashong (2,835 meters) Tangkhul ramwui sacred sentinel peak kashun akha.",
+    "Endemic Shirui Lily (Lilium mackliniae) Kashongli pharak-kaza, folklore-li Lily Princess Philava thada ning-yanganung.",
+    "Ancestral beliefs-li Kashong-hi guardian spirits kala cloud-dwelling deities-wui sanctuary thada khorum shitsangya."
+  ],
+  "english_translation_text": [
+    "Shirui Kashong (2,835 meters) is the sacred sentinel peak dominating the eastern skyline of Ukhrul.",
+    "The mountain is the exclusive natural habitat of the rare pink-white Shirui Lily (Lilium mackliniae), celebrated as Princess Philava.",
+    "In traditional cosmology, the windswept summit is revered as the sanctum of benign protective spirits and cloud deities."
+  ],
+  "chronicle_milestones": [
+    "1. Ancestral Era: Sacred pilgrimage site for hunters and shamans seeking meteorological omens.",
+    "2. 1946: Frank Kingdon-Ward and Jean Macklin conduct botanical survey and document the endemic lily.",
+    "3. 1948: Conferred the Royal Horticultural Society Award of Merit in London.",
+    "4. 1989: Declared the State Flower of Manipur; Shirui National Park designated for habitat conservation.",
+    "5. Annual: Shirui Lily Festival celebrated by thousands of cultural and ecological visitors."
+  ],
+  "key_figures": [
+    "Jean Macklin & Frank Kingdon-Ward",
+    "Shirui Village Custodians",
+    "Philava (Spiritual guardian)"
+  ],
+  "geographical_scope": "Shirui Kashong Ridge, Eastern Ukhrul (Elevation 2,835 m)",
+  "historical_significance": "The foremost natural icon of Tangkhul heritage, uniting ecological uniqueness with deep poetic and mythological reverence.",
+  "historical_terms": {
+    "Kashong": "High peak / alpine mountain summit",
+    "Philava": "Mythical guardian princess of the sacred mountain",
+    "Khorum": "Reverent prayer and ritual homage",
+    "Kaza-khangao": "Natural wonder of unique indigenous beauty"
+  }
+}

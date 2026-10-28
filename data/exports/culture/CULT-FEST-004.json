@@ -1,0 +1,45 @@
+{
+  "id": "CULT-FEST-004",
+  "resource_type": "culture",
+  "title": "Thisham Phanit",
+  "title_translation": "Feast of Departing Souls",
+  "creator": "Tangkhul Ancestral Lineages",
+  "year": 1911,
+  "publisher": "Traditional Observation (Hodson 1911, Horam 1977)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "festival",
+  "subcategory": "memorial",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Hodson-1911-Ch4",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-FEST-004_thisham_phanit.txt",
+  "verification_status": "verified",
+  "notes": "Traditional memorial feast held in winter honoring family members who passed away during the preceding year. Pine torches are lit along pathways to guide departed spirits to Kasa Akhava (ancestral realm).",
+  "indigenous_tangkhul_text": [
+    "Thisham phanitli mangla khangaso, Kasa Akhavali chatkavai.",
+    "Mairong kakhonli lambali horho, avava apuipui wui shongshen.",
+    "Thisham laa sada wuklungli kachap, mangla katharana kachingli kara."
+  ],
+  "english_translation_text": [
+    "At Thisham feast, we commune with the souls of the departed as they journey to Kasa Akhava.",
+    "Pine torches illuminate the mountain pathways, guiding the footsteps of our ancestral beloved.",
+    "Singing solemn laments with contrite hearts, the purified spirits ascend to the heavenly realms."
+  ],
+  "procedural_stages": [
+    "1. Identification of all community members who departed life during the preceding twelve months.",
+    "2. Crafting of wooden effigies or memorial seats for each departed soul.",
+    "3. Lighting of resinous pine torches (Mairong) along village thoroughfares at dusk.",
+    "4. Antiphonal singing of Thisham Laa (mourning laments) by relatives and village choirs.",
+    "5. Ceremonial send-off offering food, rice beer, and travel provisions for the soul's journey."
+  ],
+  "ceremonial_participants": [
+    "Bereaved Clan Families",
+    "Village Priests",
+    "Mourning Choirs",
+    "Community Elders"
+  ],
+  "seasonal_timing": "December / January (Mid-winter memorial season)"
+}

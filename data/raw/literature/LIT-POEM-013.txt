@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: MEIPHUNGLI ATO WUI TUITAM
+IDENTIFIER: LIT-POEM-013 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Meiphungli Ato wui Tuitam
+  Title Translation:     Grandmother's Hearthside Lore and Wisdom
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  Iknguira L. Shimray
+  Publication Year:      2021
+  Publisher:             Hunphun Literary Circle, Ukhrul
+  Village / Dialect:     Hunphun [Hunphun / Standard Tangkhul]
+  Source Identifier:     ILS-2021-MAT
+  Source URL:            https://ukhrultimes.com/tangkhul-poetry-meiphungli-ato
+  Associated Book:       None
+  License & Clearance:   Author Permitted (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Evocative contemporary poem exploring domestic fireside education, grandmotherly oral instruction (Meiphungli Tuitam), and generational memory.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Ning-ngachuk meiphung eili meikha shurda kapam, Ato khangacheina khararchan tui ngashitsa.
+  Shim-ngalei zangzatta eina kazing meikharor shonlaga, naonaonao meikha ngareili phung-ngathang ngasumhaowa.
+
+  'Kashunao mayarnao, i-ramwui khararchan theikhuilu, thotharanwui ngashan hi mashan tit-khamana.'
+  Atowui khon-kachiphun kazingmei thada ngasasa, clan-wui ningkacham kala ram-leishat ring-ngasakhaowa.
+
+  Kashak-kakhayei mangli ning-ngamhaokha, meiphungli kapam Ato wui tuitam kashar thada ngasamphanga.
+  Chiwui thada Tangkhul naonaona meiphungwui meikha eina ancestral ning-kacham kachiphun kazat shurhaora.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Beside the glowing embers of the central hearth, our venerable grandmother gathers the village children.
+  While winter mists blanket the thatched roof and mountain pines sigh, little eyes turn wide around the warm fire.
+
+  'Listen, dear grandchildren, remember the deeds of our ancestors, for oral lore is the living soul of our people.'
+  Her gentle voice shines like celestial sparks, illuminating clan honor, customary virtue, and love of home.
+
+  When modern hardships and foreign winds blow chilly, grandmother's fireside wisdom remains our steadfast shield.
+  From the eternal flame of the mountain hearth, Tangkhul children draw the courage to carry their heritage forward.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Fireside oral pedagogy and generational transmission (*Meiphungli Tuitam*)
+  * Veneration of maternal elders and storytelling grandmothers (*Ato*)
+  * The domestic hearth (*Meiphung*) as the sacred sanctuary of memory and cultural warmth
+  * Resilience against cultural erosion through oral storytelling and ancestral proverbs
+
+STRUCTURE & POETIC METER: Intimate pastoral lyric in six rhymed stanzas featuring elegiac hearthside refrains.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A poignant contemporary work by Iknguira L. Shimray honoring the domestic oral traditions of Tangkhul households. The central hearth (Meiphung) serves not merely as a heating source but as the foundational classroom of moral ethics and communal memory.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Meiphung               : The central household earthen hearth / emotional and spiritual core of the home
+  * Ato                    : Paternal or maternal grandmother / elder female custodian of family lore
+  * Meikha                 : Glowing charcoal embers symbolizing persistent cultural memory
+  * Tuitam                 : Oral instruction, moral lessons, educational storytelling
+
+================================================================================
+END OF RECORD: LIT-POEM-013 - Tangkhul Language Library Digital Archive
+================================================================================

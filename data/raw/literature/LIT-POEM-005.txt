@@ -1,0 +1,72 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL NGALEI
+IDENTIFIER: LIT-POEM-005 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Ngalei
+  Title Translation:     Ode to the Tangkhul Motherland
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  Y.K. Shimray
+  Publication Year:      1985
+  Publisher:             Tangkhul Literature Society / Published in Tangkhul Poetry: Book 1
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     YKS-1985-TNL
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Educational Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Seminal patriotic poem celebrating the alpine hills, ethical uprightness, and sacred heritage of the Tangkhul territory, widely taught as a cultural anthem.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Tangkhul ngalei khamatha, kaphung-yarsho mayon-kazing,
+  Iramwui ngalung kacham, leikashi eina ngasothong.
+  Shirui wonna kaphungli khamatha eina mayondatta,
+  Kazing chiyan kashungli kazeiram thada ringkapha.
+
+  I-ava ram, i-arāra ram, nawui mang eili pamkapeiya,
+  Mayarnao khangarang, shanaonao khamatha mayon-ser,
+  Khamashung tui eina ngashan mirin kasak Tangkhul ram,
+  Thithang thithang nawui ming phung-ngathang kazingli khaláng-fara!
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  O beautiful land of the Tangkhul, crowned by soaring mountain ridges,
+  The sacred soil of our ancestors, flourishing in enduring love and harmony.
+  The Shirui Lily blooms in unmatched splendor upon the crests,
+  When morning mists ascend, it mirrors the serene beauty of the heavens.
+
+  Land of my mother, land of my ancestral fathers, in your embrace I find rest,
+  Where brave sons stand vigilant and fair daughters walk in graceful poise,
+  Bound by upright truth and righteous customs, O beloved Tangkhul soil,
+  Through all the ages, your sacred name shall soar high above the mountain peaks!
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Patriotic devotion and veneration of the ancestral homeland (*Ava Ram Leishat*)
+  * Poetic iconography of Mount Shirui and the endemic Shirui Lily (*Shirui Won*)
+  * Moral celebration of upright customary truth (*Khamashung Tui*)
+  * Hymnodic cadence and national cultural affirmation
+
+STRUCTURE & POETIC METER: Eight-line patriotic lyric ode composed in octosyllabic rhyming quatrains with solemn choral resonance.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Composed by the esteemed poet Y.K. Shimray and featured in *Tangkhul Poetry: Book 1*. Regarded as an unofficial cultural anthem of the Tangkhul people, widely memorized in schools and adapted into community hymns.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Tangkhul Ngalei        : The ancestral homeland / territory of the Tangkhul Naga people
+  * I-arāra ram            : The land of our remote ancestors / sacred forefathers
+  * Ringkapha              : Joyful, flourishing life lived in peace and cultural wholeness
+  * Phung-ngathang         : Above the sentinel mountain summits / eternal height
+
+================================================================================
+END OF RECORD: LIT-POEM-005 - Tangkhul Language Library Digital Archive
+================================================================================

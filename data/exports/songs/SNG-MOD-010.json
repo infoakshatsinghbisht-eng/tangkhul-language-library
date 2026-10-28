@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-010",
+  "resource_type": "songs",
+  "title": "Ramreichan",
+  "alternate_titles": [],
+  "title_translation": "Cherished Homeland",
+  "singer": "Diana Wungsek",
+  "lyricist": "Diana Wungsek",
+  "composer": "Diana Wungsek",
+  "collector": null,
+  "performers": [
+    "Diana Wungsek"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "patriotic",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-DW-002",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Homeland hymn expressing affection for the ancestral hills and valleys of Ukhrul.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Ramreichan, iram Ukhrul wui kaphung kapha.",
+        "Kaphung konglaoli leishat thot kashung."
+      ],
+      "lines_translation": [
+        "Cherished homeland Ukhrul, blessed mountain territory.",
+        "Across ridges and clear streams, love for home remains true."
+      ]
+    }
+  ]
+}

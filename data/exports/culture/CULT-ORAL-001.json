@@ -1,0 +1,43 @@
+{
+  "id": "CULT-ORAL-001",
+  "resource_type": "culture",
+  "title": "Shimreishang Kala Maitonphi Tradition",
+  "title_translation": "The Legendary Phungcham Love Ballad Tradition",
+  "creator": "Phungcham Village Oral Historians",
+  "year": 1982,
+  "publisher": "Documented in Arokianathan 1982, Horam 1982",
+  "language": "Tangkhul",
+  "dialect": "Phungcham",
+  "village": "Phungcham",
+  "category": "oral_tradition",
+  "subcategory": "legend",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "CIIL-FolkLit-1982-P01",
+  "license": "Oral Folk Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-ORAL-001_shimreishang_maitonphi_tradition.txt",
+  "verification_status": "verified",
+  "notes": "The 17th-century Phungcham tragic romance tradition. Preserves archaic dialect vocabulary, wedding customs, mourning rituals, and poetic verses between Shimreishang and Maitonphi.",
+  "indigenous_tangkhul_text": [
+    "Shimreishang kala Maitonphi wui khararchan Phungchamli thot kachung.",
+    "Leikashi kasakna wuklungli kashak, phanit laali ngasoda shaiching.",
+    "Thot kachung kashiman malai, Tangkhul ngalanaobingwui laashan."
+  ],
+  "english_translation_text": [
+    "The tragic romance of Shimreishang and Maitonphi echoes down the centuries from Phungcham village.",
+    "A transcendent love bound deep within the spirit, immortalized in classical oral ballads.",
+    "Never shall this oral tradition fade, inspiring generations of Tangkhul poetry and song."
+  ],
+  "procedural_stages": [
+    "1. Oral narration recited by village elders around evening dormitory fires.",
+    "2. Antiphonal singing of the ballad stanzas during courting and social festivals.",
+    "3. Examination of moral and customary themes: Loyalty, tragic separation, and eternal love.",
+    "4. Linguistic preservation: Transmitting archaic Phungcham dialect vocabulary through poetic verses."
+  ],
+  "ceremonial_participants": [
+    "Phungcham Village Elders",
+    "Oral Storytellers",
+    "Youth Dormitories"
+  ],
+  "seasonal_timing": "Social storytelling and cultural commemorations"
+}

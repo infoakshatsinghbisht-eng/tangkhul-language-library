@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KRISTIANWUI KHANGARAN: PILGRIM'S PROGRESS IN TANGKHUL
+IDENTIFIER: LIT-TRNS-002 | GENRE: TRANSLATION
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kristianwui Khangaran: Pilgrim's Progress in Tangkhul
+  Title Translation:     The Pilgrim's Progress Tangkhul Translation
+  Literary Genre / Type: translation (translation)
+  Author / Storyteller:  John Bunyan / Tangkhul Translators
+  Publication Year:      1953
+  Publisher:             American Baptist Mission Press, Imphal
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TCLC-1953-PP
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Mission Historical Publication (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Major allegorical prose translation adapted into Tangkhul idiom, exerting profound historical influence on 20th-century Tangkhul narrative style and religious vocabulary.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  1953 kumli John Bunyan-wui Pilgrim's Progress 'Kristianwui Khangaran' hithada Tangkhul translation publish sakya.
+  Christian character-na City of Destruction-li ngathur-da Celestial City-li journey sak-kacham allegorical narrative.
+  Tangkhul novel, moral allegory, kala 20th-century religious prose style-li profound historical influence exert sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In 1953, John Bunyan's immortal allegory The Pilgrim's Progress was published in Tangkhul as 'Kristianwui Khangaran'.
+  Depicting the arduous spiritual pilgrimage from the City of Destruction through mountain valleys to the Celestial City.
+  This monumental translation exerted an indelible influence on 20th-century Tangkhul novelistic prose style and moral vocabulary.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Allegorical spiritual pilgrimage and moral steadfastness
+  * Linguistic localization of European prose allegory into mountain idioms
+  * Expansion of philosophical and theological vocabulary in literary Tangkhul
+
+STRUCTURE & POETIC METER: Full-length allegorical novel translated into fluent classical Tangkhul prose with chapters and dialogue.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Published by the Tangkhul Christian Literature Committee in 1953, this work served as the premier literary novel read in Tangkhul households for over three decades.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Khangaran              : Spiritual pilgrimage / steadfast journey through trials
+  * Kristian               : The pilgrim / faithful seeker
+  * Varewui-Ram            : The Celestial City / the heavenly kingdom
+  * Kharashot-Yarsho       : The steep and perilous path of moral trial
+
+================================================================================
+END OF RECORD: LIT-TRNS-002 - Tangkhul Language Library Digital Archive
+================================================================================

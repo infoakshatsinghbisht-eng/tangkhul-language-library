@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: SIKUI KALA MACHUN
+IDENTIFIER: LIT-CHLD-002 | GENRE: CHILDREN_LITERATURE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Sikui Kala Machun
+  Title Translation:     The Deer and the Crab
+  Literary Genre / Type: children_literature (children_literature)
+  Author / Storyteller:  Traditional
+  Publication Year:      2022
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-001-L03
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-001
+  License & Clearance:   Educational Use (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Classic humorous trickster story contrasting the swift deer with the patient, resourceful crab. Published in Class II textbook Wontui Tangkhul.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Sikui (Deer) na Machun (Crab)-li racing-li challenge sakda, 'Nakhurli pamkaza, iwui speed mashapmana!' hithada tuitsang.
+  Machunna clever-laka da Sikuiwui kachei-li khangarom-da finish line-li advance-da phungchan.
+  Kacham-kacham mibingna speed-wui matuida clever strategy kala patience-na victory shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  The swift Deer (*Sikui*) challenged the slow Crab (*Machun*) to a race, mocking: 'Creeping in the mud, you can never match my stride!'
+  Yet the astute crab clung discreetly to the deer's tail, tumbling forward across the finish line first with quiet composure.
+  Thus children learn that unbridled pride is outmatched by clever foresight, resourcefulness, and calm patience.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * The classic trickster fable: slow wits versus rapid agility
+  * Humility and the folly of boastful overconfidence
+  * Resourceful problem-solving in challenging situations
+
+STRUCTURE & POETIC METER: Short humorous fable with dynamic narrative pacing and dialogue, followed by a pedagogic summary.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Curated in the Class II primary reader Wontui Tangkhul (2022), this story teaches young children that wit and steadiness overcome sheer physical strength.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Sikui                  : The wild barking deer of the mountain forests
+  * Machun                 : The river crab dwelling in rocky mountain streams
+  * Khangayei              : Clever wit and inventive trickery
+  * Ringkaphaphong         : Triumphant joy after humble endeavor
+
+================================================================================
+END OF RECORD: LIT-CHLD-002 - Tangkhul Language Library Digital Archive
+================================================================================

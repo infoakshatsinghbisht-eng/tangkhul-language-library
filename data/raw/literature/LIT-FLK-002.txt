@@ -1,0 +1,60 @@
+================================================================================
+TANGKHUL LITERARY RECORD: HAO KHARARCHAN: TANGKHUL FOLKTALES COLLECTION
+IDENTIFIER: LIT-FLK-002 | GENRE: LITERARY_ANTHOLOGY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Hao Khararchan: Tangkhul Folktales Collection
+  Title Translation:     Anthology of Tangkhul Ancestral Folktales
+  Literary Genre / Type: literary_anthology (literary_anthology)
+  Author / Storyteller:  Tangkhul Literature Society
+  Publication Year:      1981
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TLS-1981-KKC
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Comprehensive canonical anthology of ancestral Tangkhul folktales (Khararchan) compiled by native elders to preserve oral literature for school education.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Hao khararchan-hi Tangkhul rali thot-kharewui khamashung tuingashit kashung akha.
+  Ava-apawui tharanli chithada shitsang-da, longshimli kakaso paonao-bingli pakhang shansangya.
+  Kaphung-kachon, ngatha-kazat, kala vare-khorumwui otshak kachiva hiyakha lairikli mathat-da lakahon.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  The ancestral folktales (*Hao Khararchan*) embody the wisdom and moral code of early Tangkhul generations.
+  Handed down by forefathers around the nocturnal hearth, these stories were taught to youth in village dormitories.
+  Mountain hunts, customary jurisprudence, and divine invocations are meticulously preserved within this collection.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Ancestral oral pedagogy and folklore transmission
+  * Ethical justice, communal virtue, and retribution
+  * Harmonious balance between humans, forest fauna, and nature spirits
+  * Etiological myths explaining mountain landmarks and tribal origins
+
+STRUCTURE & POETIC METER: Prose folktale anthology with interspersed poetic chants (*Laa*) and ceremonial proverbs (*Paotam*).
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Compiled in 1981 by the Tangkhul Literature Society, this anthology codified centuries of unwritten oral lore into a canonical reader for community schools.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Khararchan             : Traditional ancestral narrative / folktale / legend
+  * Longshim               : Traditional village youth dormitory and academy
+  * Tuingashit             : Covenant word / moral instruction
+  * Thot-khare             : The primordial ancestral era
+
+================================================================================
+END OF RECORD: LIT-FLK-002 - Tangkhul Language Library Digital Archive
+================================================================================

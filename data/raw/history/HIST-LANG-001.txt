@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: MAJOR MCCULLOCH'S 1859 TANGKHUL WORDLIST DOCUMENTATION
+IDENTIFIER: HIST-LANG-001 | CATEGORY: LANGUAGE_HISTORY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Major McCulloch's 1859 Tangkhul Wordlist Documentation
+  Title Translation:     Earliest Recorded Tangkhul Comparative Wordlist
+  Historical Category:   language_history
+  Event Date / Period:   1859 | 19th Century Colonial
+  Sort Year:             1859
+  Place / Settlement:    Manipur [Imphal / Ukhrul]
+  Dialect / Variety:     Archaic Tangkhul
+  Key Figures / Creator: Major M. McCulloch
+  Publisher / Source:    Bengal Printing Company, Calcutta
+  Source Identifier:     DIC-HIST-002
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Public Domain (public_domain)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Earliest known published linguistic record of Tangkhul vocabulary, documenting 150+ comparative lexical entries compiled by the Political Agent in Manipur.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1859 kumli Major W. McCulloch (Political Agent in Manipur) Tangkhul Luhuppa comparative wordlist kachap shansangya.
+  Bengal Printing Company, Calcutta-li 150+ comparative lexical terms publish sakya.
+  Hina printed historical literature-li Tangkhul vocabulary-wui first systematic comparative record shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  In 1859, Major W. McCulloch, Political Agent in Manipur, published the earliest known Tangkhul comparative wordlist.
+  Printed by Bengal Printing Company in Calcutta, it recorded 150+ vocabulary items under the name 'Luhuppa'.
+  This landmark publication provided the scientific world with its first empirical documentation of Tangkhul speech.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. 1845–1859: McCulloch collects comparative vocabularies from hill tribes visiting the Imphal residency.
+  2. 1859: Publishes 'Account of the Valley of Munnipore and of the Hill Tribes' as Selections from Records of the Government of India.
+  3. Comparative Analysis: Demonstrates lexical affinities between Tangkhul (Luhuppa), Manipuri, and Tibeto-Burman cognates.
+  4. Impact: Cited by Grierson, Damant, and modern historical linguists tracing Sino-Tibetan roots.
+
+KEY FIGURES & LEADERS:
+  Major W. McCulloch, Tangkhul Interlocutors in Imphal, Government of India Foreign Dept.
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Imphal Residency & Ukhrul / Luhuppa Hills
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  The inaugural empirical entry of the Tangkhul language into international comparative linguistics literature.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Luhuppa                : Colonial-era ethnonym for northern and central Tangkhuls, derived from cane headgear
+  * Tui-shur               : Tracing lexical roots and cognates
+  * Kachap-Lairik          : Printed publication / official book record
+  * Ngaraikakhon           : Linguistic comparison across varieties
+
+================================================================================
+END OF RECORD: HIST-LANG-001 - Tangkhul Language Library Digital Archive
+================================================================================

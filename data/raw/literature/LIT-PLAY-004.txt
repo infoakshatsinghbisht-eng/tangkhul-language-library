@@ -1,0 +1,70 @@
+================================================================================
+TANGKHUL LITERARY RECORD: LUIRA WUI PHEICHAK
+IDENTIFIER: LIT-PLAY-004 | GENRE: PLAY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Luira wui Pheichak
+  Title Translation:     The Dance of the Sowing Season: A Three-Act Folk Drama
+  Literary Genre / Type: play (play)
+  Author / Storyteller:  Tangkhul Dramatic Troupe & TLS
+  Publication Year:      2010
+  Publisher:             Tangkhul Literature Society Dramatic Board, Ukhrul
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TLS-2010-LWP
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-014
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Celebrated three-scene musical stage drama dramatizing youth preparations for Luira festival dances, clan boundary arbitration, and social reconciliation.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Scene 1: Hunphun village plaza. Elders chant ancestral sowing prayers while youth practice Luira Pheichak.
+  Mayarnao Somatai: 'Ngalā Wungnao, nawui luirim chonkashan hi Luirawui won thada meingap-pamhaowa!'
+
+  Scene 2: Village Longshim entrance. Clan arbitration over field boundary rights threatened the festival harmony.
+  Awunga Shimray: 'Clan feuds must dissolve before the sacred seeds are sown; our brotherhood is older than our fields!'
+
+  Scene 3: Festal ground at sundown. Drums beat in cadence as the entire village joins the great round dance.
+  Choral Ensemble: 'Luirawui pheichak eina i-ramli kiphun mirin rali, Tangkhul ngashan kachung-chihui ringhaora!'
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Scene 1: Hunphun village courtyard. Elders chant ancient sowing invocations while youth rehearse the festival dance.
+  Youth Somatai: 'Maiden Wungnao, your woven Luirim shawl radiates like the spring lily of Mount Shirui!'
+
+  Scene 2: Entrance to the village dormitory. A contentious terrace boundary dispute between two clans threatens harmony.
+  Headman Shimray: 'Custom demands reconciliation before holy seeds touch the furrow; clan peace is our true wealth!'
+
+  Scene 3: Main festal grounds at twilight. Hand-carved log drums boom in rhythmic cadence as the whole village dances.
+  Village Choral Ensemble: 'Through the sacred steps of the Luira dance, prosperity descends upon our hills forever!'
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Dramatization of festival preparations and youth courtship (*Luira Pheichak*)
+  * Traditional clan conflict resolution and judicial arbitration by village elders
+  * The moral necessity of communal harmony before agricultural planting
+  * Choral dance (*Pheichak*) as ritual embodiment of community unity and joy
+
+STRUCTURE & POETIC METER: Three-act folk drama in rhythmic dialogue, traditional choral chants, and drum cadences.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A landmark stage drama produced by the Tangkhul Dramatic Troupe. It uses the festive backdrop of the spring Luira festival to examine customary conflict resolution, demonstrating how festival participation demands genuine social reconciliation.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Pheichak               : Customary choral step-dance performed during major festivals
+  * Longshim               : Ancestral youth dormitory and institution of community education
+  * Luirao                 : The agricultural sowing deities and ancestors invoked during spring rites
+  * Shanaonao              : Maidens / young women of the village
+
+================================================================================
+END OF RECORD: LIT-PLAY-004 - Tangkhul Language Library Digital Archive
+================================================================================

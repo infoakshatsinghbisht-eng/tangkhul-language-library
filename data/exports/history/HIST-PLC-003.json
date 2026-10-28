@@ -1,0 +1,52 @@
+{
+  "id": "HIST-PLC-003",
+  "resource_type": "history",
+  "title": "Sangshak Ridge Settlement",
+  "title_translation": "Historic Fortress Village and Battlefield",
+  "creator": "Settlement & Military History Documentation",
+  "year": 1944,
+  "publisher": "Documented in Slim 1956, Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Sangshak",
+  "place": "Sangshak",
+  "category": "place",
+  "event_date": "Ancient to Modern",
+  "period": "Traditional & World War II",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Sangshak-Plateau",
+  "license": "Historical Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-003.txt",
+  "verification_status": "verified",
+  "notes": "Strategic mountain settlement in western Ukhrul district with deep historical traditions of village defense, which became world-famous during the crucial March 1944 delaying action against Japanese forces.",
+  "indigenous_tangkhul_chronicle": [
+    "Sangshak settlement-hi western Ukhrul district-li kashak kaphung kashung akha.",
+    "Tangkhul customary warfare-li defensive bastion thada pama, 1944-li World War II battlefield lakahon shansangya.",
+    "Village-wui elders-bingna ancestral oral history kala wartime fortitude mathat-da ngari-khamathan shitsangya."
+  ],
+  "english_translation_text": [
+    "Sangshak is a prominent mountain settlement situated on a defensive plateau in western Ukhrul district.",
+    "Long renowned in traditional history as a formidable fortress village, it earned worldwide acclaim in the 1944 delaying battle.",
+    "The village elders preserve both ancient customary folklore and vivid living memories of World War II heroism."
+  ],
+  "chronicle_milestones": [
+    "1. Pre-colonial: Formed as an impregnable hill citadel guarding western valley approaches.",
+    "2. March 1944: Site of the pivotal 6-day battle between British-Indian Parachute troops and the Japanese 31st Division.",
+    "3. Post-WWII: Reconstructed through resilient community mutual aid (Khamasit).",
+    "4. Present: Significant center of education and historical memorial tourism."
+  ],
+  "key_figures": [
+    "Sangshak Clan Chiefs",
+    "Wartime Guides",
+    "Battle Veterans"
+  ],
+  "geographical_scope": "Sangshak Plateau, Western Ukhrul (Elevation 1,700 m)",
+  "historical_significance": "A symbol of heroic village resilience and a pivotal battlefield that shaped the geopolitics of World War II in Asia.",
+  "historical_terms": {
+    "Sangshak": "Village name signifying 'elevated watchtower plateau'",
+    "Khamasit": "Mutual clan aid and cooperative rebuilding",
+    "Ngaraishon": "Strategic defense and protective fortification",
+    "Otkhare": "Pioneering heroic deed"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "LIT-FLK-004",
+  "resource_type": "literature",
+  "title": "Kashunao wui Khararchan",
+  "title_translation": "The Tale of the Orphan Boy",
+  "creator": "Tangkhul Oral Tradition Custodians",
+  "author": "Traditional",
+  "year": 1981,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1981-KSH",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-004.txt",
+  "notes": "Widespread traditional moral tale of an impoverished orphan boy who triumphs over adversity through customary virtue, patience, and ancestral blessings.",
+  "indigenous_tangkhul_text": [
+    "Kashunao akhana shim-khamachamli pamda ava-apa makhavai kacham-kacham pharora.",
+    "Kachang-khalia mibingna athishangli mashak kachi-eili, ningteotet-da Vare-li khorum-kachang makhayipmana.",
+    "Kashukwui tharanli awungana athishangli khamatha shanao mi-da wungnao shansangya."
+  ],
+  "english_translation_text": [
+    "A poor orphan boy lived in quiet solitude, bereft of parents and enduring severe mountain hardships.",
+    "Though the proud and wealthy mocked his threadbare clothes, his spirit remained humble and steadfast in prayer.",
+    "In the fullness of time, the village chief rewarded his upright virtue by giving him his daughter's hand and noble rank."
+  ],
+  "literary_themes": [
+    "The orphan archetype (*Kashunao*) as a moral exemplar in indigenous folklore",
+    "Triumph of virtue, diligence, and humility over arrogance",
+    "Divine intervention and customary social mobility through marriage"
+  ],
+  "structure_and_meter": "Tripartite folktale structure: trial and deprivation, magical/moral test, and social elevation.",
+  "critical_commentary": "The orphan motif is universally cherished across Naga cultures as a reflection on social justice, community empathy, and spiritual reward for moral perseverance.",
+  "poetic_vocabulary_terms": {
+    "Kashunao": "Orphan child / humble youth",
+    "Vare-Khorum": "Reverent prayer and trust in the Supreme Creator",
+    "Ningteotet": "Unwavering patience and humble perseverance",
+    "Wungnao": "Nobility / honored status in the village council"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

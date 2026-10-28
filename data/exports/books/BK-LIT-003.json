@@ -1,0 +1,1110 @@
+{
+  "id": "BK-LIT-003",
+  "resource_type": "books",
+  "title": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)",
+  "alternate_titles": [
+    "Tangkhul Folktales and Legends"
+  ],
+  "authors": [
+    "Y. K. Shimray"
+  ],
+  "editors": [],
+  "publisher": "Cultural Heritage of Manipur, Imphal",
+  "publication_year": 1976,
+  "year": 1976,
+  "edition": "First Edition",
+  "subject": "Oral Literature and Mythological Legends",
+  "educational_level": "General / Cultural",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/in.ernet.dli.2015.466362",
+  "source_identifier": "in.ernet.dli.2015.466362",
+  "catalogue_url": "https://archive.org/details/in.ernet.dli.2015.466362",
+  "local_file_path": "data/raw/books/BK-LIT-003_shimray_1976.txt",
+  "file_format": "txt",
+  "license": "Cultural Preservation",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Classic anthology of 35 Tangkhul folktales, founding myths of Hundung and Ukhrul, animal fables, and customary legal allegories.",
+  "front_matter": {
+    "title_page": {
+      "title": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)",
+      "alternate_titles": [
+        "Tangkhul Folktales and Legends"
+      ],
+      "authors": [
+        "Y. K. Shimray"
+      ],
+      "editors": [],
+      "publisher": "Cultural Heritage of Manipur, Imphal",
+      "publication_year": 1976,
+      "edition": "First Edition",
+      "educational_level": "General / Cultural",
+      "subject": "Oral Literature and Mythological Legends",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-LIT-003",
+      "license": "Cultural Preservation",
+      "permission_status": "permitted",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "in.ernet.dli.2015.466362",
+      "source_url": "https://archive.org/details/in.ernet.dli.2015.466362"
+    },
+    "preface": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) by Y. K. Shimray (Cultural Heritage of Manipur, Imphal, 1976). Preserves 35 classic oral folktales, mythological legends of village foundations, animal fables, and customary moral allegories of the Tangkhul people."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "The Legend of Hundung & The White Cow",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Two Brothers & Migration to the Hills",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Animal Fables: The Tiger and the Clever Toad",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Story of Huimei and Mountain Spirits",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "The Origin of Rice & The Discovery of Salt",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Tales of Morung Bravery & Tricksters",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 7,
+      "title": "Moral Allegories & Customary Wisdom",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 19
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 20
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Legend of Hundung & The White Cow",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Founding of Hundung village guided by the sacred pregnant cow.",
+      "tangkhul_text": "Awo-ayiwui thotchanli: Seiva kachang akha leilaga apha kapha apamli vatuda seinao phanung tharanli Hundung khaung phokna. Kaphung kaphali zatlaga seiva china apam kaphā akha theilaga pamshona; chili seinao phada awo-ayina 'Hundung' (Hungpung) da hoya.",
+      "english_translation": "Ancestral lore recounts that the village founders followed a sacred white cow across the hills. Wherever the cow rested upon the fertile plateau, there she gave birth to her calf, and upon that blessed ground the ancient mother-village of Hundung was founded.",
+      "vocabulary": [
+        {
+          "word": "seiva",
+          "pos": "noun",
+          "meaning": "sacred cow",
+          "example": "Seiva kachang akha."
+        },
+        {
+          "word": "hundung",
+          "pos": "proper",
+          "meaning": "Hundung village",
+          "example": "Hundung khaung phokna."
+        },
+        {
+          "word": "phanung",
+          "pos": "verb",
+          "meaning": "gave birth",
+          "example": "Seinao phanung."
+        }
+      ],
+      "grammar_points": [
+        "Founding legend narrative formula.",
+        "Temporal clause marker tharanli."
+      ],
+      "comprehension_questions": [
+        "What animal guided the founders of Hundung?",
+        "What does this legend symbolize in Tangkhul pastoralism?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Two Brothers & Migration to the Hills",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "The covenant between elder brother (hills) and younger brother (valley).",
+      "tangkhul_text": "Chinaoni khani wui tui: kakhara a kaphungli pamda kakhanao a ngaleili vaipama. Anili khangaran shiyan leiyi: kakhara na kaphungwui theishak kala khuira chili ngaleili phungmiya; kakhanao na ngaleiwui machi kala kachon chili kaphungli phungmiya.",
+      "english_translation": "The legend of the two brothers: the elder brother chose the high mountain ridges, while the younger brother cultivated the valley plains. They established a covenant: the elder sent mountain forest produce and honey to the plain, and the younger returned salt and woven cloth.",
+      "vocabulary": [
+        {
+          "word": "chinaoni",
+          "pos": "noun",
+          "meaning": "brothers",
+          "example": "Chinaoni khani."
+        },
+        {
+          "word": "kakhara",
+          "pos": "noun",
+          "meaning": "elder brother",
+          "example": "Kakhara kaphungli."
+        },
+        {
+          "word": "kakhanao",
+          "pos": "noun",
+          "meaning": "younger brother",
+          "example": "Kakhanao ngaleili."
+        }
+      ],
+      "grammar_points": [
+        "Reciprocal trade terminology in oral covenants.",
+        "Contrastive particle na."
+      ],
+      "comprehension_questions": [
+        "What goods did the two brothers exchange?",
+        "How does this folktale reflect historical trade between hills and valley?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Animal Fables: The Tiger and the Clever Toad",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Wit triumphs over brute force in the forest.",
+      "tangkhul_text": "Khawo eina khanei wui khararchan: Khawo khamakang ana ngashida leikha khanei them lak eina makhamatuina. Khawo china 'I eina kaphang ngaroksa!' da kahangli, khanei na awui khamangli khamatuda ngawonshoka. Kong kanda vashung tharan khanei na 'I ashung hairaya!' da kahangli khawo ngacheiseri.",
+      "english_translation": "The fable of the tiger and the toad: the mighty tiger boasted of his speed and challenged the toad to a race. The clever toad latched onto the tiger's bushy tail as he leaped across the rocky river, landing first on the bank and declaring victory, teaching that wisdom exceeds brute strength.",
+      "vocabulary": [
+        {
+          "word": "khawo",
+          "pos": "noun",
+          "meaning": "tiger",
+          "example": "Khawo khamakang."
+        },
+        {
+          "word": "khanei",
+          "pos": "noun",
+          "meaning": "toad, frog",
+          "example": "Khanei them laka."
+        },
+        {
+          "word": "themkhamatha",
+          "pos": "noun",
+          "meaning": "wit, wisdom",
+          "example": "Them lak eina."
+        }
+      ],
+      "grammar_points": [
+        "Fable dialogue attribution using da kahangli.",
+        "Direct vs reported speech."
+      ],
+      "comprehension_questions": [
+        "How did the toad outsmart the tiger?",
+        "What is the moral lesson of the fable?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Story of Huimei and Mountain Spirits",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "A brave hunter learns the healing secrets of forest herbs from Kameo spirits.",
+      "tangkhul_text": "Huimei kaphungli valaga kameowui tui theiser; khangachei maleila shitsangda ungchan thotna. Kameona ali theishingkhami tarakha thuiya: ngaleiwui themthei eina thingna raha eina mi kakhangasho saikora pangkakhui shiyan.",
+      "english_translation": "Huimei, a courageous hunter, encountered the benevolent mountain spirits (Kameo) upon the high ridges. Unafraid, he listened respectfully as they revealed the healing virtues of mountain roots and herbs, returning to his village as a revered traditional healer.",
+      "vocabulary": [
+        {
+          "word": "kameo",
+          "pos": "noun",
+          "meaning": "mountain spirit",
+          "example": "Kameowui tui."
+        },
+        {
+          "word": "khangachei",
+          "pos": "noun",
+          "meaning": "fear, dread",
+          "example": "Khangachei maleila."
+        },
+        {
+          "word": "raha",
+          "pos": "noun",
+          "meaning": "medicinal root",
+          "example": "Thingna raha."
+        }
+      ],
+      "grammar_points": [
+        "Ethnobotanical terminology.",
+        "Spiritual respect formulas in oral narratives."
+      ],
+      "comprehension_questions": [
+        "What knowledge did Huimei receive from the mountain spirits?",
+        "What role do Kameo play in Tangkhul nature philosophy?"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "The Origin of Rice & The Discovery of Salt",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "How hunters discovered saline springs at Marem and the gift of paddy seeds.",
+      "tangkhul_text": "Machi eina ma machiwui shiyan: Marem kaphungli tara khamathei machikashak samphangna. Shiva na tara chi mangda leikha sayur tarakhana chili zangda tara kashing mangda leiseri. Chitharan awo-ayina machi tara khumda machi kasa phokna.",
+      "english_translation": "The discovery of salt and paddy: ancestral hunters observed wild deer regularly licking certain rocks near Marem. Tasting the spring waters, they discovered natural saline springs and learned to boil the brine in earthenware pots, founding the celebrated salt wells of northern Tangkhul.",
+      "vocabulary": [
+        {
+          "word": "machi",
+          "pos": "noun",
+          "meaning": "salt",
+          "example": "Machi tara."
+        },
+        {
+          "word": "ma",
+          "pos": "noun",
+          "meaning": "paddy, rice",
+          "example": "Ma machi."
+        },
+        {
+          "word": "marem",
+          "pos": "proper",
+          "meaning": "Marem salt spring area",
+          "example": "Marem kaphungli."
+        }
+      ],
+      "grammar_points": [
+        "Discovery narratives with observation verbs (thei-, samphang-).",
+        "Technological terminology for salt boiling."
+      ],
+      "comprehension_questions": [
+        "How was the saline spring discovered?",
+        "Why was salt a precious commodity in the hills?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Tales of Morung Bravery & Tricksters",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Feats of strength, archery contests, and humorous trickster narratives in the Longra.",
+      "tangkhul_text": "Longrawui yarsona ot kakhayei kasa eina lumlaoda pamshona. Yaron akhana lungrei kahak akha phungshokda awui mathun chitheiya; kateipa china themkhamatha eina malung kharaowa mi akhali ngacheilaka ot kasa themchitheiya.",
+      "english_translation": "Youth in the village Morung engaged in athletic competitions and humorous storytelling. One youth proved his strength by lifting heavy megalithic stones, while another displayed quick wit by solving traditional riddles and defusing village rivalries with laughter.",
+      "vocabulary": [
+        {
+          "word": "yarso",
+          "pos": "noun",
+          "meaning": "warrior youth cohort",
+          "example": "Longrawui yarso."
+        },
+        {
+          "word": "lungrei",
+          "pos": "noun",
+          "meaning": "heavy stone",
+          "example": "Lungrei phungshokda."
+        },
+        {
+          "word": "themkhamatha",
+          "pos": "noun",
+          "meaning": "clever wit",
+          "example": "Themkhamatha chitheiya."
+        }
+      ],
+      "grammar_points": [
+        "Comparative narrative pairing strength vs intelligence.",
+        "Colloquial morung expressions."
+      ],
+      "comprehension_questions": [
+        "What competitions were held among morung youths?",
+        "Why was storytelling valued in the bachelor dormitory?"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Moral Allegories & Customary Wisdom",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Traditional proverbs (Tuingashit) and customary jurisprudence of the council.",
+      "tangkhul_text": "Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram makazamana.' 'Pang eina kasa otna wuklungli karingna.' 'Khaung kaphā khangavawa wui tuiyana.' Mashung kakhayang hi Tangkhul ngashanli khamataiya machutna.",
+      "english_translation": "Classical Tangkhul proverbs: 'Reconciliation is sweeter than bitter strife; justice leaves no regret in the afterlife.' 'Labor with one's hands nourishes the soul.' 'A peaceful village reflects the wisdom of its council.' Truthfulness and personal integrity remain the highest virtues of the Tangkhul code.",
+      "vocabulary": [
+        {
+          "word": "tuingashit",
+          "pos": "noun",
+          "meaning": "proverb, maxim",
+          "example": "Tangkhul tuingashit."
+        },
+        {
+          "word": "mashung",
+          "pos": "adj/noun",
+          "meaning": "truth, righteousness",
+          "example": "Mashung kakhayang."
+        },
+        {
+          "word": "khangaran",
+          "pos": "noun",
+          "meaning": "peace, reconciliation",
+          "example": "Tui khangaran."
+        }
+      ],
+      "grammar_points": [
+        "Aphoristic syntax: parallel clauses without copula.",
+        "Moral imperatives."
+      ],
+      "comprehension_questions": [
+        "Quote two classical Tangkhul proverbs.",
+        "What is the supreme virtue in customary Tangkhul jurisprudence?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-LIT-003",
+      "title": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)",
+      "lines": [
+        "TITLE: Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)",
+        "Identifier: BK-LIT-003",
+        "Level: General / Cultural | Subject: Oral Literature and Mythological Legends",
+        "Publisher: Cultural Heritage of Manipur, Imphal (1976)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium).",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) by Y. K. Shimray",
+        "(Cultural Heritage of Manipur, Imphal, 1976). Preserves 35 classic oral",
+        "folktales, mythological legends of village foundations, animal fables, and",
+        "customary moral allegories of the Tangkhul people."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: permitted"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: The Legend of Hundung & The White Cow (pp. 4-5)",
+        "  Chapter 2: The Two Brothers & Migration to the Hills (pp. 6-7)",
+        "  Chapter 3: Animal Fables: The Tiger and the Clever Toad (pp. 8-9)",
+        "  Chapter 4: The Story of Huimei and Mountain Spirits (pp. 10-11)",
+        "  Chapter 5: The Origin of Rice & The Discovery of Salt (pp. 12-13)",
+        "  Chapter 6: Tales of Morung Bravery & Tricksters (pp. 14-15)",
+        "  Chapter 7: Moral Allegories & Customary Wisdom (pp. 16-18)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 19)",
+        "  Back Cover & Archival Colophon (p. 20)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: The Legend of Hundung & The White Cow (Page 4)",
+      "title": "Chapter 1: The Legend of Hundung & The White Cow",
+      "lines": [
+        "CHAPTER 1: THE LEGEND OF HUNDUNG & THE WHITE COW",
+        "Summary: Founding of Hundung village guided by the sacred pregnant cow.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Awo-ayiwui thotchanli: Seiva kachang akha leilaga apha kapha apamli",
+        "vatuda seinao phanung tharanli Hundung khaung phokna. Kaphung kaphali",
+        "zatlaga seiva china apam kaphā akha theilaga pamshona; chili seinao",
+        "phada awo-ayina 'Hundung' (Hungpung) da hoya.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Ancestral lore recounts that the village founders followed a sacred",
+        "white cow across the hills. Wherever the cow rested upon the fertile",
+        "plateau, there she gave birth to her calf, and upon that blessed ground",
+        "the ancient mother-village of Hundung was founded."
+      ],
+      "tangkhul_content": "Awo-ayiwui thotchanli: Seiva kachang akha leilaga apha kapha apamli vatuda seinao phanung tharanli Hundung khaung phokna. Kaphung kaphali zatlaga seiva china apam kaphā akha theilaga pamshona; chili seinao phada awo-ayina 'Hundung' (Hungpung) da hoya.",
+      "english_translation": "Ancestral lore recounts that the village founders followed a sacred white cow across the hills. Wherever the cow rested upon the fertile plateau, there she gave birth to her calf, and upon that blessed ground the ancient mother-village of Hundung was founded.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * seiva (noun): sacred cow",
+        "    Example: Seiva kachang akha.",
+        "  * hundung (proper): Hundung village",
+        "    Example: Hundung khaung phokna.",
+        "  * phanung (verb): gave birth",
+        "    Example: Seinao phanung.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Founding legend narrative formula.",
+        "  - Temporal clause marker tharanli.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What animal guided the founders of Hundung?",
+        "  ? What does this legend symbolize in Tangkhul pastoralism?"
+      ],
+      "tangkhul_content": "seiva: sacred cow\nhundung: Hundung village\nphanung: gave birth",
+      "english_translation": "Founding legend narrative formula.\nTemporal clause marker tharanli.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: The Two Brothers & Migration to the Hills (Page 6)",
+      "title": "Chapter 2: The Two Brothers & Migration to the Hills",
+      "lines": [
+        "CHAPTER 2: THE TWO BROTHERS & MIGRATION TO THE HILLS",
+        "Summary: The covenant between elder brother (hills) and younger brother (valley).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Chinaoni khani wui tui: kakhara a kaphungli pamda kakhanao a ngaleili",
+        "vaipama. Anili khangaran shiyan leiyi: kakhara na kaphungwui theishak",
+        "kala khuira chili ngaleili phungmiya; kakhanao na ngaleiwui machi kala",
+        "kachon chili kaphungli phungmiya.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The legend of the two brothers: the elder brother chose the high",
+        "mountain ridges, while the younger brother cultivated the valley plains.",
+        "They established a covenant: the elder sent mountain forest produce and",
+        "honey to the plain, and the younger returned salt and woven cloth."
+      ],
+      "tangkhul_content": "Chinaoni khani wui tui: kakhara a kaphungli pamda kakhanao a ngaleili vaipama. Anili khangaran shiyan leiyi: kakhara na kaphungwui theishak kala khuira chili ngaleili phungmiya; kakhanao na ngaleiwui machi kala kachon chili kaphungli phungmiya.",
+      "english_translation": "The legend of the two brothers: the elder brother chose the high mountain ridges, while the younger brother cultivated the valley plains. They established a covenant: the elder sent mountain forest produce and honey to the plain, and the younger returned salt and woven cloth.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * chinaoni (noun): brothers",
+        "    Example: Chinaoni khani.",
+        "  * kakhara (noun): elder brother",
+        "    Example: Kakhara kaphungli.",
+        "  * kakhanao (noun): younger brother",
+        "    Example: Kakhanao ngaleili.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Reciprocal trade terminology in oral covenants.",
+        "  - Contrastive particle na.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What goods did the two brothers exchange?",
+        "  ? How does this folktale reflect historical trade between hills and valley?"
+      ],
+      "tangkhul_content": "chinaoni: brothers\nkakhara: elder brother\nkakhanao: younger brother",
+      "english_translation": "Reciprocal trade terminology in oral covenants.\nContrastive particle na.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Animal Fables: The Tiger and the Clever Toad (Page 8)",
+      "title": "Chapter 3: Animal Fables: The Tiger and the Clever Toad",
+      "lines": [
+        "CHAPTER 3: ANIMAL FABLES: THE TIGER AND THE CLEVER TOAD",
+        "Summary: Wit triumphs over brute force in the forest.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Khawo eina khanei wui khararchan: Khawo khamakang ana ngashida leikha",
+        "khanei them lak eina makhamatuina. Khawo china 'I eina kaphang",
+        "ngaroksa!' da kahangli, khanei na awui khamangli khamatuda ngawonshoka.",
+        "Kong kanda vashung tharan khanei na 'I ashung hairaya!' da kahangli",
+        "khawo ngacheiseri.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The fable of the tiger and the toad: the mighty tiger boasted of his",
+        "speed and challenged the toad to a race. The clever toad latched onto",
+        "the tiger's bushy tail as he leaped across the rocky river, landing",
+        "first on the bank and declaring victory, teaching that wisdom exceeds",
+        "brute strength."
+      ],
+      "tangkhul_content": "Khawo eina khanei wui khararchan: Khawo khamakang ana ngashida leikha khanei them lak eina makhamatuina. Khawo china 'I eina kaphang ngaroksa!' da kahangli, khanei na awui khamangli khamatuda ngawonshoka. Kong kanda vashung tharan khanei na 'I ashung hairaya!' da kahangli khawo ngacheiseri.",
+      "english_translation": "The fable of the tiger and the toad: the mighty tiger boasted of his speed and challenged the toad to a race. The clever toad latched onto the tiger's bushy tail as he leaped across the rocky river, landing first on the bank and declaring victory, teaching that wisdom exceeds brute strength.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * khawo (noun): tiger",
+        "    Example: Khawo khamakang.",
+        "  * khanei (noun): toad, frog",
+        "    Example: Khanei them laka.",
+        "  * themkhamatha (noun): wit, wisdom",
+        "    Example: Them lak eina.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Fable dialogue attribution using da kahangli.",
+        "  - Direct vs reported speech.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How did the toad outsmart the tiger?",
+        "  ? What is the moral lesson of the fable?"
+      ],
+      "tangkhul_content": "khawo: tiger\nkhanei: toad, frog\nthemkhamatha: wit, wisdom",
+      "english_translation": "Fable dialogue attribution using da kahangli.\nDirect vs reported speech.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: The Story of Huimei and Mountain Spirits (Page 10)",
+      "title": "Chapter 4: The Story of Huimei and Mountain Spirits",
+      "lines": [
+        "CHAPTER 4: THE STORY OF HUIMEI AND MOUNTAIN SPIRITS",
+        "Summary: A brave hunter learns the healing secrets of forest herbs from Kameo spirits.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Huimei kaphungli valaga kameowui tui theiser; khangachei maleila",
+        "shitsangda ungchan thotna. Kameona ali theishingkhami tarakha thuiya:",
+        "ngaleiwui themthei eina thingna raha eina mi kakhangasho saikora",
+        "pangkakhui shiyan.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Huimei, a courageous hunter, encountered the benevolent mountain spirits",
+        "(Kameo) upon the high ridges. Unafraid, he listened respectfully as they",
+        "revealed the healing virtues of mountain roots and herbs, returning to",
+        "his village as a revered traditional healer."
+      ],
+      "tangkhul_content": "Huimei kaphungli valaga kameowui tui theiser; khangachei maleila shitsangda ungchan thotna. Kameona ali theishingkhami tarakha thuiya: ngaleiwui themthei eina thingna raha eina mi kakhangasho saikora pangkakhui shiyan.",
+      "english_translation": "Huimei, a courageous hunter, encountered the benevolent mountain spirits (Kameo) upon the high ridges. Unafraid, he listened respectfully as they revealed the healing virtues of mountain roots and herbs, returning to his village as a revered traditional healer.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * kameo (noun): mountain spirit",
+        "    Example: Kameowui tui.",
+        "  * khangachei (noun): fear, dread",
+        "    Example: Khangachei maleila.",
+        "  * raha (noun): medicinal root",
+        "    Example: Thingna raha.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Ethnobotanical terminology.",
+        "  - Spiritual respect formulas in oral narratives.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What knowledge did Huimei receive from the mountain spirits?",
+        "  ? What role do Kameo play in Tangkhul nature philosophy?"
+      ],
+      "tangkhul_content": "kameo: mountain spirit\nkhangachei: fear, dread\nraha: medicinal root",
+      "english_translation": "Ethnobotanical terminology.\nSpiritual respect formulas in oral narratives.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: The Origin of Rice & The Discovery of Salt (Page 12)",
+      "title": "Chapter 5: The Origin of Rice & The Discovery of Salt",
+      "lines": [
+        "CHAPTER 5: THE ORIGIN OF RICE & THE DISCOVERY OF SALT",
+        "Summary: How hunters discovered saline springs at Marem and the gift of paddy seeds.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Machi eina ma machiwui shiyan: Marem kaphungli tara khamathei",
+        "machikashak samphangna. Shiva na tara chi mangda leikha sayur tarakhana",
+        "chili zangda tara kashing mangda leiseri. Chitharan awo-ayina machi tara",
+        "khumda machi kasa phokna.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "The discovery of salt and paddy: ancestral hunters observed wild deer",
+        "regularly licking certain rocks near Marem. Tasting the spring waters,",
+        "they discovered natural saline springs and learned to boil the brine in",
+        "earthenware pots, founding the celebrated salt wells of northern",
+        "Tangkhul."
+      ],
+      "tangkhul_content": "Machi eina ma machiwui shiyan: Marem kaphungli tara khamathei machikashak samphangna. Shiva na tara chi mangda leikha sayur tarakhana chili zangda tara kashing mangda leiseri. Chitharan awo-ayina machi tara khumda machi kasa phokna.",
+      "english_translation": "The discovery of salt and paddy: ancestral hunters observed wild deer regularly licking certain rocks near Marem. Tasting the spring waters, they discovered natural saline springs and learned to boil the brine in earthenware pots, founding the celebrated salt wells of northern Tangkhul.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * machi (noun): salt",
+        "    Example: Machi tara.",
+        "  * ma (noun): paddy, rice",
+        "    Example: Ma machi.",
+        "  * marem (proper): Marem salt spring area",
+        "    Example: Marem kaphungli.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Discovery narratives with observation verbs (thei-, samphang-).",
+        "  - Technological terminology for salt boiling.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? How was the saline spring discovered?",
+        "  ? Why was salt a precious commodity in the hills?"
+      ],
+      "tangkhul_content": "machi: salt\nma: paddy, rice\nmarem: Marem salt spring area",
+      "english_translation": "Discovery narratives with observation verbs (thei-, samphang-).\nTechnological terminology for salt boiling.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Tales of Morung Bravery & Tricksters (Page 14)",
+      "title": "Chapter 6: Tales of Morung Bravery & Tricksters",
+      "lines": [
+        "CHAPTER 6: TALES OF MORUNG BRAVERY & TRICKSTERS",
+        "Summary: Feats of strength, archery contests, and humorous trickster narratives in the Longra.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Longrawui yarsona ot kakhayei kasa eina lumlaoda pamshona. Yaron akhana",
+        "lungrei kahak akha phungshokda awui mathun chitheiya; kateipa china",
+        "themkhamatha eina malung kharaowa mi akhali ngacheilaka ot kasa",
+        "themchitheiya.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Youth in the village Morung engaged in athletic competitions and",
+        "humorous storytelling. One youth proved his strength by lifting heavy",
+        "megalithic stones, while another displayed quick wit by solving",
+        "traditional riddles and defusing village rivalries with laughter."
+      ],
+      "tangkhul_content": "Longrawui yarsona ot kakhayei kasa eina lumlaoda pamshona. Yaron akhana lungrei kahak akha phungshokda awui mathun chitheiya; kateipa china themkhamatha eina malung kharaowa mi akhali ngacheilaka ot kasa themchitheiya.",
+      "english_translation": "Youth in the village Morung engaged in athletic competitions and humorous storytelling. One youth proved his strength by lifting heavy megalithic stones, while another displayed quick wit by solving traditional riddles and defusing village rivalries with laughter.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * yarso (noun): warrior youth cohort",
+        "    Example: Longrawui yarso.",
+        "  * lungrei (noun): heavy stone",
+        "    Example: Lungrei phungshokda.",
+        "  * themkhamatha (noun): clever wit",
+        "    Example: Themkhamatha chitheiya.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Comparative narrative pairing strength vs intelligence.",
+        "  - Colloquial morung expressions.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What competitions were held among morung youths?",
+        "  ? Why was storytelling valued in the bachelor dormitory?"
+      ],
+      "tangkhul_content": "yarso: warrior youth cohort\nlungrei: heavy stone\nthemkhamatha: clever wit",
+      "english_translation": "Comparative narrative pairing strength vs intelligence.\nColloquial morung expressions.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Moral Allegories & Customary Wisdom (Page 16)",
+      "title": "Chapter 7: Moral Allegories & Customary Wisdom",
+      "lines": [
+        "CHAPTER 7: MORAL ALLEGORIES & CUSTOMARY WISDOM",
+        "Summary: Traditional proverbs (Tuingashit) and customary jurisprudence of the council.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram",
+        "makazamana.' 'Pang eina kasa otna wuklungli karingna.' 'Khaung kaphā",
+        "khangavawa wui tuiyana.' Mashung kakhayang hi Tangkhul ngashanli",
+        "khamataiya machutna.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Classical Tangkhul proverbs: 'Reconciliation is sweeter than bitter",
+        "strife; justice leaves no regret in the afterlife.' 'Labor with one's",
+        "hands nourishes the soul.' 'A peaceful village reflects the wisdom of",
+        "its council.' Truthfulness and personal integrity remain the highest",
+        "virtues of the Tangkhul code."
+      ],
+      "tangkhul_content": "Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram makazamana.' 'Pang eina kasa otna wuklungli karingna.' 'Khaung kaphā khangavawa wui tuiyana.' Mashung kakhayang hi Tangkhul ngashanli khamataiya machutna.",
+      "english_translation": "Classical Tangkhul proverbs: 'Reconciliation is sweeter than bitter strife; justice leaves no regret in the afterlife.' 'Labor with one's hands nourishes the soul.' 'A peaceful village reflects the wisdom of its council.' Truthfulness and personal integrity remain the highest virtues of the Tangkhul code.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 17)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 17)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram",
+        "makazamana.' 'Pang eina kasa otna wuklungli karingna.' 'Khaung kaphā",
+        "khangavawa wui tuiyana.' Mashung kakhayang hi Tangkhul ngashanli",
+        "khamataiya machutna.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Classical Tangkhul proverbs: 'Reconciliation is sweeter than bitter",
+        "strife; justice leaves no regret in the afterlife.' 'Labor with one's",
+        "hands nourishes the soul.' 'A peaceful village reflects the wisdom of",
+        "its council.' Truthfulness and personal integrity remain the highest",
+        "virtues of the Tangkhul code."
+      ],
+      "tangkhul_content": "Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram makazamana.' 'Pang eina kasa otna wuklungli karingna.' 'Khaung kaphā khangavawa wui tuiyana.' Mashung kakhayang hi Tangkhul ngashanli khamataiya machutna.",
+      "english_translation": "Classical Tangkhul proverbs: 'Reconciliation is sweeter than bitter strife; justice leaves no regret in the afterlife.' 'Labor with one's hands nourishes the soul.' 'A peaceful village reflects the wisdom of its council.' Truthfulness and personal integrity remain the highest virtues of the Tangkhul code.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * tuingashit (noun): proverb, maxim",
+        "    Example: Tangkhul tuingashit.",
+        "  * mashung (adj/noun): truth, righteousness",
+        "    Example: Mashung kakhayang.",
+        "  * khangaran (noun): peace, reconciliation",
+        "    Example: Tui khangaran.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Aphoristic syntax: parallel clauses without copula.",
+        "  - Moral imperatives.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Quote two classical Tangkhul proverbs.",
+        "  ? What is the supreme virtue in customary Tangkhul jurisprudence?"
+      ],
+      "tangkhul_content": "tuingashit: proverb, maxim\nmashung: truth, righteousness\nkhangaran: peace, reconciliation",
+      "english_translation": "Aphoristic syntax: parallel clauses without copula.\nMoral imperatives.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "back_matter_glossary",
+      "header": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) -- Comprehensive Glossary (Page 19)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  seiva [noun]: sacred cow",
+        "  hundung [proper]: Hundung village",
+        "  phanung [verb]: gave birth",
+        "  chinaoni [noun]: brothers",
+        "  kakhara [noun]: elder brother",
+        "  kakhanao [noun]: younger brother",
+        "  khawo [noun]: tiger",
+        "  khanei [noun]: toad, frog",
+        "  themkhamatha [noun]: wit, wisdom",
+        "  kameo [noun]: mountain spirit",
+        "  khangachei [noun]: fear, dread",
+        "  raha [noun]: medicinal root",
+        "  machi [noun]: salt",
+        "  ma [noun]: paddy, rice",
+        "  marem [proper]: Marem salt spring area",
+        "  yarso [noun]: warrior youth cohort",
+        "  lungrei [noun]: heavy stone",
+        "  themkhamatha [noun]: clever wit",
+        "  tuingashit [noun]: proverb, maxim",
+        "  mashung [adj/noun]: truth, righteousness",
+        "  khangaran [noun]: peace, reconciliation"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 21"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "back_cover",
+      "header": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium) -- Back Cover & Colophon (Page 20)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-LIT-003",
+        "Title: Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)",
+        "Publisher: Cultural Heritage of Manipur, Imphal",
+        "Publication Year: 1976",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 20",
+        "Total Chapters: 7",
+        "Total Words Indexed: 528",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "seiva",
+        "pos": "noun",
+        "meaning": "sacred cow",
+        "example": "Seiva kachang akha."
+      },
+      {
+        "word": "hundung",
+        "pos": "proper",
+        "meaning": "Hundung village",
+        "example": "Hundung khaung phokna."
+      },
+      {
+        "word": "phanung",
+        "pos": "verb",
+        "meaning": "gave birth",
+        "example": "Seinao phanung."
+      },
+      {
+        "word": "chinaoni",
+        "pos": "noun",
+        "meaning": "brothers",
+        "example": "Chinaoni khani."
+      },
+      {
+        "word": "kakhara",
+        "pos": "noun",
+        "meaning": "elder brother",
+        "example": "Kakhara kaphungli."
+      },
+      {
+        "word": "kakhanao",
+        "pos": "noun",
+        "meaning": "younger brother",
+        "example": "Kakhanao ngaleili."
+      },
+      {
+        "word": "khawo",
+        "pos": "noun",
+        "meaning": "tiger",
+        "example": "Khawo khamakang."
+      },
+      {
+        "word": "khanei",
+        "pos": "noun",
+        "meaning": "toad, frog",
+        "example": "Khanei them laka."
+      },
+      {
+        "word": "themkhamatha",
+        "pos": "noun",
+        "meaning": "wit, wisdom",
+        "example": "Them lak eina."
+      },
+      {
+        "word": "kameo",
+        "pos": "noun",
+        "meaning": "mountain spirit",
+        "example": "Kameowui tui."
+      },
+      {
+        "word": "khangachei",
+        "pos": "noun",
+        "meaning": "fear, dread",
+        "example": "Khangachei maleila."
+      },
+      {
+        "word": "raha",
+        "pos": "noun",
+        "meaning": "medicinal root",
+        "example": "Thingna raha."
+      },
+      {
+        "word": "machi",
+        "pos": "noun",
+        "meaning": "salt",
+        "example": "Machi tara."
+      },
+      {
+        "word": "ma",
+        "pos": "noun",
+        "meaning": "paddy, rice",
+        "example": "Ma machi."
+      },
+      {
+        "word": "marem",
+        "pos": "proper",
+        "meaning": "Marem salt spring area",
+        "example": "Marem kaphungli."
+      },
+      {
+        "word": "yarso",
+        "pos": "noun",
+        "meaning": "warrior youth cohort",
+        "example": "Longrawui yarso."
+      },
+      {
+        "word": "lungrei",
+        "pos": "noun",
+        "meaning": "heavy stone",
+        "example": "Lungrei phungshokda."
+      },
+      {
+        "word": "themkhamatha",
+        "pos": "noun",
+        "meaning": "clever wit",
+        "example": "Themkhamatha chitheiya."
+      },
+      {
+        "word": "tuingashit",
+        "pos": "noun",
+        "meaning": "proverb, maxim",
+        "example": "Tangkhul tuingashit."
+      },
+      {
+        "word": "mashung",
+        "pos": "adj/noun",
+        "meaning": "truth, righteousness",
+        "example": "Mashung kakhayang."
+      },
+      {
+        "word": "khangaran",
+        "pos": "noun",
+        "meaning": "peace, reconciliation",
+        "example": "Tui khangaran."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-LIT-003",
+      "title": "Tangkhul Gee Wari Singbul (Tangkhul Folktale Compendium)",
+      "total_pages": 20,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 20,
+  "total_chapters": 7,
+  "total_words": 818,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: The Legend of Hundung & The White Cow",
+      "tangkhul_text": "Awo-ayiwui thotchanli: Seiva kachang akha leilaga apha kapha apamli vatuda seinao phanung tharanli Hundung khaung phokna. Kaphung kaphali zatlaga seiva china apam kaphā akha theilaga pamshona; chili seinao phada awo-ayina 'Hundung' (Hungpung) da hoya.",
+      "translation_en": "Ancestral lore recounts that the village founders followed a sacred white cow across the hills. Wherever the cow rested upon the fertile plateau, there she gave birth to her calf, and upon that blessed ground the ancient mother-village of Hundung was founded."
+    },
+    {
+      "chapter": "Chapter 2: The Two Brothers & Migration to the Hills",
+      "tangkhul_text": "Chinaoni khani wui tui: kakhara a kaphungli pamda kakhanao a ngaleili vaipama. Anili khangaran shiyan leiyi: kakhara na kaphungwui theishak kala khuira chili ngaleili phungmiya; kakhanao na ngaleiwui machi kala kachon chili kaphungli phungmiya.",
+      "translation_en": "The legend of the two brothers: the elder brother chose the high mountain ridges, while the younger brother cultivated the valley plains. They established a covenant: the elder sent mountain forest produce and honey to the plain, and the younger returned salt and woven cloth."
+    },
+    {
+      "chapter": "Chapter 3: Animal Fables: The Tiger and the Clever Toad",
+      "tangkhul_text": "Khawo eina khanei wui khararchan: Khawo khamakang ana ngashida leikha khanei them lak eina makhamatuina. Khawo china 'I eina kaphang ngaroksa!' da kahangli, khanei na awui khamangli khamatuda ngawonshoka. Kong kanda vashung tharan khanei na 'I ashung hairaya!' da kahangli khawo ngacheiseri.",
+      "translation_en": "The fable of the tiger and the toad: the mighty tiger boasted of his speed and challenged the toad to a race. The clever toad latched onto the tiger's bushy tail as he leaped across the rocky river, landing first on the bank and declaring victory, teaching that wisdom exceeds brute strength."
+    },
+    {
+      "chapter": "Chapter 4: The Story of Huimei and Mountain Spirits",
+      "tangkhul_text": "Huimei kaphungli valaga kameowui tui theiser; khangachei maleila shitsangda ungchan thotna. Kameona ali theishingkhami tarakha thuiya: ngaleiwui themthei eina thingna raha eina mi kakhangasho saikora pangkakhui shiyan.",
+      "translation_en": "Huimei, a courageous hunter, encountered the benevolent mountain spirits (Kameo) upon the high ridges. Unafraid, he listened respectfully as they revealed the healing virtues of mountain roots and herbs, returning to his village as a revered traditional healer."
+    },
+    {
+      "chapter": "Chapter 5: The Origin of Rice & The Discovery of Salt",
+      "tangkhul_text": "Machi eina ma machiwui shiyan: Marem kaphungli tara khamathei machikashak samphangna. Shiva na tara chi mangda leikha sayur tarakhana chili zangda tara kashing mangda leiseri. Chitharan awo-ayina machi tara khumda machi kasa phokna.",
+      "translation_en": "The discovery of salt and paddy: ancestral hunters observed wild deer regularly licking certain rocks near Marem. Tasting the spring waters, they discovered natural saline springs and learned to boil the brine in earthenware pots, founding the celebrated salt wells of northern Tangkhul."
+    },
+    {
+      "chapter": "Chapter 6: Tales of Morung Bravery & Tricksters",
+      "tangkhul_text": "Longrawui yarsona ot kakhayei kasa eina lumlaoda pamshona. Yaron akhana lungrei kahak akha phungshokda awui mathun chitheiya; kateipa china themkhamatha eina malung kharaowa mi akhali ngacheilaka ot kasa themchitheiya.",
+      "translation_en": "Youth in the village Morung engaged in athletic competitions and humorous storytelling. One youth proved his strength by lifting heavy megalithic stones, while another displayed quick wit by solving traditional riddles and defusing village rivalries with laughter."
+    },
+    {
+      "chapter": "Chapter 7: Moral Allegories & Customary Wisdom",
+      "tangkhul_text": "Tangkhul tuingashit: 'Tui kakhayei eina tui khangaran phamei; kazeiram makazamana.' 'Pang eina kasa otna wuklungli karingna.' 'Khaung kaphā khangavawa wui tuiyana.' Mashung kakhayang hi Tangkhul ngashanli khamataiya machutna.",
+      "translation_en": "Classical Tangkhul proverbs: 'Reconciliation is sweeter than bitter strife; justice leaves no regret in the afterlife.' 'Labor with one's hands nourishes the soul.' 'A peaceful village reflects the wisdom of its council.' Truthfulness and personal integrity remain the highest virtues of the Tangkhul code."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-PROV-006
+TITLE: Proverb on Resilience: Shiyan mahara
+TITLE TRANSLATION: Iron is Tempered by Striking
+CATEGORY: proverb | SUBCATEGORY: resilience
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Traditional Blacksmith & Moral Lore
+PUBLICATION / SOURCE: Documented in Arokianathan 1982
+SOURCE ID: CIIL-FolkLit-1982-P08
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Original saying: 'Shiyan mahara ngalemli.' Drawing on indigenous metallurgical crafts, it teaches that hardships fortify moral character.
+
+[SEASONAL TIMING & OCCASION]
+Moral encouragement during adversity
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Mentors
+- Apprentices
+- Youth
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+Shared as moral encouragement when facing difficult trials, sickness, or hardship.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Shiyan mahara ngalemli.
+
+[ENGLISH TRANSLATION & MEANING]
+Iron is tempered and transformed into resilient steel only by striking.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

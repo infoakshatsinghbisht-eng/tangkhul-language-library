@@ -1,0 +1,72 @@
+================================================================================
+TANGKHUL LITERARY RECORD: RACHIRKHUILU
+IDENTIFIER: LIT-POEM-009 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Rachirkhuilu
+  Title Translation:     Awaken to the Dawn: Poetic Songs and Hymns
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  Hoyam Kasomwoshi
+  Publication Year:      2015
+  Publisher:             Ukhrul Community Music & Poetry Publications
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     HKW-2015-RCK
+  Source URL:            https://tangkhullyrics.com/rachirkhuilu
+  Associated Book:       None
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Stirring lyric poem and youth anthem urging moral uprightness, communal unity, and love for the ancestral mother tongue.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Rachirkhuilu iramwui mayarnao, ngashan kazatli ning-kashung,
+  Kaphung-yarsho eili kazing chiko kashungli laa khamatha seilu.
+  Kazeiramwui mangli ngasamkakhung makhanganingli meingaláng,
+  I-ava ramli ringkaphaphong eina kashung-kazatta.
+
+  Meikha kacham thada iramwui tui leishi-kazatlu,
+  Kacham-kacham arārawui ngashan kachiko thada;
+  Rachirkhuilu, rachirkhuilu, Tangkhul ram meiphung-li,
+  Kazing ngalung-li ning-akha thada meingashan-fara!
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Awaken and rise, O youth of our homeland, stand firm in upright integrity,
+  Upon the green terraces at break of dawn, raise your voices in sacred song.
+  Live not as wanderers in twilight dreams, but illuminate the mountain path,
+  Living in joyful fulfillment upon the fertile hills our fathers tilled.
+
+  Cherish the mother tongue with devotion as steady as glowing coals,
+  Honoring the noble customs bequeathed by our ancestral founders;
+  Awaken, awaken, around the grand Tangkhul hearth,
+  Under the expanse of heaven, we shall shine united as one soul!
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Inspirational awakening of youth (*Rachirkhuilu*)
+  * Devotion to the Tangkhul mother tongue and ancestral virtues
+  * Communal unity around the shared cultural hearth
+  * Spiritual optimism and purposeful cultural renaissance
+
+STRUCTURE & POETIC METER: Choral lyric anthem in two octets with stirring call-to-action refrain and melodic harmony.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Composed by renowned lyricist and musician Hoyam Kasomwoshi. Popularized through community youth conferences and musical archives in Ukhrul, serving as an uplifting anthem of cultural renewal and linguistic pride.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Rachirkhuilu           : Arise, awaken, greet the dawn, take up purposeful action
+  * Ning-kashung           : Uprightness of purpose, unwavering steadfastness
+  * Meingashan             : To radiate warmth, shine forth, manifest cultural dignity
+  * Ning-akha              : One heart, complete solidarity, communal unity
+
+================================================================================
+END OF RECORD: LIT-POEM-009 - Tangkhul Language Library Digital Archive
+================================================================================

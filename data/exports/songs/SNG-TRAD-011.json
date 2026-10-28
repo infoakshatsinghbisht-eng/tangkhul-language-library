@@ -1,0 +1,77 @@
+{
+  "id": "SNG-TRAD-011",
+  "resource_type": "songs",
+  "title": "Hao Pheichak Laa",
+  "alternate_titles": [
+    "Warrior and Festival Dance Chant",
+    "Tangkhul Antiphonal Dance Song"
+  ],
+  "title_translation": "Traditional Dance and Warrior Chant",
+  "singer": "Longpi Traditional Troupe",
+  "lyricist": null,
+  "composer": null,
+  "collector": "H. Kamkhenthang / Directorate of Tribals Manipur",
+  "performers": [],
+  "year": 1989,
+  "village": "Longpi",
+  "dialect": "Longpi Dialect",
+  "song_type": "ceremonial",
+  "language": "Tangkhul",
+  "source_url": "https://sanchika.ciil.org/collections/tangkhul-dance",
+  "source_identifier": "TRI-MANIPUR-PHEICHAK-001",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": "data/raw/songs/SNG-TRAD-011_hao_pheichak_laa.txt",
+  "license": "Cultural Heritage",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Antiphonal ceremonial warrior and celebration dance chant performed during major public gatherings and festival dances (Pheichak).",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Hao pheichakli pheikao kazing,",
+        "Longpi rammayong wui khangara.",
+        "Kashan kuiphop aina ngathatta,",
+        "Kaphung kachungli khangaso laa."
+      ],
+      "lines_translation": [
+        "In the ceremonial circle of Hao Pheichak, the rhythmic footwork echoes,",
+        "The valiant defenders and sons of Longpi village step forth.",
+        "Adorned in ceremonial headgear and traditional woven shawls,",
+        "Their anthems of bravery resound through the mountain ridges."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Arai a-wung wui ngashan kashak,",
+        "Changvai pheishak aina ngachee.",
+        "Khamatei raipam ngatei kazingli,",
+        "Iram wui mashun themthot pamei."
+      ],
+      "lines_translation": [
+        "Bearing the regal customs and nobility of our ancestral chiefs,",
+        "Shield and spear gleaming in ceremonial defense.",
+        "Against all adversities and neighboring perils,",
+        "The honor and righteousness of our people stand unshakable."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Meithei kachiphun laa kashak,",
+        "Phanit kazingli ngasoda yuilu.",
+        "Tangkhul wui shonfa mashimanmana,",
+        "Thot kachungli haring kazing."
+      ],
+      "lines_translation": [
+        "Singing the shared historical ballads and martial chants,",
+        "Joining together as one voice during the festival season.",
+        "The sacred heritage of the Tangkhul people shall never fade,",
+        "Enduring through countless generations into eternity."
+      ]
+    }
+  ]
+}

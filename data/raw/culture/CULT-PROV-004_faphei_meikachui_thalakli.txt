@@ -1,0 +1,37 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-PROV-004
+TITLE: Proverb on Disproportionate Fuss: Faphei meikachui
+TITLE TRANSLATION: Making a Fuss Like a Dog with a Singed Paw
+CATEGORY: proverb | SUBCATEGORY: behavior
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Traditional Oral Idiom (Kasomwoshi 1991)
+PUBLICATION / SOURCE: Documented in Hao Tangkhul Chanjam
+SOURCE ID: Kasomwoshi-Chanjam-112
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Original saying: 'Faphei meikachui thalakli.' Metaphorical proverb ridiculing someone who creates theatrical drama over a trivial inconvenience.
+
+[SEASONAL TIMING & OCCASION]
+Everyday conversation
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Everyday speakers
+- Elders
+- Youth
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+Colloquial idiom used to humorously defuse theatrical complaints over minor issues.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Faphei meikachui thalakli.
+
+[ENGLISH TRANSLATION & MEANING]
+Making an exaggerated fuss like a dog whose paw was touched by a flame.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

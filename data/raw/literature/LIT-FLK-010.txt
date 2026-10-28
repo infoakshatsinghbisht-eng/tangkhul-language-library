@@ -1,0 +1,67 @@
+================================================================================
+TANGKHUL LITERARY RECORD: VĀCHAP WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-010 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Vāchap wui Khararchan
+  Title Translation:     The Fable of the Bat: Between Birds and Beasts
+  Literary Genre / Type: folk_tale (folk_tale)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-FLK-1982-VCP
+  Source URL:            https://sanchika.ciil.org/
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Academic Documentation (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Etiological animal fable explaining the nocturnal isolation of the bat due to its opportunistic vacillation during the great war between birds and beasts.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Khararchan-li vanao eina ngashing kachungna kaphung-ngaleili rai-khangasak eina maram kacham ngacheilaka.
+  Chitharan vāchapna vanao kaho-li 'I vanao wui mashon leiya!' da vanao kashanli ngakhunta.
+
+  Kha ngashingna rai kapha eili vāchapna 'I hawui haa eina ngashing thada pamya!' da ngashing kashanli ngasunta.
+  Kachikha rai ngasamhaolaga vanao kala ngashingna vāchapwui kashak-kakhayei ningtheikhuiser-haowa.
+  Chiwui vangli vanao kala ngashingna vāchapli 'Na ningkhamakhei eina ngararwui mayarnao!' da chithei-kahaowa.
+  Chiwui thada vāchapna zingkho eina meingala makhanganing, ngasot-khavai ngazilakha thada kazingli khaláng-kazatta.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In ancient mythological times, a great contest arose between the birds of the air and the beasts of the mountain forest.
+  When the birds held the advantage, the bat flew to them declaring: 'Behold my wings; I am surely of your noble avian kin!'
+  Yet when the beasts claimed victory, the bat retreated to the beasts saying: 'Behold my teeth and fur; I am truly of your four-footed clan!'
+  When peace was finally restored between birds and beasts, both discovered the duplicity of the double-tongued bat.
+  Cast out by both assemblies as an untrustworthy creature who deserted kinship in times of trial, the bat was banished forever.
+  Ashamed to show its face in the golden light of the sun, the bat flies only in the deep gloom of night, hanging upside down in isolation.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Duplicity and betrayal of community kinship (*Ningkhamakhei*)
+  * Etiological animal fable explaining nocturnal habits of the bat
+  * Customary integrity and the sacred value of unwavering loyalty
+  * The shame of double-dealing in tribal customary law
+
+STRUCTURE & POETIC METER: Cautionary animal fable featuring dramatic dialogue, judicial assemblies of animals, and etiological conclusion.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Documented in CIIL and TLS school folktale collections. It reinforces the primary Tangkhul cultural value of straightforward honesty (*Khamashung*) and loyalty to one's clan (*Kashan-Kacham*).
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Vāchap                 : Bat, mythical figure representing opportunistic vacillation
+  * Vanao                  : Birds of the air / avian kingdom
+  * Ngashing               : Four-footed wild beasts of the mountain forests
+  * Khamashung             : Honesty, truthfulness, unbending uprightness
+
+================================================================================
+END OF RECORD: LIT-FLK-010 - Tangkhul Language Library Digital Archive
+================================================================================

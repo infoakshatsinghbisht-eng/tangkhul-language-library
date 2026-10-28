@@ -1,0 +1,54 @@
+{
+  "id": "LIT-POEM-013",
+  "resource_type": "literature",
+  "title": "Meiphungli Ato wui Tuitam",
+  "title_translation": "Grandmother's Hearthside Lore and Wisdom",
+  "creator": "Iknguira L. Shimray",
+  "author": "Iknguira L. Shimray",
+  "year": 2021,
+  "publisher": "Hunphun Literary Circle, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Hunphun / Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem"
+  ],
+  "book_id": null,
+  "source_url": "https://ukhrultimes.com/tangkhul-poetry-meiphungli-ato",
+  "source_identifier": "ILS-2021-MAT",
+  "license": "Author Permitted",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-013.txt",
+  "notes": "Evocative contemporary poem exploring domestic fireside education, grandmotherly oral instruction (Meiphungli Tuitam), and generational memory.",
+  "indigenous_tangkhul_text": [
+    "Ning-ngachuk meiphung eili meikha shurda kapam, Ato khangacheina khararchan tui ngashitsa.\nShim-ngalei zangzatta eina kazing meikharor shonlaga, naonaonao meikha ngareili phung-ngathang ngasumhaowa.",
+    "'Kashunao mayarnao, i-ramwui khararchan theikhuilu, thotharanwui ngashan hi mashan tit-khamana.'\nAtowui khon-kachiphun kazingmei thada ngasasa, clan-wui ningkacham kala ram-leishat ring-ngasakhaowa.",
+    "Kashak-kakhayei mangli ning-ngamhaokha, meiphungli kapam Ato wui tuitam kashar thada ngasamphanga.\nChiwui thada Tangkhul naonaona meiphungwui meikha eina ancestral ning-kacham kachiphun kazat shurhaora."
+  ],
+  "english_translation_text": [
+    "Beside the glowing embers of the central hearth, our venerable grandmother gathers the village children.\nWhile winter mists blanket the thatched roof and mountain pines sigh, little eyes turn wide around the warm fire.",
+    "'Listen, dear grandchildren, remember the deeds of our ancestors, for oral lore is the living soul of our people.'\nHer gentle voice shines like celestial sparks, illuminating clan honor, customary virtue, and love of home.",
+    "When modern hardships and foreign winds blow chilly, grandmother's fireside wisdom remains our steadfast shield.\nFrom the eternal flame of the mountain hearth, Tangkhul children draw the courage to carry their heritage forward."
+  ],
+  "literary_themes": [
+    "Fireside oral pedagogy and generational transmission (*Meiphungli Tuitam*)",
+    "Veneration of maternal elders and storytelling grandmothers (*Ato*)",
+    "The domestic hearth (*Meiphung*) as the sacred sanctuary of memory and cultural warmth",
+    "Resilience against cultural erosion through oral storytelling and ancestral proverbs"
+  ],
+  "structure_and_meter": "Intimate pastoral lyric in six rhymed stanzas featuring elegiac hearthside refrains.",
+  "critical_commentary": "A poignant contemporary work by Iknguira L. Shimray honoring the domestic oral traditions of Tangkhul households. The central hearth (Meiphung) serves not merely as a heating source but as the foundational classroom of moral ethics and communal memory.",
+  "poetic_vocabulary_terms": {
+    "Meiphung": "The central household earthen hearth / emotional and spiritual core of the home",
+    "Ato": "Paternal or maternal grandmother / elder female custodian of family lore",
+    "Meikha": "Glowing charcoal embers symbolizing persistent cultural memory",
+    "Tuitam": "Oral instruction, moral lessons, educational storytelling"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

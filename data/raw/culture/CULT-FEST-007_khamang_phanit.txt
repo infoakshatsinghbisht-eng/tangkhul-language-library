@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-FEST-007
+TITLE: Khamang Phanit
+TITLE TRANSLATION: Communal River Fishing & Walnut Bark Festival
+CATEGORY: festival | SUBCATEGORY: communal_harvest
+VILLAGE / REGION: Hundung | DIALECT: Hundung / Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Hundung & Ukhrul River Troupes
+PUBLICATION / SOURCE: Documented in Arokianathan 1982, Ruivah 1993
+SOURCE ID: Ruivah-1993-Ch4-Khamang
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Autumn communal river expedition where river channels are treated with pulverized wild walnut root (Ngasung) to stun fish, accompanied by forest fellowship banquets.
+
+[SEASONAL TIMING & OCCASION]
+November / Autumn post-harvest season
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- River Troupes
+- Youth Dormitories
+- Village Elders
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Gathering wild walnut root (Ngasung) and mountain herbal bark from high ridges.
+2. Pounding the bark into fibrous pulp using wooden mallets on riverside rocks.
+3. Releasing the sap into natural pools to temporarily stun river fish.
+4. Communal harvesting of fish using conical cane nets and hands.
+5. Riverside open-fire grilling and egalitarian distribution of fish among all clans.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Khamang phanitli tara kongli kazip, Hundung mibing saikora.
+Ngasung thingron aparali shailaga tara kongli horhaisa.
+Nga samphangda kaphung konglaoli ringkaphawui thotna mazaingasot.
+
+[ENGLISH TRANSLATION & MEANING]
+At Khamang festival, the community gathers beside the mountain river channels.
+Harvesting and pounding wild walnut root (Ngasung) to stun river fish naturally.
+Sharing the bountiful catch in joyous forest fellowship banquets beneath the hills.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

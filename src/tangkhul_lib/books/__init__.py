@@ -1,16 +1,43 @@
 """Books domain module for Tangkhul Language Library.
 
-Scope & Planned Capabilities:
-    - Textbooks, grammar treatises, historical publications, and literary books.
-    - Resource cataloguing and bibliographic metadata validation via books.jsonl.
-    - Permitted text extraction from digitized, copyright-cleared volumes.
-    - Vocabulary linking connecting words with book source IDs, page numbers, and contexts.
-
-Status:
-    Planned domain module. Scaffolding established in Step 1.
-    Bulk resource collection and parsing will be implemented in subsequent steps.
+Provides cataloguing, metadata management, duplicate detection, permitted text extraction,
+and complete cover-to-cover book access (from page 1 to end page, all chapters and content).
 """
 
 from __future__ import annotations
 
+from tangkhul_lib.books.catalogue import BookCatalogue
+from tangkhul_lib.books.content import BookChapter, BookPage, BookSection, FullBookDocument
+from tangkhul_lib.books.extractor import BookTextExtractor
+from tangkhul_lib.books.library import (
+    get_all_books,
+    get_book,
+    get_book_chapter,
+    get_book_chapters,
+    get_book_page,
+    get_book_pages,
+    search_book_content,
+)
+from tangkhul_lib.books.models import BookRecord
+from tangkhul_lib.storage.repositories import BookRepository
+
 MODULE_NAME = "books"
+
+__all__ = [
+    "MODULE_NAME",
+    "BookCatalogue",
+    "BookChapter",
+    "BookPage",
+    "BookRecord",
+    "BookRepository",
+    "BookSection",
+    "BookTextExtractor",
+    "FullBookDocument",
+    "get_all_books",
+    "get_book",
+    "get_book_chapter",
+    "get_book_chapters",
+    "get_book_page",
+    "get_book_pages",
+    "search_book_content",
+]

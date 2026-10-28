@@ -1,17 +1,24 @@
 """Culture domain module for Tangkhul Language Library.
 
-Scope & Planned Capabilities:
-    - Tangkhul proverbs (Paotam), idioms, and customary sayings.
-    - Traditional festivals (Luira Phanit, Chumpha, Mangkhap, Thisham, Dharreo).
-    - Customary practices, clan structures, weaving traditions (Haora, Luirim, Seichang),
-      and indigenous village governance.
-    - Cultural vocabulary extraction and ethnographic context documentation.
-
-Status:
-    Planned domain module. Scaffolding established in Step 1.
-    Cultural record extraction will be implemented in subsequent steps.
+Preserves Tangkhul cultural heritage, customs, traditional festivals (Luira, Chumpha,
+Mangkhap, Thisham), proverbs (Paotam/Chanjam), textile arts (Haora, Chonkhom),
+rituals, and oral traditions with strict permission and consent controls.
 """
 
 from __future__ import annotations
 
+from tangkhul_lib.culture.catalogue import CultureCatalogue
+from tangkhul_lib.culture.extractor import CultureExtractor
+from tangkhul_lib.culture.models import VALID_CULTURE_CATEGORIES, CulturalRecord
+from tangkhul_lib.storage.repositories import CultureRepository
+
 MODULE_NAME = "culture"
+
+__all__ = [
+    "MODULE_NAME",
+    "VALID_CULTURE_CATEGORIES",
+    "CulturalRecord",
+    "CultureCatalogue",
+    "CultureExtractor",
+    "CultureRepository",
+]

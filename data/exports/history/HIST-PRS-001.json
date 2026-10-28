@@ -1,0 +1,54 @@
+{
+  "id": "HIST-PRS-001",
+  "resource_type": "history",
+  "title": "Rev. William Pettigrew (1869–1943)",
+  "title_translation": "Pioneering Missionary, Linguist, and Educator",
+  "creator": "Biographical Documentation (Pettigrew 1918, Horam 1977)",
+  "year": 1869,
+  "publisher": "Documented in Tangkhul Educational History",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "place": "Ukhrul / Edinburgh",
+  "category": "person",
+  "event_date": "1869–1943",
+  "period": "Colonial Period",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Pettigrew-Bio-1869",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/history/HIST-PRS-001.txt",
+  "verification_status": "verified",
+  "notes": "British educational missionary and linguist who lived in Ukhrul from 1896 to 1933. Reduced the Tangkhul Ukhrul dialect to Roman script, translated foundational texts, and authored the 1918 Grammar and Dictionary.",
+  "indigenous_tangkhul_chronicle": [
+    "Rev. William Pettigrew (1869–1943) British missionary kala linguist akhana Hunphunli 1896-1933 kum kaja pama.",
+    "Tangkhul tui Roman aksharli kachap-da dictionary, grammar book, kala Bible-wui gospel khamatha kachap shansangya.",
+    "Tangkhul mibingna athishangli 'Lairikwui Ava' (Father of Education) hithada ningyanganung."
+  ],
+  "english_translation_text": [
+    "Rev. William Pettigrew (1869–1943) was a British educational missionary and linguist who resided in Ukhrul from 1896 to 1933.",
+    "He codified the Tangkhul spoken language into Roman script, authoring the seminal 1918 Grammar and Dictionary.",
+    "Remembered affectionately across the hills as 'Lairikwui Ava' (Father of Modern Education) for inaugurating formal schools and clinics."
+  ],
+  "chronicle_milestones": [
+    "1. January 5, 1869: Born in Edinburgh, Scotland.",
+    "2. 1890: Sent to India by the Arthington Aborigines Mission; studies Bengali and Manipuri.",
+    "3. 1896: Relocates to Ukhrul; founds school and medical dispensary.",
+    "4. 1909: Appointed Honorary Inspector of Schools for the Manipur Hill Areas.",
+    "5. 1918: Publishes monumental 'Tangkhul Naga Grammar and Dictionary' at Shillong.",
+    "6. January 19, 1943: Passes away in England, having devoted 37 years to Tangkhul linguistic development."
+  ],
+  "key_figures": [
+    "Rev. William Pettigrew",
+    "Alice Goreham Pettigrew (Wife & educator)",
+    "Hunphun Community"
+  ],
+  "geographical_scope": "Edinburgh (Birth) - Ukhrul (Ministry) - London (Resting place)",
+  "historical_significance": "Single-handedly pioneered Tangkhul lexicography, orthography, and the educational infrastructure of the Manipur hill regions.",
+  "historical_terms": {
+    "Lairikwui Ava": "Father of books / Father of education",
+    "Kashung": "Fulfillment of mission / achievement",
+    "Tui-phun": "Linguistic translation / carrying the word",
+    "Phungchan": "Arrival / settlement among the people"
+  }
+}

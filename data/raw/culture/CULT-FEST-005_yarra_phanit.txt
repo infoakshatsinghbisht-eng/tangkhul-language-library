@@ -1,0 +1,44 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-FEST-005
+TITLE: Yarra Phanit
+TITLE TRANSLATION: Spring Youth Festival
+CATEGORY: festival | SUBCATEGORY: youth
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Longshim Youths
+PUBLICATION / SOURCE: Traditional Observation (Ruivah 1993)
+SOURCE ID: Ruivah-1993-Ch4
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Spring youth celebration celebrated within village dormitories (Longshim) featuring feasting, folk song exchanges, and socialization among youth.
+
+[SEASONAL TIMING & OCCASION]
+April (Spring season of awakening and youth courting)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Youth Dormitory Members (Mayarnao and Ngalanao)
+- Dormitory Guardians
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Convening of youth cohorts within the Mayarshim (boys) and Ngashim (girls) dormitories.
+2. Traditional courting exchanges: Young men present flowers and firewood; young women prepare delicacies.
+3. Singing of Yarra Laa (spring awakening chants) across the village grounds.
+4. Athletic games, rope-pulling, and social banter fostering community cohesion.
+5. Formal communal banquet funded through youth collaborative labor projects.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Yarra phanitli won kapha wonri, iram kaphungli yarshungwon.
+Longshim ngalanao mayarnao saikora, ningkashak tui la ngaroksa.
+Chitharan leikashi thot khangatei lei, ringkaphawui thotna iramli.
+
+[ENGLISH TRANSLATION & MEANING]
+At Yarra festival, spring blossoms blanket our mountain hills with radiant splendor.
+Young men and maidens of the dormitory exchange poetic songs of mutual esteem and affection.
+In this season of spring awakening, true love flourishes and unites our generation.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

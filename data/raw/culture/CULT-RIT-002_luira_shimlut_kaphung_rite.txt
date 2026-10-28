@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-RIT-002
+TITLE: Luira Shimlut-Kaphung Sod-Turning Rite
+TITLE TRANSLATION: Ceremonial First Sowing Ritual
+CATEGORY: ritual | SUBCATEGORY: agricultural
+VILLAGE / REGION: Hunphun | DIALECT: Hunphun / Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Awunga (Village Chief) of Hunphun
+PUBLICATION / SOURCE: Documented in Horam 1977
+SOURCE ID: Horam-1977-Ch5
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Ceremonial act performed at dawn on the first day of Luira Phanit where the village chief turns the first clod of soil and sows the first seeds before any villager may plant.
+
+[SEASONAL TIMING & OCCASION]
+First day of Luira Phanit at dawn
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Awunga (Chief) of Hunphun
+- Council Elders
+- Spiritual Custodians
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. The Awunga of Hunphun rises at pre-dawn on the inaugural day of Luira Phanit.
+2. Accompanied by elders, he walks to the designated sacred communal terrace plot.
+3. Using a traditional iron hoe, he cuts the first clod of soil and invokes blessing for rain and fertility.
+4. He casts the first grains of seed rice into the furrow with sacred prayer.
+5. Signal is sent to the village through gong strikes that planting season is officially inaugurated.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Awungana ngathorpai Shimlut-Kaphung sara iram Hunphunli.
+Kaphung kakhare luili kaso, Varewui kakhon nganada.
+Chitharan mibing saikora luikho kaza, luira phanit kashung.
+
+[ENGLISH TRANSLATION & MEANING]
+At dawn, the village chief performs the sacred Shimlut-Kaphung first sowing rite in Hunphun.
+Turning the first sod and offering the first grain to the benevolent Creator of the earth.
+Only thereafter may every farming family commence their sowing, opening the Luira festival.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: KASHUNAO WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-004 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Kashunao wui Khararchan
+  Title Translation:     The Tale of the Orphan Boy
+  Literary Genre / Type: folk_tale (folk_tale)
+  Author / Storyteller:  Traditional
+  Publication Year:      1981
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Hunphun [Standard Tangkhul]
+  Source Identifier:     TLS-1981-KSH
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Widespread traditional moral tale of an impoverished orphan boy who triumphs over adversity through customary virtue, patience, and ancestral blessings.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Kashunao akhana shim-khamachamli pamda ava-apa makhavai kacham-kacham pharora.
+  Kachang-khalia mibingna athishangli mashak kachi-eili, ningteotet-da Vare-li khorum-kachang makhayipmana.
+  Kashukwui tharanli awungana athishangli khamatha shanao mi-da wungnao shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  A poor orphan boy lived in quiet solitude, bereft of parents and enduring severe mountain hardships.
+  Though the proud and wealthy mocked his threadbare clothes, his spirit remained humble and steadfast in prayer.
+  In the fullness of time, the village chief rewarded his upright virtue by giving him his daughter's hand and noble rank.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * The orphan archetype (*Kashunao*) as a moral exemplar in indigenous folklore
+  * Triumph of virtue, diligence, and humility over arrogance
+  * Divine intervention and customary social mobility through marriage
+
+STRUCTURE & POETIC METER: Tripartite folktale structure: trial and deprivation, magical/moral test, and social elevation.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  The orphan motif is universally cherished across Naga cultures as a reflection on social justice, community empathy, and spiritual reward for moral perseverance.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Kashunao               : Orphan child / humble youth
+  * Vare-Khorum            : Reverent prayer and trust in the Supreme Creator
+  * Ningteotet             : Unwavering patience and humble perseverance
+  * Wungnao                : Nobility / honored status in the village council
+
+================================================================================
+END OF RECORD: LIT-FLK-004 - Tangkhul Language Library Digital Archive
+================================================================================

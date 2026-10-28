@@ -1,0 +1,69 @@
+================================================================================
+TANGKHUL LITERARY RECORD: MAHABHARATA WUI KHARARCHAN: THE MAHABHARATA IN TANGKHUL NAGA
+IDENTIFIER: LIT-EPIC-002 | GENRE: EPIC
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Mahabharata wui Khararchan: The Mahabharata in Tangkhul Naga
+  Title Translation:     The Epic Mahabharata in Tangkhul Naga
+  Literary Genre / Type: translation (epic)
+  Author / Storyteller:  Vyasa / Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-TKH-1982-MAHABHARATA
+  Source URL:            https://tangkhullanguage.org/archive/literature/mahabharata
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Traditional Cultural Heritage (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Epic narrative of the Five Pandavas, the Kurukshetra War, and the Shanti Parva translated into Tangkhul Naga.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+
+[PARVA 1: Adi Parva: Pandav Phanga wui Naokaphok (Birth of the Pandavas & Training)]
+  Summary: In Hastinapur, five virtuous Pandava brothers are born: Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva. Trained in warfare by Master Dronacharya. Arjuna excels all princes by piercing the spinning target eye at Draupadi's Swayamvara.
+  TANGKHUL: Hastinapurli Pandav phanga leisai: Yudhishthira, Bhima, Arjun, Nakul, Sahadev; athum saikora mashunkasa phungda leisai.
+  ENGLISH : In Hastinapur lived the five noble Pandava brothers, upholding righteousness and valor.
+  HINDI   : हस्तिनापुर में पाँच धर्मपरायण पाण्डव भाई जन्मे, जो सत्य, पराक्रम और शील के धनी थे।
+  TANGKHUL: Draupadi-wui Swayamvarli Arjurna tara-ngathangli khayangda khai-wui amikli kazei eina thut-kakhuisai.
+  ENGLISH : At Draupadi's Swayamvara, Arjuna gazed into the water reflection and pierced the fish's eye above, winning the princess.
+  HINDI   : द्रौपदी के स्वयंवर में अर्जुन ने जल में परछाई देखकर मत्स्य की आँख में अचूक बाण मारा।
+
+[PARVA 2: Sabha & Vana Parva: Shak-kashak kala Kaphungli Kazat (The Dice Game & Forest Exile)]
+  Summary: Duryodhana and Shakuni challenge Yudhishthira to a rigged dice game. Yudhishthira loses realm, wealth, and Draupadi. Krishna miraculously protects Draupadi's dignity with unending fabric. The Pandavas endure twelve years in deep wilderness.
+  TANGKHUL: Shakunina shak-kashakli ngathumta Yudhishthirali ngamsai; Draupadi-li kachon shat-kaphungli Krishnana kachon-khamatei misai.
+  ENGLISH : Through deceitful dice Shakuni defeated Yudhishthira; when disrobed in court, Lord Krishna blessed Draupadi with boundless flowing robes.
+  HINDI   : शकुनि ने कपट से द्यूत में युधिष्ठिर को हराया; भरी सभा में चीरहरण के समय भगवान कृष्ण ने अक्षय वस्त्र देकर द्रौपदी की लाज बचाई।
+  TANGKHUL: Pandav-bingna kaphung-khurli thara-khani kum pamsai, thing-won kashai chāda, ning-kachang mashun kasasai.
+  ENGLISH : The Pandavas spent twelve winters in the harsh forest, living on wild roots while deepening their spiritual disciplines.
+  HINDI   : पाण्डवों ने बारह वर्ष घने जंगलों में कंद-मूल खाकर धर्म और तपस्या के साथ व्यतीत किए।
+
+[PARVA 3: Udyoga & Bhishma Parva: Kurukshetrawui Rai (Krishna's Peace Mission & War)]
+  Summary: Krishna journeys to Hastinapur pleading for peace, asking merely five villages for the Pandavas. Duryodhana arrogantly rejects. Both armies assemble on Kurukshetra. Grandfather Bhishma leads the Kaurava army for ten days.
+  TANGKHUL: Krishnana shimlutli vāda 'Khangachee makaleieili ram phanga milu' hosa; Duryodhana-na kazei-amik khatkha maminana.
+  ENGLISH : Krishna went as peaceful envoy: 'To avoid catastrophe, grant merely five villages.' Duryodhana refused even a needle-point of land.
+  HINDI   : श्रीकृष्ण शांति दूत बनकर गए: 'विनाश रोकने के लिए केवल पाँच गाँव दे दो।' दुर्योधन ने सुई की नोक बराबर भूमि भी देने से इनकार कर दिया।
+  TANGKHUL: Kurukshetra ngaleili rai-kharei sasai; Bhishma awunga kazei-chāpui-li tulu; mashunkasana makaphāli ngamsai.
+  ENGLISH : The supreme battle raged upon Kurukshetra; grandfather Bhishma fell upon a bed of arrows; righteousness overcame darkness.
+  HINDI   : कुरुक्षेत्र के मैदान में अठारह दिन महायुद्ध चला; पितामह भीष्म बाणों की शय्या पर गिरे और अंततः धर्म की अधर्म पर विजय हुई।
+
+[PARVA 4: Shanti Parva: Yudhishthira Awunga kala Mashunkasa (Reign of Peace & Duty)]
+  Summary: Yudhishthira is crowned in Hastinapur. Dying Bhishma imparts the immortal discourse on righteous governance, compassion for subjects, and universal moral truth.
+  TANGKHUL: Bhishmana kathi-ranglikha Yudhishthirali wungtui chitheisai; 'Awungana mi saikorali awui naomayar thada mayonlu; mashunkasana awungatuiwui yumshangsai.'
+  ENGLISH : From his arrow bed Bhishma instructed Yudhishthira: 'A true sovereign must cherish his people as his own children; righteousness is the sole foundation of the throne.'
+  HINDI   : शरशय्या से भीष्म ने युधिष्ठिर को राजधर्म सिखाया: 'राजा अपनी प्रजा को अपनी संतान समझे; सत्य और धर्म ही राजसिंहासन के स्तम्भ हैं।'
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & CULTURAL SIGNIFICANCE:
+--------------------------------------------------------------------------------
+  * High classical, theological, and philosophical expression in the Tangkhul language
+  * Trans-lingual fidelity bridging indigenous mountain vocabulary with classical world literature
+  * Preserved for academic research, cultural preservation, and linguistic education
+
+================================================================================
+END OF RECORD: LIT-EPIC-002 - Tangkhul Language Library Digital Archive
+================================================================================

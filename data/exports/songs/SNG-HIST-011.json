@@ -1,0 +1,81 @@
+{
+  "id": "SNG-HIST-011",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 14: Ringkapha Tui Jesu Amai",
+  "alternate_titles": [
+    "Blessed Assurance (Tangkhul)",
+    "Hymn No. 14 (1907)"
+  ],
+  "title_translation": "Blessed Assurance in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "Fanny J. Crosby (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "Phoebe P. Knapp (Tune 873 | Doh is G)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-014",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-011_jesuwui_laa_14_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 14 from Jesuwui La: Hymns in Tangkhul Naga (1907). 3 stanzas with chorus translated by Rev. William Pettigrew.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Ringkapha tui Jesu Amai!",
+        "Arui ithumli laishida lai;",
+        "Kahui samida ithum mahaira,",
+        "Mangla kathara wukli changra.",
+        "Chan hi iwaina, la hi phamei,",
+        "Jesu amangli sochikatsa."
+      ],
+      "lines_translation": [
+        "Blessed assurance, Jesus is mine!",
+        "Oh, what a foretaste of glory divine!",
+        "Heir of salvation, purchase of God,",
+        "Born of His Spirit, washed in His blood.",
+        "This is my story, this is my song,",
+        "Praising my Savior all the day long."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Ali shitsangda ringphamaithui,",
+        "Hili ringshilala noda thaikui.",
+        "Kachingli kada kachama malai,",
+        "Makhanangmada ringphamang lai."
+      ],
+      "lines_translation": [
+        "Perfect submission, perfect delight,",
+        "Visions of rapture now burst on my sight;",
+        "Angels, descending, bring from above",
+        "Echoes of mercy, whispers of love."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Tui hi nganada kameo horhaisa,",
+        "Vari raimaida, ali changthasa.",
+        "Miwui vang aina thimaloda,",
+        "Ali shitsangda ya jilakra."
+      ],
+      "lines_translation": [
+        "Perfect submission, all is at rest,",
+        "I in my Savior am happy and blest,",
+        "Watching and waiting, looking above,",
+        "Filled with His goodness, lost in His love."
+      ]
+    }
+  ]
+}

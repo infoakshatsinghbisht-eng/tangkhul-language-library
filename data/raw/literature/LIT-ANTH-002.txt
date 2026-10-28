@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL TUITAM KACHIKO
+IDENTIFIER: LIT-ANTH-002 | GENRE: LITERARY_ANTHOLOGY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Tuitam Kachiko
+  Title Translation:     Tangkhul Literature Reader for Class IX
+  Literary Genre / Type: literary_anthology (literary_anthology)
+  Author / Storyteller:  Tangkhul Literature Society
+  Publication Year:      2000
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     BVP-TB-TKH-007
+  Source URL:            https://bharatavani.in/tangkhul/textbook
+  Associated Book:       BK-TLS-007
+  License & Clearance:   Educational Textbook (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Approved Board of Secondary Education Manipur (BSEM) literature curriculum reader compiling selected 20th-century poems, essays, and short stories for Class IX.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Tangkhul Tuitam Kachiko Class IX literature textbook thada BSEM Manipur-wui official curriculum-li serve sakya.
+  20th-century poems (Ava Ram Leishat), short stories (Maranwon), cultural essays, kala grammar rules curate sakya.
+  Secondary school students-li standard literary orthography, critical analysis, kala creative writing inspire sakya.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Tangkhul Tuitam Kachiko serves as the official Class IX literature textbook approved by the Board of Secondary Education Manipur.
+  Curating seminal 20th-century poems, short stories, historical essays, and advanced grammatical paradigms.
+  It has educated generations of high school students in refined literary orthography and critical literary appreciation.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Curricular codification of modern Tangkhul literature
+  * Patriotic poetry, social realism, and moral philosophy
+  * Language standardization and grammatical competency
+
+STRUCTURE & POETIC METER: Pedagogical anthology organized into thematic units (Poetry, Short Stories, Historical Prose, Grammar Exercises).
+
+CRITICAL APPRECIATION & COMMENTARY:
+  First published in 2000 by TLS, this volume marked a major milestone in formalizing Tangkhul as an approved matriculation language subject.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Tuitam Kachiko         : Elementary to intermediate literary reader
+  * Lairik-Khare           : Foundational literature curriculum
+  * Tuitam-Kakaso          : Instruction in syntax and literary appreciation
+  * Khamathan              : Refined orthography and standardized spelling
+
+================================================================================
+END OF RECORD: LIT-ANTH-002 - Tangkhul Language Library Digital Archive
+================================================================================

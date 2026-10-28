@@ -1,0 +1,53 @@
+{
+  "id": "HIST-MIG-001",
+  "resource_type": "history",
+  "title": "Tangkhul Clan Migration Traditions from Makhel",
+  "title_translation": "Ancestral Dispersal and Settlement Across Ukhrul Hills",
+  "creator": "Tangkhul Clan Raconteurs",
+  "year": 1200,
+  "publisher": "Documented in Hodson 1911, Horam 1977, Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Makhel / Multiple",
+  "place": "Makhel to Ukhrul",
+  "category": "migration",
+  "event_date": "Ancient Oral Tradition",
+  "period": "Pre-historic Ancestral Era",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Hodson-1911-Ch1",
+  "license": "Oral Folk Heritage",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-MIG-001.txt",
+  "verification_status": "verified",
+  "notes": "Foundational oral narrative describing the migration from Makhel, the parting rituals, and the establishment of ancestral settlements across Hundung, Hunphun, Phungcham, and the eastern frontier ridges.",
+  "indigenous_tangkhul_chronicle": [
+    "Tangkhul clan migration-hi Makhel dispersal point-li ngathur-da eastern hills-li kashun oral narrative akha.",
+    "Clan kachiva-na ancestral route shurda Hundung, Hunphun, Phungcham, Shirui, kala Raphei valleys-li settlements sakya.",
+    "Migration songs (Luira Laa) kala paotam-bingna route markers, river crossings, kala stone markers mathat-da ngari-shitsangya."
+  ],
+  "english_translation_text": [
+    "The Tangkhul migration traditions recount the epic dispersal from Makhel across the eastern mountain ranges of Manipur.",
+    "Different clan lineages followed designated ridges, establishing founding settlements at Hundung, Hunphun, Phungcham, and Shirui.",
+    "Traditional songs and proverbs preserve vivid geographic markers, river crossings, and stone covenants established en route."
+  ],
+  "chronicle_milestones": [
+    "1. Parting at Makhel: Elders strike stone covenants and divide family heirlooms (brass dishes, beads, seed grains).",
+    "2. Southern Trek: The elder brother's lineage moves along the Iril and Thoubal river watersheds toward Hundung.",
+    "3. Central Hearth: Settlement established at Hunphun ridge with natural mountain springs and fertile terraced slopes.",
+    "4. Northern Dispersal: Pioneers branch off northward into Raphei (Phungcham, Huishu, Chingjaroi).",
+    "5. Eastern Expansion: Frontiers established along the Somra tract touching the Chindwin valley of Myanmar."
+  ],
+  "key_figures": [
+    "Ancestral Clan Patriarchs",
+    "Raconteurs of Oral History",
+    "Founding Village Chiefs"
+  ],
+  "geographical_scope": "Makhel through Senapati and Ukhrul to Somra Tract (Myanmar)",
+  "historical_significance": "Forms the foundational mythological and historical charter explaining inter-village kinship, clan alliances, and dialect distributions.",
+  "historical_terms": {
+    "Ngathur": "Dispersal and journeying forth into new lands",
+    "Ralam-Shur": "Following the ancestral trailblazers",
+    "Ram-Sak": "Founding and establishing a new village domain",
+    "Paotam-Shitsang": "Proverbial ratification of historical covenants"
+  }
+}

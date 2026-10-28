@@ -1,0 +1,51 @@
+{
+  "id": "LIT-FLK-010",
+  "resource_type": "literature",
+  "title": "Vāchap wui Khararchan",
+  "title_translation": "The Fable of the Bat: Between Birds and Beasts",
+  "creator": "Tangkhul Oral Tradition Custodians & CIIL",
+  "author": "Traditional",
+  "year": 1982,
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale"
+  ],
+  "book_id": "BK-CIIL-003",
+  "source_url": "https://sanchika.ciil.org/",
+  "source_identifier": "CIIL-FLK-1982-VCP",
+  "license": "Academic Documentation",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-010.txt",
+  "notes": "Etiological animal fable explaining the nocturnal isolation of the bat due to its opportunistic vacillation during the great war between birds and beasts.",
+  "indigenous_tangkhul_text": [
+    "Khararchan-li vanao eina ngashing kachungna kaphung-ngaleili rai-khangasak eina maram kacham ngacheilaka.\nChitharan vāchapna vanao kaho-li 'I vanao wui mashon leiya!' da vanao kashanli ngakhunta.",
+    "Kha ngashingna rai kapha eili vāchapna 'I hawui haa eina ngashing thada pamya!' da ngashing kashanli ngasunta.\nKachikha rai ngasamhaolaga vanao kala ngashingna vāchapwui kashak-kakhayei ningtheikhuiser-haowa.\nChiwui vangli vanao kala ngashingna vāchapli 'Na ningkhamakhei eina ngararwui mayarnao!' da chithei-kahaowa.\nChiwui thada vāchapna zingkho eina meingala makhanganing, ngasot-khavai ngazilakha thada kazingli khaláng-kazatta."
+  ],
+  "english_translation_text": [
+    "In ancient mythological times, a great contest arose between the birds of the air and the beasts of the mountain forest.\nWhen the birds held the advantage, the bat flew to them declaring: 'Behold my wings; I am surely of your noble avian kin!'\nYet when the beasts claimed victory, the bat retreated to the beasts saying: 'Behold my teeth and fur; I am truly of your four-footed clan!'\nWhen peace was finally restored between birds and beasts, both discovered the duplicity of the double-tongued bat.\nCast out by both assemblies as an untrustworthy creature who deserted kinship in times of trial, the bat was banished forever.\nAshamed to show its face in the golden light of the sun, the bat flies only in the deep gloom of night, hanging upside down in isolation."
+  ],
+  "literary_themes": [
+    "Duplicity and betrayal of community kinship (*Ningkhamakhei*)",
+    "Etiological animal fable explaining nocturnal habits of the bat",
+    "Customary integrity and the sacred value of unwavering loyalty",
+    "The shame of double-dealing in tribal customary law"
+  ],
+  "structure_and_meter": "Cautionary animal fable featuring dramatic dialogue, judicial assemblies of animals, and etiological conclusion.",
+  "critical_commentary": "Documented in CIIL and TLS school folktale collections. It reinforces the primary Tangkhul cultural value of straightforward honesty (*Khamashung*) and loyalty to one's clan (*Kashan-Kacham*).",
+  "poetic_vocabulary_terms": {
+    "Vāchap": "Bat, mythical figure representing opportunistic vacillation",
+    "Vanao": "Birds of the air / avian kingdom",
+    "Ngashing": "Four-footed wild beasts of the mountain forests",
+    "Khamashung": "Honesty, truthfulness, unbending uprightness"
+  },
+  "stanza_count": 2,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

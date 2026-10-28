@@ -1,0 +1,240 @@
+{
+  "id": "DIC-HIST-001",
+  "resource_type": "dictionaries",
+  "title": "Tangkhul Naga Grammar and Dictionary (Ukhrul Dialect) with Illustrative Sentences",
+  "title_translation": "Tangkhul Naga Grammar and Dictionary",
+  "creator": "William Pettigrew",
+  "year": 1918,
+  "publisher": "Assam Secretariat Printing Office, Shillong",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Ukhrul",
+  "source_type": "grammar_dictionary",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/T%C4%81ngkhul_N%C4%81ga_grammar_and_dictionary.pdf",
+  "source_identifier": "Glottolog:pett1918tang",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/dictionaries/DIC-HIST-001_pettigrew_1918.txt",
+  "verification_status": "verified",
+  "notes": "Foundational 476-page grammatical sketch and bilingual dictionary (Part II) covering over 2,000 Tangkhul headwords, English equivalents, and illustrative sentences. Out of copyright.",
+  "alternate_title": "Tangkhul Naga Grammar and Dictionary",
+  "background": "Published in 1918 by the Assam Secretariat Printing Office in Shillong, this 476-page monumental treatise represents the first systematic grammatical description and comprehensive bilingual dictionary of the Tangkhul language. Rev. William Pettigrew, who arrived in Ukhrul in 1896, transcribed the language using the Roman alphabet and established the Ukhrul dialect as the written literary standard. Part II comprises over 2,000 Tangkhul headwords with precise English equivalents, parts of speech, and idiomatic illustrative sentences.",
+  "phonology_notes": "Uses the Latin alphabet with macron markings (ā, ē, ī, ō, ū) for vowel length and glottal/velar consonant representations (kh, ng, ch). Establishes basic inflectional patterns for prefixation (ka-, kha-) and nominal case suffixes (-li, -wui, -eina).",
+  "entries": [
+    {
+      "headword": "khamatha",
+      "part_of_speech": "adj",
+      "definitions_en": [
+        "good",
+        "fine",
+        "beautiful",
+        "virtuous"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 142",
+      "alternative_spellings": [
+        "khamathai"
+      ],
+      "example": "Iram khamatha lei (Our village is beautiful)."
+    },
+    {
+      "headword": "shim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "house",
+        "dwelling",
+        "residence",
+        "home"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 210",
+      "alternative_spellings": [
+        "shimri"
+      ],
+      "example": "Shim kathara kasak thotna (Building a new house)."
+    },
+    {
+      "headword": "ngalung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "stone",
+        "rock",
+        "megalith",
+        "boulder"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 180",
+      "alternative_spellings": [
+        "ngaloong"
+      ],
+      "example": "Ngalung kachungna pamli lei (There are many stones at the place)."
+    },
+    {
+      "headword": "kazip",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to gather",
+        "to assemble",
+        "to collect",
+        "to congregate"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 95",
+      "alternative_spellings": [],
+      "example": "Ayarli mi kazipngahei (People gathered in the courtyard)."
+    },
+    {
+      "headword": "luira",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "seed-sowing festival",
+        "spring ceremony",
+        "first sowing rite"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 156",
+      "alternative_spellings": [],
+      "example": "Luira phanitli kaphung ngasak (Celebrating at the Luira festival)."
+    },
+    {
+      "headword": "shirui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sacred mountain",
+        "alpine ridge",
+        "Shirui Kashong peak"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 215",
+      "alternative_spellings": [
+        "shirue"
+      ],
+      "example": "Shirui kashongli won kapha ngavei (Beautiful flowers bloom on Shirui peak)."
+    },
+    {
+      "headword": "longkhor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "conical carrying basket",
+        "bamboo pack",
+        "woven harvest pack"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 152",
+      "alternative_spellings": [],
+      "example": "Longkhorli apam kakhalat (Filling the carrying basket)."
+    },
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mouth",
+        "speech",
+        "spoken word",
+        "voice"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 143",
+      "alternative_spellings": [],
+      "example": "Khamor kachangna phei ngazekli (A sharp mouth cuts deeper than a foot)."
+    },
+    {
+      "headword": "apui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mother",
+        "female guardian",
+        "maternal parent"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 44",
+      "alternative_spellings": [
+        "ipui"
+      ],
+      "example": "Apuiwui ngashan kasak (Mother's customary law is honorable)."
+    },
+    {
+      "headword": "ava",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "father",
+        "male elder",
+        "paternal parent"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 42",
+      "alternative_spellings": [
+        "iva"
+      ],
+      "example": "Iva li leikashi pamei (Love father deeply)."
+    },
+    {
+      "headword": "seicham",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "iron anvil",
+        "blacksmith craft",
+        "iron forge"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 208",
+      "alternative_spellings": [],
+      "example": "Seichamli shiyan mahara (Tempering on the iron anvil)."
+    },
+    {
+      "headword": "khulu",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to listen",
+        "to hear",
+        "to pay attention",
+        "to heed"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 102",
+      "alternative_spellings": [],
+      "example": "Khulu, pao kaphana ngashana (Listen, hear the good tidings)."
+    },
+    {
+      "headword": "sha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "wild animal",
+        "tiger",
+        "game",
+        "meat"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 205",
+      "alternative_spellings": [],
+      "example": "Sha kachang pamli ngavai (Hunting game in the high forest)."
+    },
+    {
+      "headword": "hui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "dog",
+        "hunting companion",
+        "canine"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 88",
+      "alternative_spellings": [],
+      "example": "Hui kala sha wui khararchan (Folk tale of the dog and tiger)."
+    },
+    {
+      "headword": "chitharan",
+      "part_of_speech": "adv",
+      "definitions_en": [
+        "then",
+        "at that time",
+        "thereupon",
+        "subsequently"
+      ],
+      "dialect": "Ukhrul",
+      "page": "p. 68",
+      "alternative_spellings": [],
+      "example": "Chitharan ithum pam khanganatei (At that time our dwelling shifted)."
+    }
+  ]
+}

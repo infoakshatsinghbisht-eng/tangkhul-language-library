@@ -1,0 +1,52 @@
+{
+  "id": "HIST-PLC-006",
+  "resource_type": "history",
+  "title": "Champhung Historic Village",
+  "title_translation": "Western Tangkhul Megalithic Settlement",
+  "creator": "Champhung Community Custodians",
+  "year": 2019,
+  "publisher": "Field Documentation Candidate",
+  "language": "Tangkhul",
+  "dialect": "Champhung",
+  "village": "Champhung",
+  "place": "Champhung",
+  "category": "place",
+  "event_date": "Ancestral Era",
+  "period": "Traditional",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Toponym-Champhung-Settlement",
+  "license": "Traditional Craft Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-PLC-006.txt",
+  "verification_status": "verified",
+  "notes": "Historically significant western village possessing intact traditions of commemorative stone-pulling and megalith erection, with an archaic dialect distinct from standard Ukhrul speech.",
+  "indigenous_tangkhul_chronicle": [
+    "Champhung village-hi western Tangkhul region-li megalithic traditions kala archaic dialect kashung settlement akha.",
+    "1837-li Nathan Brown kala Capt. Gordon-na Champhung vocabulary document kachap shansangya.",
+    "Stone-pulling ceremonies (Lungkhangasan) kala customary clan covenants intact thada pama."
+  ],
+  "english_translation_text": [
+    "Champhung is an ancient western Tangkhul settlement renowned for intact megalithic rituals and an archaic dialect.",
+    "In 1837, its vocabulary was recorded by Nathan Brown and George Gordon, making it one of the first documented lects in Manipur.",
+    "The village maintains ancient commemorative stone-pulling traditions (Lungkhangasan) and megalithic alignment platforms."
+  ],
+  "chronicle_milestones": [
+    "1. Ancient Era: Early western offshoot from Makhel retaining distinctive lexical and tonal characteristics.",
+    "2. 1837: Published in the Journal of the Asiatic Society of Bengal (Calcutta) by Nathan Brown and Gordon.",
+    "3. 19th–20th Century: Sustained traditional feasts of merit with megalithic monument construction.",
+    "4. Contemporary: Key site for comparative Tibeto-Burman linguistics and cultural anthropology."
+  ],
+  "key_figures": [
+    "Champhung Clan Elders",
+    "Nathan Brown & Capt. George Gordon",
+    "Megalith Builders"
+  ],
+  "geographical_scope": "Western Ukhrul / Senapati border (Elevation 1,500 m)",
+  "historical_significance": "Provides indispensable proof of early linguistic divergence and the antiquity of megalithic stone-pulling in Northeast India.",
+  "historical_terms": {
+    "Lungkhangasan": "Sacred ceremonial stone-pulling ritual",
+    "Lung": "Megalithic stone / monument",
+    "Khangasan": "Collective dragging by singing village youth",
+    "Otshak": "Customary feat of social and spiritual merit"
+  }
+}

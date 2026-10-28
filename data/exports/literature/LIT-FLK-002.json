@@ -1,0 +1,55 @@
+{
+  "id": "LIT-FLK-002",
+  "resource_type": "literature",
+  "title": "Hao Khararchan: Tangkhul Folktales Collection",
+  "title_translation": "Anthology of Tangkhul Ancestral Folktales",
+  "creator": "Tangkhul Literature Society Editorial Board",
+  "author": "Tangkhul Literature Society",
+  "year": 1981,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "literary_anthology",
+  "work_type": "literary_anthology",
+  "genres": [
+    "literary_anthology",
+    "folk_tale"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1981-KKC",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-002.txt",
+  "notes": "Comprehensive canonical anthology of ancestral Tangkhul folktales (Khararchan) compiled by native elders to preserve oral literature for school education.",
+  "indigenous_tangkhul_text": [
+    "Hao khararchan-hi Tangkhul rali thot-kharewui khamashung tuingashit kashung akha.",
+    "Ava-apawui tharanli chithada shitsang-da, longshimli kakaso paonao-bingli pakhang shansangya.",
+    "Kaphung-kachon, ngatha-kazat, kala vare-khorumwui otshak kachiva hiyakha lairikli mathat-da lakahon."
+  ],
+  "english_translation_text": [
+    "The ancestral folktales (*Hao Khararchan*) embody the wisdom and moral code of early Tangkhul generations.",
+    "Handed down by forefathers around the nocturnal hearth, these stories were taught to youth in village dormitories.",
+    "Mountain hunts, customary jurisprudence, and divine invocations are meticulously preserved within this collection."
+  ],
+  "literary_themes": [
+    "Ancestral oral pedagogy and folklore transmission",
+    "Ethical justice, communal virtue, and retribution",
+    "Harmonious balance between humans, forest fauna, and nature spirits",
+    "Etiological myths explaining mountain landmarks and tribal origins"
+  ],
+  "structure_and_meter": "Prose folktale anthology with interspersed poetic chants (*Laa*) and ceremonial proverbs (*Paotam*).",
+  "critical_commentary": "Compiled in 1981 by the Tangkhul Literature Society, this anthology codified centuries of unwritten oral lore into a canonical reader for community schools.",
+  "poetic_vocabulary_terms": {
+    "Khararchan": "Traditional ancestral narrative / folktale / legend",
+    "Longshim": "Traditional village youth dormitory and academy",
+    "Tuingashit": "Covenant word / moral instruction",
+    "Thot-khare": "The primordial ancestral era"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

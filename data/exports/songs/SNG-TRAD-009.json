@@ -1,0 +1,77 @@
+{
+  "id": "SNG-TRAD-009",
+  "resource_type": "songs",
+  "title": "Yarra Laa: Yarshungwon",
+  "alternate_titles": [
+    "Yarra Festival Youth Song",
+    "Spring Awakening Chant"
+  ],
+  "title_translation": "Youth Spring Awakening and Courting Chant",
+  "singer": "Traditional Youth Dormitory Chorus",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Dr. Ringkahao Horam / Tribal Research Institute",
+  "performers": [],
+  "year": 1987,
+  "village": "Hungpung",
+  "dialect": "Hungpung / Standard Tangkhul",
+  "song_type": "festival",
+  "language": "Tangkhul",
+  "source_url": "https://sanchika.ciil.org/collections/tangkhul-haola",
+  "source_identifier": "CIIL-YARRA-001",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": "data/raw/songs/SNG-TRAD-009_yarra_laa.txt",
+  "license": "Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Traditional youth spring festival chant performed during Yarra Phanit, celebrating spring blossom and mutual courting in the traditional dormitory.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Yarra phanit kathi-li kaphung ngasan,",
+        "Yarshung mayarnaomaya wui khararchan.",
+        "Sikui kazing thota won kapha khawon,",
+        "Iram Hungpungli ningyang pamei."
+      ],
+      "lines_translation": [
+        "At the return of Yarra spring festival, the mountain hills awake,",
+        "The youthful maidens and young men gather to share their stories.",
+        "Wild berries ripen in the warmth of the mountain breeze,",
+        "In our Hungpung village, youthful delight abounds."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Lui thot mashakpa rui thot kasa,",
+        "Khangrei longshimli tui khangasak.",
+        "Phanit wui kongrei mathi kazing,",
+        "Ngalalao thotli leishat khayao."
+      ],
+      "lines_translation": [
+        "Before the heavy ploughing and seasonal toil begin,",
+        "Voices resonate within the halls of the traditional youth dormitory.",
+        "Like mountain rivers flowing pure beneath the spring sky,",
+        "Love and mutual admiration blossom among the youth."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Achanwon kachi ramwui shanaora,",
+        "Mayar ngalanao wui ringkapha laa.",
+        "Varewui ningli kashak thotna,",
+        "Yarra wui pheichak ngasa-ngahei."
+      ],
+      "lines_translation": [
+        "Beloved daughters of our ancestral villages,",
+        "Singing songs of youthful strength and boundless joy.",
+        "Under the watchful blessing of the divine Creator,",
+        "We dance together in the graceful steps of Yarra."
+      ]
+    }
+  ]
+}

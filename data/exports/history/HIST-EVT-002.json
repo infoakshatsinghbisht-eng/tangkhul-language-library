@@ -1,0 +1,54 @@
+{
+  "id": "HIST-EVT-002",
+  "resource_type": "history",
+  "title": "66th Manipur Labour Corps Deployment in World War I",
+  "title_translation": "Tangkhul Service in France During the Great War",
+  "creator": "Tangkhul Labour Corps Veterans & R.S. Ruichumhao",
+  "year": 1917,
+  "publisher": "Documented in Hodson 1911, Horam 1977, Higgins 1919",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "place": "France / Ukhrul",
+  "category": "historical_event",
+  "event_date": "1917–1918",
+  "period": "World War I",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Manipur-Archives-WWI-Corps",
+  "license": "Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/history/HIST-EVT-002.txt",
+  "verification_status": "verified",
+  "notes": "Over a thousand hillmen from Manipur, including hundreds of Tangkhuls led by R.S. Ruichumhao, volunteered for service in France, gaining broad international exposure and accelerating post-war community consciousness.",
+  "indigenous_tangkhul_chronicle": [
+    "1917 kumli Manipur Labour Corps 66th company-li Tangkhul mayarnao France ramli chotchan.",
+    "R.S. Ruichumhao-na tangkhang kaphungda maranao kathe-bingli ngashanta.",
+    "Khararamli khangatei mibing matuida thot-shir kaphung rithui kashang ngashit shansangya."
+  ],
+  "english_translation_text": [
+    "In 1917, young Tangkhul men joined the 66th Manipur Labour Corps deployed to the battlefields of France in World War I.",
+    "Led by interpreter and community leader R.S. Ruichumhao, they served with resilience under harsh Western Front conditions.",
+    "Their return home with global exposure ignited an unprecedented political consciousness, literacy drive, and tribal cohesion."
+  ],
+  "chronicle_milestones": [
+    "1. 1916: British government requests auxiliary labour corps units from the Princely State of Manipur.",
+    "2. April 1917: 66th Manipur Labour Corps mobilized; over 1,200 hillmen volunteer, including 600+ Tangkhuls.",
+    "3. May 1917: Departure from Imphal via Dimapur and Bombay across the Indian Ocean and Mediterranean to Marseille, France.",
+    "4. 1917–1918: Service behind frontline trenches (road building, ammunition supply, salvage operations).",
+    "5. July 1918: Repatriation to Bombay and return to Manipur, bringing international perspective and veteran welfare activism."
+  ],
+  "key_figures": [
+    "R.S. Ruichumhao",
+    "Rev. William Pettigrew (Superintendent)",
+    "J.C. Higgins (Political Agent)",
+    "Corps Veterans"
+  ],
+  "geographical_scope": "Ukhrul to Marseille, Somme, and Arras (France) and return",
+  "historical_significance": "Shattered regional geographic isolation; veterans returned with modern technical knowledge, English fluency, and the foundational impetus to form the Tangkhul Long.",
+  "historical_terms": {
+    "Mayarnao": "Youth / able-bodied men of the village",
+    "Khararam": "Distant foreign land / overseas territory",
+    "Tangkhang": "Leadership / visionary guidance",
+    "Ngashan": "Mutual defense and solidarity alliance"
+  }
+}

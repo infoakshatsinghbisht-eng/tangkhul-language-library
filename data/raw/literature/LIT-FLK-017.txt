@@ -1,0 +1,76 @@
+================================================================================
+TANGKHUL LITERARY RECORD: HAR EINA NGAPRUM WUI KHARARCHAN
+IDENTIFIER: LIT-FLK-017 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Har eina Ngaprum wui Khararchan
+  Title Translation:     The Fable of the Mountain Hen and the River Eel
+  Literary Genre / Type: folk_tale (folk_tale, fable)
+  Author / Storyteller:  Traditional
+  Publication Year:      1982
+  Publisher:             Central Institute of Indian Languages, Mysore
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     CIIL-FLK-1982-HNK
+  Source URL:            https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e
+  Associated Book:       BK-CIIL-003
+  License & Clearance:   Academic Documentation (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Ancient fable recounting a mutual alliance between forest fowl and mountain river creatures during catastrophic monsoon floods.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Khararchan-wui thotharan ram-ngaleili kazing mashun kachiphun eina tuikharor laka tonda kashun.
+  Kaphung wui meiphor har eina kongrei wui ngaprum akha, kaphung mayon-kachat pamli ngasamtitlaga tui ngaranhaowa.
+
+  'Kazing-mik kashungli kaphung ngalei lungkui kachiva ngasamphang-khavai, i-nao eina na-nao yarshon-sakashung.'
+  Harna kaphung-wui won theida, 'Kongrei-li tui-ngaprum kapam eina kongkashan khavai na-naona ngara-manda!'
+
+  Ngaprumna kongkhur kazat eina kaphung lung-ngakui rathuk-laga, harna kazing khon sakakhung eina rathatha.
+  Ani leikashi eina ngaran-kazat wui vangli, tuikharor kachiva-li kaphung ram eina kongram kakhayei samphang-lakmana.
+
+  Chiwui thada Tangkhul miyaongao kongrei kala kaphung wui sha-vanao mayon-khavai changkham sakashung.
+  Khararchan hi theilaga kaphung ngalei kala kongrei kachung-chihui ngachei-kacham ram-leishat ringhaora.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In ancestral epochs of great summer downpours, mountain torrents flooded the valleys and inundated the lower foothills.
+  At that hour, a wise red jungle fowl and a sleek mountain river eel met upon a rocky ridge and formed a solemn pact.
+
+  'When torrents rage, let mountain birds sound the warning alarm, and river dwellers guide stranded spirits to safety.'
+  The fowl watched from the tall oak branches, while the swift eel navigated hidden underwater channels and rocky shallows.
+
+  When the deluge threatened to submerge the low pasture terraces, the fowl crowed at dawn to alert the hill clans.
+  Through their sacred covenant and mutual vigilance, both sky fliers and water swimmers survived the disastrous floods.
+
+  Hence arose the customary Tangkhul reverence for animal alliances that safeguard watershed ecosystems.
+  This ancient fable reminds hill communities of the unbreakable ecological bond linking mountain crests to river valleys.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Inter-species treaty and customary disaster preparedness (*Ram-Ngaran*)
+  * Etiological fable explaining avian and aquatic behavior during monsoon storms
+  * Watershed interdependence connecting mountain crests to valley rivers
+  * Cooperative preservation of natural lifeways against environmental adversity
+
+STRUCTURE & POETIC METER: Ancestral prose fable incorporating poetic dialogue couplets and environmental maxims.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Preserved in the CIIL folklore corpus, this fable illustrates the deep ecological awareness of traditional Tangkhul society, where stories were used to instruct youth on watershed geography, seasonal water currents, and cooperative resilience.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Ngaprum                : Mountain freshwater eel, inhabiting clean upland rivers and deep pools
+  * Tuikharor              : Monsoon floodwaters, overflowing riverbanks and ravines
+  * Meiphor har            : Red jungle fowl (Gallus gallus), native mountain wild bird
+  * Kongkhur               : Deep river pool / underwater channel beneath mountain rock
+
+================================================================================
+END OF RECORD: LIT-FLK-017 - Tangkhul Language Library Digital Archive
+================================================================================

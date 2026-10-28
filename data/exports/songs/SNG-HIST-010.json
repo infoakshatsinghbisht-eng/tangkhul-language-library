@@ -1,0 +1,147 @@
+{
+  "id": "SNG-HIST-010",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 10: Jesuwui Mi Chatsa",
+  "alternate_titles": [
+    "Onward, Christian Soldiers (Tangkhul)",
+    "Hymn No. 10 (1907)"
+  ],
+  "title_translation": "Onward, Christian Soldiers in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "Sabine Baring-Gould (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "Arthur Sullivan (Tune 706 | Doh is C)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-010",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-010_jesuwui_laa_10_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 10 from Jesuwui La: Hymns in Tangkhul Naga (1907). 5 stanzas translated by Rev. William Pettigrew.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Jesuwui mi chatsa,",
+        "Rai ngarargida;",
+        "Amaina rituwa,",
+        "Ithumla pingsa.",
+        "Jesu akavana,",
+        "Ithumli thana;",
+        "Chiaina pinglakta,",
+        "Ngararda yuisa."
+      ],
+      "lines_translation": [
+        "Onward, Christian soldiers,",
+        "Marching as to war,",
+        "With the cross of Jesus",
+        "Going on before.",
+        "Christ the royal Master,",
+        "Leads against the foe;",
+        "Forward into battle",
+        "See His banners go!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "Jesuwui ming shada,",
+        "Chipeena ngachee;",
+        "Arola yamthuida",
+        "Ithumna yuira.",
+        "Ithum kavao aina",
+        "Ngalai chingshong chi,",
+        "Miwui shim chithata",
+        "Shimanhorali."
+      ],
+      "lines_translation": [
+        "At the sign of triumph",
+        "Satan's host doth flee;",
+        "On then, Christian soldiers,",
+        "On to victory!",
+        "Hell's foundations quiver",
+        "At the shout of praise;",
+        "Brothers, lift your voices,",
+        "Loud your anthems raise!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "lines_tangkhul": [
+        "Jesuwui miyurna",
+        "Mi kakazip thai;",
+        "Kakharar malaima,",
+        "Ning kangarum thai.",
+        "Chipeena yuigida",
+        "Ning ngapailu ji,",
+        "Ka ning ngarumaka",
+        "Mayuirarmara."
+      ],
+      "lines_translation": [
+        "Like a mighty army",
+        "Moves the Church of God;",
+        "Brothers, we are treading",
+        "Where the saints have trod.",
+        "We are not divided,",
+        "All one body we,",
+        "One in hope and doctrine,",
+        "One in charity."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "lines_tangkhul": [
+        "Awung aina ngalai",
+        "Shimanhaila pai,",
+        "Ka Jesuwui miyur",
+        "Kashiman mavai.",
+        "Amai tui nganada,",
+        "Kapha sachingra;",
+        "Awui yurli changda",
+        "Kachingli kara."
+      ],
+      "lines_translation": [
+        "Crowns and thrones may perish,",
+        "Kingdoms rise and wane,",
+        "But the Church of Jesus",
+        "Constant will remain.",
+        "Gates of hell can never",
+        "'Gainst that Church prevail;",
+        "We have Christ's own promise,",
+        "And that cannot fail."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "lines_tangkhul": [
+        "Chiaina achangsa,",
+        "Awui yur kaphai;",
+        "Ithum aina nathum",
+        "La sa ngaroksa.",
+        "Ithum akavali,",
+        "Masot chikatsa;",
+        "A awor sathaida",
+        "Makaphali yui."
+      ],
+      "lines_translation": [
+        "Onward then, ye people,",
+        "Join our happy throng,",
+        "Blend with ours your voices",
+        "In the triumph song.",
+        "Glory, laud, and honor",
+        "Unto Christ the King,",
+        "This through countless ages",
+        "Men and angels sing."
+      ]
+    }
+  ]
+}

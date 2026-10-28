@@ -1,0 +1,67 @@
+================================================================================
+TANGKHUL LITERARY RECORD: LONGPI MARINGTHEI EINA NGARI KAPING
+IDENTIFIER: LIT-FLK-012 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Longpi Maringthei Eina Ngari Kaping
+  Title Translation:     The Tale of Longpi Pottery and the Magic Yeast
+  Literary Genre / Type: folk_tale (folk_tale)
+  Author / Storyteller:  Traditional
+  Publication Year:      1998
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Longpi [Longpi / Northern Tangkhul]
+  Source Identifier:     TLS-1998-LMK
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Authentic craft narrative recording the mythological discovery and development of the world-famous Longpi black stone pottery.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Longpi ramwui khararchar-li mayarnao Maringtheina kaphung-wui lungkhayei eina nung khamatha samphanglaka.
+  Chitharan Longpi lung-eili nung-ham lei-ham sakashung, Tangkhul ngaleili kachungna kaphung-ham da kachang-laka.
+
+  Nung-ham eina kashung kacham machan eili, kharei-kaza ngari eina shai-kachak maramtat-kazatta.
+  Maringtheina ramwui kacham shanaoli nung-ham katha eina chithang ngari kaping-wui maram chithei-pida.
+  Longpi hamlei hi Tangkhul material culture kala khararchan-wui pangkakha kacham thada meingaláng-kazatta.
+  Iramwui nung-ham hi khamathai eina kaphung-ramwui khon sakakhung eina khararchar maramtatta.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In the ancient chronicles of Longpi village, the artisan Maringthei discovered the unique black serpentine rock and weathered clay.
+  By grinding the stone with river sediment, he fashioned the famed Longpi black stone cookware without the aid of a potter's wheel.
+  These resilient black earthen pots imparted a rich, authentic flavor to smoked meats and traditional fermented fish (*Ngari*).
+  Maringthei taught the village craftspersons the secret firing technique, preserving the art across unbroken generations.
+  Longpi Hamlei remains a celebrated jewel of Tangkhul indigenous material culture and oral storytelling.
+  The distinctive stone pots echo the ancestral harmony between mountain geology, indigenous culinary science, and folklore.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Indigenous material craftsmanship and oral origin legend of Longpi stone pottery
+  * Harmony between geological resources and ancestral culinary arts (*Hamlei eina Ngari*)
+  * Artisan innovation and intergenerational apprenticeship in mountain villages
+  * Cultural prestige of Longpi black pottery in customary feasts of merit
+
+STRUCTURE & POETIC METER: Craft origin narrative combining mythological discovery motifs with detailed procedural memory and communal pride.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Documented by cultural historian Kanrei Shaiza. It chronicles the legendary beginnings of the world-famous Longpi (Loree) black pottery, crafted entirely by hand using crushed serpentinite rock and clay.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Longpi Hamlei          : Traditional black stone and clay pottery unique to Longpi village
+  * Lungkhayei             : Serpentinite black rock ground into powder for pottery
+  * Maringthei             : Legendary ancestral craftsman credited with developing the black stone pottery technique
+  * Ngari kaping           : Fermentation and culinary seasoning of fish and traditional food in stone pots
+
+================================================================================
+END OF RECORD: LIT-FLK-012 - Tangkhul Language Library Digital Archive
+================================================================================

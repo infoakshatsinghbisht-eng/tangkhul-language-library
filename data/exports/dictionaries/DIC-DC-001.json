@@ -1,0 +1,199 @@
+{
+  "id": "DIC-DC-001",
+  "resource_type": "dictionaries",
+  "title": "Tankhur Naga Vocabulary",
+  "title_translation": "Tangkhul Naga Vocabulary",
+  "creator": "D. N. S. Bhat",
+  "year": 1969,
+  "publisher": "Deccan College Postgraduate and Research Institute, Poona",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Hunphun (Ukhrul)",
+  "source_type": "wordlist",
+  "source_url": "https://glottolog.org/resource/reference/id/29671",
+  "source_identifier": "Deccan-Centenary-67",
+  "license": "Copyright Deccan College",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-DC-001_bhat_1969.txt",
+  "verification_status": "verified",
+  "notes": "Linguistic vocabulary record (xii, 100 pp.) featuring phonemic analysis and lexical elicitations from a native speaker of Hunphun (Ukhrul). Metadata catalogued.",
+  "alternate_title": "Tangkhul Naga Vocabulary",
+  "background": "Published in 1969 by Deccan College Postgraduate and Research Institute in Poona (Publication No. 67) by linguist D. N. S. Bhat. Consists of xii + 100 pages detailing the phonology and lexical elicitation collected from a native speaker from Hunphun (the ancestral parent village of Ukhrul). Features rigorous structuralist phonemic notation, tonal descriptions, and comparative glottal analysis.",
+  "phonology_notes": "Employs IPA structuralist phonemic notation indicating vowel quality (ǝ, ɛ, ɔ), aspirates (pʰ, tʰ, kʰ), retroflex/palatal contours, and high, mid, and low tonal registers.",
+  "entries": [
+    {
+      "headword": "khamatha",
+      "part_of_speech": "adj",
+      "definitions_en": [
+        "beautiful",
+        "pleasant",
+        "agreeable"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 14",
+      "alternative_spellings": [
+        "mǝkhǝtʰa"
+      ],
+      "example": "a-ram mǝkhǝtʰa (His village is pleasant and fair)."
+    },
+    {
+      "headword": "shim",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "house",
+        "roofed dwelling",
+        "shelter"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 28",
+      "alternative_spellings": [
+        "sʰim"
+      ],
+      "example": "sʰim tʰa-ra (Newly erected dwelling)."
+    },
+    {
+      "headword": "ngalung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "stone",
+        "megalith",
+        "rock monument"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 33",
+      "alternative_spellings": [
+        "ŋǝ-luŋ"
+      ],
+      "example": "ŋǝluŋ kǝ-tʰi (Erected stone monument)."
+    },
+    {
+      "headword": "phei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "leg",
+        "lower limb",
+        "foot"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 42",
+      "alternative_spellings": [
+        "pʰɛj"
+      ],
+      "example": "pʰɛj eina (Journeying on foot)."
+    },
+    {
+      "headword": "pang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "arm",
+        "hand",
+        "upper limb"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 39",
+      "alternative_spellings": [
+        "paŋ"
+      ],
+      "example": "paŋ kǝ-sa (Handmade crafted artifact)."
+    },
+    {
+      "headword": "mik",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "eye",
+        "organ of vision"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 36",
+      "alternative_spellings": [],
+      "example": "mik tʰɛj (Perceiving with one's eyes)."
+    },
+    {
+      "headword": "khana",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ear",
+        "auditory organ"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 24",
+      "alternative_spellings": [
+        "kʰǝ-na"
+      ],
+      "example": "kʰǝna kʰu-lu (Hearing attentively with ears)."
+    },
+    {
+      "headword": "tara",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "water",
+        "natural liquid stream"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 48",
+      "alternative_spellings": [
+        "tǝ-ra"
+      ],
+      "example": "tǝra cʰup (Drinking spring water)."
+    },
+    {
+      "headword": "mei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "flame",
+        "embers",
+        "hearth fire"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 35",
+      "alternative_spellings": [
+        "mɛj"
+      ],
+      "example": "mɛj kǝ-tum (Kindling the hearth embers)."
+    },
+    {
+      "headword": "kaphung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "hill",
+        "elevation",
+        "mountain ridge"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 26",
+      "alternative_spellings": [
+        "kǝ-pʰuŋ"
+      ],
+      "example": "kǝpʰuŋ kǝ-cʰuj (Climbing the high ridge)."
+    },
+    {
+      "headword": "yarra",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "youth festival society",
+        "club"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 55",
+      "alternative_spellings": [
+        "jǝr-ra"
+      ],
+      "example": "jǝrra pʰǝ-nit (Youth festival celebrations)."
+    },
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mouth",
+        "oral cavity",
+        "spoken voice"
+      ],
+      "dialect": "Hunphun (Ukhrul)",
+      "page": "p. 25",
+      "alternative_spellings": [
+        "kʰǝ-mor"
+      ],
+      "example": "kʰǝmor tʰot (The sound of the human voice)."
+    }
+  ]
+}

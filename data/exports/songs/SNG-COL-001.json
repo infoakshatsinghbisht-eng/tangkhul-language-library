@@ -1,0 +1,44 @@
+{
+  "id": "SNG-COL-001",
+  "resource_type": "songs",
+  "title": "The Tangkhul Folk Poetry in Song (HAOLA)",
+  "alternate_titles": [
+    "Haola Collection"
+  ],
+  "title_translation": "The Tangkhul Folk Poetry in Song",
+  "singer": "Various Traditional Performers",
+  "lyricist": null,
+  "composer": null,
+  "collector": "Dr. Ringkahao Horam",
+  "performers": [],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "CIIL-SANCHIKA-HAOLA",
+  "recording_url": null,
+  "lyrics_source_url": null,
+  "local_file_path": null,
+  "license": "Academic Research / CIIL",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Comprehensive research compilation of Tangkhul oral poetry and musical chants catalogued at CIIL Bhasha Sanchika.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Hao laawui khon kongrei thata ngaloong.",
+        "Avava apuipui wui tui kashak.",
+        "Kaphung konglaoli ringkapha khangaso."
+      ],
+      "lines_translation": [
+        "The melody of Hao Laa flows like an untamed mountain river.",
+        "The sacred oral poetry of our ancestral fathers and mothers.",
+        "Echoing joyous harmony through hills and forested gorges."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-TRAD-002
+TITLE: Chonkhom Women's Traditional Shawl
+TITLE TRANSLATION: Prestigious Tangkhul Women's Shawl
+CATEGORY: tradition | SUBCATEGORY: attire
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Weaving Guilds
+PUBLICATION / SOURCE: Traditional Craft (Horam 1977)
+SOURCE ID: TLS-Textile-Chonkhom
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Prestigious handloom shawl featuring red base with dark horizontal stripes. Highly valued as bridal attire and ceremonial wear.
+
+[SEASONAL TIMING & OCCASION]
+Weddings, festive gatherings, and cultural ceremonies
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Master Women Weavers
+- Bridal Daughters
+- Clan Matriarchs
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Preparation of rich red dyed yarn derived from madder roots and mountain bark.
+2. Precision warping on the backstrap loom to establish tight horizontal striping.
+3. Weaving individual panels with balanced tension to ensure durability and suppleness.
+4. Joining panels with ancestral needlework stitches.
+5. Bestowal as maternal heirloom from mother to daughter at marriage.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Chonkhom kachonhi Tangkhul shanaobingwui won kaphana.
+Kashan won thada ngazei kathak, mashun themthot pamei.
+Manom chikatli kachon kakhare, avava apuipui wui lan.
+
+[ENGLISH TRANSLATION & MEANING]
+The Chonkhom shawl is the prized jewel of traditional Tangkhul women's attire.
+Characterized by rich crimson fields with dark horizontal striping of profound grace.
+Cherished as an essential bridal heirloom and ceremonial dress for honored occasions.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

@@ -1,0 +1,47 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-FEST-001
+TITLE: Luira Phanit
+TITLE TRANSLATION: Seed-Sowing Festival
+CATEGORY: festival | SUBCATEGORY: agricultural
+VILLAGE / REGION: Hunphun / Ukhrul | DIALECT: Ukhrul / Hunphun
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Community Elders
+PUBLICATION / SOURCE: Traditional Observation (Documented in Hodson 1911, Horam 1977)
+SOURCE ID: Hodson-1911-Ch3
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Prime annual agricultural spring festival celebrated in January/February marking the inauguration of the agricultural cycle. Features ceremonial sod-turning by the Awunga, wrestling (Kaphung), folk dances, and sacred prayers.
+
+[SEASONAL TIMING & OCCASION]
+January / February (Spring inauguration of agricultural cycle)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Awunga (Chief)
+- Hangva (Elders)
+- Clan Heads
+- Youth Dormitories (Longshim)
+- All Villagers
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Announcement of festival dates by the Hangva (Council of Elders) following lunar observation.
+2. Shimlut-Kaphung: Awunga (Chief) turns the first ceremonial clod of earth at dawn and sows sacred seeds.
+3. Feast of rice beer (Khor) and community butchering of buffalo and cattle across clans.
+4. Athletic competitions: Traditional wrestling (Kaphung), archery, and spear-throwing.
+5. Antiphonal dance (Pheichak) and Luira Laa singing performed in full traditional regalia (Haora and Chonkhom).
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Luira phanitli luisak kashung, iram Hunphunli kapha kachon.
+Awungana shimlut-kaphung sara, luishang kachivali mashak khare.
+Pheichak khangaso, kaphung ngarar, Vareli khorumda ringkaphawui thot.
+
+[ENGLISH TRANSLATION & MEANING]
+At the arrival of Luira festival, the seed-sowing season commences in Hunphun.
+The village chief performs the sacred sod-turning ritual before any villager may plant.
+Through festival dances, athletic wrestling, and prayers, the community enters a season of joy.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

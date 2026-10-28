@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-015",
+  "resource_type": "songs",
+  "title": "Ramna Ngateida",
+  "alternate_titles": [],
+  "title_translation": "In a Distant Land",
+  "singer": "Nimshimphi Muivah",
+  "lyricist": null,
+  "composer": null,
+  "collector": null,
+  "performers": [
+    "Nimshimphi Muivah"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "modern",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-NM-003",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Song expressing homesickness and thoughts of homeland while living far away.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Ramna ngateida pamlakala wuklungli.",
+        "Iram Ukhrul wui kaphungchi ningkachang."
+      ],
+      "lines_translation": [
+        "Though living far in distant lands across rivers and plains,",
+        "My heart longs forever for the misty hills of Ukhrul."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL MEIPHUNG: THE WOUNDS OF TIME
+IDENTIFIER: LIT-POEM-008 | GENRE: POEM
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Meiphung: The Wounds of Time
+  Title Translation:     Hearthside Reflections on Time and Memory
+  Literary Genre / Type: poem (poem)
+  Author / Storyteller:  Thotdharmi Shimray
+  Publication Year:      2019
+  Publisher:             Contemporary Tangkhul Writers Forum, Ukhrul
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TDS-2019-TMP
+  Source URL:            https://e-pao.net/tangkhul-poetry-meiphung
+  Associated Book:       None
+  License & Clearance:   Author Permitted (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Acclaimed contemporary poem exploring cultural memory, historical displacement, and the eternal flame of the ancestral hearth.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Meiphung-li pamlaga khangapik meikha theida kachikhangai,
+  Iramwui khararchan kacham-kacham ningli ngasungtatta.
+  Arārana mei-tahak sakakhung eina khon sakashung,
+  Chiyan-chikaning ngacheiser-haowa kha meiphung mangacheimana.
+
+  Chitharan kharuikaho eina ramwui ngashan ngacheilaka,
+  Wounds of time thada ning-ngalungli kashak-kakhayei shoksang.
+  Kha meiphungwui meira hi makhapei-mana,
+  Tangkhul mayarnao-wui ningli ringphang-fara!
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Sitting beside the ancestral hearth, watching the glowing embers slowly breathe,
+  The ancient tales of our mountain land stir deep within the quiet soul.
+  Here our forefathers stoked the sacred fire and recounted deeds of old;
+  Though decades have passed and seasons shifted, the hearthstone remains unchanged.
+
+  New winds of change have swept through our valleys, altering our ways,
+  Leaving the wounds of time etched upon the memory of our people.
+  Yet the sacred flame of this ancestral hearth can never be extinguished;
+  It shall burn forever in the hearts of Tangkhul youth across the hills!
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * The traditional hearth (*Meiphung*) as the sacred altar of memory and storytelling
+  * Cultural continuity versus historical upheaval and modernization
+  * The 'wounds of time' as scars of community resilience and survival
+  * Unextinguished flame as symbol of indigenous identity
+
+STRUCTURE & POETIC METER: Contemporary reflective free verse with contemplative pauses and cyclic fire imagery.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Authored by contemporary poet Thotdharmi Shimray. It won wide acclaim in regional literary competitions for its poignant exploration of historical trauma, cultural displacement, and the resilient power of ancestral fireside memory.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Meiphung               : The traditional three-stone village hearth, center of family fellowship and oral lore
+  * Meikha                 : Glowing coals / living warmth preserved overnight beneath ash
+  * Mei-tahak              : To kindle and feed the ancestral fire with seasoned pine wood
+  * Ning-ngalung           : The innermost chamber of the heart and consciousness
+
+================================================================================
+END OF RECORD: LIT-POEM-008 - Tangkhul Language Library Digital Archive
+================================================================================

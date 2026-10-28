@@ -75,16 +75,24 @@ venv.bak/
 .DS_Store
 Thumbs.db
 
-# Project-specific: Local databases & raw copyrighted material
+# Project-specific: Local databases & files exceeding GitHub limits (>50-100MB)
+*.db
+*.sqlite
+*.sqlite3
 data/database/*.db
-data/database/*.sqlite
-data/database/*.sqlite3
-data/raw/**/*.pdf
+data/database/*.sqlite*
+src/tangkhul_lib/data/*.sqlite*
+
+# Large datasets exceeding GitHub 100MB file limit
+*tangkhul_100k_expanded_lexicon.json
+*tangkhul_100k_expanded_lexicon.csv
+*tangkhul_100k_expanded_lexicon.tsv
+*tangkhul_100k_expanded_lexicon_complete.pdf
+
 data/raw/**/*.mp3
 data/raw/**/*.wav
 data/raw/**/*.epub
 !data/raw/**/.gitkeep
-data/exports/*
-!data/exports/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+

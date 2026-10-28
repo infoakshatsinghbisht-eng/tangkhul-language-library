@@ -1,0 +1,55 @@
+{
+  "id": "LIT-FLK-006",
+  "resource_type": "literature",
+  "title": "Hangkho Khalángwui Khararchan",
+  "title_translation": "The Tale of the Boy Who Became a Hornbill",
+  "creator": "Tangkhul Oral Tradition Custodians & Storytellers",
+  "author": "Traditional",
+  "year": 1981,
+  "publisher": "Tangkhul Literature Society / Documented in Arokianathan 1982",
+  "language": "Tangkhul",
+  "dialect": "Phungcham / Standard Tangkhul",
+  "village": "Phungcham",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "oral_narrative"
+  ],
+  "book_id": "BK-TLS-015",
+  "source_url": "https://imphalreviews.in/tangkhul-folktales-khararchan",
+  "source_identifier": "TLS-1981-HKK",
+  "license": "Traditional Oral Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-006.txt",
+  "notes": "Poignant ancestral folktale of the mistreated orphan boy Hangkho who crafted wings of hornbill feathers and transformed into the great hornbill.",
+  "indigenous_tangkhul_text": [
+    "Kashunao mayarnao Hangkho akha pamlaga, akhava eina ava kathinao-wui vangli kacham-kacham khangaran shurui.\nChitharan ava-nganungna khamakhei shimchin pida, sangkhor-li pamkakhung eina khararchan ning-ngachailaka.",
+    "Iramwui vanao kachiphun thada iwui khamahon horkhava ningungda, akhan akhang eina vanao wui mashon phapha-khavai.\nPhungcham ramwui khararchar-li vanao-wui khon sakakhung eina, 'Hangkho-nao vanao khangaran!' da makhawor-lakmana.",
+    "Mei-ngaleili kapam mayarnao Hangkho, kazingramwui mashon phaphakhavai khurkhava-li kakhayei vanao wui mashan zatta.\nChiwui thada kachamnao mayarnao Hangkho khalángwui khon horkashung eina phung-ngathang kazingli khaláng-haowa."
+  ],
+  "english_translation_text": [
+    "In an ancient village lived the orphan boy Hangkho, who suffered endless cruelty and neglect after the passing of his parents.\nTreated harshly by his stepmother and relegated to the cold hearth, he wept silently beneath the shadow of the mountain ridge.",
+    "Yearning to escape human torment like the free-flying birds of the alpine forest, he gathered fallen feathers day by day.\nWeaving wings of hornbill plumage, he climbed to the highest ridge of Phungcham and cried aloud: 'Hangkho has taken flight!'",
+    "Leaving behind the earthly hearth and village sorrows, he spread his great feathers toward the boundless azure sky.\nThus the orphan boy transformed into the majestic great hornbill, soaring forever across the sacred mountain peaks."
+  ],
+  "literary_themes": [
+    "Orphan adversity and cruelty of uncustomary stepmother (*Kashunao wui Khangaran*)",
+    "Avian metamorphism and transformation into the Great Hornbill (*Vanao Khaláng*)",
+    "Yearning for celestial freedom and spiritual liberation from village bondage",
+    "The moral obligation of community solidarity and defense of vulnerable youth"
+  ],
+  "structure_and_meter": "Ancestral mythological narrative in tri-partite tragic meter with rhythmic refrain and sorrow chants.",
+  "critical_commentary": "One of the most famous and deeply poignant folktales in the Tangkhul canon. It warns community members against the mistreatment of orphans and poetically portrays the hornbill as a symbol of transcendent ancestral spirits.",
+  "poetic_vocabulary_terms": {
+    "Hangkho": "Great Indian Hornbill (Buceros bicornis), symbol of noble flight and ancestral transcendence",
+    "Khaláng": "To soar, transform, take flight into avian form",
+    "Kashunao": "Orphan child, vulnerable without parental guardianship",
+    "Vanao mashon": "Plumage / feathers of sacred mountain birds"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

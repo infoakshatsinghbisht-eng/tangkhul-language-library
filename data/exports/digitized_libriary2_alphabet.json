@@ -1,0 +1,220 @@
+{
+  "script": "Latin (Hunterian transliteration as adapted for Tangkhul Naga)",
+  "description": "Tangkhul Naga language is written in the Roman script with specific phonetic markers and tonal characteristics.",
+  "vowels": [
+    {
+      "char": "a",
+      "ipa": "/a/",
+      "english_sound": "as in father (short)",
+      "hindi_sound": "अ या आ"
+    },
+    {
+      "char": "ā",
+      "ipa": "/a:/",
+      "english_sound": "as in father (elongated)",
+      "hindi_sound": "दीर्घ आ"
+    },
+    {
+      "char": "e",
+      "ipa": "/e/",
+      "english_sound": "as in bet, get",
+      "hindi_sound": "ए"
+    },
+    {
+      "char": "i",
+      "ipa": "/i/",
+      "english_sound": "as in machine, pin",
+      "hindi_sound": "इ / ई"
+    },
+    {
+      "char": "o",
+      "ipa": "/o/",
+      "english_sound": "as in note, go",
+      "hindi_sound": "ओ"
+    },
+    {
+      "char": "u",
+      "ipa": "/u/",
+      "english_sound": "as in rule, boot",
+      "hindi_sound": "उ / ऊ"
+    },
+    {
+      "char": "ɯ",
+      "ipa": "/ɯ/",
+      "english_sound": "high back unrounded vowel (found in Ukhrul Tangkhul)",
+      "hindi_sound": "उदासीन पश्च स्वर"
+    }
+  ],
+  "diphthongs": [
+    {
+      "pair": "ai",
+      "sound": "as 'ie' in lie / pie",
+      "hindi": "आइ"
+    },
+    {
+      "pair": "ao",
+      "sound": "as 'ow' in how / house",
+      "hindi": "आउ"
+    },
+    {
+      "pair": "ei",
+      "sound": "as in feign, eight",
+      "hindi": "एइ"
+    },
+    {
+      "pair": "ui",
+      "sound": "as 'ee' in between or French 'ui'",
+      "hindi": "उइ"
+    },
+    {
+      "pair": "oe",
+      "sound": "as 'oy' in boy",
+      "hindi": "ओइ"
+    }
+  ],
+  "consonants": [
+    {
+      "char": "p",
+      "type": "voiceless bilabial stop",
+      "hindi": "प"
+    },
+    {
+      "char": "ph",
+      "type": "aspirated voiceless bilabial stop",
+      "hindi": "फ"
+    },
+    {
+      "char": "t",
+      "type": "voiceless dental/alveolar stop",
+      "hindi": "त / ट"
+    },
+    {
+      "char": "th",
+      "type": "aspirated voiceless dental stop",
+      "hindi": "थ / ठ"
+    },
+    {
+      "char": "k",
+      "type": "voiceless velar stop",
+      "hindi": "क"
+    },
+    {
+      "char": "kh",
+      "type": "aspirated voiceless velar stop",
+      "hindi": "ख"
+    },
+    {
+      "char": "c / ch",
+      "type": "voiceless postalveolar affricate",
+      "hindi": "च"
+    },
+    {
+      "char": "s",
+      "type": "voiceless alveolar fricative",
+      "hindi": "स"
+    },
+    {
+      "char": "sh",
+      "type": "voiceless postalveolar fricative",
+      "hindi": "श"
+    },
+    {
+      "char": "h",
+      "type": "voiceless glottal fricative",
+      "hindi": "ह"
+    },
+    {
+      "char": "m",
+      "type": "bilabial nasal",
+      "hindi": "म"
+    },
+    {
+      "char": "n",
+      "type": "alveolar nasal",
+      "hindi": "न"
+    },
+    {
+      "char": "ng (ŋ)",
+      "type": "velar nasal (as in 'sing')",
+      "hindi": "ङ"
+    },
+    {
+      "char": "l",
+      "type": "alveolar lateral approximant",
+      "hindi": "ल"
+    },
+    {
+      "char": "r",
+      "type": "alveolar trill/tap",
+      "hindi": "र"
+    },
+    {
+      "char": "v",
+      "type": "labiodental voiced fricative",
+      "hindi": "व"
+    },
+    {
+      "char": "w",
+      "type": "voiced labial-velar approximant",
+      "hindi": "व (अर्धस्वर)"
+    },
+    {
+      "char": "y",
+      "type": "palatal approximant",
+      "hindi": "य"
+    },
+    {
+      "char": "z",
+      "type": "voiced alveolar fricative",
+      "hindi": "ज़"
+    }
+  ],
+  "tones": [
+    {
+      "name": "High Tone (Rising)",
+      "symbol": "´ or high pitch",
+      "description": "Rising high pitch. E.g. 'Mi' (to give) with high tone means give, while low tone means mankind.",
+      "examples": [
+        {
+          "tangkhul": "Kha-mi",
+          "meaning_en": "To give",
+          "meaning_hi": "देना"
+        },
+        {
+          "tangkhul": "Mi",
+          "meaning_en": "Mankind / Man",
+          "meaning_hi": "मानव / मनुष्य"
+        }
+      ]
+    },
+    {
+      "name": "Mid Tone (Level)",
+      "symbol": "unmarked",
+      "description": "Neutral standard level tone without rise or fall.",
+      "examples": [
+        {
+          "tangkhul": "Tara",
+          "meaning_en": "Water",
+          "meaning_hi": "पानी"
+        }
+      ]
+    },
+    {
+      "name": "Low Tone (Falling)",
+      "symbol": "` or low pitch",
+      "description": "Deep falling pitch. E.g. 'Kahuŋ' (neck) vs 'Kahuŋ-a' (red).",
+      "examples": [
+        {
+          "tangkhul": "Kahuŋ",
+          "meaning_en": "Neck",
+          "meaning_hi": "गर्दन"
+        },
+        {
+          "tangkhul": "Kahuŋ-a",
+          "meaning_en": "Red color",
+          "meaning_hi": "लाल रंग"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+================================================================================
+TANGKHUL LITERARY RECORD: YARNAO WUI AKHAMA
+IDENTIFIER: LIT-STRY-003 | GENRE: SHORT_STORY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Yarnao wui Akhama
+  Title Translation:     The Morning of the Labor Exchange
+  Literary Genre / Type: short_story (short_story)
+  Author / Storyteller:  V. Ruivah
+  Publication Year:      1993
+  Publisher:             Anthropological Literary Series, Imphal
+  Village / Dialect:     Somdal [Standard Tangkhul]
+  Source Identifier:     Ruivah-1993-YNA
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Scholarly Publication (permitted)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Short story depicting communal terrace paddy cultivation, youth camaraderie in the Yarnao labor group, and the rhythm of mountain village life.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Akhama dawn mist-li Yarnao youth labor group-na drum and song-li terraced fields-li march sakya.
+  Mayarnao kala shanaonao communal paddy transplantation (Luisak)-li rhythmically toil sakda fellowship foster sakya.
+  Mutual aid, youth humor, folk singing, kala agricultural festivity vibrant thada narrative-li captured.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  In the cool morning mist, the youth cooperative labor band (*Yarnao*) marched toward the terraced fields singing in unison.
+  Young men and maidens transplanted green seedlings (*Luisak*) in rhythmic coordination, sharing laughter and songs.
+  The narrative captures the vibrant camaraderie, witty banter, and communal harmony of traditional mountain agriculture.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Communal agricultural labor groups (*Yarnao*) as the heartbeat of village society
+  * Antiphonal singing and rhythmic synchronization in manual farm work
+  * Romantic courting and youthful wit amidst communal toil
+
+STRUCTURE & POETIC METER: Vivid atmospheric short story capturing the sounds, sensory smells, and energetic rhythm of a single agricultural workday.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Authored by anthropologist and literary writer V. Ruivah in 1993, this story provides an invaluable literary depiction of traditional cooperative labor institutions.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Yarnao                 : Youth peer labor collective for mutual farm work
+  * Akhama                 : Dawn twilight / the fresh morning hour
+  * Luisak                 : Ceremonial transplanting of green paddy seedlings
+  * Laa-Kakhon             : Antiphonal singing across terraced fields
+
+================================================================================
+END OF RECORD: LIT-STRY-003 - Tangkhul Language Library Digital Archive
+================================================================================

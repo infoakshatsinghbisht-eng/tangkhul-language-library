@@ -1,0 +1,44 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-ORAL-002
+TITLE: Makhel Dispersal Migration Narrative
+TITLE TRANSLATION: Oral Tradition of Common Origin at Makhel
+CATEGORY: oral_tradition | SUBCATEGORY: migration
+VILLAGE / REGION: Makhel | DIALECT: Standard Tangkhul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Village Raconteurs
+PUBLICATION / SOURCE: Documented in Hodson 1911, Horam 1977
+SOURCE ID: Hodson-1911-Ch1
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Ancestral tradition recounting the migration of the Tangkhul clans from Makhel, the sacred dispersal under the wild pear tree, and traditional covenants of unity.
+
+[SEASONAL TIMING & OCCASION]
+Historical assemblies and inter-village cultural summits
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Tribal Historians
+- Clan Elders
+- Cultural Gatherings
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Raconteurs narrate the migration from subterranean origins through Makhel.
+2. Recounting the sacred covenants sworn before departing along divergent mountain ridges.
+3. Commemoration of the historic pear tree (*Chutebu*) as symbol of shared brotherhood.
+4. Reaffirming peaceful inter-tribal and inter-village kinship based on shared Makhel ancestry.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Makhel kaphungli avava apuipui wui pamkhare lei.
+Theikahai thingron aparali kashak tui saikora kashung.
+Naga miyur saikora kangarum, iram kaphungli kazip thada.
+
+[ENGLISH TRANSLATION & MEANING]
+At the heights of Makhel lies the ancestral dispersal site of our forebears.
+Beneath the sacred wild pear tree, covenants of unity and common brotherhood were sealed.
+All Naga clans were once united there before spreading across their respective mountain realms.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

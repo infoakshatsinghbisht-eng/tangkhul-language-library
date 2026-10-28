@@ -1,0 +1,44 @@
+{
+  "id": "CULT-TRAD-004",
+  "resource_type": "culture",
+  "title": "Longkhor Conical Basket Craft",
+  "title_translation": "Traditional Tangkhul Bamboo Basketry",
+  "creator": "Tangkhul Bamboo Craftsmen",
+  "year": 1911,
+  "publisher": "Traditional Craft (Hodson 1911)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "tradition",
+  "subcategory": "craft",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Hodson-1911-Ch2",
+  "license": "Traditional Craft Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-TRAD-004_longkhor_conical_basket.txt",
+  "verification_status": "verified",
+  "notes": "Artisanal hand-woven conical bamboo basket used with head tumpline for transporting paddy, firewood, and harvest produce across mountainous terrain.",
+  "indigenous_tangkhul_text": [
+    "Longkhorli ot phungda kaphungli chat, iram mibingwui pang.",
+    "Kahao wui li shaihaida kachak, chanam tara phungda.",
+    "Kaphung kongrei luishang kachida, Longkhor mashimanpaishap."
+  ],
+  "english_translation_text": [
+    "Carrying loads in the Longkhor basket across mountain trails, the steadfast companion of hill life.",
+    "Woven tightly from mature mountain bamboo and cane, defying rain, weight, and wear.",
+    "Across every terrace and steep mountain ridge, the Longkhor remains an indispensable tool."
+  ],
+  "procedural_stages": [
+    "1. Harvesting mature mountain bamboo (Kaha) and pliable cane during dry winter months.",
+    "2. Splitting bamboo into fine, uniform pliable strips (Lishing).",
+    "3. Weaving four-cornered conical base and expanding body with close twill weave.",
+    "4. Reinforcing rim with bent hardwood hoop and cane lashing.",
+    "5. Attaching woven head tumpline (Khangvai) for ergonomic mountain burden carrying."
+  ],
+  "ceremonial_participants": [
+    "Master Bamboo Craftsmen",
+    "Farmers",
+    "Mountain Villagers"
+  ],
+  "seasonal_timing": "Year-round agricultural transport and harvest conveyance"
+}

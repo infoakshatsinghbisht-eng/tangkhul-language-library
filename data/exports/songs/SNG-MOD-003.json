@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-003",
+  "resource_type": "songs",
+  "title": "Mayokachang Tam Wonrei",
+  "alternate_titles": [],
+  "title_translation": "Blossoming in the Season",
+  "singer": "Rewben Mashangva",
+  "lyricist": "Rewben Mashangva",
+  "composer": "Rewben Mashangva",
+  "collector": null,
+  "performers": [
+    "Rewben Mashangva"
+  ],
+  "year": null,
+  "village": "Choithar",
+  "dialect": "Standard Tangkhul",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-RM-002",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Folk blues song evoking seasonal beauty and cultural metaphors.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Mayokachang tam wonrei kaphung kachungli.",
+        "Ngarumda pamhaida ringkaphawui thotna."
+      ],
+      "lines_translation": [
+        "Spring blossoms unfold in beauty across the mountain slopes.",
+        "Dwelling in harmony, our generation celebrates peaceful life."
+      ]
+    }
+  ]
+}

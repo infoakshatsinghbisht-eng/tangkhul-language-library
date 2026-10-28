@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Comparison of Indo-Chinese Languages: Tangkhul (Luhuppa) and Champhung Vocabularies
+# Identifier: DIC-HIST-003
+# Primary Creator / Lexicographer: Nathan Brown, George Gordon
+# Publication Year: 1837
+# Publisher: Journal of the Asiatic Society of Bengal, Vol. 6, Calcutta
+# Language Pair: Tangkhul-English
+# Dialect Variety: Luhuppa & Champhung
+# Source Classification: wordlist
+# License: Public Domain
+# Permission Status: public_domain
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Comparison of Indo-Chinese Languages: Tangkhul (Luhuppa) and Champhung Vocabularies
+ALTERNATE TITLE: Comparison of Indo-Chinese Languages
+COMPILER / AUTHORS: Nathan Brown, George Gordon
+YEAR: 1837
+PUBLISHING BODY: Journal of the Asiatic Society of Bengal, Vol. 6, Calcutta
+DIALECT / VARIETY: Luhuppa & Champhung
+SOURCE IDENTIFIER: JASB-Vol-VI-1837
+CANONICAL SOURCE URL: https://biostor.org/reference/111387
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Published in 1837 in the Journal of the Asiatic Society of Bengal (Vol. 6, pp. 1023-1038) by American Baptist missionary and scholar Nathan Brown. The lexical elicitations were collected by Captain George Gordon, Political Agent in Manipur, and document two distinct varieties: the northern Luhuppa (Tangkhul) and the archaic Champhung language. This is the earliest known published comparative wordlist for any Tangkhulic speech variety, predating McCulloch by 22 years.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Transcribed using early 19th-century British orientalist Roman orthography. Preserves archaic Champhung initial clusters and distinct lexical cognates before extensive 20th-century levelling.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. mi (noun) -- man, human person [Citation: p. 1028] [Alt: mī]
+   Context / Example: Mī ahkā (One human person).
+
+ENTRY  2. khamor (noun) -- mouth, spoken voice, speech [Citation: p. 1029] [Alt: khahmōr]
+   Context / Example: Khamor tui (Spoken voice of the people).
+
+ENTRY  3. tara (noun) -- water, stream liquid [Citation: p. 1030] [Alt: tahrā]
+   Context / Example: Tara chup (Drinking fresh river water).
+
+ENTRY  4. mei (noun) -- fire, hearth fire, flame [Citation: p. 1030] [Alt: may]
+   Context / Example: Mei katum (Lighting the central fire).
+
+ENTRY  5. kazing (noun) -- sky, heavens, atmosphere [Citation: p. 1031] [Alt: kahzeeng]
+   Context / Example: Kazing ngalem (Underneath the open sky).
+
+ENTRY  6. ngalung (noun) -- stone, rock, megalith [Citation: p. 1031] [Alt: nahloong]
+   Context / Example: Ngalung kachui (A great rock monument).
+
+ENTRY  7. shim (noun) -- house, dwelling, roofed shelter [Citation: p. 1032] [Alt: sheem]
+   Context / Example: Shim kathara (A new clan house).
+
+ENTRY  8. pang (noun) -- hand, arm [Citation: p. 1032] [Alt: pahng]
+   Context / Example: Pang eina ot kasa (Working with hand labor).
+
+ENTRY  9. phei (noun) -- foot, leg [Citation: p. 1033] [Alt: phee]
+   Context / Example: Phei eina khazat (Walking upon one's feet).
+
+ENTRY 10. lengvai (noun) -- village gate, ceremonial portal [Citation: p. 1035] [Alt: layngvai]
+   Context / Example: Lengvaili kapam (Standing at the fortified village portal).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Public Domain
+Permission Tier: public_domain
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. Nathan Brown, George Gordon (1837). Comparison of Indo-Chinese Languages: Tangkhul (Luhuppa) and Champhung Vocabularies. Journal of the Asiatic Society of Bengal, Vol. 6, Calcutta.
+=======================================================================

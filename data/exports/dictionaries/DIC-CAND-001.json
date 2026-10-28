@@ -1,0 +1,150 @@
+{
+  "id": "DIC-CAND-001",
+  "resource_type": "dictionaries",
+  "title": "Comparative Tangkhul Dialect Glossary: Phungcham, Hundung, Champhung, and Ukhrul",
+  "title_translation": "Comparative Tangkhul Dialect Glossary",
+  "creator": "Tangkhul Dialect Documentation Project",
+  "year": 2018,
+  "publisher": "Independent Community Documentation, Ukhrul",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul Dialects-English",
+  "dialect": "Multidialectal (Phungcham, Hundung, Champhung, Ukhrul)",
+  "source_type": "glossary",
+  "source_url": "https://tangkhullanguage.org/archive/dialect-glossary-2018",
+  "source_identifier": "TDDP-GLOSS-2018-01",
+  "license": "CC-BY-NC 4.0 (Pending Verification)",
+  "permission_status": "pending",
+  "local_path": "data/raw/dictionaries/DIC-CAND-001_tddp_2018.txt",
+  "verification_status": "needs_review",
+  "notes": "Field vocabulary comparing everyday agricultural, domestic, and body part terms across four Tangkhul villages. Candidate record flagged for community verification.",
+  "alternate_title": "Comparative Tangkhul Dialect Glossary",
+  "background": "Initiated in 2018 by independent community researchers and mother-tongue educators as the Tangkhul Dialect Documentation Project (TDDP). Elicits everyday agricultural, domestic, anatomical, and cultural vocabulary across four geographically and historically divergent villages: Phungcham (northern), Hundung (southern valley), Champhung (western archaic variety), and Ukhrul (central standard). Demonstrates significant lexical divergences between varieties.",
+  "phonology_notes": "Preserves archaic consonants (e.g. initial r/l shifts, consonant clusters, and distinct vowel reflexes) found in Champhung and Phungcham that have merged in standard Ukhrul.",
+  "entries": [
+    {
+      "headword": "kongrei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "great river",
+        "mighty stream"
+      ],
+      "dialect": "Phungcham",
+      "page": "Sec. 2",
+      "alternative_spellings": [
+        "kongray"
+      ],
+      "example": "Kongreili ngashan kapam (Resting beside the mighty stream)."
+    },
+    {
+      "headword": "lengvai",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "village gate",
+        "ceremonial wooden portal"
+      ],
+      "dialect": "Champhung",
+      "page": "Sec. 4",
+      "alternative_spellings": [],
+      "example": "Lengvaili kashak ngatei (Carved markings upon the portal)."
+    },
+    {
+      "headword": "ngalungtui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "monolith speech",
+        "sacred covenant word engraved on stone"
+      ],
+      "dialect": "Hundung",
+      "page": "Sec. 7",
+      "alternative_spellings": [
+        "ngalung-tui"
+      ],
+      "example": "Ngalungtui thot kachunglei (Unbreakable covenant word sealed on stone)."
+    },
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mouth",
+        "spoken words",
+        "voice"
+      ],
+      "dialect": "Ukhrul",
+      "page": "Sec. 1",
+      "alternative_spellings": [],
+      "example": "Khamor kapha hithada hanna (Speaking gracious words in council)."
+    },
+    {
+      "headword": "shimkhon",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ancestral dwelling compound",
+        "clan courtyard"
+      ],
+      "dialect": "Hundung",
+      "page": "Sec. 5",
+      "alternative_spellings": [],
+      "example": "Shimkhonli tui kakazip (Gathering in council at the clan compound)."
+    },
+    {
+      "headword": "ramrei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ancestral territorial domain",
+        "sovereign village lands"
+      ],
+      "dialect": "Phungcham",
+      "page": "Sec. 3",
+      "alternative_spellings": [],
+      "example": "Ramreili rammayun (Guarding ancestral village boundaries)."
+    },
+    {
+      "headword": "luishang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "terraced agricultural slope",
+        "steep paddy field"
+      ],
+      "dialect": "Champhung",
+      "page": "Sec. 6",
+      "alternative_spellings": [],
+      "example": "Luishangli luira kasak (Terracing the steep agricultural slope)."
+    },
+    {
+      "headword": "pheirui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mountain path",
+        "hillside trail"
+      ],
+      "dialect": "Ukhrul",
+      "page": "Sec. 1",
+      "alternative_spellings": [],
+      "example": "Pheiruili khazat (Walking upon the mountain trail)."
+    },
+    {
+      "headword": "ngaraotui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "dialectal variant",
+        "idiom of speech",
+        "local vernacular"
+      ],
+      "dialect": "Multidialectal",
+      "page": "Sec. 8",
+      "alternative_spellings": [],
+      "example": "Ngaraotui eina theikhavai (Recognizing idioms of village speech)."
+    },
+    {
+      "headword": "hangvalui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "council agricultural plot dedicated to elders"
+      ],
+      "dialect": "Hundung",
+      "page": "Sec. 5",
+      "alternative_spellings": [],
+      "example": "Hangvaluili ot kasa (Farming the council land collaboratively)."
+    }
+  ]
+}

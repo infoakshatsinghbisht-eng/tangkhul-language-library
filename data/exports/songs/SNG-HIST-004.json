@@ -1,0 +1,62 @@
+{
+  "id": "SNG-HIST-004",
+  "resource_type": "songs",
+  "title": "Jesuwui Laa No. 2: He Jesuwui Makali Ringphalaka",
+  "alternate_titles": [
+    "Safe in the Arms of Jesus (Tangkhul)",
+    "Hymn No. 2 (1907)"
+  ],
+  "title_translation": "Safe in the Arms of Jesus in Tangkhul Naga",
+  "singer": "Early Tangkhul Church Congregation",
+  "lyricist": "Fanny Crosby (Original) / Rev. William Pettigrew (Trans.)",
+  "composer": "William H. Doane (Tune 57 | Doh is G)",
+  "collector": "Rev. William Pettigrew",
+  "performers": [],
+  "year": 1907,
+  "village": "Ukhrul",
+  "dialect": "Ukhrul Dialect (1907 Orthography)",
+  "song_type": "hymn",
+  "language": "Tangkhul",
+  "source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "source_identifier": "PETTIGREW-1907-HYMN-002",
+  "recording_url": null,
+  "lyrics_source_url": "https://archive.org/details/hymnsintangkhuln00pett",
+  "local_file_path": "data/raw/songs/SNG-HIST-004_jesuwui_laa_02_pettigrew_1907.txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Hymn No. 2 from Jesuwui La: Hymns in Tangkhul Naga (1907, American Baptist Mission, Ukhrul). 2 stanzas translated into classical archaic Tangkhul orthography.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "He Jesuwui makali, Ringphalaka;",
+        "Awui ngahan ngaida romhai, Phasa kakhanang rai.",
+        "Kachingwui chan nganalu, Iwui la sada laili,",
+        "Jesuna nani mashitta, Hangda la kasana."
+      ],
+      "lines_translation": [
+        "Safe in the arms of Jesus, safe on His gentle breast;",
+        "There by His love o'ershadowed, sweetly my soul shall rest.",
+        "Hark, 'tis the voice of angels, borne in a song to me,",
+        "Over the fields of glory, over the jasper sea."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "lines_tangkhul": [
+        "He Jesuwui makali, Kangachee malaimana,",
+        "I morai maphungmara, Chiaina makhanangmara.",
+        "Wukli kakhanang malaita, Ringkapha apamna,",
+        "Mikumo awui okkathui, Makaphawui zatna."
+      ],
+      "lines_translation": [
+        "Safe in the arms of Jesus, safe from corroding care;",
+        "Free from the blights of sorrow, free from the tempter's snare.",
+        "Free from the doubts and conflicts, in that blissful realm above,",
+        "Where mortal grief and sin no more can sever us from love."
+      ]
+    }
+  ]
+}

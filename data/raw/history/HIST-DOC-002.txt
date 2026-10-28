@@ -1,0 +1,65 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: CAPT. PEMBERTON'S 1835 REPORT ON THE EASTERN FRONTIER
+IDENTIFIER: HIST-DOC-002 | CATEGORY: HISTORICAL_DOCUMENT
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Capt. Pemberton's 1835 Report on the Eastern Frontier
+  Title Translation:     Earliest Official British Survey of the Tangkhul Country
+  Historical Category:   historical_document
+  Event Date / Period:   1835 | Early 19th Century Colonial
+  Sort Year:             1835
+  Place / Settlement:    Calcutta / Manipur Frontier [Eastern Frontier]
+  Dialect / Variety:     Luhuppa Historical
+  Key Figures / Creator: Captain R. Boileau Pemberton
+  Publisher / Source:    Baptist Mission Press, Calcutta
+  Source Identifier:     Pemberton-1835-Report
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Public Domain (public_domain)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  Landmark 1835 British military and geographical survey published in Calcutta providing the first official cartographic and ethnographic description of the Tangkhul (Luhuppa) hills, village fortifications, pass routes, and trade to Burma.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  1835 kumli Captain R. Boileau Pemberton Report on the Eastern Frontier of British India Calcutta Baptist Mission Press-li kachap shansangya.
+  Tangkhul Luhuppa country, village populations, mountain trade routes, kala Manipur-Burma frontier relations document sakya.
+  Hina printed colonial archives-li Tangkhul hills-wui earliest systematic geographical and military survey shansangya.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  In 1835, Captain R. Boileau Pemberton published his seminal 'Report on the Eastern Frontier of British India' at the Baptist Mission Press in Calcutta.
+  It documented the Tangkhul (Luhuppa) country, village sizes, strategic mountain routes, and political ties with the Manipur kingdom.
+  Pemberton's report provided the earliest official administrative and cartographic survey of the Manipur eastern hill tracts.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. 1826–1834: Pemberton conducts extensive surveys following the First Anglo-Burmese War and Treaty of Yandabo.
+  2. 1835: Published under the authority of the Committee of Public Instruction, Government of India, Calcutta.
+  3. Contents: Detailed chapters on hill tribes, trade routes connecting Imphal to the Kabaw Valley, and tribal defense.
+  4. Historical Value: Earliest Western document providing quantitative population estimates and village settlement descriptions.
+
+KEY FIGURES & LEADERS:
+  Captain R. Boileau Pemberton, Government of India Survey Dept., Baptist Mission Press Calcutta
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Calcutta (Publication) & Eastern Frontier of Manipur / Tangkhul Hills
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  The cornerstone early 19th-century colonial geopolitical report that placed the Tangkhul country on British administrative maps.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Kharashun-Lairik       : Official government survey report and cartographic treatise
+  * Luhuppa Ram            : The territorial domain of the northern and central Tangkhuls
+  * Khararam-Ralam         : Cross-border trade and military pass routes
+  * Wung-Shitsang          : Diplomatic frontier covenants and boundary treaties
+
+================================================================================
+END OF RECORD: HIST-DOC-002 - Tangkhul Language Library Digital Archive
+================================================================================

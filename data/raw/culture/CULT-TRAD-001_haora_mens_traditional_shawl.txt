@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-TRAD-001
+TITLE: Haora Men's Traditional Shawl
+TITLE TRANSLATION: Ancestral Tangkhul Men's Shawl
+CATEGORY: tradition | SUBCATEGORY: attire
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Master Weavers
+PUBLICATION / SOURCE: Traditional Craft (Hodson 1911, TLS Weaving Documentation)
+SOURCE ID: TLS-Textile-Haora
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Renowned handwoven cotton shawl with white, red, and black bands, featuring delicate hand-stitched Ramik (eye of peacock) patterns along the edges. Worn by men during festivals.
+
+[SEASONAL TIMING & OCCASION]
+Festivals, ceremonial summits, and high community occasions
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Master Women Weavers
+- Tangkhul Men
+- Cultural Guilds
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Hand-spinning and dyeing of indigenous cotton using natural vegetable and bark dyes.
+2. Setting up traditional backstrap loin loom (Kashan kashak).
+3. Weaving the distinct tripartite colored bands: Pure white central field with black and red borders.
+4. Hand-stitching the intricate geometric Ramik motifs along the longitudinal seam.
+5. Formal presentation to adult males during ceremonial festival occasions.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Haora kachonhi Tangkhul mayarnao wui aming kasak kachonna.
+Kakathara, kakhangaza, kaphungwon thada ramik katat.
+Phanit kachida phungda chatlaga, Tangkhul ngashan thot thada.
+
+[ENGLISH TRANSLATION & MEANING]
+The Haora shawl is the preeminent symbol of Tangkhul male dignity and ancestral honor.
+Woven in bold black, white, and red bands, adorned with delicate peacock-eye (Ramik) embroidery.
+Draped across the shoulders during festivals, embodying timeless Tangkhul identity and valor.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

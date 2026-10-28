@@ -1,0 +1,124 @@
+{
+  "id": "CULT-RIT-003",
+  "title": "Tangkhul Sacred Rituals, Ceremonies & Taboos (Phanit, Kakhangaso kala Khamasit)",
+  "title_translation": "Master Archive of Tangkhul Lifecycle Ceremonies, Agrarian Rites, and Sacred Taboo Observances",
+  "category": "ritual",
+  "subcategory": "lifecycle_and_agrarian_rituals",
+  "creator": "Tangkhul Hereditary Custodians & Village Elders",
+  "year": 1911,
+  "publisher": "Documented in Hodson 1911, Horam 1977, Ruivah 1993",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul (Ukhrul / Hunphun)",
+  "village": "Ukhrul / Hunphun",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/culture/CULT-RIT-003_tangkhul_sacred_rituals_ceremonies.txt",
+  "notes": "Comprehensive archival codification of Tangkhul ceremonial life: agrarian seasonal rites (Luira, Chumpha, Mangkhap, Dharreo), human lifecycle rituals (birth, naming, youth dormitory induction, marriage, house dedication, death), prestige feast cycles (Maran Kasa), chiefly enthronement, and sacred taboo (Khamasit / Genna) observances.",
+  "ceremonial_cycles": [
+    {
+      "cycle_name": "Agrarian Ritual Cycle (Luisak Kakhangaso)",
+      "rites": [
+        {
+          "name": "Luira Shimlut-kaphung (First Sowing Rite)",
+          "timing": "January / February (Spring seed-sowing)",
+          "presiding": "Awunga (Hereditary Village Chief)",
+          "description": "At dawn on the first day of Luira Phanit, the chief turns the ceremonial first clod of earth and sows seeds before any villager may begin cultivation, accompanied by libations and wrestling (Kaphung).",
+          "significance": "Sanctifies communal agriculture and establishes cosmological harmony between the soil and the village lineage."
+        },
+        {
+          "name": "Chumkhur Kakhon (Granary Consecration Rite)",
+          "timing": "December (Post-harvest thanksgiving)",
+          "presiding": "Senior Female Clan Custodians (Shanao mibing)",
+          "description": "Ceremonial unlocking and fumigation of the granary (Chum); ritual transfer of keys and first invocation of blessing over newly harvested rice.",
+          "significance": "Honors women as custodians of grain, life, and domestic prosperity in Tangkhul custom."
+        },
+        {
+          "name": "Mangkhap Kaphung (Transplantation Rest Rite)",
+          "timing": "July (Post-transplantation midsummer)",
+          "presiding": "Village Farming Guilds & Lineage Elders",
+          "description": "Communal purification of spade, hoe, and sickle; ceremonial consumption of fermented rice brew (Khor); seven-day period of agricultural stillness.",
+          "significance": "Allows fields and bodies to recuperate; prevents early pestilence through ritual rest."
+        },
+        {
+          "name": "Dharreo Invocations (Pre-Harvest Shielding Rite)",
+          "timing": "October (Pre-harvest autumn)",
+          "presiding": "Pikha (Priest) & Clan Elders",
+          "description": "Placement of ceremonial bamboo charms around terraced perimeters to ward off unseasonable hail, violent gales, and rodent swarms.",
+          "significance": "Guarantees that the golden harvest reaches the granaries unmolested by natural calamities."
+        }
+      ]
+    },
+    {
+      "cycle_name": "Lifecycle Rites of Passage (Thotkakhui Kakhangaso)",
+      "rites": [
+        {
+          "name": "Naothara Kaphok & Samkhui (Birth, Naming & Ear-Piercing)",
+          "timing": "Infancy (Within five days of birth)",
+          "presiding": "Maternal Uncle (Ato) & Midwives",
+          "description": "Newborn infant purificatory bath; severance of umbilical cord with sterile bamboo blade; divination of ancestral clan name (Shang wui Ming); ceremonial ear-piercing.",
+          "significance": "Integrates the newborn into the patrilineal clan and ancestral cosmological lineage."
+        },
+        {
+          "name": "Longshim Induction Ceremony",
+          "timing": "Puberty / Adolescence (Ages 12-14)",
+          "presiding": "Longshim Elders & Ward Leaders",
+          "description": "Formal entrance into Mayarshim (boys dormitory) or Ngashim (girls dormitory); presentation of first handwoven Haora or Kashan attire; instruction in martial defense, weaving, and oral songs.",
+          "significance": "Civic graduation from domestic dependence to communal responsibility and village defense."
+        },
+        {
+          "name": "Manom & Shimlut (Customary Marriage Rites)",
+          "timing": "Adulthood (Winter post-harvest season)",
+          "presiding": "Clan Negotiators & Village Hangva Council",
+          "description": "Formal betrothal negotiation between exogamous clans; presentation of bridal attire (Chonkhom, Seichan) and bronze gongs (Sanam); nuptial banquet and elder blessings.",
+          "significance": "Binds two distinct clans in perpetual mutual covenant and socio-economic alliance."
+        },
+        {
+          "name": "Shimsa (House Dedication & Hearth Consecration)",
+          "timing": "Upon completion of a new timber dwelling",
+          "presiding": "Master Builders & Village Invocators",
+          "description": "Ritual kindling of the new hearth fire using traditional flint stones (Meitai); libation of rice beer at threshold; installation of protective ancestral charms.",
+          "significance": "Transforms physical architecture into a living sanctum protected by ancestral spirits."
+        },
+        {
+          "name": "Thisham Phanit (The Great Memorial Feast of the Dead)",
+          "timing": "Winter (December / January)",
+          "presiding": "Clan Lineage Heads & Departed Souls Custodians",
+          "description": "Ten-day solemn festival commemorating all souls deceased during the year; lighting of resinous pine torches (Meira Kaphit) to guide souls to Kasa Akhava; farewell banquet.",
+          "significance": "Ensures that departed spirits transition peacefully to the ancestral spirit realm without lingering in distress."
+        }
+      ]
+    },
+    {
+      "cycle_name": "Prestige, Chiefly & Societal Rites",
+      "rites": [
+        {
+          "name": "Maran Kasa (The Multi-Stage Feast of Merit)",
+          "timing": "Lifetime milestone (After exceptional agricultural wealth)",
+          "presiding": "Benefactor Couple, Awunga & Entire Village Council",
+          "description": "Five-tier progressive feast cycle hosting the entire village; sacrificial feast of mithun and cattle; confers the lifelong privilege of erecting the horned Tarang post and Lengcheng roof structure.",
+          "significance": "Redistributes personal wealth communally, cementing high moral prestige without permanent social stratification."
+        },
+        {
+          "name": "Awunga Enthronement & Sacred Oath Ceremony",
+          "timing": "Upon succession of the hereditary village chief",
+          "presiding": "Hangva Council of Elders & Clan Representatives",
+          "description": "Investiture of the new chief; drinking from the ancestral buffalo horn cup; swearing the sacred covenant of boundary protection, customary equity, and peace.",
+          "significance": "Renews the constitutional authority of village governance and judicial integrity."
+        }
+      ]
+    },
+    {
+      "cycle_name": "Khamasit & Khamthei (Sacred Taboo & Genna Observances)",
+      "rites": [
+        {
+          "name": "Village Boundary Khamthei (Quarantine & Taboo Closure)",
+          "timing": "During epidemics, lightning strikes, or after tragic deaths",
+          "presiding": "Awunga & Village Herald",
+          "description": "Sealing of all village entry pathways with green sprigs; complete cessation of farm labor and travel; day of absolute village stillness.",
+          "significance": "Prevents contamination, restores spiritual purity, and averts supernatural displeasure."
+        }
+      ]
+    }
+  ]
+}

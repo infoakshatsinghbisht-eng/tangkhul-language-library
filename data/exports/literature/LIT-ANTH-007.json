@@ -1,0 +1,57 @@
+{
+  "id": "LIT-ANTH-007",
+  "resource_type": "literature",
+  "title": "Tangkhul Tuitam Matha",
+  "title_translation": "Golden Treasury of Tangkhul High School Literary Readers",
+  "creator": "Tangkhul Literature Society Editorial Board",
+  "author": "Tangkhul Literature Society Curriculum Board",
+  "year": 2016,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Ukhrul",
+  "category": "literary_anthology",
+  "work_type": "literary_anthology",
+  "genres": [
+    "literary_anthology",
+    "short_story",
+    "poem",
+    "essay"
+  ],
+  "book_id": "BK-TLS-012",
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "TLS-2016-TTM",
+  "license": "Educational Textbook",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-ANTH-007.txt",
+  "notes": "Curated senior literature anthology publishing canonical essays, lyrical poetry, and folk transcriptions for secondary and undergraduate scholarship.",
+  "indigenous_tangkhul_text": [
+    "Anthology Overview: Compiles high school and college literary selections across 20th and 21st-century Tangkhul authors.\nSection 1 (Essays & Cultural History): Studies on Longshim institutional discipline, clan customary jurisprudence, and traditional looms.",
+    "Section 2 (Modern Lyrical Poetry): Celebrated lyrics by Luingam A. Shimray, Y.K. Shimray, S. Kanrei, and contemporary poets.\nSection 3 (Oral Ballads & Transcriptions): Verbatim transcriptions of northern Tangkhul historical laments and festival courting songs.",
+    "Section 4 (Drama & Social Prose): Modern dramatic dialogues exploring village ethical reconciliation and mother-tongue literacy.\nAnthology Mission: Tangkhul Literature Society canonical textbook establishing high standard orthography and literary appreciation."
+  ],
+  "english_translation_text": [
+    "Anthology Overview: Curates foundational high school and undergraduate literature selections from leading 20th and 21st-century writers.\nSection 1 (Essays & Cultural History): Scholarly essays on Longshim youth dormitory ethics, customary law, and textile artistry.",
+    "Section 2 (Modern Lyrical Poetry): Selected anthologized verse praising mountain patriotism, seasonal rhythms, and social justice.\nSection 3 (Oral Ballads & Transcriptions): Scholarly text editions of classical northern Tangkhul ballads and seasonal hymns.",
+    "Section 4 (Drama & Social Prose): Dramatic works examining modern village identity, educational renaissance, and youth civic virtue.\nAnthology Mission: Tangkhul Literature Society canonical reader advancing standardized spelling and high literary scholarship."
+  ],
+  "literary_themes": [
+    "Comprehensive curation of Tangkhul literary heritage across genres (*Tuitam Matha*)",
+    "Pedagogical advancement of mother-tongue literature in secondary and collegiate education",
+    "Standardization of modern orthography alongside preservation of archaic dialectal forms",
+    "Bridging ancestral oral wisdom with contemporary creative writing"
+  ],
+  "structure_and_meter": "Curated academic anthology incorporating critical introductions, glossary entries, and thematic study questions.",
+  "critical_commentary": "The flagship senior literary anthology published by the Tangkhul Literature Society Curriculum Board. It serves as the standard advanced curriculum textbook, synthesizing classical oral balladeering, modern free verse, and anthropological prose.",
+  "poetic_vocabulary_terms": {
+    "Tuitam Matha": "Golden treasury / prime reader of literary writings and educational texts",
+    "Khararchan": "Ancestral folktales, legends, and historical oral narratives",
+    "Ngashan": "Custom, tradition, cultural identity, institutional heritage",
+    "Shulak-kapha": "Literary elegance, refined artistic expression, rhetorical excellence"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

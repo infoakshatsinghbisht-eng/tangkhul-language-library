@@ -1,0 +1,53 @@
+{
+  "id": "LIT-POEM-006",
+  "resource_type": "literature",
+  "title": "Angayung",
+  "title_translation": "Deep Roots: A Lyric Poetry Anthology",
+  "creator": "Iknguira L. Shimray",
+  "author": "Iknguira L. Shimray",
+  "year": 2018,
+  "publisher": "Hunphun Literary Circle, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Hunphun / Standard Tangkhul",
+  "village": "Hunphun",
+  "category": "poem",
+  "work_type": "poem",
+  "genres": [
+    "poem",
+    "literary_anthology"
+  ],
+  "book_id": null,
+  "source_url": "https://ukhrultimes.com/tangkhul-literature-poetry",
+  "source_identifier": "ILS-2018-ANG",
+  "license": "Author Permitted",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-POEM-006.txt",
+  "notes": "Contemporary lyric poem passionately advocating for the revitalization of archaic Tangkhul vocabulary and ancestral roots.",
+  "indigenous_tangkhul_text": [
+    "Angayung kacham thing-phangli ngalung khangachei maleimana,\nChiyan-chikaning va-chingkha ngashan ngaphar-kazatta.\nIramwui tuitam kakhurli shoksang-kakhui meingaláng,\nNing-ngalungwui meikha thada kachama leishat mayondatta.",
+    "Khararchar tui eina akhama ngala kaphara khangayei,\nArārana pamkakhung ngalei-li ngasam-phang-kazatta;\nTui khamatha hi kacham kacham phung-ngaleili karamtatta,\nAngayung makhanganingli meingashan kachi leimana!"
+  ],
+  "english_translation_text": [
+    "The deep roots beneath the ancient oak tree can never be shaken by the storm,\nThrough changing seasons and howling winds, they nourish the living branches.\nFrom the deep wells of our ancestral mother tongue, new wisdom continuously springs,\nLike glowing hearthside embers, true linguistic love burns bright and constant.",
+    "In ancestral idioms and melodic phrases, new generations find their voice,\nDwelling upon the selfsame highlands where the forebears walked of old;\nThese noble words shall echo across our mountain ridges without end,\nFor without deep roots, no tree can withstand the tests of time!"
+  ],
+  "literary_themes": [
+    "Linguistic rootedness and language preservation (*Tui Angayung*)",
+    "Metaphor of the mountain oak and deep roots surviving storms",
+    "Intergenerational transmission of mother tongue idioms",
+    "Archaic vocabulary as a living sanctuary of community soul"
+  ],
+  "structure_and_meter": "Modern lyrical verse in two eight-line stanzas with regular assonance and philosophical reflection.",
+  "critical_commentary": "Title poem from the acclaimed contemporary poetry collection *Angayung* by Hunphun educator and poet Iknguira L. Shimray. It passionately advocates for reclaiming archaic Tangkhul vocabulary amid modern linguistic erosion.",
+  "poetic_vocabulary_terms": {
+    "Angayung": "Deep foundational roots / ancestral linguistic origin",
+    "Tuitam kakhur": "The deep wellspring / treasury of mother tongue words",
+    "Meingaláng": "To shine forth, glow with warmth, illuminate",
+    "Ngashan ngaphar": "To branch out gracefully, produce vibrant leaves and growth"
+  },
+  "stanza_count": 2,
+  "line_count": 8,
+  "text_availability": "full_text"
+}

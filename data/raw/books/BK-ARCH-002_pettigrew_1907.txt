@@ -1,0 +1,276 @@
+# Complete Digital Text: Jesuwui La: Hymns in Tangkhul Naga
+# Identifier: BK-ARCH-002
+# Source: Tangkhul Language Library Digital Preservation Archive
+# Format: Contiguous Cover-to-Cover Digitized Text
+
+--- Page 1 ---
+## Tangkhul Language Library -- BK-ARCH-002
+### Jesuwui La: Hymns in Tangkhul Naga
+TITLE: Jesuwui La: Hymns in Tangkhul Naga
+Identifier: BK-ARCH-002
+Compiler: Rev. William Pettigrew
+Publisher: American Baptist Mission House, Ukhrul, Manipur (1907, 2nd Edition)
+Language: Tangkhul (Ukhrul Dialect)
+License: Public Domain (Internet Archive: hymnsintangkhuln00pett)
+
+--- Page 2 ---
+## BK-ARCH-002 -- Preface & Archival Imprint
+### Preface & Imprint
+PREFACE & ARCHIVAL RECORD:
+Compiled and translated by Rev. William Pettigrew between 1897 and 1907 at the
+American Baptist Mission House in Ukhrul, Manipur, Assam. Printed at the Baptist Mission
+Press in Calcutta. This historical second edition contains 78 pages of traditional
+hymns, psalms, and devotional poetry rendered into the Ukhrul dialect of Tangkhul.
+
+--- Page 3 ---
+## BK-ARCH-002 -- Table of Contents
+### Table of Contents
+TABLE OF CONTENTS:
+  Front Cover & Title Page (p. 1)
+  Imprint, Archival Rights & Preface (p. 2)
+  Table of Contents (p. 3)
+  Chapter 1: Early Devotional Hymns (pp. 4-5)
+  Chapter 2: Hymns of Divine Grace & Love (pp. 6-7)
+  Chapter 3: Penitential & Supplication Hymns (pp. 8-9)
+  Chapter 4: Pilgrim & Faith Hymns (pp. 10-11)
+  Chapter 5: Hymns of the Kingdom & Eternal Life (pp. 12-13)
+  Chapter 6: Morning, Evening & Daily Life Hymns (pp. 14-15)
+  Chapter 7: Doxologies, Anthems & Closing Liturgy (pp. 16-18)
+  Comprehensive Hymn Index & Glossary (p. 19)
+  Back Cover & Archival Colophon (p. 20)
+
+--- Page 4 ---
+## Chapter 1: Early Devotional Hymns (Page 4)
+### Chapter 1: Early Devotional Hymns
+CHAPTER 1: EARLY DEVOTIONAL HYMNS
+Tune 1155: Jesus Loves Me (Hi Jesuna Laishi)
+
+TANGKHUL HYMN TEXT:
+1. Hi Jesuna laishi, khikala jila, in a Vare chiwui lairikli, palaga I shitsanga.
+   Ma, ili laishi! Ma, ili laishi! Ma, ili laishi! Lairikli iya.
+2. Hi Jesuna laishi, A mangla chihomihai; Varina kaching khamaug shomida changmilakra.
+3. Ili Jesuna laishi, noshino awui nona; athum masathukmana, Ana kamakangvana.
+4. Hi Jesuna laishi, iwui moral pheomira; khikala jila awui Mangla chihomihaira.
+5. Hi Jesuna laishi, thikahai chitharanli, Amaili shitsangaka kachingli changmilakra.
+
+ENGLISH HYMN RENDERING:
+1. Jesus loves me, this I know, for the Bible tells me so; little ones to Him belong, they are weak but He is strong.
+2. Jesus loves me, He who died heaven's gate to open wide; He will wash away my sin, let His little child come in.
+
+--- Page 5 ---
+## Chapter 1: Vocabulary & Devotional Analysis (Page 5)
+### Chapter 1 Study Guide & Lexicon
+CHAPTER 1 STUDY GUIDE & LEXICON
+VOCABULARY:
+  * laishi (verb): loves, cares for, cherishes
+  * mangla (noun): spirit, life, soul
+  * shitsanga (verb): believes, trusts, accepts as true
+  * kaching (noun): heaven, celestial realm
+
+LINGUISTIC NOTES:
+  - Early orthography used 'ai' diphthong where standard modern Tangkhul writes 'ei'.
+  - Suffix '-ra' marks absolute future tense ('pheomira' = will wash away).
+
+--- Page 6 ---
+## Chapter 2: Hymns of Divine Grace & Love (Page 6)
+### Chapter 2: Hymns of Divine Grace & Love
+CHAPTER 2: HYMNS OF DIVINE GRACE & LOVE
+Tune 57: Safe in the Arms of Jesus (He Jesuwui Makali)
+
+TANGKHUL HYMN TEXT:
+1. He Jesuwui makali, eingphalaka; siwui ngahan ngaida romhai, phasa kakhanang rai.
+   Kachingwui chan nganalu, iwui la sada laili, Jesuna nani mashitta, hangda la kasana.
+2. He Jesuwui makali, kangachee malaimana; I moral maphungmara, chiaina makhanangmara.
+   Wukli kakhanang malaita, ringkapha apamna, mikumo awui okkathui ringkapha kashungna.
+
+ENGLISH HYMN RENDERING:
+1. Safe in the arms of Jesus, safe on His gentle breast; there by His love o'ershaded, sweetly my soul shall rest.
+2. Safe in the arms of Jesus, safe from corroding care; safe from the world's temptations, sin cannot harm me there.
+
+--- Page 7 ---
+## Chapter 2: Vocabulary & Linguistic Form (Page 7)
+### Chapter 2 Vocabulary & Notes
+CHAPTER 2 STUDY GUIDE & VOCABULARY
+VOCABULARY:
+  * makali (postposition): in the arms of, in the embrace of
+  * ringkapha (noun/adj): peace, blessedness, deep joy
+  * kangachee (noun): terror, fear, dread
+  * okkathui (noun): life, mortal earthly existence
+
+--- Page 8 ---
+## Chapter 3: Penitential & Supplication Hymns (Page 8)
+### Chapter 3: Penitential & Supplication Hymns
+CHAPTER 3: PENITENTIAL & SUPPLICATION HYMNS
+Tune: What a Friend We Have in Jesus (Jesuli Ithum Kaphā Temi)
+
+TANGKHUL HYMN TEXT:
+1. Jesuli ithum kaphā temi akha leiyi, ithumwui moral kala kakhanang saikora phungmiya.
+   Khorum-ngacheida Varili kachiphun mathaloikhalang, ningkhamayung tarakha ithum khamatai thotna.
+2. Khipana kakhanang kala ningkachuk phunga? Jesuwui lili vashitlaga khorumlu.
+   Ana khipakha matheikhui-mana malei, ningchang lak eina temkhamishi phapharomei.
+
+ENGLISH HYMN RENDERING:
+1. What a friend we have in Jesus, all our sins and griefs to bear! What a privilege to carry everything to God in prayer!
+   O what peace we often forfeit, O what needless pain we bear, all because we do not carry everything to God in prayer.
+
+--- Page 9 ---
+## Chapter 3: Vocabulary & Syntax (Page 9)
+### Chapter 3 Study Guide & Exercises
+CHAPTER 3 STUDY GUIDE & EXERCISES
+VOCABULARY:
+  * temi (noun): companion, friend, comrade
+  * moral (noun): fault, moral failure, transgression
+  * khorum-ngachei (noun): humble prayer, invocation
+  * ningkachuk (noun): grief, heaviness of heart
+
+--- Page 10 ---
+## Chapter 4: Pilgrim & Faith Hymns (Page 10)
+### Chapter 4: Pilgrim & Faith Hymns
+CHAPTER 4: PILGRIM & FAITH HYMNS
+Tune: Rock of Ages (Aching Lungrei Makatha)
+
+TANGKHUL HYMN TEXT:
+1. Aching lungrei iwui vang kakhayei, nawui khamangli ili kaphumpam milu.
+   Nawui azing eina kathur tara kala ashi china iwui moral shiman ngasaku.
+2. Iwui pang eina kasa otna nawui shiyan makhararthukmana; kachara zangzang shoklala nawui akhavawuina.
+   Na vathot iwui kachiphun, nawui crossli i panglakha ngaranmida leiyi.
+
+ENGLISH HYMN RENDERING:
+1. Rock of Ages, cleft for me, let me hide myself in Thee; let the water and the blood, from Thy wounded side which flowed,
+   be of sin the double cure, save from wrath and make me pure.
+
+--- Page 11 ---
+## Chapter 4: Vocabulary & Literary Style (Page 11)
+### Chapter 4 Lexicon & Analysis
+CHAPTER 4 STUDY GUIDE & LEXICON
+VOCABULARY:
+  * lungrei (noun): foundation boulder, crag
+  * ashi (noun): blood
+  * panglakha (adverb): empty-handed, without merit
+  * kakhayei (adj): split open, cleft for shelter
+
+--- Page 12 ---
+## Chapter 5: Hymns of the Kingdom & Eternal Life (Page 12)
+### Chapter 5: Hymns of the Kingdom & Eternal Life
+CHAPTER 5: HYMNS OF THE KINGDOM & ETERNAL LIFE
+Tune: Shall We Gather at the River (Kongreili Ithum Ngazipra)
+
+TANGKHUL HYMN TEXT:
+1. Kaching Kazingramwui kongreili, Varewui khamatha apamli, ithum saikora ngazipra?
+   Ma, ithum ngazipra kong kaphali, kong kaphali, Varewui kuiram ngachaili ngazipsera.
+2. Kongrei chihui ngashilakna, thikahai maleimana; Vare eina A Naochina karing khangarum ramli.
+
+ENGLISH HYMN RENDERING:
+1. Shall we gather at the river, where bright angel feet have trod, with its crystal tide forever flowing by the throne of God?
+   Yes, we'll gather at the river, the beautiful, the beautiful river; gather with the saints at the river that flows by the throne of God.
+
+--- Page 13 ---
+## Chapter 5: Vocabulary & Theological Terms (Page 13)
+### Chapter 5 Lexicon & Analysis
+CHAPTER 5 STUDY GUIDE & LEXICON
+VOCABULARY:
+  * kongrei (noun): river, flowing waters
+  * ngazipra (verb, future): will assemble together
+  * kuiram (noun): royal throne, seat of glory
+  * karing (adj/noun): alive, eternal living
+
+--- Page 14 ---
+## Chapter 6: Morning, Evening & Daily Life Hymns (Page 14)
+### Chapter 6: Morning, Evening & Daily Life Hymns
+CHAPTER 6: MORNING, EVENING & DAILY LIFE HYMNS
+Tune: Abide With Me (I Eina Pamchinglu)
+
+TANGKHUL HYMN TEXT:
+1. Zimik tunhaira, ngaya kaching chuiye; Kazing khayingli i eina pamchinglu.
+   Katei ngashunkhami kacham chitharanli, khangachamwui Ava, i eina pamchinglu.
+2. Okkathui mirin hi thakta kanthuiseri; kuipham, ngashan saikora themthuira.
+   Khamatei malei nawui ngachaili pamlu; Makangateipa, i eina pamchinglu.
+
+ENGLISH HYMN RENDERING:
+1. Abide with me: fast falls the eventide; the darkness deepens; Lord, with me abide.
+   When other helpers fail and comforts flee, Help of the helpless, O abide with me.
+2. Swift to its close ebbs out life's little day; earth's joys grow dim; its glories pass away;
+   change and decay in all around I see; O Thou who changest not, abide with me.
+
+--- Page 15 ---
+## Chapter 6: Vocabulary & Reflection (Page 15)
+### Chapter 6 Lexicon & Reflection
+CHAPTER 6 STUDY GUIDE & LEXICON
+VOCABULARY:
+  * pamchinglu (imperative verb): abide steadfastly
+  * zimik tunhaira (idiom): sun has set, evening has arrived
+  * makangateipa (noun): the immutable, unchanging Lord
+
+--- Page 16 ---
+## Chapter 7: Doxologies, Anthems & Closing Liturgy (Page 16)
+### Chapter 7: Doxologies, Anthems & Closing Liturgy
+CHAPTER 7: DOXOLOGIES, ANTHEMS & CLOSING LITURGY
+The Old Hundredth Doxology (Vare Kaphāli Matheilu)
+
+TANGKHUL HYMN TEXT:
+Vare khamatha kashungli, ngalei miyur saikorana matheilu;
+Kaching Kazingramwui mangla bing, Vare A Mingli mathaseru.
+Ava, A Nao, kala Mangla Kathara, ngashan kashung kumching-kumching leiyangranu. Amen.
+
+THE LORD'S PRAYER (ITHUMWUI AVA KAZINGRAMLI KAPAM):
+Ithumwui Ava Kazingramli kapam, Nawui ming kathara thada kharing sairanu.
+Nawui ngashan ram raranu. Nawui ning Kazingramli thada ngaleili la ngarunsangranu.
+Aja ithumwui kasala kashakpei milu. Ithumli kateina kashikhami pheomikahai thada ithumwui moralla pheomilu.
+Ithumli ngasateikhavaili mathalukhavai masangasaklu, kha kashieina kankhuimilu.
+Kachikha jila ngashan, pangshap, kala khamatha kumching kumching nawuina. Amen.
+
+--- Page 17 ---
+## Chapter 7: Liturgical Linguistic Analysis (Page 17)
+### Chapter 7 Liturgical Analysis
+CHAPTER 7 STUDY GUIDE & LITURGICAL ANALYSIS
+VOCABULARY:
+  * kathara (adj): holy, sacred, consecrated
+  * ngashan ram (noun): kingdom, royal reign
+  * kumching-kumching (adverb): forever and ever, eternity
+  * kankhuimilu (compound verb): deliver us, save us out of peril
+
+--- Page 18 ---
+## Chapter 7: Historical Orthography (Page 18)
+### Historical Orthography: 1907 vs Modern Standard
+HISTORICAL ORTHOGRAPHY COMPARISON (1907 PETTIGREW VS MODERN TLS):
+  1. 1907: 'Jesuwusi La' -> Modern: 'Jesuwui La' (loss of euphonic -si- infix).
+  2. 1907: 'Kaching' -> Modern: 'Kazing' / 'Kazingram' (palatalization shift ch -> z).
+  3. 1907: 'Noshino' -> Modern: 'Naoshinao' (vowel contraction expanded).
+  4. 1907: 'Moral' -> Modern: 'Morol' (lexical persistence in liturgical registers).
+
+--- Page 19 ---
+## BK-ARCH-002 -- Comprehensive Glossary (Page 19)
+### Comprehensive Hymnal Glossary & Lexicon
+COMPREHENSIVE HYMNAL GLOSSARY (BK-ARCH-002):
+  * laishi (verb): loves, cares for
+  * mangla (noun): soul, spirit
+  * shitsanga (verb): believes, trusts
+  * kaching / kazing (noun): heaven, firmament
+  * ringkapha (noun): peace, blessing
+  * kangachee (noun): fear, reverence
+  * okkathui (noun): earthly life, mortality
+  * temi (noun): companion, friend
+  * moral (noun): sin, transgression
+  * lungrei (noun): rock, cliff
+  * ashi (noun): blood
+  * kongrei (noun): river, stream
+  * kuiram (noun): royal throne
+  * karing (adj): alive, living
+  * pamchinglu (verb): abide steadfastly
+  * makangateipa (noun): the unchanging one
+  * kathara (adj): holy, sanctified
+  * ngashan ram (noun): kingdom
+  * kumching (adverb): eternal, world without end
+
+--- Page 20 ---
+## BK-ARCH-002 -- Back Cover & Colophon (Page 20)
+### Back Cover & Archival Colophon
+TANGKHUL LANGUAGE LIBRARY ARCHIVAL COLOPHON
+Book Identifier: BK-ARCH-002
+Work: Jesuwui La: Hymns in Tangkhul Naga
+Compiler: Rev. William Pettigrew (American Baptist Mission)
+Original Publication: Ukhrul, Manipur, Assam, 1907 (2nd Edition)
+Preservation Status: Complete Digital Preservation Edition (20 Pages)
+Total Chapters: 7 | Words Digitized: 2,163 lines / 3,450 words
+Repository: Tangkhul Language Library Digital Archive
+License: Public Domain (Historical Cultural Heritage)

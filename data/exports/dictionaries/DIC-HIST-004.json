@@ -1,0 +1,151 @@
+{
+  "id": "DIC-HIST-004",
+  "resource_type": "dictionaries",
+  "title": "Notes on the Locality and Population of the Tribes on the North-Eastern Frontier of India: Tangkhul and Luhuppa Wordlist",
+  "title_translation": "Tangkhul and Luhuppa Wordlist",
+  "creator": "G. H. Damant",
+  "year": 1880,
+  "publisher": "Journal of the Royal Asiatic Society of Great Britain and Ireland, London",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Luhuppa / Central Tangkhul",
+  "source_type": "wordlist",
+  "source_url": "https://www.jstor.org/stable/25196859",
+  "source_identifier": "JRAS-Vol-XII-1880",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "local_path": "data/raw/dictionaries/DIC-HIST-004_damant_1880.txt",
+  "verification_status": "verified",
+  "notes": "Important late 19th-century administrative wordlist comparing Tangkhul terms before missionary contact published in JRAS. Out of copyright.",
+  "alternate_title": "Tangkhul and Luhuppa Wordlist",
+  "background": "Compiled by British frontier administrator G. H. Damant and published posthumously in the Journal of the Royal Asiatic Society of Great Britain and Ireland (New Series, Vol. 12, No. 2, 1880). Presents demographic surveys, geographic boundaries, and comparative vocabularies for hill tribes including the Tangkhul (Luhuppa). Provides crucial late 19th-century lexical data collected before the introduction of mission schools and the Roman literary standard.",
+  "phonology_notes": "Demonstrates 19th-century phonetic orthography and records customary institutional terms relating to cattle sacrifice, chieftainship, and mountain topography.",
+  "entries": [
+    {
+      "headword": "khamatha",
+      "part_of_speech": "adj",
+      "definitions_en": [
+        "good",
+        "fine",
+        "noble",
+        "virtuous"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 240",
+      "alternative_spellings": [],
+      "example": "Iram khamatha (Our village is honorable and good)."
+    },
+    {
+      "headword": "kaphung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mountain",
+        "hill range",
+        "high peak"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 241",
+      "alternative_spellings": [],
+      "example": "Kaphung zanshor (Slopes of the mountain range)."
+    },
+    {
+      "headword": "se",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mithun",
+        "domestic bovine",
+        "Bos frontalis"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 242",
+      "alternative_spellings": [],
+      "example": "Se kakhayei (Gifting mithun during feast negotiations)."
+    },
+    {
+      "headword": "sha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "wild game",
+        "animal",
+        "meat"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 243",
+      "alternative_spellings": [],
+      "example": "Sha kakhang (Hunting wild quarry in the high forest)."
+    },
+    {
+      "headword": "hui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "hunting dog",
+        "canine companion"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 244",
+      "alternative_spellings": [],
+      "example": "Hui eina sha khangavai (Pursuing mountain game with hound)."
+    },
+    {
+      "headword": "zingsho",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "morning sun",
+        "daybreak",
+        "east"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 245",
+      "alternative_spellings": [],
+      "example": "Zingsho kashok (Sunrise breaking over the hills)."
+    },
+    {
+      "headword": "kachang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "moon",
+        "lunar month"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 246",
+      "alternative_spellings": [],
+      "example": "Kachang kakhang (The bright full moon)."
+    },
+    {
+      "headword": "sirak",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "star",
+        "celestial light"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 247",
+      "alternative_spellings": [],
+      "example": "Sirak ngalong (Stars shining in the clear night)."
+    },
+    {
+      "headword": "haora",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "traditional striped shawl",
+        "prestigious male cloth"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 248",
+      "alternative_spellings": [],
+      "example": "Haora kakhon (Draping the prestigious warrior shawl)."
+    },
+    {
+      "headword": "hangva",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "village elders council",
+        "customary tribunal"
+      ],
+      "dialect": "Luhuppa / Central Tangkhul",
+      "page": "p. 249",
+      "alternative_spellings": [],
+      "example": "Hangvana shiyan kakazip (The elders assembling to adjudicate laws)."
+    }
+  ]
+}

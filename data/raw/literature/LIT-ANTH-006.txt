@@ -1,0 +1,67 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL KHARARCHAN: CANONICAL FOLKTALE READER VOL. II
+IDENTIFIER: LIT-ANTH-006 | GENRE: LITERARY_ANTHOLOGY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Khararchan: Canonical Folktale Reader Vol. II
+  Title Translation:     Anthology of Tangkhul Ancestral Folktales and Legends Vol. II
+  Literary Genre / Type: literary_anthology (literary_anthology)
+  Author / Storyteller:  Kanrei Shaiza (Editor)
+  Publication Year:      1998
+  Publisher:             Tangkhul Literature Society, Imphal / Ukhrul
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     TLS-1998-TKC2
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       None
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Foundational canonical anthology of 30+ ancestral Tangkhul folktales, fables, and clan legends, widely used as a standard academic textbook.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Tangkhul Khararchan: Canonical Folktale Reader Vol. II hi Tangkhul Literature Society-na 1998-li kapi-kakhui kacham.
+  Anthology hili kaphung-ramwui folk tales, animal fables, historical legends, kala moral parables 30 shoksang-da pamya.
+
+  Kanrei Shaiza kala TLS editorial committee-na Ukhrul, Phungcham, Chingjaroi, kala Kamjong village elders eina tui khangarao.
+  Khararchan kachiphun eili dialectal vocabulary, archaic grammatical markers, kala customary proverbs preservation sakashung.
+  Reader hi high school kala college-wui curriculum-li canonical text thada Tangkhul youth-li tuitam chithei-pida.
+  Tangkhul oral literature preservation-li book hi seminal institutional achievement thada ngashan mirin kasak-kazatta.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  Tangkhul Khararchan: Canonical Folktale Reader Vol. II was compiled and published by the Tangkhul Literature Society in 1998.
+  This volume anthologizes over 30 authentic folk narratives, animal fables, clan legends, and customary parables from across the region.
+  Compiled under the editorship of Kanrei Shaiza and native scholars consulting elders across Phungcham, Chingjaroi, and Kamjong.
+  Each narrative carefully documents dialectal terminology, archaic grammatical inflections, and contextual moral proverbs.
+  Adopted as a foundational canonical textbook for secondary and collegiate education throughout Manipur's hill districts.
+  This publication represents a crowning institutional milestone in the systematic textual preservation of Tangkhul oral heritage.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Comprehensive anthologization of Tangkhul folk narratives and ancestral legends
+  * Standardization of indigenous narrative orthography without erasing dialectal markers
+  * Curricular integration of oral literature in formal Tangkhul language education
+  * Institutional stewardship of cultural patrimony by the Tangkhul Literature Society
+
+STRUCTURE & POETIC METER: Multi-genre anthological compendium with standardized pedagogical glosses, moral commentaries, and study questions.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Edited by Kanrei Shaiza and published by the Tangkhul Literature Society (TLS). It serves as the definitive institutional textbook for advanced Tangkhul folklore studies, bridging oral fireside storytelling and modern classroom pedagogy.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Tangkhul Khararchan    : The corpus of ancestral Tangkhul oral narratives, folktales, and legends
+  * Kapi-kakhui            : To compile, transcribe, and edit into formal literary book format
+  * Khangarao              : Oral consultation and fieldwork with village elders and lore custodians
+  * Tuitam                 : Curricular lessons / literary education in the mother tongue
+
+================================================================================
+END OF RECORD: LIT-ANTH-006 - Tangkhul Language Library Digital Archive
+================================================================================

@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Comparative Tangkhul Dialect Glossary: Phungcham, Hundung, Champhung, and Ukhrul
+# Identifier: DIC-CAND-001
+# Primary Creator / Lexicographer: Tangkhul Dialect Documentation Project
+# Publication Year: 2018
+# Publisher: Independent Community Documentation, Ukhrul
+# Language Pair: Tangkhul Dialects-English
+# Dialect Variety: Multidialectal (Phungcham, Hundung, Champhung, Ukhrul)
+# Source Classification: glossary
+# License: CC-BY-NC 4.0 (Pending Verification)
+# Permission Status: pending
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Comparative Tangkhul Dialect Glossary: Phungcham, Hundung, Champhung, and Ukhrul
+ALTERNATE TITLE: Comparative Tangkhul Dialect Glossary
+COMPILER / AUTHORS: Tangkhul Dialect Documentation Project
+YEAR: 2018
+PUBLISHING BODY: Independent Community Documentation, Ukhrul
+DIALECT / VARIETY: Multidialectal (Phungcham, Hundung, Champhung, Ukhrul)
+SOURCE IDENTIFIER: TDDP-GLOSS-2018-01
+CANONICAL SOURCE URL: https://tangkhullanguage.org/archive/dialect-glossary-2018
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Initiated in 2018 by independent community researchers and mother-tongue educators as the Tangkhul Dialect Documentation Project (TDDP). Elicits everyday agricultural, domestic, anatomical, and cultural vocabulary across four geographically and historically divergent villages: Phungcham (northern), Hundung (southern valley), Champhung (western archaic variety), and Ukhrul (central standard). Demonstrates significant lexical divergences between varieties.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Preserves archaic consonants (e.g. initial r/l shifts, consonant clusters, and distinct vowel reflexes) found in Champhung and Phungcham that have merged in standard Ukhrul.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. kongrei (noun) -- great river, mighty stream [Citation: Sec. 2] [Alt: kongray]
+   Context / Example: Kongreili ngashan kapam (Resting beside the mighty stream).
+
+ENTRY  2. lengvai (noun) -- village gate, ceremonial wooden portal [Citation: Sec. 4]
+   Context / Example: Lengvaili kashak ngatei (Carved markings upon the portal).
+
+ENTRY  3. ngalungtui (noun) -- monolith speech, sacred covenant word engraved on stone [Citation: Sec. 7] [Alt: ngalung-tui]
+   Context / Example: Ngalungtui thot kachunglei (Unbreakable covenant word sealed on stone).
+
+ENTRY  4. khamor (noun) -- mouth, spoken words, voice [Citation: Sec. 1]
+   Context / Example: Khamor kapha hithada hanna (Speaking gracious words in council).
+
+ENTRY  5. shimkhon (noun) -- ancestral dwelling compound, clan courtyard [Citation: Sec. 5]
+   Context / Example: Shimkhonli tui kakazip (Gathering in council at the clan compound).
+
+ENTRY  6. ramrei (noun) -- ancestral territorial domain, sovereign village lands [Citation: Sec. 3]
+   Context / Example: Ramreili rammayun (Guarding ancestral village boundaries).
+
+ENTRY  7. luishang (noun) -- terraced agricultural slope, steep paddy field [Citation: Sec. 6]
+   Context / Example: Luishangli luira kasak (Terracing the steep agricultural slope).
+
+ENTRY  8. pheirui (noun) -- mountain path, hillside trail [Citation: Sec. 1]
+   Context / Example: Pheiruili khazat (Walking upon the mountain trail).
+
+ENTRY  9. ngaraotui (noun) -- dialectal variant, idiom of speech, local vernacular [Citation: Sec. 8]
+   Context / Example: Ngaraotui eina theikhavai (Recognizing idioms of village speech).
+
+ENTRY 10. hangvalui (noun) -- council agricultural plot dedicated to elders [Citation: Sec. 5]
+   Context / Example: Hangvaluili ot kasa (Farming the council land collaboratively).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: CC-BY-NC 4.0 (Pending Verification)
+Permission Tier: pending
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. Tangkhul Dialect Documentation Project (2018). Comparative Tangkhul Dialect Glossary: Phungcham, Hundung, Champhung, and Ukhrul. Independent Community Documentation, Ukhrul.
+=======================================================================

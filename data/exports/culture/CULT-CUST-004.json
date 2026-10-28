@@ -1,0 +1,44 @@
+{
+  "id": "CULT-CUST-004",
+  "resource_type": "culture",
+  "title": "Manom Marriage Custom and Dowry",
+  "title_translation": "Customary Tangkhul Marriage Rites",
+  "creator": "Tangkhul Clan Exogamy Custodians",
+  "year": 1977,
+  "publisher": "Documented in Horam 1977",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "custom",
+  "subcategory": "marriage",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Ch4",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-CUST-004_manom_marriage_custom.txt",
+  "verification_status": "verified",
+  "notes": "Exogamous clan marriage system requiring formal negotiation between families, presentation of handwoven shawls (Manom), brass gong gifts, and communal feast.",
+  "indigenous_tangkhul_text": [
+    "Manom kashakli shim khani ngarumda leikashi kashung.",
+    "Haora kala Chonkhom chikatlaga shanao kaphali masot.",
+    "Varewui ningli kashak thotna, thot kachungli mashimanmara."
+  ],
+  "english_translation_text": [
+    "Through the Manom marriage covenant, two clans unite in sacred mutual kinship.",
+    "Presenting prestigious Haora and Chonkhom shawls, the bride is honored with reverence.",
+    "Covenanted under the divine sight of the Creator, this bond endures through the generations."
+  ],
+  "procedural_stages": [
+    "1. Verification of clan exogamy (marriage within the same paternal clan is strictly forbidden).",
+    "2. Formal delegation of groom's elders carrying rice wine to propose marriage to the bride's parents.",
+    "3. Agreement on dowry gifts (Manom), including handwoven shawls, brass gongs, and livestock.",
+    "4. Wedding feast hosted by both families with community blessing prayers.",
+    "5. Bridal escort to the groom's household followed by ceremonial entry rites."
+  ],
+  "ceremonial_participants": [
+    "Bride and Groom",
+    "Clan Elders of both families",
+    "Village Community"
+  ],
+  "seasonal_timing": "Winter and post-harvest marriage season"
+}

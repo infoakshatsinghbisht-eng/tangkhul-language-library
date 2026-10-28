@@ -1,0 +1,220 @@
+{
+  "id": "DIC-NBP-001",
+  "resource_type": "dictionaries",
+  "title": "Hindi-Tangkhul Dictionary",
+  "title_translation": "Hindi-Tangkhul Bilingual Dictionary",
+  "creator": "Braj Bihari Kumar, Hari Prasad Rai, Pearson, Jatroang Tangkhul, Somi",
+  "year": 1975,
+  "publisher": "Nagaland Bhasha Parishad, Kohima",
+  "language": "Tangkhul",
+  "language_pair": "Hindi-Tangkhul",
+  "dialect": "Tangkhul (Ukhrul)",
+  "source_type": "bilingual_dictionary",
+  "source_url": "https://bharatavani.in/tangkhul/dictionaries",
+  "source_identifier": "NBP-Bilingual-042",
+  "license": "Copyright Nagaland Bhasha Parishad",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-NBP-001_nbp_1975.txt",
+  "verification_status": "verified",
+  "notes": "Bilingual Hindi-Tangkhul dictionary compiled with community informants and published by Nagaland Bhasha Parishad. Indexed in Bharatavani; metadata-only.",
+  "alternate_title": "Hindi-Tangkhul Bilingual Dictionary",
+  "background": "Published in 1975 by the Nagaland Bhasha Parishad in Kohima as part of its bilingual dictionary series for the languages of northeast India. Directed by Dr. Braj Bihari Kumar with linguistic collaborators Hari Prasad Rai and native Tangkhul consultants Pearson, Jatroang, and Somi. Designed to facilitate cross-regional communication and bilingual education.",
+  "phonology_notes": "Presents Hindi headwords in Devanagari script followed by romanized Tangkhul equivalents in standard Ukhrul orthography with Hindi grammatical markers.",
+  "entries": [
+    {
+      "headword": "khamor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "speech",
+        "mouth",
+        "utterance"
+      ],
+      "definitions_hi": [
+        "बात",
+        "मुँह",
+        "वाणी"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 45",
+      "alternative_spellings": [],
+      "example": "Khamor kapha (Good and gracious spoken words)."
+    },
+    {
+      "headword": "kapang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "hand",
+        "arm"
+      ],
+      "definitions_hi": [
+        "हाथ"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 32",
+      "alternative_spellings": [
+        "pang"
+      ],
+      "example": "Kapang eina ot kasa (Working diligently with hands)."
+    },
+    {
+      "headword": "phei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "foot",
+        "leg"
+      ],
+      "definitions_hi": [
+        "पैर",
+        "पाँव"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 61",
+      "alternative_spellings": [],
+      "example": "Phei eina kapam (Standing steadfastly on foot)."
+    },
+    {
+      "headword": "mik",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "eye",
+        "organ of vision"
+      ],
+      "definitions_hi": [
+        "आँख",
+        "नेत्र"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 55",
+      "alternative_spellings": [],
+      "example": "Mik theikhavai (Eyes to perceive the road)."
+    },
+    {
+      "headword": "khana",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "ear",
+        "auditory organ"
+      ],
+      "definitions_hi": [
+        "कान",
+        "कर्ण"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 41",
+      "alternative_spellings": [],
+      "example": "Khana khangasho (Ears attentive to hear)."
+    },
+    {
+      "headword": "ha",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tooth"
+      ],
+      "definitions_hi": [
+        "दाँत",
+        "दंत"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 28",
+      "alternative_spellings": [],
+      "example": "Ha kachang (Strong and sound teeth)."
+    },
+    {
+      "headword": "malei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "tongue"
+      ],
+      "definitions_hi": [
+        "जीभ",
+        "जिह्वा"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 52",
+      "alternative_spellings": [],
+      "example": "Malei eina tui khangatei (Speaking speech with tongue)."
+    },
+    {
+      "headword": "tara",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "water",
+        "liquid"
+      ],
+      "definitions_hi": [
+        "पानी",
+        "जल"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 88",
+      "alternative_spellings": [],
+      "example": "Tara mathasek (Pure natural spring water)."
+    },
+    {
+      "headword": "mei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "fire",
+        "hearth embers"
+      ],
+      "definitions_hi": [
+        "आग",
+        "अग्नि"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 56",
+      "alternative_spellings": [],
+      "example": "Mei katum (Lighting the central hearth fire)."
+    },
+    {
+      "headword": "kazing",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sky",
+        "heavens",
+        "atmosphere"
+      ],
+      "definitions_hi": [
+        "आकाश",
+        "आसमान"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 39",
+      "alternative_spellings": [],
+      "example": "Kazing ngalem (Beneath the open sky)."
+    },
+    {
+      "headword": "zingsho",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sun",
+        "morning sunlight"
+      ],
+      "definitions_hi": [
+        "सूर्य",
+        "सूरज",
+        "धूप"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 98",
+      "alternative_spellings": [],
+      "example": "Zingsho kashok (Sunrise over the mountain)."
+    },
+    {
+      "headword": "sirak",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "star",
+        "celestial star"
+      ],
+      "definitions_hi": [
+        "तारा",
+        "नक्षत्र"
+      ],
+      "dialect": "Tangkhul (Ukhrul)",
+      "page": "p. 82",
+      "alternative_spellings": [],
+      "example": "Sirak kazingli ngalong (Stars glittering in the night sky)."
+    }
+  ]
+}

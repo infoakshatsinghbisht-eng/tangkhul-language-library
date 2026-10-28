@@ -1,0 +1,44 @@
+{
+  "id": "CULT-CUST-002",
+  "resource_type": "culture",
+  "title": "Hangva Council of Elders",
+  "title_translation": "Traditional Village Governance Council",
+  "creator": "Tangkhul Clan Representatives",
+  "year": 1977,
+  "publisher": "Documented in Horam 1977, Hodson 1911",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "village": "Ukhrul",
+  "category": "custom",
+  "subcategory": "governance",
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Horam-1977-Ch3",
+  "license": "Cultural Heritage / Public Documentation",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/culture/CULT-CUST-002_hangva_council_of_elders.txt",
+  "verification_status": "verified",
+  "notes": "Customary governing council of village clan leaders (Hangva) assisting the Awunga (hereditary chief). Mediates property boundaries, inter-clan disputes, and customary fines.",
+  "indigenous_tangkhul_text": [
+    "Hangvawui ning mashunglak aina ramwui tui khamata sai.",
+    "Awungali ngasoda kashan kachiva kashak ngachek.",
+    "Phungcham, Hunphun, Ukhrul kachida Hangvawui tui ngana."
+  ],
+  "english_translation_text": [
+    "With upright justice, the Hangva Council deliberates on vital matters of land and law.",
+    "Assisting the Awunga, they uphold ancestral covenants and settle village disputes.",
+    "Across every Tangkhul village, the voice of the Hangva is heeded with deep deference."
+  ],
+  "procedural_stages": [
+    "1. Representation of each clan by its senior hereditary elder on the Hangva Council.",
+    "2. Convening at the Awunga's courtyard to hear boundary, marriage, or customary property cases.",
+    "3. Hearing testimonies from disputants and witnesses under solemn oaths.",
+    "4. Deliberation based on unwritten customary jurisprudence (Chanjam).",
+    "5. Issuance of binding verdict and enforcement of customary restitution (Khayor)."
+  ],
+  "ceremonial_participants": [
+    "Awunga (Chief)",
+    "Hereditary Clan Heads (Hangva)",
+    "Village Witnesses"
+  ],
+  "seasonal_timing": "Continuous customary governance council"
+}

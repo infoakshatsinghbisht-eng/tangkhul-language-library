@@ -1,0 +1,147 @@
+{
+  "id": "DIC-CIIL-002",
+  "resource_type": "dictionaries",
+  "title": "CIIL Tangkhul Lexical Survey and Field Audio Lexicon",
+  "title_translation": "Tangkhul Lexical Survey",
+  "creator": "S. Arokianathan",
+  "year": 1982,
+  "publisher": "Central Institute of Indian Languages, Mysore",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Ukhrul and Village Variants",
+  "source_type": "glossary",
+  "source_url": "https://sanchika.ciil.org/collections/29bbe44e-238a-4d46-b979-97a0429a310e",
+  "source_identifier": "Sanchika-CIIL-Audio-041",
+  "license": "Copyright Central Institute of Indian Languages",
+  "permission_status": "restricted",
+  "local_path": "data/raw/dictionaries/DIC-CIIL-002_arokianathan_1982.txt",
+  "verification_status": "verified",
+  "notes": "Field lexical collection preserved in Bhasha Sanchika audio and manuscript archive. Metadata catalogued; audio access restricted.",
+  "alternate_title": "Tangkhul Lexical Survey",
+  "background": "Recorded in 1982 by field linguist Dr. S. Arokianathan during dialect mapping surveys across the Ukhrul district. Preserved in the CIIL Bhasha Sanchika audio and manuscript archive. Documents ethnographic material culture, pottery techniques, weaving terminology, and village-level lexical variations.",
+  "phonology_notes": "Phonetic transcriptions cross-referenced with tape recordings. Includes specific material culture terminology for Longpi black pottery, traditional salt manufacturing, and weaving.",
+  "entries": [
+    {
+      "headword": "hamlei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "black serpentinite earthenware vessel",
+        "traditional Longpi pot"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 42",
+      "alternative_spellings": [],
+      "example": "Hamlei khami (Shaping the black stone pot)."
+    },
+    {
+      "headword": "leshong",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "crushed serpentinite rock used in wheel-less pottery"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 43",
+      "alternative_spellings": [
+        "leshong lung"
+      ],
+      "example": "Leshong lung kaphei (Crushing the serpentinite rock)."
+    },
+    {
+      "headword": "tarang",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sacred forked sacrificial post erected during feast of merit"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 89",
+      "alternative_spellings": [],
+      "example": "Tarang kaphungli rui (Decorating the sacred forked post)."
+    },
+    {
+      "headword": "chonkhom",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "prestigious embroidered wrap for Tangkhul women"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 57",
+      "alternative_spellings": [],
+      "example": "Chonkhom kachon kakhon (Draping the prestigious Chonkhom wrap)."
+    },
+    {
+      "headword": "seichan",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "handwoven skirt with colored geometric panels"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 61",
+      "alternative_spellings": [],
+      "example": "Seichan kashan kakhon (Wearing the traditional handwoven skirt)."
+    },
+    {
+      "headword": "lengvai",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "village entrance gate",
+        "fortified ceremonial wooden portal"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 73",
+      "alternative_spellings": [],
+      "example": "Lengvaili khangayei (Guarding the fortified village gate)."
+    },
+    {
+      "headword": "khangrei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "competitive community war song",
+        "loud harvest chant"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 98",
+      "alternative_spellings": [],
+      "example": "Khangrei laa khangakhum (Singing the resounding harvest chant)."
+    },
+    {
+      "headword": "shiyan",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "customary law",
+        "oral jurisprudence",
+        "unwritten constitution"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 114",
+      "alternative_spellings": [],
+      "example": "Shiyan eina khamathei (Adjudicating disputes according to customary law)."
+    },
+    {
+      "headword": "machi",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "brine well salt",
+        "natural mineral salt cake currency"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 126",
+      "alternative_spellings": [
+        "machi lung"
+      ],
+      "example": "Machi kongwui machi (Boiled salt cakes from the natural brine springs)."
+    },
+    {
+      "headword": "ngaso",
+      "part_of_speech": "verb",
+      "definitions_en": [
+        "to accompany",
+        "to join together",
+        "to walk as companions"
+      ],
+      "dialect": "Ukhrul and Village Variants",
+      "page": "p. 82",
+      "alternative_spellings": [],
+      "example": "Ithum ngasolaga khazat (Walking together as steadfast companions)."
+    }
+  ]
+}

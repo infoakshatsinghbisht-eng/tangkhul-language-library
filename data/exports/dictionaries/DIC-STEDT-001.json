@@ -1,0 +1,169 @@
+{
+  "id": "DIC-STEDT-001",
+  "resource_type": "dictionaries",
+  "title": "Comparative Tangkhul and Proto-Tangkhulic Lexical Database",
+  "title_translation": "Comparative Tangkhul and Proto-Tangkhulic Lexicon",
+  "creator": "David R. Mortensen",
+  "year": 2003,
+  "publisher": "University of California, Berkeley & STEDT Project",
+  "language": "Tangkhul",
+  "language_pair": "Tangkhul-English",
+  "dialect": "Multi-Tangkhulic (Ukhrul, Kachai, Huishu, Champhung, Tusom)",
+  "source_type": "glossary",
+  "source_url": "https://escholarship.org/uc/item/18q9q2h5",
+  "source_identifier": "STEDT-PTK-2003",
+  "license": "CC-BY-NC 4.0",
+  "permission_status": "community_authorized",
+  "local_path": "data/raw/dictionaries/DIC-STEDT-001_mortensen_2003.txt",
+  "verification_status": "verified",
+  "notes": "Premier modern historical-comparative lexical reconstruction establishing Proto-Tangkhulic etymological roots and sound correspondences across divergent village varieties. Authorized under CC-BY-NC 4.0.",
+  "alternate_title": "Comparative Tangkhul and Proto-Tangkhulic Lexicon",
+  "background": "Developed by linguist David R. Mortensen at the University of California, Berkeley (2003/2012) and incorporated into the Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT) project under Prof. James A. Matisoff. Represents the most comprehensive comparative linguistic reconstruction of the Tangkhulic language subgroup, documenting phonological sound laws, reconstructed Proto-Tangkhulic (PTk) starred forms, and multi-dialectal cognate sets across Ukhrul, Kachai, Huishu, Champhung, and Tusom varieties.",
+  "phonology_notes": "Features reconstructed Proto-Tangkhulic phonological forms (*kʰa-matʰa, *ŋa-wa, *si-ruy) and establishes rigorous tone correspondence laws across northern, southern, and central Tangkhulic lects.",
+  "entries": [
+    {
+      "headword": "khamatha",
+      "part_of_speech": "adj",
+      "definitions_en": [
+        "good",
+        "beautiful",
+        "PTk *kʰa-matʰa"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 104",
+      "alternative_spellings": [
+        "*kʰa-matʰa"
+      ],
+      "example": "Iram khamatha (Our fair village; Proto-Tangkhulic *kʰa-matʰa)."
+    },
+    {
+      "headword": "kongrei",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "great river",
+        "stream",
+        "Phungcham variety"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 215",
+      "alternative_spellings": [
+        "*k-roŋ"
+      ],
+      "example": "Kongreili kapam (Living by the great river)."
+    },
+    {
+      "headword": "lengvai",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "village portal",
+        "Champhung archaic reflex"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 310",
+      "alternative_spellings": [
+        "*leŋ-way"
+      ],
+      "example": "Lengvaili khangayei (Guarding the ancient portal)."
+    },
+    {
+      "headword": "ngalungtui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "monolith covenant vow",
+        "Hundung variety"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 405",
+      "alternative_spellings": [],
+      "example": "Ngalungtui thot (Unbreakable covenant sealed on stone)."
+    },
+    {
+      "headword": "ngavā",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "bird",
+        "avian species",
+        "PTk *ŋa-wa"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 088",
+      "alternative_spellings": [
+        "*ŋa-wa"
+      ],
+      "example": "Ngavā kaphungli ngazap (Bird in flight over mountains)."
+    },
+    {
+      "headword": "kaphung",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "mountain",
+        "high ridge",
+        "PTk *ka-pʰuŋ"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 162",
+      "alternative_spellings": [
+        "*ka-pʰuŋ"
+      ],
+      "example": "Kaphung kachui (High mountain ridge)."
+    },
+    {
+      "headword": "shirui",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "sacred alpine peak",
+        "PTk *si-ruy"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 276",
+      "alternative_spellings": [
+        "*si-ruy"
+      ],
+      "example": "Shirui kashong (The sacred alpine ridge)."
+    },
+    {
+      "headword": "longkhor",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "conical basket",
+        "carrying pack",
+        "PTk *loŋ-kʰor"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 194",
+      "alternative_spellings": [
+        "*loŋ-kʰor"
+      ],
+      "example": "Longkhor khalat (Filling the conical basket)."
+    },
+    {
+      "headword": "luira",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "seed-sowing festival",
+        "PTk *luy-ra"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 322",
+      "alternative_spellings": [
+        "*luy-ra"
+      ],
+      "example": "Luira phanit (The spring seed-sowing festival rite)."
+    },
+    {
+      "headword": "seicham",
+      "part_of_speech": "noun",
+      "definitions_en": [
+        "iron anvil",
+        "smithy forge",
+        "PTk *say-cʰam"
+      ],
+      "dialect": "Multi-Tangkhulic",
+      "page": "Item 412",
+      "alternative_spellings": [
+        "*say-cʰam"
+      ],
+      "example": "Seichamli shiyan (Tempering metals on the forge)."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+================================================================================
+TANGKHUL LITERARY RECORD: CHIKHANGAI KALA KASHUNG WUI NGATARA
+IDENTIFIER: LIT-FLK-016 | GENRE: FOLK_TALE
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Chikhangai Kala Kashung wui Ngatara
+  Title Translation:     The Race Between the Mountain Snail and the Fleet Barking Deer
+  Literary Genre / Type: folk_tale (folk_tale, children_literature)
+  Author / Storyteller:  Traditional
+  Publication Year:      1981
+  Publisher:             Tangkhul Literature Society, Manipur
+  Village / Dialect:     Hunphun [Standard Tangkhul]
+  Source Identifier:     TLS-1981-CKN
+  Source URL:            https://bharatavani.in/tangkhul/jnanakosha
+  Associated Book:       BK-TLS-015
+  License & Clearance:   Community Authorized (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Popular didactic animal trickster fable teaching school children the virtues of humility, cooperation, and perseverance over boastful swiftness.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Hunphun ram kaphung-ngakui eili chikhangai akhana kashung kachamnao akha theilaga ning-ngasang eina mathatha.
+  'Kashung-nao, na-wui khui-kapam mathikha, Shirui kaphung mathakashung kachi-kashungli ngatara khami zatta-sa!'
+
+  Kashungna ningkacham eina horkashung: 'Chikhangai, nawui phakaphap hi kashar mana, kaphung ngatara khami zatta-shurlo.'
+  Chitharan chikhangaina ningtheikhamang eina thak-thak phaphorlaga, 'Kashungnao mathingmana!' da phung-ngathang ngasamhaowa.
+
+  Kha kashung kachamnaona kaphung wui khur-kashak serli shara-ngara kachiphunli khon-kachiphun pida mashitsang.
+  Chikhangaina 'Kashung!' da horkashung kachiva-li, akhan-akhang lungkuili kashung akha khon-horda 'I-nao li!' da sakashung.
+
+  Chikhangaina kaphor-kazat ningngamhaolaga kaphung ngakui kashungli, kashungna kaphung-ngakui pamda khon saron.
+  Tuitam hi theilaga kacham miyaonao ningtheikathat eina ngakhangao zatta-khavai kashungwui khararchan ning-yangamanda.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  High on the Hunphun hills, a proud barking deer encountered a humble snail moving patiently through the green ferns.
+  Boasting loudly, the deer jeered: 'Little snail, sluggish and frail, race me up to the towering crest of Mount Shirui!'
+
+  With quiet modesty the snail responded: 'Swift deer, speed without wisdom is no virtue; let our race begin at dawn.'
+  Leaping forward with lightning bounds, the deer ran ahead, then mocked the tiny snail and paused to nap in the warm sun.
+
+  Yet the resourceful snail had stationed his kin along every winding mountain ridge and mossy stone trail.
+  Whenever the barking deer cried out 'Where are you, snail?', a snail's voice answered ahead: 'Here I am, advancing!'
+
+  Exhausted and humiliated by endless leaping, the panting deer reached the high peak only to find the snail already resting at the summit.
+  Thus children learn through this ancient fable that modest patience and clever kinship triumph over arrogant pride.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Humility and quiet diligence overcoming boastful arrogance (*Ning-kacham vs. Ning-ngasang*)
+  * Kinship solidarity and collective cooperation across generations
+  * Didactic moral instruction for mountain children and school pupils
+  * Clever trickster motif in indigenous Tibeto-Burman oral fables
+
+STRUCTURE & POETIC METER: Didactic animal fable structured in rhythmic prose stanzas suitable for oral recitation.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  A canonical fable compiled in early Tangkhul elementary school readers. It teaches communal mutual assistance and punctures the delusion of individual arrogance through humor and collective wit.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Chikhangai             : Barking deer (Muntiacus muntjak), nimble inhabitant of mountain slopes
+  * Kashung                : Mountain forest snail, symbol of patient endurance and perseverance
+  * Ngatara                : Formal competition, foot-race, or athletic trial
+  * Ning-ngasang           : Boastful arrogance, hubris, looking down upon others
+
+================================================================================
+END OF RECORD: LIT-FLK-016 - Tangkhul Language Library Digital Archive
+================================================================================

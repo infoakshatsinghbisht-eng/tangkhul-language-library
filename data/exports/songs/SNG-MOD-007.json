@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-007",
+  "resource_type": "songs",
+  "title": "Nganam Kapha Won",
+  "alternate_titles": [],
+  "title_translation": "Sweet-Scented Flower",
+  "singer": "Thangmeiso Shinglai",
+  "lyricist": "Thangmeiso Shinglai",
+  "composer": "Thangmeiso Shinglai",
+  "collector": null,
+  "performers": [
+    "Thangmeiso Shinglai"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-TS-003",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Melodic love song employing floral imagery to represent beloved virtue.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Nganam kapha won, iramli khawon.",
+        "Nawui leikashina iwui mangla thotta."
+      ],
+      "lines_translation": [
+        "Sweet-scented blossom, flowering across our ancestral hills.",
+        "Your tender love rests like light upon my soul."
+      ]
+    }
+  ]
+}

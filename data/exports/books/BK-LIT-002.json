@@ -1,0 +1,1250 @@
+{
+  "id": "BK-LIT-002",
+  "resource_type": "books",
+  "title": "Folk Songs of The Tangkhul",
+  "alternate_titles": [
+    "Tangkhul Hao Art & Cultural Council Folk Songs"
+  ],
+  "authors": [
+    "H. Kamkhenthang",
+    "A. Ngashan Chahong"
+  ],
+  "editors": [],
+  "publisher": "Directorate for Development of Tribals & Backward Classes, Manipur",
+  "publication_year": 1987,
+  "year": 1987,
+  "edition": "First Edition",
+  "subject": "Ethnomusicology and Oral Lore",
+  "educational_level": "Community / Cultural",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/dli.language.1472",
+  "source_identifier": "dli.language.1472",
+  "catalogue_url": "https://archive.org/details/dli.language.1472",
+  "local_file_path": "data/raw/books/BK-LIT-002_kamkhenthang_1987.txt",
+  "file_format": "txt",
+  "license": "Government Documentation Scheme",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Anthology of 27 representative genres of Tangkhul folk music documented under the North Eastern Council Scheme of Tribal Culture.",
+  "front_matter": {
+    "title_page": {
+      "title": "Folk Songs of The Tangkhul",
+      "alternate_titles": [
+        "Tangkhul Hao Art & Cultural Council Folk Songs"
+      ],
+      "authors": [
+        "H. Kamkhenthang",
+        "A. Ngashan Chahong"
+      ],
+      "editors": [],
+      "publisher": "Directorate for Development of Tribals & Backward Classes, Manipur",
+      "publication_year": 1987,
+      "edition": "First Edition",
+      "educational_level": "Community / Cultural",
+      "subject": "Ethnomusicology and Oral Lore",
+      "language": "Tangkhul",
+      "dialect": "Standard Tangkhul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-LIT-002",
+      "license": "Government Documentation Scheme",
+      "permission_status": "permitted",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "dli.language.1472",
+      "source_url": "https://archive.org/details/dli.language.1472"
+    },
+    "preface": "Folk Songs of The Tangkhul compiled by Dr. H. Kamkhenthang (Senior Research Officer) and A. Ngashan Chahong (Secretary, Tangkhul Hao Art & Cultural Council, Ukhrul), published by the Directorate for Development of Tribals and Backward Classes, Manipur (1987). Presents 27 representative genres of Tangkhul folk music with vernacular lyrics and parallel English translations."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Invocations & Spring Songs (Zingkum Hao Kaphok)",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "chapter_number": 2,
+      "title": "Tarung Carrying & Monument Construction Songs",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Ceremonial Dance & Hornbill Movements (Pheishon Laa)",
+      "page_start": 8,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 4,
+      "title": "Maiden Dances & Youth Festivals (Yarra Laa)",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 5,
+      "title": "Agriculture, Terrace Labor & Cowherd Songs",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 6,
+      "title": "Martial Ballads & Head-hunting Epics (Ral Laa)",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 7,
+      "title": "Traditional Love Romances (Shimreishang & Maitonphi)",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 8,
+      "title": "Weaving Songs, Festive Banquets & Bedtime Chants",
+      "page_start": 19,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Invocations & Spring Songs (Zingkum Hao Kaphok)",
+      "page_start": 4,
+      "page_end": 5,
+      "summary": "Hokharai war-cry and spring arrival songs heralded by Sampheirok and Koktui.",
+      "tangkhul_text": "AE-HE! Phamei yameisa HE... HE. O--O-HU-O! Ilongnao laa sa usa, Kashishoklu, kaphazanglu--O--Hui-O-hui! O, kazingkum ura, o, kazingkum ura, o, hungnaovayo luithuimihaolu; Mamanaomara, hungnaovayo luithuimashunga; Sampheirokna riri rakhonga, koktui vana zingkum phungraya!",
+      "english_translation": "Hokharai invocation: May the better be ours! Let us sing, may evil depart and divine goodness enter! O, spring has begun! Your highness, sow the seeds for the year; royal venture is just and timely; The Sampheirok sings melodiously and the cuckoo heralds the arrival of the fruitful year!",
+      "vocabulary": [
+        {
+          "word": "hokharai",
+          "pos": "noun",
+          "meaning": "invocation shout",
+          "example": "Hokharai invocation."
+        },
+        {
+          "word": "kazingkum",
+          "pos": "noun",
+          "meaning": "spring season",
+          "example": "Kazingkum ura."
+        },
+        {
+          "word": "sampheirok",
+          "pos": "noun",
+          "meaning": "spring songbird",
+          "example": "Sampheirokna rakhonga."
+        }
+      ],
+      "grammar_points": [
+        "Ritual invocation phonetics.",
+        "Reduplication in bird call onomatopoeia ('riri rakhonga')."
+      ],
+      "comprehension_questions": [
+        "What is Hokharai and when is it performed?",
+        "Which birds announce the arrival of spring?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Tarung Carrying & Monument Construction Songs",
+      "page_start": 6,
+      "page_end": 7,
+      "summary": "Dragging the monumental Tarung tree from the forest and erecting megaliths.",
+      "tangkhul_text": "O, yarso thingrei vakhang, thingpitang tak ungrall yaronnao, thingreiva ungreilu! Seichang kharaei hangmi phalungra, phanora vashatta chaklen meikan naona kacheka, lumlao sakda vakhuiphalungra. O, Kashongta phung-o, maranla saya; ilangkaso machilo, I wui luiyi kaya lhuiito, I wui chumrei hjorphiya!",
+      "english_translation": "O young men, lift the mighty tree! The twigs bend, pull together with sturdy cane ropes; The sacrificial mithun is provided, the augury bird Chaklen gave favorable omens; carry home the Tarung! I built this house from humble beginnings; my terrace fields are fertile and granary full!",
+      "vocabulary": [
+        {
+          "word": "thingreikhangava",
+          "pos": "noun",
+          "meaning": "carrying the monument tree",
+          "example": "Thingreiva ungreilu."
+        },
+        {
+          "word": "chaklen",
+          "pos": "noun",
+          "meaning": "augury bird",
+          "example": "Chaklen kacheka."
+        },
+        {
+          "word": "chumrei",
+          "pos": "noun",
+          "meaning": "grain barn",
+          "example": "Chumrei hjorphiya."
+        }
+      ],
+      "grammar_points": [
+        "Collective working rhythm in dragging chants.",
+        "Augury interpretation terminology."
+      ],
+      "comprehension_questions": [
+        "What bird's call determines the auspiciousness of monument hauling?",
+        "What animal is sacrificed for the Tarung?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Ceremonial Dance & Hornbill Movements (Pheishon Laa)",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Dance steps modeled on the flight and wingbeats of the great Indian hornbill.",
+      "tangkhul_text": "O, iram hongreili, Mafathing kasui kharipna; Ngachamching arang shangkaya, arangchi khili kachanlo? Mafathei channa, arangkho arangkhon ngashing leishiya; Thuingashing, kashung shanghaowa.",
+      "english_translation": "In our ancient forests, the majestic Mafathing trees spread their wide canopy; Upon their boughs perch the great hornbills; why have they gathered in numbers? For the ripe Mafa fruits they have flown; with rhythmic wingbeats they soar towards the mountain peaks!",
+      "vocabulary": [
+        {
+          "word": "pheishon",
+          "pos": "noun",
+          "meaning": "ceremonial hornbill dance",
+          "example": "Pheishon laa."
+        },
+        {
+          "word": "arang",
+          "pos": "noun",
+          "meaning": "hornbill",
+          "example": "Arang shangkaya."
+        },
+        {
+          "word": "mafathing",
+          "pos": "noun",
+          "meaning": "Phoebe hainesiana timber tree",
+          "example": "Mafathing kasui."
+        }
+      ],
+      "grammar_points": [
+        "Choreographic terminology encoded in song lyrics.",
+        "Rhythmic meter imitating animal locomotion."
+      ],
+      "comprehension_questions": [
+        "What bird inspires the choreography of Pheishon?",
+        "Why is the hornbill culturally sacred to Tangkhuls?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Maiden Dances & Youth Festivals (Yarra Laa)",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "Laa Khanganui maiden dances and the Yarra spring festival of the youth.",
+      "tangkhul_text": "Kazingkum huimailo aria, shivanaoli khina sale? Kha shingnai rao vasaya, he ring khaya zak matheiya. Kongrali theo theo, ilongnaova khithing kaphato? Ilongnaova longthing kaphana, meishum kapamnao zangyo!",
+      "english_translation": "Let the seasons turn in gentleness! Maidens dance in the village square in graceful innocence. What merry voices echo by the stream? The youth gather firewood for the annual Yarra celebration!",
+      "vocabulary": [
+        {
+          "word": "yarra laa",
+          "pos": "noun",
+          "meaning": "youth festival song",
+          "example": "Yarra laa sa."
+        },
+        {
+          "word": "longthing",
+          "pos": "noun",
+          "meaning": "communal firewood",
+          "example": "Longthing kaphana."
+        },
+        {
+          "word": "meishum",
+          "pos": "noun",
+          "meaning": "morung fireplace",
+          "example": "Meishum kapamnao."
+        }
+      ],
+      "grammar_points": [
+        "Youth-group terminology.",
+        "Onomatopoeic stream sounds 'theo theo'."
+      ],
+      "comprehension_questions": [
+        "In which months is the Yarra festival celebrated?",
+        "What activity do the youth undertake during Yarra?"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Agriculture, Terrace Labor & Cowherd Songs",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "Luisom paddy planting chants and Sei Hom cowherd ballads of solitary orphans.",
+      "tangkhul_text": "O, I siluisa, I siluisa khinashai? I makreira khina mang, makreira sangralu; Shama maran saluira. Ava khaho malei, aya kaho malei, seihom langphaizaya; Shok reo rangpamshona, silui shur khani chi kachui laga yaronnao chara horlama.",
+      "english_translation": "Who will feast on my buffalo meat, who will drink my aged rice beer? Pour generously for the laborers! No parents call my name; upon the high grassy slopes I herd buffalos alone from dawn till dusk, Tending the herds while silent tears trace lines upon my face.",
+      "vocabulary": [
+        {
+          "word": "siluisa",
+          "pos": "noun",
+          "meaning": "buffalo meat for terrace workers",
+          "example": "I siluisa khinashai."
+        },
+        {
+          "word": "seihom",
+          "pos": "noun",
+          "meaning": "cattle herding",
+          "example": "Seihom langphaizaya."
+        },
+        {
+          "word": "makreira",
+          "pos": "noun",
+          "meaning": "fermented rice beverage",
+          "example": "Makreira khina mang."
+        }
+      ],
+      "grammar_points": [
+        "Rhetorical questions in festive work songs.",
+        "Poignant elegiac tone in pastoral chants."
+      ],
+      "comprehension_questions": [
+        "What contrast is drawn between festive terrace planting and cowherd life?",
+        "What is 'siluisa'?"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Martial Ballads & Head-hunting Epics (Ral Laa)",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "Ancient heroic victory chants and warrior prowess of Lunghar and Ringui.",
+      "tangkhul_text": "O, atung shangla rai sakashiyavo, Lunghar yaron ni chiya! Azing takha rai sakashiyavo, Ringui yaron ni chiya! Shangching Shangshak na ili khachitna chiya, shimin kayang ra mahon shok! Kharing sing singa, ili mangakatshelu!",
+      "english_translation": "Behold in the northern heights the gallant warriors of Lunghar stand ready! In the southern ranges the brave youths of Ringui guard the mountain passes; They fear me as the tiger of the forest; challenge me not, for our victory shout resounds!",
+      "vocabulary": [
+        {
+          "word": "ral laa",
+          "pos": "noun",
+          "meaning": "war song, victory chant",
+          "example": "Ral laa sa."
+        },
+        {
+          "word": "kharing",
+          "pos": "adj",
+          "meaning": "alive, captive",
+          "example": "Kharing sing singa."
+        },
+        {
+          "word": "mahon",
+          "pos": "noun",
+          "meaning": "battle shout",
+          "example": "Mahon shok."
+        }
+      ],
+      "grammar_points": [
+        "Vocative and boastful declamatory syntax.",
+        "Geographical identifiers of warrior clans."
+      ],
+      "comprehension_questions": [
+        "Which two villages are celebrated as warrior centres?",
+        "What does 'kharing sing' mean?"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Traditional Love Romances (Shimreishang & Maitonphi)",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "The immortal romance of Shimreishang and Maitonphi in antiphonal dialogue.",
+      "tangkhul_text": "Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa. Laishikhavai chi lunamlizang ngaroksa; Coi marongthei reola khuisingda lung ringa. Ameishang Ameishang, Ira kachangli thuiulu; Maitonphi, pangthui haosa, ini lungchan malaihaosa.",
+      "english_translation": "Elders, do not forbid! For sweet Maitonphi alone does my heart beat in devotion; Though adverse circumstances part us in this earthly life, our love remains green like the mountain pine. Beloved Ameishang, farewell on this mortal shore; in the spirit realm beyond, we shall part no more.",
+      "vocabulary": [
+        {
+          "word": "leishat laa",
+          "pos": "noun",
+          "meaning": "romantic song",
+          "example": "Leishat laa sa."
+        },
+        {
+          "word": "marongthei",
+          "pos": "noun",
+          "meaning": "flowering shrub of fidelity",
+          "example": "Marongthei reola."
+        },
+        {
+          "word": "lungchan",
+          "pos": "noun",
+          "meaning": "deep love, soul union",
+          "example": "Ini lungchan malaihaosa."
+        }
+      ],
+      "grammar_points": [
+        "Antiphonal romantic dialogue.",
+        "Symbolism of botanical endurance."
+      ],
+      "comprehension_questions": [
+        "What plant symbolizes unyielding love in the ballad?",
+        "How does the story conclude in traditional belief?"
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "Weaving Songs, Festive Banquets & Bedtime Chants",
+      "page_start": 19,
+      "page_end": 20,
+      "summary": "Back-strap loom weaving (Themsak), traditional shawls, and evening chants (Pet Laa).",
+      "tangkhul_text": "O Tangkhul ngalanao yanglu yanglu, sak kasa kathemma themma; Haora chi yaron kachonna, Phangyai rah Tangkhul kashanna! Phungcham vana ratha apamva rarona, phanishida tarikhana vaotun; Nali ungthuilo, sami ngachiya, i ram kashamshiraro.",
+      "english_translation": "Behold the skilled Tangkhul maidens weaving traditional textiles with masterly artistry! The black-and-red Haora shawl is for valiant young men, and the Phangyai skirt for graceful women. Evening settles over the ridges of Phungcham; put aside your tools and find peaceful sleep.",
+      "vocabulary": [
+        {
+          "word": "themsak laa",
+          "pos": "noun",
+          "meaning": "weaving song",
+          "example": "Themsak laa sa."
+        },
+        {
+          "word": "haora",
+          "pos": "noun",
+          "meaning": "traditional male shawl",
+          "example": "Haora yaron kachon."
+        },
+        {
+          "word": "phangyai",
+          "pos": "noun",
+          "meaning": "traditional female skirt",
+          "example": "Phangyai Tangkhul kashan."
+        },
+        {
+          "word": "pet laa",
+          "pos": "noun",
+          "meaning": "bedtime chant",
+          "example": "Pet laa sa."
+        }
+      ],
+      "grammar_points": [
+        "Textile terminology and designators.",
+        "Evening benedictory phrasing."
+      ],
+      "comprehension_questions": [
+        "What is Haora and who wears it?",
+        "What is Phangyai and what colors define it?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-LIT-002",
+      "title": "Folk Songs of The Tangkhul",
+      "lines": [
+        "TITLE: Folk Songs of The Tangkhul",
+        "Identifier: BK-LIT-002",
+        "Level: Community / Cultural | Subject: Ethnomusicology and Oral Lore",
+        "Publisher: Directorate for Development of Tribals & Backward Classes, Manipur (1987)",
+        "Language: Tangkhul (Standard Tangkhul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Folk Songs of The Tangkhul -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Folk Songs of The Tangkhul.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Folk Songs of The Tangkhul -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Folk Songs of The Tangkhul compiled by Dr. H. Kamkhenthang (Senior Research",
+        "Officer) and A. Ngashan Chahong (Secretary, Tangkhul Hao Art & Cultural",
+        "Council, Ukhrul), published by the Directorate for Development of Tribals",
+        "and Backward Classes, Manipur (1987). Presents 27 representative genres of",
+        "Tangkhul folk music with vernacular lyrics and parallel English",
+        "translations."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: permitted"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Folk Songs of The Tangkhul -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Invocations & Spring Songs (Zingkum Hao Kaphok) (pp. 4-5)",
+        "  Chapter 2: Tarung Carrying & Monument Construction Songs (pp. 6-7)",
+        "  Chapter 3: Ceremonial Dance & Hornbill Movements (Pheishon Laa) (pp. 8-9)",
+        "  Chapter 4: Maiden Dances & Youth Festivals (Yarra Laa) (pp. 10-11)",
+        "  Chapter 5: Agriculture, Terrace Labor & Cowherd Songs (pp. 12-13)",
+        "  Chapter 6: Martial Ballads & Head-hunting Epics (Ral Laa) (pp. 14-15)",
+        "  Chapter 7: Traditional Love Romances (Shimreishang & Maitonphi) (pp. 16-18)",
+        "  Chapter 8: Weaving Songs, Festive Banquets & Bedtime Chants (pp. 19-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 8"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Invocations & Spring Songs (Zingkum Hao Kaphok) (Page 4)",
+      "title": "Chapter 1: Invocations & Spring Songs (Zingkum Hao Kaphok)",
+      "lines": [
+        "CHAPTER 1: INVOCATIONS & SPRING SONGS (ZINGKUM HAO KAPHOK)",
+        "Summary: Hokharai war-cry and spring arrival songs heralded by Sampheirok and Koktui.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "AE-HE! Phamei yameisa HE... HE. O--O-HU-O! Ilongnao laa sa usa,",
+        "Kashishoklu, kaphazanglu--O--Hui-O-hui! O, kazingkum ura, o, kazingkum",
+        "ura, o, hungnaovayo luithuimihaolu; Mamanaomara, hungnaovayo",
+        "luithuimashunga; Sampheirokna riri rakhonga, koktui vana zingkum",
+        "phungraya!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Hokharai invocation: May the better be ours! Let us sing, may evil",
+        "depart and divine goodness enter! O, spring has begun! Your highness,",
+        "sow the seeds for the year; royal venture is just and timely; The",
+        "Sampheirok sings melodiously and the cuckoo heralds the arrival of the",
+        "fruitful year!"
+      ],
+      "tangkhul_content": "AE-HE! Phamei yameisa HE... HE. O--O-HU-O! Ilongnao laa sa usa, Kashishoklu, kaphazanglu--O--Hui-O-hui! O, kazingkum ura, o, kazingkum ura, o, hungnaovayo luithuimihaolu; Mamanaomara, hungnaovayo luithuimashunga; Sampheirokna riri rakhonga, koktui vana zingkum phungraya!",
+      "english_translation": "Hokharai invocation: May the better be ours! Let us sing, may evil depart and divine goodness enter! O, spring has begun! Your highness, sow the seeds for the year; royal venture is just and timely; The Sampheirok sings melodiously and the cuckoo heralds the arrival of the fruitful year!",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 5)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * hokharai (noun): invocation shout",
+        "    Example: Hokharai invocation.",
+        "  * kazingkum (noun): spring season",
+        "    Example: Kazingkum ura.",
+        "  * sampheirok (noun): spring songbird",
+        "    Example: Sampheirokna rakhonga.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Ritual invocation phonetics.",
+        "  - Reduplication in bird call onomatopoeia ('riri rakhonga').",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is Hokharai and when is it performed?",
+        "  ? Which birds announce the arrival of spring?"
+      ],
+      "tangkhul_content": "hokharai: invocation shout\nkazingkum: spring season\nsampheirok: spring songbird",
+      "english_translation": "Ritual invocation phonetics.\nReduplication in bird call onomatopoeia ('riri rakhonga').",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Tarung Carrying & Monument Construction Songs (Page 6)",
+      "title": "Chapter 2: Tarung Carrying & Monument Construction Songs",
+      "lines": [
+        "CHAPTER 2: TARUNG CARRYING & MONUMENT CONSTRUCTION SONGS",
+        "Summary: Dragging the monumental Tarung tree from the forest and erecting megaliths.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "O, yarso thingrei vakhang, thingpitang tak ungrall yaronnao, thingreiva",
+        "ungreilu! Seichang kharaei hangmi phalungra, phanora vashatta chaklen",
+        "meikan naona kacheka, lumlao sakda vakhuiphalungra. O, Kashongta",
+        "phung-o, maranla saya; ilangkaso machilo, I wui luiyi kaya lhuiito, I",
+        "wui chumrei hjorphiya!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "O young men, lift the mighty tree! The twigs bend, pull together with",
+        "sturdy cane ropes; The sacrificial mithun is provided, the augury bird",
+        "Chaklen gave favorable omens; carry home the Tarung! I built this house",
+        "from humble beginnings; my terrace fields are fertile and granary full!"
+      ],
+      "tangkhul_content": "O, yarso thingrei vakhang, thingpitang tak ungrall yaronnao, thingreiva ungreilu! Seichang kharaei hangmi phalungra, phanora vashatta chaklen meikan naona kacheka, lumlao sakda vakhuiphalungra. O, Kashongta phung-o, maranla saya; ilangkaso machilo, I wui luiyi kaya lhuiito, I wui chumrei hjorphiya!",
+      "english_translation": "O young men, lift the mighty tree! The twigs bend, pull together with sturdy cane ropes; The sacrificial mithun is provided, the augury bird Chaklen gave favorable omens; carry home the Tarung! I built this house from humble beginnings; my terrace fields are fertile and granary full!",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 7)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * thingreikhangava (noun): carrying the monument tree",
+        "    Example: Thingreiva ungreilu.",
+        "  * chaklen (noun): augury bird",
+        "    Example: Chaklen kacheka.",
+        "  * chumrei (noun): grain barn",
+        "    Example: Chumrei hjorphiya.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Collective working rhythm in dragging chants.",
+        "  - Augury interpretation terminology.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What bird's call determines the auspiciousness of monument hauling?",
+        "  ? What animal is sacrificed for the Tarung?"
+      ],
+      "tangkhul_content": "thingreikhangava: carrying the monument tree\nchaklen: augury bird\nchumrei: grain barn",
+      "english_translation": "Collective working rhythm in dragging chants.\nAugury interpretation terminology.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Ceremonial Dance & Hornbill Movements (Pheishon Laa) (Page 8)",
+      "title": "Chapter 3: Ceremonial Dance & Hornbill Movements (Pheishon Laa)",
+      "lines": [
+        "CHAPTER 3: CEREMONIAL DANCE & HORNBILL MOVEMENTS (PHEISHON LAA)",
+        "Summary: Dance steps modeled on the flight and wingbeats of the great Indian hornbill.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "O, iram hongreili, Mafathing kasui kharipna; Ngachamching arang",
+        "shangkaya, arangchi khili kachanlo? Mafathei channa, arangkho arangkhon",
+        "ngashing leishiya; Thuingashing, kashung shanghaowa.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "In our ancient forests, the majestic Mafathing trees spread their wide",
+        "canopy; Upon their boughs perch the great hornbills; why have they",
+        "gathered in numbers? For the ripe Mafa fruits they have flown; with",
+        "rhythmic wingbeats they soar towards the mountain peaks!"
+      ],
+      "tangkhul_content": "O, iram hongreili, Mafathing kasui kharipna; Ngachamching arang shangkaya, arangchi khili kachanlo? Mafathei channa, arangkho arangkhon ngashing leishiya; Thuingashing, kashung shanghaowa.",
+      "english_translation": "In our ancient forests, the majestic Mafathing trees spread their wide canopy; Upon their boughs perch the great hornbills; why have they gathered in numbers? For the ripe Mafa fruits they have flown; with rhythmic wingbeats they soar towards the mountain peaks!",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * pheishon (noun): ceremonial hornbill dance",
+        "    Example: Pheishon laa.",
+        "  * arang (noun): hornbill",
+        "    Example: Arang shangkaya.",
+        "  * mafathing (noun): Phoebe hainesiana timber tree",
+        "    Example: Mafathing kasui.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Choreographic terminology encoded in song lyrics.",
+        "  - Rhythmic meter imitating animal locomotion.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What bird inspires the choreography of Pheishon?",
+        "  ? Why is the hornbill culturally sacred to Tangkhuls?"
+      ],
+      "tangkhul_content": "pheishon: ceremonial hornbill dance\narang: hornbill\nmafathing: Phoebe hainesiana timber tree",
+      "english_translation": "Choreographic terminology encoded in song lyrics.\nRhythmic meter imitating animal locomotion.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Maiden Dances & Youth Festivals (Yarra Laa) (Page 10)",
+      "title": "Chapter 4: Maiden Dances & Youth Festivals (Yarra Laa)",
+      "lines": [
+        "CHAPTER 4: MAIDEN DANCES & YOUTH FESTIVALS (YARRA LAA)",
+        "Summary: Laa Khanganui maiden dances and the Yarra spring festival of the youth.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Kazingkum huimailo aria, shivanaoli khina sale? Kha shingnai rao vasaya,",
+        "he ring khaya zak matheiya. Kongrali theo theo, ilongnaova khithing",
+        "kaphato? Ilongnaova longthing kaphana, meishum kapamnao zangyo!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Let the seasons turn in gentleness! Maidens dance in the village square",
+        "in graceful innocence. What merry voices echo by the stream? The youth",
+        "gather firewood for the annual Yarra celebration!"
+      ],
+      "tangkhul_content": "Kazingkum huimailo aria, shivanaoli khina sale? Kha shingnai rao vasaya, he ring khaya zak matheiya. Kongrali theo theo, ilongnaova khithing kaphato? Ilongnaova longthing kaphana, meishum kapamnao zangyo!",
+      "english_translation": "Let the seasons turn in gentleness! Maidens dance in the village square in graceful innocence. What merry voices echo by the stream? The youth gather firewood for the annual Yarra celebration!",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * yarra laa (noun): youth festival song",
+        "    Example: Yarra laa sa.",
+        "  * longthing (noun): communal firewood",
+        "    Example: Longthing kaphana.",
+        "  * meishum (noun): morung fireplace",
+        "    Example: Meishum kapamnao.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Youth-group terminology.",
+        "  - Onomatopoeic stream sounds 'theo theo'.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? In which months is the Yarra festival celebrated?",
+        "  ? What activity do the youth undertake during Yarra?"
+      ],
+      "tangkhul_content": "yarra laa: youth festival song\nlongthing: communal firewood\nmeishum: morung fireplace",
+      "english_translation": "Youth-group terminology.\nOnomatopoeic stream sounds 'theo theo'.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Agriculture, Terrace Labor & Cowherd Songs (Page 12)",
+      "title": "Chapter 5: Agriculture, Terrace Labor & Cowherd Songs",
+      "lines": [
+        "CHAPTER 5: AGRICULTURE, TERRACE LABOR & COWHERD SONGS",
+        "Summary: Luisom paddy planting chants and Sei Hom cowherd ballads of solitary orphans.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "O, I siluisa, I siluisa khinashai? I makreira khina mang, makreira",
+        "sangralu; Shama maran saluira. Ava khaho malei, aya kaho malei, seihom",
+        "langphaizaya; Shok reo rangpamshona, silui shur khani chi kachui laga",
+        "yaronnao chara horlama.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Who will feast on my buffalo meat, who will drink my aged rice beer?",
+        "Pour generously for the laborers! No parents call my name; upon the high",
+        "grassy slopes I herd buffalos alone from dawn till dusk, Tending the",
+        "herds while silent tears trace lines upon my face."
+      ],
+      "tangkhul_content": "O, I siluisa, I siluisa khinashai? I makreira khina mang, makreira sangralu; Shama maran saluira. Ava khaho malei, aya kaho malei, seihom langphaizaya; Shok reo rangpamshona, silui shur khani chi kachui laga yaronnao chara horlama.",
+      "english_translation": "Who will feast on my buffalo meat, who will drink my aged rice beer? Pour generously for the laborers! No parents call my name; upon the high grassy slopes I herd buffalos alone from dawn till dusk, Tending the herds while silent tears trace lines upon my face.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * siluisa (noun): buffalo meat for terrace workers",
+        "    Example: I siluisa khinashai.",
+        "  * seihom (noun): cattle herding",
+        "    Example: Seihom langphaizaya.",
+        "  * makreira (noun): fermented rice beverage",
+        "    Example: Makreira khina mang.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Rhetorical questions in festive work songs.",
+        "  - Poignant elegiac tone in pastoral chants.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What contrast is drawn between festive terrace planting and cowherd life?",
+        "  ? What is 'siluisa'?"
+      ],
+      "tangkhul_content": "siluisa: buffalo meat for terrace workers\nseihom: cattle herding\nmakreira: fermented rice beverage",
+      "english_translation": "Rhetorical questions in festive work songs.\nPoignant elegiac tone in pastoral chants.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Martial Ballads & Head-hunting Epics (Ral Laa) (Page 14)",
+      "title": "Chapter 6: Martial Ballads & Head-hunting Epics (Ral Laa)",
+      "lines": [
+        "CHAPTER 6: MARTIAL BALLADS & HEAD-HUNTING EPICS (RAL LAA)",
+        "Summary: Ancient heroic victory chants and warrior prowess of Lunghar and Ringui.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "O, atung shangla rai sakashiyavo, Lunghar yaron ni chiya! Azing takha",
+        "rai sakashiyavo, Ringui yaron ni chiya! Shangching Shangshak na ili",
+        "khachitna chiya, shimin kayang ra mahon shok! Kharing sing singa, ili",
+        "mangakatshelu!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Behold in the northern heights the gallant warriors of Lunghar stand",
+        "ready! In the southern ranges the brave youths of Ringui guard the",
+        "mountain passes; They fear me as the tiger of the forest; challenge me",
+        "not, for our victory shout resounds!"
+      ],
+      "tangkhul_content": "O, atung shangla rai sakashiyavo, Lunghar yaron ni chiya! Azing takha rai sakashiyavo, Ringui yaron ni chiya! Shangching Shangshak na ili khachitna chiya, shimin kayang ra mahon shok! Kharing sing singa, ili mangakatshelu!",
+      "english_translation": "Behold in the northern heights the gallant warriors of Lunghar stand ready! In the southern ranges the brave youths of Ringui guard the mountain passes; They fear me as the tiger of the forest; challenge me not, for our victory shout resounds!",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 15)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * ral laa (noun): war song, victory chant",
+        "    Example: Ral laa sa.",
+        "  * kharing (adj): alive, captive",
+        "    Example: Kharing sing singa.",
+        "  * mahon (noun): battle shout",
+        "    Example: Mahon shok.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Vocative and boastful declamatory syntax.",
+        "  - Geographical identifiers of warrior clans.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? Which two villages are celebrated as warrior centres?",
+        "  ? What does 'kharing sing' mean?"
+      ],
+      "tangkhul_content": "ral laa: war song, victory chant\nkharing: alive, captive\nmahon: battle shout",
+      "english_translation": "Vocative and boastful declamatory syntax.\nGeographical identifiers of warrior clans.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Traditional Love Romances (Shimreishang & Maitonphi) (Page 16)",
+      "title": "Chapter 7: Traditional Love Romances (Shimreishang & Maitonphi)",
+      "lines": [
+        "CHAPTER 7: TRADITIONAL LOVE ROMANCES (SHIMREISHANG & MAITONPHI)",
+        "Summary: The immortal romance of Shimreishang and Maitonphi in antiphonal dialogue.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi",
+        "kharam thuihaowa. Laishikhavai chi lunamlizang ngaroksa; Coi marongthei",
+        "reola khuisingda lung ringa. Ameishang Ameishang, Ira kachangli thuiulu;",
+        "Maitonphi, pangthui haosa, ini lungchan malaihaosa.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Elders, do not forbid! For sweet Maitonphi alone does my heart beat in",
+        "devotion; Though adverse circumstances part us in this earthly life, our",
+        "love remains green like the mountain pine. Beloved Ameishang, farewell",
+        "on this mortal shore; in the spirit realm beyond, we shall part no more."
+      ],
+      "tangkhul_content": "Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa. Laishikhavai chi lunamlizang ngaroksa; Coi marongthei reola khuisingda lung ringa. Ameishang Ameishang, Ira kachangli thuiulu; Maitonphi, pangthui haosa, ini lungchan malaihaosa.",
+      "english_translation": "Elders, do not forbid! For sweet Maitonphi alone does my heart beat in devotion; Though adverse circumstances part us in this earthly life, our love remains green like the mountain pine. Beloved Ameishang, farewell on this mortal shore; in the spirit realm beyond, we shall part no more.",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 7: Continuation (Page 17)",
+      "title": "Chapter 7 (Continued)",
+      "lines": [
+        "CHAPTER 7: READING CONTINUATION (PAGE 17)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi",
+        "kharam thuihaowa. Laishikhavai chi lunamlizang ngaroksa; Coi marongthei",
+        "reola khuisingda lung ringa. Ameishang Ameishang, Ira kachangli thuiulu;",
+        "Maitonphi, pangthui haosa, ini lungchan malaihaosa.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "Elders, do not forbid! For sweet Maitonphi alone does my heart beat in",
+        "devotion; Though adverse circumstances part us in this earthly life, our",
+        "love remains green like the mountain pine. Beloved Ameishang, farewell",
+        "on this mortal shore; in the spirit realm beyond, we shall part no more."
+      ],
+      "tangkhul_content": "Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa. Laishikhavai chi lunamlizang ngaroksa; Coi marongthei reola khuisingda lung ringa. Ameishang Ameishang, Ira kachangli thuiulu; Maitonphi, pangthui haosa, ini lungchan malaihaosa.",
+      "english_translation": "Elders, do not forbid! For sweet Maitonphi alone does my heart beat in devotion; Though adverse circumstances part us in this earthly life, our love remains green like the mountain pine. Beloved Ameishang, farewell on this mortal shore; in the spirit realm beyond, we shall part no more.",
+      "notes": [
+        "Continuation reading page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * leishat laa (noun): romantic song",
+        "    Example: Leishat laa sa.",
+        "  * marongthei (noun): flowering shrub of fidelity",
+        "    Example: Marongthei reola.",
+        "  * lungchan (noun): deep love, soul union",
+        "    Example: Ini lungchan malaihaosa.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Antiphonal romantic dialogue.",
+        "  - Symbolism of botanical endurance.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What plant symbolizes unyielding love in the ballad?",
+        "  ? How does the story conclude in traditional belief?"
+      ],
+      "tangkhul_content": "leishat laa: romantic song\nmarongthei: flowering shrub of fidelity\nlungchan: deep love, soul union",
+      "english_translation": "Antiphonal romantic dialogue.\nSymbolism of botanical endurance.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_reading",
+      "header": "Chapter 8: Weaving Songs, Festive Banquets & Bedtime Chants (Page 19)",
+      "title": "Chapter 8: Weaving Songs, Festive Banquets & Bedtime Chants",
+      "lines": [
+        "CHAPTER 8: WEAVING SONGS, FESTIVE BANQUETS & BEDTIME CHANTS",
+        "Summary: Back-strap loom weaving (Themsak), traditional shawls, and evening chants (Pet Laa).",
+        "",
+        "TANGKHUL READING TEXT:",
+        "O Tangkhul ngalanao yanglu yanglu, sak kasa kathemma themma; Haora chi",
+        "yaron kachonna, Phangyai rah Tangkhul kashanna! Phungcham vana ratha",
+        "apamva rarona, phanishida tarikhana vaotun; Nali ungthuilo, sami",
+        "ngachiya, i ram kashamshiraro.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "Behold the skilled Tangkhul maidens weaving traditional textiles with",
+        "masterly artistry! The black-and-red Haora shawl is for valiant young",
+        "men, and the Phangyai skirt for graceful women. Evening settles over the",
+        "ridges of Phungcham; put aside your tools and find peaceful sleep."
+      ],
+      "tangkhul_content": "O Tangkhul ngalanao yanglu yanglu, sak kasa kathemma themma; Haora chi yaron kachonna, Phangyai rah Tangkhul kashanna! Phungcham vana ratha apamva rarona, phanishida tarikhana vaotun; Nali ungthuilo, sami ngachiya, i ram kashamshiraro.",
+      "english_translation": "Behold the skilled Tangkhul maidens weaving traditional textiles with masterly artistry! The black-and-red Haora shawl is for valiant young men, and the Phangyai skirt for graceful women. Evening settles over the ridges of Phungcham; put aside your tools and find peaceful sleep.",
+      "notes": [
+        "Reading section for Chapter 8"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 8: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 8 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 8 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * themsak laa (noun): weaving song",
+        "    Example: Themsak laa sa.",
+        "  * haora (noun): traditional male shawl",
+        "    Example: Haora yaron kachon.",
+        "  * phangyai (noun): traditional female skirt",
+        "    Example: Phangyai Tangkhul kashan.",
+        "  * pet laa (noun): bedtime chant",
+        "    Example: Pet laa sa.",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Textile terminology and designators.",
+        "  - Evening benedictory phrasing.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What is Haora and who wears it?",
+        "  ? What is Phangyai and what colors define it?"
+      ],
+      "tangkhul_content": "themsak laa: weaving song\nhaora: traditional male shawl\nphangyai: traditional female skirt\npet laa: bedtime chant",
+      "english_translation": "Textile terminology and designators.\nEvening benedictory phrasing.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 8"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Folk Songs of The Tangkhul -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  hokharai [noun]: invocation shout",
+        "  kazingkum [noun]: spring season",
+        "  sampheirok [noun]: spring songbird",
+        "  thingreikhangava [noun]: carrying the monument tree",
+        "  chaklen [noun]: augury bird",
+        "  chumrei [noun]: grain barn",
+        "  pheishon [noun]: ceremonial hornbill dance",
+        "  arang [noun]: hornbill",
+        "  mafathing [noun]: Phoebe hainesiana timber tree",
+        "  yarra laa [noun]: youth festival song",
+        "  longthing [noun]: communal firewood",
+        "  meishum [noun]: morung fireplace",
+        "  siluisa [noun]: buffalo meat for terrace workers",
+        "  seihom [noun]: cattle herding",
+        "  makreira [noun]: fermented rice beverage",
+        "  ral laa [noun]: war song, victory chant",
+        "  kharing [adj]: alive, captive",
+        "  mahon [noun]: battle shout",
+        "  leishat laa [noun]: romantic song",
+        "  marongthei [noun]: flowering shrub of fidelity",
+        "  lungchan [noun]: deep love, soul union",
+        "  themsak laa [noun]: weaving song",
+        "  haora [noun]: traditional male shawl",
+        "  phangyai [noun]: traditional female skirt",
+        "  pet laa [noun]: bedtime chant"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 25"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Folk Songs of The Tangkhul -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-LIT-002",
+        "Title: Folk Songs of The Tangkhul",
+        "Publisher: Directorate for Development of Tribals & Backward Classes, Manipur",
+        "Publication Year: 1987",
+        "Dialect Variety: Standard Tangkhul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 8",
+        "Total Words Indexed: 598",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "hokharai",
+        "pos": "noun",
+        "meaning": "invocation shout",
+        "example": "Hokharai invocation."
+      },
+      {
+        "word": "kazingkum",
+        "pos": "noun",
+        "meaning": "spring season",
+        "example": "Kazingkum ura."
+      },
+      {
+        "word": "sampheirok",
+        "pos": "noun",
+        "meaning": "spring songbird",
+        "example": "Sampheirokna rakhonga."
+      },
+      {
+        "word": "thingreikhangava",
+        "pos": "noun",
+        "meaning": "carrying the monument tree",
+        "example": "Thingreiva ungreilu."
+      },
+      {
+        "word": "chaklen",
+        "pos": "noun",
+        "meaning": "augury bird",
+        "example": "Chaklen kacheka."
+      },
+      {
+        "word": "chumrei",
+        "pos": "noun",
+        "meaning": "grain barn",
+        "example": "Chumrei hjorphiya."
+      },
+      {
+        "word": "pheishon",
+        "pos": "noun",
+        "meaning": "ceremonial hornbill dance",
+        "example": "Pheishon laa."
+      },
+      {
+        "word": "arang",
+        "pos": "noun",
+        "meaning": "hornbill",
+        "example": "Arang shangkaya."
+      },
+      {
+        "word": "mafathing",
+        "pos": "noun",
+        "meaning": "Phoebe hainesiana timber tree",
+        "example": "Mafathing kasui."
+      },
+      {
+        "word": "yarra laa",
+        "pos": "noun",
+        "meaning": "youth festival song",
+        "example": "Yarra laa sa."
+      },
+      {
+        "word": "longthing",
+        "pos": "noun",
+        "meaning": "communal firewood",
+        "example": "Longthing kaphana."
+      },
+      {
+        "word": "meishum",
+        "pos": "noun",
+        "meaning": "morung fireplace",
+        "example": "Meishum kapamnao."
+      },
+      {
+        "word": "siluisa",
+        "pos": "noun",
+        "meaning": "buffalo meat for terrace workers",
+        "example": "I siluisa khinashai."
+      },
+      {
+        "word": "seihom",
+        "pos": "noun",
+        "meaning": "cattle herding",
+        "example": "Seihom langphaizaya."
+      },
+      {
+        "word": "makreira",
+        "pos": "noun",
+        "meaning": "fermented rice beverage",
+        "example": "Makreira khina mang."
+      },
+      {
+        "word": "ral laa",
+        "pos": "noun",
+        "meaning": "war song, victory chant",
+        "example": "Ral laa sa."
+      },
+      {
+        "word": "kharing",
+        "pos": "adj",
+        "meaning": "alive, captive",
+        "example": "Kharing sing singa."
+      },
+      {
+        "word": "mahon",
+        "pos": "noun",
+        "meaning": "battle shout",
+        "example": "Mahon shok."
+      },
+      {
+        "word": "leishat laa",
+        "pos": "noun",
+        "meaning": "romantic song",
+        "example": "Leishat laa sa."
+      },
+      {
+        "word": "marongthei",
+        "pos": "noun",
+        "meaning": "flowering shrub of fidelity",
+        "example": "Marongthei reola."
+      },
+      {
+        "word": "lungchan",
+        "pos": "noun",
+        "meaning": "deep love, soul union",
+        "example": "Ini lungchan malaihaosa."
+      },
+      {
+        "word": "themsak laa",
+        "pos": "noun",
+        "meaning": "weaving song",
+        "example": "Themsak laa sa."
+      },
+      {
+        "word": "haora",
+        "pos": "noun",
+        "meaning": "traditional male shawl",
+        "example": "Haora yaron kachon."
+      },
+      {
+        "word": "phangyai",
+        "pos": "noun",
+        "meaning": "traditional female skirt",
+        "example": "Phangyai Tangkhul kashan."
+      },
+      {
+        "word": "pet laa",
+        "pos": "noun",
+        "meaning": "bedtime chant",
+        "example": "Pet laa sa."
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-LIT-002",
+      "title": "Folk Songs of The Tangkhul",
+      "total_pages": 22,
+      "total_chapters": 8,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 8,
+  "total_words": 934,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Invocations & Spring Songs (Zingkum Hao Kaphok)",
+      "tangkhul_text": "AE-HE! Phamei yameisa HE... HE. O--O-HU-O! Ilongnao laa sa usa, Kashishoklu, kaphazanglu--O--Hui-O-hui! O, kazingkum ura, o, kazingkum ura, o, hungnaovayo luithuimihaolu; Mamanaomara, hungnaovayo luithuimashunga; Sampheirokna riri rakhonga, koktui vana zingkum phungraya!",
+      "translation_en": "Hokharai invocation: May the better be ours! Let us sing, may evil depart and divine goodness enter! O, spring has begun! Your highness, sow the seeds for the year; royal venture is just and timely; The Sampheirok sings melodiously and the cuckoo heralds the arrival of the fruitful year!"
+    },
+    {
+      "chapter": "Chapter 2: Tarung Carrying & Monument Construction Songs",
+      "tangkhul_text": "O, yarso thingrei vakhang, thingpitang tak ungrall yaronnao, thingreiva ungreilu! Seichang kharaei hangmi phalungra, phanora vashatta chaklen meikan naona kacheka, lumlao sakda vakhuiphalungra. O, Kashongta phung-o, maranla saya; ilangkaso machilo, I wui luiyi kaya lhuiito, I wui chumrei hjorphiya!",
+      "translation_en": "O young men, lift the mighty tree! The twigs bend, pull together with sturdy cane ropes; The sacrificial mithun is provided, the augury bird Chaklen gave favorable omens; carry home the Tarung! I built this house from humble beginnings; my terrace fields are fertile and granary full!"
+    },
+    {
+      "chapter": "Chapter 3: Ceremonial Dance & Hornbill Movements (Pheishon Laa)",
+      "tangkhul_text": "O, iram hongreili, Mafathing kasui kharipna; Ngachamching arang shangkaya, arangchi khili kachanlo? Mafathei channa, arangkho arangkhon ngashing leishiya; Thuingashing, kashung shanghaowa.",
+      "translation_en": "In our ancient forests, the majestic Mafathing trees spread their wide canopy; Upon their boughs perch the great hornbills; why have they gathered in numbers? For the ripe Mafa fruits they have flown; with rhythmic wingbeats they soar towards the mountain peaks!"
+    },
+    {
+      "chapter": "Chapter 4: Maiden Dances & Youth Festivals (Yarra Laa)",
+      "tangkhul_text": "Kazingkum huimailo aria, shivanaoli khina sale? Kha shingnai rao vasaya, he ring khaya zak matheiya. Kongrali theo theo, ilongnaova khithing kaphato? Ilongnaova longthing kaphana, meishum kapamnao zangyo!",
+      "translation_en": "Let the seasons turn in gentleness! Maidens dance in the village square in graceful innocence. What merry voices echo by the stream? The youth gather firewood for the annual Yarra celebration!"
+    },
+    {
+      "chapter": "Chapter 5: Agriculture, Terrace Labor & Cowherd Songs",
+      "tangkhul_text": "O, I siluisa, I siluisa khinashai? I makreira khina mang, makreira sangralu; Shama maran saluira. Ava khaho malei, aya kaho malei, seihom langphaizaya; Shok reo rangpamshona, silui shur khani chi kachui laga yaronnao chara horlama.",
+      "translation_en": "Who will feast on my buffalo meat, who will drink my aged rice beer? Pour generously for the laborers! No parents call my name; upon the high grassy slopes I herd buffalos alone from dawn till dusk, Tending the herds while silent tears trace lines upon my face."
+    },
+    {
+      "chapter": "Chapter 6: Martial Ballads & Head-hunting Epics (Ral Laa)",
+      "tangkhul_text": "O, atung shangla rai sakashiyavo, Lunghar yaron ni chiya! Azing takha rai sakashiyavo, Ringui yaron ni chiya! Shangching Shangshak na ili khachitna chiya, shimin kayang ra mahon shok! Kharing sing singa, ili mangakatshelu!",
+      "translation_en": "Behold in the northern heights the gallant warriors of Lunghar stand ready! In the southern ranges the brave youths of Ringui guard the mountain passes; They fear me as the tiger of the forest; challenge me not, for our victory shout resounds!"
+    },
+    {
+      "chapter": "Chapter 7: Traditional Love Romances (Shimreishang & Maitonphi)",
+      "tangkhul_text": "Avayo avayo, makhamalu, Maitonphili rasha saka; sakhangaiye Maitonphi kharam thuihaowa. Laishikhavai chi lunamlizang ngaroksa; Coi marongthei reola khuisingda lung ringa. Ameishang Ameishang, Ira kachangli thuiulu; Maitonphi, pangthui haosa, ini lungchan malaihaosa.",
+      "translation_en": "Elders, do not forbid! For sweet Maitonphi alone does my heart beat in devotion; Though adverse circumstances part us in this earthly life, our love remains green like the mountain pine. Beloved Ameishang, farewell on this mortal shore; in the spirit realm beyond, we shall part no more."
+    },
+    {
+      "chapter": "Chapter 8: Weaving Songs, Festive Banquets & Bedtime Chants",
+      "tangkhul_text": "O Tangkhul ngalanao yanglu yanglu, sak kasa kathemma themma; Haora chi yaron kachonna, Phangyai rah Tangkhul kashanna! Phungcham vana ratha apamva rarona, phanishida tarikhana vaotun; Nali ungthuilo, sami ngachiya, i ram kashamshiraro.",
+      "translation_en": "Behold the skilled Tangkhul maidens weaving traditional textiles with masterly artistry! The black-and-red Haora shawl is for valiant young men, and the Phangyai skirt for graceful women. Evening settles over the ridges of Phungcham; put aside your tools and find peaceful sleep."
+    }
+  ]
+}

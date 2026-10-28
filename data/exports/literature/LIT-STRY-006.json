@@ -1,0 +1,54 @@
+{
+  "id": "LIT-STRY-006",
+  "resource_type": "literature",
+  "title": "Shimwui Chumpha",
+  "title_translation": "The Granary Opening: A Festival Story",
+  "creator": "V. Ruivah",
+  "author": "V. Ruivah",
+  "year": 2002,
+  "publisher": "Anthropological Literary Series, Imphal",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Somdal",
+  "category": "short_story",
+  "work_type": "short_story",
+  "genres": [
+    "short_story"
+  ],
+  "book_id": null,
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Ruivah-2002-SWC",
+  "license": "Scholarly Publication",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-STRY-006.txt",
+  "notes": "Cultural short story depicting the solemn winter ritual of opening the family granary (Chumpha), invocations for blessing, and customary grain sharing with orphans.",
+  "indigenous_tangkhul_text": [
+    "Kashung winter chiko kashungli Somdal ramli Chumpha phanit kaphong kashak-kakhayei sakashung.\nMayarnao Luingamna shim-wui mum eina atonao eili ngateitekha chum-kashak pamli kazat shurhaowa.",
+    "Chum-wui khamahon kachashung eina awungana ancestral invocation chants horda kazingli kakhon pida mashitsang.\n'Kazing-Awunga, luikashak wui charā hi kazeiram eina ngaleili kapam kashunao kachiva-li kapha pimi-lu!'",
+    "Chumpha wui thotharan kashunao kala kacham-kacham miyaongao kachiva-li charā eina sha-ngaprum thar-manda.\nLuingamna theilaga, 'Tangkhul ngashan mirin hi charā theikhavai maningmana, community mutual aid eina ngasamtit mirin laka!'"
+  ],
+  "english_translation_text": [
+    "In the cold crisp days of early winter, Somdal village prepared for the solemn celebration of the Chumpha festival.\nYoung Luingam accompanied his grandfather and family elders to the ancestral household granary (Chum).",
+    "With measured solemnity, the village headman recited the ancient granary-opening invocations toward heaven:\n'O Sovereign Creator, bless this golden harvest of terrace rice so that no orphan or neighbor goes hungry!'",
+    "During Chumpha, harvested grain is systematically apportioned to widows, orphans, and needy village households.\nWatching this generous distribution, young Luingam realized that Tangkhul culture is founded on profound communal mutual aid."
+  ],
+  "literary_themes": [
+    "The harvest thanksgiving festival and granary opening (*Chumpha Phanit*)",
+    "Customary wealth redistribution and social welfare for vulnerable households",
+    "Sacred reverence for terrace rice (*Charā*) as ancestral sustenance",
+    "Generational initiation of youth into institutionalized community generosity"
+  ],
+  "structure_and_meter": "Observational social realism short story alternating descriptive ritual prose with elder invocation dialogues.",
+  "critical_commentary": "Written by anthropologist and literary writer V. Ruivah, this story documents the institutional generosity embedded in the traditional Chumpha festival, demonstrating how traditional agrarian festivals served as effective communal safety nets.",
+  "poetic_vocabulary_terms": {
+    "Chumpha": "Sacred winter harvest festival marking the formal opening of grain storage barns",
+    "Chum": "Customary raised timber granary built separate from dwellings to safeguard against fire",
+    "Charā": "Harvested unhusked rice / paddy grain, sacred gift of the earth",
+    "Awunga": "Village chief / hereditary headman responsible for customary rites"
+  },
+  "stanza_count": 3,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

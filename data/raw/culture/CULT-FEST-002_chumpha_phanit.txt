@@ -1,0 +1,45 @@
+================================================================================
+RESOURCE IDENTIFIER: CULT-FEST-002
+TITLE: Chumpha Phanit
+TITLE TRANSLATION: Festival of the Granary
+CATEGORY: festival | SUBCATEGORY: agricultural
+VILLAGE / REGION: Ukhrul | DIALECT: Ukhrul
+CONTRIBUTOR / DOCUMENTATION: Tangkhul Women & Community
+PUBLICATION / SOURCE: Traditional Observation (Horam 1977, Hodson 1911)
+SOURCE ID: Horam-1977-Ch5
+SOURCE URL: https://sec.bharatavani.in/tangkhul/jnanakosha
+PERMISSION: community_authorized | ACCESS: metadata_only
+VERIFICATION: verified
+================================================================================
+
+[ETHNOGRAPHIC SUMMARY & CONTEXT]
+Post-harvest thanksgiving festival celebrated in December. Specially honors women as custodians of the grain; involves ceremonial transfer of granary responsibility and blessings for food security.
+
+[SEASONAL TIMING & OCCASION]
+December (Post-harvest thanksgiving)
+
+[CEREMONIAL PARTICIPANTS & ROLES]
+- Women household heads (Custodians of Granary)
+- Family Lineages
+- Village Community
+
+[PROCEDURAL STAGES & RITUAL SEQUENCE]
+1. Formal cleansing and sanctification of the family granary (Chum) by female household heads.
+2. Ritual opening of the granary door and invocation of blessing upon the stored paddy.
+3. Preparation of first rice delicacies from the newly harvested crop.
+4. Household visits and gift-sharing honoring maternal uncles and married daughters.
+5. Community prayers of thanksgiving for food security through the winter months.
+
+[INDIGENOUS TANGKHUL TEXT / SAYINGS / CHANTS]
+Chumpha phanitli lumkaza kashung, kacham kashiman malailaka.
+Shanao mibingna chumkhur kakhon, chumpam kachivali ningyanganung.
+Varewui kashukli ringpha mazaida, shim kachivali tara kashung.
+
+[ENGLISH TRANSLATION & MEANING]
+At the Chumpha festival, the bounty of harvest is gathered, and scarcity is banished from our midst.
+The women of the household unlock the sacred granary, receiving honor as guardians of life and grain.
+Rejoicing in divine blessing, every family enjoys abundant cups of fellowship and peace.
+
+================================================================================
+TANGKHUL LANGUAGE PRESERVATION PROJECT - CULTURAL HERITAGE ARCHIVE
+================================================================================

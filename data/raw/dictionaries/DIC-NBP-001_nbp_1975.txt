@@ -1,0 +1,73 @@
+# Complete Digital Lexicographical Record: Hindi-Tangkhul Dictionary
+# Identifier: DIC-NBP-001
+# Primary Creator / Lexicographer: Braj Bihari Kumar, Hari Prasad Rai, Pearson, Jatroang Tangkhul, Somi
+# Publication Year: 1975
+# Publisher: Nagaland Bhasha Parishad, Kohima
+# Language Pair: Hindi-Tangkhul
+# Dialect Variety: Tangkhul (Ukhrul)
+# Source Classification: bilingual_dictionary
+# License: Copyright Nagaland Bhasha Parishad
+# Permission Status: restricted
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Hindi-Tangkhul Dictionary
+ALTERNATE TITLE: Hindi-Tangkhul Bilingual Dictionary
+COMPILER / AUTHORS: Braj Bihari Kumar, Hari Prasad Rai, Pearson, Jatroang Tangkhul, Somi
+YEAR: 1975
+PUBLISHING BODY: Nagaland Bhasha Parishad, Kohima
+DIALECT / VARIETY: Tangkhul (Ukhrul)
+SOURCE IDENTIFIER: NBP-Bilingual-042
+CANONICAL SOURCE URL: https://bharatavani.in/tangkhul/dictionaries
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Published in 1975 by the Nagaland Bhasha Parishad in Kohima as part of its bilingual dictionary series for the languages of northeast India. Directed by Dr. Braj Bihari Kumar with linguistic collaborators Hari Prasad Rai and native Tangkhul consultants Pearson, Jatroang, and Somi. Designed to facilitate cross-regional communication and bilingual education.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Presents Hindi headwords in Devanagari script followed by romanized Tangkhul equivalents in standard Ukhrul orthography with Hindi grammatical markers.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (12 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. khamor (noun) -- speech, mouth, utterance | Hindi: बात, मुँह, वाणी [Citation: p. 45]
+   Context / Example: Khamor kapha (Good and gracious spoken words).
+
+ENTRY  2. kapang (noun) -- hand, arm | Hindi: हाथ [Citation: p. 32] [Alt: pang]
+   Context / Example: Kapang eina ot kasa (Working diligently with hands).
+
+ENTRY  3. phei (noun) -- foot, leg | Hindi: पैर, पाँव [Citation: p. 61]
+   Context / Example: Phei eina kapam (Standing steadfastly on foot).
+
+ENTRY  4. mik (noun) -- eye, organ of vision | Hindi: आँख, नेत्र [Citation: p. 55]
+   Context / Example: Mik theikhavai (Eyes to perceive the road).
+
+ENTRY  5. khana (noun) -- ear, auditory organ | Hindi: कान, कर्ण [Citation: p. 41]
+   Context / Example: Khana khangasho (Ears attentive to hear).
+
+ENTRY  6. ha (noun) -- tooth | Hindi: दाँत, दंत [Citation: p. 28]
+   Context / Example: Ha kachang (Strong and sound teeth).
+
+ENTRY  7. malei (noun) -- tongue | Hindi: जीभ, जिह्वा [Citation: p. 52]
+   Context / Example: Malei eina tui khangatei (Speaking speech with tongue).
+
+ENTRY  8. tara (noun) -- water, liquid | Hindi: पानी, जल [Citation: p. 88]
+   Context / Example: Tara mathasek (Pure natural spring water).
+
+ENTRY  9. mei (noun) -- fire, hearth embers | Hindi: आग, अग्नि [Citation: p. 56]
+   Context / Example: Mei katum (Lighting the central hearth fire).
+
+ENTRY 10. kazing (noun) -- sky, heavens, atmosphere | Hindi: आकाश, आसमान [Citation: p. 39]
+   Context / Example: Kazing ngalem (Beneath the open sky).
+
+ENTRY 11. zingsho (noun) -- sun, morning sunlight | Hindi: सूर्य, सूरज, धूप [Citation: p. 98]
+   Context / Example: Zingsho kashok (Sunrise over the mountain).
+
+ENTRY 12. sirak (noun) -- star, celestial star | Hindi: तारा, नक्षत्र [Citation: p. 82]
+   Context / Example: Sirak kazingli ngalong (Stars glittering in the night sky).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Copyright Nagaland Bhasha Parishad
+Permission Tier: restricted
+Access Status: metadata_only
+Citation Format: Tangkhul Language Library Digital Archive. Braj Bihari Kumar, Hari Prasad Rai, Pearson, Jatroang Tangkhul, Somi (1975). Hindi-Tangkhul Dictionary. Nagaland Bhasha Parishad, Kohima.
+=======================================================================

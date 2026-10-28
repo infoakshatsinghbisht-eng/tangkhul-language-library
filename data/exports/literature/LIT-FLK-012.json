@@ -1,0 +1,52 @@
+{
+  "id": "LIT-FLK-012",
+  "resource_type": "literature",
+  "title": "Longpi Maringthei Eina Ngari Kaping",
+  "title_translation": "The Tale of Longpi Pottery and the Magic Yeast",
+  "creator": "Longpi Village Elders & Kanrei Shaiza",
+  "author": "Traditional",
+  "year": 1998,
+  "publisher": "Tangkhul Literature Society, Manipur",
+  "language": "Tangkhul",
+  "dialect": "Longpi / Northern Tangkhul",
+  "village": "Longpi",
+  "category": "folk_tale",
+  "work_type": "folk_tale",
+  "genres": [
+    "folk_tale",
+    "oral_narrative"
+  ],
+  "book_id": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-1998-LMK",
+  "license": "Community Authorized",
+  "permission_status": "community_authorized",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-FLK-012.txt",
+  "notes": "Authentic craft narrative recording the mythological discovery and development of the world-famous Longpi black stone pottery.",
+  "indigenous_tangkhul_text": [
+    "Longpi ramwui khararchar-li mayarnao Maringtheina kaphung-wui lungkhayei eina nung khamatha samphanglaka.\nChitharan Longpi lung-eili nung-ham lei-ham sakashung, Tangkhul ngaleili kachungna kaphung-ham da kachang-laka.",
+    "Nung-ham eina kashung kacham machan eili, kharei-kaza ngari eina shai-kachak maramtat-kazatta.\nMaringtheina ramwui kacham shanaoli nung-ham katha eina chithang ngari kaping-wui maram chithei-pida.\nLongpi hamlei hi Tangkhul material culture kala khararchan-wui pangkakha kacham thada meingaláng-kazatta.\nIramwui nung-ham hi khamathai eina kaphung-ramwui khon sakakhung eina khararchar maramtatta."
+  ],
+  "english_translation_text": [
+    "In the ancient chronicles of Longpi village, the artisan Maringthei discovered the unique black serpentine rock and weathered clay.\nBy grinding the stone with river sediment, he fashioned the famed Longpi black stone cookware without the aid of a potter's wheel.\nThese resilient black earthen pots imparted a rich, authentic flavor to smoked meats and traditional fermented fish (*Ngari*).\nMaringthei taught the village craftspersons the secret firing technique, preserving the art across unbroken generations.\nLongpi Hamlei remains a celebrated jewel of Tangkhul indigenous material culture and oral storytelling.\nThe distinctive stone pots echo the ancestral harmony between mountain geology, indigenous culinary science, and folklore."
+  ],
+  "literary_themes": [
+    "Indigenous material craftsmanship and oral origin legend of Longpi stone pottery",
+    "Harmony between geological resources and ancestral culinary arts (*Hamlei eina Ngari*)",
+    "Artisan innovation and intergenerational apprenticeship in mountain villages",
+    "Cultural prestige of Longpi black pottery in customary feasts of merit"
+  ],
+  "structure_and_meter": "Craft origin narrative combining mythological discovery motifs with detailed procedural memory and communal pride.",
+  "critical_commentary": "Documented by cultural historian Kanrei Shaiza. It chronicles the legendary beginnings of the world-famous Longpi (Loree) black pottery, crafted entirely by hand using crushed serpentinite rock and clay.",
+  "poetic_vocabulary_terms": {
+    "Longpi Hamlei": "Traditional black stone and clay pottery unique to Longpi village",
+    "Lungkhayei": "Serpentinite black rock ground into powder for pottery",
+    "Maringthei": "Legendary ancestral craftsman credited with developing the black stone pottery technique",
+    "Ngari kaping": "Fermentation and culinary seasoning of fish and traditional food in stone pots"
+  },
+  "stanza_count": 2,
+  "line_count": 6,
+  "text_availability": "full_text"
+}

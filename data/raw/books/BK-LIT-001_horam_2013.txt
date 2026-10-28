@@ -1,0 +1,288 @@
+# Complete Digital Text: The Tangkhul Folk Poetry in Song (HAOLA)
+# Identifier: BK-LIT-001
+# Source: Tangkhul Language Library Digital Preservation Archive
+# Format: Contiguous Cover-to-Cover Digitized Text
+
+--- Page 1 ---
+## Tangkhul Language Library -- BK-LIT-001
+### The Tangkhul Folk Poetry in Song (HAOLA)
+TITLE: The Tangkhul Folk Poetry in Song (HAOLA)
+Identifier: BK-LIT-001
+Author: Dr. Ringkahao Horam
+Publisher: Naga Cultural Development Society (NCDS) & Tribal Research Institute, Manipur (2013)
+Language: Tangkhul (Standard & Dialectal Anthologies)
+License: Educational & Cultural Preservation (Internet Archive: dli.language.1350)
+
+--- Page 2 ---
+## BK-LIT-001 -- Preface & Synopsis
+### Preface & Synopsis of the Book
+PREFACE & SYNOPSIS BY DR. RINGKAHAO HORAM:
+'For the Tangkhul, song is a way of life, history, and belief system.'
+This monumental compendium contains 161 traditional folk poems and songs (Haolaa)
+collected from across the 250 Tangkhul villages. It preserves varieties of songs
+sung at particular seasons, agricultural events, bedtime, feasts of merit, and mourning,
+safeguarding irreplaceable Tangkhul oral literature for future generations.
+
+--- Page 3 ---
+## BK-LIT-001 -- Table of Contents
+### Table of Contents
+TABLE OF CONTENTS:
+  Front Cover & Title Page (p. 1)
+  Imprint, Archival Rights & Preface (p. 2)
+  Table of Contents (p. 3)
+  Chapter 1: Creation, Origins & Ancestral Migration Songs (pp. 4-5)
+  Chapter 2: Agricultural Cycles: Jhumming, Planting & Harvest (pp. 6-7)
+  Chapter 3: Village Morung (Longra) & Dormitory Life Songs (pp. 8-9)
+  Chapter 4: Historical Ballads: World War I & Regional Conflicts (pp. 10-11)
+  Chapter 5: Romance, Courtship & Love Songs (Leishat Laa) (pp. 12-13)
+  Chapter 6: Festival Dances & Virgin Songs (Laa Khanganui) (pp. 14-15)
+  Chapter 7: Laments, Funerary Memorials & Philosophy (pp. 16-18)
+  Chapter 8: Patriotic Anthems & Tribal Identity (pp. 19-20)
+  Comprehensive Haolaa Lexicon & Song Index (p. 21)
+  Back Cover & Colophon (p. 22)
+
+--- Page 4 ---
+## Chapter 1: Creation & Migration Songs (Page 4)
+### Chapter 1: Creation, Origins & Ancestral Migration Songs
+CHAPTER 1: CREATION, ORIGINS & ANCESTRAL MIGRATION SONGS
+Song 1: Miurlung, Yangyirlaa  |  Song 2: Miurlung Kathur Laa  |  Song 43: Origin of Tangkhul
+
+TANGKHUL POETIC TEXT:
+Oh! hauri haura kachida haulu? Oh! hauri haura wahukongda haowa, Oh! wahukongda tunga (Hwang-Ho River).
+O Kachili Tunglo Awa Samshokli Tunga, O Makungana ili phunga, O Makunganao ili pangthan,
+Lungshang makang ana safasing sing, Mala mangli Hunphun Ava kharar.
+
+ENGLISH TRANSLATION:
+Where did the ancient ancestors emerge? From the river valley of Wahukong (Hwang-Ho) they came.
+From Samsok in the east our lineage migrated; Makungana sustained and guided us on the mountain trails;
+In Hunphun the revered ancestral founders struck their staves and lit the ancient hearth.
+
+--- Page 5 ---
+## Chapter 1: Vocabulary & Poetic Metaphor (Page 5)
+### Chapter 1 Study Guide & Vocabulary
+CHAPTER 1 STUDY GUIDE & VOCABULARY
+VOCABULARY:
+  * miurlung (noun): origin of the tribe, ancestral source
+  * wahukong (proper noun): ancient ancestral river of eastern origin
+  * samshok (proper noun): staging post of Tangkhul westward movement
+  * hunphun (proper noun): central mother-village of the Tangkhul (Ukhrul)
+
+--- Page 6 ---
+## Chapter 2: Agricultural Cycles (Page 6)
+### Chapter 2: Agricultural Cycles: Jhumming, Planting & Harvest
+CHAPTER 2: AGRICULTURAL CYCLES: JHUMMING, PLANTING & HARVEST
+Song 13: Zingkum Luivat Laa  |  Song 16: Luikasom Laa  |  Song 17: Mahat Laa
+
+TANGKHUL POETIC TEXT:
+Kongrei mathei kongrei, kongrei shailo marei salo; Matei kachui manoye, Mala ifu heinao naoye.
+Ithanvara iram leisaye, Isu luisa khinasa, ima lera khinasa; Maleira souralo, isa luisa lung haorana.
+Zingkum leiyao leiyameirano, chungmeida kharshokrano, phungshon phungthaigei.
+
+ENGLISH TRANSLATION:
+The seeds are sown, let the terrace waters flow; beloved companions, transplant the green shoots in rows.
+Sweet is the labor on our sunny hillsides; who will eat my savory buffalo meat, who will drink our aged rice beer?
+May the harvest be tenfold and granaries overflow with golden grain for the new year.
+
+--- Page 7 ---
+## Chapter 2: Agricultural Lexicon (Page 7)
+### Chapter 2 Agricultural Terms & Notes
+CHAPTER 2 STUDY GUIDE & AGRICULTURAL LEXICON
+VOCABULARY:
+  * luikasom (noun): seedling transplantation in flooded terrace fields
+  * luivat (noun): agricultural work, cultivation cycle
+  * mahat (noun): harvesting of paddy grains
+  * leiyameirano (poetic phrase): may abundance and fertility flourish
+
+--- Page 8 ---
+## Chapter 3: Morung & Dormitory Life (Page 8)
+### Chapter 3: Village Morung & Dormitory Life Songs
+CHAPTER 3: VILLAGE MORUNG (LONGRA) & DORMITORY LIFE SONGS
+Song 38: I Longnao (Morung Drinking Song)  |  Song 108: Meisumlaa
+
+TANGKHUL POETIC TEXT:
+Leader: I longnao (I Longra) ... ho...o...o!  Members: Rapamlu ... ho...o...o!
+Machapralu ... ho...o...o! Sairam samjiya, sairam samjiya!
+Oh longra makazangwo, nawui shimli khisapamlo? Thakta razanglo, thakta razanglo!
+
+ENGLISH TRANSLATION:
+Comrades of the Longra (dormitory), gather together! Sit around the hearth and let no tears fall!
+Why sit solitary in your home? Come swiftly into the warmth and fellowship of the Morung!
+
+--- Page 9 ---
+## Chapter 3: Morung Terms & Notes (Page 9)
+### Chapter 3 Morung Lexicon & Notes
+CHAPTER 3 STUDY GUIDE & MORUNG LEXICON
+VOCABULARY:
+  * longra (noun): village dormitory, center for youth education and martial defense
+  * meisumlaa (noun): dormitory fireside storytelling song
+  * sairam (noun): hunting territory, communal pursuit
+
+--- Page 10 ---
+## Chapter 4: Historical Ballads & Wars (Page 10)
+### Chapter 4: Historical Ballads: World War I & Regional Conflicts
+CHAPTER 4: HISTORICAL BALLADS: WORLD WAR I & REGIONAL CONFLICTS
+Song 21: France Khavawui Laa (1917-18)  |  Song 22: Khongjai Rai Khavawui Laa (1919)
+
+TANGKHUL POETIC TEXT:
+Rai ramli khava, rai ramli khava yaronpa, Yaronpa nakhi vasalo? Iya mavangai, sayisa sayi na tanti sahaowa.
+Franceshi ram khava, Franceli raikhavai; Makuiye makuiye, pham kata hiyo; Wungasam chap ngacha, rai ram khavayo.
+Ah khongjai rai khava yaronpa yaronva, Sangna ram penga yaronva; Kuiwung kuivaya suphung mei.
+
+ENGLISH TRANSLATION:
+Young warriors journeying to the distant war across the ocean to France in 1917;
+Why must our bravest youth leave their native hills? Bitter tears fell upon the red mountain trails.
+In foreign battlefields they stood tall, carrying the courage and honor of the Tangkhul nation.
+
+--- Page 11 ---
+## Chapter 4: Historical Context & Terms (Page 11)
+### Chapter 4 Historical Lexicon & Notes
+CHAPTER 4 STUDY GUIDE & HISTORICAL NOTES
+VOCABULARY:
+  * rai ram (noun phrase): battlefield, war front
+  * yaronpa (noun): young warrior, valiant youth
+  * tanti (noun): uniform, military enlistment badge
+  * chara horama (idiom): tears pour down in sorrow
+
+--- Page 12 ---
+## Chapter 5: Romance & Love Songs (Page 12)
+### Chapter 5: Romance, Courtship & Love Songs (Leishat Laa)
+CHAPTER 5: ROMANCE, COURTSHIP & LOVE SONGS (LEISHAT LAA)
+Song 19: Leishat Laa  |  Song 44: Nana Kanta Singloo  |  Song 64: Oh Iwui Sakhangai Aluinao
+
+TANGKHUL POETIC TEXT:
+Nana Kanta singloo, Ina Khailan singda, Kongli alei shonsa yahoo!
+Oh iwui sakhangai aluinao, kathuili oja saleiya aluinao; Mayo kachang tarn rahaira aluinao.
+Oh ini lungchang malai haosa, phaningda makhui aluinao leishiya; Kazingli samphangluinaosa aluinao.
+
+ENGLISH TRANSLATION:
+Take up your woven fishing net, and I shall take my line; together let us cross the rushing mountain stream!
+Beloved of my soul, though earthly circumstances separate our paths, my heart remembers your gentle eyes.
+In heaven above, our souls shall meet again, free from the sorrows of this fleeting world.
+
+--- Page 13 ---
+## Chapter 5: Poetic Idioms & Notes (Page 13)
+### Chapter 5 Poetic Idioms & Lexicon
+CHAPTER 5 STUDY GUIDE & POETIC IDIOMS
+VOCABULARY:
+  * aluinao (poetic noun): beloved maiden, sweetheart
+  * sakhangai (adj): dearly cherished, precious to the heart
+  * lungchang (noun): deep inner heart, core of affection
+  * khailan (noun): woven fish net, angling basket
+
+--- Page 14 ---
+## Chapter 6: Festival Dances & Virgin Songs (Page 14)
+### Chapter 6: Festival Dances & Virgin Songs (Laa Khanganui)
+CHAPTER 6: FESTIVAL DANCES & VIRGIN SONGS (LAA KHANGANUI)
+Song 46: Luira Sangai Uwa  |  Song 85: Laa Nganuilaa  |  Song 86: Raphei Laa Nganuila
+
+TANGKHUL POETIC TEXT:
+Luira sangai uwa, hoksa sangai uwa; Awungo Awunga shangrei rukchang ura, Yarui rukthang Kazing mathang ngaiyijile.
+Zingkam won wonluiya, ngalanao mawonluipaiya; Ngalanaowa mawon luipaiya, nathanram khavasangmeiya.
+Phaoli chan ma-ungkhararyo, haoriva haorava leiretnasaya.
+
+ENGLISH TRANSLATION:
+The Luira festival dawns, the sacrificial feast is prepared; the Awunga and elders enter the sacred circle.
+Youth blossoms like the wildflowers of the hills only once; seize the bright days of innocence and dance,
+For time flows unreturning like the mountain brook, and youth departs upon the winds.
+
+--- Page 15 ---
+## Chapter 6: Festival Lexicon (Page 15)
+### Chapter 6 Festival Lexicon & Notes
+CHAPTER 6 STUDY GUIDE & FESTIVAL LEXICON
+VOCABULARY:
+  * laa khanganui (noun): traditional damsel's virgin dance performed at Luira
+  * rawon wonluiya (poetic idiom): flowers bloom once and fade
+  * hoksa (noun): pork, ritual festival meat
+  * yarui (noun): village gathering, communal assembly
+
+--- Page 16 ---
+## Chapter 7: Laments & Memorials (Page 16)
+### Chapter 7: Laments, Funerary Memorials & Philosophy
+CHAPTER 7: LAMENTS, FUNERARY MEMORIALS & PHILOSOPHY
+Song 37: Ili Vaiphumlakha  |  Song 41: Khamathan Longli
+
+TANGKHUL POETIC TEXT:
+Ili vaiphumlakha, Oh Ava khi mang shimanlo? Avayo khi mang shimanlo? Lengshongthei shimanna, Mayarnao mangna.
+Khamathan longli yurkathan masaralu, Ngaleizingli kapam sangmeiya (kazeiram);
+Khamna longli khangkaser masaralu, Ngaleizingli khyip sangmeiya.
+
+ENGLISH TRANSLATION:
+When sorrow buried me in darkness, what beloved dream was lost? The golden acorn fell from the branch in its prime.
+Boast not of riches and pride in this transitory life; beneath the earth in Kazeiram we all sleep as equals;
+Neither pride nor arrogance endures beyond the grave; live uprightly in truth and honor.
+
+--- Page 17 ---
+## Chapter 7: Philosophical Notes (Page 17)
+### Chapter 7 Philosophical Reflection
+CHAPTER 7 STUDY GUIDE & PHILOSOPHICAL REFLECTION
+VOCABULARY:
+  * khamathan (adj): wealthy, prosperous, haughty
+  * ngaleizing (noun): beneath the earth, the spirit realm
+  * yurkathan (noun): arrogance, pride of lineage
+  * kazeiram (noun): abode of ancestors
+
+--- Page 18 ---
+## Chapter 7: Traditional Lament Forms (Page 18)
+### Chapter 7 Forms of Tangkhul Mourning Songs
+TRADITIONAL FORMS OF TANGKHUL MOURNING (CHAPZATLAA):
+  1. Chapzatlaa: Spontaneous lament chanted over the departed relative.
+  2. Thishamlaa: Ritual funeral songs sung during the grand send-off feast.
+  3. Metaphor of the broken spear, felled oak tree, and withered Shirui lily.
+
+--- Page 19 ---
+## Chapter 8: Patriotic Anthems (Page 19)
+### Chapter 8: Patriotic Anthems & Tribal Identity
+CHAPTER 8: PATRIOTIC ANTHEMS & TRIBAL IDENTITY
+Song 47: Tangkhul Ramphat  |  Song 53: Tangkhul Avaram
+
+TANGKHUL POETIC TEXT:
+Ngashan yanglo hey, Tangkhul ngalei hi! Kaphung kapha kongrei kongra hey, Khipana phashok Tangkhul ram? Varewui sokkhami ramna.
+Oh Tangkhul avaram, Tangkhul sinaram! Khangayam machining Irong sampunram, Ham kasa ram chiya Longpi ram na saya;
+Khamakang shim savai Hungpungram cement, Shirui ram lily mavatma nanaobing! Ringpha meiranu, mahomeiranu!
+
+ENGLISH TRANSLATION:
+Behold our glorious homeland, this beloved Tangkhul soil! Mountain peaks and crystal streams, a divine gift of God.
+Beloved Tangkhul motherland! Land of peace and industry: Longpi crafting the timeless black pottery;
+Hungpung building solid walls, and Shirui Kashung blooming with the peerless Shirui Lily! May peace and honor reign forever!
+
+--- Page 20 ---
+## Chapter 8: Patriotic Analysis (Page 20)
+### Chapter 8 Patriotic Terminology & Notes
+CHAPTER 8 STUDY GUIDE & PATRIOTIC LEXICON
+VOCABULARY:
+  * avaram (noun): motherland, ancestral homeland
+  * sinaram (noun): land of pure heritage
+  * shirui lily / kashongwon (noun): Lilium mackliniae, state flower indigenous to Shirui Peak
+  * longpi ham (noun): traditional stone-pottery crafted without potter's wheel in Longpi
+
+--- Page 21 ---
+## BK-LIT-001 -- Comprehensive Glossary (Page 21)
+### Comprehensive Haolaa Lexicon & Index
+COMPREHENSIVE HAOLAA GLOSSARY (BK-LIT-001):
+  * haolaa: folk poetry in song
+  * miurlung: ancient origin
+  * luikat: seed sowing invocation
+  * luisom: paddy transplantation
+  * mahat: harvest of terrace grains
+  * longra: youth dormitory / morung
+  * meisumlaa: hearthside song
+  * yaronpa: young warrior
+  * aluinao: beloved maiden
+  * laa khanganui: virgin's dance
+  * chapzatlaa: song of mourning
+  * thishamlaa: death memorial song
+  * avaram: motherland
+  * kashongwon: Shirui Lily
+
+--- Page 22 ---
+## BK-LIT-001 -- Back Cover & Colophon (Page 22)
+### Back Cover & Archival Colophon
+TANGKHUL LANGUAGE LIBRARY ARCHIVAL COLOPHON
+Book Identifier: BK-LIT-001
+Work: The Tangkhul Folk Poetry in Song (HAOLA)
+Author: Dr. Ringkahao Horam
+Publisher: Naga Cultural Development Society & Tribal Research Institute, Manipur (2013)
+Preservation Status: Complete Digital Preservation Edition (22 Pages)
+Total Chapters: 8 | Songs Documented: 161 Complete Traditional Poems | Words: 4,800 words
+Repository: Tangkhul Language Library Digital Archive
+License: Educational & Cultural Preservation

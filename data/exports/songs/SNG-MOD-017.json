@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-017",
+  "resource_type": "songs",
+  "title": "Achanwon",
+  "alternate_titles": [],
+  "title_translation": "Achanwon (Beloved)",
+  "singer": "Shimreingam Horam",
+  "lyricist": "Shimreingam Horam",
+  "composer": "Shimreingam Horam",
+  "collector": null,
+  "performers": [
+    "Shimreingam Horam"
+  ],
+  "year": null,
+  "village": "Ukhrul",
+  "dialect": "Standard Tangkhul",
+  "song_type": "love_song",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullyrics.com/",
+  "source_identifier": "TKLY-SH-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullyrics.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Modern romantic track addressing a beloved by name.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Achanwon, nawui aming shalaga ringpha.",
+        "Won kapha thotta iramli khawon."
+      ],
+      "lines_translation": [
+        "Achanwon beloved, calling your name brings joy to my spirit.",
+        "Blossoming like the fairest flower upon our mountain home."
+      ]
+    }
+  ]
+}

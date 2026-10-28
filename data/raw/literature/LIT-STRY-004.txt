@@ -1,0 +1,68 @@
+================================================================================
+TANGKHUL LITERARY RECORD: TANGKHUL SHANAO MIRIN
+IDENTIFIER: LIT-STRY-004 | GENRE: ESSAY
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Tangkhul Shanao Mirin
+  Title Translation:     Portraits of Tangkhul Women Across Generations
+  Literary Genre / Type: essay (essay)
+  Author / Storyteller:  Pamkhuila Shaiza
+  Publication Year:      2012
+  Publisher:             Heritage Publications, Ukhrul
+  Village / Dialect:     Ukhrul [Standard Tangkhul]
+  Source Identifier:     PKS-2012-TSM
+  Source URL:            https://ukhrultimes.com/tangkhul-shanao-mirin-shaiza
+  Associated Book:       None
+  License & Clearance:   Author Permitted (community_authorized)
+  Verification Status:   verified
+
+LITERARY OVERVIEW & CONTEXT:
+  Celebrated literary prose essay analyzing the historical standing, matrilineal loom traditions, and modern leadership of Tangkhul women.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL LITERARY TEXT / STANZAS:
+--------------------------------------------------------------------------------
+  Tangkhul shanao-wui mirin hi kaphung-ramwui khararchan eili ngalung kacham thada pamya.
+  Chiyan-chikaning va-chingkha shanaonao meiphung-li pamda avawui tui eili khamashung ngashan mirin kasak theilaka.
+
+  Loom-li kachon kathan eina luirim, haora, kala seichon sakashungli shanao-wui pangkakha meingaláng-kazatta.
+  Modern education eina church ministry vashungli Tangkhul shanaonao leadership, research, kala literary writing-li phung-ngathang kazingli khaláng-haowa.
+
+  Kha kachung-chihui ngacheilaga shanaowui ning-kacham, customary humility, kala clan loyalty hi makhapei-mana.
+  Essay hi Tangkhul shanao-wui historical transition, cultural dignity, kala literary agency-li khamatha eina chithei-pida.
+
+--------------------------------------------------------------------------------
+ENGLISH POETIC TRANSLATION & SCHOLARLY RENDERING:
+--------------------------------------------------------------------------------
+  The life and journey of Tangkhul women forms the quiet yet unshakable foundation of our mountain society.
+  Through changing seasons and decades, women gathered around the hearth, learning ancestral integrity and wisdom from elder mothers.
+  At the backstrap loom, weaving the intricate stripes of Luirim and Haora shawls, women documented the living history of their clans.
+  With the advent of modern education and church leadership, Tangkhul women have risen to high prominence in scholarship, research, and literature.
+  Yet amidst all modern progress, the core virtues of Tangkhul womanhood—quiet resilience, customary dignity, and clan loyalty—remain steadfast.
+  This literary essay serves as a compelling exploration of historical transition, feminine agency, and cultural continuity.
+
+--------------------------------------------------------------------------------
+LITERARY THEMES & MOTIFS:
+--------------------------------------------------------------------------------
+  * Literary prose and cultural essay examining Tangkhul women's lived experiences
+  * The backstrap loom as a medium of artistic agency and historical record
+  * Transition from traditional village society to modern academic and public leadership
+  * Preservation of customary feminine poise and ethical integrity amidst modernization
+
+STRUCTURE & POETIC METER: Reflective literary essay in structured prose sections with analytical commentary and cultural anecdotes.
+
+CRITICAL APPRECIATION & COMMENTARY:
+  Authored by esteemed researcher and writer Pamkhuila Shaiza. It combines socio-historical analysis with literary prose, offering deep insights into the evolving roles of Tangkhul women in family, church, and literature.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL POETIC & LITERARY VOCABULARY:
+--------------------------------------------------------------------------------
+  * Shanao mirin           : The lived experience, biography, and cultural standing of Tangkhul women
+  * Pangkakha              : Indomitable strength, creative endurance, resilience
+  * Meiphung pam           : Gathering around the domestic hearth for moral education
+  * Literary agency        : The power to author, preserve, and reshape community narratives
+
+================================================================================
+END OF RECORD: LIT-STRY-004 - Tangkhul Language Library Digital Archive
+================================================================================

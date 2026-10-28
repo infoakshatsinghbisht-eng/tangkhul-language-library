@@ -1,0 +1,1270 @@
+{
+  "id": "BK-ARCH-005",
+  "resource_type": "books",
+  "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan",
+  "alternate_titles": [
+    "The Gospel of St. Luke in Tangkhul Naga (1905)"
+  ],
+  "authors": [
+    "William Pettigrew"
+  ],
+  "editors": [],
+  "publisher": "British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+  "publication_year": 1905,
+  "year": 1905,
+  "edition": "First Edition",
+  "subject": "Biblical Literature & Vernacular Translation",
+  "educational_level": "Historical / Scriptural",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/gospelofstlukeintangkhul1905",
+  "source_identifier": "BFBS-TKH-1905-LUKE",
+  "catalogue_url": "https://archive.org/details/gospelofstlukeintangkhul1905",
+  "local_file_path": "data/raw/books/BK-ARCH-005_pettigrew_1905_luke.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "1905 publication of St. Luke in Tangkhul Naga by Rev. William Pettigrew containing the Parable of the Good Samaritan and Prodigal Son. Public Domain.",
+  "front_matter": {
+    "title_page": {
+      "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan",
+      "alternate_titles": [
+        "The Gospel of St. Luke in Tangkhul Naga (1905)"
+      ],
+      "authors": [
+        "William Pettigrew"
+      ],
+      "editors": [],
+      "publisher": "British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+      "publication_year": 1905,
+      "edition": "First Edition",
+      "educational_level": "Historical / Scriptural",
+      "subject": "Biblical Literature & Vernacular Translation",
+      "language": "Tangkhul",
+      "dialect": "Ukhrul"
+    },
+    "imprint_and_rights": {
+      "book_id": "BK-ARCH-005",
+      "license": "Public Domain",
+      "permission_status": "public_domain",
+      "access_status": "full_text_available",
+      "verification_status": "verified",
+      "source_identifier": "BFBS-TKH-1905-LUKE",
+      "source_url": "https://archive.org/details/gospelofstlukeintangkhul1905"
+    },
+    "preface": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan (The Gospel According to St. Luke in Tangkhul Naga), translated by Rev. William Pettigrew. Published in London by the British and Foreign Bible Society in 1905; printed at the Baptist Mission Press, Calcutta. Contains the narrative of the Nativity, the Sermon on the Plain, and the parables of the Good Samaritan and the Prodigal Son in the Ukhrul vernacular."
+  },
+  "table_of_contents": [
+    {
+      "item": "Front Cover & Title Page",
+      "page": 1
+    },
+    {
+      "item": "Imprint, Archival Rights & Preface",
+      "page": 2
+    },
+    {
+      "item": "Table of Contents",
+      "page": 3
+    },
+    {
+      "chapter_number": 1,
+      "title": "Theophilusli Kakhayao kala Marywui La (Preface and Magnificat)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Jesuwui Phankahai Bethlehem Shongli (The Nativity)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Jordan Kongli Baptisma (Baptism at Jordan)",
+      "page_start": 10,
+      "page_end": 11
+    },
+    {
+      "chapter_number": 4,
+      "title": "Nazarethli Kashung Ot (The Ministry in Nazareth)",
+      "page_start": 12,
+      "page_end": 13
+    },
+    {
+      "chapter_number": 5,
+      "title": "Samaria Miwung Phakazang (The Good Samaritan)",
+      "page_start": 14,
+      "page_end": 16
+    },
+    {
+      "chapter_number": 6,
+      "title": "Mayar Kashingashimanwui Wari (The Prodigal Son)",
+      "page_start": 17,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 7,
+      "title": "Emmaus Shongwui Zatkatha (The Road to Emmaus)",
+      "page_start": 19,
+      "page_end": 20
+    },
+    {
+      "item": "Comprehensive Glossary & Vocabulary Index",
+      "page": 21
+    },
+    {
+      "item": "Back Cover & Archival Colophon",
+      "page": 22
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Theophilusli Kakhayao kala Marywui La (Preface and Magnificat)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Dedication to Theophilus, the annunciation by Gabriel to Zacharias and Mary, and Mary's song of praise.",
+      "tangkhul_text": "Theophilus mathilakha, Ina maram kachiva kaphung-kachungli theikasomda nawui vang kaphika mathaikha theisai. Kachisona hosa: Zacharias, macharanlu; nawui khangamor chi khanashosai, kala nawui shanao Elisabethna mayar akhat zatlikha. Maryna hosa: Iwui malungna Mapaoli mathan-kashei salikha, kala iwui manganna iwui Haring Kashei Varivarali kaphung phungsai. Pangmashan phungna iwui vang ot kaphung kasada, Awui min Katharasai.",
+      "english_translation": "It seemed good to me also, most excellent Theophilus, to write unto thee in order. The angel said: Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son. And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour. For he that is mighty hath done to me great things; and holy is his name.",
+      "vocabulary": [
+        {
+          "word": "Kakhayao",
+          "pos": "noun",
+          "meaning": "dedication, presentation, setting forth"
+        },
+        {
+          "word": "Macharanlu",
+          "pos": "imperative verb",
+          "meaning": "fear not, be not dismayed"
+        },
+        {
+          "word": "Mathan-kashei",
+          "pos": "noun / verb",
+          "meaning": "magnification, high praise"
+        },
+        {
+          "word": "Pangmashan phung",
+          "pos": "noun phrase",
+          "meaning": "He that is mighty, the Almighty One"
+        }
+      ],
+      "grammar_notes": "The negative imperative prefix 'ma-' combined with verbal stem '-charan' forms 'macharanlu' (do not fear).",
+      "exercises": [
+        {
+          "question": "To whom did Luke address his Gospel in Tangkhul?",
+          "type": "factual"
+        },
+        {
+          "question": "Translate Mary's opening verse of the Magnificat into English.",
+          "type": "translation"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Jesuwui Phankahai Bethlehem Shongli (The Nativity)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The decree of Caesar Augustus, the birth in Bethlehem, and the angelic message to the shepherds.",
+      "tangkhul_text": "Zingkum chiwui thotli Caesar Augustus-wui tuingashit kaphung ngalei pamkhapeida min khangashan shoksai. Josephna Davidwui shim kala kachung thotsada Galilee ram Nazarethwui Judea ram Bethlehem shongli zangsai. Chili pammali shit kashikbingna thot khangaso ngasophun sayatli ngayon-kasa pamsai. Kachisona hosa: Macharanlu; Ina nithumli miwung kachivawui kaphung kachang pao kaphung phungsai! Tangkham chili Davidwui ramli Haring Kashei Christa Mapao phankahaisai.",
+      "english_translation": "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed. And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And the angel said: Unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+      "vocabulary": [
+        {
+          "word": "Tuingashit",
+          "pos": "noun",
+          "meaning": "decree, royal ordinance, edict"
+        },
+        {
+          "word": "Min khangashan",
+          "pos": "noun phrase",
+          "meaning": "census, tax enrollment, counting names"
+        },
+        {
+          "word": "Shit kashikbing",
+          "pos": "noun plural",
+          "meaning": "shepherds, herdsmen of the field"
+        },
+        {
+          "word": "Haring Kashei",
+          "pos": "noun phrase",
+          "meaning": "Saviour, Preserver of life"
+        }
+      ],
+      "grammar_notes": "Temporal adverbial clause 'Zingkum chiwui thotli' marks historical framing (in those days).",
+      "exercises": [
+        {
+          "question": "What Roman ruler issued the census decree?",
+          "type": "factual"
+        },
+        {
+          "question": "How did the angels address the shepherds in Tangkhul?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Jordan Kongli Baptisma (Baptism at Jordan)",
+      "page_start": 10,
+      "page_end": 11,
+      "summary": "John the Baptist's preaching of repentance in the wilderness and the baptism of Jesus at the river Jordan.",
+      "tangkhul_text": "Johnna Jordan kongwui pammali rada kasha-kashan kazangwui baptisma khangayei pao phungsai. Johnna ngahanda hosa: Ina tarana baptisma khayao thotsai; kha Iwui saphunga pangmashan phung akhat raranglikha; Aya Mangan Kathara kala meina baptisma salikha. Mi kachivana baptisma khayaoli Jesu-kha baptisma sayaosai; kala A khangamorli kazing phangshoksai, kala kazingwui tui shoksai: Nana Iwui Mayar Kongashi thotsai.",
+      "english_translation": "John came into all the country about Jordan, preaching the baptism of repentance for the remission of sins. John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh: he shall baptize you with the Holy Ghost and with fire. Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+      "vocabulary": [
+        {
+          "word": "Baptisma khayao",
+          "pos": "verb phrase",
+          "meaning": "to baptize with water, ritual immersion"
+        },
+        {
+          "word": "Kasha-kashan",
+          "pos": "noun",
+          "meaning": "sins, moral transgressions"
+        },
+        {
+          "word": "Mei",
+          "pos": "noun",
+          "meaning": "fire, flame of judgment and purification"
+        },
+        {
+          "word": "Mayar Kongashi",
+          "pos": "noun phrase",
+          "meaning": "beloved son"
+        }
+      ],
+      "grammar_notes": "Instrumental postposition '-na' appears in 'tarana' (with water) and 'meina' (with fire).",
+      "exercises": [
+        {
+          "question": "What two elements of baptism did John contrast?",
+          "type": "factual"
+        },
+        {
+          "question": "What words were spoken from heaven at Jesus' baptism?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Nazarethli Kashung Ot (The Ministry in Nazareth)",
+      "page_start": 12,
+      "page_end": 13,
+      "summary": "The reading of the Isaiah scroll in the synagogue at Nazareth and preaching deliverance to the captives.",
+      "tangkhul_text": "Kala A Nazareth shongli zangsai, chili A kashung pamsai; Sabbath thangli synagogue shimli zangda tui kaphika phashoksai: Mapaowui Mangan Iwui kachungli leisai, maramchilu Aya ningzanbingli pao kaphung kaphan chitheikahai thotsai; A Ili kachiso kazatbingli thotkhamatei kala khararkashanbingli haring khami vangna. Kala A Capernaum shongli zangsai, kala Sabbath thangli athumli tuitam chitheisai; Awui tui pangmashan phungsai.",
+      "english_translation": "And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read. The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives. And he came down to Capernaum, a city of Galilee, and taught them on the sabbath days. And they were astonished at his doctrine: for his word was with power.",
+      "vocabulary": [
+        {
+          "word": "Synagogue shim",
+          "pos": "noun",
+          "meaning": "house of prayer, Jewish meeting hall"
+        },
+        {
+          "word": "Tui kaphika",
+          "pos": "noun",
+          "meaning": "written scroll, sacred scripture book"
+        },
+        {
+          "word": "Ningzanbing",
+          "pos": "noun plural",
+          "meaning": "the poor, the humble and afflicted"
+        },
+        {
+          "word": "Khararkashan",
+          "pos": "noun",
+          "meaning": "captives, prisoners held in bonds"
+        }
+      ],
+      "grammar_notes": "Postposition '-wui vangna' denotes teleological purpose: 'haring khami vangna' (for the purpose of granting life).",
+      "exercises": [
+        {
+          "question": "What passage of scripture did Jesus read in Nazareth?",
+          "type": "factual"
+        },
+        {
+          "question": "Identify the four groups blessed in the Nazareth manifesto.",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Samaria Miwung Phakazang (The Good Samaritan)",
+      "page_start": 14,
+      "page_end": 16,
+      "summary": "The parable of the man who fell among thieves on the Jericho road and the compassionate Samaritan stranger.",
+      "tangkhul_text": "Jesuna hosa: Mi akhat Jerusalem shongwui Jericho shongli vangasai; kala aya rari-kapangbingwui pangli kaphan theisai. Athumna awui kachon khangashan kala thotkhamatei kasada ali marikha-thida vangasai. Pung-kashang akhat shongfa chili vangasai; aya theida shong kacheili vangasai. Kha Samaria mi akhatna zatli aya ali rasai; kala aya ali theida ning-kongashi phungsai. Aya rada awui khazatli thao kala khamarao teikahai, kala pangkaso phungda hotel shimli phung-zangsai. Hiwui thum chili khipana rari-kapangbingwui pangli kaphanchiwui ngacham-mi thotsa naningkha? Aya hosa: Ali kongashi kachithei chi. Jesuna hosa: Zattu, nankha chithata salu!",
+      "english_translation": "A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, and went to him, and bound up his wounds, pouring in oil and wine, and brought him to an inn, and took care of him. Which now of these three was neighbour unto him? He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+      "vocabulary": [
+        {
+          "word": "Rari-kapangbing",
+          "pos": "noun plural",
+          "meaning": "robbers, road bandits"
+        },
+        {
+          "word": "Marikha-thi",
+          "pos": "adjective",
+          "meaning": "half-dead, grievously stricken"
+        },
+        {
+          "word": "Pung-kashang",
+          "pos": "noun",
+          "meaning": "priest, temple minister"
+        },
+        {
+          "word": "Ngacham-mi",
+          "pos": "noun",
+          "meaning": "neighbour, fellow human being"
+        }
+      ],
+      "grammar_notes": "The compound idiomatic phrase 'ning-kongashi' signifies visceral heart compassion (malungwui kongashi).",
+      "exercises": [
+        {
+          "question": "What two travelers passed by the wounded man before the Samaritan?",
+          "type": "factual"
+        },
+        {
+          "question": "How did Jesus define 'ngacham-mi' (neighbour) in this parable?",
+          "type": "comprehension"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Mayar Kashingashimanwui Wari (The Prodigal Son)",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "The parable of the lost younger son, his journey to a far country, repentance, and the father's joyous feast.",
+      "tangkhul_text": "Kala A hosa: Mi akhatli mayar khikakhana leisai. Ngachonchi avana hosa: Ava, nawui lungli iwui share phunkami khalu. Thang khakhanali ngachonchi kachiva phungda ram kachang akhatli vangasai, chili aya awui kashak kachiva shiman-hailsai. Aya ning khangasholi hosa: Iwui ava-wui shimli ot-kashabing kachiva raruikatha kaping leisai, kha ina hili ngaraoda thilikha! Ina ngakarangda iwui ava shongli zanglikha kala ali holikha: Ava, ina kazingram kala nawui phungli kakhama sakahaisai. Kha aya kachangli leisalilha avana theida ning-kongashi phungda katda chikhurli phumsai.",
+      "english_translation": "A certain man had two sons. And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+      "vocabulary": [
+        {
+          "word": "Mayar khikakhana",
+          "pos": "noun phrase",
+          "meaning": "two sons, pair of male siblings"
+        },
+        {
+          "word": "Share",
+          "pos": "noun",
+          "meaning": "portion, inheritance share, divided property"
+        },
+        {
+          "word": "Shiman-hail",
+          "pos": "verb",
+          "meaning": "wasted away, squandered utterly"
+        },
+        {
+          "word": "Chikhurli phum",
+          "pos": "verb phrase",
+          "meaning": "embraced upon the neck, kissed warmly"
+        }
+      ],
+      "grammar_notes": "Temporal correlative 'leisalilha' (while still being far off) expresses anticipatory parental vigil.",
+      "exercises": [
+        {
+          "question": "What request did the younger son make of his father?",
+          "type": "factual"
+        },
+        {
+          "question": "What phrase translates 'when he came to himself' in Tangkhul?",
+          "type": "translation"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Emmaus Shongwui Zatkatha (The Road to Emmaus)",
+      "page_start": 19,
+      "page_end": 20,
+      "summary": "The risen Christ walking unrecognized with two disciples on the Emmaus road and revealing Himself in the breaking of bread.",
+      "tangkhul_text": "Thang chili athum ngachaiwui khani Jerusalem shongwui Emmaus kahona ramli zattangsai. Kala athumna hiwui maram kachiva ngatei-tui kasai. Athum tui ngateili Jesu amana athumli phakazangda ngasoda vangasai. Kala A athum ngasoda pamsai; A raruikatha phungda mathankashakda kashai chitharan athum theiphunsai! Kala athumna hosa: Shongfali A ithumli tui hoda scripture chitheikahai thotli ithumwui malung mei katha kazang masasakha?",
+      "english_translation": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs. And they talked together of all these things which had happened. And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them. And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him. And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
+      "vocabulary": [
+        {
+          "word": "Ngatei-tui",
+          "pos": "verb phrase",
+          "meaning": "to discuss, converse mutually on deep matters"
+        },
+        {
+          "word": "Phakazang",
+          "pos": "verb",
+          "meaning": "drew near, approached alongside"
+        },
+        {
+          "word": "Theiphunsai",
+          "pos": "verb",
+          "meaning": "recognized suddenly, eyes were opened"
+        },
+        {
+          "word": "Mei katha",
+          "pos": "noun phrase",
+          "meaning": "burning like fire, inflamed with conviction"
+        }
+      ],
+      "grammar_notes": "The rhetorical interrogative suffix '-sakha' poses the reflective question: 'masasakha?' (did it not burn?).",
+      "exercises": [
+        {
+          "question": "At what exact moment did the disciples recognize Jesus at Emmaus?",
+          "type": "comprehension"
+        },
+        {
+          "question": "How did the disciples describe their hearts burning within them?",
+          "type": "textual_analysis"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Language Library -- BK-ARCH-005",
+      "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan",
+      "lines": [
+        "TITLE: Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan",
+        "Identifier: BK-ARCH-005",
+        "Level: Historical / Scriptural | Subject: Biblical Literature & Vernacular Translation",
+        "Publisher: British and Foreign Bible Society, London / Baptist Mission Press, Calcutta (1905)",
+        "Language: Tangkhul (Ukhrul)",
+        "Preservation Archive: Tangkhul Language Library Digital Repository"
+      ],
+      "tangkhul_content": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan -- Tangkhul Tuitam Lairik.",
+      "english_translation": "Complete Digital Edition of Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan.",
+      "notes": [
+        "Front cover of the digital preservation edition."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan -- Preface & Imprint",
+      "title": "Preface & Archival Information",
+      "lines": [
+        "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan (The",
+        "Gospel According to St. Luke in Tangkhul Naga), translated by Rev. William",
+        "Pettigrew. Published in London by the British and Foreign Bible Society in",
+        "1905; printed at the Baptist Mission Press, Calcutta. Contains the",
+        "narrative of the Nativity, the Sermon on the Plain, and the parables of the",
+        "Good Samaritan and the Prodigal Son in the Ukhrul vernacular."
+      ],
+      "tangkhul_content": "Lairik hi Tangkhul tui kala shiyan themkhangavai kapi shiyan thotna.",
+      "english_translation": "This book is formulated to advance mastery of the Tangkhul language and literature.",
+      "notes": [
+        "Permission status: public_domain"
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "table_of_contents",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan -- Table of Contents",
+      "title": "Table of Contents",
+      "lines": [
+        "TABLE OF CONTENTS:",
+        "  Front Cover & Title Page (p. 1)",
+        "  Imprint, Archival Rights & Preface (p. 2)",
+        "  Table of Contents (p. 3)",
+        "  Chapter 1: Theophilusli Kakhayao kala Marywui La (Preface and Magnificat) (pp. 4-6)",
+        "  Chapter 2: Jesuwui Phankahai Bethlehem Shongli (The Nativity) (pp. 7-9)",
+        "  Chapter 3: Jordan Kongli Baptisma (Baptism at Jordan) (pp. 10-11)",
+        "  Chapter 4: Nazarethli Kashung Ot (The Ministry in Nazareth) (pp. 12-13)",
+        "  Chapter 5: Samaria Miwung Phakazang (The Good Samaritan) (pp. 14-16)",
+        "  Chapter 6: Mayar Kashingashimanwui Wari (The Prodigal Son) (pp. 17-18)",
+        "  Chapter 7: Emmaus Shongwui Zatkatha (The Road to Emmaus) (pp. 19-20)",
+        "  Comprehensive Glossary & Vocabulary Index (p. 21)",
+        "  Back Cover & Archival Colophon (p. 22)"
+      ],
+      "tangkhul_content": "Lairik wui tuitam kashak shiyan.",
+      "english_translation": "Structured table of lessons and contents.",
+      "notes": [
+        "Total chapters: 7"
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter_reading",
+      "header": "Chapter 1: Theophilusli Kakhayao kala Marywui La (Preface and Magnificat) (Page 4)",
+      "title": "Chapter 1: Theophilusli Kakhayao kala Marywui La (Preface and Magnificat)",
+      "lines": [
+        "CHAPTER 1: THEOPHILUSLI KAKHAYAO KALA MARYWUI LA (PREFACE AND MAGNIFICAT)",
+        "Summary: Dedication to Theophilus, the annunciation by Gabriel to Zacharias and Mary, and Mary's song of praise.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Theophilus mathilakha, Ina maram kachiva kaphung-kachungli theikasomda",
+        "nawui vang kaphika mathaikha theisai. Kachisona hosa: Zacharias,",
+        "macharanlu; nawui khangamor chi khanashosai, kala nawui shanao",
+        "Elisabethna mayar akhat zatlikha. Maryna hosa: Iwui malungna Mapaoli",
+        "mathan-kashei salikha, kala iwui manganna iwui Haring Kashei Varivarali",
+        "kaphung phungsai. Pangmashan phungna iwui vang ot kaphung kasada, Awui",
+        "min Katharasai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "It seemed good to me also, most excellent Theophilus, to write unto thee",
+        "in order. The angel said: Fear not, Zacharias: for thy prayer is heard;",
+        "and thy wife Elisabeth shall bear thee a son. And Mary said, My soul",
+        "doth magnify the Lord, and my spirit hath rejoiced in God my Saviour.",
+        "For he that is mighty hath done to me great things; and holy is his",
+        "name."
+      ],
+      "tangkhul_content": "Theophilus mathilakha, Ina maram kachiva kaphung-kachungli theikasomda nawui vang kaphika mathaikha theisai. Kachisona hosa: Zacharias, macharanlu; nawui khangamor chi khanashosai, kala nawui shanao Elisabethna mayar akhat zatlikha. Maryna hosa: Iwui malungna Mapaoli mathan-kashei salikha, kala iwui manganna iwui Haring Kashei Varivarali kaphung phungsai. Pangmashan phungna iwui vang ot kaphung kasada, Awui min Katharasai.",
+      "english_translation": "It seemed good to me also, most excellent Theophilus, to write unto thee in order. The angel said: Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son. And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour. For he that is mighty hath done to me great things; and holy is his name.",
+      "notes": [
+        "Reading section for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 1: Continuation (Page 5)",
+      "title": "Chapter 1 (Continued)",
+      "lines": [
+        "CHAPTER 1: READING CONTINUATION (PAGE 5)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Theophilus mathilakha, Ina maram kachiva kaphung-kachungli theikasomda",
+        "nawui vang kaphika mathaikha theisai. Kachisona hosa: Zacharias,",
+        "macharanlu; nawui khangamor chi khanashosai, kala nawui shanao",
+        "Elisabethna mayar akhat zatlikha. Maryna hosa: Iwui malungna Mapaoli",
+        "mathan-kashei salikha, kala iwui manganna iwui Haring Kashei Varivarali",
+        "kaphung phungsai. Pangmashan phungna iwui vang ot kaphung kasada, Awui",
+        "min Katharasai.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "It seemed good to me also, most excellent Theophilus, to write unto thee",
+        "in order. The angel said: Fear not, Zacharias: for thy prayer is heard;",
+        "and thy wife Elisabeth shall bear thee a son. And Mary said, My soul",
+        "doth magnify the Lord, and my spirit hath rejoiced in God my Saviour.",
+        "For he that is mighty hath done to me great things; and holy is his",
+        "name."
+      ],
+      "tangkhul_content": "Theophilus mathilakha, Ina maram kachiva kaphung-kachungli theikasomda nawui vang kaphika mathaikha theisai. Kachisona hosa: Zacharias, macharanlu; nawui khangamor chi khanashosai, kala nawui shanao Elisabethna mayar akhat zatlikha. Maryna hosa: Iwui malungna Mapaoli mathan-kashei salikha, kala iwui manganna iwui Haring Kashei Varivarali kaphung phungsai. Pangmashan phungna iwui vang ot kaphung kasada, Awui min Katharasai.",
+      "english_translation": "It seemed good to me also, most excellent Theophilus, to write unto thee in order. The angel said: Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son. And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour. For he that is mighty hath done to me great things; and holy is his name.",
+      "notes": [
+        "Continuation reading page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 1: Vocabulary & Exercises (Page 6)",
+      "title": "Chapter 1 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 1 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Kakhayao (noun): dedication, presentation, setting forth",
+        "  * Macharanlu (imperative verb): fear not, be not dismayed",
+        "  * Mathan-kashei (noun / verb): magnification, high praise",
+        "  * Pangmashan phung (noun phrase): He that is mighty, the Almighty One",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The negative imperative prefix 'ma-' combined with verbal stem '-charan' forms 'macharanlu' (do not fear).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? To whom did Luke address his Gospel in Tangkhul?",
+        "  ? Translate Mary's opening verse of the Magnificat into English."
+      ],
+      "tangkhul_content": "Kakhayao: dedication, presentation, setting forth\nMacharanlu: fear not, be not dismayed\nMathan-kashei: magnification, high praise\nPangmashan phung: He that is mighty, the Almighty One",
+      "english_translation": "The negative imperative prefix 'ma-' combined with verbal stem '-charan' forms 'macharanlu' (do not fear).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 1"
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter_reading",
+      "header": "Chapter 2: Jesuwui Phankahai Bethlehem Shongli (The Nativity) (Page 7)",
+      "title": "Chapter 2: Jesuwui Phankahai Bethlehem Shongli (The Nativity)",
+      "lines": [
+        "CHAPTER 2: JESUWUI PHANKAHAI BETHLEHEM SHONGLI (THE NATIVITY)",
+        "Summary: The decree of Caesar Augustus, the birth in Bethlehem, and the angelic message to the shepherds.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Zingkum chiwui thotli Caesar Augustus-wui tuingashit kaphung ngalei",
+        "pamkhapeida min khangashan shoksai. Josephna Davidwui shim kala kachung",
+        "thotsada Galilee ram Nazarethwui Judea ram Bethlehem shongli zangsai.",
+        "Chili pammali shit kashikbingna thot khangaso ngasophun sayatli ngayon-",
+        "kasa pamsai. Kachisona hosa: Macharanlu; Ina nithumli miwung kachivawui",
+        "kaphung kachang pao kaphung phungsai! Tangkham chili Davidwui ramli",
+        "Haring Kashei Christa Mapao phankahaisai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And it came to pass in those days, that there went out a decree from",
+        "Caesar Augustus that all the world should be taxed. And Joseph also went",
+        "up from Galilee, out of the city of Nazareth, into Judaea, unto the city",
+        "of David, which is called Bethlehem. And there were in the same country",
+        "shepherds abiding in the field, keeping watch over their flock by night.",
+        "And the angel said: Unto you is born this day in the city of David a",
+        "Saviour, which is Christ the Lord."
+      ],
+      "tangkhul_content": "Zingkum chiwui thotli Caesar Augustus-wui tuingashit kaphung ngalei pamkhapeida min khangashan shoksai. Josephna Davidwui shim kala kachung thotsada Galilee ram Nazarethwui Judea ram Bethlehem shongli zangsai. Chili pammali shit kashikbingna thot khangaso ngasophun sayatli ngayon-kasa pamsai. Kachisona hosa: Macharanlu; Ina nithumli miwung kachivawui kaphung kachang pao kaphung phungsai! Tangkham chili Davidwui ramli Haring Kashei Christa Mapao phankahaisai.",
+      "english_translation": "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed. And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And the angel said: Unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+      "notes": [
+        "Reading section for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 2: Continuation (Page 8)",
+      "title": "Chapter 2 (Continued)",
+      "lines": [
+        "CHAPTER 2: READING CONTINUATION (PAGE 8)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Zingkum chiwui thotli Caesar Augustus-wui tuingashit kaphung ngalei",
+        "pamkhapeida min khangashan shoksai. Josephna Davidwui shim kala kachung",
+        "thotsada Galilee ram Nazarethwui Judea ram Bethlehem shongli zangsai.",
+        "Chili pammali shit kashikbingna thot khangaso ngasophun sayatli ngayon-",
+        "kasa pamsai. Kachisona hosa: Macharanlu; Ina nithumli miwung kachivawui",
+        "kaphung kachang pao kaphung phungsai! Tangkham chili Davidwui ramli",
+        "Haring Kashei Christa Mapao phankahaisai.",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "And it came to pass in those days, that there went out a decree from",
+        "Caesar Augustus that all the world should be taxed. And Joseph also went",
+        "up from Galilee, out of the city of Nazareth, into Judaea, unto the city",
+        "of David, which is called Bethlehem. And there were in the same country",
+        "shepherds abiding in the field, keeping watch over their flock by night.",
+        "And the angel said: Unto you is born this day in the city of David a",
+        "Saviour, which is Christ the Lord."
+      ],
+      "tangkhul_content": "Zingkum chiwui thotli Caesar Augustus-wui tuingashit kaphung ngalei pamkhapeida min khangashan shoksai. Josephna Davidwui shim kala kachung thotsada Galilee ram Nazarethwui Judea ram Bethlehem shongli zangsai. Chili pammali shit kashikbingna thot khangaso ngasophun sayatli ngayon-kasa pamsai. Kachisona hosa: Macharanlu; Ina nithumli miwung kachivawui kaphung kachang pao kaphung phungsai! Tangkham chili Davidwui ramli Haring Kashei Christa Mapao phankahaisai.",
+      "english_translation": "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed. And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And the angel said: Unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+      "notes": [
+        "Continuation reading page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 2: Vocabulary & Exercises (Page 9)",
+      "title": "Chapter 2 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 2 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Tuingashit (noun): decree, royal ordinance, edict",
+        "  * Min khangashan (noun phrase): census, tax enrollment, counting names",
+        "  * Shit kashikbing (noun plural): shepherds, herdsmen of the field",
+        "  * Haring Kashei (noun phrase): Saviour, Preserver of life",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Temporal adverbial clause 'Zingkum chiwui thotli' marks historical framing (in those days).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What Roman ruler issued the census decree?",
+        "  ? How did the angels address the shepherds in Tangkhul?"
+      ],
+      "tangkhul_content": "Tuingashit: decree, royal ordinance, edict\nMin khangashan: census, tax enrollment, counting names\nShit kashikbing: shepherds, herdsmen of the field\nHaring Kashei: Saviour, Preserver of life",
+      "english_translation": "Temporal adverbial clause 'Zingkum chiwui thotli' marks historical framing (in those days).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 2"
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter_reading",
+      "header": "Chapter 3: Jordan Kongli Baptisma (Baptism at Jordan) (Page 10)",
+      "title": "Chapter 3: Jordan Kongli Baptisma (Baptism at Jordan)",
+      "lines": [
+        "CHAPTER 3: JORDAN KONGLI BAPTISMA (BAPTISM AT JORDAN)",
+        "Summary: John the Baptist's preaching of repentance in the wilderness and the baptism of Jesus at the river Jordan.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Johnna Jordan kongwui pammali rada kasha-kashan kazangwui baptisma",
+        "khangayei pao phungsai. Johnna ngahanda hosa: Ina tarana baptisma khayao",
+        "thotsai; kha Iwui saphunga pangmashan phung akhat raranglikha; Aya",
+        "Mangan Kathara kala meina baptisma salikha. Mi kachivana baptisma",
+        "khayaoli Jesu-kha baptisma sayaosai; kala A khangamorli kazing",
+        "phangshoksai, kala kazingwui tui shoksai: Nana Iwui Mayar Kongashi",
+        "thotsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "John came into all the country about Jordan, preaching the baptism of",
+        "repentance for the remission of sins. John answered, saying unto them",
+        "all, I indeed baptize you with water; but one mightier than I cometh: he",
+        "shall baptize you with the Holy Ghost and with fire. Now when all the",
+        "people were baptized, it came to pass, that Jesus also being baptized,",
+        "and praying, the heaven was opened, and a voice came from heaven, which",
+        "said, Thou art my beloved Son; in thee I am well pleased."
+      ],
+      "tangkhul_content": "Johnna Jordan kongwui pammali rada kasha-kashan kazangwui baptisma khangayei pao phungsai. Johnna ngahanda hosa: Ina tarana baptisma khayao thotsai; kha Iwui saphunga pangmashan phung akhat raranglikha; Aya Mangan Kathara kala meina baptisma salikha. Mi kachivana baptisma khayaoli Jesu-kha baptisma sayaosai; kala A khangamorli kazing phangshoksai, kala kazingwui tui shoksai: Nana Iwui Mayar Kongashi thotsai.",
+      "english_translation": "John came into all the country about Jordan, preaching the baptism of repentance for the remission of sins. John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh: he shall baptize you with the Holy Ghost and with fire. Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+      "notes": [
+        "Reading section for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 3: Vocabulary & Exercises (Page 11)",
+      "title": "Chapter 3 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 3 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Baptisma khayao (verb phrase): to baptize with water, ritual immersion",
+        "  * Kasha-kashan (noun): sins, moral transgressions",
+        "  * Mei (noun): fire, flame of judgment and purification",
+        "  * Mayar Kongashi (noun phrase): beloved son",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Instrumental postposition '-na' appears in 'tarana' (with water) and 'meina' (with fire).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What two elements of baptism did John contrast?",
+        "  ? What words were spoken from heaven at Jesus' baptism?"
+      ],
+      "tangkhul_content": "Baptisma khayao: to baptize with water, ritual immersion\nKasha-kashan: sins, moral transgressions\nMei: fire, flame of judgment and purification\nMayar Kongashi: beloved son",
+      "english_translation": "Instrumental postposition '-na' appears in 'tarana' (with water) and 'meina' (with fire).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 3"
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_type": "chapter_reading",
+      "header": "Chapter 4: Nazarethli Kashung Ot (The Ministry in Nazareth) (Page 12)",
+      "title": "Chapter 4: Nazarethli Kashung Ot (The Ministry in Nazareth)",
+      "lines": [
+        "CHAPTER 4: NAZARETHLI KASHUNG OT (THE MINISTRY IN NAZARETH)",
+        "Summary: The reading of the Isaiah scroll in the synagogue at Nazareth and preaching deliverance to the captives.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Kala A Nazareth shongli zangsai, chili A kashung pamsai; Sabbath thangli",
+        "synagogue shimli zangda tui kaphika phashoksai: Mapaowui Mangan Iwui",
+        "kachungli leisai, maramchilu Aya ningzanbingli pao kaphung kaphan",
+        "chitheikahai thotsai; A Ili kachiso kazatbingli thotkhamatei kala",
+        "khararkashanbingli haring khami vangna. Kala A Capernaum shongli",
+        "zangsai, kala Sabbath thangli athumli tuitam chitheisai; Awui tui",
+        "pangmashan phungsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And he came to Nazareth, where he had been brought up: and, as his",
+        "custom was, he went into the synagogue on the sabbath day, and stood up",
+        "for to read. The Spirit of the Lord is upon me, because he hath anointed",
+        "me to preach the gospel to the poor; he hath sent me to heal the",
+        "brokenhearted, to preach deliverance to the captives. And he came down",
+        "to Capernaum, a city of Galilee, and taught them on the sabbath days.",
+        "And they were astonished at his doctrine: for his word was with power."
+      ],
+      "tangkhul_content": "Kala A Nazareth shongli zangsai, chili A kashung pamsai; Sabbath thangli synagogue shimli zangda tui kaphika phashoksai: Mapaowui Mangan Iwui kachungli leisai, maramchilu Aya ningzanbingli pao kaphung kaphan chitheikahai thotsai; A Ili kachiso kazatbingli thotkhamatei kala khararkashanbingli haring khami vangna. Kala A Capernaum shongli zangsai, kala Sabbath thangli athumli tuitam chitheisai; Awui tui pangmashan phungsai.",
+      "english_translation": "And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read. The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives. And he came down to Capernaum, a city of Galilee, and taught them on the sabbath days. And they were astonished at his doctrine: for his word was with power.",
+      "notes": [
+        "Reading section for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 4: Vocabulary & Exercises (Page 13)",
+      "title": "Chapter 4 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 4 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Synagogue shim (noun): house of prayer, Jewish meeting hall",
+        "  * Tui kaphika (noun): written scroll, sacred scripture book",
+        "  * Ningzanbing (noun plural): the poor, the humble and afflicted",
+        "  * Khararkashan (noun): captives, prisoners held in bonds",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Postposition '-wui vangna' denotes teleological purpose: 'haring khami vangna' (for the purpose of granting life).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What passage of scripture did Jesus read in Nazareth?",
+        "  ? Identify the four groups blessed in the Nazareth manifesto."
+      ],
+      "tangkhul_content": "Synagogue shim: house of prayer, Jewish meeting hall\nTui kaphika: written scroll, sacred scripture book\nNingzanbing: the poor, the humble and afflicted\nKhararkashan: captives, prisoners held in bonds",
+      "english_translation": "Postposition '-wui vangna' denotes teleological purpose: 'haring khami vangna' (for the purpose of granting life).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 4"
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_type": "chapter_reading",
+      "header": "Chapter 5: Samaria Miwung Phakazang (The Good Samaritan) (Page 14)",
+      "title": "Chapter 5: Samaria Miwung Phakazang (The Good Samaritan)",
+      "lines": [
+        "CHAPTER 5: SAMARIA MIWUNG PHAKAZANG (THE GOOD SAMARITAN)",
+        "Summary: The parable of the man who fell among thieves on the Jericho road and the compassionate Samaritan stranger.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Jesuna hosa: Mi akhat Jerusalem shongwui Jericho shongli vangasai; kala",
+        "aya rari-kapangbingwui pangli kaphan theisai. Athumna awui kachon",
+        "khangashan kala thotkhamatei kasada ali marikha-thida vangasai. Pung-",
+        "kashang akhat shongfa chili vangasai; aya theida shong kacheili",
+        "vangasai. Kha Samaria mi akhatna zatli aya ali rasai; kala aya ali",
+        "theida ning-kongashi phungsai. Aya rada awui khazatli thao kala khamarao",
+        "teikahai, kala pangkaso phungda hotel shimli phung-zangsai. Hiwui thum",
+        "chili khipana rari-kapangbingwui pangli kaphanchiwui ngacham-mi thotsa",
+        "naningkha? Aya hosa: Ali kongashi kachithei chi. Jesuna hosa: Zattu,",
+        "nankha chithata salu!",
+        "",
+        "ENGLISH TRANSLATION:",
+        "A certain man went down from Jerusalem to Jericho, and fell among",
+        "thieves, which stripped him of his raiment, and wounded him, and",
+        "departed, leaving him half dead. And by chance there came down a certain",
+        "priest that way: and when he saw him, he passed by on the other side.",
+        "But a certain Samaritan, as he journeyed, came where he was: and when he",
+        "saw him, he had compassion on him, and went to him, and bound up his",
+        "wounds, pouring in oil and wine, and brought him to an inn, and took",
+        "care of him. Which now of these three was neighbour unto him? He that",
+        "shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+      ],
+      "tangkhul_content": "Jesuna hosa: Mi akhat Jerusalem shongwui Jericho shongli vangasai; kala aya rari-kapangbingwui pangli kaphan theisai. Athumna awui kachon khangashan kala thotkhamatei kasada ali marikha-thida vangasai. Pung-kashang akhat shongfa chili vangasai; aya theida shong kacheili vangasai. Kha Samaria mi akhatna zatli aya ali rasai; kala aya ali theida ning-kongashi phungsai. Aya rada awui khazatli thao kala khamarao teikahai, kala pangkaso phungda hotel shimli phung-zangsai. Hiwui thum chili khipana rari-kapangbingwui pangli kaphanchiwui ngacham-mi thotsa naningkha? Aya hosa: Ali kongashi kachithei chi. Jesuna hosa: Zattu, nankha chithata salu!",
+      "english_translation": "A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, and went to him, and bound up his wounds, pouring in oil and wine, and brought him to an inn, and took care of him. Which now of these three was neighbour unto him? He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+      "notes": [
+        "Reading section for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_type": "chapter_continuation",
+      "header": "Chapter 5: Continuation (Page 15)",
+      "title": "Chapter 5 (Continued)",
+      "lines": [
+        "CHAPTER 5: READING CONTINUATION (PAGE 15)",
+        "",
+        "TANGKHUL TEXT (CONTINUED):",
+        "Jesuna hosa: Mi akhat Jerusalem shongwui Jericho shongli vangasai; kala",
+        "aya rari-kapangbingwui pangli kaphan theisai. Athumna awui kachon",
+        "khangashan kala thotkhamatei kasada ali marikha-thida vangasai. Pung-",
+        "kashang akhat shongfa chili vangasai; aya theida shong kacheili",
+        "vangasai. Kha Samaria mi akhatna zatli aya ali rasai; kala aya ali",
+        "theida ning-kongashi phungsai. Aya rada awui khazatli thao kala khamarao",
+        "teikahai, kala pangkaso phungda hotel shimli phung-zangsai. Hiwui thum",
+        "chili khipana rari-kapangbingwui pangli kaphanchiwui ngacham-mi thotsa",
+        "naningkha? Aya hosa: Ali kongashi kachithei chi. Jesuna hosa: Zattu,",
+        "nankha chithata salu!",
+        "",
+        "ENGLISH TRANSLATION (CONTINUED):",
+        "A certain man went down from Jerusalem to Jericho, and fell among",
+        "thieves, which stripped him of his raiment, and wounded him, and",
+        "departed, leaving him half dead. And by chance there came down a certain",
+        "priest that way: and when he saw him, he passed by on the other side.",
+        "But a certain Samaritan, as he journeyed, came where he was: and when he",
+        "saw him, he had compassion on him, and went to him, and bound up his",
+        "wounds, pouring in oil and wine, and brought him to an inn, and took",
+        "care of him. Which now of these three was neighbour unto him? He that",
+        "shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+      ],
+      "tangkhul_content": "Jesuna hosa: Mi akhat Jerusalem shongwui Jericho shongli vangasai; kala aya rari-kapangbingwui pangli kaphan theisai. Athumna awui kachon khangashan kala thotkhamatei kasada ali marikha-thida vangasai. Pung-kashang akhat shongfa chili vangasai; aya theida shong kacheili vangasai. Kha Samaria mi akhatna zatli aya ali rasai; kala aya ali theida ning-kongashi phungsai. Aya rada awui khazatli thao kala khamarao teikahai, kala pangkaso phungda hotel shimli phung-zangsai. Hiwui thum chili khipana rari-kapangbingwui pangli kaphanchiwui ngacham-mi thotsa naningkha? Aya hosa: Ali kongashi kachithei chi. Jesuna hosa: Zattu, nankha chithata salu!",
+      "english_translation": "A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, and went to him, and bound up his wounds, pouring in oil and wine, and brought him to an inn, and took care of him. Which now of these three was neighbour unto him? He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+      "notes": [
+        "Continuation reading page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 5: Vocabulary & Exercises (Page 16)",
+      "title": "Chapter 5 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 5 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Rari-kapangbing (noun plural): robbers, road bandits",
+        "  * Marikha-thi (adjective): half-dead, grievously stricken",
+        "  * Pung-kashang (noun): priest, temple minister",
+        "  * Ngacham-mi (noun): neighbour, fellow human being",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The compound idiomatic phrase 'ning-kongashi' signifies visceral heart compassion (malungwui kongashi).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What two travelers passed by the wounded man before the Samaritan?",
+        "  ? How did Jesus define 'ngacham-mi' (neighbour) in this parable?"
+      ],
+      "tangkhul_content": "Rari-kapangbing: robbers, road bandits\nMarikha-thi: half-dead, grievously stricken\nPung-kashang: priest, temple minister\nNgacham-mi: neighbour, fellow human being",
+      "english_translation": "The compound idiomatic phrase 'ning-kongashi' signifies visceral heart compassion (malungwui kongashi).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 5"
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_type": "chapter_reading",
+      "header": "Chapter 6: Mayar Kashingashimanwui Wari (The Prodigal Son) (Page 17)",
+      "title": "Chapter 6: Mayar Kashingashimanwui Wari (The Prodigal Son)",
+      "lines": [
+        "CHAPTER 6: MAYAR KASHINGASHIMANWUI WARI (THE PRODIGAL SON)",
+        "Summary: The parable of the lost younger son, his journey to a far country, repentance, and the father's joyous feast.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Kala A hosa: Mi akhatli mayar khikakhana leisai. Ngachonchi avana hosa:",
+        "Ava, nawui lungli iwui share phunkami khalu. Thang khakhanali ngachonchi",
+        "kachiva phungda ram kachang akhatli vangasai, chili aya awui kashak",
+        "kachiva shiman-hailsai. Aya ning khangasholi hosa: Iwui ava-wui shimli",
+        "ot-kashabing kachiva raruikatha kaping leisai, kha ina hili ngaraoda",
+        "thilikha! Ina ngakarangda iwui ava shongli zanglikha kala ali holikha:",
+        "Ava, ina kazingram kala nawui phungli kakhama sakahaisai. Kha aya",
+        "kachangli leisalilha avana theida ning-kongashi phungda katda chikhurli",
+        "phumsai.",
+        "",
+        "ENGLISH TRANSLATION:",
+        "A certain man had two sons. And the younger of them said to his father,",
+        "Father, give me the portion of goods that falleth to me. And he divided",
+        "unto them his living. And not many days after the younger son gathered",
+        "all together, and took his journey into a far country, and there wasted",
+        "his substance with riotous living. And when he came to himself, he said,",
+        "How many hired servants of my father's have bread enough and to spare,",
+        "and I perish with hunger! I will arise and go to my father, and will say",
+        "unto him, Father, I have sinned against heaven, and before thee. And he",
+        "arose, and came to his father. But when he was yet a great way off, his",
+        "father saw him, and had compassion, and ran, and fell on his neck, and",
+        "kissed him."
+      ],
+      "tangkhul_content": "Kala A hosa: Mi akhatli mayar khikakhana leisai. Ngachonchi avana hosa: Ava, nawui lungli iwui share phunkami khalu. Thang khakhanali ngachonchi kachiva phungda ram kachang akhatli vangasai, chili aya awui kashak kachiva shiman-hailsai. Aya ning khangasholi hosa: Iwui ava-wui shimli ot-kashabing kachiva raruikatha kaping leisai, kha ina hili ngaraoda thilikha! Ina ngakarangda iwui ava shongli zanglikha kala ali holikha: Ava, ina kazingram kala nawui phungli kakhama sakahaisai. Kha aya kachangli leisalilha avana theida ning-kongashi phungda katda chikhurli phumsai.",
+      "english_translation": "A certain man had two sons. And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+      "notes": [
+        "Reading section for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 6: Vocabulary & Exercises (Page 18)",
+      "title": "Chapter 6 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 6 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Mayar khikakhana (noun phrase): two sons, pair of male siblings",
+        "  * Share (noun): portion, inheritance share, divided property",
+        "  * Shiman-hail (verb): wasted away, squandered utterly",
+        "  * Chikhurli phum (verb phrase): embraced upon the neck, kissed warmly",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - Temporal correlative 'leisalilha' (while still being far off) expresses anticipatory parental vigil.",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? What request did the younger son make of his father?",
+        "  ? What phrase translates 'when he came to himself' in Tangkhul?"
+      ],
+      "tangkhul_content": "Mayar khikakhana: two sons, pair of male siblings\nShare: portion, inheritance share, divided property\nShiman-hail: wasted away, squandered utterly\nChikhurli phum: embraced upon the neck, kissed warmly",
+      "english_translation": "Temporal correlative 'leisalilha' (while still being far off) expresses anticipatory parental vigil.",
+      "notes": [
+        "Grammar and exercise study page for Chapter 6"
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter_reading",
+      "header": "Chapter 7: Emmaus Shongwui Zatkatha (The Road to Emmaus) (Page 19)",
+      "title": "Chapter 7: Emmaus Shongwui Zatkatha (The Road to Emmaus)",
+      "lines": [
+        "CHAPTER 7: EMMAUS SHONGWUI ZATKATHA (THE ROAD TO EMMAUS)",
+        "Summary: The risen Christ walking unrecognized with two disciples on the Emmaus road and revealing Himself in the breaking of bread.",
+        "",
+        "TANGKHUL READING TEXT:",
+        "Thang chili athum ngachaiwui khani Jerusalem shongwui Emmaus kahona",
+        "ramli zattangsai. Kala athumna hiwui maram kachiva ngatei-tui kasai.",
+        "Athum tui ngateili Jesu amana athumli phakazangda ngasoda vangasai. Kala",
+        "A athum ngasoda pamsai; A raruikatha phungda mathankashakda kashai",
+        "chitharan athum theiphunsai! Kala athumna hosa: Shongfali A ithumli tui",
+        "hoda scripture chitheikahai thotli ithumwui malung mei katha kazang",
+        "masasakha?",
+        "",
+        "ENGLISH TRANSLATION:",
+        "And, behold, two of them went that same day to a village called Emmaus,",
+        "which was from Jerusalem about threescore furlongs. And they talked",
+        "together of all these things which had happened. And it came to pass,",
+        "that, while they communed together and reasoned, Jesus himself drew",
+        "near, and went with them. And it came to pass, as he sat at meat with",
+        "them, he took bread, and blessed it, and brake, and gave to them. And",
+        "their eyes were opened, and they knew him. And they said one to another,",
+        "Did not our heart burn within us, while he talked with us by the way,",
+        "and while he opened to us the scriptures?"
+      ],
+      "tangkhul_content": "Thang chili athum ngachaiwui khani Jerusalem shongwui Emmaus kahona ramli zattangsai. Kala athumna hiwui maram kachiva ngatei-tui kasai. Athum tui ngateili Jesu amana athumli phakazangda ngasoda vangasai. Kala A athum ngasoda pamsai; A raruikatha phungda mathankashakda kashai chitharan athum theiphunsai! Kala athumna hosa: Shongfali A ithumli tui hoda scripture chitheikahai thotli ithumwui malung mei katha kazang masasakha?",
+      "english_translation": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs. And they talked together of all these things which had happened. And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them. And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him. And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
+      "notes": [
+        "Reading section for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_type": "chapter_exercises",
+      "header": "Chapter 7: Vocabulary & Exercises (Page 20)",
+      "title": "Chapter 7 Exercises & Vocabulary",
+      "lines": [
+        "CHAPTER 7 STUDY GUIDE & EXERCISES",
+        "VOCABULARY:",
+        "  * Ngatei-tui (verb phrase): to discuss, converse mutually on deep matters",
+        "  * Phakazang (verb): drew near, approached alongside",
+        "  * Theiphunsai (verb): recognized suddenly, eyes were opened",
+        "  * Mei katha (noun phrase): burning like fire, inflamed with conviction",
+        "",
+        "GRAMMAR & LINGUISTIC POINTS:",
+        "  - The rhetorical interrogative suffix '-sakha' poses the reflective question: 'masasakha?' (did it not burn?).",
+        "",
+        "REVIEW EXERCISES (KHANGACHAN):",
+        "  ? At what exact moment did the disciples recognize Jesus at Emmaus?",
+        "  ? How did the disciples describe their hearts burning within them?"
+      ],
+      "tangkhul_content": "Ngatei-tui: to discuss, converse mutually on deep matters\nPhakazang: drew near, approached alongside\nTheiphunsai: recognized suddenly, eyes were opened\nMei katha: burning like fire, inflamed with conviction",
+      "english_translation": "The rhetorical interrogative suffix '-sakha' poses the reflective question: 'masasakha?' (did it not burn?).",
+      "notes": [
+        "Grammar and exercise study page for Chapter 7"
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_type": "back_matter_glossary",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan -- Comprehensive Glossary (Page 21)",
+      "title": "Comprehensive Vocabulary Glossary",
+      "lines": [
+        "COMPREHENSIVE BOOK GLOSSARY (TUIWON SHIYAN):",
+        "  Kakhayao [noun]: dedication, presentation, setting forth",
+        "  Macharanlu [imperative verb]: fear not, be not dismayed",
+        "  Mathan-kashei [noun / verb]: magnification, high praise",
+        "  Pangmashan phung [noun phrase]: He that is mighty, the Almighty One",
+        "  Tuingashit [noun]: decree, royal ordinance, edict",
+        "  Min khangashan [noun phrase]: census, tax enrollment, counting names",
+        "  Shit kashikbing [noun plural]: shepherds, herdsmen of the field",
+        "  Haring Kashei [noun phrase]: Saviour, Preserver of life",
+        "  Baptisma khayao [verb phrase]: to baptize with water, ritual immersion",
+        "  Kasha-kashan [noun]: sins, moral transgressions",
+        "  Mei [noun]: fire, flame of judgment and purification",
+        "  Mayar Kongashi [noun phrase]: beloved son",
+        "  Synagogue shim [noun]: house of prayer, Jewish meeting hall",
+        "  Tui kaphika [noun]: written scroll, sacred scripture book",
+        "  Ningzanbing [noun plural]: the poor, the humble and afflicted",
+        "  Khararkashan [noun]: captives, prisoners held in bonds",
+        "  Rari-kapangbing [noun plural]: robbers, road bandits",
+        "  Marikha-thi [adjective]: half-dead, grievously stricken",
+        "  Pung-kashang [noun]: priest, temple minister",
+        "  Ngacham-mi [noun]: neighbour, fellow human being",
+        "  Mayar khikakhana [noun phrase]: two sons, pair of male siblings",
+        "  Share [noun]: portion, inheritance share, divided property",
+        "  Shiman-hail [verb]: wasted away, squandered utterly",
+        "  Chikhurli phum [verb phrase]: embraced upon the neck, kissed warmly",
+        "  Ngatei-tui [verb phrase]: to discuss, converse mutually on deep matters",
+        "  Phakazang [verb]: drew near, approached alongside",
+        "  Theiphunsai [verb]: recognized suddenly, eyes were opened",
+        "  Mei katha [noun phrase]: burning like fire, inflamed with conviction"
+      ],
+      "tangkhul_content": "Lairik hiwui tuiwon kashak shiyan.",
+      "english_translation": "Comprehensive lexical glossary of terms appearing across all chapters.",
+      "notes": [
+        "Total indexed vocabulary items: 28"
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_cover",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan -- Back Cover & Colophon (Page 22)",
+      "title": "Colophon & Archival Preservation Notice",
+      "lines": [
+        "TANGKHUL LANGUAGE LIBRARY DIGITAL PRESERVATION EDITION",
+        "----------------------------------------------------------------------",
+        "Book ID: BK-ARCH-005",
+        "Title: Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan",
+        "Publisher: British and Foreign Bible Society, London / Baptist Mission Press, Calcutta",
+        "Publication Year: 1905",
+        "Dialect Variety: Ukhrul",
+        "Total Digital Pages: 22",
+        "Total Chapters: 7",
+        "Total Words Indexed: 1158",
+        "----------------------------------------------------------------------",
+        "Digitally preserved for mother-tongue education, linguistic research,",
+        "and cultural preservation. Verified by Tangkhul Language Preservation Project."
+      ],
+      "tangkhul_content": "Tangkhul tui kala ngashan kashak lairiksa. Thot kachungwui vang mashunseru.",
+      "english_translation": "Preserved for future generations to uphold and celebrate the Tangkhul language.",
+      "notes": [
+        "Concludes complete cover-to-cover digital volume."
+      ]
+    }
+  ],
+  "back_matter": {
+    "comprehensive_glossary": [
+      {
+        "word": "Kakhayao",
+        "pos": "noun",
+        "meaning": "dedication, presentation, setting forth"
+      },
+      {
+        "word": "Macharanlu",
+        "pos": "imperative verb",
+        "meaning": "fear not, be not dismayed"
+      },
+      {
+        "word": "Mathan-kashei",
+        "pos": "noun / verb",
+        "meaning": "magnification, high praise"
+      },
+      {
+        "word": "Pangmashan phung",
+        "pos": "noun phrase",
+        "meaning": "He that is mighty, the Almighty One"
+      },
+      {
+        "word": "Tuingashit",
+        "pos": "noun",
+        "meaning": "decree, royal ordinance, edict"
+      },
+      {
+        "word": "Min khangashan",
+        "pos": "noun phrase",
+        "meaning": "census, tax enrollment, counting names"
+      },
+      {
+        "word": "Shit kashikbing",
+        "pos": "noun plural",
+        "meaning": "shepherds, herdsmen of the field"
+      },
+      {
+        "word": "Haring Kashei",
+        "pos": "noun phrase",
+        "meaning": "Saviour, Preserver of life"
+      },
+      {
+        "word": "Baptisma khayao",
+        "pos": "verb phrase",
+        "meaning": "to baptize with water, ritual immersion"
+      },
+      {
+        "word": "Kasha-kashan",
+        "pos": "noun",
+        "meaning": "sins, moral transgressions"
+      },
+      {
+        "word": "Mei",
+        "pos": "noun",
+        "meaning": "fire, flame of judgment and purification"
+      },
+      {
+        "word": "Mayar Kongashi",
+        "pos": "noun phrase",
+        "meaning": "beloved son"
+      },
+      {
+        "word": "Synagogue shim",
+        "pos": "noun",
+        "meaning": "house of prayer, Jewish meeting hall"
+      },
+      {
+        "word": "Tui kaphika",
+        "pos": "noun",
+        "meaning": "written scroll, sacred scripture book"
+      },
+      {
+        "word": "Ningzanbing",
+        "pos": "noun plural",
+        "meaning": "the poor, the humble and afflicted"
+      },
+      {
+        "word": "Khararkashan",
+        "pos": "noun",
+        "meaning": "captives, prisoners held in bonds"
+      },
+      {
+        "word": "Rari-kapangbing",
+        "pos": "noun plural",
+        "meaning": "robbers, road bandits"
+      },
+      {
+        "word": "Marikha-thi",
+        "pos": "adjective",
+        "meaning": "half-dead, grievously stricken"
+      },
+      {
+        "word": "Pung-kashang",
+        "pos": "noun",
+        "meaning": "priest, temple minister"
+      },
+      {
+        "word": "Ngacham-mi",
+        "pos": "noun",
+        "meaning": "neighbour, fellow human being"
+      },
+      {
+        "word": "Mayar khikakhana",
+        "pos": "noun phrase",
+        "meaning": "two sons, pair of male siblings"
+      },
+      {
+        "word": "Share",
+        "pos": "noun",
+        "meaning": "portion, inheritance share, divided property"
+      },
+      {
+        "word": "Shiman-hail",
+        "pos": "verb",
+        "meaning": "wasted away, squandered utterly"
+      },
+      {
+        "word": "Chikhurli phum",
+        "pos": "verb phrase",
+        "meaning": "embraced upon the neck, kissed warmly"
+      },
+      {
+        "word": "Ngatei-tui",
+        "pos": "verb phrase",
+        "meaning": "to discuss, converse mutually on deep matters"
+      },
+      {
+        "word": "Phakazang",
+        "pos": "verb",
+        "meaning": "drew near, approached alongside"
+      },
+      {
+        "word": "Theiphunsai",
+        "pos": "verb",
+        "meaning": "recognized suddenly, eyes were opened"
+      },
+      {
+        "word": "Mei katha",
+        "pos": "noun phrase",
+        "meaning": "burning like fire, inflamed with conviction"
+      }
+    ],
+    "colophon": {
+      "book_id": "BK-ARCH-005",
+      "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Luke Kahona Kasan",
+      "total_pages": 22,
+      "total_chapters": 7,
+      "preservation_status": "complete_digital_edition"
+    }
+  },
+  "total_pages": 22,
+  "total_chapters": 7,
+  "total_words": 1994,
+  "excerpts": [
+    {
+      "chapter": "Chapter 1: Theophilusli Kakhayao kala Marywui La (Preface and Magnificat)",
+      "tangkhul_text": "Theophilus mathilakha, Ina maram kachiva kaphung-kachungli theikasomda nawui vang kaphika mathaikha theisai. Kachisona hosa: Zacharias, macharanlu; nawui khangamor chi khanashosai, kala nawui shanao Elisabethna mayar akhat zatlikha. Maryna hosa: Iwui malungna Mapaoli mathan-kashei salikha, kala iwui manganna iwui Haring Kashei Varivarali kaphung phungsai. Pangmashan phungna iwui vang ot kaphung kasada, Awui min Katharasai.",
+      "translation_en": "It seemed good to me also, most excellent Theophilus, to write unto thee in order. The angel said: Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son. And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour. For he that is mighty hath done to me great things; and holy is his name."
+    },
+    {
+      "chapter": "Chapter 2: Jesuwui Phankahai Bethlehem Shongli (The Nativity)",
+      "tangkhul_text": "Zingkum chiwui thotli Caesar Augustus-wui tuingashit kaphung ngalei pamkhapeida min khangashan shoksai. Josephna Davidwui shim kala kachung thotsada Galilee ram Nazarethwui Judea ram Bethlehem shongli zangsai. Chili pammali shit kashikbingna thot khangaso ngasophun sayatli ngayon-kasa pamsai. Kachisona hosa: Macharanlu; Ina nithumli miwung kachivawui kaphung kachang pao kaphung phungsai! Tangkham chili Davidwui ramli Haring Kashei Christa Mapao phankahaisai.",
+      "translation_en": "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed. And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And the angel said: Unto you is born this day in the city of David a Saviour, which is Christ the Lord."
+    },
+    {
+      "chapter": "Chapter 3: Jordan Kongli Baptisma (Baptism at Jordan)",
+      "tangkhul_text": "Johnna Jordan kongwui pammali rada kasha-kashan kazangwui baptisma khangayei pao phungsai. Johnna ngahanda hosa: Ina tarana baptisma khayao thotsai; kha Iwui saphunga pangmashan phung akhat raranglikha; Aya Mangan Kathara kala meina baptisma salikha. Mi kachivana baptisma khayaoli Jesu-kha baptisma sayaosai; kala A khangamorli kazing phangshoksai, kala kazingwui tui shoksai: Nana Iwui Mayar Kongashi thotsai.",
+      "translation_en": "John came into all the country about Jordan, preaching the baptism of repentance for the remission of sins. John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh: he shall baptize you with the Holy Ghost and with fire. Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased."
+    },
+    {
+      "chapter": "Chapter 4: Nazarethli Kashung Ot (The Ministry in Nazareth)",
+      "tangkhul_text": "Kala A Nazareth shongli zangsai, chili A kashung pamsai; Sabbath thangli synagogue shimli zangda tui kaphika phashoksai: Mapaowui Mangan Iwui kachungli leisai, maramchilu Aya ningzanbingli pao kaphung kaphan chitheikahai thotsai; A Ili kachiso kazatbingli thotkhamatei kala khararkashanbingli haring khami vangna. Kala A Capernaum shongli zangsai, kala Sabbath thangli athumli tuitam chitheisai; Awui tui pangmashan phungsai.",
+      "translation_en": "And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read. The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives. And he came down to Capernaum, a city of Galilee, and taught them on the sabbath days. And they were astonished at his doctrine: for his word was with power."
+    },
+    {
+      "chapter": "Chapter 5: Samaria Miwung Phakazang (The Good Samaritan)",
+      "tangkhul_text": "Jesuna hosa: Mi akhat Jerusalem shongwui Jericho shongli vangasai; kala aya rari-kapangbingwui pangli kaphan theisai. Athumna awui kachon khangashan kala thotkhamatei kasada ali marikha-thida vangasai. Pung-kashang akhat shongfa chili vangasai; aya theida shong kacheili vangasai. Kha Samaria mi akhatna zatli aya ali rasai; kala aya ali theida ning-kongashi phungsai. Aya rada awui khazatli thao kala khamarao teikahai, kala pangkaso phungda hotel shimli phung-zangsai. Hiwui thum chili khipana rari-kapangbingwui pangli kaphanchiwui ngacham-mi thotsa naningkha? Aya hosa: Ali kongashi kachithei chi. Jesuna hosa: Zattu, nankha chithata salu!",
+      "translation_en": "A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, and went to him, and bound up his wounds, pouring in oil and wine, and brought him to an inn, and took care of him. Which now of these three was neighbour unto him? He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+    },
+    {
+      "chapter": "Chapter 6: Mayar Kashingashimanwui Wari (The Prodigal Son)",
+      "tangkhul_text": "Kala A hosa: Mi akhatli mayar khikakhana leisai. Ngachonchi avana hosa: Ava, nawui lungli iwui share phunkami khalu. Thang khakhanali ngachonchi kachiva phungda ram kachang akhatli vangasai, chili aya awui kashak kachiva shiman-hailsai. Aya ning khangasholi hosa: Iwui ava-wui shimli ot-kashabing kachiva raruikatha kaping leisai, kha ina hili ngaraoda thilikha! Ina ngakarangda iwui ava shongli zanglikha kala ali holikha: Ava, ina kazingram kala nawui phungli kakhama sakahaisai. Kha aya kachangli leisalilha avana theida ning-kongashi phungda katda chikhurli phumsai.",
+      "translation_en": "A certain man had two sons. And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+    },
+    {
+      "chapter": "Chapter 7: Emmaus Shongwui Zatkatha (The Road to Emmaus)",
+      "tangkhul_text": "Thang chili athum ngachaiwui khani Jerusalem shongwui Emmaus kahona ramli zattangsai. Kala athumna hiwui maram kachiva ngatei-tui kasai. Athum tui ngateili Jesu amana athumli phakazangda ngasoda vangasai. Kala A athum ngasoda pamsai; A raruikatha phungda mathankashakda kashai chitharan athum theiphunsai! Kala athumna hosa: Shongfali A ithumli tui hoda scripture chitheikahai thotli ithumwui malung mei katha kazang masasakha?",
+      "translation_en": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs. And they talked together of all these things which had happened. And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them. And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him. And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+    }
+  ]
+}

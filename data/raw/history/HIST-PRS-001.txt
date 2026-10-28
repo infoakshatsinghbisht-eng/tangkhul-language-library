@@ -1,0 +1,67 @@
+================================================================================
+TANGKHUL HISTORICAL RECORD: REV. WILLIAM PETTIGREW (1869–1943)
+IDENTIFIER: HIST-PRS-001 | CATEGORY: PERSON
+================================================================================
+
+METADATA & PROVENANCE:
+  Title:                 Rev. William Pettigrew (1869–1943)
+  Title Translation:     Pioneering Missionary, Linguist, and Educator
+  Historical Category:   person
+  Event Date / Period:   1869–1943 | Colonial Period
+  Sort Year:             1869
+  Place / Settlement:    Ukhrul / Edinburgh [Ukhrul]
+  Dialect / Variety:     Ukhrul
+  Key Figures / Creator: Biographical Documentation (Pettigrew 1918, Horam 1977)
+  Publisher / Source:    Documented in Tangkhul Educational History
+  Source Identifier:     Pettigrew-Bio-1869
+  Source URL:            https://sec.bharatavani.in/tangkhul/jnanakosha
+  License & Clearance:   Public Domain (public_domain)
+  Verification Status:   verified
+
+HISTORICAL OVERVIEW & SUMMARY:
+  British educational missionary and linguist who lived in Ukhrul from 1896 to 1933. Reduced the Tangkhul Ukhrul dialect to Roman script, translated foundational texts, and authored the 1918 Grammar and Dictionary.
+
+--------------------------------------------------------------------------------
+INDIGENOUS TANGKHUL CHRONICLE / ORAL ACCOUNT:
+--------------------------------------------------------------------------------
+  Rev. William Pettigrew (1869–1943) British missionary kala linguist akhana Hunphunli 1896-1933 kum kaja pama.
+  Tangkhul tui Roman aksharli kachap-da dictionary, grammar book, kala Bible-wui gospel khamatha kachap shansangya.
+  Tangkhul mibingna athishangli 'Lairikwui Ava' (Father of Education) hithada ningyanganung.
+
+--------------------------------------------------------------------------------
+ENGLISH TRANSLATION & SCHOLARLY CONTEXT:
+--------------------------------------------------------------------------------
+  Rev. William Pettigrew (1869–1943) was a British educational missionary and linguist who resided in Ukhrul from 1896 to 1933.
+  He codified the Tangkhul spoken language into Roman script, authoring the seminal 1918 Grammar and Dictionary.
+  Remembered affectionately across the hills as 'Lairikwui Ava' (Father of Modern Education) for inaugurating formal schools and clinics.
+
+--------------------------------------------------------------------------------
+CHRONOLOGICAL MILESTONES & HISTORICAL STAGES:
+--------------------------------------------------------------------------------
+  1. January 5, 1869: Born in Edinburgh, Scotland.
+  2. 1890: Sent to India by the Arthington Aborigines Mission; studies Bengali and Manipuri.
+  3. 1896: Relocates to Ukhrul; founds school and medical dispensary.
+  4. 1909: Appointed Honorary Inspector of Schools for the Manipur Hill Areas.
+  5. 1918: Publishes monumental 'Tangkhul Naga Grammar and Dictionary' at Shillong.
+  6. January 19, 1943: Passes away in England, having devoted 37 years to Tangkhul linguistic development.
+
+KEY FIGURES & LEADERS:
+  Rev. William Pettigrew, Alice Goreham Pettigrew (Wife & educator), Hunphun Community
+
+GEOGRAPHICAL SCOPE & TOPOGRAPHY:
+  Edinburgh (Birth) - Ukhrul (Ministry) - London (Resting place)
+
+HISTORICAL SIGNIFICANCE & IMPACT:
+  Single-handedly pioneered Tangkhul lexicography, orthography, and the educational infrastructure of the Manipur hill regions.
+
+--------------------------------------------------------------------------------
+KEY TANGKHUL HISTORICAL TERMINOLOGY & GLOSSES:
+--------------------------------------------------------------------------------
+  * Lairikwui Ava          : Father of books / Father of education
+  * Kashung                : Fulfillment of mission / achievement
+  * Tui-phun               : Linguistic translation / carrying the word
+  * Phungchan              : Arrival / settlement among the people
+
+================================================================================
+END OF RECORD: HIST-PRS-001 - Tangkhul Language Library Digital Archive
+================================================================================

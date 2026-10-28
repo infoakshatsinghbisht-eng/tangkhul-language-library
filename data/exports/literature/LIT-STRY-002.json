@@ -1,0 +1,53 @@
+{
+  "id": "LIT-STRY-002",
+  "resource_type": "literature",
+  "title": "Kasomwoshi wui Shim",
+  "title_translation": "Kasomwoshi's Homestead",
+  "creator": "K.S. Kasomwoshi",
+  "author": "K.S. Kasomwoshi",
+  "year": 1991,
+  "publisher": "Kasomwoshi Publications, Ukhrul",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "village": "Kasom",
+  "category": "short_story",
+  "work_type": "short_story",
+  "genres": [
+    "short_story"
+  ],
+  "book_id": null,
+  "source_url": "https://sec.bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "Kasom-1991-KS",
+  "license": "Permitted Academic Use",
+  "permission_status": "permitted",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "local_path": "data/raw/literature/LIT-STRY-002.txt",
+  "notes": "Social realism short story portraying the transition of traditional village agriculture and household economy in the late 20th century.",
+  "indigenous_tangkhul_text": [
+    "Kasomwoshina ancestral homestead-li pamda terraced farming, cattle rearing, kala traditional crafts protect sakya.",
+    "Modern cash economy advance-eili, traditional barter (khamasit) kala barter-market customs transition depict sakya.",
+    "Shim-wui sanctity, elders-wui wisdom, kala sustainable ecological living-wui philosophy shitsangya."
+  ],
+  "english_translation_text": [
+    "Kasomwoshi tended his ancestral homestead with steadfast care, maintaining terraced fields, cattle, and woodcrafts.",
+    "As the modern cash economy penetrated the hills, he witnessed the gradual transformation of traditional mutual aid.",
+    "The story honors the sanctity of the family hearth, the wisdom of village elders, and sustainable ecological living."
+  ],
+  "literary_themes": [
+    "Socio-economic transformation of mountain agrarian livelihoods",
+    "The homestead (*Shim*) as the physical and spiritual anchor of kinship",
+    "Preserving traditional ecological wisdom amidst rapid modernization"
+  ],
+  "structure_and_meter": "Gentle realistic prose characterized by ethnographic authenticity, detailed domestic description, and quiet philosophical humor.",
+  "critical_commentary": "Published by K.S. Kasomwoshi in 1991, this work stands as a poignant documentation of Tangkhul village domestic life during the late 20th-century transition.",
+  "poetic_vocabulary_terms": {
+    "Shim": "Ancestral household, dwelling place, and lineage sanctuary",
+    "Khamasit": "Mutual cooperative labor sharing across village households",
+    "Kasom": "Southern Tangkhul mountainous settlement sector",
+    "Ringkaphaphong": "Sustained peace, health, and holistic flourishing"
+  },
+  "stanza_count": 3,
+  "line_count": 3,
+  "text_availability": "full_text"
+}

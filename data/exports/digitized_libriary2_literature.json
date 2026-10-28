@@ -1,0 +1,22 @@
+[
+  {
+    "id": "story_01",
+    "title_tangkhul": "Luklam Phila-vawui Tui",
+    "title_english": "The Story of the Chieftess of Luklam",
+    "title_hindi": "लुकलाम की मुखियाइन की कथा",
+    "type": "traditional_folktale",
+    "tangkhul_text": "A-chila kha Luklam phila-vashi chi-na a-shi-tui lu-ri-bam. Chi-wui eina mi-na a-li ngashit-laga shim-khun-li pam-ngasak-sai. Phila-va chi-na awun sa-bam-lala, a-wui ngashao-ngachei-wui vang mi-bingna a-li horkahai.",
+    "english_summary": "An ancient Tangkhul tale from Luklam village describing the reign of a proud female chief (Phila-va). When she became overly haughty, the villagers held counsel and left the village, leaving her isolated with her pride.",
+    "hindi_summary": "लुकलाम गाँव की एक प्राचीन तांगखुल लोककथा, जिसमें एक घमंडी महिला मुखिया (फिला-वा) का वर्णन है। जब उसका अहंकार अत्यधिक बढ़ गया, तो गाँव वालों ने गुप्त सभा की और गाँव छोड़ दिया, जिससे उसे अपने अहंकार का फल अकेले भोगना पड़ा।"
+  },
+  {
+    "id": "song_01",
+    "title_tangkhul": "Lu Khayei: Haorao Phanit Lu",
+    "title_english": "Traditional Tangkhul Folk Song: Haorao Festival Song",
+    "title_hindi": "पारंपरिक तांगखुल लोकगीत: हावराव महोत्सव गीत",
+    "type": "folk_song",
+    "tangkhul_text": "Kaphung ngalemli leikashi won,\nNgashun ngaya i nangli ngacham.\nI-wui ningli kashak leikashi,\nZimik-sho eina zingkum shurda.",
+    "english_summary": "A traditional festive folk lyric singing of love blooming amidst the green hills, longing through day and night from sunrise to every turning year.",
+    "hindi_summary": "पहाड़ियों के बीच खिलते प्रेम का पारंपरिक उत्सव लोकगीत, जिसमें दिन और रात, सूर्योदय से नए साल तक अनवरत प्रेम का स्मरण किया गया है।"
+  }
+]

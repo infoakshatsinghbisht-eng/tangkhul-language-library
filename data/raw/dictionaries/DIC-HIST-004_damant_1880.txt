@@ -1,0 +1,67 @@
+# Complete Digital Lexicographical Record: Notes on the Locality and Population of the Tribes on the North-Eastern Frontier of India: Tangkhul and Luhuppa Wordlist
+# Identifier: DIC-HIST-004
+# Primary Creator / Lexicographer: G. H. Damant
+# Publication Year: 1880
+# Publisher: Journal of the Royal Asiatic Society of Great Britain and Ireland, London
+# Language Pair: Tangkhul-English
+# Dialect Variety: Luhuppa / Central Tangkhul
+# Source Classification: wordlist
+# License: Public Domain
+# Permission Status: public_domain
+# Digital Preservation Archive: Tangkhul Language Library
+
+--- SECTION 1: BIBLIOGRAPHIC & HISTORICAL OVERVIEW ---
+TITLE: Notes on the Locality and Population of the Tribes on the North-Eastern Frontier of India: Tangkhul and Luhuppa Wordlist
+ALTERNATE TITLE: Tangkhul and Luhuppa Wordlist
+COMPILER / AUTHORS: G. H. Damant
+YEAR: 1880
+PUBLISHING BODY: Journal of the Royal Asiatic Society of Great Britain and Ireland, London
+DIALECT / VARIETY: Luhuppa / Central Tangkhul
+SOURCE IDENTIFIER: JRAS-Vol-XII-1880
+CANONICAL SOURCE URL: https://www.jstor.org/stable/25196859
+
+HISTORICAL & LEXICOGRAPHICAL BACKGROUND:
+Compiled by British frontier administrator G. H. Damant and published posthumously in the Journal of the Royal Asiatic Society of Great Britain and Ireland (New Series, Vol. 12, No. 2, 1880). Presents demographic surveys, geographic boundaries, and comparative vocabularies for hill tribes including the Tangkhul (Luhuppa). Provides crucial late 19th-century lexical data collected before the introduction of mission schools and the Roman literary standard.
+
+PHONOLOGICAL FRAMEWORK & ORTHOGRAPHY:
+Demonstrates 19th-century phonetic orthography and records customary institutional terms relating to cattle sacrifice, chieftainship, and mountain topography.
+
+--- SECTION 2: REPRESENTATIVE LEXICON & EXTRACTED HEADWORDS (10 ENTRIES) ---
+Entries extracted, normalized, and indexed with part of speech, glosses, citations, and examples:
+
+ENTRY  1. khamatha (adj) -- good, fine, noble, virtuous [Citation: p. 240]
+   Context / Example: Iram khamatha (Our village is honorable and good).
+
+ENTRY  2. kaphung (noun) -- mountain, hill range, high peak [Citation: p. 241]
+   Context / Example: Kaphung zanshor (Slopes of the mountain range).
+
+ENTRY  3. se (noun) -- mithun, domestic bovine, Bos frontalis [Citation: p. 242]
+   Context / Example: Se kakhayei (Gifting mithun during feast negotiations).
+
+ENTRY  4. sha (noun) -- wild game, animal, meat [Citation: p. 243]
+   Context / Example: Sha kakhang (Hunting wild quarry in the high forest).
+
+ENTRY  5. hui (noun) -- hunting dog, canine companion [Citation: p. 244]
+   Context / Example: Hui eina sha khangavai (Pursuing mountain game with hound).
+
+ENTRY  6. zingsho (noun) -- morning sun, daybreak, east [Citation: p. 245]
+   Context / Example: Zingsho kashok (Sunrise breaking over the hills).
+
+ENTRY  7. kachang (noun) -- moon, lunar month [Citation: p. 246]
+   Context / Example: Kachang kakhang (The bright full moon).
+
+ENTRY  8. sirak (noun) -- star, celestial light [Citation: p. 247]
+   Context / Example: Sirak ngalong (Stars shining in the clear night).
+
+ENTRY  9. haora (noun) -- traditional striped shawl, prestigious male cloth [Citation: p. 248]
+   Context / Example: Haora kakhon (Draping the prestigious warrior shawl).
+
+ENTRY 10. hangva (noun) -- village elders council, customary tribunal [Citation: p. 249]
+   Context / Example: Hangvana shiyan kakazip (The elders assembling to adjudicate laws).
+
+--- SECTION 3: COPYRIGHT, PERMISSION & CITATION ---
+License Classification: Public Domain
+Permission Tier: public_domain
+Access Status: full_text_available
+Citation Format: Tangkhul Language Library Digital Archive. G. H. Damant (1880). Notes on the Locality and Population of the Tribes on the North-Eastern Frontier of India: Tangkhul and Luhuppa Wordlist. Journal of the Royal Asiatic Society of Great Britain and Ireland, London.
+=======================================================================

@@ -24,3 +24,8 @@ def normalize_unicode(text: str) -> str:
 def sanitize_spacing(text: str) -> str:
     """Collapse extraneous internal whitespace while preserving line tokens."""
     return " ".join(text.split())
+
+
+def normalize_tangkhul_text(text: str) -> str:
+    """Normalize Tangkhul text using NFC Unicode and sanitized whitespace."""
+    return normalize_unicode(sanitize_spacing(text))

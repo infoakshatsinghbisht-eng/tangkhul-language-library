@@ -41,6 +41,9 @@ dev = [
     "pytest>=7.0",
     "ruff>=0.1.0"
 ]
+pdf = [
+    "pypdf>=4.0"
+]
 
 [project.scripts]
 tangkhul = "tangkhul_lib.cli:main"
@@ -49,7 +52,7 @@ tangkhul = "tangkhul_lib.cli:main"
 where = ["src"]
 
 [tool.setuptools.package-data]
-tangkhul_lib = ["py.typed"]
+tangkhul_lib = ["py.typed", "data/*"]
 
 [tool.pytest.ini_options]
 minversion = "7.0"
@@ -73,7 +76,11 @@ select = [
 ignore = []
 
 [tool.ruff.lint.per-file-ignores]
-"scripts/*" = ["E402"]
+"scripts/*" = ["E402", "E501"]
+"src/tangkhul_lib/books/builder.py" = ["E501"]
+"src/tangkhul_lib/books/new_books_data.py" = ["E501"]
+"src/tangkhul_lib/books/new_books_data_batch2.py" = ["E501"]
+
 
 [tool.ruff.lint.isort]
 known-first-party = ["tangkhul_lib"]

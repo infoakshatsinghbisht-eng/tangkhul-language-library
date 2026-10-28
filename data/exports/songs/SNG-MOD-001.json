@@ -1,0 +1,42 @@
+{
+  "id": "SNG-MOD-001",
+  "resource_type": "songs",
+  "title": "Saharwon Kapaiwon",
+  "alternate_titles": [],
+  "title_translation": "Saharwon Flower",
+  "singer": "Rewben Mashangva",
+  "lyricist": "Rewben Mashangva",
+  "composer": "Rewben Mashangva",
+  "collector": null,
+  "performers": [
+    "Rewben Mashangva"
+  ],
+  "year": null,
+  "village": "Choithar",
+  "dialect": "Standard Tangkhul",
+  "song_type": "folk",
+  "language": "Tangkhul",
+  "source_url": "https://tangkhullaa.com/",
+  "source_identifier": "TKL-RM-001",
+  "recording_url": null,
+  "lyrics_source_url": "https://tangkhullaa.com/",
+  "local_file_path": null,
+  "license": "Artist Copyright",
+  "permission_status": "pending",
+  "access_status": "metadata_only",
+  "verification_status": "verified",
+  "notes": "Acclaimed Naga folk-blues track blending traditional Tangkhul melody with acoustic guitar and folk harmonica.",
+  "lyrics_stanzas": [
+    {
+      "stanza_number": 1,
+      "lines_tangkhul": [
+        "Saharwon kapaiwon, kaphungli won kapha wonri.",
+        "Choithar ramwui ningyangla, leikashi khangatei lei."
+      ],
+      "lines_translation": [
+        "Saharwon gentle flower, blooming on the high mountain slopes.",
+        "Sweet delight of Choithar village, pure love unchanging through time."
+      ]
+    }
+  ]
+}
