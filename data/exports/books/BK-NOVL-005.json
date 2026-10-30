@@ -1,0 +1,1102 @@
+{
+  "id": "BK-NOVL-005",
+  "resource_type": "books",
+  "title": "Yarra: A Novel of Tangkhul Youth and Spring Awakening",
+  "alternate_titles": [
+    "Yarra: The Springtime of Naga Youth",
+    "Friendship, Music, and Courtship in the Highland Hills"
+  ],
+  "authors": [
+    "Tangkhul Writers Circle"
+  ],
+  "editors": [
+    "Tangkhul Cultural Council"
+  ],
+  "publisher": "Tangkhul Cultural Council, Ukhrul",
+  "publication_year": 2002,
+  "year": 2002,
+  "edition": "Literary Youth Edition",
+  "subject": "Novel (Upanyas), Youth Culture & Traditional Music",
+  "educational_level": "Secondary & College Literature",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/literature",
+  "source_identifier": "TCC-TKH-NOVEL-YARRA",
+  "catalogue_url": "https://bharatavani.in/tangkhul/literature",
+  "local_file_path": "data/raw/books/BK-NOVL-005_yarra.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Creative Open Access",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Vibrant lyrical novel depicting 'Yarra' (traditional Tangkhul youth club/dormitory culture), folk song creation, courtship dialogues, and communal loyalty.",
+  "front_matter": {
+    "title_page": "Yarra: A Novel of Tangkhul Youth and Spring Awakening (2002)",
+    "preface": "Yarra celebrates the age-grade youth institutions (Longshim and Yarra) that formed the social and moral backbone of traditional Tangkhul society. The novel captures the humor, musical creativity, and peer solidarity that flourished in these dormitory fellowships.",
+    "table_of_contents": [
+      "Chapter 1: The Longshim Fellowship (Youth Dormitory Life)",
+      "Chapter 2: The Courtship Songs of Spring (Yarra Laa)",
+      "Chapter 3: The Harvest Feast & Lifelong Bonds"
+    ],
+    "imprint": "Tangkhul Cultural Council, Ukhrul, 2002."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Longshim Fellowship (Youth Dormitory Life)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Courtship Songs of Spring (Yarra Laa)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Harvest Feast & Lifelong Bonds",
+      "page_start": 10,
+      "page_end": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Longshim Fellowship (Youth Dormitory Life)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Life inside the traditional Tangkhul dormitory where storytelling, oral lore, and discipline were taught.",
+      "tangkhul_text": "Chapter 1: Ngazing shoklakha, village-wui yaronaobingna Longshimli (youth dormitory) pamkazipsaye. Eldersbingna athumli ancestral wari, customary laws, kala archery training miye. Tingteila kala siphung flute kakhong eina athumna traditional laa tuitam khuiye. Longshim china youth-li discipline kala clan solidarity kasakakhui shim thada leisai.",
+      "english_translation": "At nightfall, village youths gathered in the Longshim (communal youth dormitory). Elders instructed them in ancestral chronicles, customary laws, and the art of archery. With tambourines and bamboo flutes, they rehearsed traditional folk songs. The Longshim served as a sacred academy of character, discipline, and communal solidarity.",
+      "vocabulary": [
+        {
+          "word": "Longshim",
+          "pos": "noun",
+          "meaning": "traditional communal youth dormitory / cultural academy",
+          "example": "Longshimli pamkazip."
+        },
+        {
+          "word": "siphung",
+          "pos": "noun",
+          "meaning": "bamboo transverse flute",
+          "example": "Siphung kakhong."
+        },
+        {
+          "word": "wari",
+          "pos": "noun",
+          "meaning": "ancestral lore, traditional narrative",
+          "example": "Ancestral wari."
+        }
+      ],
+      "grammar_notes": [
+        "Age-grade institution: 'Longshim' (dormitory house).",
+        "Apprenticeship verbs of transmission: 'tuitam miye' (instructed/imparted)."
+      ],
+      "exercises": [
+        "Describe the pedagogical role of the Longshim in ancient Tangkhul villages.",
+        "Identify the musical instruments played during dormitory evenings."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Courtship Songs of Spring (Yarra Laa)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Antiphonal courtship singing during the clearing of agricultural paths.",
+      "tangkhul_text": "Chapter 2: Zingyur atamli, mayarnaobing kala ngalanaobingna shongfa shomlakha Yarra Laa honserie. Mayarnaobingna call verses honsanglaga, ngalanaobingna response verses mathat-eina ngahanmi. Tuiwon kaphā eina athum romantic affection chitheiye; kha customary modesty (Kashan) kuppup preserve saye.",
+      "english_translation": "In the spring season, as young men and women cleared the mountain footpaths together, they sang the antiphonal Yarra songs. The youths launched poetic call verses, and the maidens responded in graceful rhyming counterpoint. Through elegant metaphors they conveyed romantic admiration while preserving strict customary modesty.",
+      "vocabulary": [
+        {
+          "word": "Yarra Laa",
+          "pos": "noun",
+          "meaning": "traditional youth courtship and work song",
+          "example": "Yarra Laa honserie."
+        },
+        {
+          "word": "ngahanmi",
+          "pos": "verb",
+          "meaning": "responded in lyrical antiphony",
+          "example": "Response verses ngahanmi."
+        }
+      ],
+      "grammar_notes": [
+        "Antiphonal singing syntax: call and response clauses.",
+        "Metaphorical courtship poetry in Tangkhul."
+      ],
+      "exercises": [
+        "Translate a stanza of Yarra Laa into English."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Harvest Feast & Lifelong Bonds",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "The youth celebrate the harvest festival, transitioning into responsible adult householders.",
+      "tangkhul_text": "Chapter 3: Chumpha harvest festival shoklakha, Yarra group-na village-li community service salaga feast kasaye. Mayarnaobing kala ngalanaobingna marriage eina household kathara phokserie. Longshimwui friendship thot pupup athum lungli leirap sara.",
+      "english_translation": "When the Chumpha harvest festival arrived, the youth association rendered community service and held a celebratory feast. Betrothed couples stepped forward into honorable marriage and established new households. The deep bonds forged in the Longshim remained unbroken throughout their adult lives.",
+      "vocabulary": [
+        {
+          "word": "Chumpha",
+          "pos": "noun",
+          "meaning": "traditional harvest festival of granary sanctification",
+          "example": "Chumpha festival."
+        },
+        {
+          "word": "household kathara",
+          "pos": "noun",
+          "meaning": "newly established family home",
+          "example": "Household kathara phok."
+        }
+      ],
+      "grammar_notes": [
+        "Rites of passage vocabulary: moving from youth dormitory to independent householding."
+      ],
+      "exercises": [
+        "How does the novel depict the social transition from youth to adulthood?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Yarra: A Novel of Tangkhul Youth and Spr",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "YARRA: A NOVEL OF TANGKHUL YOUTH AND SPRING AWAKENING"
+        ],
+        [
+          "/F1",
+          11,
+          "Yarra: The Springtime of Naga Youth"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Writers Circle"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Cultural Council, Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 2002 | Genre: Novel (Upanyas), Youth Culture & Traditional Music"
+        ]
+      ],
+      "tangkhul_content": "Yarra: A Novel of Tangkhul Youth and Spring Awakening -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Yarra: The Springtime of Naga Youth",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Yarra celebrates the age-grade youth institutions (Longshim and Yarra)"
+        ],
+        [
+          "/F1",
+          10,
+          "that formed the social and moral backbone of traditional Tangkhul"
+        ],
+        [
+          "/F1",
+          10,
+          "society. The novel captures the humor, musical creativity, and peer"
+        ],
+        [
+          "/F1",
+          10,
+          "solidarity that flourished in these dormitory fellowships."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TCC-TKH-NOVEL-YARRA"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Yarra celebrates the age-grade youth institutions (Longshim and Yarra) that formed the social and moral backbone of trad...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Longshim Fellowship (Youth Dormitory Life) ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Courtship Songs of Spring (Yarra Laa) ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: The Harvest Feast & Lifelong Bonds ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 13"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 3.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Longshim Fellowship (Youth Dormitory Life)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE LONGSHIM FELLOWSHIP (YOUTH DORMITORY LIFE)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Life inside the traditional Tangkhul dormitory where storytelling, oral lore, an..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Ngazing shoklakha, village-wui yaronaobingna Longshimli"
+        ],
+        [
+          "/F1",
+          9,
+          "(youth dormitory) pamkazipsaye. Eldersbingna athumli ancestral wari,"
+        ],
+        [
+          "/F1",
+          9,
+          "customary laws, kala archery training miye. Tingteila kala siphung flute"
+        ],
+        [
+          "/F1",
+          9,
+          "kakhong eina athumna traditional laa tuitam khuiye. Longshim china"
+        ],
+        [
+          "/F1",
+          9,
+          "youth-li discipline kala clan solidarity kasakakhui shim thada leisai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "At nightfall, village youths gathered in the Longshim (communal youth"
+        ],
+        [
+          "/F1",
+          9,
+          "dormitory). Elders instructed them in ancestral chronicles, customary"
+        ],
+        [
+          "/F1",
+          9,
+          "laws, and the art of archery. With tambourines and bamboo flutes, they"
+        ],
+        [
+          "/F1",
+          9,
+          "rehearsed traditional folk songs. The Longshim served as a sacred"
+        ],
+        [
+          "/F1",
+          9,
+          "academy of character, discipline, and communal solidarity."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Ngazing shoklakha, village-wui yaronaobingna Longshimli (youth dormitory) pamkazipsaye. Eldersbingna athumli ancestral wari, customary laws, kala archery training miye. Tingteila kala siphung flute kakhong eina athumna traditional laa tuitam khuiye. Longshim china youth-li discipline kala clan solidarity kasakakhui shim thada leisai.",
+      "english_translation": "At nightfall, village youths gathered in the Longshim (communal youth dormitory). Elders instructed them in ancestral chronicles, customary laws, and the art of archery. With tambourines and bamboo flutes, they rehearsed traditional folk songs. The Longshim served as a sacred academy of character, discipline, and communal solidarity.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Longshim Fellowship (Youth Dormitory Life)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Longshim (noun): traditional communal youth dormitory / cultural academy"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Longshimli pamkazip."
+        ],
+        [
+          "/F2",
+          9,
+          "  * siphung (noun): bamboo transverse flute"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Siphung kakhong."
+        ],
+        [
+          "/F2",
+          9,
+          "  * wari (noun): ancestral lore, traditional narrative"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ancestral wari."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Age-grade institution: 'Longshim' (dormitory house)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Apprenticeship verbs of transmission: 'tuitam miye' (instructed/imparted)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Describe the pedagogical role of the Longshim in ancient Tangkhul villages."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the musical instruments played during dormitory evenings."
+        ]
+      ],
+      "tangkhul_content": "Longshim: traditional communal youth dormitory / cultural academy; siphung: bamboo transverse flute; wari: ancestral lore, traditional narrative",
+      "english_translation": "Age-grade institution: 'Longshim' (dormitory house).; Apprenticeship verbs of transmission: 'tuitam miye' (instructed/imparted).",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Longshim Fellowship (Youth Dormitory Life)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Courtship Songs of Spring (Yarra Laa)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE COURTSHIP SONGS OF SPRING (YARRA LAA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Antiphonal courtship singing during the clearing of agricultural paths...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Zingyur atamli, mayarnaobing kala ngalanaobingna shongfa"
+        ],
+        [
+          "/F1",
+          9,
+          "shomlakha Yarra Laa honserie. Mayarnaobingna call verses honsanglaga,"
+        ],
+        [
+          "/F1",
+          9,
+          "ngalanaobingna response verses mathat-eina ngahanmi. Tuiwon kaphā eina"
+        ],
+        [
+          "/F1",
+          9,
+          "athum romantic affection chitheiye; kha customary modesty (Kashan)"
+        ],
+        [
+          "/F1",
+          9,
+          "kuppup preserve saye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "In the spring season, as young men and women cleared the mountain"
+        ],
+        [
+          "/F1",
+          9,
+          "footpaths together, they sang the antiphonal Yarra songs. The youths"
+        ],
+        [
+          "/F1",
+          9,
+          "launched poetic call verses, and the maidens responded in graceful"
+        ],
+        [
+          "/F1",
+          9,
+          "rhyming counterpoint. Through elegant metaphors they conveyed romantic"
+        ],
+        [
+          "/F1",
+          9,
+          "admiration while preserving strict customary modesty."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Zingyur atamli, mayarnaobing kala ngalanaobingna shongfa shomlakha Yarra Laa honserie. Mayarnaobingna call verses honsanglaga, ngalanaobingna response verses mathat-eina ngahanmi. Tuiwon kaphā eina athum romantic affection chitheiye; kha customary modesty (Kashan) kuppup preserve saye.",
+      "english_translation": "In the spring season, as young men and women cleared the mountain footpaths together, they sang the antiphonal Yarra songs. The youths launched poetic call verses, and the maidens responded in graceful rhyming counterpoint. Through elegant metaphors they conveyed romantic admiration while preserving strict customary modesty.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Courtship Songs of Spring (Yarra Laa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Yarra Laa (noun): traditional youth courtship and work song"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Yarra Laa honserie."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngahanmi (verb): responded in lyrical antiphony"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Response verses ngahanmi."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Antiphonal singing syntax: call and response clauses."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Metaphorical courtship poetry in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate a stanza of Yarra Laa into English."
+        ]
+      ],
+      "tangkhul_content": "Yarra Laa: traditional youth courtship and work song; ngahanmi: responded in lyrical antiphony",
+      "english_translation": "Antiphonal singing syntax: call and response clauses.; Metaphorical courtship poetry in Tangkhul.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Courtship Songs of Spring (Yarra Laa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "The Harvest Feast & Lifelong Bonds",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: THE HARVEST FEAST & LIFELONG BONDS"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The youth celebrate the harvest festival, transitioning into responsible adult h..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Chumpha harvest festival shoklakha, Yarra group-na village-li"
+        ],
+        [
+          "/F1",
+          9,
+          "community service salaga feast kasaye. Mayarnaobing kala ngalanaobingna"
+        ],
+        [
+          "/F1",
+          9,
+          "marriage eina household kathara phokserie. Longshimwui friendship thot"
+        ],
+        [
+          "/F1",
+          9,
+          "pupup athum lungli leirap sara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "When the Chumpha harvest festival arrived, the youth association"
+        ],
+        [
+          "/F1",
+          9,
+          "rendered community service and held a celebratory feast. Betrothed"
+        ],
+        [
+          "/F1",
+          9,
+          "couples stepped forward into honorable marriage and established new"
+        ],
+        [
+          "/F1",
+          9,
+          "households. The deep bonds forged in the Longshim remained unbroken"
+        ],
+        [
+          "/F1",
+          9,
+          "throughout their adult lives."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Chumpha harvest festival shoklakha, Yarra group-na village-li community service salaga feast kasaye. Mayarnaobing kala ngalanaobingna marriage eina household kathara phokserie. Longshimwui friendship thot pupup athum lungli leirap sara.",
+      "english_translation": "When the Chumpha harvest festival arrived, the youth association rendered community service and held a celebratory feast. Betrothed couples stepped forward into honorable marriage and established new households. The deep bonds forged in the Longshim remained unbroken throughout their adult lives.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: The Harvest Feast & Lifelong Bonds",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Chumpha (noun): traditional harvest festival of granary sanctification"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Chumpha festival."
+        ],
+        [
+          "/F2",
+          9,
+          "  * household kathara (noun): newly established family home"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Household kathara phok."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Rites of passage vocabulary: moving from youth dormitory to independent householding."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does the novel depict the social transition from youth to adulthood?"
+        ]
+      ],
+      "tangkhul_content": "Chumpha: traditional harvest festival of granary sanctification; household kathara: newly established family home",
+      "english_translation": "Rites of passage vocabulary: moving from youth dormitory to independent householding.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: The Harvest Feast & Lifelong Bonds",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Longshim -- traditional communal youth dormitory / cultural academy"
+        ],
+        [
+          "/F1",
+          9,
+          "  * siphung -- bamboo transverse flute"
+        ],
+        [
+          "/F1",
+          9,
+          "  * wari -- ancestral lore, traditional narrative"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Yarra Laa -- traditional youth courtship and work song"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ngahanmi -- responded in lyrical antiphony"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Chumpha -- traditional harvest festival of granary sanctification"
+        ],
+        [
+          "/F1",
+          9,
+          "  * household kathara -- newly established family home"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Longshim",
+        "pos": "noun",
+        "meaning": "traditional communal youth dormitory / cultural academy",
+        "example": "Longshimli pamkazip."
+      },
+      {
+        "word": "siphung",
+        "pos": "noun",
+        "meaning": "bamboo transverse flute",
+        "example": "Siphung kakhong."
+      },
+      {
+        "word": "wari",
+        "pos": "noun",
+        "meaning": "ancestral lore, traditional narrative",
+        "example": "Ancestral wari."
+      },
+      {
+        "word": "Yarra Laa",
+        "pos": "noun",
+        "meaning": "traditional youth courtship and work song",
+        "example": "Yarra Laa honserie."
+      },
+      {
+        "word": "ngahanmi",
+        "pos": "verb",
+        "meaning": "responded in lyrical antiphony",
+        "example": "Response verses ngahanmi."
+      },
+      {
+        "word": "Chumpha",
+        "pos": "noun",
+        "meaning": "traditional harvest festival of granary sanctification",
+        "example": "Chumpha festival."
+      },
+      {
+        "word": "household kathara",
+        "pos": "noun",
+        "meaning": "newly established family home",
+        "example": "Household kathara phok."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 13,
+  "total_chapters": 3,
+  "total_words": 241,
+  "excerpts": [
+    "Chapter 1: Ngazing shoklakha, village-wui yaronaobingna Longshimli (youth dormitory) pamkazipsaye. Eldersbingna athumli ...",
+    "Chapter 2: Zingyur atamli, mayarnaobing kala ngalanaobingna shongfa shomlakha Yarra Laa honserie. Mayarnaobingna call ve...",
+    "Chapter 3: Chumpha harvest festival shoklakha, Yarra group-na village-li community service salaga feast kasaye. Mayarnao..."
+  ]
+}

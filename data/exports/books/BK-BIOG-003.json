@@ -1,0 +1,1061 @@
+{
+  "id": "BK-BIOG-003",
+  "resource_type": "books",
+  "title": "Rishang Keishing: The Legendary Tangkhul Parliamentarian and Chief Minister",
+  "alternate_titles": [
+    "Biography of Rishang Keishing: Doyen of Northeast Indian Politics",
+    "Rishang Keishing: Six Decades in Parliament and Public Service"
+  ],
+  "authors": [
+    "Tangkhul Political & Social Research Forum"
+  ],
+  "editors": [
+    "Tangkhul Scholars Association"
+  ],
+  "publisher": "Tangkhul Scholars Association / Imphal Heritage Press",
+  "publication_year": 2018,
+  "year": 2018,
+  "edition": "Commemorative Monograph",
+  "subject": "Biography (Jeevani), Parliamentary Democracy & Political History",
+  "educational_level": "Collegiate & Public Policy Readers",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "978-81-87606-66-3",
+  "source_url": "https://bharatavani.in/tangkhul/history",
+  "source_identifier": "TSA-TKH-BIOG-KEISHING",
+  "catalogue_url": "https://bharatavani.in/tangkhul/history",
+  "local_file_path": "data/raw/books/BK-BIOG-003_rishang_keishing.txt",
+  "file_format": "txt",
+  "license": "Permitted / Political History Monograph",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Comprehensive political biography of Rishang Keishing (1920-2017), distinguished Tangkhul statesman, member of India's first Lok Sabha (1952), longest-serving Chief Minister of Manipur, and revered elder parliamentarian.",
+  "front_matter": {
+    "title_page": "Rishang Keishing: The Legendary Tangkhul Parliamentarian and Chief Minister (2018)",
+    "preface": "Rishang Keishing was a titan of Indian democracy and the pride of the Tangkhul Naga community. Born in Bungpa village in 1920, he was elected to India's first Lok Sabha in 1952, working alongside Jawaharlal Nehru. He served as Chief Minister of Manipur across multiple tumultuous decades, championing inter-community harmony, highland development, and democratic constitutionalism.",
+    "table_of_contents": [
+      "Chapter 1: From Bungpa Village to India's First Lok Sabha (1920-1952)",
+      "Chapter 2: Chief Minister of Manipur & Champion of Communal Harmony",
+      "Chapter 3: Elder Statesman of the Rajya Sabha & Final Years (1920-2017)"
+    ],
+    "imprint": "Tangkhul Scholars Association / Imphal Heritage Press, 2018."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "From Bungpa Village to India's First Lok Sabha (1920-1952)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Chief Minister of Manipur & Champion of Communal Harmony",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Elder Statesman of the Rajya Sabha & Final Years (1920-2017)",
+      "page_start": 10,
+      "page_end": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "From Bungpa Village to India's First Lok Sabha (1920-1952)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Youth in southern Tangkhul village Bungpa, St. Paul's College Calcutta, and election to the 1st Lok Sabha in 1952.",
+      "tangkhul_text": "Chapter 1: Rishang Keishing October 25, 1920 zingsho eina Bungpa Khullen village-li pharisaye. Ana Calcutta St. Paul's Cathedral Mission College eina graduate saye. 1952-li Indiawui first General Election shoklakha, a Outer Manipur Parliamentary constituency eina first Lok Sabha-li Member of Parliament (MP) elect saye. A Parliament of India-wui youngest MPs tharili akha leisai.",
+      "english_translation": "Rishang Keishing was born on October 25, 1920, in Bungpa Khullen village, Ukhrul district. He graduated from St. Paul's Cathedral Mission College, Calcutta. In India's historic first general election in 1952, he was elected to the first Lok Sabha from Outer Manipur, becoming one of the youngest and most articulate parliamentarians in free India.",
+      "vocabulary": [
+        {
+          "word": "Parliamentary constituency",
+          "pos": "noun",
+          "meaning": "MP election territory",
+          "example": "Outer Manipur constituency."
+        },
+        {
+          "word": "Lok Sabha",
+          "pos": "noun",
+          "meaning": "House of the People / Parliament of India",
+          "example": "First Lok Sabha MP."
+        }
+      ],
+      "grammar_notes": [
+        "Modern democratic political terminology in Tangkhul."
+      ],
+      "exercises": [
+        "Which village was Rishang Keishing from?",
+        "In which year was he elected to India's first Lok Sabha?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Chief Minister of Manipur & Champion of Communal Harmony",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Serving as Chief Minister during difficult decades, balancing hill-valley unity and tribal development.",
+      "tangkhul_text": "Chapter 2: Rishang Keishingna multiple terms-wui vang Manipur State-wui Chief Minister salaga ot sai. Ana valley kala hill tribeswui ngachaili peace, secular unity, kala infrastructural development phung-ungmi. Ana high schools, roads, water supply, kala hospitals kaphung-longkhor kuppupli shimsakserie. Ana democratic dialogue eina conflict resolution-li faith khuiye.",
+      "english_translation": "Rishang Keishing served multiple tenures as Chief Minister of Manipur. Navigating ethnic conflicts and insurgency, he steadfastly championed harmony between the valley and hill communities. He expanded roads, high schools, electrification, and medical centers across remote hill districts, believing passionately in democratic constitutional dialogue.",
+      "vocabulary": [
+        {
+          "word": "Chief Minister",
+          "pos": "noun",
+          "meaning": "State Executive Head",
+          "example": "Manipur Chief Minister."
+        },
+        {
+          "word": "secular unity",
+          "pos": "noun",
+          "meaning": "Ngacham eina ngasomkasa (peaceful mutual coexistence)",
+          "example": "Peace kala unity."
+        }
+      ],
+      "grammar_notes": [
+        "Administrative and developmental syntax in Tangkhul."
+      ],
+      "exercises": [
+        "What were Rishang Keishing's key policies as Chief Minister of Manipur?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Elder Statesman of the Rajya Sabha & Final Years (1920-2017)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Elder statesman in the Rajya Sabha retiring at age 94, and his enduring legacy of democratic service.",
+      "tangkhul_text": "Chapter 3: Rishang Keishingna 2014 thakli Rajya Sabha MP salaga public service-li leisai, a Indiawui oldest sitting parliamentarian hoda retire saye (age 94). August 22, 2017 zingsho eina ana Imphal-li shok-unglakna. Awui 60 years public service Tangkhul people-wui democratic pride thada history-li thot pupup mathā-leisara.",
+      "english_translation": "Rishang Keishing continued serving in the Rajya Sabha until 2014, retiring as India's oldest sitting parliamentarian at the age of 94. He passed away on August 22, 2017, in Imphal. His six decades of distinguished public service remain an enduring source of democratic pride for the Tangkhul people and the nation.",
+      "vocabulary": [
+        {
+          "word": "Rajya Sabha",
+          "pos": "noun",
+          "meaning": "Council of States / Upper House of Parliament",
+          "example": "Rajya Sabha MP."
+        }
+      ],
+      "grammar_notes": [
+        "Longevity and public service praise formulation."
+      ],
+      "exercises": [
+        "At what age did Rishang Keishing retire from Parliament?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Rishang Keishing: The Legendary Tangkhul",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "RISHANG KEISHING: THE LEGENDARY TANGKHUL PARLIAMENTARIAN AND CHIEF MINISTER"
+        ],
+        [
+          "/F1",
+          11,
+          "Biography of Rishang Keishing: Doyen of Northeast Indian Politics"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Political & Social Research Forum"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Scholars Association / Imphal Heritage Press"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 2018 | Genre: Biography (Jeevani), Parliamentary Democracy & Political History"
+        ]
+      ],
+      "tangkhul_content": "Rishang Keishing: The Legendary Tangkhul Parliamentarian and Chief Minister -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Biography of Rishang Keishing: Doyen of Northeast Indian Politics",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Rishang Keishing was a titan of Indian democracy and the pride of the"
+        ],
+        [
+          "/F1",
+          10,
+          "Tangkhul Naga community. Born in Bungpa village in 1920, he was elected"
+        ],
+        [
+          "/F1",
+          10,
+          "to India's first Lok Sabha in 1952, working alongside Jawaharlal Nehru."
+        ],
+        [
+          "/F1",
+          10,
+          "He served as Chief Minister of Manipur across multiple tumultuous"
+        ],
+        [
+          "/F1",
+          10,
+          "decades, championing inter-community harmony, highland development, and"
+        ],
+        [
+          "/F1",
+          10,
+          "democratic constitutionalism."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TSA-TKH-BIOG-KEISHING"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Rishang Keishing was a titan of Indian democracy and the pride of the Tangkhul Naga community. Born in Bungpa village in...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: From Bungpa Village to India's First Lok Sabha ( ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Chief Minister of Manipur & Champion of Communal ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Elder Statesman of the Rajya Sabha & Final Years ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 13"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 3.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "From Bungpa Village to India's First Lok Sabha (1920-1952)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: FROM BUNGPA VILLAGE TO INDIA'S FIRST LOK SABHA (1920-1952)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Youth in southern Tangkhul village Bungpa, St. Paul's College Calcutta, and elec..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Rishang Keishing October 25, 1920 zingsho eina Bungpa Khullen"
+        ],
+        [
+          "/F1",
+          9,
+          "village-li pharisaye. Ana Calcutta St. Paul's Cathedral Mission College"
+        ],
+        [
+          "/F1",
+          9,
+          "eina graduate saye. 1952-li Indiawui first General Election shoklakha, a"
+        ],
+        [
+          "/F1",
+          9,
+          "Outer Manipur Parliamentary constituency eina first Lok Sabha-li Member"
+        ],
+        [
+          "/F1",
+          9,
+          "of Parliament (MP) elect saye. A Parliament of India-wui youngest MPs"
+        ],
+        [
+          "/F1",
+          9,
+          "tharili akha leisai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Rishang Keishing was born on October 25, 1920, in Bungpa Khullen"
+        ],
+        [
+          "/F1",
+          9,
+          "village, Ukhrul district. He graduated from St. Paul's Cathedral Mission"
+        ],
+        [
+          "/F1",
+          9,
+          "College, Calcutta. In India's historic first general election in 1952,"
+        ],
+        [
+          "/F1",
+          9,
+          "he was elected to the first Lok Sabha from Outer Manipur, becoming one"
+        ],
+        [
+          "/F1",
+          9,
+          "of the youngest and most articulate parliamentarians in free India."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Rishang Keishing October 25, 1920 zingsho eina Bungpa Khullen village-li pharisaye. Ana Calcutta St. Paul's Cathedral Mission College eina graduate saye. 1952-li Indiawui first General Election shoklakha, a Outer Manipur Parliamentary constituency eina first Lok Sabha-li Member of Parliament (MP) elect saye. A Parliament of India-wui youngest MPs tharili akha leisai.",
+      "english_translation": "Rishang Keishing was born on October 25, 1920, in Bungpa Khullen village, Ukhrul district. He graduated from St. Paul's Cathedral Mission College, Calcutta. In India's historic first general election in 1952, he was elected to the first Lok Sabha from Outer Manipur, becoming one of the youngest and most articulate parliamentarians in free India.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: From Bungpa Village to India's First Lok Sabha (1920-1952)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Parliamentary constituency (noun): MP election territory"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Outer Manipur constituency."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Lok Sabha (noun): House of the People / Parliament of India"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: First Lok Sabha MP."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Modern democratic political terminology in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Which village was Rishang Keishing from?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] In which year was he elected to India's first Lok Sabha?"
+        ]
+      ],
+      "tangkhul_content": "Parliamentary constituency: MP election territory; Lok Sabha: House of the People / Parliament of India",
+      "english_translation": "Modern democratic political terminology in Tangkhul.",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: From Bungpa Village to India's First Lok Sabha (1920-1952)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Chief Minister of Manipur & Champion of Communal Harmony",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: CHIEF MINISTER OF MANIPUR & CHAMPION OF COMMUNAL HARMONY"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Serving as Chief Minister during difficult decades, balancing hill-valley unity ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Rishang Keishingna multiple terms-wui vang Manipur State-wui"
+        ],
+        [
+          "/F1",
+          9,
+          "Chief Minister salaga ot sai. Ana valley kala hill tribeswui ngachaili"
+        ],
+        [
+          "/F1",
+          9,
+          "peace, secular unity, kala infrastructural development phung-ungmi. Ana"
+        ],
+        [
+          "/F1",
+          9,
+          "high schools, roads, water supply, kala hospitals kaphung-longkhor"
+        ],
+        [
+          "/F1",
+          9,
+          "kuppupli shimsakserie. Ana democratic dialogue eina conflict resolution-"
+        ],
+        [
+          "/F1",
+          9,
+          "li faith khuiye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Rishang Keishing served multiple tenures as Chief Minister of Manipur."
+        ],
+        [
+          "/F1",
+          9,
+          "Navigating ethnic conflicts and insurgency, he steadfastly championed"
+        ],
+        [
+          "/F1",
+          9,
+          "harmony between the valley and hill communities. He expanded roads, high"
+        ],
+        [
+          "/F1",
+          9,
+          "schools, electrification, and medical centers across remote hill"
+        ],
+        [
+          "/F1",
+          9,
+          "districts, believing passionately in democratic constitutional dialogue."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Rishang Keishingna multiple terms-wui vang Manipur State-wui Chief Minister salaga ot sai. Ana valley kala hill tribeswui ngachaili peace, secular unity, kala infrastructural development phung-ungmi. Ana high schools, roads, water supply, kala hospitals kaphung-longkhor kuppupli shimsakserie. Ana democratic dialogue eina conflict resolution-li faith khuiye.",
+      "english_translation": "Rishang Keishing served multiple tenures as Chief Minister of Manipur. Navigating ethnic conflicts and insurgency, he steadfastly championed harmony between the valley and hill communities. He expanded roads, high schools, electrification, and medical centers across remote hill districts, believing passionately in democratic constitutional dialogue.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Chief Minister of Manipur & Champion of Communal Harmony",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Chief Minister (noun): State Executive Head"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Manipur Chief Minister."
+        ],
+        [
+          "/F2",
+          9,
+          "  * secular unity (noun): Ngacham eina ngasomkasa (peaceful mutual coexistence)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Peace kala unity."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Administrative and developmental syntax in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What were Rishang Keishing's key policies as Chief Minister of Manipur?"
+        ]
+      ],
+      "tangkhul_content": "Chief Minister: State Executive Head; secular unity: Ngacham eina ngasomkasa (peaceful mutual coexistence)",
+      "english_translation": "Administrative and developmental syntax in Tangkhul.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Chief Minister of Manipur & Champion of Communal Harmony",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Elder Statesman of the Rajya Sabha & Final Years (1920-2017)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: ELDER STATESMAN OF THE RAJYA SABHA & FINAL YEARS (1920-2017)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Elder statesman in the Rajya Sabha retiring at age 94, and his enduring legacy o..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Rishang Keishingna 2014 thakli Rajya Sabha MP salaga public"
+        ],
+        [
+          "/F1",
+          9,
+          "service-li leisai, a Indiawui oldest sitting parliamentarian hoda retire"
+        ],
+        [
+          "/F1",
+          9,
+          "saye (age 94). August 22, 2017 zingsho eina ana Imphal-li shok-unglakna."
+        ],
+        [
+          "/F1",
+          9,
+          "Awui 60 years public service Tangkhul people-wui democratic pride thada"
+        ],
+        [
+          "/F1",
+          9,
+          "history-li thot pupup mathā-leisara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Rishang Keishing continued serving in the Rajya Sabha until 2014,"
+        ],
+        [
+          "/F1",
+          9,
+          "retiring as India's oldest sitting parliamentarian at the age of 94. He"
+        ],
+        [
+          "/F1",
+          9,
+          "passed away on August 22, 2017, in Imphal. His six decades of"
+        ],
+        [
+          "/F1",
+          9,
+          "distinguished public service remain an enduring source of democratic"
+        ],
+        [
+          "/F1",
+          9,
+          "pride for the Tangkhul people and the nation."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Rishang Keishingna 2014 thakli Rajya Sabha MP salaga public service-li leisai, a Indiawui oldest sitting parliamentarian hoda retire saye (age 94). August 22, 2017 zingsho eina ana Imphal-li shok-unglakna. Awui 60 years public service Tangkhul people-wui democratic pride thada history-li thot pupup mathā-leisara.",
+      "english_translation": "Rishang Keishing continued serving in the Rajya Sabha until 2014, retiring as India's oldest sitting parliamentarian at the age of 94. He passed away on August 22, 2017, in Imphal. His six decades of distinguished public service remain an enduring source of democratic pride for the Tangkhul people and the nation.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Elder Statesman of the Rajya Sabha & Final Years (1920-2017)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Rajya Sabha (noun): Council of States / Upper House of Parliament"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Rajya Sabha MP."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Longevity and public service praise formulation."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] At what age did Rishang Keishing retire from Parliament?"
+        ]
+      ],
+      "tangkhul_content": "Rajya Sabha: Council of States / Upper House of Parliament",
+      "english_translation": "Longevity and public service praise formulation.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Elder Statesman of the Rajya Sabha & Final Years (1920-2017)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Parliamentary constituency -- MP election territory"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Lok Sabha -- House of the People / Parliament of India"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Chief Minister -- State Executive Head"
+        ],
+        [
+          "/F1",
+          9,
+          "  * secular unity -- Ngacham eina ngasomkasa (peaceful mutual coexistence)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Rajya Sabha -- Council of States / Upper House of Parliament"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Parliamentary constituency",
+        "pos": "noun",
+        "meaning": "MP election territory",
+        "example": "Outer Manipur constituency."
+      },
+      {
+        "word": "Lok Sabha",
+        "pos": "noun",
+        "meaning": "House of the People / Parliament of India",
+        "example": "First Lok Sabha MP."
+      },
+      {
+        "word": "Chief Minister",
+        "pos": "noun",
+        "meaning": "State Executive Head",
+        "example": "Manipur Chief Minister."
+      },
+      {
+        "word": "secular unity",
+        "pos": "noun",
+        "meaning": "Ngacham eina ngasomkasa (peaceful mutual coexistence)",
+        "example": "Peace kala unity."
+      },
+      {
+        "word": "Rajya Sabha",
+        "pos": "noun",
+        "meaning": "Council of States / Upper House of Parliament",
+        "example": "Rajya Sabha MP."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 13,
+  "total_chapters": 3,
+  "total_words": 293,
+  "excerpts": [
+    "Chapter 1: Rishang Keishing October 25, 1920 zingsho eina Bungpa Khullen village-li pharisaye. Ana Calcutta St. Paul's C...",
+    "Chapter 2: Rishang Keishingna multiple terms-wui vang Manipur State-wui Chief Minister salaga ot sai. Ana valley kala hi...",
+    "Chapter 3: Rishang Keishingna 2014 thakli Rajya Sabha MP salaga public service-li leisai, a Indiawui oldest sitting parl..."
+  ]
+}

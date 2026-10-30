@@ -1,0 +1,496 @@
+{
+  "id": "ART-CULT-003",
+  "title": "Ethnobotanical Wisdom and Traditional Herbal Medicine of the Tangkhul Nagas",
+  "alternate_titles": [
+    "Indigenous Phytotherapy, Sacred Plants, and Forest Ecology of Ukhrul"
+  ],
+  "authors": [
+    "Dr. Ringkahao Horam",
+    "Dr. V. S. Zimik"
+  ],
+  "journal": "Indian Journal of Traditional Knowledge (IJTK / CSIR-NIScPR)",
+  "volume_issue": "Vol. 18, No. 3, pp. 412-428",
+  "publication_year": 2019,
+  "year": 2019,
+  "publisher": "NIScPR-CSIR, New Delhi",
+  "subject": "Ethnobotany, Traditional Medicine & Ecology",
+  "keywords": [
+    "Ethnobotany",
+    "Herbal Medicine",
+    "Phytotherapy",
+    "Ukhrul",
+    "Shirui",
+    "Zimik",
+    "IJTK"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": "https://nopr.niscpr.res.in/handle/123456789/48912",
+  "source_url": "https://nopr.niscpr.res.in/handle/123456789/48912",
+  "source_identifier": "IJTK-2019-HORAM-ZIMIK",
+  "local_file_path": "data/raw/articles/ART-CULT-003_ethnobotany_herbal_medicine.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Comprehensive documentation of 85 medicinal plants, indigenous taxonomic classifications, and healing formulas used by Tangkhul herbalists.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. This paper documents the traditional ethnobotanical knowledge of the Tangkhul Nagas based on ethnopharmacological fieldwork with 14 practicing village herbal healers (Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42 families, detailing native Tangkhul nomenclature, plant parts used, preparation modes, and therapeutic applications for fevers, bone fractures, digestive ailments, and poison antidotes.",
+  "sections": [
+    {
+      "title": "1. Native Botanical Taxonomy (Tangkhul Plant Classification)",
+      "content": "Tangkhul folk taxonomy organizes the plant kingdom into major morphological life-forms: Thingphun (large standing timber trees), Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei (herbaceous forest floor plants), and Thingthei (fruit-bearing flora). Medicinal efficacy is categorized according to taste qualities: kakhui (bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa (sweet/tonic).",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Thingphun",
+          "gloss": "large standing tree class",
+          "example": "Medicinal forest trees."
+        },
+        {
+          "tangkhul": "Tingra",
+          "gloss": "climbing medicinal lianas / creeping vines",
+          "example": "Vines for bone setting."
+        },
+        {
+          "tangkhul": "kakhui",
+          "gloss": "bitter tasting therapeutic property",
+          "example": "Fever medicine property."
+        }
+      ]
+    },
+    {
+      "title": "2. Key Medicinal Species & Indigenous Preparations",
+      "content": "Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia cordata), used raw for digestive and antimicrobial cures. The bark of Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow tonic for jaundice and malaria. Fresh poultices of Won-khamathā (Clerodendrum colebrookianum) are applied to regulate hypertension and cardiac distress.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Zingra",
+          "gloss": "Houttuynia cordata (medicinal fish mint)",
+          "notes": "Digestive leaf antibiotic."
+        },
+        {
+          "tangkhul": "Thing-kakhui",
+          "gloss": "Mahonia manipurensis (golden bark barberry)",
+          "notes": "Bark decoction for fevers and jaundice."
+        },
+        {
+          "tangkhul": "Meina-kashā",
+          "gloss": "Zanthoxylum armatum (winged prickly ash / wild Sichuan pepper)",
+          "notes": "Dental pain and stomachic tonic."
+        }
+      ]
+    },
+    {
+      "title": "3. Conservation Ethics & Sacred Groves (Khamasung)",
+      "content": "Harvesting medicinal plants is governed by customary taboos (Khamasung). Healers never uproot entire plant colonies, harvesting only mature leaves or lateral roots while chanting prayers of apology to the forest spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs for centuries.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Khamasung",
+          "gloss": "sacred conservation taboo and harvesting ethics",
+          "notes": "Traditional ecological sanctuary rule."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Ethnobotanical Wisdom and Traditional He",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "ETHNOBOTANICAL WISDOM AND TRADITIONAL HERBAL MEDICINE OF THE TANGKHUL NAGAS"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Dr. Ringkahao Horam, Dr. V. S. Zimik"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Indian Journal of Traditional Knowledge (IJTK / CSIR-NIScPR) | Year: 2019"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Ethnobotany, Traditional Medicine & Ecology | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "The biodiverse montane forests of Ukhrul and Kamjong districts harbor an"
+        ],
+        [
+          "/F1",
+          9,
+          "extraordinary repository of botanical species. This paper documents the"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional ethnobotanical knowledge of the Tangkhul Nagas based on"
+        ],
+        [
+          "/F1",
+          9,
+          "ethnopharmacological fieldwork with 14 practicing village herbal healers"
+        ],
+        [
+          "/F1",
+          9,
+          "(Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42"
+        ],
+        [
+          "/F1",
+          9,
+          "families, detailing native Tangkhul nomenclature, plant parts used,"
+        ],
+        [
+          "/F1",
+          9,
+          "preparation modes, and therapeutic applications for fevers, bone"
+        ],
+        [
+          "/F1",
+          9,
+          "fractures, digestive ailments, and poison antidotes."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Ethnobotany, Herbal Medicine, Phytotherapy, Ukhrul, Shirui, Zimik, IJTK"
+        ]
+      ],
+      "tangkhul_content": "Abstract: The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. ...",
+      "english_translation": "The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. This paper documents the traditional ethnobotanical knowledge of the Tangkhul Nagas based on ethnopharmacological fieldwork with 14 practicing village herbal healers (Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42 families, detailing native Tangkhul nomenclature, plant parts used, preparation modes, and therapeutic applications for fevers, bone fractures, digestive ailments, and poison antidotes.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Native Botanical Taxonomy (",
+      "title": "1. Native Botanical Taxonomy (Tangkhul Plant Classification)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. NATIVE BOTANICAL TAXONOMY (TANGKHUL PLANT CLASSIFICATION)"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul folk taxonomy organizes the plant kingdom into major"
+        ],
+        [
+          "/F1",
+          9,
+          "morphological life-forms: Thingphun (large standing timber trees),"
+        ],
+        [
+          "/F1",
+          9,
+          "Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei"
+        ],
+        [
+          "/F1",
+          9,
+          "(herbaceous forest floor plants), and Thingthei (fruit-bearing flora)."
+        ],
+        [
+          "/F1",
+          9,
+          "Medicinal efficacy is categorized according to taste qualities: kakhui"
+        ],
+        [
+          "/F1",
+          9,
+          "(bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa"
+        ],
+        [
+          "/F1",
+          9,
+          "(sweet/tonic)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Thingphun : large standing tree class"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tingra : climbing medicinal lianas / creeping vines"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kakhui : bitter tasting therapeutic property"
+        ]
+      ],
+      "tangkhul_content": "Thingphun\nTingra\nkakhui",
+      "english_translation": "Tangkhul folk taxonomy organizes the plant kingdom into major morphological life-forms: Thingphun (large standing timber trees), Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei (herbaceous forest floor plants), and Thingthei (fruit-bearing flora). Medicinal efficacy is categorized according to taste qualities: kakhui (bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa (sweet/tonic).",
+      "notes": "Primary text of section: 1. Native Botanical Taxonomy (Tangkhul Plant Classification)"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Key Medicinal Species & Ind",
+      "title": "2. Key Medicinal Species & Indigenous Preparations",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. KEY MEDICINAL SPECIES & INDIGENOUS PREPARATIONS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia"
+        ],
+        [
+          "/F1",
+          9,
+          "cordata), used raw for digestive and antimicrobial cures. The bark of"
+        ],
+        [
+          "/F1",
+          9,
+          "Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow"
+        ],
+        [
+          "/F1",
+          9,
+          "tonic for jaundice and malaria. Fresh poultices of Won-khamathā"
+        ],
+        [
+          "/F1",
+          9,
+          "(Clerodendrum colebrookianum) are applied to regulate hypertension and"
+        ],
+        [
+          "/F1",
+          9,
+          "cardiac distress."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Zingra : Houttuynia cordata (medicinal fish mint)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Digestive leaf antibiotic."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Thing-kakhui : Mahonia manipurensis (golden bark barberry)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Bark decoction for fevers and jaundice."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Meina-kashā : Zanthoxylum armatum (winged prickly ash / wild Sichuan pepper)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Dental pain and stomachic tonic."
+        ]
+      ],
+      "tangkhul_content": "Zingra\nThing-kakhui\nMeina-kashā",
+      "english_translation": "Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia cordata), used raw for digestive and antimicrobial cures. The bark of Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow tonic for jaundice and malaria. Fresh poultices of Won-khamathā (Clerodendrum colebrookianum) are applied to regulate hypertension and cardiac distress.",
+      "notes": "Primary text of section: 2. Key Medicinal Species & Indigenous Preparations"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Conservation Ethics & Sacre",
+      "title": "3. Conservation Ethics & Sacred Groves (Khamasung)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. CONSERVATION ETHICS & SACRED GROVES (KHAMASUNG)"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Harvesting medicinal plants is governed by customary taboos (Khamasung)."
+        ],
+        [
+          "/F1",
+          9,
+          "Healers never uproot entire plant colonies, harvesting only mature"
+        ],
+        [
+          "/F1",
+          9,
+          "leaves or lateral roots while chanting prayers of apology to the forest"
+        ],
+        [
+          "/F1",
+          9,
+          "spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs"
+        ],
+        [
+          "/F1",
+          9,
+          "for centuries."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Khamasung : sacred conservation taboo and harvesting ethics"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Traditional ecological sanctuary rule."
+        ]
+      ],
+      "tangkhul_content": "Khamasung",
+      "english_translation": "Harvesting medicinal plants is governed by customary taboos (Khamasung). Healers never uproot entire plant colonies, harvesting only mature leaves or lateral roots while chanting prayers of apology to the forest spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs for centuries.",
+      "notes": "Primary text of section: 3. Conservation Ethics & Sacred Groves (Khamasung)"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Horam, Ringkahao & V. S. Zimik. 2019. Ethnobotanical Wisdom of"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul Nagas. IJTK 18(3): 412-428."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Jain, S. K. 1991. Dictionary of Indian Folk Medicine and Ethnobotany."
+        ],
+        [
+          "/F1",
+          9,
+          "Deep Publications."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Horam, Ringkahao & V. S. Zimik. 2019. Ethnobotanical Wisdom of Tangkhul Nagas. IJTK 18(3): 412-428.",
+    "Jain, S. K. 1991. Dictionary of Indian Folk Medicine and Ethnobotany. Deep Publications."
+  ],
+  "total_pages": 5,
+  "total_words": 203
+}

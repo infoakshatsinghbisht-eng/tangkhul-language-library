@@ -133,3 +133,4 @@ def generate_article_pdf(article_data: dict[str, Any]) -> bytes:
     pages = article_data.get("pages", [])
     pages_content = [p.get("lines", []) for p in pages]
     return build_pdf_document(pages_content)
+

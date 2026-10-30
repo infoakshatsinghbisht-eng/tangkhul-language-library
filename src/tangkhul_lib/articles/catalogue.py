@@ -89,3 +89,4 @@ def get_article(article_id: str) -> dict[str, Any] | None:
         if a.get("id") == clean_id:
             return a
     return None
+

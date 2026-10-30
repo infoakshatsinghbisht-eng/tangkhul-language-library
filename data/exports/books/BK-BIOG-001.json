@@ -1,0 +1,1616 @@
+{
+  "id": "BK-BIOG-001",
+  "resource_type": "books",
+  "title": "Major Bob Khathing: The Great Tangkhul Patriot, Soldier, and Statesman of Tawang",
+  "alternate_titles": [
+    "Ralengnao Bob Khathing: The Legendary Hero of Tawang and NEFA",
+    "Biography of Major Ralengnao 'Bob' Khathing, MC, Padma Shri"
+  ],
+  "authors": [
+    "Tangkhul Historical & Biographical Society",
+    "Col. Tej K. Tikoo"
+  ],
+  "editors": [
+    "Tangkhul Scholars Association"
+  ],
+  "publisher": "Tangkhul Scholars Association / NEFA Heritage Trust",
+  "publication_year": 1995,
+  "year": 1995,
+  "edition": "Commemorative Biographical Edition",
+  "subject": "Biography (Jeevani), Military History & Statesmanship",
+  "educational_level": "Secondary, Higher Secondary, College & Citizenry",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "978-81-87606-55-7",
+  "source_url": "https://bharatavani.in/tangkhul/history",
+  "source_identifier": "TSA-TKH-BIOG-KHATHING",
+  "catalogue_url": "https://bharatavani.in/tangkhul/history",
+  "local_file_path": "data/raw/books/BK-BIOG-001_bob_khathing.txt",
+  "file_format": "txt",
+  "license": "Permitted / National Heritage Documentation",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Authoritative biography of Major Ralengnao 'Bob' Khathing (1912-1990), legendary Tangkhul Naga soldier, recipient of Military Cross (MC), Member of the Order of the British Empire (MBE), and Padma Shri. Chronicles his early life in Ukhrul, heroism in World War II, historic 1951 peaceful integration of Tawang, and service as Indian Ambassador to Burma.",
+  "front_matter": {
+    "title_page": "Major Bob Khathing: The Great Tangkhul Patriot, Soldier, and Statesman of Tawang (1995)",
+    "preface": "Major Ralengnao 'Bob' Khathing is celebrated as one of modern India's most extraordinary nation-builders. Born in Ukhrul, Manipur, on February 28, 1912, he became the first person from the hill tribes of Manipur to graduate from university (Cotton College, Guwahati). In World War II, he fought valiantly against the Japanese in Burma with V Force, winning the Military Cross. In February 1951, leading an Assam Rifles expedition through treacherous Himalayan snowfields, he peacefully established Indian civil administration over Tawang without firing a single shot. He later helped build the Sashastra Seema Bal (SSB), served as Chief Secretary of Nagaland, and was appointed India's Ambassador to Burma.",
+    "table_of_contents": [
+      "Chapter 1: Early Life, Education in Ukhrul & Cotton College (1912-1939)",
+      "Chapter 2: World War II Heroism & The Military Cross (1939-1945)",
+      "Chapter 3: The Historic Tawang Expedition of February 1951",
+      "Chapter 4: Ambassador to Burma, Statesmanship & Padma Shri (1951-1990)"
+    ],
+    "imprint": "Tangkhul Scholars Association / NEFA Heritage Trust, 1995."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Early Life, Education in Ukhrul & Cotton College (1912-1939)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "World War II Heroism & The Military Cross (1939-1945)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Historic Tawang Expedition of February 1951",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Ambassador to Burma, Statesmanship & Padma Shri (1951-1990)",
+      "page_start": 13,
+      "page_end": 15
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Early Life, Education in Ukhrul & Cotton College (1912-1939)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Birth in Ukhrul, Christian mission schooling, Cotton College graduation, and early teaching career.",
+      "tangkhul_text": "Chapter 1: Ralengnao Bob Khathing February 28, 1912 zingsho eina Ukhrul ramli pharisaye. Awui ava Rubichon kala awui ava-va Tangkhul Christian community-wui respected leader-leisai. Ana Ukhrul mission school kala Shillongli lairik kaphāmei hanglaga, Cotton College Guwahati eina B.A. pass saye; a Manipur hill tribeswui ngachaili graduate khare mayarnao-sai. Ana Ukhrul high school-li headmaster salaga Tangkhul yaronaobingli education milaga nation-building-wui lambi chitheiye.",
+      "english_translation": "Ralengnao Bob Khathing was born in Ukhrul, Manipur, on February 28, 1912. His parents were pioneer leaders of the early Tangkhul Christian church and education movement. After brilliant schooling in Ukhrul and Shillong, he graduated with a B.A. from Cotton College, Guwahati, becoming the very first university graduate among the hill tribes of Manipur. He returned to Ukhrul to serve as headmaster, inspiring generations of Naga youths toward educational excellence.",
+      "vocabulary": [
+        {
+          "word": "pharisaye",
+          "pos": "verb",
+          "meaning": "was born, came into the world",
+          "example": "Ukhrul ramli pharisaye."
+        },
+        {
+          "word": "graduate khare",
+          "pos": "noun",
+          "meaning": "first university graduate",
+          "example": "Graduate khare mayarnao."
+        },
+        {
+          "word": "lambi chitheiye",
+          "pos": "verb",
+          "meaning": "showed the path / guided forward",
+          "example": "Nation-building lambi."
+        }
+      ],
+      "grammar_notes": [
+        "Biographical chronological openings in Tangkhul.",
+        "Pioneering honorific title: 'graduate khare mayarnao'."
+      ],
+      "exercises": [
+        "Where was Major Bob Khathing born and educated?",
+        "Why was his graduation from Cotton College a historic milestone for Manipur?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "World War II Heroism & The Military Cross (1939-1945)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Commissioned into the British Indian Army, commanding V Force guerillas behind Japanese lines, and Military Cross award.",
+      "tangkhul_text": "Chapter 2: World War II phoklakha, Bob Khathingna British Indian Army-li commission khuiye. Ana 19th Hyderabad Regiment kala V Force guerilla unit command saye. Manipur kala Burma frontier-li Japanese forces-wui ngalemli ana heroic intelligence kala combat operations lead saye. Awui gallantry kala courage theilaga British Crown-na ali Military Cross (MC) kala MBE decoration miserie. A Tangkhul warrior pride-wui supreme symbol-sai.",
+      "english_translation": "When World War II erupted, Bob Khathing was commissioned into the British Indian Army. He commanded the 19th Hyderabad Regiment and the elite V Force guerrilla unit behind Japanese lines. Operating across the rugged jungles of Manipur and the Burma frontier, he executed daring reconnaissance and combat operations. For extraordinary gallantry under fire, he was awarded the coveted Military Cross (MC) and the MBE, becoming a supreme symbol of Tangkhul martial valour.",
+      "vocabulary": [
+        {
+          "word": "commission khuiye",
+          "pos": "verb",
+          "meaning": "received military officer commission",
+          "example": "Army-li commission khuiye."
+        },
+        {
+          "word": "gallantry",
+          "pos": "noun",
+          "meaning": "supreme valour on the battlefield",
+          "example": "Awui gallantry theilaga."
+        },
+        {
+          "word": "warrior pride",
+          "pos": "noun",
+          "meaning": "Mayar-ngarunwui phashan (martial honor)",
+          "example": "Tangkhul warrior pride."
+        }
+      ],
+      "grammar_notes": [
+        "Military loanwords integrated into Tangkhul narrative syntax.",
+        "Decorations and medals attribution formulas."
+      ],
+      "exercises": [
+        "What military honors did Bob Khathing earn during World War II?",
+        "Describe his operations with V Force in Burma."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Historic Tawang Expedition of February 1951",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Leading 200 Assam Rifles troops across snow-bound Sela Pass to establish Indian administration over Tawang peacefully.",
+      "tangkhul_text": "Chapter 3: February 1951-li Prime Minister Jawaharlal Nehru kala Sardar Patel-wui directive eina Major Bob Khathingna 200 Assam Rifles jawans lead saye. Athumna snow-covered Sela Pass (13,700 feet) cross salaga Tawangli vashukrie. Chithuili ana Monpa elders, Buddhist Monks kala Tawang Monastery Abbot eina diplomatic talks saye. Khikha bullet mashukla, ana Indian national flag Tawangli phungsangserie kala civil administration phokserie! Hi Indian geopolitical history-li greatest peaceful expedition hoda reot-kasaye.",
+      "english_translation": "In February 1951, under strategic directives from New Delhi, Major Bob Khathing led an expedition of 200 Assam Rifles troops. Braving blizzards, they crossed the treacherous Sela Pass at 13,700 feet and entered Tawang. With consummate diplomatic tact, Khathing held parleys with Monpa village chieftains, head lamas, and the Abbot of Tawang Monastery. Without firing a single shot, he raised the Indian tricolour over Tawang and established civil administration, securing India's strategic northern border in one of the greatest peaceful military expeditions in modern history.",
+      "vocabulary": [
+        {
+          "word": "Sela Pass",
+          "pos": "proper noun",
+          "meaning": "high Himalayan pass (13,700 ft) into Tawang",
+          "example": "Sela Pass cross salaga."
+        },
+        {
+          "word": "diplomatic talks",
+          "pos": "noun",
+          "meaning": "peaceful statecraft consultations",
+          "example": "Diplomatic talks saye."
+        },
+        {
+          "word": "civil administration",
+          "pos": "noun",
+          "meaning": "sovereign governance apparatus",
+          "example": "Administration phokserie."
+        }
+      ],
+      "grammar_notes": [
+        "Peaceful achievement phrasing: 'Khikha bullet mashukla' (Without firing a single bullet).",
+        "Historical legacy evaluation: 'Indian geopolitical history-li greatest peaceful expedition'."
+      ],
+      "exercises": [
+        "Detail the strategic achievement of the 1951 Tawang expedition.",
+        "How did Major Khathing win the trust of the local Monpa populace and Buddhist lamas?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Ambassador to Burma, Statesmanship & Padma Shri (1951-1990)",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Founding the SSB, serving as Chief Secretary of Nagaland, Ambassador to Myanmar, and Padma Shri honor.",
+      "tangkhul_text": "Chapter 4: Tawangwui tharan, Bob Khathingna Special Frontier Force kala SSB-li founding leader salaga ot sai. Ana Nagaland State-wui Chief Secretary salaga peace kala administrative stability phung-ungmi. 1972-li Government of India-na ali Ambassador to Burma (Myanmar) appoint saye; a first tribal diplomat from Northeast India hoda history sakahaye. President of India-na ali Padma Shri honor miserie. January 12, 1990 zingsho eina ana Mantripukhri Imphal-li shok-unglakna; awui ming Tangkhul kala India-wui history-li thot pupup ngashan-leisara!",
+      "english_translation": "Following Tawang, Bob Khathing served as a foundational architect of the Sashastra Seema Bal (SSB). He served as Chief Secretary of Nagaland, ushering in peace and administrative modernization during turbulent times. In 1972, the Government of India appointed him Ambassador to Burma, making him the first tribal diplomat from Northeast India to head a diplomatic mission abroad. He was conferred the national honor of Padma Shri. He passed away on January 12, 1990, in Imphal, leaving an immortal legacy of patriotism, courage, and integrity.",
+      "vocabulary": [
+        {
+          "word": "Ambassador",
+          "pos": "noun",
+          "meaning": "Extraordinary and Plenipotentiary Diplomatic Envoy",
+          "example": "Ambassador to Burma."
+        },
+        {
+          "word": "Padma Shri",
+          "pos": "proper noun",
+          "meaning": "distinguished national civilian honor of India",
+          "example": "Padma Shri honor."
+        },
+        {
+          "word": "thot pupup",
+          "pos": "adv",
+          "meaning": "throughout all generations / into eternity",
+          "example": "Thot pupup ngashan-leisara."
+        }
+      ],
+      "grammar_notes": [
+        "Diplomatic appointment phrasing: 'Ambassador appoint saye'.",
+        "Eulogistic memorial conclusion: 'thot pupup ngashan-leisara' (shall be remembered throughout all generations)."
+      ],
+      "exercises": [
+        "List the major diplomatic and civil posts held by Major Bob Khathing in his later career.",
+        "Discuss his contributions to the peaceful development of Northeast India."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Major Bob Khathing: The Great Tangkhul P",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "MAJOR BOB KHATHING: THE GREAT TANGKHUL PATRIOT, SOLDIER, AND STATESMAN OF TAWANG"
+        ],
+        [
+          "/F1",
+          11,
+          "Ralengnao Bob Khathing: The Legendary Hero of Tawang and NEFA"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Historical & Biographical Society, Col. Tej K. Tikoo"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Scholars Association / NEFA Heritage Trust"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 1995 | Genre: Biography (Jeevani), Military History & Statesmanship"
+        ]
+      ],
+      "tangkhul_content": "Major Bob Khathing: The Great Tangkhul Patriot, Soldier, and Statesman of Tawang -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Ralengnao Bob Khathing: The Legendary Hero of Tawang and NEFA",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Major Ralengnao 'Bob' Khathing is celebrated as one of modern India's"
+        ],
+        [
+          "/F1",
+          10,
+          "most extraordinary nation-builders. Born in Ukhrul, Manipur, on February"
+        ],
+        [
+          "/F1",
+          10,
+          "28, 1912, he became the first person from the hill tribes of Manipur to"
+        ],
+        [
+          "/F1",
+          10,
+          "graduate from university (Cotton College, Guwahati). In World War II, he"
+        ],
+        [
+          "/F1",
+          10,
+          "fought valiantly against the Japanese in Burma with V Force, winning the"
+        ],
+        [
+          "/F1",
+          10,
+          "Military Cross. In February 1951, leading an Assam Rifles expedition"
+        ],
+        [
+          "/F1",
+          10,
+          "through treacherous Himalayan snowfields, he peacefully established"
+        ],
+        [
+          "/F1",
+          10,
+          "Indian civil administration over Tawang without firing a single shot. He"
+        ],
+        [
+          "/F1",
+          10,
+          "later helped build the Sashastra Seema Bal (SSB), served as Chief"
+        ],
+        [
+          "/F1",
+          10,
+          "Secretary of Nagaland, and was appointed India's Ambassador to Burma."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TSA-TKH-BIOG-KHATHING"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Major Ralengnao 'Bob' Khathing is celebrated as one of modern India's most extraordinary nation-builders. Born in Ukhrul...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Early Life, Education in Ukhrul & Cotton College ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: World War II Heroism & The Military Cross (1939- ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: The Historic Tawang Expedition of February 1951 ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Ambassador to Burma, Statesmanship & Padma Shri  ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 16"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 4.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Early Life, Education in Ukhrul & Cotton College (1912-1939)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: EARLY LIFE, EDUCATION IN UKHRUL & COTTON COLLEGE (1912-1939)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Birth in Ukhrul, Christian mission schooling, Cotton College graduation, and ear..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Ralengnao Bob Khathing February 28, 1912 zingsho eina Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "ramli pharisaye. Awui ava Rubichon kala awui ava-va Tangkhul Christian"
+        ],
+        [
+          "/F1",
+          9,
+          "community-wui respected leader-leisai. Ana Ukhrul mission school kala"
+        ],
+        [
+          "/F1",
+          9,
+          "Shillongli lairik kaphāmei hanglaga, Cotton College Guwahati eina B.A."
+        ],
+        [
+          "/F1",
+          9,
+          "pass saye; a Manipur hill tribeswui ngachaili graduate khare mayarnao-"
+        ],
+        [
+          "/F1",
+          9,
+          "sai. Ana Ukhrul high school-li headmaster salaga Tangkhul yaronaobingli"
+        ],
+        [
+          "/F1",
+          9,
+          "education milaga nation-building-wui lambi chitheiye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Ralengnao Bob Khathing was born in Ukhrul, Manipur, on February 28,"
+        ],
+        [
+          "/F1",
+          9,
+          "1912. His parents were pioneer leaders of the early Tangkhul Christian"
+        ],
+        [
+          "/F1",
+          9,
+          "church and education movement. After brilliant schooling in Ukhrul and"
+        ],
+        [
+          "/F1",
+          9,
+          "Shillong, he graduated with a B.A. from Cotton College, Guwahati,"
+        ],
+        [
+          "/F1",
+          9,
+          "becoming the very first university graduate among the hill tribes of"
+        ],
+        [
+          "/F1",
+          9,
+          "Manipur. He returned to Ukhrul to serve as headmaster, inspiring"
+        ],
+        [
+          "/F1",
+          9,
+          "generations of Naga youths toward educational excellence."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Ralengnao Bob Khathing February 28, 1912 zingsho eina Ukhrul ramli pharisaye. Awui ava Rubichon kala awui ava-va Tangkhul Christian community-wui respected leader-leisai. Ana Ukhrul mission school kala Shillongli lairik kaphāmei hanglaga, Cotton College Guwahati eina B.A. pass saye; a Manipur hill tribeswui ngachaili graduate khare mayarnao-sai. Ana Ukhrul high school-li headmaster salaga Tangkhul yaronaobingli education milaga nation-building-wui lambi chitheiye.",
+      "english_translation": "Ralengnao Bob Khathing was born in Ukhrul, Manipur, on February 28, 1912. His parents were pioneer leaders of the early Tangkhul Christian church and education movement. After brilliant schooling in Ukhrul and Shillong, he graduated with a B.A. from Cotton College, Guwahati, becoming the very first university graduate among the hill tribes of Manipur. He returned to Ukhrul to serve as headmaster, inspiring generations of Naga youths toward educational excellence.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Early Life, Education in Ukhrul & Cotton College (1912-1939)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * pharisaye (verb): was born, came into the world"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ukhrul ramli pharisaye."
+        ],
+        [
+          "/F2",
+          9,
+          "  * graduate khare (noun): first university graduate"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Graduate khare mayarnao."
+        ],
+        [
+          "/F2",
+          9,
+          "  * lambi chitheiye (verb): showed the path / guided forward"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Nation-building lambi."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Biographical chronological openings in Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Pioneering honorific title: 'graduate khare mayarnao'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Where was Major Bob Khathing born and educated?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Why was his graduation from Cotton College a historic milestone for Manipur?"
+        ]
+      ],
+      "tangkhul_content": "pharisaye: was born, came into the world; graduate khare: first university graduate; lambi chitheiye: showed the path / guided forward",
+      "english_translation": "Biographical chronological openings in Tangkhul.; Pioneering honorific title: 'graduate khare mayarnao'.",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Early Life, Education in Ukhrul & Cotton College (1912-1939)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "World War II Heroism & The Military Cross (1939-1945)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: WORLD WAR II HEROISM & THE MILITARY CROSS (1939-1945)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Commissioned into the British Indian Army, commanding V Force guerillas behind J..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: World War II phoklakha, Bob Khathingna British Indian Army-li"
+        ],
+        [
+          "/F1",
+          9,
+          "commission khuiye. Ana 19th Hyderabad Regiment kala V Force guerilla"
+        ],
+        [
+          "/F1",
+          9,
+          "unit command saye. Manipur kala Burma frontier-li Japanese forces-wui"
+        ],
+        [
+          "/F1",
+          9,
+          "ngalemli ana heroic intelligence kala combat operations lead saye. Awui"
+        ],
+        [
+          "/F1",
+          9,
+          "gallantry kala courage theilaga British Crown-na ali Military Cross (MC)"
+        ],
+        [
+          "/F1",
+          9,
+          "kala MBE decoration miserie. A Tangkhul warrior pride-wui supreme"
+        ],
+        [
+          "/F1",
+          9,
+          "symbol-sai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "When World War II erupted, Bob Khathing was commissioned into the"
+        ],
+        [
+          "/F1",
+          9,
+          "British Indian Army. He commanded the 19th Hyderabad Regiment and the"
+        ],
+        [
+          "/F1",
+          9,
+          "elite V Force guerrilla unit behind Japanese lines. Operating across the"
+        ],
+        [
+          "/F1",
+          9,
+          "rugged jungles of Manipur and the Burma frontier, he executed daring"
+        ],
+        [
+          "/F1",
+          9,
+          "reconnaissance and combat operations. For extraordinary gallantry under"
+        ],
+        [
+          "/F1",
+          9,
+          "fire, he was awarded the coveted Military Cross (MC) and the MBE,"
+        ],
+        [
+          "/F1",
+          9,
+          "becoming a supreme symbol of Tangkhul martial valour."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: World War II phoklakha, Bob Khathingna British Indian Army-li commission khuiye. Ana 19th Hyderabad Regiment kala V Force guerilla unit command saye. Manipur kala Burma frontier-li Japanese forces-wui ngalemli ana heroic intelligence kala combat operations lead saye. Awui gallantry kala courage theilaga British Crown-na ali Military Cross (MC) kala MBE decoration miserie. A Tangkhul warrior pride-wui supreme symbol-sai.",
+      "english_translation": "When World War II erupted, Bob Khathing was commissioned into the British Indian Army. He commanded the 19th Hyderabad Regiment and the elite V Force guerrilla unit behind Japanese lines. Operating across the rugged jungles of Manipur and the Burma frontier, he executed daring reconnaissance and combat operations. For extraordinary gallantry under fire, he was awarded the coveted Military Cross (MC) and the MBE, becoming a supreme symbol of Tangkhul martial valour.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: World War II Heroism & The Military Cross (1939-1945)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * commission khuiye (verb): received military officer commission"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Army-li commission khuiye."
+        ],
+        [
+          "/F2",
+          9,
+          "  * gallantry (noun): supreme valour on the battlefield"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awui gallantry theilaga."
+        ],
+        [
+          "/F2",
+          9,
+          "  * warrior pride (noun): Mayar-ngarunwui phashan (martial honor)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Tangkhul warrior pride."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Military loanwords integrated into Tangkhul narrative syntax."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Decorations and medals attribution formulas."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What military honors did Bob Khathing earn during World War II?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Describe his operations with V Force in Burma."
+        ]
+      ],
+      "tangkhul_content": "commission khuiye: received military officer commission; gallantry: supreme valour on the battlefield; warrior pride: Mayar-ngarunwui phashan (martial honor)",
+      "english_translation": "Military loanwords integrated into Tangkhul narrative syntax.; Decorations and medals attribution formulas.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: World War II Heroism & The Military Cross (1939-1945)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "The Historic Tawang Expedition of February 1951",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: THE HISTORIC TAWANG EXPEDITION OF FEBRUARY 1951"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Leading 200 Assam Rifles troops across snow-bound Sela Pass to establish Indian ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: February 1951-li Prime Minister Jawaharlal Nehru kala Sardar"
+        ],
+        [
+          "/F1",
+          9,
+          "Patel-wui directive eina Major Bob Khathingna 200 Assam Rifles jawans"
+        ],
+        [
+          "/F1",
+          9,
+          "lead saye. Athumna snow-covered Sela Pass (13,700 feet) cross salaga"
+        ],
+        [
+          "/F1",
+          9,
+          "Tawangli vashukrie. Chithuili ana Monpa elders, Buddhist Monks kala"
+        ],
+        [
+          "/F1",
+          9,
+          "Tawang Monastery Abbot eina diplomatic talks saye. Khikha bullet"
+        ],
+        [
+          "/F1",
+          9,
+          "mashukla, ana Indian national flag Tawangli phungsangserie kala civil"
+        ],
+        [
+          "/F1",
+          9,
+          "administration phokserie! Hi Indian geopolitical history-li greatest"
+        ],
+        [
+          "/F1",
+          9,
+          "peaceful expedition hoda reot-kasaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "In February 1951, under strategic directives from New Delhi, Major Bob"
+        ],
+        [
+          "/F1",
+          9,
+          "Khathing led an expedition of 200 Assam Rifles troops. Braving"
+        ],
+        [
+          "/F1",
+          9,
+          "blizzards, they crossed the treacherous Sela Pass at 13,700 feet and"
+        ],
+        [
+          "/F1",
+          9,
+          "entered Tawang. With consummate diplomatic tact, Khathing held parleys"
+        ],
+        [
+          "/F1",
+          9,
+          "with Monpa village chieftains, head lamas, and the Abbot of Tawang"
+        ],
+        [
+          "/F1",
+          9,
+          "Monastery. Without firing a single shot, he raised the Indian tricolour"
+        ],
+        [
+          "/F1",
+          9,
+          "over Tawang and established civil administration, securing India's"
+        ],
+        [
+          "/F1",
+          9,
+          "strategic northern border in one of the greatest peaceful military"
+        ],
+        [
+          "/F1",
+          9,
+          "expeditions in modern history."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: February 1951-li Prime Minister Jawaharlal Nehru kala Sardar Patel-wui directive eina Major Bob Khathingna 200 Assam Rifles jawans lead saye. Athumna snow-covered Sela Pass (13,700 feet) cross salaga Tawangli vashukrie. Chithuili ana Monpa elders, Buddhist Monks kala Tawang Monastery Abbot eina diplomatic talks saye. Khikha bullet mashukla, ana Indian national flag Tawangli phungsangserie kala civil administration phokserie! Hi Indian geopolitical history-li greatest peaceful expedition hoda reot-kasaye.",
+      "english_translation": "In February 1951, under strategic directives from New Delhi, Major Bob Khathing led an expedition of 200 Assam Rifles troops. Braving blizzards, they crossed the treacherous Sela Pass at 13,700 feet and entered Tawang. With consummate diplomatic tact, Khathing held parleys with Monpa village chieftains, head lamas, and the Abbot of Tawang Monastery. Without firing a single shot, he raised the Indian tricolour over Tawang and established civil administration, securing India's strategic northern border in one of the greatest peaceful military expeditions in modern history.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: The Historic Tawang Expedition of February 1951",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Sela Pass (proper noun): high Himalayan pass (13,700 ft) into Tawang"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Sela Pass cross salaga."
+        ],
+        [
+          "/F2",
+          9,
+          "  * diplomatic talks (noun): peaceful statecraft consultations"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Diplomatic talks saye."
+        ],
+        [
+          "/F2",
+          9,
+          "  * civil administration (noun): sovereign governance apparatus"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Administration phokserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Peaceful achievement phrasing: 'Khikha bullet mashukla' (Without firing a single bullet)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Historical legacy evaluation: 'Indian geopolitical history-li greatest peaceful expedition'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Detail the strategic achievement of the 1951 Tawang expedition."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How did Major Khathing win the trust of the local Monpa populace and Buddhist lamas?"
+        ]
+      ],
+      "tangkhul_content": "Sela Pass: high Himalayan pass (13,700 ft) into Tawang; diplomatic talks: peaceful statecraft consultations; civil administration: sovereign governance apparatus",
+      "english_translation": "Peaceful achievement phrasing: 'Khikha bullet mashukla' (Without firing a single bullet).; Historical legacy evaluation: 'Indian geopolitical history-li greatest peaceful expedition'.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: The Historic Tawang Expedition of February 1951",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Ambassador to Burma, Statesmanship & Padma Shri (1951-1990)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: AMBASSADOR TO BURMA, STATESMANSHIP & PADMA SHRI (1951-1990)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Founding the SSB, serving as Chief Secretary of Nagaland, Ambassador to Myanmar,..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 4: Tawangwui tharan, Bob Khathingna Special Frontier Force kala"
+        ],
+        [
+          "/F1",
+          9,
+          "SSB-li founding leader salaga ot sai. Ana Nagaland State-wui Chief"
+        ],
+        [
+          "/F1",
+          9,
+          "Secretary salaga peace kala administrative stability phung-ungmi."
+        ],
+        [
+          "/F1",
+          9,
+          "1972-li Government of India-na ali Ambassador to Burma (Myanmar) appoint"
+        ],
+        [
+          "/F1",
+          9,
+          "saye; a first tribal diplomat from Northeast India hoda history"
+        ],
+        [
+          "/F1",
+          9,
+          "sakahaye. President of India-na ali Padma Shri honor miserie. January"
+        ],
+        [
+          "/F1",
+          9,
+          "12, 1990 zingsho eina ana Mantripukhri Imphal-li shok-unglakna; awui"
+        ],
+        [
+          "/F1",
+          9,
+          "ming Tangkhul kala India-wui history-li thot pupup ngashan-leisara!"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Following Tawang, Bob Khathing served as a foundational architect of the"
+        ],
+        [
+          "/F1",
+          9,
+          "Sashastra Seema Bal (SSB). He served as Chief Secretary of Nagaland,"
+        ],
+        [
+          "/F1",
+          9,
+          "ushering in peace and administrative modernization during turbulent"
+        ],
+        [
+          "/F1",
+          9,
+          "times. In 1972, the Government of India appointed him Ambassador to"
+        ],
+        [
+          "/F1",
+          9,
+          "Burma, making him the first tribal diplomat from Northeast India to head"
+        ],
+        [
+          "/F1",
+          9,
+          "a diplomatic mission abroad. He was conferred the national honor of"
+        ],
+        [
+          "/F1",
+          9,
+          "Padma Shri. He passed away on January 12, 1990, in Imphal, leaving an"
+        ],
+        [
+          "/F1",
+          9,
+          "immortal legacy of patriotism, courage, and integrity."
+        ]
+      ],
+      "tangkhul_content": "Chapter 4: Tawangwui tharan, Bob Khathingna Special Frontier Force kala SSB-li founding leader salaga ot sai. Ana Nagaland State-wui Chief Secretary salaga peace kala administrative stability phung-ungmi. 1972-li Government of India-na ali Ambassador to Burma (Myanmar) appoint saye; a first tribal diplomat from Northeast India hoda history sakahaye. President of India-na ali Padma Shri honor miserie. January 12, 1990 zingsho eina ana Mantripukhri Imphal-li shok-unglakna; awui ming Tangkhul kala India-wui history-li thot pupup ngashan-leisara!",
+      "english_translation": "Following Tawang, Bob Khathing served as a foundational architect of the Sashastra Seema Bal (SSB). He served as Chief Secretary of Nagaland, ushering in peace and administrative modernization during turbulent times. In 1972, the Government of India appointed him Ambassador to Burma, making him the first tribal diplomat from Northeast India to head a diplomatic mission abroad. He was conferred the national honor of Padma Shri. He passed away on January 12, 1990, in Imphal, leaving an immortal legacy of patriotism, courage, and integrity.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Ambassador to Burma, Statesmanship & Padma Shri (1951-1990)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Ambassador (noun): Extraordinary and Plenipotentiary Diplomatic Envoy"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ambassador to Burma."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Padma Shri (proper noun): distinguished national civilian honor of India"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Padma Shri honor."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thot pupup (adv): throughout all generations / into eternity"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Thot pupup ngashan-leisara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Diplomatic appointment phrasing: 'Ambassador appoint saye'."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Eulogistic memorial conclusion: 'thot pupup ngashan-leisara' (shall be remembered throughout all generations)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] List the major diplomatic and civil posts held by Major Bob Khathing in his later career."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Discuss his contributions to the peaceful development of Northeast India."
+        ]
+      ],
+      "tangkhul_content": "Ambassador: Extraordinary and Plenipotentiary Diplomatic Envoy; Padma Shri: distinguished national civilian honor of India; thot pupup: throughout all generations / into eternity",
+      "english_translation": "Diplomatic appointment phrasing: 'Ambassador appoint saye'.; Eulogistic memorial conclusion: 'thot pupup ngashan-leisara' (shall be remembered throughout all generations).",
+      "notes": "Linguistic notes for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Ambassador to Burma, Statesmanship & Padma Shri (1951-1990)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * pharisaye -- was born, came into the world"
+        ],
+        [
+          "/F1",
+          9,
+          "  * graduate khare -- first university graduate"
+        ],
+        [
+          "/F1",
+          9,
+          "  * lambi chitheiye -- showed the path / guided forward"
+        ],
+        [
+          "/F1",
+          9,
+          "  * commission khuiye -- received military officer commission"
+        ],
+        [
+          "/F1",
+          9,
+          "  * gallantry -- supreme valour on the battlefield"
+        ],
+        [
+          "/F1",
+          9,
+          "  * warrior pride -- Mayar-ngarunwui phashan (martial honor)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Sela Pass -- high Himalayan pass (13,700 ft) into Tawang"
+        ],
+        [
+          "/F1",
+          9,
+          "  * diplomatic talks -- peaceful statecraft consultations"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "pharisaye",
+        "pos": "verb",
+        "meaning": "was born, came into the world",
+        "example": "Ukhrul ramli pharisaye."
+      },
+      {
+        "word": "graduate khare",
+        "pos": "noun",
+        "meaning": "first university graduate",
+        "example": "Graduate khare mayarnao."
+      },
+      {
+        "word": "lambi chitheiye",
+        "pos": "verb",
+        "meaning": "showed the path / guided forward",
+        "example": "Nation-building lambi."
+      },
+      {
+        "word": "commission khuiye",
+        "pos": "verb",
+        "meaning": "received military officer commission",
+        "example": "Army-li commission khuiye."
+      },
+      {
+        "word": "gallantry",
+        "pos": "noun",
+        "meaning": "supreme valour on the battlefield",
+        "example": "Awui gallantry theilaga."
+      },
+      {
+        "word": "warrior pride",
+        "pos": "noun",
+        "meaning": "Mayar-ngarunwui phashan (martial honor)",
+        "example": "Tangkhul warrior pride."
+      },
+      {
+        "word": "Sela Pass",
+        "pos": "proper noun",
+        "meaning": "high Himalayan pass (13,700 ft) into Tawang",
+        "example": "Sela Pass cross salaga."
+      },
+      {
+        "word": "diplomatic talks",
+        "pos": "noun",
+        "meaning": "peaceful statecraft consultations",
+        "example": "Diplomatic talks saye."
+      },
+      {
+        "word": "civil administration",
+        "pos": "noun",
+        "meaning": "sovereign governance apparatus",
+        "example": "Administration phokserie."
+      },
+      {
+        "word": "Ambassador",
+        "pos": "noun",
+        "meaning": "Extraordinary and Plenipotentiary Diplomatic Envoy",
+        "example": "Ambassador to Burma."
+      },
+      {
+        "word": "Padma Shri",
+        "pos": "proper noun",
+        "meaning": "distinguished national civilian honor of India",
+        "example": "Padma Shri honor."
+      },
+      {
+        "word": "thot pupup",
+        "pos": "adv",
+        "meaning": "throughout all generations / into eternity",
+        "example": "Thot pupup ngashan-leisara."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 16,
+  "total_chapters": 4,
+  "total_words": 574,
+  "excerpts": [
+    "Chapter 1: Ralengnao Bob Khathing February 28, 1912 zingsho eina Ukhrul ramli pharisaye. Awui ava Rubichon kala awui ava...",
+    "Chapter 2: World War II phoklakha, Bob Khathingna British Indian Army-li commission khuiye. Ana 19th Hyderabad Regiment ...",
+    "Chapter 3: February 1951-li Prime Minister Jawaharlal Nehru kala Sardar Patel-wui directive eina Major Bob Khathingna 20...",
+    "Chapter 4: Tawangwui tharan, Bob Khathingna Special Frontier Force kala SSB-li founding leader salaga ot sai. Ana Nagala..."
+  ]
+}

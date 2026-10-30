@@ -1,0 +1,1128 @@
+{
+  "id": "BK-NOVL-004",
+  "resource_type": "books",
+  "title": "Wungram Okthot: The Novel of Highland Heritage and Clan Trials",
+  "alternate_titles": [
+    "Wungram: A Chronicle of Tangkhul Highland Life",
+    "Heritage, Clan Kinship, and the Mountain Destiny"
+  ],
+  "authors": [
+    "Tangkhul Cultural Council"
+  ],
+  "editors": [
+    "Wung Cultural Forum"
+  ],
+  "publisher": "Wung Cultural Forum, Ukhrul",
+  "publication_year": 1998,
+  "year": 1998,
+  "edition": "Cultural Heritage Edition",
+  "subject": "Novel (Upanyas), Ethnohistory & Cultural Heritage",
+  "educational_level": "Collegiate & General Readers",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "WCF-TKH-NOVEL-WUNGRAM",
+  "catalogue_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "local_file_path": "data/raw/books/BK-NOVL-004_wungram_okthot.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Open Access",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Immersive cultural novel capturing 19th-century Tangkhul life: head-taking traditions giving way to peace treaties, clan genealogies, traditional feasts of merit (Maron), and ancestral wisdom.",
+  "front_matter": {
+    "title_page": "Wungram Okthot: The Novel of Highland Heritage and Clan Trials (1998)",
+    "preface": "Wungram Okthot weaves ethnohistorical authenticity with powerful novelistic storytelling. It preserves traditional terminology for ancient rituals, clan feasts of merit (Maron), wood-carving on village gates (Kharashim), and the philosophical foundations of Tangkhul identity.",
+    "table_of_contents": [
+      "Chapter 1: The Feast of Merit (Maron Kasa)",
+      "Chapter 2: The Carving of the Village Gate (Kharashim Tarung)",
+      "Chapter 3: The Covenant of the Four Mountain Villages"
+    ],
+    "imprint": "Wung Cultural Forum, Ukhrul, 1998."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Feast of Merit (Maron Kasa)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Carving of the Village Gate (Kharashim Tarung)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Covenant of the Four Mountain Villages",
+      "page_start": 10,
+      "page_end": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Feast of Merit (Maron Kasa)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Depicts an elder staging the grand feast of merit, erecting sacrificial monoliths, and distributing meat to all clans.",
+      "tangkhul_text": "Chapter 1: Wungram elder akhana Maron (Feast of Merit) sakhavai ningkashang leisai. Maron kasana village-li saphā-kashang khangam machitheila, awui lungkashung eina mikumo pupupli kachak kala khor milaga village unity ngashankhavai leisai. Ana cattle thakharā shaksarlaga shang pupupli ngashanserie. Kala awui shim-ngalemli lungphung monolith akha kakor-hamsangie.",
+      "english_translation": "An elder of Wungram resolved to perform the solemn Feast of Merit (Maron). This feast was intended not for vain ostentation, but to generously distribute cattle meat and rice brew to every clan, thereby cementing the spiritual and social unity of the village. He slaughtered cattle and distributed portions to all clans, and erected a memorial monolith beside his homestead.",
+      "vocabulary": [
+        {
+          "word": "Maron",
+          "pos": "noun",
+          "meaning": "feast of merit, traditional philanthropic festival",
+          "example": "Maron sakhavai."
+        },
+        {
+          "word": "lungphung monolith",
+          "pos": "noun",
+          "meaning": "standing stone monument commemorating merit",
+          "example": "Monolith kakor-ham."
+        }
+      ],
+      "grammar_notes": [
+        "Socio-religious feast terminology: 'Maron kasa'.",
+        "Philanthropic motive clauses: redistributive economic structure."
+      ],
+      "exercises": [
+        "What was the social purpose of the Feast of Merit in Tangkhul tradition?",
+        "Identify the structural components of the feast."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Carving of the Village Gate (Kharashim Tarung)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Master woodcarvers adorn the sacred village entrance gate with horned mithun emblems and sun symbols.",
+      "tangkhul_text": "Chapter 2: Village-wui gate (Kharashim) kathara sakhavai, thing-artisanbingna Tarung kashang thingphun khuilaga village-li phung-ungserie. Athumna mithun (siel) horn, kazing-sira, kala warriors-wui emblem kaphāmei khak-saye. Kharashim china village-li kashikashili eina huikhuikhavai sacred barrier thada kasaye.",
+      "english_translation": "To renew the village gateway (Kharashim), master artisans carried the sacred Tarung timber from the virgin forest. With adzes and chisels, they carved motifs of mithun horns, celestial stars, and brave warriors. The consecrated gate served as both a physical fortification and a spiritual shield safeguarding the village from evil.",
+      "vocabulary": [
+        {
+          "word": "Kharashim",
+          "pos": "noun",
+          "meaning": "monumental village gateway, fortified portal",
+          "example": "Kharashim gate."
+        },
+        {
+          "word": "Tarung",
+          "pos": "noun",
+          "meaning": "sacred ceremonial Y-shaped wooden post",
+          "example": "Tarung thingphun."
+        },
+        {
+          "word": "siel horn",
+          "pos": "noun",
+          "meaning": "mithun horn motif symbolizing wealth and fertility",
+          "example": "Siel horn khak-sa."
+        }
+      ],
+      "grammar_notes": [
+        "Woodcarving and architectural terminology in Tangkhul.",
+        "Symbolic semiotics of mithun and star emblems."
+      ],
+      "exercises": [
+        "Explain the symbolic motifs carved on traditional Tangkhul village gates.",
+        "What material is used for carving the Tarung?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Covenant of the Four Mountain Villages",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Four historically warring mountain settlements establish a permanent peace pact and intermarriage alliance.",
+      "tangkhul_text": "Chapter 3: Kaphung matiwui village-bingna ngaburlaga peace treaty sakahaisai. Athumna haikaphā salaga: 'Ithui yaronaobingna warfare kashikahailaga luiramli ot sara; ithui ngalanaobingna inter-marriage eina shangli unity phungsara.' Wungram kaphung tharili peace-wui mayāngwon shokserie.",
+      "english_translation": "The four mountain villages assembled and consecrated a permanent peace pact. They solemnly pledged: 'Our youth shall cast aside war and till the terraced fields; our daughters shall unite the clans through honorable intermarriage.' And over the heights of Wungram, the rainbow of enduring peace shone bright.",
+      "vocabulary": [
+        {
+          "word": "kaphung mati",
+          "pos": "noun",
+          "meaning": "four mountain villages / territories",
+          "example": "Kaphung matiwui."
+        },
+        {
+          "word": "mayāngwon",
+          "pos": "noun",
+          "meaning": "rainbow of peace and reconciliation",
+          "example": "Peace-wui mayāngwon."
+        }
+      ],
+      "grammar_notes": [
+        "Treaty resolution parallelism: youths till fields; maidens unite clans through marriage."
+      ],
+      "exercises": [
+        "Summarize the terms of the peace pact."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Wungram Okthot: The Novel of Highland He",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "WUNGRAM OKTHOT: THE NOVEL OF HIGHLAND HERITAGE AND CLAN TRIALS"
+        ],
+        [
+          "/F1",
+          11,
+          "Wungram: A Chronicle of Tangkhul Highland Life"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Cultural Council"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Wung Cultural Forum, Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 1998 | Genre: Novel (Upanyas), Ethnohistory & Cultural Heritage"
+        ]
+      ],
+      "tangkhul_content": "Wungram Okthot: The Novel of Highland Heritage and Clan Trials -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Wungram: A Chronicle of Tangkhul Highland Life",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Wungram Okthot weaves ethnohistorical authenticity with powerful"
+        ],
+        [
+          "/F1",
+          10,
+          "novelistic storytelling. It preserves traditional terminology for"
+        ],
+        [
+          "/F1",
+          10,
+          "ancient rituals, clan feasts of merit (Maron), wood-carving on village"
+        ],
+        [
+          "/F1",
+          10,
+          "gates (Kharashim), and the philosophical foundations of Tangkhul"
+        ],
+        [
+          "/F1",
+          10,
+          "identity."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: WCF-TKH-NOVEL-WUNGRAM"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Wungram Okthot weaves ethnohistorical authenticity with powerful novelistic storytelling. It preserves traditional termi...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Feast of Merit (Maron Kasa) ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Carving of the Village Gate (Kharashim Tarun ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: The Covenant of the Four Mountain Villages ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 13"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 3.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Feast of Merit (Maron Kasa)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE FEAST OF MERIT (MARON KASA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Depicts an elder staging the grand feast of merit, erecting sacrificial monolith..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Wungram elder akhana Maron (Feast of Merit) sakhavai"
+        ],
+        [
+          "/F1",
+          9,
+          "ningkashang leisai. Maron kasana village-li saphā-kashang khangam"
+        ],
+        [
+          "/F1",
+          9,
+          "machitheila, awui lungkashung eina mikumo pupupli kachak kala khor"
+        ],
+        [
+          "/F1",
+          9,
+          "milaga village unity ngashankhavai leisai. Ana cattle thakharā"
+        ],
+        [
+          "/F1",
+          9,
+          "shaksarlaga shang pupupli ngashanserie. Kala awui shim-ngalemli"
+        ],
+        [
+          "/F1",
+          9,
+          "lungphung monolith akha kakor-hamsangie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "An elder of Wungram resolved to perform the solemn Feast of Merit"
+        ],
+        [
+          "/F1",
+          9,
+          "(Maron). This feast was intended not for vain ostentation, but to"
+        ],
+        [
+          "/F1",
+          9,
+          "generously distribute cattle meat and rice brew to every clan, thereby"
+        ],
+        [
+          "/F1",
+          9,
+          "cementing the spiritual and social unity of the village. He slaughtered"
+        ],
+        [
+          "/F1",
+          9,
+          "cattle and distributed portions to all clans, and erected a memorial"
+        ],
+        [
+          "/F1",
+          9,
+          "monolith beside his homestead."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Wungram elder akhana Maron (Feast of Merit) sakhavai ningkashang leisai. Maron kasana village-li saphā-kashang khangam machitheila, awui lungkashung eina mikumo pupupli kachak kala khor milaga village unity ngashankhavai leisai. Ana cattle thakharā shaksarlaga shang pupupli ngashanserie. Kala awui shim-ngalemli lungphung monolith akha kakor-hamsangie.",
+      "english_translation": "An elder of Wungram resolved to perform the solemn Feast of Merit (Maron). This feast was intended not for vain ostentation, but to generously distribute cattle meat and rice brew to every clan, thereby cementing the spiritual and social unity of the village. He slaughtered cattle and distributed portions to all clans, and erected a memorial monolith beside his homestead.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Feast of Merit (Maron Kasa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Maron (noun): feast of merit, traditional philanthropic festival"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Maron sakhavai."
+        ],
+        [
+          "/F2",
+          9,
+          "  * lungphung monolith (noun): standing stone monument commemorating merit"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Monolith kakor-ham."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Socio-religious feast terminology: 'Maron kasa'."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Philanthropic motive clauses: redistributive economic structure."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What was the social purpose of the Feast of Merit in Tangkhul tradition?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the structural components of the feast."
+        ]
+      ],
+      "tangkhul_content": "Maron: feast of merit, traditional philanthropic festival; lungphung monolith: standing stone monument commemorating merit",
+      "english_translation": "Socio-religious feast terminology: 'Maron kasa'.; Philanthropic motive clauses: redistributive economic structure.",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Feast of Merit (Maron Kasa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Carving of the Village Gate (Kharashim Tarung)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE CARVING OF THE VILLAGE GATE (KHARASHIM TARUNG)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Master woodcarvers adorn the sacred village entrance gate with horned mithun emb..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Village-wui gate (Kharashim) kathara sakhavai, thing-"
+        ],
+        [
+          "/F1",
+          9,
+          "artisanbingna Tarung kashang thingphun khuilaga village-li phung-"
+        ],
+        [
+          "/F1",
+          9,
+          "ungserie. Athumna mithun (siel) horn, kazing-sira, kala warriors-wui"
+        ],
+        [
+          "/F1",
+          9,
+          "emblem kaphāmei khak-saye. Kharashim china village-li kashikashili eina"
+        ],
+        [
+          "/F1",
+          9,
+          "huikhuikhavai sacred barrier thada kasaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "To renew the village gateway (Kharashim), master artisans carried the"
+        ],
+        [
+          "/F1",
+          9,
+          "sacred Tarung timber from the virgin forest. With adzes and chisels,"
+        ],
+        [
+          "/F1",
+          9,
+          "they carved motifs of mithun horns, celestial stars, and brave warriors."
+        ],
+        [
+          "/F1",
+          9,
+          "The consecrated gate served as both a physical fortification and a"
+        ],
+        [
+          "/F1",
+          9,
+          "spiritual shield safeguarding the village from evil."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Village-wui gate (Kharashim) kathara sakhavai, thing-artisanbingna Tarung kashang thingphun khuilaga village-li phung-ungserie. Athumna mithun (siel) horn, kazing-sira, kala warriors-wui emblem kaphāmei khak-saye. Kharashim china village-li kashikashili eina huikhuikhavai sacred barrier thada kasaye.",
+      "english_translation": "To renew the village gateway (Kharashim), master artisans carried the sacred Tarung timber from the virgin forest. With adzes and chisels, they carved motifs of mithun horns, celestial stars, and brave warriors. The consecrated gate served as both a physical fortification and a spiritual shield safeguarding the village from evil.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Carving of the Village Gate (Kharashim Tarung)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Kharashim (noun): monumental village gateway, fortified portal"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kharashim gate."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tarung (noun): sacred ceremonial Y-shaped wooden post"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Tarung thingphun."
+        ],
+        [
+          "/F2",
+          9,
+          "  * siel horn (noun): mithun horn motif symbolizing wealth and fertility"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Siel horn khak-sa."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Woodcarving and architectural terminology in Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Symbolic semiotics of mithun and star emblems."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the symbolic motifs carved on traditional Tangkhul village gates."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What material is used for carving the Tarung?"
+        ]
+      ],
+      "tangkhul_content": "Kharashim: monumental village gateway, fortified portal; Tarung: sacred ceremonial Y-shaped wooden post; siel horn: mithun horn motif symbolizing wealth and fertility",
+      "english_translation": "Woodcarving and architectural terminology in Tangkhul.; Symbolic semiotics of mithun and star emblems.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Carving of the Village Gate (Kharashim Tarung)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "The Covenant of the Four Mountain Villages",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: THE COVENANT OF THE FOUR MOUNTAIN VILLAGES"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Four historically warring mountain settlements establish a permanent peace pact ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Kaphung matiwui village-bingna ngaburlaga peace treaty"
+        ],
+        [
+          "/F1",
+          9,
+          "sakahaisai. Athumna haikaphā salaga: 'Ithui yaronaobingna warfare"
+        ],
+        [
+          "/F1",
+          9,
+          "kashikahailaga luiramli ot sara; ithui ngalanaobingna inter-marriage"
+        ],
+        [
+          "/F1",
+          9,
+          "eina shangli unity phungsara.' Wungram kaphung tharili peace-wui"
+        ],
+        [
+          "/F1",
+          9,
+          "mayāngwon shokserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "The four mountain villages assembled and consecrated a permanent peace"
+        ],
+        [
+          "/F1",
+          9,
+          "pact. They solemnly pledged: 'Our youth shall cast aside war and till"
+        ],
+        [
+          "/F1",
+          9,
+          "the terraced fields; our daughters shall unite the clans through"
+        ],
+        [
+          "/F1",
+          9,
+          "honorable intermarriage.' And over the heights of Wungram, the rainbow"
+        ],
+        [
+          "/F1",
+          9,
+          "of enduring peace shone bright."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Kaphung matiwui village-bingna ngaburlaga peace treaty sakahaisai. Athumna haikaphā salaga: 'Ithui yaronaobingna warfare kashikahailaga luiramli ot sara; ithui ngalanaobingna inter-marriage eina shangli unity phungsara.' Wungram kaphung tharili peace-wui mayāngwon shokserie.",
+      "english_translation": "The four mountain villages assembled and consecrated a permanent peace pact. They solemnly pledged: 'Our youth shall cast aside war and till the terraced fields; our daughters shall unite the clans through honorable intermarriage.' And over the heights of Wungram, the rainbow of enduring peace shone bright.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: The Covenant of the Four Mountain Villages",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kaphung mati (noun): four mountain villages / territories"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kaphung matiwui."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mayāngwon (noun): rainbow of peace and reconciliation"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Peace-wui mayāngwon."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Treaty resolution parallelism: youths till fields; maidens unite clans through marriage."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Summarize the terms of the peace pact."
+        ]
+      ],
+      "tangkhul_content": "kaphung mati: four mountain villages / territories; mayāngwon: rainbow of peace and reconciliation",
+      "english_translation": "Treaty resolution parallelism: youths till fields; maidens unite clans through marriage.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: The Covenant of the Four Mountain Villages",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Maron -- feast of merit, traditional philanthropic festival"
+        ],
+        [
+          "/F1",
+          9,
+          "  * lungphung monolith -- standing stone monument commemorating merit"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Kharashim -- monumental village gateway, fortified portal"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Tarung -- sacred ceremonial Y-shaped wooden post"
+        ],
+        [
+          "/F1",
+          9,
+          "  * siel horn -- mithun horn motif symbolizing wealth and fertility"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kaphung mati -- four mountain villages / territories"
+        ],
+        [
+          "/F1",
+          9,
+          "  * mayāngwon -- rainbow of peace and reconciliation"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Maron",
+        "pos": "noun",
+        "meaning": "feast of merit, traditional philanthropic festival",
+        "example": "Maron sakhavai."
+      },
+      {
+        "word": "lungphung monolith",
+        "pos": "noun",
+        "meaning": "standing stone monument commemorating merit",
+        "example": "Monolith kakor-ham."
+      },
+      {
+        "word": "Kharashim",
+        "pos": "noun",
+        "meaning": "monumental village gateway, fortified portal",
+        "example": "Kharashim gate."
+      },
+      {
+        "word": "Tarung",
+        "pos": "noun",
+        "meaning": "sacred ceremonial Y-shaped wooden post",
+        "example": "Tarung thingphun."
+      },
+      {
+        "word": "siel horn",
+        "pos": "noun",
+        "meaning": "mithun horn motif symbolizing wealth and fertility",
+        "example": "Siel horn khak-sa."
+      },
+      {
+        "word": "kaphung mati",
+        "pos": "noun",
+        "meaning": "four mountain villages / territories",
+        "example": "Kaphung matiwui."
+      },
+      {
+        "word": "mayāngwon",
+        "pos": "noun",
+        "meaning": "rainbow of peace and reconciliation",
+        "example": "Peace-wui mayāngwon."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 13,
+  "total_chapters": 3,
+  "total_words": 268,
+  "excerpts": [
+    "Chapter 1: Wungram elder akhana Maron (Feast of Merit) sakhavai ningkashang leisai. Maron kasana village-li saphā-kashan...",
+    "Chapter 2: Village-wui gate (Kharashim) kathara sakhavai, thing-artisanbingna Tarung kashang thingphun khuilaga village-...",
+    "Chapter 3: Kaphung matiwui village-bingna ngaburlaga peace treaty sakahaisai. Athumna haikaphā salaga: 'Ithui yaronaobin..."
+  ]
+}

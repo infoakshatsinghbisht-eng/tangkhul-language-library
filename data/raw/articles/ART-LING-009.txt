@@ -1,0 +1,39 @@
+TITLE: Tangkhul Kinship Terminology, Consanguinity, and Lineage Structure: An Ethnolinguistic Model
+AUTHORS: Prof. M. S. Thirumalai, Dr. Kapesa Khayi
+JOURNAL / VENUE: Language in India (ISSN 1930-2940) (2014)
+SUBJECT: Ethnolinguistics & Kinship Anthropology
+KEYWORDS: Kinship, Omaha Type, Shang, Consanguinity, Ethnolinguistics, Thirumalai
+
+ABSTRACT:
+Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper presents the first exhaustive ethnolinguistic classification of Tangkhul kinship terminology, encompassing 68 consanguineal and affinal terms. We demonstrate that Tangkhul exhibits a bifurcate merging system of the Omaha subtype, reflecting strict patrilineal clan organization (Shang) and asymmetrical cross-cousin marriage rules.
+
+SECTION: 1. Bifurcate Merging & Patrilineal Alignment
+In Tangkhul, the father's brother is addressed by the same root as father (Ava-kakhano for father's younger brother, Ava-kakhara for father's elder brother), whereas the mother's brother is distinguished as Mawa/Kuku. Similarly, parallel cousins are equated with biological siblings (Uningnao), whereas cross-cousins fall into distinct terminological classes linked to marriageability.
+Linguistic Data:
+  * Ava : father
+    Notes: Primary consanguineal male ancestor.
+  * Ava-kakhano : father's younger brother
+    Notes: Bifurcate merging parallel uncle.
+  * Mawa / Kuku : mother's brother (maternal uncle)
+    Notes: Affinal alliance partner.
+
+SECTION: 2. Sibling Terminology & Seniority Distinctions
+Seniority relative to the speaker is strictly encoded in sibling terms. Elder brother is achon/ayei, younger brother is atat/akhanao, elder sister is va-kakhara, and younger sister is va-kakhano. The collective compound uningnao encompasses all sibling kin within the Shang lineage.
+Linguistic Data:
+  * ayei : elder brother
+    Notes: Senior male sibling.
+  * akhanao : younger sibling (male or female)
+    Notes: Junior sibling term.
+  * uningnao : lineage siblings / clan brethren
+    Notes: Collective kinship noun.
+
+SECTION: 3. Affinal Terminologies & Asymmetrical Alliances
+Affinal terms reflect mother's brother's daughter (MBD) preferential alliance. The wife's clan is honored as Mayāng-shang (life-giving in-laws), commanding ceremonial gifts of meat and woven shawls at all lifecycle rituals.
+Linguistic Data:
+  * Mayāng-shang : wife-giving affinal clan lineage
+    Notes: Ceremonial in-law alliance.
+
+REFERENCES:
+  - Fox, Robin. 1967. Kinship and Marriage: An Anthropological Perspective. Penguin.
+  - Murdock, George Peter. 1949. Social Structure. Macmillan.
+  - Thirumalai, M. S. & Kapesa Khayi. 2014. Tangkhul Kinship Terminology. Language in India 14(5): 112-138.

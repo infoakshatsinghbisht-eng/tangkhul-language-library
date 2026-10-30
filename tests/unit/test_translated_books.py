@@ -81,3 +81,4 @@ def test_get_book_retrieval_for_translations() -> None:
     aesop = get_book("BK-TRNS-007")
     assert aesop is not None
     assert "Aesop" in aesop["title"]
+

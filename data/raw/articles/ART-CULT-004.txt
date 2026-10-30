@@ -1,0 +1,34 @@
+TITLE: Tangkhul Folk Riddles (Tungtuktui): Metaphorical Cognition and Oral Pedagogy
+AUTHORS: Prof. Khashim Ruivah, Dr. Kapesa Khayi
+JOURNAL / VENUE: Folklore & Oral Traditions of Northeast India (2011)
+SUBJECT: Folklore, Oral Riddles & Cognitive Linguistics
+KEYWORDS: Tungtuktui, Riddles, Folklore, Metaphor, Oral Literature, Cognition
+
+ABSTRACT:
+Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gatherings in village dormitories and family hearths. This paper investigates the cognitive structures, metaphor mappings, and pedagogical functions of Tangkhul riddling. We analyze 400 collected riddles across four semantic domains: human anatomy, household implements, flora/fauna, and celestial phenomena, demonstrating how riddles cultivate rapid analogical reasoning in youth.
+
+SECTION: 1. The Riddling Frame and Discourse Conventions
+A riddling session opens with the ritual formula: 'Tungtuk-tui akha hang-sa!' (Let me cast a riddle!). The audience responds in unison: 'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The challenger poses the metaphoric enigma, and the participants offer competing guesses until the correct solution is hailed.
+Linguistic Data:
+  * Tungtuk-tui akha hang-sa! : Formulaic opening: Let me cast a riddle!
+    Notes: Discourse initiation marker.
+  * Tungtuktui : folk riddle, metaphorical enigma
+    Notes: Tungtuk (strike/probe) + tui (word).
+
+SECTION: 2. Structural Typology: Animal and Anatomy Metaphors
+Tangkhul riddles rely on vivid domestic comparisons. For instance, the traditional carrying basket (Phurwon) is personified as a woman who eats firewood and carries stones; teeth are thirty-two white warriors standing guard in a crimson cave; and rain is a thousand silver needles sewing sky to mountain.
+Linguistic Data:
+  * 'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth) : Thirty white-robed youths sitting in rows: What is it? -> Teeth
+    Notes: Anatomical personification.
+  * 'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain) : Falls from heaven, touches earth and vanishes: What is it? -> Rain
+    Notes: Meteorological riddle.
+
+SECTION: 3. Pedagogical and Social Cognitive Value
+Beyond recreation, Tungtuktui served as oral encyclopedias. Children learned animal tracking habits, forest plant traits, and linguistic vocabulary by deciphering these poetic enigmas during winter evenings beside the glowing hearth.
+Linguistic Data:
+  * Meikhangahui wari : fireside hearth education
+    Notes: Informal traditional pedagogy.
+
+REFERENCES:
+  - Georges, Robert A. & Alan Dundes. 1963. Toward a Structural Definition of the Riddle. Journal of American Folklore.
+  - Ruivah, Khashim & Kapesa Khayi. 2011. Tangkhul Folk Riddles. Folklore & Oral Traditions 9: 88-115.

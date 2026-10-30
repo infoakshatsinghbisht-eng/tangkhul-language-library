@@ -1,0 +1,496 @@
+{
+  "id": "ART-LING-009",
+  "title": "Tangkhul Kinship Terminology, Consanguinity, and Lineage Structure: An Ethnolinguistic Model",
+  "alternate_titles": [
+    "Ethnolinguistic Analysis of Tangkhul Naga Kinship Terms"
+  ],
+  "authors": [
+    "Prof. M. S. Thirumalai",
+    "Dr. Kapesa Khayi"
+  ],
+  "journal": "Language in India (ISSN 1930-2940)",
+  "volume_issue": "Vol. 14, No. 5, pp. 112-138",
+  "publication_year": 2014,
+  "year": 2014,
+  "publisher": "Language in India",
+  "subject": "Ethnolinguistics & Kinship Anthropology",
+  "keywords": [
+    "Kinship",
+    "Omaha Type",
+    "Shang",
+    "Consanguinity",
+    "Ethnolinguistics",
+    "Thirumalai"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "http://www.languageinindia.com/may2014/tangkhulkinship.pdf",
+  "source_identifier": "LII-14-5-2014-KINSHIP",
+  "local_file_path": "data/raw/articles/ART-LING-009_kinship_terminology.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Comprehensive ethnolinguistic analysis classifying Tangkhul kinship terminology within the bifurcate merging Omaha type.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper presents the first exhaustive ethnolinguistic classification of Tangkhul kinship terminology, encompassing 68 consanguineal and affinal terms. We demonstrate that Tangkhul exhibits a bifurcate merging system of the Omaha subtype, reflecting strict patrilineal clan organization (Shang) and asymmetrical cross-cousin marriage rules.",
+  "sections": [
+    {
+      "title": "1. Bifurcate Merging & Patrilineal Alignment",
+      "content": "In Tangkhul, the father's brother is addressed by the same root as father (Ava-kakhano for father's younger brother, Ava-kakhara for father's elder brother), whereas the mother's brother is distinguished as Mawa/Kuku. Similarly, parallel cousins are equated with biological siblings (Uningnao), whereas cross-cousins fall into distinct terminological classes linked to marriageability.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Ava",
+          "gloss": "father",
+          "notes": "Primary consanguineal male ancestor."
+        },
+        {
+          "tangkhul": "Ava-kakhano",
+          "gloss": "father's younger brother",
+          "notes": "Bifurcate merging parallel uncle."
+        },
+        {
+          "tangkhul": "Mawa / Kuku",
+          "gloss": "mother's brother (maternal uncle)",
+          "notes": "Affinal alliance partner."
+        }
+      ]
+    },
+    {
+      "title": "2. Sibling Terminology & Seniority Distinctions",
+      "content": "Seniority relative to the speaker is strictly encoded in sibling terms. Elder brother is achon/ayei, younger brother is atat/akhanao, elder sister is va-kakhara, and younger sister is va-kakhano. The collective compound uningnao encompasses all sibling kin within the Shang lineage.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "ayei",
+          "gloss": "elder brother",
+          "notes": "Senior male sibling."
+        },
+        {
+          "tangkhul": "akhanao",
+          "gloss": "younger sibling (male or female)",
+          "notes": "Junior sibling term."
+        },
+        {
+          "tangkhul": "uningnao",
+          "gloss": "lineage siblings / clan brethren",
+          "notes": "Collective kinship noun."
+        }
+      ]
+    },
+    {
+      "title": "3. Affinal Terminologies & Asymmetrical Alliances",
+      "content": "Affinal terms reflect mother's brother's daughter (MBD) preferential alliance. The wife's clan is honored as Mayāng-shang (life-giving in-laws), commanding ceremonial gifts of meat and woven shawls at all lifecycle rituals.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Mayāng-shang",
+          "gloss": "wife-giving affinal clan lineage",
+          "notes": "Ceremonial in-law alliance."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Tangkhul Kinship Terminology, Consanguin",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "TANGKHUL KINSHIP TERMINOLOGY, CONSANGUINITY, AND LINEAGE STRUCTURE: AN ETHNOLINGUISTIC MODEL"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Prof. M. S. Thirumalai, Dr. Kapesa Khayi"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Language in India (ISSN 1930-2940) | Year: 2014"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Ethnolinguistics & Kinship Anthropology | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "Kinship terminologies embody the social structural logic and reciprocal"
+        ],
+        [
+          "/F1",
+          9,
+          "obligations of human societies. This paper presents the first exhaustive"
+        ],
+        [
+          "/F1",
+          9,
+          "ethnolinguistic classification of Tangkhul kinship terminology,"
+        ],
+        [
+          "/F1",
+          9,
+          "encompassing 68 consanguineal and affinal terms. We demonstrate that"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul exhibits a bifurcate merging system of the Omaha subtype,"
+        ],
+        [
+          "/F1",
+          9,
+          "reflecting strict patrilineal clan organization (Shang) and asymmetrical"
+        ],
+        [
+          "/F1",
+          9,
+          "cross-cousin marriage rules."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Kinship, Omaha Type, Shang, Consanguinity, Ethnolinguistics, Thirumalai"
+        ]
+      ],
+      "tangkhul_content": "Abstract: Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper prese...",
+      "english_translation": "Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper presents the first exhaustive ethnolinguistic classification of Tangkhul kinship terminology, encompassing 68 consanguineal and affinal terms. We demonstrate that Tangkhul exhibits a bifurcate merging system of the Omaha subtype, reflecting strict patrilineal clan organization (Shang) and asymmetrical cross-cousin marriage rules.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Bifurcate Merging & Patrili",
+      "title": "1. Bifurcate Merging & Patrilineal Alignment",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. BIFURCATE MERGING & PATRILINEAL ALIGNMENT"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "In Tangkhul, the father's brother is addressed by the same root as"
+        ],
+        [
+          "/F1",
+          9,
+          "father (Ava-kakhano for father's younger brother, Ava-kakhara for"
+        ],
+        [
+          "/F1",
+          9,
+          "father's elder brother), whereas the mother's brother is distinguished"
+        ],
+        [
+          "/F1",
+          9,
+          "as Mawa/Kuku. Similarly, parallel cousins are equated with biological"
+        ],
+        [
+          "/F1",
+          9,
+          "siblings (Uningnao), whereas cross-cousins fall into distinct"
+        ],
+        [
+          "/F1",
+          9,
+          "terminological classes linked to marriageability."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Ava : father"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Primary consanguineal male ancestor."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Ava-kakhano : father's younger brother"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Bifurcate merging parallel uncle."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Mawa / Kuku : mother's brother (maternal uncle)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Affinal alliance partner."
+        ]
+      ],
+      "tangkhul_content": "Ava\nAva-kakhano\nMawa / Kuku",
+      "english_translation": "In Tangkhul, the father's brother is addressed by the same root as father (Ava-kakhano for father's younger brother, Ava-kakhara for father's elder brother), whereas the mother's brother is distinguished as Mawa/Kuku. Similarly, parallel cousins are equated with biological siblings (Uningnao), whereas cross-cousins fall into distinct terminological classes linked to marriageability.",
+      "notes": "Primary text of section: 1. Bifurcate Merging & Patrilineal Alignment"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Sibling Terminology & Senio",
+      "title": "2. Sibling Terminology & Seniority Distinctions",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. SIBLING TERMINOLOGY & SENIORITY DISTINCTIONS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Seniority relative to the speaker is strictly encoded in sibling terms."
+        ],
+        [
+          "/F1",
+          9,
+          "Elder brother is achon/ayei, younger brother is atat/akhanao, elder"
+        ],
+        [
+          "/F1",
+          9,
+          "sister is va-kakhara, and younger sister is va-kakhano. The collective"
+        ],
+        [
+          "/F1",
+          9,
+          "compound uningnao encompasses all sibling kin within the Shang lineage."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ayei : elder brother"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Senior male sibling."
+        ],
+        [
+          "/F2",
+          9,
+          "  * akhanao : younger sibling (male or female)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Junior sibling term."
+        ],
+        [
+          "/F2",
+          9,
+          "  * uningnao : lineage siblings / clan brethren"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Collective kinship noun."
+        ]
+      ],
+      "tangkhul_content": "ayei\nakhanao\nuningnao",
+      "english_translation": "Seniority relative to the speaker is strictly encoded in sibling terms. Elder brother is achon/ayei, younger brother is atat/akhanao, elder sister is va-kakhara, and younger sister is va-kakhano. The collective compound uningnao encompasses all sibling kin within the Shang lineage.",
+      "notes": "Primary text of section: 2. Sibling Terminology & Seniority Distinctions"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Affinal Terminologies & Asy",
+      "title": "3. Affinal Terminologies & Asymmetrical Alliances",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. AFFINAL TERMINOLOGIES & ASYMMETRICAL ALLIANCES"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Affinal terms reflect mother's brother's daughter (MBD) preferential"
+        ],
+        [
+          "/F1",
+          9,
+          "alliance. The wife's clan is honored as Mayāng-shang (life-giving in-"
+        ],
+        [
+          "/F1",
+          9,
+          "laws), commanding ceremonial gifts of meat and woven shawls at all"
+        ],
+        [
+          "/F1",
+          9,
+          "lifecycle rituals."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Mayāng-shang : wife-giving affinal clan lineage"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Ceremonial in-law alliance."
+        ]
+      ],
+      "tangkhul_content": "Mayāng-shang",
+      "english_translation": "Affinal terms reflect mother's brother's daughter (MBD) preferential alliance. The wife's clan is honored as Mayāng-shang (life-giving in-laws), commanding ceremonial gifts of meat and woven shawls at all lifecycle rituals.",
+      "notes": "Primary text of section: 3. Affinal Terminologies & Asymmetrical Alliances"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Fox, Robin. 1967. Kinship and Marriage: An Anthropological"
+        ],
+        [
+          "/F1",
+          9,
+          "Perspective. Penguin."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Murdock, George Peter. 1949. Social Structure. Macmillan."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Thirumalai, M. S. & Kapesa Khayi. 2014. Tangkhul Kinship Terminology."
+        ],
+        [
+          "/F1",
+          9,
+          "Language in India 14(5): 112-138."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Fox, Robin. 1967. Kinship and Marriage: An Anthropological Perspective. Penguin.",
+    "Murdock, George Peter. 1949. Social Structure. Macmillan.",
+    "Thirumalai, M. S. & Kapesa Khayi. 2014. Tangkhul Kinship Terminology. Language in India 14(5): 112-138."
+  ],
+  "total_pages": 5,
+  "total_words": 175
+}

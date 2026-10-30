@@ -361,8 +361,8 @@ def test_actual_repository_manifests_integrity() -> None:
     manifest_map = validate_all_manifests(manifest_dir)
 
     expected_counts = {
-        "articles.jsonl": 10,
-        "books.jsonl": 45,
+        "articles.jsonl": 18,
+        "books.jsonl": 55,
         "culture.jsonl": 35,
         "dictionaries.jsonl": 16,
         "history.jsonl": 32,
@@ -384,6 +384,6 @@ def test_actual_repository_manifests_integrity() -> None:
             assert r.id not in all_ids, f"Global duplicate ID found: {r.id}"
             all_ids.add(r.id)
 
-    assert total_records == 246
-    assert len(all_ids) == 246
+    assert total_records == 264
+    assert len(all_ids) == 264
 

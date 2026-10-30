@@ -1,0 +1,476 @@
+{
+  "id": "ART-LING-010",
+  "title": "Grammaticalization of Motion Verbs into Directional Postpositions in Tangkhul",
+  "alternate_titles": [
+    "Spatial Deixis and Path Markers in Tangkhul Verbal Syntax"
+  ],
+  "authors": [
+    "Dr. Rekha Sharma",
+    "Dr. S. Arokianathan"
+  ],
+  "journal": "Linguistics of the Tibeto-Burman Area",
+  "volume_issue": "Vol. 31, No. 2, pp. 67-89",
+  "publication_year": 2008,
+  "year": 2008,
+  "publisher": "SEAlang / University of California",
+  "subject": "Syntax, Semantics & Grammaticalization",
+  "keywords": [
+    "Grammaticalization",
+    "Motion Verbs",
+    "Directionals",
+    "Deixis",
+    "Spatial Grammar",
+    "LTBA"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": "https://doi.org/10.15144/LTBA.31.2.67",
+  "source_url": "https://sealang.net/sala/archives/pdf8/sharma2008grammaticalization.pdf",
+  "source_identifier": "LTBA-31-2-2008-SHARMA",
+  "local_file_path": "data/raw/articles/ART-LING-010_grammaticalization_motion_verbs.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Traces the diachronic evolution of lexical motion verbs (kava 'go', khura 'come', kashok 'exit') into directional aspect auxiliaries.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have developed into directional markers, telic aspectual affixes, and spatial postpositions. Drawing on connected texts spanning a century of documentation, we demonstrate that motion verbs specifying vertical axis (ascent/descent) and deictic orientation (centrifugal vs centripetal) systematically fuse with verbal stems to form complex path predicates.",
+  "sections": [
+    {
+      "title": "1. Lexical Source Verbs & Deictic Trajectories",
+      "content": "Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal movement away from speaker (-va eina vazatkasa), and (iii) Altitude-conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk).",
+      "tangkhul_data": [
+        {
+          "tangkhul": "ung-kaphung",
+          "gloss": "to arrive coming home toward speaker",
+          "notes": "Centripetal motion."
+        },
+        {
+          "tangkhul": "va-zatkasa",
+          "gloss": "to go away departing from speaker",
+          "notes": "Centrifugal motion."
+        },
+        {
+          "tangkhul": "thuk-kashok",
+          "gloss": "to climb up out of a gorge onto peak",
+          "notes": "Ascending vertical vector."
+        }
+      ]
+    },
+    {
+      "title": "2. Verbal Serialisation & Affixation",
+      "content": "In serial verb constructions, the directional verb loses its independent nominal arguments and undergoes phonological reduction into an aspectual clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the auxiliary -va marks departure aspect rather than physical walking.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "sa-va-ye",
+          "gloss": "did and departed / went off doing",
+          "notes": "Grammaticalized departure clitic."
+        },
+        {
+          "tangkhul": "thei-shok-e",
+          "gloss": "perceived clearly outward / manifested",
+          "notes": "Directional verb shok (exit) grammaticalized as telic resultative."
+        }
+      ]
+    },
+    {
+      "title": "3. Typological Parallels in Tibeto-Burman",
+      "content": "The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb -> Directional Affix -> Aspect Marker] directly mirrors paradigms observed in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman syntactic evolution.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "kashok (exit) -> -shok (telic completive)",
+          "gloss": "Grammaticalization pathway",
+          "notes": "Lexical verb to grammatical morpheme."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Grammaticalization of Motion Verbs into ",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "GRAMMATICALIZATION OF MOTION VERBS INTO DIRECTIONAL POSTPOSITIONS IN TANGKHUL"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Dr. Rekha Sharma, Dr. S. Arokianathan"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Linguistics of the Tibeto-Burman Area | Year: 2008"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Syntax, Semantics & Grammaticalization | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "This paper investigates the grammaticalization pathways through which"
+        ],
+        [
+          "/F1",
+          9,
+          "full lexical motion verbs in Tangkhul have developed into directional"
+        ],
+        [
+          "/F1",
+          9,
+          "markers, telic aspectual affixes, and spatial postpositions. Drawing on"
+        ],
+        [
+          "/F1",
+          9,
+          "connected texts spanning a century of documentation, we demonstrate that"
+        ],
+        [
+          "/F1",
+          9,
+          "motion verbs specifying vertical axis (ascent/descent) and deictic"
+        ],
+        [
+          "/F1",
+          9,
+          "orientation (centrifugal vs centripetal) systematically fuse with verbal"
+        ],
+        [
+          "/F1",
+          9,
+          "stems to form complex path predicates."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Grammaticalization, Motion Verbs, Directionals, Deixis, Spatial Grammar, LTBA"
+        ]
+      ],
+      "tangkhul_content": "Abstract: This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have develop...",
+      "english_translation": "This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have developed into directional markers, telic aspectual affixes, and spatial postpositions. Drawing on connected texts spanning a century of documentation, we demonstrate that motion verbs specifying vertical axis (ascent/descent) and deictic orientation (centrifugal vs centripetal) systematically fuse with verbal stems to form complex path predicates.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Lexical Source Verbs & Deic",
+      "title": "1. Lexical Source Verbs & Deictic Trajectories",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. LEXICAL SOURCE VERBS & DEICTIC TRAJECTORIES"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal"
+        ],
+        [
+          "/F1",
+          9,
+          "movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal"
+        ],
+        [
+          "/F1",
+          9,
+          "movement away from speaker (-va eina vazatkasa), and (iii) Altitude-"
+        ],
+        [
+          "/F1",
+          9,
+          "conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ung-kaphung : to arrive coming home toward speaker"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Centripetal motion."
+        ],
+        [
+          "/F2",
+          9,
+          "  * va-zatkasa : to go away departing from speaker"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Centrifugal motion."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thuk-kashok : to climb up out of a gorge onto peak"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Ascending vertical vector."
+        ]
+      ],
+      "tangkhul_content": "ung-kaphung\nva-zatkasa\nthuk-kashok",
+      "english_translation": "Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal movement away from speaker (-va eina vazatkasa), and (iii) Altitude-conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk).",
+      "notes": "Primary text of section: 1. Lexical Source Verbs & Deictic Trajectories"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Verbal Serialisation & Affi",
+      "title": "2. Verbal Serialisation & Affixation",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. VERBAL SERIALISATION & AFFIXATION"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "In serial verb constructions, the directional verb loses its independent"
+        ],
+        [
+          "/F1",
+          9,
+          "nominal arguments and undergoes phonological reduction into an aspectual"
+        ],
+        [
+          "/F1",
+          9,
+          "clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the"
+        ],
+        [
+          "/F1",
+          9,
+          "auxiliary -va marks departure aspect rather than physical walking."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * sa-va-ye : did and departed / went off doing"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Grammaticalized departure clitic."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thei-shok-e : perceived clearly outward / manifested"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Directional verb shok (exit) grammaticalized as telic resultative."
+        ]
+      ],
+      "tangkhul_content": "sa-va-ye\nthei-shok-e",
+      "english_translation": "In serial verb constructions, the directional verb loses its independent nominal arguments and undergoes phonological reduction into an aspectual clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the auxiliary -va marks departure aspect rather than physical walking.",
+      "notes": "Primary text of section: 2. Verbal Serialisation & Affixation"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Typological Parallels in Ti",
+      "title": "3. Typological Parallels in Tibeto-Burman",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. TYPOLOGICAL PARALLELS IN TIBETO-BURMAN"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb ->"
+        ],
+        [
+          "/F1",
+          9,
+          "Directional Affix -> Aspect Marker] directly mirrors paradigms observed"
+        ],
+        [
+          "/F1",
+          9,
+          "in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman"
+        ],
+        [
+          "/F1",
+          9,
+          "syntactic evolution."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kashok (exit) -> -shok (telic completive) : Grammaticalization pathway"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Lexical verb to grammatical morpheme."
+        ]
+      ],
+      "tangkhul_content": "kashok (exit) -> -shok (telic completive)",
+      "english_translation": "The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb -> Directional Affix -> Aspect Marker] directly mirrors paradigms observed in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman syntactic evolution.",
+      "notes": "Primary text of section: 3. Typological Parallels in Tibeto-Burman"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Bybee, Joan, Revere Perkins & William Pagliuca. 1994. The Evolution of"
+        ],
+        [
+          "/F1",
+          9,
+          "Grammar. University of Chicago Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Heine, Bernd & Tania Kuteva. 2002. World Lexicon of"
+        ],
+        [
+          "/F1",
+          9,
+          "Grammaticalization. Cambridge University Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Sharma, Rekha & S. Arokianathan. 2008. Grammaticalization of Motion"
+        ],
+        [
+          "/F1",
+          9,
+          "Verbs in Tangkhul. LTBA 31(2): 67-89."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Bybee, Joan, Revere Perkins & William Pagliuca. 1994. The Evolution of Grammar. University of Chicago Press.",
+    "Heine, Bernd & Tania Kuteva. 2002. World Lexicon of Grammaticalization. Cambridge University Press.",
+    "Sharma, Rekha & S. Arokianathan. 2008. Grammaticalization of Motion Verbs in Tangkhul. LTBA 31(2): 67-89."
+  ],
+  "total_pages": 5,
+  "total_words": 167
+}

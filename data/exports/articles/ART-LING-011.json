@@ -1,0 +1,470 @@
+{
+  "id": "ART-LING-011",
+  "title": "Optimality Theoretic Account of Tone Sandhi in Tangkhul Nominal Compounding",
+  "alternate_titles": [
+    "Constraint Interaction and Prosodic Phonology of Tangkhul Pitch"
+  ],
+  "authors": [
+    "Dr. Kapesa Khayi"
+  ],
+  "journal": "Phonological Studies of the North East (NEILS Occasional Papers)",
+  "volume_issue": "Vol. 4, pp. 145-168",
+  "publication_year": 2015,
+  "year": 2015,
+  "publisher": "NEILS / Gauhati University Press",
+  "subject": "Theoretical Phonology & Optimality Theory",
+  "keywords": [
+    "Optimality Theory",
+    "Tone Sandhi",
+    "Phonology",
+    "Constraints",
+    "Ukhrul",
+    "F0"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "https://neils.org.in/publications/khayi2015tonal_ot",
+  "source_identifier": "NEILS-OP-2015-KHAYI",
+  "local_file_path": "data/raw/articles/ART-LING-011_optimality_tone_sandhi.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "First Optimality Theory (OT) constraint-based analysis of tone sandhi and register raising in Tangkhul noun compounding.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avoid adjacent sharp pitch falls within the prosodic word. This paper formulates an Optimality Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked above faithfulness constraints (Ident-IO(Tone)) successfully accounts for right-edge register raising.",
+  "sections": [
+    {
+      "title": "1. The Empirical Problem of Tangkhul Sandhi",
+      "content": "Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M, 33), and Low (L, 21). When a High-toned base compounds with a Low-toned nominal root, the surface output is consistently High-Mid (H-M) rather than the expected H-L. For example, luí (H, field) + ram (L, land) surfaces as [luí-ram] with Mid pitch on the second syllable.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "luí [55] + ram [21] -> luí-ram [55-33]",
+          "gloss": "cultivated field territory",
+          "notes": "Right-edge Low raising to Mid."
+        },
+        {
+          "tangkhul": "thāng [55] + zingsho [33] -> thāng-zingsho [55-33]",
+          "gloss": "broad daylight",
+          "notes": "Faithful Mid retention."
+        }
+      ]
+    },
+    {
+      "title": "2. OT Constraint Hierarchy",
+      "content": "We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a two-register pitch plunge (55 to 21) within a single prosodic word. Candidate [55-33] incurs a single violation of low-ranked faithfulness Ident-IO(Tone), but decisively eliminates the faithful candidate [55-21].",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Candidate A: [55-21]",
+          "gloss": "Violates *Drop-HL",
+          "notes": "Fatal violation on markedness."
+        },
+        {
+          "tangkhul": "Candidate B: [55-33]",
+          "gloss": "Optimal winner",
+          "notes": "Preserves optimal prosodic contour."
+        }
+      ]
+    },
+    {
+      "title": "3. Compound Truncation and Coda Effects",
+      "content": "Syllables with glottal stop codas inhibit sandhi raising, behaving as opaque phonological boundaries. This demonstrates that laryngeal features interact directly with tonal autosegmental licensing in Tangkhul phonology.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Glottal opacity",
+          "gloss": "Coda [ʔ] blocks tone assimilation",
+          "notes": "Laryngeal feature licensing."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Optimality Theoretic Account of Tone San",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "OPTIMALITY THEORETIC ACCOUNT OF TONE SANDHI IN TANGKHUL NOMINAL COMPOUNDING"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Dr. Kapesa Khayi"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Phonological Studies of the North East (NEILS Occasional Papers) | Year: 2015"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Theoretical Phonology & Optimality Theory | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "When monosyllabic morphemes concatenate into compound nouns in Tangkhul"
+        ],
+        [
+          "/F1",
+          9,
+          "Naga, systematic tonal alternations occur to avoid adjacent sharp pitch"
+        ],
+        [
+          "/F1",
+          9,
+          "falls within the prosodic word. This paper formulates an Optimality"
+        ],
+        [
+          "/F1",
+          9,
+          "Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the"
+        ],
+        [
+          "/F1",
+          9,
+          "interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked"
+        ],
+        [
+          "/F1",
+          9,
+          "above faithfulness constraints (Ident-IO(Tone)) successfully accounts"
+        ],
+        [
+          "/F1",
+          9,
+          "for right-edge register raising."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Optimality Theory, Tone Sandhi, Phonology, Constraints, Ukhrul, F0"
+        ]
+      ],
+      "tangkhul_content": "Abstract: When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avo...",
+      "english_translation": "When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avoid adjacent sharp pitch falls within the prosodic word. This paper formulates an Optimality Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked above faithfulness constraints (Ident-IO(Tone)) successfully accounts for right-edge register raising.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. The Empirical Problem of Ta",
+      "title": "1. The Empirical Problem of Tangkhul Sandhi",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. THE EMPIRICAL PROBLEM OF TANGKHUL SANDHI"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M,"
+        ],
+        [
+          "/F1",
+          9,
+          "33), and Low (L, 21). When a High-toned base compounds with a Low-toned"
+        ],
+        [
+          "/F1",
+          9,
+          "nominal root, the surface output is consistently High-Mid (H-M) rather"
+        ],
+        [
+          "/F1",
+          9,
+          "than the expected H-L. For example, luí (H, field) + ram (L, land)"
+        ],
+        [
+          "/F1",
+          9,
+          "surfaces as [luí-ram] with Mid pitch on the second syllable."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * luí [55] + ram [21] -> luí-ram [55-33] : cultivated field territory"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Right-edge Low raising to Mid."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thāng [55] + zingsho [33] -> thāng-zingsho [55-33] : broad daylight"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Faithful Mid retention."
+        ]
+      ],
+      "tangkhul_content": "luí [55] + ram [21] -> luí-ram [55-33]\nthāng [55] + zingsho [33] -> thāng-zingsho [55-33]",
+      "english_translation": "Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M, 33), and Low (L, 21). When a High-toned base compounds with a Low-toned nominal root, the surface output is consistently High-Mid (H-M) rather than the expected H-L. For example, luí (H, field) + ram (L, land) surfaces as [luí-ram] with Mid pitch on the second syllable.",
+      "notes": "Primary text of section: 1. The Empirical Problem of Tangkhul Sandhi"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. OT Constraint Hierarchy",
+      "title": "2. OT Constraint Hierarchy",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. OT CONSTRAINT HIERARCHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-"
+        ],
+        [
+          "/F1",
+          9,
+          "IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a"
+        ],
+        [
+          "/F1",
+          9,
+          "two-register pitch plunge (55 to 21) within a single prosodic word."
+        ],
+        [
+          "/F1",
+          9,
+          "Candidate [55-33] incurs a single violation of low-ranked faithfulness"
+        ],
+        [
+          "/F1",
+          9,
+          "Ident-IO(Tone), but decisively eliminates the faithful candidate"
+        ],
+        [
+          "/F1",
+          9,
+          "[55-21]."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Candidate A: [55-21] : Violates *Drop-HL"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Fatal violation on markedness."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Candidate B: [55-33] : Optimal winner"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Preserves optimal prosodic contour."
+        ]
+      ],
+      "tangkhul_content": "Candidate A: [55-21]\nCandidate B: [55-33]",
+      "english_translation": "We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a two-register pitch plunge (55 to 21) within a single prosodic word. Candidate [55-33] incurs a single violation of low-ranked faithfulness Ident-IO(Tone), but decisively eliminates the faithful candidate [55-21].",
+      "notes": "Primary text of section: 2. OT Constraint Hierarchy"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Compound Truncation and Cod",
+      "title": "3. Compound Truncation and Coda Effects",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. COMPOUND TRUNCATION AND CODA EFFECTS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Syllables with glottal stop codas inhibit sandhi raising, behaving as"
+        ],
+        [
+          "/F1",
+          9,
+          "opaque phonological boundaries. This demonstrates that laryngeal"
+        ],
+        [
+          "/F1",
+          9,
+          "features interact directly with tonal autosegmental licensing in"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul phonology."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Glottal opacity : Coda [ʔ] blocks tone assimilation"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Laryngeal feature licensing."
+        ]
+      ],
+      "tangkhul_content": "Glottal opacity",
+      "english_translation": "Syllables with glottal stop codas inhibit sandhi raising, behaving as opaque phonological boundaries. This demonstrates that laryngeal features interact directly with tonal autosegmental licensing in Tangkhul phonology.",
+      "notes": "Primary text of section: 3. Compound Truncation and Coda Effects"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Khayi, Kapesa. 2015. Tone Sandhi in Tangkhul Compounding. NEILS"
+        ],
+        [
+          "/F1",
+          9,
+          "Occasional Papers 4: 145-168."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Prince, Alan & Paul Smolensky. 2004. Optimality Theory: Constraint"
+        ],
+        [
+          "/F1",
+          9,
+          "Interaction in Generative Grammar. Blackwell."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Yip, Moira. 2002. Tone. Cambridge University Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Khayi, Kapesa. 2015. Tone Sandhi in Tangkhul Compounding. NEILS Occasional Papers 4: 145-168.",
+    "Prince, Alan & Paul Smolensky. 2004. Optimality Theory: Constraint Interaction in Generative Grammar. Blackwell.",
+    "Yip, Moira. 2002. Tone. Cambridge University Press."
+  ],
+  "total_pages": 5,
+  "total_words": 186
+}

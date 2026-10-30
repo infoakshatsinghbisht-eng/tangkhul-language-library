@@ -1066,6 +1066,12 @@ def generate_book_pages_and_content(book_meta: dict[str, Any]) -> dict[str, Any]
             if tb["id"] == bid:
                 return tb
         book_data = get_tls_curriculum_data(book_meta)
+    elif bid.startswith("BK-NOVL-") or bid.startswith("BK-BIOG-"):
+        from tangkhul_lib.books.novels_and_biographies_data import get_all_novels_and_biographies
+        for nb in get_all_novels_and_biographies():
+            if nb["id"] == bid:
+                return nb
+        book_data = get_tls_curriculum_data(book_meta)
     elif "CIIL" in bid or "DC" in bid:
         book_data = get_academic_monograph_data(book_meta)
     else:

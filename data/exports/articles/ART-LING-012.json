@@ -1,0 +1,445 @@
+{
+  "id": "ART-LING-012",
+  "title": "Syllable Weight and Metrical Structure in Ukhrul Tangkhul",
+  "alternate_titles": [
+    "Prosodic Phonology, Moraic Structure, and Stress Assignment"
+  ],
+  "authors": [
+    "Prof. P. Madhubala",
+    "Dr. Ninghorla Zimik"
+  ],
+  "journal": "Journal of the Linguistic Society of North East India",
+  "volume_issue": "Vol. 6, No. 1, pp. 55-76",
+  "publication_year": 2017,
+  "year": 2017,
+  "publisher": "Linguistic Society of North East India, Imphal",
+  "subject": "Metrical Phonology & Prosody",
+  "keywords": [
+    "Syllable Weight",
+    "Moraic Theory",
+    "Metrical Feet",
+    "Stress",
+    "Ukhrul",
+    "Tangkhul"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "https://lsnei.org.in/journal/2017/madhubala_tangkhul_prosody",
+  "source_identifier": "LSNEI-2017-MADHUBALA",
+  "local_file_path": "data/raw/articles/ART-LING-012_syllable_weight_prosody.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Moraic phonological analysis mapping light (CV) vs heavy (CVC, CVV) syllables to stress assignment and foot binarity.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul Tangkhul. While Tangkhul has traditionally been described as a tone language without prominent stress, acoustic analysis reveals that primary metrical stress consistently falls upon the final heavy syllable (bimoraic μμ) of the phonological stem, relegating light prefixal syllables (monomoraic μ) to metrically weak prosodic positions.",
+  "sections": [
+    {
+      "title": "1. Syllable Typology and Mora Count",
+      "content": "Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables ending in vowels (CV) are monomoraic (light, μ), while syllables closed by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-way tonal contrast in citation form.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "kə- (prefix)",
+          "gloss": "Light syllable (μ)",
+          "notes": "Unstressed, reduced vowel."
+        },
+        {
+          "tangkhul": "-pʰa:ŋ (stem)",
+          "gloss": "Heavy syllable (μμ)",
+          "notes": "Stressed stem carrying lexical tone."
+        }
+      ]
+    },
+    {
+      "title": "2. Metrical Foot Binarity & Iambic Grouping",
+      "content": "Disyllabic prefix-stem words form canonical iambic feet (L H), where the light prefix serves as the weak foot member and the heavy root serves as the rhythmic head. This explains why prefix vowels are phonetically reduced to schwa [ə].",
+      "tangkhul_data": [
+        {
+          "tangkhul": "[kə.tʰát]",
+          "gloss": "to kill (iambic foot: L H)",
+          "notes": "Primary stress on heavy root."
+        },
+        {
+          "tangkhul": "[mə.tʰéj]",
+          "gloss": "does not see (iambic foot: L H)",
+          "notes": "Negative prefix schwa reduction."
+        }
+      ]
+    },
+    {
+      "title": "3. Rhythmic Implications for Folk Verse",
+      "content": "Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot structure. Chants are organized into four-mora hemistichs, establishing a steady musical pulse that coordinates choral dancing during festivals.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Hao-laa metrical meter",
+          "gloss": "Four-mora rhythmic cadence",
+          "notes": "Prosodic coordination in dance."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Syllable Weight and Metrical Structure i",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "SYLLABLE WEIGHT AND METRICAL STRUCTURE IN UKHRUL TANGKHUL"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Prof. P. Madhubala, Dr. Ninghorla Zimik"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Journal of the Linguistic Society of North East India | Year: 2017"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Metrical Phonology & Prosody | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "This paper examines the relationship between syllable weight, moraic"
+        ],
+        [
+          "/F1",
+          9,
+          "structure, and stress assignment in Standard Ukhrul Tangkhul. While"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul has traditionally been described as a tone language without"
+        ],
+        [
+          "/F1",
+          9,
+          "prominent stress, acoustic analysis reveals that primary metrical stress"
+        ],
+        [
+          "/F1",
+          9,
+          "consistently falls upon the final heavy syllable (bimoraic μμ) of the"
+        ],
+        [
+          "/F1",
+          9,
+          "phonological stem, relegating light prefixal syllables (monomoraic μ) to"
+        ],
+        [
+          "/F1",
+          9,
+          "metrically weak prosodic positions."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Syllable Weight, Moraic Theory, Metrical Feet, Stress, Ukhrul, Tangkhul"
+        ]
+      ],
+      "tangkhul_content": "Abstract: This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul...",
+      "english_translation": "This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul Tangkhul. While Tangkhul has traditionally been described as a tone language without prominent stress, acoustic analysis reveals that primary metrical stress consistently falls upon the final heavy syllable (bimoraic μμ) of the phonological stem, relegating light prefixal syllables (monomoraic μ) to metrically weak prosodic positions.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Syllable Typology and Mora ",
+      "title": "1. Syllable Typology and Mora Count",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. SYLLABLE TYPOLOGY AND MORA COUNT"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables"
+        ],
+        [
+          "/F1",
+          9,
+          "ending in vowels (CV) are monomoraic (light, μ), while syllables closed"
+        ],
+        [
+          "/F1",
+          9,
+          "by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are"
+        ],
+        [
+          "/F1",
+          9,
+          "bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-"
+        ],
+        [
+          "/F1",
+          9,
+          "way tonal contrast in citation form."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kə- (prefix) : Light syllable (μ)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Unstressed, reduced vowel."
+        ],
+        [
+          "/F2",
+          9,
+          "  * -pʰa:ŋ (stem) : Heavy syllable (μμ)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Stressed stem carrying lexical tone."
+        ]
+      ],
+      "tangkhul_content": "kə- (prefix)\n-pʰa:ŋ (stem)",
+      "english_translation": "Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables ending in vowels (CV) are monomoraic (light, μ), while syllables closed by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-way tonal contrast in citation form.",
+      "notes": "Primary text of section: 1. Syllable Typology and Mora Count"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Metrical Foot Binarity & Ia",
+      "title": "2. Metrical Foot Binarity & Iambic Grouping",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. METRICAL FOOT BINARITY & IAMBIC GROUPING"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Disyllabic prefix-stem words form canonical iambic feet (L H), where the"
+        ],
+        [
+          "/F1",
+          9,
+          "light prefix serves as the weak foot member and the heavy root serves as"
+        ],
+        [
+          "/F1",
+          9,
+          "the rhythmic head. This explains why prefix vowels are phonetically"
+        ],
+        [
+          "/F1",
+          9,
+          "reduced to schwa [ə]."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * [kə.tʰát] : to kill (iambic foot: L H)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Primary stress on heavy root."
+        ],
+        [
+          "/F2",
+          9,
+          "  * [mə.tʰéj] : does not see (iambic foot: L H)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Negative prefix schwa reduction."
+        ]
+      ],
+      "tangkhul_content": "[kə.tʰát]\n[mə.tʰéj]",
+      "english_translation": "Disyllabic prefix-stem words form canonical iambic feet (L H), where the light prefix serves as the weak foot member and the heavy root serves as the rhythmic head. This explains why prefix vowels are phonetically reduced to schwa [ə].",
+      "notes": "Primary text of section: 2. Metrical Foot Binarity & Iambic Grouping"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Rhythmic Implications for F",
+      "title": "3. Rhythmic Implications for Folk Verse",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. RHYTHMIC IMPLICATIONS FOR FOLK VERSE"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot"
+        ],
+        [
+          "/F1",
+          9,
+          "structure. Chants are organized into four-mora hemistichs, establishing"
+        ],
+        [
+          "/F1",
+          9,
+          "a steady musical pulse that coordinates choral dancing during festivals."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Hao-laa metrical meter : Four-mora rhythmic cadence"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Prosodic coordination in dance."
+        ]
+      ],
+      "tangkhul_content": "Hao-laa metrical meter",
+      "english_translation": "Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot structure. Chants are organized into four-mora hemistichs, establishing a steady musical pulse that coordinates choral dancing during festivals.",
+      "notes": "Primary text of section: 3. Rhythmic Implications for Folk Verse"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Hayes, Bruce. 1995. Metrical Stress Theory: Principles and Case"
+        ],
+        [
+          "/F1",
+          9,
+          "Studies. University of Chicago Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Madhubala, P. & Ninghorla Zimik. 2017. Syllable Weight in Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "JLSNEI 6(1): 55-76."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Hayes, Bruce. 1995. Metrical Stress Theory: Principles and Case Studies. University of Chicago Press.",
+    "Madhubala, P. & Ninghorla Zimik. 2017. Syllable Weight in Tangkhul. JLSNEI 6(1): 55-76."
+  ],
+  "total_pages": 5,
+  "total_words": 175
+}

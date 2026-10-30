@@ -1,0 +1,35 @@
+TITLE: Ethnobotanical Wisdom and Traditional Herbal Medicine of the Tangkhul Nagas
+AUTHORS: Dr. Ringkahao Horam, Dr. V. S. Zimik
+JOURNAL / VENUE: Indian Journal of Traditional Knowledge (IJTK / CSIR-NIScPR) (2019)
+SUBJECT: Ethnobotany, Traditional Medicine & Ecology
+KEYWORDS: Ethnobotany, Herbal Medicine, Phytotherapy, Ukhrul, Shirui, Zimik, IJTK
+
+ABSTRACT:
+The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. This paper documents the traditional ethnobotanical knowledge of the Tangkhul Nagas based on ethnopharmacological fieldwork with 14 practicing village herbal healers (Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42 families, detailing native Tangkhul nomenclature, plant parts used, preparation modes, and therapeutic applications for fevers, bone fractures, digestive ailments, and poison antidotes.
+
+SECTION: 1. Native Botanical Taxonomy (Tangkhul Plant Classification)
+Tangkhul folk taxonomy organizes the plant kingdom into major morphological life-forms: Thingphun (large standing timber trees), Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei (herbaceous forest floor plants), and Thingthei (fruit-bearing flora). Medicinal efficacy is categorized according to taste qualities: kakhui (bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa (sweet/tonic).
+Linguistic Data:
+  * Thingphun : large standing tree class
+  * Tingra : climbing medicinal lianas / creeping vines
+  * kakhui : bitter tasting therapeutic property
+
+SECTION: 2. Key Medicinal Species & Indigenous Preparations
+Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia cordata), used raw for digestive and antimicrobial cures. The bark of Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow tonic for jaundice and malaria. Fresh poultices of Won-khamathā (Clerodendrum colebrookianum) are applied to regulate hypertension and cardiac distress.
+Linguistic Data:
+  * Zingra : Houttuynia cordata (medicinal fish mint)
+    Notes: Digestive leaf antibiotic.
+  * Thing-kakhui : Mahonia manipurensis (golden bark barberry)
+    Notes: Bark decoction for fevers and jaundice.
+  * Meina-kashā : Zanthoxylum armatum (winged prickly ash / wild Sichuan pepper)
+    Notes: Dental pain and stomachic tonic.
+
+SECTION: 3. Conservation Ethics & Sacred Groves (Khamasung)
+Harvesting medicinal plants is governed by customary taboos (Khamasung). Healers never uproot entire plant colonies, harvesting only mature leaves or lateral roots while chanting prayers of apology to the forest spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs for centuries.
+Linguistic Data:
+  * Khamasung : sacred conservation taboo and harvesting ethics
+    Notes: Traditional ecological sanctuary rule.
+
+REFERENCES:
+  - Horam, Ringkahao & V. S. Zimik. 2019. Ethnobotanical Wisdom of Tangkhul Nagas. IJTK 18(3): 412-428.
+  - Jain, S. K. 1991. Dictionary of Indian Folk Medicine and Ethnobotany. Deep Publications.

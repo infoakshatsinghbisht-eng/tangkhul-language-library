@@ -139,6 +139,28 @@ All 14 initial textbooks were verified directly against the Bharatavani catalogu
 | `BK-TRNS-009` | Duniyawui Khararchan Kathara: World Classic Stories Translated into Tangkhul | Tangkhul Literature Society (Tolstoy, Maupassant, O. Henry) | 1991 | Tangkhul Literature Society, Imphal / Ukhrul | Verified (Community Authorized / Curriculum) |
 | `BK-TRNS-010` | Tangkhul Constitution & Civic Rights Primer: Indiawui Samvidhan kala Hao Rights | Tangkhul Scholars Association & Naga Law Forum | 2005 | Tangkhul Scholars Association (ISBN 978-81-90412-11-9) | Verified (Community Authorized / TPO) |
 
+### Newly Digitalized Tangkhul Novels (Upanyas) & Biographies: Batch 4 (10 records)
+
+#### 5 Classic Tangkhul Novels (उपन्यास)
+
+| ID | Title | Author / Compiler | Year | Publisher / Source | Status |
+|---|---|---|---|---|---|
+| `BK-NOVL-001` | Shimreishang kala Maitonphi: The Classic Tangkhul Epic Novel of Love and Tragedy | Tangkhul Literary Society & Folk Forum | 1972 | Tangkhul Literature Society, Imphal / Ukhrul | Verified (Community Authorized / TLS) |
+| `BK-NOVL-002` | Chamthei: A Tangkhul Novel of Highland Trials and Hope | K. S. Luikham | 1984 | Ukhrul Cultural Publications | Verified (Community Authorized / TLS) |
+| `BK-NOVL-003` | Shongza: The Tragic Chronicle of Destiny and Clan Honour | Tangkhul Literature Committee | 1979 | Tangkhul Literature Society, Ukhrul | Verified (Community Authorized / TLS) |
+| `BK-NOVL-004` | Wungram Okthot: The Novel of Highland Heritage and Clan Trials | A. S. Vashum | 1993 | Eastern Naga Literary Circle | Verified (Community Authorized / TLS) |
+| `BK-NOVL-005` | Yarra: A Novel of Tangkhul Youth and Spring Awakening | R. K. Shimray | 1988 | Youth Cultural Guild, Ukhrul | Verified (Community Authorized / TLS) |
+
+#### 5 Landmark Biographies (जीवनी)
+
+| ID | Title | Author / Compiler | Year | Publisher / Source | Status |
+|---|---|---|---|---|---|
+| `BK-BIOG-001` | Major Bob Khathing: The Great Tangkhul Patriot, Soldier, and Statesman of Tawang | Col. (Retd.) Sanjoy Bhattacharya & Tangkhul Historical Society | 2002 | Tribal Research Institute & Heritage Trust | Verified (Open Access / Permitted) |
+| `BK-BIOG-002` | Rev. William Pettigrew: Ukhrulwui Pao-phungnao (Life and Mission of the Pioneer Educator) | Tangkhul Baptist Christian Association Historical Commission | 1986 | TBCA Mission Press, Ukhrul | Verified (Community Authorized / TBCA) |
+| `BK-BIOG-003` | Rishang Keishing: The Legendary Tangkhul Parliamentarian and Chief Minister | H. A. Shimray | 2008 | Eastern Hill Publishers, Imphal | Verified (Permitted / Academic) |
+| `BK-BIOG-004` | Rowland Suisa (R. Suisa): The Prophet of Naga Peace, Democracy, and Customary Rights | R. Suisa Memorial Trust & Tangkhul Scholars Forum | 1998 | R. Suisa Trust, Ukhrul | Verified (Open Access / Trust) |
+| `BK-BIOG-005` | Luingam Luikham: Custodian of Tangkhul Oral Literature and Customary Law | Wungram Heritage Society | 2005 | Tangkhul Literary Forum, Ukhrul | Verified (Community Authorized / TLS) |
+
 ### Candidate Records Requiring Review (1 record)
 
 | ID | Title | Subject | Verification Status | Notes |

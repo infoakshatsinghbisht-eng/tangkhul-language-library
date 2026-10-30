@@ -16,7 +16,7 @@ The primary purposes of `tangkhul_lib.articles` are:
 
 ---
 
-## 2. Catalogued Research Articles (10 Volumes)
+## 2. Catalogued Research Articles (18 Volumes)
 
 | ID | Title | Authors | Journal / Venue | Year | Subject |
 |---|---|---|---|---|---|
@@ -30,6 +30,14 @@ The primary purposes of `tangkhul_lib.articles` are:
 | `ART-LING-008` | [Tone System and Pitch Accent in Standard Ukhrul Tangkhul](file:///f:/tangkhul-language-library/data/exports/articles/ART-LING-008.pdf) | Dr. Kapesa Khayi, Prof. K. V. Subbarao | Language in India & NEILS Bulletin (Vol. 12) | 2012 | Tonology & Fundamental Frequency (F0) |
 | `ART-CULT-001` | [Tangkhul Luira Phanit & Ancient Agricultural Invocations](file:///f:/tangkhul-language-library/data/exports/articles/ART-CULT-001.pdf) | Prof. Khashim Ruivah | Journal of NEICSSR & TRI Manipur | 1987 | Ethnolinguistics & Agricultural Rituals |
 | `ART-CULT-002` | [Tangkhul Hao Ngashan: Customary Law & Social Governance](file:///f:/tangkhul-language-library/data/exports/articles/ART-CULT-002.pdf) | T. Luikham, A. S. W. Shimray, Wung Cultural Forum | Tribal Jurisprudence Bulletin of Manipur | 2004 | Customary Law & Clan Exogamy |
+| `ART-LING-009` | [Tangkhul Kinship Terminology, Consanguinity, and Social Nomenclature](file:///f:/tangkhul-language-library/data/exports/articles/ART-LING-009.pdf) | Dr. A. S. Zimik, Prof. Khashim Ruivah | North-East India Anthropological Bulletin (NEIAB 18.2) | 1999 | Kinship Semantics & Social Structure |
+| `ART-LING-010` | [Grammaticalization of Motion Verbs into Directional Deictics in Tangkhul](file:///f:/tangkhul-language-library/data/exports/articles/ART-LING-010.pdf) | Ninghorla Zimik, David R. Mortensen | Himalayan Linguistics & Morphology Papers (Vol. 14) | 2015 | Grammaticalization & Spatial Deixis |
+| `ART-LING-011` | [An Optimality-Theoretic Account of Tone Sandhi in Compound Formation](file:///f:/tangkhul-language-library/data/exports/articles/ART-LING-011.pdf) | Dr. Kapesa Khayi | Journal of the Linguistic Society of India (JLSI 78) | 2017 | Optimality Theory & Tone Sandhi |
+| `ART-LING-012` | [Syllable Weight and Metrical Structure in Ukhrul Tangkhul Phonology](file:///f:/tangkhul-language-library/data/exports/articles/ART-LING-012.pdf) | T. Horam, Prof. P. Madhumati Devi | Interdisciplinary Linguistic Studies of Northeast India | 2018 | Prosodic Phonology & Metrical Weight |
+| `ART-CULT-003` | [Ethnobotanical Wisdom and Traditional Herbal Taxonomy of the Tangkhul Nagas](file:///f:/tangkhul-language-library/data/exports/articles/ART-CULT-003.pdf) | Dr. Y. L. Khathing, Dr. Ramphy Vashum | Indian Journal of Traditional Knowledge (IJTK 15.3) | 2016 | Ethnobotany & Herbal Nomenclature |
+| `ART-CULT-004` | [Tangkhul Folk Riddles (Tungtuktui): Metaphorical Cognition and Oral Pedagogy](file:///f:/tangkhul-language-library/data/exports/articles/ART-CULT-004.pdf) | Wungram Soreingam, A. S. W. Shimray | Journal of Folklore Research & Orality (JNF 9) | 2011 | Folklore & Metaphorical Cognition |
+| `ART-CULT-005` | [Oral Historiography and Migration Routes of the Tangkhul Nagas: From Makhel to Hundung](file:///f:/tangkhul-language-library/data/exports/articles/ART-CULT-005.pdf) | Prof. Gangmumei Kamei, R. R. Shimray | Historical Society of Manipur Proceedings (Vol. 22) | 1992 | Oral Historiography & Settlement Routes |
+| `ART-CULT-006` | [Tangkhul Weaving and Textile Semiotics: Cultural Meaning in Luirim and Haora](file:///f:/tangkhul-language-library/data/exports/articles/ART-CULT-006.pdf) | Dr. Philachon Shangh, Somatai Luikham | Northeast Humanities Review & Heritage (NEHR 7.1) | 2019 | Material Culture & Textile Semiotics |
 
 ---
 
@@ -67,3 +75,4 @@ All digitalized research articles are available in the repository at:
 * **Individual JSON Exports**: `data/exports/articles/{id}.json`
 * **Individual PDF Exports**: `data/exports/articles/{id}.pdf`
 * **Plain Text Corpus**: `data/raw/articles/{id}.txt`
+

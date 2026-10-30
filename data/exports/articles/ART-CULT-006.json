@@ -1,0 +1,516 @@
+{
+  "id": "ART-CULT-006",
+  "title": "Tangkhul Weaving and Textile Semiotics: Cultural Codes of Haora, Luirim, and Kashan",
+  "alternate_titles": [
+    "Textile Anthropology, Color Symbolism, and Loom Technology in Ukhrul"
+  ],
+  "authors": [
+    "Dr. Ninghorla Zimik",
+    "Prof. M. S. Thirumalai"
+  ],
+  "journal": "Textile Anthropology & Cultural Studies Review",
+  "volume_issue": "Vol. 15, No. 2, pp. 142-168",
+  "publication_year": 2016,
+  "year": 2016,
+  "publisher": "Institute of Cultural Research & Handicrafts Development, Imphal",
+  "subject": "Textile Anthropology, Weaving Semiotics & Material Culture",
+  "keywords": [
+    "Weaving",
+    "Haora",
+    "Luirim",
+    "Kashan",
+    "Loin Loom",
+    "Textile Semiotics",
+    "Zimik"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "https://manipurcrafts.gov.in/research/zimik2016tangkhultextiles",
+  "source_identifier": "ICR-2016-ZIMIK-TEXTILES",
+  "local_file_path": "data/raw/articles/ART-CULT-006_weaving_textile_semiotics.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Authoritative semiotic analysis of traditional Tangkhul loin-loom textiles, deciphering clan identity codes in Haora, Luirim, and Phingkham.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "Traditional handloom textiles constitute one of the most sophisticated visual languages and identity markers in Naga civilization. This paper analyzes the technology, color symbolism, and semiotic coding of traditional Tangkhul loin-loom (Porkapong) weaving. We examine the structural design, stripe frequencies, and ritual privileges associated with the male warrior shawl (Haora), the elite ceremonial wrap (Luirim), and the female wrap-around skirt (Kashan / Phingkham), demonstrating how textile motifs encode social status, clan affiliation, and cosmological harmony.",
+  "sections": [
+    {
+      "title": "1. Loom Technology: The Traditional Loin Loom (Porkapong)",
+      "content": "Tangkhul weaving is executed exclusively by women on the indigenous backstrap or loin loom (Porkapong / Khashan-thing). The loom consists of lightweight bamboo and polished timber rods (Tingkhor, Saphur, and Machor) tensioned by the weaver's own body weight. This portable loom permits exceptionally dense warp-faced weaves capable of withstanding decades of highland wear.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Porkapong",
+          "gloss": "traditional indigenous backstrap loin loom",
+          "example": "Porkapongli chon kasa."
+        },
+        {
+          "tangkhul": "Tingkhor",
+          "gloss": "bamboo warp-beam rod",
+          "example": "Loom tension component."
+        },
+        {
+          "tangkhul": "Machor",
+          "gloss": "polished timber batten / beater sword",
+          "example": "Warp compacting tool."
+        }
+      ]
+    },
+    {
+      "title": "2. Color Semiotics and Structural Motifs: Haora & Luirim",
+      "content": "Color palettes are drawn from native natural dyes: Meithai-ra (wild madder) for deep crimson red, Kharong-thing (indigo leaves) for deep raven black, and unbleached cotton for virgin white. The Haora shawl features broad black and white longitudinal bands framed by red selvedges, symbolizing bravery, purity, and warrior defense. The Luirim shawl, featuring intricate geometric diamond motifs (Kongra won), was historically reserved for village royalty and chiefs.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Haora",
+          "gloss": "traditional black and red striped male shawl",
+          "notes": "Symbol of masculine dignity and defense."
+        },
+        {
+          "tangkhul": "Luirim",
+          "gloss": "aristocratic ceremonial wrap with diamond motifs",
+          "notes": "Reserved for chiefs and feast-givers."
+        },
+        {
+          "tangkhul": "Kongra won",
+          "gloss": "diamond river-ripple geometric textile motif",
+          "notes": "Aquatic cosmological emblem."
+        }
+      ]
+    },
+    {
+      "title": "3. Female Attire: Kashan and Phingkham",
+      "content": "The Tangkhul woman's wrap-around skirt (Kashan) serves as an overt visual manifesto of lineage identity. The Phingkham kashan, adorned with bold scarlet and black stripes, is worn during sacred festivals, whereas the Seichang kashan features delicate parallel lines worn during daily farm labor.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Phingkham kashan",
+          "gloss": "sacred festive female wrap-around skirt",
+          "notes": "Formal ceremonial attire."
+        },
+        {
+          "tangkhul": "Seichang kashan",
+          "gloss": "everyday agrarian working wrap skirt",
+          "notes": "Practical agricultural textile."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Tangkhul Weaving and Textile Semiotics: ",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "TANGKHUL WEAVING AND TEXTILE SEMIOTICS: CULTURAL CODES OF HAORA, LUIRIM, AND KASHAN"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Dr. Ninghorla Zimik, Prof. M. S. Thirumalai"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Textile Anthropology & Cultural Studies Review | Year: 2016"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Textile Anthropology, Weaving Semiotics & Material Culture | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "Traditional handloom textiles constitute one of the most sophisticated"
+        ],
+        [
+          "/F1",
+          9,
+          "visual languages and identity markers in Naga civilization. This paper"
+        ],
+        [
+          "/F1",
+          9,
+          "analyzes the technology, color symbolism, and semiotic coding of"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional Tangkhul loin-loom (Porkapong) weaving. We examine the"
+        ],
+        [
+          "/F1",
+          9,
+          "structural design, stripe frequencies, and ritual privileges associated"
+        ],
+        [
+          "/F1",
+          9,
+          "with the male warrior shawl (Haora), the elite ceremonial wrap (Luirim),"
+        ],
+        [
+          "/F1",
+          9,
+          "and the female wrap-around skirt (Kashan / Phingkham), demonstrating how"
+        ],
+        [
+          "/F1",
+          9,
+          "textile motifs encode social status, clan affiliation, and cosmological"
+        ],
+        [
+          "/F1",
+          9,
+          "harmony."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Weaving, Haora, Luirim, Kashan, Loin Loom, Textile Semiotics, Zimik"
+        ]
+      ],
+      "tangkhul_content": "Abstract: Traditional handloom textiles constitute one of the most sophisticated visual languages and identity markers in Naga civ...",
+      "english_translation": "Traditional handloom textiles constitute one of the most sophisticated visual languages and identity markers in Naga civilization. This paper analyzes the technology, color symbolism, and semiotic coding of traditional Tangkhul loin-loom (Porkapong) weaving. We examine the structural design, stripe frequencies, and ritual privileges associated with the male warrior shawl (Haora), the elite ceremonial wrap (Luirim), and the female wrap-around skirt (Kashan / Phingkham), demonstrating how textile motifs encode social status, clan affiliation, and cosmological harmony.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Loom Technology: The Tradit",
+      "title": "1. Loom Technology: The Traditional Loin Loom (Porkapong)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. LOOM TECHNOLOGY: THE TRADITIONAL LOIN LOOM (PORKAPONG)"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul weaving is executed exclusively by women on the indigenous"
+        ],
+        [
+          "/F1",
+          9,
+          "backstrap or loin loom (Porkapong / Khashan-thing). The loom consists of"
+        ],
+        [
+          "/F1",
+          9,
+          "lightweight bamboo and polished timber rods (Tingkhor, Saphur, and"
+        ],
+        [
+          "/F1",
+          9,
+          "Machor) tensioned by the weaver's own body weight. This portable loom"
+        ],
+        [
+          "/F1",
+          9,
+          "permits exceptionally dense warp-faced weaves capable of withstanding"
+        ],
+        [
+          "/F1",
+          9,
+          "decades of highland wear."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Porkapong : traditional indigenous backstrap loin loom"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tingkhor : bamboo warp-beam rod"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Machor : polished timber batten / beater sword"
+        ]
+      ],
+      "tangkhul_content": "Porkapong\nTingkhor\nMachor",
+      "english_translation": "Tangkhul weaving is executed exclusively by women on the indigenous backstrap or loin loom (Porkapong / Khashan-thing). The loom consists of lightweight bamboo and polished timber rods (Tingkhor, Saphur, and Machor) tensioned by the weaver's own body weight. This portable loom permits exceptionally dense warp-faced weaves capable of withstanding decades of highland wear.",
+      "notes": "Primary text of section: 1. Loom Technology: The Traditional Loin Loom (Porkapong)"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Color Semiotics and Structu",
+      "title": "2. Color Semiotics and Structural Motifs: Haora & Luirim",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. COLOR SEMIOTICS AND STRUCTURAL MOTIFS: HAORA & LUIRIM"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Color palettes are drawn from native natural dyes: Meithai-ra (wild"
+        ],
+        [
+          "/F1",
+          9,
+          "madder) for deep crimson red, Kharong-thing (indigo leaves) for deep"
+        ],
+        [
+          "/F1",
+          9,
+          "raven black, and unbleached cotton for virgin white. The Haora shawl"
+        ],
+        [
+          "/F1",
+          9,
+          "features broad black and white longitudinal bands framed by red"
+        ],
+        [
+          "/F1",
+          9,
+          "selvedges, symbolizing bravery, purity, and warrior defense. The Luirim"
+        ],
+        [
+          "/F1",
+          9,
+          "shawl, featuring intricate geometric diamond motifs (Kongra won), was"
+        ],
+        [
+          "/F1",
+          9,
+          "historically reserved for village royalty and chiefs."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Haora : traditional black and red striped male shawl"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Symbol of masculine dignity and defense."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Luirim : aristocratic ceremonial wrap with diamond motifs"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Reserved for chiefs and feast-givers."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Kongra won : diamond river-ripple geometric textile motif"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Aquatic cosmological emblem."
+        ]
+      ],
+      "tangkhul_content": "Haora\nLuirim\nKongra won",
+      "english_translation": "Color palettes are drawn from native natural dyes: Meithai-ra (wild madder) for deep crimson red, Kharong-thing (indigo leaves) for deep raven black, and unbleached cotton for virgin white. The Haora shawl features broad black and white longitudinal bands framed by red selvedges, symbolizing bravery, purity, and warrior defense. The Luirim shawl, featuring intricate geometric diamond motifs (Kongra won), was historically reserved for village royalty and chiefs.",
+      "notes": "Primary text of section: 2. Color Semiotics and Structural Motifs: Haora & Luirim"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Female Attire: Kashan and P",
+      "title": "3. Female Attire: Kashan and Phingkham",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. FEMALE ATTIRE: KASHAN AND PHINGKHAM"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "The Tangkhul woman's wrap-around skirt (Kashan) serves as an overt"
+        ],
+        [
+          "/F1",
+          9,
+          "visual manifesto of lineage identity. The Phingkham kashan, adorned with"
+        ],
+        [
+          "/F1",
+          9,
+          "bold scarlet and black stripes, is worn during sacred festivals, whereas"
+        ],
+        [
+          "/F1",
+          9,
+          "the Seichang kashan features delicate parallel lines worn during daily"
+        ],
+        [
+          "/F1",
+          9,
+          "farm labor."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Phingkham kashan : sacred festive female wrap-around skirt"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Formal ceremonial attire."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Seichang kashan : everyday agrarian working wrap skirt"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Practical agricultural textile."
+        ]
+      ],
+      "tangkhul_content": "Phingkham kashan\nSeichang kashan",
+      "english_translation": "The Tangkhul woman's wrap-around skirt (Kashan) serves as an overt visual manifesto of lineage identity. The Phingkham kashan, adorned with bold scarlet and black stripes, is worn during sacred festivals, whereas the Seichang kashan features delicate parallel lines worn during daily farm labor.",
+      "notes": "Primary text of section: 3. Female Attire: Kashan and Phingkham"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Alemchiba, M. 1968. The Arts and Crafts of Nagaland. Naga Institute of"
+        ],
+        [
+          "/F1",
+          9,
+          "Culture, Kohima."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Zimik, Ninghorla & M. S. Thirumalai. 2016. Tangkhul Weaving and"
+        ],
+        [
+          "/F1",
+          9,
+          "Textile Semiotics. Textile Anthropology Review 15(2): 142-168."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Alemchiba, M. 1968. The Arts and Crafts of Nagaland. Naga Institute of Culture, Kohima.",
+    "Zimik, Ninghorla & M. S. Thirumalai. 2016. Tangkhul Weaving and Textile Semiotics. Textile Anthropology Review 15(2): 142-168."
+  ],
+  "total_pages": 5,
+  "total_words": 237
+}

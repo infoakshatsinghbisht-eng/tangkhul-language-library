@@ -10,3 +10,4 @@ from __future__ import annotations
 from tangkhul_lib.articles.models import ArticleRecord
 
 __all__ = ["ArticleRecord"]
+

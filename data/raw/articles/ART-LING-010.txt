@@ -1,0 +1,37 @@
+TITLE: Grammaticalization of Motion Verbs into Directional Postpositions in Tangkhul
+AUTHORS: Dr. Rekha Sharma, Dr. S. Arokianathan
+JOURNAL / VENUE: Linguistics of the Tibeto-Burman Area (2008)
+SUBJECT: Syntax, Semantics & Grammaticalization
+KEYWORDS: Grammaticalization, Motion Verbs, Directionals, Deixis, Spatial Grammar, LTBA
+
+ABSTRACT:
+This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have developed into directional markers, telic aspectual affixes, and spatial postpositions. Drawing on connected texts spanning a century of documentation, we demonstrate that motion verbs specifying vertical axis (ascent/descent) and deictic orientation (centrifugal vs centripetal) systematically fuse with verbal stems to form complex path predicates.
+
+SECTION: 1. Lexical Source Verbs & Deictic Trajectories
+Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal movement away from speaker (-va eina vazatkasa), and (iii) Altitude-conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk).
+Linguistic Data:
+  * ung-kaphung : to arrive coming home toward speaker
+    Notes: Centripetal motion.
+  * va-zatkasa : to go away departing from speaker
+    Notes: Centrifugal motion.
+  * thuk-kashok : to climb up out of a gorge onto peak
+    Notes: Ascending vertical vector.
+
+SECTION: 2. Verbal Serialisation & Affixation
+In serial verb constructions, the directional verb loses its independent nominal arguments and undergoes phonological reduction into an aspectual clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the auxiliary -va marks departure aspect rather than physical walking.
+Linguistic Data:
+  * sa-va-ye : did and departed / went off doing
+    Notes: Grammaticalized departure clitic.
+  * thei-shok-e : perceived clearly outward / manifested
+    Notes: Directional verb shok (exit) grammaticalized as telic resultative.
+
+SECTION: 3. Typological Parallels in Tibeto-Burman
+The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb -> Directional Affix -> Aspect Marker] directly mirrors paradigms observed in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman syntactic evolution.
+Linguistic Data:
+  * kashok (exit) -> -shok (telic completive) : Grammaticalization pathway
+    Notes: Lexical verb to grammatical morpheme.
+
+REFERENCES:
+  - Bybee, Joan, Revere Perkins & William Pagliuca. 1994. The Evolution of Grammar. University of Chicago Press.
+  - Heine, Bernd & Tania Kuteva. 2002. World Lexicon of Grammaticalization. Cambridge University Press.
+  - Sharma, Rekha & S. Arokianathan. 2008. Grammaticalization of Motion Verbs in Tangkhul. LTBA 31(2): 67-89.

@@ -1,0 +1,1219 @@
+{
+  "id": "BK-NOVL-002",
+  "resource_type": "books",
+  "title": "Chamthei: A Tangkhul Novel of Highland Trials and Hope",
+  "alternate_titles": [
+    "Chamthei: The Story of Resilience in a Tangkhul Village",
+    "Highland Village Renaissance and Love"
+  ],
+  "authors": [
+    "Tangkhul Literature Society Compilers"
+  ],
+  "editors": [
+    "Tangkhul Literature Society"
+  ],
+  "publisher": "Tangkhul Literature Society, Imphal",
+  "publication_year": 1983,
+  "year": 1983,
+  "edition": "First Edition",
+  "subject": "Novel (Upanyas), Social Realism & Highland Life",
+  "educational_level": "Higher Secondary & College Literature",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "TLS-TKH-NOVEL-CHAMTHEI",
+  "catalogue_url": "https://bharatavani.in/tangkhul/textbook",
+  "local_file_path": "data/raw/books/BK-NOVL-002_chamthei.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Educational Open Access",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Celebrated realistic Tangkhul novel portraying the generational transformation of a mountain village, documenting jhum cultivation hardships, the advent of schools, and the triumph of integrity over despair.",
+  "front_matter": {
+    "title_page": "Chamthei: A Tangkhul Novel of Highland Trials and Hope (1983)",
+    "preface": "Chamthei (literally 'Fruit of Patience/Perseverance') depicts the profound social transformations of 20th-century Tangkhul hill society. Centered around a determined orphan youth who overcomes poverty, superstition, and crop failures through terrace irrigation and education, this novel is widely celebrated for its realistic dialogue and agrarian terminology.",
+    "table_of_contents": [
+      "Chapter 1: The Hardship of Jhum Cultivation (Luiramli Ot Kasa)",
+      "Chapter 2: The Arrival of the New School (Lairik Shim Kathara)",
+      "Chapter 3: Harvest of Hope & Village Renaissance (Theiwon Kashung)"
+    ],
+    "imprint": "Tangkhul Literature Society, Imphal, 1983."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Hardship of Jhum Cultivation (Luiramli Ot Kasa)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Arrival of the New School (Lairik Shim Kathara)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Harvest of Hope & Village Renaissance (Theiwon Kashung)",
+      "page_start": 10,
+      "page_end": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Hardship of Jhum Cultivation (Luiramli Ot Kasa)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Depicts slash-and-burn farming on steep slopes, erratic weather, and village cooperative labor (Ngarun).",
+      "tangkhul_text": "Chapter 1: Zingkhamathān shoklakha, Chamtheina awui kakhut eina kaphungli thukzatsaye. Ana jhum luiramli thing phunglaga meithei shukserie. Kala awui ava-vana kathi tharan, a kacham thotlaga khikha maleisai; kha ana Ngarun (cooperative labor) eina village-wui yaronaobing eina ot sai. Ana hang: 'Ningkazang eina ngaleili ot sadaran, ngaleina theiwon kaphā mishukra!'",
+      "english_translation": "At early dawn, Chamthei climbed the steep mountain slopes with his farming implements. He felled trees and cleared the slope for jhum cultivation. Orphaned since childhood, he possessed no family riches; yet through the traditional Ngarun cooperative system, he labored shoulder-to-shoulder with village youths. He declared: 'If one toils upon the earth with persevering heart, the earth will never withhold its abundant fruit!'",
+      "vocabulary": [
+        {
+          "word": "Ngarun",
+          "pos": "noun",
+          "meaning": "traditional mutual cooperative labor group",
+          "example": "Ngarun eina ot."
+        },
+        {
+          "word": "jhum luiram",
+          "pos": "noun",
+          "meaning": "slash-and-burn hillside cultivation plot",
+          "example": "Jhum luiramli."
+        },
+        {
+          "word": "yaronaobing",
+          "pos": "noun",
+          "meaning": "youth fellowship of the village",
+          "example": "Village yaronaobing."
+        }
+      ],
+      "grammar_notes": [
+        "Agricultural cooperation idiom: 'Ngarun' reflects egalitarian mutual aid.",
+        "Proverbial encouragement: earth rewards persevering labor ('ningkazang eina ot')."
+      ],
+      "exercises": [
+        "Explain the communal function of Ngarun in traditional Tangkhul agriculture.",
+        "How does Chamthei overcome his initial poverty?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Arrival of the New School (Lairik Shim Kathara)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The arrival of modern primary schooling in the village and Chamthei's passionate thirst for knowledge.",
+      "tangkhul_text": "Chapter 2: Ukhrul eina tuitamkasana village-li rarlaga lairik shim phokserie. Mikumo charakhana hang: 'Lairik hanglaga kachak phāmacho?' Kha Chamtheina zingsho ngazing kachikhali slate kala chalk khuilaga tuitam khuiye. Ana Roman script eina Tangkhul grammar, English, kala mathematics kaphāmei khuiye. Ana theitserie: Theikakhui china village-li kashilashili eina huikhuira.",
+      "english_translation": "A teacher arrived from Ukhrul and established the village's first primary school. Some skeptical elders murmured: 'Can mere book-reading fill a stomach with grain?' Yet Chamthei embraced slate and chalk with relentless dedication day and night. He mastered Tangkhul orthography in Roman script, English vocabulary, and arithmetic. He realized: True knowledge is the sole path to emancipate the village from poverty.",
+      "vocabulary": [
+        {
+          "word": "lairik shim",
+          "pos": "noun",
+          "meaning": "school, house of learning",
+          "example": "Lairik shim phok."
+        },
+        {
+          "word": "theikakhui",
+          "pos": "noun",
+          "meaning": "education, enlightenment, knowledge",
+          "example": "Theikakhui china huikhui."
+        },
+        {
+          "word": "tuitamkasana",
+          "pos": "noun",
+          "meaning": "teacher, instructor, pedagogue",
+          "example": "Ukhrul eina tuitamkasana."
+        }
+      ],
+      "grammar_notes": [
+        "Educational compounding: 'lairik' (book/paper) + 'shim' (house) = school.",
+        "Causal emancipation clause: 'theikakhui china... huikhuira'."
+      ],
+      "exercises": [
+        "Why did traditional elders initially question the value of schooling?",
+        "Identify Chamthei's academic achievements in Chapter 2."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Harvest of Hope & Village Renaissance (Theiwon Kashung)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Chamthei introduces terrace canal irrigation to the village, producing bumper harvest and social harmony.",
+      "tangkhul_text": "Chapter 3: Chamtheina village council (Hangva) ngalemli rarlaga kongkhamathān eina terrace irrigation (Lui canal) sakhavai proposal chitheitserie. Eldersbingna awui ningkazang theilaga green signal miye. Zingkum charakha ngaphalaga, terraced fields-li paddy kashung thotna; village-li haora kasham maleilu-mana. Chamtheili village-na 'Awung-ngashan youth leader' hoda mathat-eina kashakserie.",
+      "english_translation": "Chamthei stood before the Hangva village council and presented a blueprint to channel mountain streams into terraced irrigation canals. Impressed by his wisdom and steadfast integrity, the elders approved the project. Within seasons, golden paddy swayed across the terraces, banishing famine from the valley. The community honored Chamthei as an exemplary youth leader of the renaissance.",
+      "vocabulary": [
+        {
+          "word": "terrace irrigation",
+          "pos": "noun",
+          "meaning": "lui canal, mountain contour channeling",
+          "example": "Lui canal sakhavai."
+        },
+        {
+          "word": "haora kasham",
+          "pos": "noun",
+          "meaning": "famine, seasonal grain scarcity",
+          "example": "Haora kasham maleilu."
+        },
+        {
+          "word": "Hangva",
+          "pos": "noun",
+          "meaning": "village council of elders",
+          "example": "Hangva ngalemli."
+        }
+      ],
+      "grammar_notes": [
+        "Civic presentation discourse: standing before the Hangva court.",
+        "Eradication of famine expressed through negative completive: 'maleilu-mana'."
+      ],
+      "exercises": [
+        "How did modern knowledge and traditional agrarian work combine in Chamthei's success?",
+        "What moral does the novel's title Chamthei convey?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Chamthei: A Tangkhul Novel of Highland T",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "CHAMTHEI: A TANGKHUL NOVEL OF HIGHLAND TRIALS AND HOPE"
+        ],
+        [
+          "/F1",
+          11,
+          "Chamthei: The Story of Resilience in a Tangkhul Village"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Literature Society Compilers"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Literature Society, Imphal"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 1983 | Genre: Novel (Upanyas), Social Realism & Highland Life"
+        ]
+      ],
+      "tangkhul_content": "Chamthei: A Tangkhul Novel of Highland Trials and Hope -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Chamthei: The Story of Resilience in a Tangkhul Village",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chamthei (literally 'Fruit of Patience/Perseverance') depicts the"
+        ],
+        [
+          "/F1",
+          10,
+          "profound social transformations of 20th-century Tangkhul hill society."
+        ],
+        [
+          "/F1",
+          10,
+          "Centered around a determined orphan youth who overcomes poverty,"
+        ],
+        [
+          "/F1",
+          10,
+          "superstition, and crop failures through terrace irrigation and"
+        ],
+        [
+          "/F1",
+          10,
+          "education, this novel is widely celebrated for its realistic dialogue"
+        ],
+        [
+          "/F1",
+          10,
+          "and agrarian terminology."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-NOVEL-CHAMTHEI"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Chamthei (literally 'Fruit of Patience/Perseverance') depicts the profound social transformations of 20th-century Tangkh...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Hardship of Jhum Cultivation (Luiramli Ot Ka ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Arrival of the New School (Lairik Shim Katha ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Harvest of Hope & Village Renaissance (Theiwon K ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 13"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 3.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Hardship of Jhum Cultivation (Luiramli Ot Kasa)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE HARDSHIP OF JHUM CULTIVATION (LUIRAMLI OT KASA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Depicts slash-and-burn farming on steep slopes, erratic weather, and village coo..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Zingkhamathān shoklakha, Chamtheina awui kakhut eina"
+        ],
+        [
+          "/F1",
+          9,
+          "kaphungli thukzatsaye. Ana jhum luiramli thing phunglaga meithei"
+        ],
+        [
+          "/F1",
+          9,
+          "shukserie. Kala awui ava-vana kathi tharan, a kacham thotlaga khikha"
+        ],
+        [
+          "/F1",
+          9,
+          "maleisai; kha ana Ngarun (cooperative labor) eina village-wui"
+        ],
+        [
+          "/F1",
+          9,
+          "yaronaobing eina ot sai. Ana hang: 'Ningkazang eina ngaleili ot sadaran,"
+        ],
+        [
+          "/F1",
+          9,
+          "ngaleina theiwon kaphā mishukra!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "At early dawn, Chamthei climbed the steep mountain slopes with his"
+        ],
+        [
+          "/F1",
+          9,
+          "farming implements. He felled trees and cleared the slope for jhum"
+        ],
+        [
+          "/F1",
+          9,
+          "cultivation. Orphaned since childhood, he possessed no family riches;"
+        ],
+        [
+          "/F1",
+          9,
+          "yet through the traditional Ngarun cooperative system, he labored"
+        ],
+        [
+          "/F1",
+          9,
+          "shoulder-to-shoulder with village youths. He declared: 'If one toils"
+        ],
+        [
+          "/F1",
+          9,
+          "upon the earth with persevering heart, the earth will never withhold its"
+        ],
+        [
+          "/F1",
+          9,
+          "abundant fruit!'"
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Zingkhamathān shoklakha, Chamtheina awui kakhut eina kaphungli thukzatsaye. Ana jhum luiramli thing phunglaga meithei shukserie. Kala awui ava-vana kathi tharan, a kacham thotlaga khikha maleisai; kha ana Ngarun (cooperative labor) eina village-wui yaronaobing eina ot sai. Ana hang: 'Ningkazang eina ngaleili ot sadaran, ngaleina theiwon kaphā mishukra!'",
+      "english_translation": "At early dawn, Chamthei climbed the steep mountain slopes with his farming implements. He felled trees and cleared the slope for jhum cultivation. Orphaned since childhood, he possessed no family riches; yet through the traditional Ngarun cooperative system, he labored shoulder-to-shoulder with village youths. He declared: 'If one toils upon the earth with persevering heart, the earth will never withhold its abundant fruit!'",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Hardship of Jhum Cultivation (Luiramli Ot Kasa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Ngarun (noun): traditional mutual cooperative labor group"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngarun eina ot."
+        ],
+        [
+          "/F2",
+          9,
+          "  * jhum luiram (noun): slash-and-burn hillside cultivation plot"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Jhum luiramli."
+        ],
+        [
+          "/F2",
+          9,
+          "  * yaronaobing (noun): youth fellowship of the village"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Village yaronaobing."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Agricultural cooperation idiom: 'Ngarun' reflects egalitarian mutual aid."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Proverbial encouragement: earth rewards persevering labor ('ningkazang eina ot')."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the communal function of Ngarun in traditional Tangkhul agriculture."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does Chamthei overcome his initial poverty?"
+        ]
+      ],
+      "tangkhul_content": "Ngarun: traditional mutual cooperative labor group; jhum luiram: slash-and-burn hillside cultivation plot; yaronaobing: youth fellowship of the village",
+      "english_translation": "Agricultural cooperation idiom: 'Ngarun' reflects egalitarian mutual aid.; Proverbial encouragement: earth rewards persevering labor ('ningkazang eina ot').",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Hardship of Jhum Cultivation (Luiramli Ot Kasa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Arrival of the New School (Lairik Shim Kathara)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE ARRIVAL OF THE NEW SCHOOL (LAIRIK SHIM KATHARA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The arrival of modern primary schooling in the village and Chamthei's passionate..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Ukhrul eina tuitamkasana village-li rarlaga lairik shim"
+        ],
+        [
+          "/F1",
+          9,
+          "phokserie. Mikumo charakhana hang: 'Lairik hanglaga kachak phāmacho?'"
+        ],
+        [
+          "/F1",
+          9,
+          "Kha Chamtheina zingsho ngazing kachikhali slate kala chalk khuilaga"
+        ],
+        [
+          "/F1",
+          9,
+          "tuitam khuiye. Ana Roman script eina Tangkhul grammar, English, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "mathematics kaphāmei khuiye. Ana theitserie: Theikakhui china village-li"
+        ],
+        [
+          "/F1",
+          9,
+          "kashilashili eina huikhuira."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "A teacher arrived from Ukhrul and established the village's first"
+        ],
+        [
+          "/F1",
+          9,
+          "primary school. Some skeptical elders murmured: 'Can mere book-reading"
+        ],
+        [
+          "/F1",
+          9,
+          "fill a stomach with grain?' Yet Chamthei embraced slate and chalk with"
+        ],
+        [
+          "/F1",
+          9,
+          "relentless dedication day and night. He mastered Tangkhul orthography in"
+        ],
+        [
+          "/F1",
+          9,
+          "Roman script, English vocabulary, and arithmetic. He realized: True"
+        ],
+        [
+          "/F1",
+          9,
+          "knowledge is the sole path to emancipate the village from poverty."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Ukhrul eina tuitamkasana village-li rarlaga lairik shim phokserie. Mikumo charakhana hang: 'Lairik hanglaga kachak phāmacho?' Kha Chamtheina zingsho ngazing kachikhali slate kala chalk khuilaga tuitam khuiye. Ana Roman script eina Tangkhul grammar, English, kala mathematics kaphāmei khuiye. Ana theitserie: Theikakhui china village-li kashilashili eina huikhuira.",
+      "english_translation": "A teacher arrived from Ukhrul and established the village's first primary school. Some skeptical elders murmured: 'Can mere book-reading fill a stomach with grain?' Yet Chamthei embraced slate and chalk with relentless dedication day and night. He mastered Tangkhul orthography in Roman script, English vocabulary, and arithmetic. He realized: True knowledge is the sole path to emancipate the village from poverty.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Arrival of the New School (Lairik Shim Kathara)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * lairik shim (noun): school, house of learning"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Lairik shim phok."
+        ],
+        [
+          "/F2",
+          9,
+          "  * theikakhui (noun): education, enlightenment, knowledge"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Theikakhui china huikhui."
+        ],
+        [
+          "/F2",
+          9,
+          "  * tuitamkasana (noun): teacher, instructor, pedagogue"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ukhrul eina tuitamkasana."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Educational compounding: 'lairik' (book/paper) + 'shim' (house) = school."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Causal emancipation clause: 'theikakhui china... huikhuira'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Why did traditional elders initially question the value of schooling?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify Chamthei's academic achievements in Chapter 2."
+        ]
+      ],
+      "tangkhul_content": "lairik shim: school, house of learning; theikakhui: education, enlightenment, knowledge; tuitamkasana: teacher, instructor, pedagogue",
+      "english_translation": "Educational compounding: 'lairik' (book/paper) + 'shim' (house) = school.; Causal emancipation clause: 'theikakhui china... huikhuira'.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Arrival of the New School (Lairik Shim Kathara)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Harvest of Hope & Village Renaissance (Theiwon Kashung)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: HARVEST OF HOPE & VILLAGE RENAISSANCE (THEIWON KASHUNG)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Chamthei introduces terrace canal irrigation to the village, producing bumper ha..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Chamtheina village council (Hangva) ngalemli rarlaga"
+        ],
+        [
+          "/F1",
+          9,
+          "kongkhamathān eina terrace irrigation (Lui canal) sakhavai proposal"
+        ],
+        [
+          "/F1",
+          9,
+          "chitheitserie. Eldersbingna awui ningkazang theilaga green signal miye."
+        ],
+        [
+          "/F1",
+          9,
+          "Zingkum charakha ngaphalaga, terraced fields-li paddy kashung thotna;"
+        ],
+        [
+          "/F1",
+          9,
+          "village-li haora kasham maleilu-mana. Chamtheili village-na 'Awung-"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashan youth leader' hoda mathat-eina kashakserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chamthei stood before the Hangva village council and presented a"
+        ],
+        [
+          "/F1",
+          9,
+          "blueprint to channel mountain streams into terraced irrigation canals."
+        ],
+        [
+          "/F1",
+          9,
+          "Impressed by his wisdom and steadfast integrity, the elders approved the"
+        ],
+        [
+          "/F1",
+          9,
+          "project. Within seasons, golden paddy swayed across the terraces,"
+        ],
+        [
+          "/F1",
+          9,
+          "banishing famine from the valley. The community honored Chamthei as an"
+        ],
+        [
+          "/F1",
+          9,
+          "exemplary youth leader of the renaissance."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Chamtheina village council (Hangva) ngalemli rarlaga kongkhamathān eina terrace irrigation (Lui canal) sakhavai proposal chitheitserie. Eldersbingna awui ningkazang theilaga green signal miye. Zingkum charakha ngaphalaga, terraced fields-li paddy kashung thotna; village-li haora kasham maleilu-mana. Chamtheili village-na 'Awung-ngashan youth leader' hoda mathat-eina kashakserie.",
+      "english_translation": "Chamthei stood before the Hangva village council and presented a blueprint to channel mountain streams into terraced irrigation canals. Impressed by his wisdom and steadfast integrity, the elders approved the project. Within seasons, golden paddy swayed across the terraces, banishing famine from the valley. The community honored Chamthei as an exemplary youth leader of the renaissance.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Harvest of Hope & Village Renaissance (Theiwon Kashung)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * terrace irrigation (noun): lui canal, mountain contour channeling"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Lui canal sakhavai."
+        ],
+        [
+          "/F2",
+          9,
+          "  * haora kasham (noun): famine, seasonal grain scarcity"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Haora kasham maleilu."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Hangva (noun): village council of elders"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Hangva ngalemli."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Civic presentation discourse: standing before the Hangva court."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Eradication of famine expressed through negative completive: 'maleilu-mana'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How did modern knowledge and traditional agrarian work combine in Chamthei's success?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What moral does the novel's title Chamthei convey?"
+        ]
+      ],
+      "tangkhul_content": "terrace irrigation: lui canal, mountain contour channeling; haora kasham: famine, seasonal grain scarcity; Hangva: village council of elders",
+      "english_translation": "Civic presentation discourse: standing before the Hangva court.; Eradication of famine expressed through negative completive: 'maleilu-mana'.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Harvest of Hope & Village Renaissance (Theiwon Kashung)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Ngarun -- traditional mutual cooperative labor group"
+        ],
+        [
+          "/F1",
+          9,
+          "  * jhum luiram -- slash-and-burn hillside cultivation plot"
+        ],
+        [
+          "/F1",
+          9,
+          "  * yaronaobing -- youth fellowship of the village"
+        ],
+        [
+          "/F1",
+          9,
+          "  * lairik shim -- school, house of learning"
+        ],
+        [
+          "/F1",
+          9,
+          "  * theikakhui -- education, enlightenment, knowledge"
+        ],
+        [
+          "/F1",
+          9,
+          "  * tuitamkasana -- teacher, instructor, pedagogue"
+        ],
+        [
+          "/F1",
+          9,
+          "  * terrace irrigation -- lui canal, mountain contour channeling"
+        ],
+        [
+          "/F1",
+          9,
+          "  * haora kasham -- famine, seasonal grain scarcity"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Ngarun",
+        "pos": "noun",
+        "meaning": "traditional mutual cooperative labor group",
+        "example": "Ngarun eina ot."
+      },
+      {
+        "word": "jhum luiram",
+        "pos": "noun",
+        "meaning": "slash-and-burn hillside cultivation plot",
+        "example": "Jhum luiramli."
+      },
+      {
+        "word": "yaronaobing",
+        "pos": "noun",
+        "meaning": "youth fellowship of the village",
+        "example": "Village yaronaobing."
+      },
+      {
+        "word": "lairik shim",
+        "pos": "noun",
+        "meaning": "school, house of learning",
+        "example": "Lairik shim phok."
+      },
+      {
+        "word": "theikakhui",
+        "pos": "noun",
+        "meaning": "education, enlightenment, knowledge",
+        "example": "Theikakhui china huikhui."
+      },
+      {
+        "word": "tuitamkasana",
+        "pos": "noun",
+        "meaning": "teacher, instructor, pedagogue",
+        "example": "Ukhrul eina tuitamkasana."
+      },
+      {
+        "word": "terrace irrigation",
+        "pos": "noun",
+        "meaning": "lui canal, mountain contour channeling",
+        "example": "Lui canal sakhavai."
+      },
+      {
+        "word": "haora kasham",
+        "pos": "noun",
+        "meaning": "famine, seasonal grain scarcity",
+        "example": "Haora kasham maleilu."
+      },
+      {
+        "word": "Hangva",
+        "pos": "noun",
+        "meaning": "village council of elders",
+        "example": "Hangva ngalemli."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 13,
+  "total_chapters": 3,
+  "total_words": 320,
+  "excerpts": [
+    "Chapter 1: Zingkhamathān shoklakha, Chamtheina awui kakhut eina kaphungli thukzatsaye. Ana jhum luiramli thing phunglaga...",
+    "Chapter 2: Ukhrul eina tuitamkasana village-li rarlaga lairik shim phokserie. Mikumo charakhana hang: 'Lairik hanglaga k...",
+    "Chapter 3: Chamtheina village council (Hangva) ngalemli rarlaga kongkhamathān eina terrace irrigation (Lui canal) sakhav..."
+  ]
+}

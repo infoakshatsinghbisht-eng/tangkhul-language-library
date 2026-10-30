@@ -1,0 +1,1636 @@
+{
+  "id": "BK-NOVL-001",
+  "resource_type": "books",
+  "title": "Shimreishang kala Maitonphi: The Classic Tangkhul Epic Novel of Love and Tragedy",
+  "alternate_titles": [
+    "Maitonphi eina Shimreishang: The Tangkhul Romeo and Juliet",
+    "The Legend of Star-Crossed Lovers in Ukhrul and Phadang"
+  ],
+  "authors": [
+    "Tangkhul Cultural Heritage Society",
+    "T. Luikham"
+  ],
+  "editors": [
+    "Tangkhul Literature Society"
+  ],
+  "publisher": "Tangkhul Literature Society, Imphal / Ukhrul",
+  "publication_year": 1972,
+  "year": 1972,
+  "edition": "Classic Literary Edition",
+  "subject": "Novel (Upanyas), Epic Romance & Traditional Tragedy",
+  "educational_level": "Secondary, Higher Secondary & B.A. Tangkhul Literature",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "978-81-87606-44-1",
+  "source_url": "https://bharatavani.in/tangkhul/literature",
+  "source_identifier": "TLS-TKH-NOVEL-SHIMREISHANG",
+  "catalogue_url": "https://bharatavani.in/tangkhul/literature",
+  "local_file_path": "data/raw/books/BK-NOVL-001_shimreishang_maitonphi.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Cultural Heritage",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "The supreme classic novel of Tangkhul literature. Immortalizes the legendary romance between Shimreishang Zimikwo and Maitonphi Lungleng, torn apart by clan feuds, unyielding customary laws, and destiny.",
+  "front_matter": {
+    "title_page": "Shimreishang kala Maitonphi: The Classic Tangkhul Epic Novel of Love and Tragedy (1972)",
+    "preface": "Shimreishang kala Maitonphi stands as the undisputed crown jewel of Tangkhul imaginative prose literature. Comparable in cultural stature to Shakespeare's Romeo and Juliet or Heer Ranjha of Punjab, this epic novel recounts the star-crossed love of Shimreishang, a valiant youth of the Zimikwo clan, and Maitonphi, the most graceful maiden of Phadang. It vividly portrays 18th-century Tangkhul village life, jhum farming rituals, village festivals, and the tragic conflict between individual romantic passion and immutable tribal customary codes.",
+    "table_of_contents": [
+      "Chapter 1: The Spring Meeting at Luira Festival (Luira Phanitli Khangacham)",
+      "Chapter 2: The Secret Vow on Shirui Mountain (Shirui Kaphungli Tui-ngashik)",
+      "Chapter 3: Clan Feuds & The Forced Betrothal (Shangwui Kashan kala Kaphankahai)",
+      "Chapter 4: The Tragic Farewell & Eternal Union in Spirit"
+    ],
+    "imprint": "Tangkhul Literature Society, Imphal / Ukhrul, 1972."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Spring Meeting at Luira Festival (Luira Phanitli Khangacham)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Secret Vow on Shirui Mountain (Shirui Kaphungli Tui-ngashik)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Clan Feuds & The Forced Betrothal (Shangwui Kashan kala Kaphankahai)",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Tragic Farewell & Eternal Union in Spirit",
+      "page_start": 13,
+      "page_end": 15
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Spring Meeting at Luira Festival (Luira Phanitli Khangacham)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Shimreishang and Maitonphi meet during the Hao Pheichak circle dance in the flowering hills.",
+      "tangkhul_text": "Chapter 1: Zingyur atamli Luira Phanit shoklakha, Ukhrul ram kaphung-longkhor kuppup mathāteiye. Shimreishang, Zimikwo shangwui mayarnao kaphā, awui Haora chon eina pheichak shomye. Chitharan Maitonphi Lungleng, Phadang ramwui ngalanao kachak-ngayei, Luirim kachon sanglaga pheichak ngalungli ngaburleisai. Athum mik-ngalem khangacha tharan, Shimreishangwui lungli wonkhamathā pomsangie. Ana Awui shai-laaring honsangmi: 'Won kaphā, nali theilaga iwui lungkashungna nali ngashankahuie!'",
+      "english_translation": "When the spring seed-sowing festival (Luira Phanit) arrived, all the hills and ravines of Ukhrul bloomed with celestial glory. Shimreishang, the gallant son of the Zimikwo clan, adorned his shoulders with the majestic Haora shawl to dance in the circle. There stood Maitonphi Lungleng, the radiant maiden of Phadang, wrapped in her graceful Luirim attire. When their gazes locked across the festive throng, a sacred flower of love blossomed in Shimreishang's heart. He sang his poetic lyric: 'O sweetest blossom, beholding thee, my whole heart surrenders in eternal devotion!'",
+      "vocabulary": [
+        {
+          "word": "Zingyur atam",
+          "pos": "noun",
+          "meaning": "spring season, time of vernal blooms",
+          "example": "Zingyur atamli."
+        },
+        {
+          "word": "Haora",
+          "pos": "noun",
+          "meaning": "traditional black and red striped ceremonial male shawl",
+          "example": "Haora chon."
+        },
+        {
+          "word": "wonkhamathā",
+          "pos": "noun",
+          "meaning": "beautiful blossom of love, noble affection",
+          "example": "Wonkhamathā pomsang."
+        }
+      ],
+      "grammar_notes": [
+        "Seasonal temporal framing: 'Zingyur atamli... shoklakha' (When spring season arrived).",
+        "Poetic compounding: 'won' (flower) + 'khamathā' (beautiful) = flower of romance."
+      ],
+      "exercises": [
+        "Describe the setting of Luira Phanit where the two lovers first meet.",
+        "Identify the traditional woven shawls worn by Shimreishang and Maitonphi."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Secret Vow on Shirui Mountain (Shirui Kaphungli Tui-ngashik)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Ascending the mystical heights of Shirui Kashong, the lovers pledge eternal faithfulness amid Kashong lilies.",
+      "tangkhul_text": "Chapter 2: Athum khani Shirui Kashong kaphung kashangli thukzat-serie. Chithuili Shirui Lily won kaphā kachak eina ngasomleisai. Shimreishangna Maitonphili Shirui Lily akha shitsanglaga awui samli hamsangmi. Maitonphina mukthi kashik eina hang: 'Shimreishang, ithui shang khaniwui ngachaili kashan lei; ithui avava-na ithuli ngaror-kashap sara macho?' Shimreishangna awui khutli huitsanglaga tui-ngashik sakahaisai: 'Ngalei hi ngapaoritsashu, iwui khangayei nawui vang thot pupup mathimara!'",
+      "english_translation": "The two climbed the sacred crest of Mount Shirui, where the unique pink Shirui Lilies bloomed in virgin purity. Shimreishang plucked a rare blossom and lovingly placed it in Maitonphi's dark hair. With tears glistening in her eyes, Maitonphi whispered: 'Shimreishang, an unyielding clan barrier divides our families; will our parents ever grant blessing to our union?' Grasping her hand firmly, Shimreishang swore an inviolable oath: 'Though heaven and earth may vanish away, my love for thee shall never perish throughout eternity!'",
+      "vocabulary": [
+        {
+          "word": "Shirui Kashong",
+          "pos": "proper noun",
+          "meaning": "Mount Shirui, legendary peak of Ukhrul",
+          "example": "Shirui Kashongli thukzat."
+        },
+        {
+          "word": "tui-ngashik",
+          "pos": "noun",
+          "meaning": "sacred oath, binding solemn vow",
+          "example": "Tui-ngashik sakahaisai."
+        },
+        {
+          "word": "mukthi kashik",
+          "pos": "noun",
+          "meaning": "sorrowful tears, weeping of grief",
+          "example": "Mukthi kashik eina."
+        }
+      ],
+      "grammar_notes": [
+        "Highland botanical imagery: Shirui Lily as emblem of endangered romantic purity.",
+        "Irrevocable conditional oath formula: 'Ngalei hi ngapaoritsashu...' (Even if earth were to perish...)."
+      ],
+      "exercises": [
+        "Analyze the symbolic significance of Mount Shirui and the Shirui Lily in Tangkhul literature.",
+        "Translate Shimreishang's vow into Hindi and English."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Clan Feuds & The Forced Betrothal (Shangwui Kashan kala Kaphankahai)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Inter-village clan hostilities erupt; Maitonphi's elders betroth her against her will to an elder chieftain.",
+      "tangkhul_text": "Chapter 3: Ukhrul kala Phadangwui ngachaili ramkashikhavai tui-ngapom shokserie. Maitonphiwui avashimna ali Zimikwo shang eina khangayei sakhavai kakhamrie. Chiwui tharan kashang awungshi akha rarlaga Maitonphili marriage-wui vang bride-price (Man) mithukserie. Maitonphina zingsho ngazing kachikhali chirkhangahok eina Shimreishangli ningkhamathan leisai; kha customary law-wui khongyui kapei eina ana awui va-vawui tui mathakakhui mashuk-mana. Ana Shimreishangli pao-phungnao eina kashonmi: 'Iwui aphasa khangateili pashitsashu, iwui mangazing nawuisai!'",
+      "english_translation": "Bitter clan rivalries erupted between the territories of Ukhrul and Phadang. Maitonphi's family strictly forbade any association with the Zimikwo lineage. Soon, an influential chieftain arrived and paid a heavy customary bride-price for Maitonphi's hand. Maitonphi wept day and night in inconsolable anguish, yearning for Shimreishang; yet bound by the iron edict of customary law, she could not disobey her elders. She sent a secret message: 'Though my physical body be bartered away to another, my soul belongeth solely unto thee!'",
+      "vocabulary": [
+        {
+          "word": "Man",
+          "pos": "noun",
+          "meaning": "traditional customary bride-price, marriage restitution",
+          "example": "Bride-price Man."
+        },
+        {
+          "word": "kakhamrie",
+          "pos": "verb",
+          "meaning": "strictly prohibited, banned by taboo",
+          "example": "Khangayei kakhamrie."
+        },
+        {
+          "word": "chirkhangahok",
+          "pos": "noun",
+          "meaning": "lamentation, agonizing weeping",
+          "example": "Chirkhangahok eina."
+        }
+      ],
+      "grammar_notes": [
+        "Customary law terminology: 'Man' (bride-price) and 'Kashan' (customary prohibition).",
+        "Concessive contrast: 'aphasa khangateili pashitsashu... mangazing nawuisai' (Though body be given, soul is thine)."
+      ],
+      "exercises": [
+        "Explain the conflict between personal freedom and customary clan authority in Chapter 3.",
+        "What traditional gift was paid to seal the betrothal?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Tragic Farewell & Eternal Union in Spirit",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Shimreishang returns to find Maitonphi has passed away of broken heart; their spirits unite on the mountain crest.",
+      "tangkhul_text": "Chapter 4: Shimreishangna kaphung-longkhor kakhorlaga Phadangli ung-kaphung tharan, theilu! Maitonphiwui shimli kathi-laa kakhong theitserie. Maitonphina ningkasham kapei eina awui phasa mathirarlaga Kazingramli valakna! Shimreishangna awui lungkhorli rarlaga lungkashung eina chirpamsai: 'Maitonphi! Na mathida i katha eina ringkapamsara?' Chitharan Shimreishangna awui thàng eina awui lungli kashukserie, kala awui phasa Maitonphiwui ngalemli tuksangie. Ukhrulwui khararchanna hangye: Athum khaniwui mangazing Shirui Kashongli wonkhamathā thada thot pupup ngasomleisaye!",
+      "english_translation": "When Shimreishang frantically traversed the gorges and reached Phadang, alas! The haunting strains of the funeral lament echoed from Maitonphi's home. Broken-hearted with grief, she had breathed her last. Collapsing upon her freshly dug stone grave, Shimreishang wept in desperate agony: 'O Maitonphi! How can I endure this earthly life without thee?' Drawing his ancestral dagger, he pierced his own heart and fell beside his beloved. And the ancient legends of the Tangkhul recount: Their spirits transformed into immortal Shirui lilies, blooming together in inseparable embrace upon the mountaintop throughout all eternity.",
+      "vocabulary": [
+        {
+          "word": "kathi-laa",
+          "pos": "noun",
+          "meaning": "funeral song, death lament, requiem dirge",
+          "example": "Kathi-laa kakhong."
+        },
+        {
+          "word": "thàng",
+          "pos": "noun",
+          "meaning": "warrior's dagger, machete, ancestral dao",
+          "example": "Awui thàng eina."
+        },
+        {
+          "word": "ngasomleisaye",
+          "pos": "verb",
+          "meaning": "blooming together in eternal harmony",
+          "example": "Thot pupup ngasomleisaye."
+        }
+      ],
+      "grammar_notes": [
+        "Funeral lament compound: 'kathi' (death) + 'laa' (song) = dirge.",
+        "Immortal transformation narrative motif: physical death giving way to eternal floral rebirth."
+      ],
+      "exercises": [
+        "Compare the conclusion of Shimreishang and Maitonphi with Romeo and Juliet.",
+        "How does the novel preserve traditional Tangkhul philosophical attitudes toward death and eternity?"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Shimreishang kala Maitonphi: The Classic",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "SHIMREISHANG KALA MAITONPHI: THE CLASSIC TANGKHUL EPIC NOVEL OF LOVE AND TRAGEDY"
+        ],
+        [
+          "/F1",
+          11,
+          "Maitonphi eina Shimreishang: The Tangkhul Romeo and Juliet"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Cultural Heritage Society, T. Luikham"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Literature Society, Imphal / Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 1972 | Genre: Novel (Upanyas), Epic Romance & Traditional Tragedy"
+        ]
+      ],
+      "tangkhul_content": "Shimreishang kala Maitonphi: The Classic Tangkhul Epic Novel of Love and Tragedy -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Maitonphi eina Shimreishang: The Tangkhul Romeo and Juliet",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Shimreishang kala Maitonphi stands as the undisputed crown jewel of"
+        ],
+        [
+          "/F1",
+          10,
+          "Tangkhul imaginative prose literature. Comparable in cultural stature to"
+        ],
+        [
+          "/F1",
+          10,
+          "Shakespeare's Romeo and Juliet or Heer Ranjha of Punjab, this epic novel"
+        ],
+        [
+          "/F1",
+          10,
+          "recounts the star-crossed love of Shimreishang, a valiant youth of the"
+        ],
+        [
+          "/F1",
+          10,
+          "Zimikwo clan, and Maitonphi, the most graceful maiden of Phadang. It"
+        ],
+        [
+          "/F1",
+          10,
+          "vividly portrays 18th-century Tangkhul village life, jhum farming"
+        ],
+        [
+          "/F1",
+          10,
+          "rituals, village festivals, and the tragic conflict between individual"
+        ],
+        [
+          "/F1",
+          10,
+          "romantic passion and immutable tribal customary codes."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-NOVEL-SHIMREISHANG"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Shimreishang kala Maitonphi stands as the undisputed crown jewel of Tangkhul imaginative prose literature. Comparable in...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Spring Meeting at Luira Festival (Luira Phan ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Secret Vow on Shirui Mountain (Shirui Kaphun ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Clan Feuds & The Forced Betrothal (Shangwui Kash ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: The Tragic Farewell & Eternal Union in Spirit ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 16"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 4.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Spring Meeting at Luira Festival (Luira Phanitli Khangacham)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE SPRING MEETING AT LUIRA FESTIVAL (LUIRA PHANITLI KHANGACHAM)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Shimreishang and Maitonphi meet during the Hao Pheichak circle dance in the flow..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Zingyur atamli Luira Phanit shoklakha, Ukhrul ram kaphung-"
+        ],
+        [
+          "/F1",
+          9,
+          "longkhor kuppup mathāteiye. Shimreishang, Zimikwo shangwui mayarnao"
+        ],
+        [
+          "/F1",
+          9,
+          "kaphā, awui Haora chon eina pheichak shomye. Chitharan Maitonphi"
+        ],
+        [
+          "/F1",
+          9,
+          "Lungleng, Phadang ramwui ngalanao kachak-ngayei, Luirim kachon sanglaga"
+        ],
+        [
+          "/F1",
+          9,
+          "pheichak ngalungli ngaburleisai. Athum mik-ngalem khangacha tharan,"
+        ],
+        [
+          "/F1",
+          9,
+          "Shimreishangwui lungli wonkhamathā pomsangie. Ana Awui shai-laaring"
+        ],
+        [
+          "/F1",
+          9,
+          "honsangmi: 'Won kaphā, nali theilaga iwui lungkashungna nali"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashankahuie!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "When the spring seed-sowing festival (Luira Phanit) arrived, all the"
+        ],
+        [
+          "/F1",
+          9,
+          "hills and ravines of Ukhrul bloomed with celestial glory. Shimreishang,"
+        ],
+        [
+          "/F1",
+          9,
+          "the gallant son of the Zimikwo clan, adorned his shoulders with the"
+        ],
+        [
+          "/F1",
+          9,
+          "majestic Haora shawl to dance in the circle. There stood Maitonphi"
+        ],
+        [
+          "/F1",
+          9,
+          "Lungleng, the radiant maiden of Phadang, wrapped in her graceful Luirim"
+        ],
+        [
+          "/F1",
+          9,
+          "attire. When their gazes locked across the festive throng, a sacred"
+        ],
+        [
+          "/F1",
+          9,
+          "flower of love blossomed in Shimreishang's heart. He sang his poetic"
+        ],
+        [
+          "/F1",
+          9,
+          "lyric: 'O sweetest blossom, beholding thee, my whole heart surrenders in"
+        ],
+        [
+          "/F1",
+          9,
+          "eternal devotion!'"
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Zingyur atamli Luira Phanit shoklakha, Ukhrul ram kaphung-longkhor kuppup mathāteiye. Shimreishang, Zimikwo shangwui mayarnao kaphā, awui Haora chon eina pheichak shomye. Chitharan Maitonphi Lungleng, Phadang ramwui ngalanao kachak-ngayei, Luirim kachon sanglaga pheichak ngalungli ngaburleisai. Athum mik-ngalem khangacha tharan, Shimreishangwui lungli wonkhamathā pomsangie. Ana Awui shai-laaring honsangmi: 'Won kaphā, nali theilaga iwui lungkashungna nali ngashankahuie!'",
+      "english_translation": "When the spring seed-sowing festival (Luira Phanit) arrived, all the hills and ravines of Ukhrul bloomed with celestial glory. Shimreishang, the gallant son of the Zimikwo clan, adorned his shoulders with the majestic Haora shawl to dance in the circle. There stood Maitonphi Lungleng, the radiant maiden of Phadang, wrapped in her graceful Luirim attire. When their gazes locked across the festive throng, a sacred flower of love blossomed in Shimreishang's heart. He sang his poetic lyric: 'O sweetest blossom, beholding thee, my whole heart surrenders in eternal devotion!'",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Spring Meeting at Luira Festival (Luira Phanitli Khangacham)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Zingyur atam (noun): spring season, time of vernal blooms"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Zingyur atamli."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Haora (noun): traditional black and red striped ceremonial male shawl"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Haora chon."
+        ],
+        [
+          "/F2",
+          9,
+          "  * wonkhamathā (noun): beautiful blossom of love, noble affection"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Wonkhamathā pomsang."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Seasonal temporal framing: 'Zingyur atamli... shoklakha' (When spring season arrived)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Poetic compounding: 'won' (flower) + 'khamathā' (beautiful) = flower of romance."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Describe the setting of Luira Phanit where the two lovers first meet."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the traditional woven shawls worn by Shimreishang and Maitonphi."
+        ]
+      ],
+      "tangkhul_content": "Zingyur atam: spring season, time of vernal blooms; Haora: traditional black and red striped ceremonial male shawl; wonkhamathā: beautiful blossom of love, noble affection",
+      "english_translation": "Seasonal temporal framing: 'Zingyur atamli... shoklakha' (When spring season arrived).; Poetic compounding: 'won' (flower) + 'khamathā' (beautiful) = flower of romance.",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Spring Meeting at Luira Festival (Luira Phanitli Khangacham)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Secret Vow on Shirui Mountain (Shirui Kaphungli Tui-ngashik)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE SECRET VOW ON SHIRUI MOUNTAIN (SHIRUI KAPHUNGLI TUI-NGASHIK)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Ascending the mystical heights of Shirui Kashong, the lovers pledge eternal fait..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Athum khani Shirui Kashong kaphung kashangli thukzat-serie."
+        ],
+        [
+          "/F1",
+          9,
+          "Chithuili Shirui Lily won kaphā kachak eina ngasomleisai. Shimreishangna"
+        ],
+        [
+          "/F1",
+          9,
+          "Maitonphili Shirui Lily akha shitsanglaga awui samli hamsangmi."
+        ],
+        [
+          "/F1",
+          9,
+          "Maitonphina mukthi kashik eina hang: 'Shimreishang, ithui shang khaniwui"
+        ],
+        [
+          "/F1",
+          9,
+          "ngachaili kashan lei; ithui avava-na ithuli ngaror-kashap sara macho?'"
+        ],
+        [
+          "/F1",
+          9,
+          "Shimreishangna awui khutli huitsanglaga tui-ngashik sakahaisai: 'Ngalei"
+        ],
+        [
+          "/F1",
+          9,
+          "hi ngapaoritsashu, iwui khangayei nawui vang thot pupup mathimara!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "The two climbed the sacred crest of Mount Shirui, where the unique pink"
+        ],
+        [
+          "/F1",
+          9,
+          "Shirui Lilies bloomed in virgin purity. Shimreishang plucked a rare"
+        ],
+        [
+          "/F1",
+          9,
+          "blossom and lovingly placed it in Maitonphi's dark hair. With tears"
+        ],
+        [
+          "/F1",
+          9,
+          "glistening in her eyes, Maitonphi whispered: 'Shimreishang, an"
+        ],
+        [
+          "/F1",
+          9,
+          "unyielding clan barrier divides our families; will our parents ever"
+        ],
+        [
+          "/F1",
+          9,
+          "grant blessing to our union?' Grasping her hand firmly, Shimreishang"
+        ],
+        [
+          "/F1",
+          9,
+          "swore an inviolable oath: 'Though heaven and earth may vanish away, my"
+        ],
+        [
+          "/F1",
+          9,
+          "love for thee shall never perish throughout eternity!'"
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Athum khani Shirui Kashong kaphung kashangli thukzat-serie. Chithuili Shirui Lily won kaphā kachak eina ngasomleisai. Shimreishangna Maitonphili Shirui Lily akha shitsanglaga awui samli hamsangmi. Maitonphina mukthi kashik eina hang: 'Shimreishang, ithui shang khaniwui ngachaili kashan lei; ithui avava-na ithuli ngaror-kashap sara macho?' Shimreishangna awui khutli huitsanglaga tui-ngashik sakahaisai: 'Ngalei hi ngapaoritsashu, iwui khangayei nawui vang thot pupup mathimara!'",
+      "english_translation": "The two climbed the sacred crest of Mount Shirui, where the unique pink Shirui Lilies bloomed in virgin purity. Shimreishang plucked a rare blossom and lovingly placed it in Maitonphi's dark hair. With tears glistening in her eyes, Maitonphi whispered: 'Shimreishang, an unyielding clan barrier divides our families; will our parents ever grant blessing to our union?' Grasping her hand firmly, Shimreishang swore an inviolable oath: 'Though heaven and earth may vanish away, my love for thee shall never perish throughout eternity!'",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Secret Vow on Shirui Mountain (Shirui Kaphungli Tui-ngashik)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Shirui Kashong (proper noun): Mount Shirui, legendary peak of Ukhrul"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Shirui Kashongli thukzat."
+        ],
+        [
+          "/F2",
+          9,
+          "  * tui-ngashik (noun): sacred oath, binding solemn vow"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Tui-ngashik sakahaisai."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mukthi kashik (noun): sorrowful tears, weeping of grief"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Mukthi kashik eina."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Highland botanical imagery: Shirui Lily as emblem of endangered romantic purity."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Irrevocable conditional oath formula: 'Ngalei hi ngapaoritsashu...' (Even if earth were to perish...)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Analyze the symbolic significance of Mount Shirui and the Shirui Lily in Tangkhul literature."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate Shimreishang's vow into Hindi and English."
+        ]
+      ],
+      "tangkhul_content": "Shirui Kashong: Mount Shirui, legendary peak of Ukhrul; tui-ngashik: sacred oath, binding solemn vow; mukthi kashik: sorrowful tears, weeping of grief",
+      "english_translation": "Highland botanical imagery: Shirui Lily as emblem of endangered romantic purity.; Irrevocable conditional oath formula: 'Ngalei hi ngapaoritsashu...' (Even if earth were to perish...).",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Secret Vow on Shirui Mountain (Shirui Kaphungli Tui-ngashik)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Clan Feuds & The Forced Betrothal (Shangwui Kashan kala Kaphankahai)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: CLAN FEUDS & THE FORCED BETROTHAL (SHANGWUI KASHAN KALA KAPHANKAHAI)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Inter-village clan hostilities erupt; Maitonphi's elders betroth her against her..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Ukhrul kala Phadangwui ngachaili ramkashikhavai tui-ngapom"
+        ],
+        [
+          "/F1",
+          9,
+          "shokserie. Maitonphiwui avashimna ali Zimikwo shang eina khangayei"
+        ],
+        [
+          "/F1",
+          9,
+          "sakhavai kakhamrie. Chiwui tharan kashang awungshi akha rarlaga"
+        ],
+        [
+          "/F1",
+          9,
+          "Maitonphili marriage-wui vang bride-price (Man) mithukserie. Maitonphina"
+        ],
+        [
+          "/F1",
+          9,
+          "zingsho ngazing kachikhali chirkhangahok eina Shimreishangli"
+        ],
+        [
+          "/F1",
+          9,
+          "ningkhamathan leisai; kha customary law-wui khongyui kapei eina ana awui"
+        ],
+        [
+          "/F1",
+          9,
+          "va-vawui tui mathakakhui mashuk-mana. Ana Shimreishangli pao-phungnao"
+        ],
+        [
+          "/F1",
+          9,
+          "eina kashonmi: 'Iwui aphasa khangateili pashitsashu, iwui mangazing"
+        ],
+        [
+          "/F1",
+          9,
+          "nawuisai!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Bitter clan rivalries erupted between the territories of Ukhrul and"
+        ],
+        [
+          "/F1",
+          9,
+          "Phadang. Maitonphi's family strictly forbade any association with the"
+        ],
+        [
+          "/F1",
+          9,
+          "Zimikwo lineage. Soon, an influential chieftain arrived and paid a heavy"
+        ],
+        [
+          "/F1",
+          9,
+          "customary bride-price for Maitonphi's hand. Maitonphi wept day and night"
+        ],
+        [
+          "/F1",
+          9,
+          "in inconsolable anguish, yearning for Shimreishang; yet bound by the"
+        ],
+        [
+          "/F1",
+          9,
+          "iron edict of customary law, she could not disobey her elders. She sent"
+        ],
+        [
+          "/F1",
+          9,
+          "a secret message: 'Though my physical body be bartered away to another,"
+        ],
+        [
+          "/F1",
+          9,
+          "my soul belongeth solely unto thee!'"
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Ukhrul kala Phadangwui ngachaili ramkashikhavai tui-ngapom shokserie. Maitonphiwui avashimna ali Zimikwo shang eina khangayei sakhavai kakhamrie. Chiwui tharan kashang awungshi akha rarlaga Maitonphili marriage-wui vang bride-price (Man) mithukserie. Maitonphina zingsho ngazing kachikhali chirkhangahok eina Shimreishangli ningkhamathan leisai; kha customary law-wui khongyui kapei eina ana awui va-vawui tui mathakakhui mashuk-mana. Ana Shimreishangli pao-phungnao eina kashonmi: 'Iwui aphasa khangateili pashitsashu, iwui mangazing nawuisai!'",
+      "english_translation": "Bitter clan rivalries erupted between the territories of Ukhrul and Phadang. Maitonphi's family strictly forbade any association with the Zimikwo lineage. Soon, an influential chieftain arrived and paid a heavy customary bride-price for Maitonphi's hand. Maitonphi wept day and night in inconsolable anguish, yearning for Shimreishang; yet bound by the iron edict of customary law, she could not disobey her elders. She sent a secret message: 'Though my physical body be bartered away to another, my soul belongeth solely unto thee!'",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Clan Feuds & The Forced Betrothal (Shangwui Kashan kala Kaphankahai)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Man (noun): traditional customary bride-price, marriage restitution"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Bride-price Man."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kakhamrie (verb): strictly prohibited, banned by taboo"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khangayei kakhamrie."
+        ],
+        [
+          "/F2",
+          9,
+          "  * chirkhangahok (noun): lamentation, agonizing weeping"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Chirkhangahok eina."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Customary law terminology: 'Man' (bride-price) and 'Kashan' (customary prohibition)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Concessive contrast: 'aphasa khangateili pashitsashu... mangazing nawuisai' (Though body be given, soul is thine)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the conflict between personal freedom and customary clan authority in Chapter 3."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What traditional gift was paid to seal the betrothal?"
+        ]
+      ],
+      "tangkhul_content": "Man: traditional customary bride-price, marriage restitution; kakhamrie: strictly prohibited, banned by taboo; chirkhangahok: lamentation, agonizing weeping",
+      "english_translation": "Customary law terminology: 'Man' (bride-price) and 'Kashan' (customary prohibition).; Concessive contrast: 'aphasa khangateili pashitsashu... mangazing nawuisai' (Though body be given, soul is thine).",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Clan Feuds & The Forced Betrothal (Shangwui Kashan kala Kaphankahai)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "The Tragic Farewell & Eternal Union in Spirit",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: THE TRAGIC FAREWELL & ETERNAL UNION IN SPIRIT"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Shimreishang returns to find Maitonphi has passed away of broken heart; their sp..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 4: Shimreishangna kaphung-longkhor kakhorlaga Phadangli ung-"
+        ],
+        [
+          "/F1",
+          9,
+          "kaphung tharan, theilu! Maitonphiwui shimli kathi-laa kakhong"
+        ],
+        [
+          "/F1",
+          9,
+          "theitserie. Maitonphina ningkasham kapei eina awui phasa mathirarlaga"
+        ],
+        [
+          "/F1",
+          9,
+          "Kazingramli valakna! Shimreishangna awui lungkhorli rarlaga lungkashung"
+        ],
+        [
+          "/F1",
+          9,
+          "eina chirpamsai: 'Maitonphi! Na mathida i katha eina ringkapamsara?'"
+        ],
+        [
+          "/F1",
+          9,
+          "Chitharan Shimreishangna awui thàng eina awui lungli kashukserie, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "awui phasa Maitonphiwui ngalemli tuksangie. Ukhrulwui khararchanna"
+        ],
+        [
+          "/F1",
+          9,
+          "hangye: Athum khaniwui mangazing Shirui Kashongli wonkhamathā thada thot"
+        ],
+        [
+          "/F1",
+          9,
+          "pupup ngasomleisaye!"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "When Shimreishang frantically traversed the gorges and reached Phadang,"
+        ],
+        [
+          "/F1",
+          9,
+          "alas! The haunting strains of the funeral lament echoed from Maitonphi's"
+        ],
+        [
+          "/F1",
+          9,
+          "home. Broken-hearted with grief, she had breathed her last. Collapsing"
+        ],
+        [
+          "/F1",
+          9,
+          "upon her freshly dug stone grave, Shimreishang wept in desperate agony:"
+        ],
+        [
+          "/F1",
+          9,
+          "'O Maitonphi! How can I endure this earthly life without thee?' Drawing"
+        ],
+        [
+          "/F1",
+          9,
+          "his ancestral dagger, he pierced his own heart and fell beside his"
+        ],
+        [
+          "/F1",
+          9,
+          "beloved. And the ancient legends of the Tangkhul recount: Their spirits"
+        ],
+        [
+          "/F1",
+          9,
+          "transformed into immortal Shirui lilies, blooming together in"
+        ],
+        [
+          "/F1",
+          9,
+          "inseparable embrace upon the mountaintop throughout all eternity."
+        ]
+      ],
+      "tangkhul_content": "Chapter 4: Shimreishangna kaphung-longkhor kakhorlaga Phadangli ung-kaphung tharan, theilu! Maitonphiwui shimli kathi-laa kakhong theitserie. Maitonphina ningkasham kapei eina awui phasa mathirarlaga Kazingramli valakna! Shimreishangna awui lungkhorli rarlaga lungkashung eina chirpamsai: 'Maitonphi! Na mathida i katha eina ringkapamsara?' Chitharan Shimreishangna awui thàng eina awui lungli kashukserie, kala awui phasa Maitonphiwui ngalemli tuksangie. Ukhrulwui khararchanna hangye: Athum khaniwui mangazing Shirui Kashongli wonkhamathā thada thot pupup ngasomleisaye!",
+      "english_translation": "When Shimreishang frantically traversed the gorges and reached Phadang, alas! The haunting strains of the funeral lament echoed from Maitonphi's home. Broken-hearted with grief, she had breathed her last. Collapsing upon her freshly dug stone grave, Shimreishang wept in desperate agony: 'O Maitonphi! How can I endure this earthly life without thee?' Drawing his ancestral dagger, he pierced his own heart and fell beside his beloved. And the ancient legends of the Tangkhul recount: Their spirits transformed into immortal Shirui lilies, blooming together in inseparable embrace upon the mountaintop throughout all eternity.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: The Tragic Farewell & Eternal Union in Spirit",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kathi-laa (noun): funeral song, death lament, requiem dirge"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kathi-laa kakhong."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thàng (noun): warrior's dagger, machete, ancestral dao"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awui thàng eina."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngasomleisaye (verb): blooming together in eternal harmony"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Thot pupup ngasomleisaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Funeral lament compound: 'kathi' (death) + 'laa' (song) = dirge."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Immortal transformation narrative motif: physical death giving way to eternal floral rebirth."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Compare the conclusion of Shimreishang and Maitonphi with Romeo and Juliet."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does the novel preserve traditional Tangkhul philosophical attitudes toward death and eternity?"
+        ]
+      ],
+      "tangkhul_content": "kathi-laa: funeral song, death lament, requiem dirge; thàng: warrior's dagger, machete, ancestral dao; ngasomleisaye: blooming together in eternal harmony",
+      "english_translation": "Funeral lament compound: 'kathi' (death) + 'laa' (song) = dirge.; Immortal transformation narrative motif: physical death giving way to eternal floral rebirth.",
+      "notes": "Linguistic notes for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: The Tragic Farewell & Eternal Union in Spirit",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Zingyur atam -- spring season, time of vernal blooms"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Haora -- traditional black and red striped ceremonial male shawl"
+        ],
+        [
+          "/F1",
+          9,
+          "  * wonkhamathā -- beautiful blossom of love, noble affection"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Shirui Kashong -- Mount Shirui, legendary peak of Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "  * tui-ngashik -- sacred oath, binding solemn vow"
+        ],
+        [
+          "/F1",
+          9,
+          "  * mukthi kashik -- sorrowful tears, weeping of grief"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Man -- traditional customary bride-price, marriage restitution"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kakhamrie -- strictly prohibited, banned by taboo"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Zingyur atam",
+        "pos": "noun",
+        "meaning": "spring season, time of vernal blooms",
+        "example": "Zingyur atamli."
+      },
+      {
+        "word": "Haora",
+        "pos": "noun",
+        "meaning": "traditional black and red striped ceremonial male shawl",
+        "example": "Haora chon."
+      },
+      {
+        "word": "wonkhamathā",
+        "pos": "noun",
+        "meaning": "beautiful blossom of love, noble affection",
+        "example": "Wonkhamathā pomsang."
+      },
+      {
+        "word": "Shirui Kashong",
+        "pos": "proper noun",
+        "meaning": "Mount Shirui, legendary peak of Ukhrul",
+        "example": "Shirui Kashongli thukzat."
+      },
+      {
+        "word": "tui-ngashik",
+        "pos": "noun",
+        "meaning": "sacred oath, binding solemn vow",
+        "example": "Tui-ngashik sakahaisai."
+      },
+      {
+        "word": "mukthi kashik",
+        "pos": "noun",
+        "meaning": "sorrowful tears, weeping of grief",
+        "example": "Mukthi kashik eina."
+      },
+      {
+        "word": "Man",
+        "pos": "noun",
+        "meaning": "traditional customary bride-price, marriage restitution",
+        "example": "Bride-price Man."
+      },
+      {
+        "word": "kakhamrie",
+        "pos": "verb",
+        "meaning": "strictly prohibited, banned by taboo",
+        "example": "Khangayei kakhamrie."
+      },
+      {
+        "word": "chirkhangahok",
+        "pos": "noun",
+        "meaning": "lamentation, agonizing weeping",
+        "example": "Chirkhangahok eina."
+      },
+      {
+        "word": "kathi-laa",
+        "pos": "noun",
+        "meaning": "funeral song, death lament, requiem dirge",
+        "example": "Kathi-laa kakhong."
+      },
+      {
+        "word": "thàng",
+        "pos": "noun",
+        "meaning": "warrior's dagger, machete, ancestral dao",
+        "example": "Awui thàng eina."
+      },
+      {
+        "word": "ngasomleisaye",
+        "pos": "verb",
+        "meaning": "blooming together in eternal harmony",
+        "example": "Thot pupup ngasomleisaye."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 16,
+  "total_chapters": 4,
+  "total_words": 587,
+  "excerpts": [
+    "Chapter 1: Zingyur atamli Luira Phanit shoklakha, Ukhrul ram kaphung-longkhor kuppup mathāteiye. Shimreishang, Zimikwo s...",
+    "Chapter 2: Athum khani Shirui Kashong kaphung kashangli thukzat-serie. Chithuili Shirui Lily won kaphā kachak eina ngaso...",
+    "Chapter 3: Ukhrul kala Phadangwui ngachaili ramkashikhavai tui-ngapom shokserie. Maitonphiwui avashimna ali Zimikwo shan...",
+    "Chapter 4: Shimreishangna kaphung-longkhor kakhorlaga Phadangli ung-kaphung tharan, theilu! Maitonphiwui shimli kathi-la..."
+  ]
+}

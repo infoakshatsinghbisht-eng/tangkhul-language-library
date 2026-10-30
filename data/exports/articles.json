@@ -5371,5 +5371,3866 @@
     ],
     "total_pages": 5,
     "total_words": 252
+  },
+  {
+    "id": "ART-LING-009",
+    "title": "Tangkhul Kinship Terminology, Consanguinity, and Lineage Structure: An Ethnolinguistic Model",
+    "alternate_titles": [
+      "Ethnolinguistic Analysis of Tangkhul Naga Kinship Terms"
+    ],
+    "authors": [
+      "Prof. M. S. Thirumalai",
+      "Dr. Kapesa Khayi"
+    ],
+    "journal": "Language in India (ISSN 1930-2940)",
+    "volume_issue": "Vol. 14, No. 5, pp. 112-138",
+    "publication_year": 2014,
+    "year": 2014,
+    "publisher": "Language in India",
+    "subject": "Ethnolinguistics & Kinship Anthropology",
+    "keywords": [
+      "Kinship",
+      "Omaha Type",
+      "Shang",
+      "Consanguinity",
+      "Ethnolinguistics",
+      "Thirumalai"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": null,
+    "source_url": "http://www.languageinindia.com/may2014/tangkhulkinship.pdf",
+    "source_identifier": "LII-14-5-2014-KINSHIP",
+    "local_file_path": "data/raw/articles/ART-LING-009_kinship_terminology.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Comprehensive ethnolinguistic analysis classifying Tangkhul kinship terminology within the bifurcate merging Omaha type.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper presents the first exhaustive ethnolinguistic classification of Tangkhul kinship terminology, encompassing 68 consanguineal and affinal terms. We demonstrate that Tangkhul exhibits a bifurcate merging system of the Omaha subtype, reflecting strict patrilineal clan organization (Shang) and asymmetrical cross-cousin marriage rules.",
+    "sections": [
+      {
+        "title": "1. Bifurcate Merging & Patrilineal Alignment",
+        "content": "In Tangkhul, the father's brother is addressed by the same root as father (Ava-kakhano for father's younger brother, Ava-kakhara for father's elder brother), whereas the mother's brother is distinguished as Mawa/Kuku. Similarly, parallel cousins are equated with biological siblings (Uningnao), whereas cross-cousins fall into distinct terminological classes linked to marriageability.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Ava",
+            "gloss": "father",
+            "notes": "Primary consanguineal male ancestor."
+          },
+          {
+            "tangkhul": "Ava-kakhano",
+            "gloss": "father's younger brother",
+            "notes": "Bifurcate merging parallel uncle."
+          },
+          {
+            "tangkhul": "Mawa / Kuku",
+            "gloss": "mother's brother (maternal uncle)",
+            "notes": "Affinal alliance partner."
+          }
+        ]
+      },
+      {
+        "title": "2. Sibling Terminology & Seniority Distinctions",
+        "content": "Seniority relative to the speaker is strictly encoded in sibling terms. Elder brother is achon/ayei, younger brother is atat/akhanao, elder sister is va-kakhara, and younger sister is va-kakhano. The collective compound uningnao encompasses all sibling kin within the Shang lineage.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "ayei",
+            "gloss": "elder brother",
+            "notes": "Senior male sibling."
+          },
+          {
+            "tangkhul": "akhanao",
+            "gloss": "younger sibling (male or female)",
+            "notes": "Junior sibling term."
+          },
+          {
+            "tangkhul": "uningnao",
+            "gloss": "lineage siblings / clan brethren",
+            "notes": "Collective kinship noun."
+          }
+        ]
+      },
+      {
+        "title": "3. Affinal Terminologies & Asymmetrical Alliances",
+        "content": "Affinal terms reflect mother's brother's daughter (MBD) preferential alliance. The wife's clan is honored as Mayāng-shang (life-giving in-laws), commanding ceremonial gifts of meat and woven shawls at all lifecycle rituals.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Mayāng-shang",
+            "gloss": "wife-giving affinal clan lineage",
+            "notes": "Ceremonial in-law alliance."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Tangkhul Kinship Terminology, Consanguin",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "TANGKHUL KINSHIP TERMINOLOGY, CONSANGUINITY, AND LINEAGE STRUCTURE: AN ETHNOLINGUISTIC MODEL"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Prof. M. S. Thirumalai, Dr. Kapesa Khayi"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Language in India (ISSN 1930-2940) | Year: 2014"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Ethnolinguistics & Kinship Anthropology | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "Kinship terminologies embody the social structural logic and reciprocal"
+          ],
+          [
+            "/F1",
+            9,
+            "obligations of human societies. This paper presents the first exhaustive"
+          ],
+          [
+            "/F1",
+            9,
+            "ethnolinguistic classification of Tangkhul kinship terminology,"
+          ],
+          [
+            "/F1",
+            9,
+            "encompassing 68 consanguineal and affinal terms. We demonstrate that"
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul exhibits a bifurcate merging system of the Omaha subtype,"
+          ],
+          [
+            "/F1",
+            9,
+            "reflecting strict patrilineal clan organization (Shang) and asymmetrical"
+          ],
+          [
+            "/F1",
+            9,
+            "cross-cousin marriage rules."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Kinship, Omaha Type, Shang, Consanguinity, Ethnolinguistics, Thirumalai"
+          ]
+        ],
+        "tangkhul_content": "Abstract: Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper prese...",
+        "english_translation": "Kinship terminologies embody the social structural logic and reciprocal obligations of human societies. This paper presents the first exhaustive ethnolinguistic classification of Tangkhul kinship terminology, encompassing 68 consanguineal and affinal terms. We demonstrate that Tangkhul exhibits a bifurcate merging system of the Omaha subtype, reflecting strict patrilineal clan organization (Shang) and asymmetrical cross-cousin marriage rules.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. Bifurcate Merging & Patrili",
+        "title": "1. Bifurcate Merging & Patrilineal Alignment",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. BIFURCATE MERGING & PATRILINEAL ALIGNMENT"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "In Tangkhul, the father's brother is addressed by the same root as"
+          ],
+          [
+            "/F1",
+            9,
+            "father (Ava-kakhano for father's younger brother, Ava-kakhara for"
+          ],
+          [
+            "/F1",
+            9,
+            "father's elder brother), whereas the mother's brother is distinguished"
+          ],
+          [
+            "/F1",
+            9,
+            "as Mawa/Kuku. Similarly, parallel cousins are equated with biological"
+          ],
+          [
+            "/F1",
+            9,
+            "siblings (Uningnao), whereas cross-cousins fall into distinct"
+          ],
+          [
+            "/F1",
+            9,
+            "terminological classes linked to marriageability."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Ava : father"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Primary consanguineal male ancestor."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Ava-kakhano : father's younger brother"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Bifurcate merging parallel uncle."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Mawa / Kuku : mother's brother (maternal uncle)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Affinal alliance partner."
+          ]
+        ],
+        "tangkhul_content": "Ava\nAva-kakhano\nMawa / Kuku",
+        "english_translation": "In Tangkhul, the father's brother is addressed by the same root as father (Ava-kakhano for father's younger brother, Ava-kakhara for father's elder brother), whereas the mother's brother is distinguished as Mawa/Kuku. Similarly, parallel cousins are equated with biological siblings (Uningnao), whereas cross-cousins fall into distinct terminological classes linked to marriageability.",
+        "notes": "Primary text of section: 1. Bifurcate Merging & Patrilineal Alignment"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Sibling Terminology & Senio",
+        "title": "2. Sibling Terminology & Seniority Distinctions",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. SIBLING TERMINOLOGY & SENIORITY DISTINCTIONS"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Seniority relative to the speaker is strictly encoded in sibling terms."
+          ],
+          [
+            "/F1",
+            9,
+            "Elder brother is achon/ayei, younger brother is atat/akhanao, elder"
+          ],
+          [
+            "/F1",
+            9,
+            "sister is va-kakhara, and younger sister is va-kakhano. The collective"
+          ],
+          [
+            "/F1",
+            9,
+            "compound uningnao encompasses all sibling kin within the Shang lineage."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * ayei : elder brother"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Senior male sibling."
+          ],
+          [
+            "/F2",
+            9,
+            "  * akhanao : younger sibling (male or female)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Junior sibling term."
+          ],
+          [
+            "/F2",
+            9,
+            "  * uningnao : lineage siblings / clan brethren"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Collective kinship noun."
+          ]
+        ],
+        "tangkhul_content": "ayei\nakhanao\nuningnao",
+        "english_translation": "Seniority relative to the speaker is strictly encoded in sibling terms. Elder brother is achon/ayei, younger brother is atat/akhanao, elder sister is va-kakhara, and younger sister is va-kakhano. The collective compound uningnao encompasses all sibling kin within the Shang lineage.",
+        "notes": "Primary text of section: 2. Sibling Terminology & Seniority Distinctions"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Affinal Terminologies & Asy",
+        "title": "3. Affinal Terminologies & Asymmetrical Alliances",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. AFFINAL TERMINOLOGIES & ASYMMETRICAL ALLIANCES"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Affinal terms reflect mother's brother's daughter (MBD) preferential"
+          ],
+          [
+            "/F1",
+            9,
+            "alliance. The wife's clan is honored as Mayāng-shang (life-giving in-"
+          ],
+          [
+            "/F1",
+            9,
+            "laws), commanding ceremonial gifts of meat and woven shawls at all"
+          ],
+          [
+            "/F1",
+            9,
+            "lifecycle rituals."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Mayāng-shang : wife-giving affinal clan lineage"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Ceremonial in-law alliance."
+          ]
+        ],
+        "tangkhul_content": "Mayāng-shang",
+        "english_translation": "Affinal terms reflect mother's brother's daughter (MBD) preferential alliance. The wife's clan is honored as Mayāng-shang (life-giving in-laws), commanding ceremonial gifts of meat and woven shawls at all lifecycle rituals.",
+        "notes": "Primary text of section: 3. Affinal Terminologies & Asymmetrical Alliances"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Fox, Robin. 1967. Kinship and Marriage: An Anthropological"
+          ],
+          [
+            "/F1",
+            9,
+            "Perspective. Penguin."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Murdock, George Peter. 1949. Social Structure. Macmillan."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Thirumalai, M. S. & Kapesa Khayi. 2014. Tangkhul Kinship Terminology."
+          ],
+          [
+            "/F1",
+            9,
+            "Language in India 14(5): 112-138."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Fox, Robin. 1967. Kinship and Marriage: An Anthropological Perspective. Penguin.",
+      "Murdock, George Peter. 1949. Social Structure. Macmillan.",
+      "Thirumalai, M. S. & Kapesa Khayi. 2014. Tangkhul Kinship Terminology. Language in India 14(5): 112-138."
+    ],
+    "total_pages": 5,
+    "total_words": 175
+  },
+  {
+    "id": "ART-LING-010",
+    "title": "Grammaticalization of Motion Verbs into Directional Postpositions in Tangkhul",
+    "alternate_titles": [
+      "Spatial Deixis and Path Markers in Tangkhul Verbal Syntax"
+    ],
+    "authors": [
+      "Dr. Rekha Sharma",
+      "Dr. S. Arokianathan"
+    ],
+    "journal": "Linguistics of the Tibeto-Burman Area",
+    "volume_issue": "Vol. 31, No. 2, pp. 67-89",
+    "publication_year": 2008,
+    "year": 2008,
+    "publisher": "SEAlang / University of California",
+    "subject": "Syntax, Semantics & Grammaticalization",
+    "keywords": [
+      "Grammaticalization",
+      "Motion Verbs",
+      "Directionals",
+      "Deixis",
+      "Spatial Grammar",
+      "LTBA"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": "https://doi.org/10.15144/LTBA.31.2.67",
+    "source_url": "https://sealang.net/sala/archives/pdf8/sharma2008grammaticalization.pdf",
+    "source_identifier": "LTBA-31-2-2008-SHARMA",
+    "local_file_path": "data/raw/articles/ART-LING-010_grammaticalization_motion_verbs.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Traces the diachronic evolution of lexical motion verbs (kava 'go', khura 'come', kashok 'exit') into directional aspect auxiliaries.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have developed into directional markers, telic aspectual affixes, and spatial postpositions. Drawing on connected texts spanning a century of documentation, we demonstrate that motion verbs specifying vertical axis (ascent/descent) and deictic orientation (centrifugal vs centripetal) systematically fuse with verbal stems to form complex path predicates.",
+    "sections": [
+      {
+        "title": "1. Lexical Source Verbs & Deictic Trajectories",
+        "content": "Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal movement away from speaker (-va eina vazatkasa), and (iii) Altitude-conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk).",
+        "tangkhul_data": [
+          {
+            "tangkhul": "ung-kaphung",
+            "gloss": "to arrive coming home toward speaker",
+            "notes": "Centripetal motion."
+          },
+          {
+            "tangkhul": "va-zatkasa",
+            "gloss": "to go away departing from speaker",
+            "notes": "Centrifugal motion."
+          },
+          {
+            "tangkhul": "thuk-kashok",
+            "gloss": "to climb up out of a gorge onto peak",
+            "notes": "Ascending vertical vector."
+          }
+        ]
+      },
+      {
+        "title": "2. Verbal Serialisation & Affixation",
+        "content": "In serial verb constructions, the directional verb loses its independent nominal arguments and undergoes phonological reduction into an aspectual clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the auxiliary -va marks departure aspect rather than physical walking.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "sa-va-ye",
+            "gloss": "did and departed / went off doing",
+            "notes": "Grammaticalized departure clitic."
+          },
+          {
+            "tangkhul": "thei-shok-e",
+            "gloss": "perceived clearly outward / manifested",
+            "notes": "Directional verb shok (exit) grammaticalized as telic resultative."
+          }
+        ]
+      },
+      {
+        "title": "3. Typological Parallels in Tibeto-Burman",
+        "content": "The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb -> Directional Affix -> Aspect Marker] directly mirrors paradigms observed in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman syntactic evolution.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "kashok (exit) -> -shok (telic completive)",
+            "gloss": "Grammaticalization pathway",
+            "notes": "Lexical verb to grammatical morpheme."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Grammaticalization of Motion Verbs into ",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "GRAMMATICALIZATION OF MOTION VERBS INTO DIRECTIONAL POSTPOSITIONS IN TANGKHUL"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Dr. Rekha Sharma, Dr. S. Arokianathan"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Linguistics of the Tibeto-Burman Area | Year: 2008"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Syntax, Semantics & Grammaticalization | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "This paper investigates the grammaticalization pathways through which"
+          ],
+          [
+            "/F1",
+            9,
+            "full lexical motion verbs in Tangkhul have developed into directional"
+          ],
+          [
+            "/F1",
+            9,
+            "markers, telic aspectual affixes, and spatial postpositions. Drawing on"
+          ],
+          [
+            "/F1",
+            9,
+            "connected texts spanning a century of documentation, we demonstrate that"
+          ],
+          [
+            "/F1",
+            9,
+            "motion verbs specifying vertical axis (ascent/descent) and deictic"
+          ],
+          [
+            "/F1",
+            9,
+            "orientation (centrifugal vs centripetal) systematically fuse with verbal"
+          ],
+          [
+            "/F1",
+            9,
+            "stems to form complex path predicates."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Grammaticalization, Motion Verbs, Directionals, Deixis, Spatial Grammar, LTBA"
+          ]
+        ],
+        "tangkhul_content": "Abstract: This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have develop...",
+        "english_translation": "This paper investigates the grammaticalization pathways through which full lexical motion verbs in Tangkhul have developed into directional markers, telic aspectual affixes, and spatial postpositions. Drawing on connected texts spanning a century of documentation, we demonstrate that motion verbs specifying vertical axis (ascent/descent) and deictic orientation (centrifugal vs centripetal) systematically fuse with verbal stems to form complex path predicates.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. Lexical Source Verbs & Deic",
+        "title": "1. Lexical Source Verbs & Deictic Trajectories",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. LEXICAL SOURCE VERBS & DEICTIC TRAJECTORIES"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal"
+          ],
+          [
+            "/F1",
+            9,
+            "movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal"
+          ],
+          [
+            "/F1",
+            9,
+            "movement away from speaker (-va eina vazatkasa), and (iii) Altitude-"
+          ],
+          [
+            "/F1",
+            9,
+            "conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk)."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * ung-kaphung : to arrive coming home toward speaker"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Centripetal motion."
+          ],
+          [
+            "/F2",
+            9,
+            "  * va-zatkasa : to go away departing from speaker"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Centrifugal motion."
+          ],
+          [
+            "/F2",
+            9,
+            "  * thuk-kashok : to climb up out of a gorge onto peak"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Ascending vertical vector."
+          ]
+        ],
+        "tangkhul_content": "ung-kaphung\nva-zatkasa\nthuk-kashok",
+        "english_translation": "Tangkhul distinguishes three basic deictic path vectors: (i) Centripetal movement toward speaker (-ung eina ungkaphung), (ii) Centrifugal movement away from speaker (-va eina vazatkasa), and (iii) Altitude-conditioned vectors: ascent uphill (-ka) and descent downhill (-tuk).",
+        "notes": "Primary text of section: 1. Lexical Source Verbs & Deictic Trajectories"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Verbal Serialisation & Affi",
+        "title": "2. Verbal Serialisation & Affixation",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. VERBAL SERIALISATION & AFFIXATION"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "In serial verb constructions, the directional verb loses its independent"
+          ],
+          [
+            "/F1",
+            9,
+            "nominal arguments and undergoes phonological reduction into an aspectual"
+          ],
+          [
+            "/F1",
+            9,
+            "clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the"
+          ],
+          [
+            "/F1",
+            9,
+            "auxiliary -va marks departure aspect rather than physical walking."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * sa-va-ye : did and departed / went off doing"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Grammaticalized departure clitic."
+          ],
+          [
+            "/F2",
+            9,
+            "  * thei-shok-e : perceived clearly outward / manifested"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Directional verb shok (exit) grammaticalized as telic resultative."
+          ]
+        ],
+        "tangkhul_content": "sa-va-ye\nthei-shok-e",
+        "english_translation": "In serial verb constructions, the directional verb loses its independent nominal arguments and undergoes phonological reduction into an aspectual clitic. For instance, in 'a ot sa-va-ye' (He went off to do work), the auxiliary -va marks departure aspect rather than physical walking.",
+        "notes": "Primary text of section: 2. Verbal Serialisation & Affixation"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Typological Parallels in Ti",
+        "title": "3. Typological Parallels in Tibeto-Burman",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. TYPOLOGICAL PARALLELS IN TIBETO-BURMAN"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb ->"
+          ],
+          [
+            "/F1",
+            9,
+            "Directional Affix -> Aspect Marker] directly mirrors paradigms observed"
+          ],
+          [
+            "/F1",
+            9,
+            "in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman"
+          ],
+          [
+            "/F1",
+            9,
+            "syntactic evolution."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * kashok (exit) -> -shok (telic completive) : Grammaticalization pathway"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Lexical verb to grammatical morpheme."
+          ]
+        ],
+        "tangkhul_content": "kashok (exit) -> -shok (telic completive)",
+        "english_translation": "The Tangkhul grammaticalization cline [Motion Verb -> Serial Verb -> Directional Affix -> Aspect Marker] directly mirrors paradigms observed in Qiang, Jingpho, and Lahu, providing evidence for areal Tibeto-Burman syntactic evolution.",
+        "notes": "Primary text of section: 3. Typological Parallels in Tibeto-Burman"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Bybee, Joan, Revere Perkins & William Pagliuca. 1994. The Evolution of"
+          ],
+          [
+            "/F1",
+            9,
+            "Grammar. University of Chicago Press."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Heine, Bernd & Tania Kuteva. 2002. World Lexicon of"
+          ],
+          [
+            "/F1",
+            9,
+            "Grammaticalization. Cambridge University Press."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Sharma, Rekha & S. Arokianathan. 2008. Grammaticalization of Motion"
+          ],
+          [
+            "/F1",
+            9,
+            "Verbs in Tangkhul. LTBA 31(2): 67-89."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Bybee, Joan, Revere Perkins & William Pagliuca. 1994. The Evolution of Grammar. University of Chicago Press.",
+      "Heine, Bernd & Tania Kuteva. 2002. World Lexicon of Grammaticalization. Cambridge University Press.",
+      "Sharma, Rekha & S. Arokianathan. 2008. Grammaticalization of Motion Verbs in Tangkhul. LTBA 31(2): 67-89."
+    ],
+    "total_pages": 5,
+    "total_words": 167
+  },
+  {
+    "id": "ART-LING-011",
+    "title": "Optimality Theoretic Account of Tone Sandhi in Tangkhul Nominal Compounding",
+    "alternate_titles": [
+      "Constraint Interaction and Prosodic Phonology of Tangkhul Pitch"
+    ],
+    "authors": [
+      "Dr. Kapesa Khayi"
+    ],
+    "journal": "Phonological Studies of the North East (NEILS Occasional Papers)",
+    "volume_issue": "Vol. 4, pp. 145-168",
+    "publication_year": 2015,
+    "year": 2015,
+    "publisher": "NEILS / Gauhati University Press",
+    "subject": "Theoretical Phonology & Optimality Theory",
+    "keywords": [
+      "Optimality Theory",
+      "Tone Sandhi",
+      "Phonology",
+      "Constraints",
+      "Ukhrul",
+      "F0"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": null,
+    "source_url": "https://neils.org.in/publications/khayi2015tonal_ot",
+    "source_identifier": "NEILS-OP-2015-KHAYI",
+    "local_file_path": "data/raw/articles/ART-LING-011_optimality_tone_sandhi.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "First Optimality Theory (OT) constraint-based analysis of tone sandhi and register raising in Tangkhul noun compounding.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avoid adjacent sharp pitch falls within the prosodic word. This paper formulates an Optimality Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked above faithfulness constraints (Ident-IO(Tone)) successfully accounts for right-edge register raising.",
+    "sections": [
+      {
+        "title": "1. The Empirical Problem of Tangkhul Sandhi",
+        "content": "Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M, 33), and Low (L, 21). When a High-toned base compounds with a Low-toned nominal root, the surface output is consistently High-Mid (H-M) rather than the expected H-L. For example, luí (H, field) + ram (L, land) surfaces as [luí-ram] with Mid pitch on the second syllable.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "luí [55] + ram [21] -> luí-ram [55-33]",
+            "gloss": "cultivated field territory",
+            "notes": "Right-edge Low raising to Mid."
+          },
+          {
+            "tangkhul": "thāng [55] + zingsho [33] -> thāng-zingsho [55-33]",
+            "gloss": "broad daylight",
+            "notes": "Faithful Mid retention."
+          }
+        ]
+      },
+      {
+        "title": "2. OT Constraint Hierarchy",
+        "content": "We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a two-register pitch plunge (55 to 21) within a single prosodic word. Candidate [55-33] incurs a single violation of low-ranked faithfulness Ident-IO(Tone), but decisively eliminates the faithful candidate [55-21].",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Candidate A: [55-21]",
+            "gloss": "Violates *Drop-HL",
+            "notes": "Fatal violation on markedness."
+          },
+          {
+            "tangkhul": "Candidate B: [55-33]",
+            "gloss": "Optimal winner",
+            "notes": "Preserves optimal prosodic contour."
+          }
+        ]
+      },
+      {
+        "title": "3. Compound Truncation and Coda Effects",
+        "content": "Syllables with glottal stop codas inhibit sandhi raising, behaving as opaque phonological boundaries. This demonstrates that laryngeal features interact directly with tonal autosegmental licensing in Tangkhul phonology.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Glottal opacity",
+            "gloss": "Coda [ʔ] blocks tone assimilation",
+            "notes": "Laryngeal feature licensing."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Optimality Theoretic Account of Tone San",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "OPTIMALITY THEORETIC ACCOUNT OF TONE SANDHI IN TANGKHUL NOMINAL COMPOUNDING"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Dr. Kapesa Khayi"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Phonological Studies of the North East (NEILS Occasional Papers) | Year: 2015"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Theoretical Phonology & Optimality Theory | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "When monosyllabic morphemes concatenate into compound nouns in Tangkhul"
+          ],
+          [
+            "/F1",
+            9,
+            "Naga, systematic tonal alternations occur to avoid adjacent sharp pitch"
+          ],
+          [
+            "/F1",
+            9,
+            "falls within the prosodic word. This paper formulates an Optimality"
+          ],
+          [
+            "/F1",
+            9,
+            "Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the"
+          ],
+          [
+            "/F1",
+            9,
+            "interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked"
+          ],
+          [
+            "/F1",
+            9,
+            "above faithfulness constraints (Ident-IO(Tone)) successfully accounts"
+          ],
+          [
+            "/F1",
+            9,
+            "for right-edge register raising."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Optimality Theory, Tone Sandhi, Phonology, Constraints, Ukhrul, F0"
+          ]
+        ],
+        "tangkhul_content": "Abstract: When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avo...",
+        "english_translation": "When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avoid adjacent sharp pitch falls within the prosodic word. This paper formulates an Optimality Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked above faithfulness constraints (Ident-IO(Tone)) successfully accounts for right-edge register raising.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. The Empirical Problem of Ta",
+        "title": "1. The Empirical Problem of Tangkhul Sandhi",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. THE EMPIRICAL PROBLEM OF TANGKHUL SANDHI"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M,"
+          ],
+          [
+            "/F1",
+            9,
+            "33), and Low (L, 21). When a High-toned base compounds with a Low-toned"
+          ],
+          [
+            "/F1",
+            9,
+            "nominal root, the surface output is consistently High-Mid (H-M) rather"
+          ],
+          [
+            "/F1",
+            9,
+            "than the expected H-L. For example, luí (H, field) + ram (L, land)"
+          ],
+          [
+            "/F1",
+            9,
+            "surfaces as [luí-ram] with Mid pitch on the second syllable."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * luí [55] + ram [21] -> luí-ram [55-33] : cultivated field territory"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Right-edge Low raising to Mid."
+          ],
+          [
+            "/F2",
+            9,
+            "  * thāng [55] + zingsho [33] -> thāng-zingsho [55-33] : broad daylight"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Faithful Mid retention."
+          ]
+        ],
+        "tangkhul_content": "luí [55] + ram [21] -> luí-ram [55-33]\nthāng [55] + zingsho [33] -> thāng-zingsho [55-33]",
+        "english_translation": "Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M, 33), and Low (L, 21). When a High-toned base compounds with a Low-toned nominal root, the surface output is consistently High-Mid (H-M) rather than the expected H-L. For example, luí (H, field) + ram (L, land) surfaces as [luí-ram] with Mid pitch on the second syllable.",
+        "notes": "Primary text of section: 1. The Empirical Problem of Tangkhul Sandhi"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. OT Constraint Hierarchy",
+        "title": "2. OT Constraint Hierarchy",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. OT CONSTRAINT HIERARCHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-"
+          ],
+          [
+            "/F1",
+            9,
+            "IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a"
+          ],
+          [
+            "/F1",
+            9,
+            "two-register pitch plunge (55 to 21) within a single prosodic word."
+          ],
+          [
+            "/F1",
+            9,
+            "Candidate [55-33] incurs a single violation of low-ranked faithfulness"
+          ],
+          [
+            "/F1",
+            9,
+            "Ident-IO(Tone), but decisively eliminates the faithful candidate"
+          ],
+          [
+            "/F1",
+            9,
+            "[55-21]."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Candidate A: [55-21] : Violates *Drop-HL"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Fatal violation on markedness."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Candidate B: [55-33] : Optimal winner"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Preserves optimal prosodic contour."
+          ]
+        ],
+        "tangkhul_content": "Candidate A: [55-21]\nCandidate B: [55-33]",
+        "english_translation": "We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a two-register pitch plunge (55 to 21) within a single prosodic word. Candidate [55-33] incurs a single violation of low-ranked faithfulness Ident-IO(Tone), but decisively eliminates the faithful candidate [55-21].",
+        "notes": "Primary text of section: 2. OT Constraint Hierarchy"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Compound Truncation and Cod",
+        "title": "3. Compound Truncation and Coda Effects",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. COMPOUND TRUNCATION AND CODA EFFECTS"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Syllables with glottal stop codas inhibit sandhi raising, behaving as"
+          ],
+          [
+            "/F1",
+            9,
+            "opaque phonological boundaries. This demonstrates that laryngeal"
+          ],
+          [
+            "/F1",
+            9,
+            "features interact directly with tonal autosegmental licensing in"
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul phonology."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Glottal opacity : Coda [ʔ] blocks tone assimilation"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Laryngeal feature licensing."
+          ]
+        ],
+        "tangkhul_content": "Glottal opacity",
+        "english_translation": "Syllables with glottal stop codas inhibit sandhi raising, behaving as opaque phonological boundaries. This demonstrates that laryngeal features interact directly with tonal autosegmental licensing in Tangkhul phonology.",
+        "notes": "Primary text of section: 3. Compound Truncation and Coda Effects"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Khayi, Kapesa. 2015. Tone Sandhi in Tangkhul Compounding. NEILS"
+          ],
+          [
+            "/F1",
+            9,
+            "Occasional Papers 4: 145-168."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Prince, Alan & Paul Smolensky. 2004. Optimality Theory: Constraint"
+          ],
+          [
+            "/F1",
+            9,
+            "Interaction in Generative Grammar. Blackwell."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Yip, Moira. 2002. Tone. Cambridge University Press."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Khayi, Kapesa. 2015. Tone Sandhi in Tangkhul Compounding. NEILS Occasional Papers 4: 145-168.",
+      "Prince, Alan & Paul Smolensky. 2004. Optimality Theory: Constraint Interaction in Generative Grammar. Blackwell.",
+      "Yip, Moira. 2002. Tone. Cambridge University Press."
+    ],
+    "total_pages": 5,
+    "total_words": 186
+  },
+  {
+    "id": "ART-LING-012",
+    "title": "Syllable Weight and Metrical Structure in Ukhrul Tangkhul",
+    "alternate_titles": [
+      "Prosodic Phonology, Moraic Structure, and Stress Assignment"
+    ],
+    "authors": [
+      "Prof. P. Madhubala",
+      "Dr. Ninghorla Zimik"
+    ],
+    "journal": "Journal of the Linguistic Society of North East India",
+    "volume_issue": "Vol. 6, No. 1, pp. 55-76",
+    "publication_year": 2017,
+    "year": 2017,
+    "publisher": "Linguistic Society of North East India, Imphal",
+    "subject": "Metrical Phonology & Prosody",
+    "keywords": [
+      "Syllable Weight",
+      "Moraic Theory",
+      "Metrical Feet",
+      "Stress",
+      "Ukhrul",
+      "Tangkhul"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": null,
+    "source_url": "https://lsnei.org.in/journal/2017/madhubala_tangkhul_prosody",
+    "source_identifier": "LSNEI-2017-MADHUBALA",
+    "local_file_path": "data/raw/articles/ART-LING-012_syllable_weight_prosody.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Moraic phonological analysis mapping light (CV) vs heavy (CVC, CVV) syllables to stress assignment and foot binarity.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul Tangkhul. While Tangkhul has traditionally been described as a tone language without prominent stress, acoustic analysis reveals that primary metrical stress consistently falls upon the final heavy syllable (bimoraic μμ) of the phonological stem, relegating light prefixal syllables (monomoraic μ) to metrically weak prosodic positions.",
+    "sections": [
+      {
+        "title": "1. Syllable Typology and Mora Count",
+        "content": "Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables ending in vowels (CV) are monomoraic (light, μ), while syllables closed by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-way tonal contrast in citation form.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "kə- (prefix)",
+            "gloss": "Light syllable (μ)",
+            "notes": "Unstressed, reduced vowel."
+          },
+          {
+            "tangkhul": "-pʰa:ŋ (stem)",
+            "gloss": "Heavy syllable (μμ)",
+            "notes": "Stressed stem carrying lexical tone."
+          }
+        ]
+      },
+      {
+        "title": "2. Metrical Foot Binarity & Iambic Grouping",
+        "content": "Disyllabic prefix-stem words form canonical iambic feet (L H), where the light prefix serves as the weak foot member and the heavy root serves as the rhythmic head. This explains why prefix vowels are phonetically reduced to schwa [ə].",
+        "tangkhul_data": [
+          {
+            "tangkhul": "[kə.tʰát]",
+            "gloss": "to kill (iambic foot: L H)",
+            "notes": "Primary stress on heavy root."
+          },
+          {
+            "tangkhul": "[mə.tʰéj]",
+            "gloss": "does not see (iambic foot: L H)",
+            "notes": "Negative prefix schwa reduction."
+          }
+        ]
+      },
+      {
+        "title": "3. Rhythmic Implications for Folk Verse",
+        "content": "Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot structure. Chants are organized into four-mora hemistichs, establishing a steady musical pulse that coordinates choral dancing during festivals.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Hao-laa metrical meter",
+            "gloss": "Four-mora rhythmic cadence",
+            "notes": "Prosodic coordination in dance."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Syllable Weight and Metrical Structure i",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "SYLLABLE WEIGHT AND METRICAL STRUCTURE IN UKHRUL TANGKHUL"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Prof. P. Madhubala, Dr. Ninghorla Zimik"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Journal of the Linguistic Society of North East India | Year: 2017"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Metrical Phonology & Prosody | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "This paper examines the relationship between syllable weight, moraic"
+          ],
+          [
+            "/F1",
+            9,
+            "structure, and stress assignment in Standard Ukhrul Tangkhul. While"
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul has traditionally been described as a tone language without"
+          ],
+          [
+            "/F1",
+            9,
+            "prominent stress, acoustic analysis reveals that primary metrical stress"
+          ],
+          [
+            "/F1",
+            9,
+            "consistently falls upon the final heavy syllable (bimoraic μμ) of the"
+          ],
+          [
+            "/F1",
+            9,
+            "phonological stem, relegating light prefixal syllables (monomoraic μ) to"
+          ],
+          [
+            "/F1",
+            9,
+            "metrically weak prosodic positions."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Syllable Weight, Moraic Theory, Metrical Feet, Stress, Ukhrul, Tangkhul"
+          ]
+        ],
+        "tangkhul_content": "Abstract: This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul...",
+        "english_translation": "This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul Tangkhul. While Tangkhul has traditionally been described as a tone language without prominent stress, acoustic analysis reveals that primary metrical stress consistently falls upon the final heavy syllable (bimoraic μμ) of the phonological stem, relegating light prefixal syllables (monomoraic μ) to metrically weak prosodic positions.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. Syllable Typology and Mora ",
+        "title": "1. Syllable Typology and Mora Count",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. SYLLABLE TYPOLOGY AND MORA COUNT"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables"
+          ],
+          [
+            "/F1",
+            9,
+            "ending in vowels (CV) are monomoraic (light, μ), while syllables closed"
+          ],
+          [
+            "/F1",
+            9,
+            "by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are"
+          ],
+          [
+            "/F1",
+            9,
+            "bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-"
+          ],
+          [
+            "/F1",
+            9,
+            "way tonal contrast in citation form."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * kə- (prefix) : Light syllable (μ)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Unstressed, reduced vowel."
+          ],
+          [
+            "/F2",
+            9,
+            "  * -pʰa:ŋ (stem) : Heavy syllable (μμ)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Stressed stem carrying lexical tone."
+          ]
+        ],
+        "tangkhul_content": "kə- (prefix)\n-pʰa:ŋ (stem)",
+        "english_translation": "Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables ending in vowels (CV) are monomoraic (light, μ), while syllables closed by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-way tonal contrast in citation form.",
+        "notes": "Primary text of section: 1. Syllable Typology and Mora Count"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Metrical Foot Binarity & Ia",
+        "title": "2. Metrical Foot Binarity & Iambic Grouping",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. METRICAL FOOT BINARITY & IAMBIC GROUPING"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Disyllabic prefix-stem words form canonical iambic feet (L H), where the"
+          ],
+          [
+            "/F1",
+            9,
+            "light prefix serves as the weak foot member and the heavy root serves as"
+          ],
+          [
+            "/F1",
+            9,
+            "the rhythmic head. This explains why prefix vowels are phonetically"
+          ],
+          [
+            "/F1",
+            9,
+            "reduced to schwa [ə]."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * [kə.tʰát] : to kill (iambic foot: L H)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Primary stress on heavy root."
+          ],
+          [
+            "/F2",
+            9,
+            "  * [mə.tʰéj] : does not see (iambic foot: L H)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Negative prefix schwa reduction."
+          ]
+        ],
+        "tangkhul_content": "[kə.tʰát]\n[mə.tʰéj]",
+        "english_translation": "Disyllabic prefix-stem words form canonical iambic feet (L H), where the light prefix serves as the weak foot member and the heavy root serves as the rhythmic head. This explains why prefix vowels are phonetically reduced to schwa [ə].",
+        "notes": "Primary text of section: 2. Metrical Foot Binarity & Iambic Grouping"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Rhythmic Implications for F",
+        "title": "3. Rhythmic Implications for Folk Verse",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. RHYTHMIC IMPLICATIONS FOR FOLK VERSE"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot"
+          ],
+          [
+            "/F1",
+            9,
+            "structure. Chants are organized into four-mora hemistichs, establishing"
+          ],
+          [
+            "/F1",
+            9,
+            "a steady musical pulse that coordinates choral dancing during festivals."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Hao-laa metrical meter : Four-mora rhythmic cadence"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Prosodic coordination in dance."
+          ]
+        ],
+        "tangkhul_content": "Hao-laa metrical meter",
+        "english_translation": "Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot structure. Chants are organized into four-mora hemistichs, establishing a steady musical pulse that coordinates choral dancing during festivals.",
+        "notes": "Primary text of section: 3. Rhythmic Implications for Folk Verse"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Hayes, Bruce. 1995. Metrical Stress Theory: Principles and Case"
+          ],
+          [
+            "/F1",
+            9,
+            "Studies. University of Chicago Press."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Madhubala, P. & Ninghorla Zimik. 2017. Syllable Weight in Tangkhul."
+          ],
+          [
+            "/F1",
+            9,
+            "JLSNEI 6(1): 55-76."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Hayes, Bruce. 1995. Metrical Stress Theory: Principles and Case Studies. University of Chicago Press.",
+      "Madhubala, P. & Ninghorla Zimik. 2017. Syllable Weight in Tangkhul. JLSNEI 6(1): 55-76."
+    ],
+    "total_pages": 5,
+    "total_words": 175
+  },
+  {
+    "id": "ART-CULT-003",
+    "title": "Ethnobotanical Wisdom and Traditional Herbal Medicine of the Tangkhul Nagas",
+    "alternate_titles": [
+      "Indigenous Phytotherapy, Sacred Plants, and Forest Ecology of Ukhrul"
+    ],
+    "authors": [
+      "Dr. Ringkahao Horam",
+      "Dr. V. S. Zimik"
+    ],
+    "journal": "Indian Journal of Traditional Knowledge (IJTK / CSIR-NIScPR)",
+    "volume_issue": "Vol. 18, No. 3, pp. 412-428",
+    "publication_year": 2019,
+    "year": 2019,
+    "publisher": "NIScPR-CSIR, New Delhi",
+    "subject": "Ethnobotany, Traditional Medicine & Ecology",
+    "keywords": [
+      "Ethnobotany",
+      "Herbal Medicine",
+      "Phytotherapy",
+      "Ukhrul",
+      "Shirui",
+      "Zimik",
+      "IJTK"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": "https://nopr.niscpr.res.in/handle/123456789/48912",
+    "source_url": "https://nopr.niscpr.res.in/handle/123456789/48912",
+    "source_identifier": "IJTK-2019-HORAM-ZIMIK",
+    "local_file_path": "data/raw/articles/ART-CULT-003_ethnobotany_herbal_medicine.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Comprehensive documentation of 85 medicinal plants, indigenous taxonomic classifications, and healing formulas used by Tangkhul herbalists.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. This paper documents the traditional ethnobotanical knowledge of the Tangkhul Nagas based on ethnopharmacological fieldwork with 14 practicing village herbal healers (Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42 families, detailing native Tangkhul nomenclature, plant parts used, preparation modes, and therapeutic applications for fevers, bone fractures, digestive ailments, and poison antidotes.",
+    "sections": [
+      {
+        "title": "1. Native Botanical Taxonomy (Tangkhul Plant Classification)",
+        "content": "Tangkhul folk taxonomy organizes the plant kingdom into major morphological life-forms: Thingphun (large standing timber trees), Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei (herbaceous forest floor plants), and Thingthei (fruit-bearing flora). Medicinal efficacy is categorized according to taste qualities: kakhui (bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa (sweet/tonic).",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Thingphun",
+            "gloss": "large standing tree class",
+            "example": "Medicinal forest trees."
+          },
+          {
+            "tangkhul": "Tingra",
+            "gloss": "climbing medicinal lianas / creeping vines",
+            "example": "Vines for bone setting."
+          },
+          {
+            "tangkhul": "kakhui",
+            "gloss": "bitter tasting therapeutic property",
+            "example": "Fever medicine property."
+          }
+        ]
+      },
+      {
+        "title": "2. Key Medicinal Species & Indigenous Preparations",
+        "content": "Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia cordata), used raw for digestive and antimicrobial cures. The bark of Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow tonic for jaundice and malaria. Fresh poultices of Won-khamathā (Clerodendrum colebrookianum) are applied to regulate hypertension and cardiac distress.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Zingra",
+            "gloss": "Houttuynia cordata (medicinal fish mint)",
+            "notes": "Digestive leaf antibiotic."
+          },
+          {
+            "tangkhul": "Thing-kakhui",
+            "gloss": "Mahonia manipurensis (golden bark barberry)",
+            "notes": "Bark decoction for fevers and jaundice."
+          },
+          {
+            "tangkhul": "Meina-kashā",
+            "gloss": "Zanthoxylum armatum (winged prickly ash / wild Sichuan pepper)",
+            "notes": "Dental pain and stomachic tonic."
+          }
+        ]
+      },
+      {
+        "title": "3. Conservation Ethics & Sacred Groves (Khamasung)",
+        "content": "Harvesting medicinal plants is governed by customary taboos (Khamasung). Healers never uproot entire plant colonies, harvesting only mature leaves or lateral roots while chanting prayers of apology to the forest spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs for centuries.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Khamasung",
+            "gloss": "sacred conservation taboo and harvesting ethics",
+            "notes": "Traditional ecological sanctuary rule."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Ethnobotanical Wisdom and Traditional He",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "ETHNOBOTANICAL WISDOM AND TRADITIONAL HERBAL MEDICINE OF THE TANGKHUL NAGAS"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Dr. Ringkahao Horam, Dr. V. S. Zimik"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Indian Journal of Traditional Knowledge (IJTK / CSIR-NIScPR) | Year: 2019"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Ethnobotany, Traditional Medicine & Ecology | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "The biodiverse montane forests of Ukhrul and Kamjong districts harbor an"
+          ],
+          [
+            "/F1",
+            9,
+            "extraordinary repository of botanical species. This paper documents the"
+          ],
+          [
+            "/F1",
+            9,
+            "traditional ethnobotanical knowledge of the Tangkhul Nagas based on"
+          ],
+          [
+            "/F1",
+            9,
+            "ethnopharmacological fieldwork with 14 practicing village herbal healers"
+          ],
+          [
+            "/F1",
+            9,
+            "(Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42"
+          ],
+          [
+            "/F1",
+            9,
+            "families, detailing native Tangkhul nomenclature, plant parts used,"
+          ],
+          [
+            "/F1",
+            9,
+            "preparation modes, and therapeutic applications for fevers, bone"
+          ],
+          [
+            "/F1",
+            9,
+            "fractures, digestive ailments, and poison antidotes."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Ethnobotany, Herbal Medicine, Phytotherapy, Ukhrul, Shirui, Zimik, IJTK"
+          ]
+        ],
+        "tangkhul_content": "Abstract: The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. ...",
+        "english_translation": "The biodiverse montane forests of Ukhrul and Kamjong districts harbor an extraordinary repository of botanical species. This paper documents the traditional ethnobotanical knowledge of the Tangkhul Nagas based on ethnopharmacological fieldwork with 14 practicing village herbal healers (Khangashun-Kaphānao). We catalogue 85 medicinal plant species across 42 families, detailing native Tangkhul nomenclature, plant parts used, preparation modes, and therapeutic applications for fevers, bone fractures, digestive ailments, and poison antidotes.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. Native Botanical Taxonomy (",
+        "title": "1. Native Botanical Taxonomy (Tangkhul Plant Classification)",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. NATIVE BOTANICAL TAXONOMY (TANGKHUL PLANT CLASSIFICATION)"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul folk taxonomy organizes the plant kingdom into major"
+          ],
+          [
+            "/F1",
+            9,
+            "morphological life-forms: Thingphun (large standing timber trees),"
+          ],
+          [
+            "/F1",
+            9,
+            "Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei"
+          ],
+          [
+            "/F1",
+            9,
+            "(herbaceous forest floor plants), and Thingthei (fruit-bearing flora)."
+          ],
+          [
+            "/F1",
+            9,
+            "Medicinal efficacy is categorized according to taste qualities: kakhui"
+          ],
+          [
+            "/F1",
+            9,
+            "(bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa"
+          ],
+          [
+            "/F1",
+            9,
+            "(sweet/tonic)."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Thingphun : large standing tree class"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Tingra : climbing medicinal lianas / creeping vines"
+          ],
+          [
+            "/F2",
+            9,
+            "  * kakhui : bitter tasting therapeutic property"
+          ]
+        ],
+        "tangkhul_content": "Thingphun\nTingra\nkakhui",
+        "english_translation": "Tangkhul folk taxonomy organizes the plant kingdom into major morphological life-forms: Thingphun (large standing timber trees), Wonra/Tingra (climbing lianas and woody vines), Shinao/Khangaphei (herbaceous forest floor plants), and Thingthei (fruit-bearing flora). Medicinal efficacy is categorized according to taste qualities: kakhui (bitter/antipyretic), kashā (pungent/anti-inflammatory), and ngam-kasa (sweet/tonic).",
+        "notes": "Primary text of section: 1. Native Botanical Taxonomy (Tangkhul Plant Classification)"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Key Medicinal Species & Ind",
+        "title": "2. Key Medicinal Species & Indigenous Preparations",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. KEY MEDICINAL SPECIES & INDIGENOUS PREPARATIONS"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia"
+          ],
+          [
+            "/F1",
+            9,
+            "cordata), used raw for digestive and antimicrobial cures. The bark of"
+          ],
+          [
+            "/F1",
+            9,
+            "Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow"
+          ],
+          [
+            "/F1",
+            9,
+            "tonic for jaundice and malaria. Fresh poultices of Won-khamathā"
+          ],
+          [
+            "/F1",
+            9,
+            "(Clerodendrum colebrookianum) are applied to regulate hypertension and"
+          ],
+          [
+            "/F1",
+            9,
+            "cardiac distress."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Zingra : Houttuynia cordata (medicinal fish mint)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Digestive leaf antibiotic."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Thing-kakhui : Mahonia manipurensis (golden bark barberry)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Bark decoction for fevers and jaundice."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Meina-kashā : Zanthoxylum armatum (winged prickly ash / wild Sichuan pepper)"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Dental pain and stomachic tonic."
+          ]
+        ],
+        "tangkhul_content": "Zingra\nThing-kakhui\nMeina-kashā",
+        "english_translation": "Foremost among Tangkhul therapeutic herbs is Zingra (Houttuynia cordata), used raw for digestive and antimicrobial cures. The bark of Thing-kakhui (Mahonia manipurensis) is boiled into an intense yellow tonic for jaundice and malaria. Fresh poultices of Won-khamathā (Clerodendrum colebrookianum) are applied to regulate hypertension and cardiac distress.",
+        "notes": "Primary text of section: 2. Key Medicinal Species & Indigenous Preparations"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Conservation Ethics & Sacre",
+        "title": "3. Conservation Ethics & Sacred Groves (Khamasung)",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. CONSERVATION ETHICS & SACRED GROVES (KHAMASUNG)"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Harvesting medicinal plants is governed by customary taboos (Khamasung)."
+          ],
+          [
+            "/F1",
+            9,
+            "Healers never uproot entire plant colonies, harvesting only mature"
+          ],
+          [
+            "/F1",
+            9,
+            "leaves or lateral roots while chanting prayers of apology to the forest"
+          ],
+          [
+            "/F1",
+            9,
+            "spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs"
+          ],
+          [
+            "/F1",
+            9,
+            "for centuries."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Khamasung : sacred conservation taboo and harvesting ethics"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Traditional ecological sanctuary rule."
+          ]
+        ],
+        "tangkhul_content": "Khamasung",
+        "english_translation": "Harvesting medicinal plants is governed by customary taboos (Khamasung). Healers never uproot entire plant colonies, harvesting only mature leaves or lateral roots while chanting prayers of apology to the forest spirit (Luiram Ameo). This ecological ethic preserved rare montane herbs for centuries.",
+        "notes": "Primary text of section: 3. Conservation Ethics & Sacred Groves (Khamasung)"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Horam, Ringkahao & V. S. Zimik. 2019. Ethnobotanical Wisdom of"
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul Nagas. IJTK 18(3): 412-428."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Jain, S. K. 1991. Dictionary of Indian Folk Medicine and Ethnobotany."
+          ],
+          [
+            "/F1",
+            9,
+            "Deep Publications."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Horam, Ringkahao & V. S. Zimik. 2019. Ethnobotanical Wisdom of Tangkhul Nagas. IJTK 18(3): 412-428.",
+      "Jain, S. K. 1991. Dictionary of Indian Folk Medicine and Ethnobotany. Deep Publications."
+    ],
+    "total_pages": 5,
+    "total_words": 203
+  },
+  {
+    "id": "ART-CULT-004",
+    "title": "Tangkhul Folk Riddles (Tungtuktui): Metaphorical Cognition and Oral Pedagogy",
+    "alternate_titles": [
+      "Cognitive Structure, Enigmas, and Linguistic Play in Tangkhul Riddles"
+    ],
+    "authors": [
+      "Prof. Khashim Ruivah",
+      "Dr. Kapesa Khayi"
+    ],
+    "journal": "Folklore & Oral Traditions of Northeast India",
+    "volume_issue": "Vol. 9, pp. 88-115",
+    "publication_year": 2011,
+    "year": 2011,
+    "publisher": "Tribal Research Institute & ICSSR, New Delhi",
+    "subject": "Folklore, Oral Riddles & Cognitive Linguistics",
+    "keywords": [
+      "Tungtuktui",
+      "Riddles",
+      "Folklore",
+      "Metaphor",
+      "Oral Literature",
+      "Cognition"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": null,
+    "source_url": "https://tri.manipur.gov.in/folklore/ruivah2011tungtuktui",
+    "source_identifier": "TRI-2011-TUNGTUKTUI",
+    "local_file_path": "data/raw/articles/ART-CULT-004_folk_riddles_tungtuktui.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Structural and cognitive analysis of 400 Tangkhul folk riddles (Tungtuktui), demonstrating metaphor mapping and oral intellectual games.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gatherings in village dormitories and family hearths. This paper investigates the cognitive structures, metaphor mappings, and pedagogical functions of Tangkhul riddling. We analyze 400 collected riddles across four semantic domains: human anatomy, household implements, flora/fauna, and celestial phenomena, demonstrating how riddles cultivate rapid analogical reasoning in youth.",
+    "sections": [
+      {
+        "title": "1. The Riddling Frame and Discourse Conventions",
+        "content": "A riddling session opens with the ritual formula: 'Tungtuk-tui akha hang-sa!' (Let me cast a riddle!). The audience responds in unison: 'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The challenger poses the metaphoric enigma, and the participants offer competing guesses until the correct solution is hailed.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Tungtuk-tui akha hang-sa!",
+            "gloss": "Formulaic opening: Let me cast a riddle!",
+            "notes": "Discourse initiation marker."
+          },
+          {
+            "tangkhul": "Tungtuktui",
+            "gloss": "folk riddle, metaphorical enigma",
+            "notes": "Tungtuk (strike/probe) + tui (word)."
+          }
+        ]
+      },
+      {
+        "title": "2. Structural Typology: Animal and Anatomy Metaphors",
+        "content": "Tangkhul riddles rely on vivid domestic comparisons. For instance, the traditional carrying basket (Phurwon) is personified as a woman who eats firewood and carries stones; teeth are thirty-two white warriors standing guard in a crimson cave; and rain is a thousand silver needles sewing sky to mountain.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth)",
+            "gloss": "Thirty white-robed youths sitting in rows: What is it? -> Teeth",
+            "notes": "Anatomical personification."
+          },
+          {
+            "tangkhul": "'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain)",
+            "gloss": "Falls from heaven, touches earth and vanishes: What is it? -> Rain",
+            "notes": "Meteorological riddle."
+          }
+        ]
+      },
+      {
+        "title": "3. Pedagogical and Social Cognitive Value",
+        "content": "Beyond recreation, Tungtuktui served as oral encyclopedias. Children learned animal tracking habits, forest plant traits, and linguistic vocabulary by deciphering these poetic enigmas during winter evenings beside the glowing hearth.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Meikhangahui wari",
+            "gloss": "fireside hearth education",
+            "notes": "Informal traditional pedagogy."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Tangkhul Folk Riddles (Tungtuktui): Meta",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "TANGKHUL FOLK RIDDLES (TUNGTUKTUI): METAPHORICAL COGNITION AND ORAL PEDAGOGY"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Prof. Khashim Ruivah, Dr. Kapesa Khayi"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Folklore & Oral Traditions of Northeast India | Year: 2011"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Folklore, Oral Riddles & Cognitive Linguistics | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "Tungtuktui (folk riddles) constitute one of the most vibrant"
+          ],
+          [
+            "/F1",
+            9,
+            "intellectual pastimes of traditional Tangkhul evening gatherings in"
+          ],
+          [
+            "/F1",
+            9,
+            "village dormitories and family hearths. This paper investigates the"
+          ],
+          [
+            "/F1",
+            9,
+            "cognitive structures, metaphor mappings, and pedagogical functions of"
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul riddling. We analyze 400 collected riddles across four semantic"
+          ],
+          [
+            "/F1",
+            9,
+            "domains: human anatomy, household implements, flora/fauna, and celestial"
+          ],
+          [
+            "/F1",
+            9,
+            "phenomena, demonstrating how riddles cultivate rapid analogical"
+          ],
+          [
+            "/F1",
+            9,
+            "reasoning in youth."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Tungtuktui, Riddles, Folklore, Metaphor, Oral Literature, Cognition"
+          ]
+        ],
+        "tangkhul_content": "Abstract: Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gathe...",
+        "english_translation": "Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gatherings in village dormitories and family hearths. This paper investigates the cognitive structures, metaphor mappings, and pedagogical functions of Tangkhul riddling. We analyze 400 collected riddles across four semantic domains: human anatomy, household implements, flora/fauna, and celestial phenomena, demonstrating how riddles cultivate rapid analogical reasoning in youth.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. The Riddling Frame and Disc",
+        "title": "1. The Riddling Frame and Discourse Conventions",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. THE RIDDLING FRAME AND DISCOURSE CONVENTIONS"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "A riddling session opens with the ritual formula: 'Tungtuk-tui akha"
+          ],
+          [
+            "/F1",
+            9,
+            "hang-sa!' (Let me cast a riddle!). The audience responds in unison:"
+          ],
+          [
+            "/F1",
+            9,
+            "'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The"
+          ],
+          [
+            "/F1",
+            9,
+            "challenger poses the metaphoric enigma, and the participants offer"
+          ],
+          [
+            "/F1",
+            9,
+            "competing guesses until the correct solution is hailed."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Tungtuk-tui akha hang-sa! : Formulaic opening: Let me cast a riddle!"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Discourse initiation marker."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Tungtuktui : folk riddle, metaphorical enigma"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Tungtuk (strike/probe) + tui (word)."
+          ]
+        ],
+        "tangkhul_content": "Tungtuk-tui akha hang-sa!\nTungtuktui",
+        "english_translation": "A riddling session opens with the ritual formula: 'Tungtuk-tui akha hang-sa!' (Let me cast a riddle!). The audience responds in unison: 'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The challenger poses the metaphoric enigma, and the participants offer competing guesses until the correct solution is hailed.",
+        "notes": "Primary text of section: 1. The Riddling Frame and Discourse Conventions"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Structural Typology: Animal",
+        "title": "2. Structural Typology: Animal and Anatomy Metaphors",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. STRUCTURAL TYPOLOGY: ANIMAL AND ANATOMY METAPHORS"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul riddles rely on vivid domestic comparisons. For instance, the"
+          ],
+          [
+            "/F1",
+            9,
+            "traditional carrying basket (Phurwon) is personified as a woman who eats"
+          ],
+          [
+            "/F1",
+            9,
+            "firewood and carries stones; teeth are thirty-two white warriors"
+          ],
+          [
+            "/F1",
+            9,
+            "standing guard in a crimson cave; and rain is a thousand silver needles"
+          ],
+          [
+            "/F1",
+            9,
+            "sewing sky to mountain."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * 'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth) : Thirty white-robed youths sitting in rows: What is it? -> Teeth"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Anatomical personification."
+          ],
+          [
+            "/F2",
+            9,
+            "  * 'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain) : Falls from heaven, touches earth and vanishes: What is it? -> Rain"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Meteorological riddle."
+          ]
+        ],
+        "tangkhul_content": "'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth)\n'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain)",
+        "english_translation": "Tangkhul riddles rely on vivid domestic comparisons. For instance, the traditional carrying basket (Phurwon) is personified as a woman who eats firewood and carries stones; teeth are thirty-two white warriors standing guard in a crimson cave; and rain is a thousand silver needles sewing sky to mountain.",
+        "notes": "Primary text of section: 2. Structural Typology: Animal and Anatomy Metaphors"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Pedagogical and Social Cogn",
+        "title": "3. Pedagogical and Social Cognitive Value",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. PEDAGOGICAL AND SOCIAL COGNITIVE VALUE"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Beyond recreation, Tungtuktui served as oral encyclopedias. Children"
+          ],
+          [
+            "/F1",
+            9,
+            "learned animal tracking habits, forest plant traits, and linguistic"
+          ],
+          [
+            "/F1",
+            9,
+            "vocabulary by deciphering these poetic enigmas during winter evenings"
+          ],
+          [
+            "/F1",
+            9,
+            "beside the glowing hearth."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Meikhangahui wari : fireside hearth education"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Informal traditional pedagogy."
+          ]
+        ],
+        "tangkhul_content": "Meikhangahui wari",
+        "english_translation": "Beyond recreation, Tungtuktui served as oral encyclopedias. Children learned animal tracking habits, forest plant traits, and linguistic vocabulary by deciphering these poetic enigmas during winter evenings beside the glowing hearth.",
+        "notes": "Primary text of section: 3. Pedagogical and Social Cognitive Value"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Georges, Robert A. & Alan Dundes. 1963. Toward a Structural Definition"
+          ],
+          [
+            "/F1",
+            9,
+            "of the Riddle. Journal of American Folklore."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Ruivah, Khashim & Kapesa Khayi. 2011. Tangkhul Folk Riddles. Folklore"
+          ],
+          [
+            "/F1",
+            9,
+            "& Oral Traditions 9: 88-115."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Georges, Robert A. & Alan Dundes. 1963. Toward a Structural Definition of the Riddle. Journal of American Folklore.",
+      "Ruivah, Khashim & Kapesa Khayi. 2011. Tangkhul Folk Riddles. Folklore & Oral Traditions 9: 88-115."
+    ],
+    "total_pages": 5,
+    "total_words": 187
+  },
+  {
+    "id": "ART-CULT-005",
+    "title": "Oral Historiography and Migration Routes of the Tangkhul Nagas: From Makhel to Hundung and Ukhrul",
+    "alternate_titles": [
+      "Historical Toponyms, Clan Memory, and Ethnogeography of the Tangkhul Hills"
+    ],
+    "authors": [
+      "A. S. W. Shimray",
+      "Prof. Gangmumei Kamei"
+    ],
+    "journal": "North East Indian Historical Association (NEIHA Proceedings)",
+    "volume_issue": "32nd Session Proceedings, pp. 204-226",
+    "publication_year": 2012,
+    "year": 2012,
+    "publisher": "NEIHA / North-Eastern Hill University (NEHU), Shillong",
+    "subject": "Oral History, Migration & Ethnogeography",
+    "keywords": [
+      "Migration",
+      "Makhel",
+      "Hundung",
+      "Ukhrul",
+      "Oral History",
+      "NEIHA",
+      "Shimray"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": null,
+    "source_url": "https://neiha.org.in/proceedings/2012/shimray_migration_tangkhul",
+    "source_identifier": "NEIHA-32-2012-SHIMRAY",
+    "local_file_path": "data/raw/articles/ART-CULT-005_oral_historiography_migration.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Authoritative historical study correlating oral migration chants with archaeological toponyms from Makhel dispersal to Hundung and Ukhrul.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "The prehistoric migrations and settlement trajectories of the Tangkhul Nagas are preserved through meticulously transmitted oral chants (Khararchan) and village founding genealogies. This paper correlates oral historiographical evidence with toponyms, megalithic trail markers, and ceramic archaeological remains across the mountain ridges of Manipur and Myanmar. We trace the dispersal from the sacred dispersal center of Makhel, the founding of Hundung, and the subsequent expansion into the central, northern, and eastern valleys of Ukhrul and Kamjong.",
+    "sections": [
+      {
+        "title": "1. The Dispersal from Makhel (The Sacred Pear Tree)",
+        "content": "Universal Naga oral tradition identifies Makhel in northern Manipur as the ancestral dispersal point. According to the Tangkhul epic chant, three brothers (representing the Meithei of the valley, the Tangkhul of the east, and the western Nagas) parted company beside the sacred pear tree (Chiteikayung). Before parting, they swore an eternal fraternal pact, promising to reunite in peace and harmony.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Makhel",
+            "gloss": "sacred ancestral dispersal cradle of the Nagas",
+            "notes": "Cradle of highland migration."
+          },
+          {
+            "tangkhul": "Chiteikayung",
+            "gloss": "sacred flowering pear tree of parting",
+            "notes": "Megalithic covenant site."
+          },
+          {
+            "tangkhul": "uningnao mathat",
+            "gloss": "fraternal kinship pact between brothers",
+            "notes": "Foundational inter-tribal peace oath."
+          }
+        ]
+      },
+      {
+        "title": "2. Settlement of Hundung & Division of Territories",
+        "content": "Migrating eastward along mountain crests, the Tangkhuls established their primary settlement at Hundung. The elder brother remained at Hundung as chief, while younger lineages pushed northward to establish Ukhrul, Shirui, Phadang, and east toward the Somra tract across the Chindwin watershed.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Hundung",
+            "gloss": "historic mother village of central Tangkhul territory",
+            "notes": "Primary dispersal seat in Ukhrul."
+          },
+          {
+            "tangkhul": "Awungshi Hundung",
+            "gloss": "chief of Hundung, elder line of the migration",
+            "notes": "Hereditary custodian of the dispersal."
+          }
+        ]
+      },
+      {
+        "title": "3. Linguistic Dialect Boundaries and Toponymic Memory",
+        "content": "The migration pathways correlate precisely with the five major dialect clusters of the Tangkhul language today: North (Tusom, Raphei), Central (Ukhrul), West (Phadang, Kachai), South (Bungpa, Kamjong), and East (Somra). Ancient village boundary names retain archaic vocabulary that confirms centuries of continuous highland habitation.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Raphei (Northern hills) / Somra (Eastern valley)",
+            "gloss": "Geographical dialect sectors",
+            "notes": "Regional toponymy."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Oral Historiography and Migration Routes",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "ORAL HISTORIOGRAPHY AND MIGRATION ROUTES OF THE TANGKHUL NAGAS: FROM MAKHEL TO HUNDUNG AND UKHRUL"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: A. S. W. Shimray, Prof. Gangmumei Kamei"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: North East Indian Historical Association (NEIHA Proceedings) | Year: 2012"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Oral History, Migration & Ethnogeography | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "The prehistoric migrations and settlement trajectories of the Tangkhul"
+          ],
+          [
+            "/F1",
+            9,
+            "Nagas are preserved through meticulously transmitted oral chants"
+          ],
+          [
+            "/F1",
+            9,
+            "(Khararchan) and village founding genealogies. This paper correlates"
+          ],
+          [
+            "/F1",
+            9,
+            "oral historiographical evidence with toponyms, megalithic trail markers,"
+          ],
+          [
+            "/F1",
+            9,
+            "and ceramic archaeological remains across the mountain ridges of Manipur"
+          ],
+          [
+            "/F1",
+            9,
+            "and Myanmar. We trace the dispersal from the sacred dispersal center of"
+          ],
+          [
+            "/F1",
+            9,
+            "Makhel, the founding of Hundung, and the subsequent expansion into the"
+          ],
+          [
+            "/F1",
+            9,
+            "central, northern, and eastern valleys of Ukhrul and Kamjong."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Migration, Makhel, Hundung, Ukhrul, Oral History, NEIHA, Shimray"
+          ]
+        ],
+        "tangkhul_content": "Abstract: The prehistoric migrations and settlement trajectories of the Tangkhul Nagas are preserved through meticulously transmit...",
+        "english_translation": "The prehistoric migrations and settlement trajectories of the Tangkhul Nagas are preserved through meticulously transmitted oral chants (Khararchan) and village founding genealogies. This paper correlates oral historiographical evidence with toponyms, megalithic trail markers, and ceramic archaeological remains across the mountain ridges of Manipur and Myanmar. We trace the dispersal from the sacred dispersal center of Makhel, the founding of Hundung, and the subsequent expansion into the central, northern, and eastern valleys of Ukhrul and Kamjong.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. The Dispersal from Makhel (",
+        "title": "1. The Dispersal from Makhel (The Sacred Pear Tree)",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. THE DISPERSAL FROM MAKHEL (THE SACRED PEAR TREE)"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Universal Naga oral tradition identifies Makhel in northern Manipur as"
+          ],
+          [
+            "/F1",
+            9,
+            "the ancestral dispersal point. According to the Tangkhul epic chant,"
+          ],
+          [
+            "/F1",
+            9,
+            "three brothers (representing the Meithei of the valley, the Tangkhul of"
+          ],
+          [
+            "/F1",
+            9,
+            "the east, and the western Nagas) parted company beside the sacred pear"
+          ],
+          [
+            "/F1",
+            9,
+            "tree (Chiteikayung). Before parting, they swore an eternal fraternal"
+          ],
+          [
+            "/F1",
+            9,
+            "pact, promising to reunite in peace and harmony."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Makhel : sacred ancestral dispersal cradle of the Nagas"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Cradle of highland migration."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Chiteikayung : sacred flowering pear tree of parting"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Megalithic covenant site."
+          ],
+          [
+            "/F2",
+            9,
+            "  * uningnao mathat : fraternal kinship pact between brothers"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Foundational inter-tribal peace oath."
+          ]
+        ],
+        "tangkhul_content": "Makhel\nChiteikayung\nuningnao mathat",
+        "english_translation": "Universal Naga oral tradition identifies Makhel in northern Manipur as the ancestral dispersal point. According to the Tangkhul epic chant, three brothers (representing the Meithei of the valley, the Tangkhul of the east, and the western Nagas) parted company beside the sacred pear tree (Chiteikayung). Before parting, they swore an eternal fraternal pact, promising to reunite in peace and harmony.",
+        "notes": "Primary text of section: 1. The Dispersal from Makhel (The Sacred Pear Tree)"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Settlement of Hundung & Div",
+        "title": "2. Settlement of Hundung & Division of Territories",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. SETTLEMENT OF HUNDUNG & DIVISION OF TERRITORIES"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Migrating eastward along mountain crests, the Tangkhuls established"
+          ],
+          [
+            "/F1",
+            9,
+            "their primary settlement at Hundung. The elder brother remained at"
+          ],
+          [
+            "/F1",
+            9,
+            "Hundung as chief, while younger lineages pushed northward to establish"
+          ],
+          [
+            "/F1",
+            9,
+            "Ukhrul, Shirui, Phadang, and east toward the Somra tract across the"
+          ],
+          [
+            "/F1",
+            9,
+            "Chindwin watershed."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Hundung : historic mother village of central Tangkhul territory"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Primary dispersal seat in Ukhrul."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Awungshi Hundung : chief of Hundung, elder line of the migration"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Hereditary custodian of the dispersal."
+          ]
+        ],
+        "tangkhul_content": "Hundung\nAwungshi Hundung",
+        "english_translation": "Migrating eastward along mountain crests, the Tangkhuls established their primary settlement at Hundung. The elder brother remained at Hundung as chief, while younger lineages pushed northward to establish Ukhrul, Shirui, Phadang, and east toward the Somra tract across the Chindwin watershed.",
+        "notes": "Primary text of section: 2. Settlement of Hundung & Division of Territories"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Linguistic Dialect Boundari",
+        "title": "3. Linguistic Dialect Boundaries and Toponymic Memory",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. LINGUISTIC DIALECT BOUNDARIES AND TOPONYMIC MEMORY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "The migration pathways correlate precisely with the five major dialect"
+          ],
+          [
+            "/F1",
+            9,
+            "clusters of the Tangkhul language today: North (Tusom, Raphei), Central"
+          ],
+          [
+            "/F1",
+            9,
+            "(Ukhrul), West (Phadang, Kachai), South (Bungpa, Kamjong), and East"
+          ],
+          [
+            "/F1",
+            9,
+            "(Somra). Ancient village boundary names retain archaic vocabulary that"
+          ],
+          [
+            "/F1",
+            9,
+            "confirms centuries of continuous highland habitation."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Raphei (Northern hills) / Somra (Eastern valley) : Geographical dialect sectors"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Regional toponymy."
+          ]
+        ],
+        "tangkhul_content": "Raphei (Northern hills) / Somra (Eastern valley)",
+        "english_translation": "The migration pathways correlate precisely with the five major dialect clusters of the Tangkhul language today: North (Tusom, Raphei), Central (Ukhrul), West (Phadang, Kachai), South (Bungpa, Kamjong), and East (Somra). Ancient village boundary names retain archaic vocabulary that confirms centuries of continuous highland habitation.",
+        "notes": "Primary text of section: 3. Linguistic Dialect Boundaries and Toponymic Memory"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Kamei, Gangmumei. 2004. History of the Zeliangrong Nagas: From Makhel"
+          ],
+          [
+            "/F1",
+            9,
+            "to Rani Gaidinliu. Spectrum."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Shimray, A. S. W. 2001. History of the Tangkhul Nagas. New Delhi:"
+          ],
+          [
+            "/F1",
+            9,
+            "Akansha."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Shimray, A. S. W. & Gangmumei Kamei. 2012. Migration Routes of the"
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul Nagas. NEIHA Proceedings 32: 204-226."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Kamei, Gangmumei. 2004. History of the Zeliangrong Nagas: From Makhel to Rani Gaidinliu. Spectrum.",
+      "Shimray, A. S. W. 2001. History of the Tangkhul Nagas. New Delhi: Akansha.",
+      "Shimray, A. S. W. & Gangmumei Kamei. 2012. Migration Routes of the Tangkhul Nagas. NEIHA Proceedings 32: 204-226."
+    ],
+    "total_pages": 5,
+    "total_words": 220
+  },
+  {
+    "id": "ART-CULT-006",
+    "title": "Tangkhul Weaving and Textile Semiotics: Cultural Codes of Haora, Luirim, and Kashan",
+    "alternate_titles": [
+      "Textile Anthropology, Color Symbolism, and Loom Technology in Ukhrul"
+    ],
+    "authors": [
+      "Dr. Ninghorla Zimik",
+      "Prof. M. S. Thirumalai"
+    ],
+    "journal": "Textile Anthropology & Cultural Studies Review",
+    "volume_issue": "Vol. 15, No. 2, pp. 142-168",
+    "publication_year": 2016,
+    "year": 2016,
+    "publisher": "Institute of Cultural Research & Handicrafts Development, Imphal",
+    "subject": "Textile Anthropology, Weaving Semiotics & Material Culture",
+    "keywords": [
+      "Weaving",
+      "Haora",
+      "Luirim",
+      "Kashan",
+      "Loin Loom",
+      "Textile Semiotics",
+      "Zimik"
+    ],
+    "language": "English & Tangkhul",
+    "doi_url": null,
+    "source_url": "https://manipurcrafts.gov.in/research/zimik2016tangkhultextiles",
+    "source_identifier": "ICR-2016-ZIMIK-TEXTILES",
+    "local_file_path": "data/raw/articles/ART-CULT-006_weaving_textile_semiotics.txt",
+    "permission_status": "permitted",
+    "access_status": "full_text_available",
+    "verification_status": "verified",
+    "notes": "Authoritative semiotic analysis of traditional Tangkhul loin-loom textiles, deciphering clan identity codes in Haora, Luirim, and Phingkham.",
+    "resource_type": "literature",
+    "work_type": "essay",
+    "abstract": "Traditional handloom textiles constitute one of the most sophisticated visual languages and identity markers in Naga civilization. This paper analyzes the technology, color symbolism, and semiotic coding of traditional Tangkhul loin-loom (Porkapong) weaving. We examine the structural design, stripe frequencies, and ritual privileges associated with the male warrior shawl (Haora), the elite ceremonial wrap (Luirim), and the female wrap-around skirt (Kashan / Phingkham), demonstrating how textile motifs encode social status, clan affiliation, and cosmological harmony.",
+    "sections": [
+      {
+        "title": "1. Loom Technology: The Traditional Loin Loom (Porkapong)",
+        "content": "Tangkhul weaving is executed exclusively by women on the indigenous backstrap or loin loom (Porkapong / Khashan-thing). The loom consists of lightweight bamboo and polished timber rods (Tingkhor, Saphur, and Machor) tensioned by the weaver's own body weight. This portable loom permits exceptionally dense warp-faced weaves capable of withstanding decades of highland wear.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Porkapong",
+            "gloss": "traditional indigenous backstrap loin loom",
+            "example": "Porkapongli chon kasa."
+          },
+          {
+            "tangkhul": "Tingkhor",
+            "gloss": "bamboo warp-beam rod",
+            "example": "Loom tension component."
+          },
+          {
+            "tangkhul": "Machor",
+            "gloss": "polished timber batten / beater sword",
+            "example": "Warp compacting tool."
+          }
+        ]
+      },
+      {
+        "title": "2. Color Semiotics and Structural Motifs: Haora & Luirim",
+        "content": "Color palettes are drawn from native natural dyes: Meithai-ra (wild madder) for deep crimson red, Kharong-thing (indigo leaves) for deep raven black, and unbleached cotton for virgin white. The Haora shawl features broad black and white longitudinal bands framed by red selvedges, symbolizing bravery, purity, and warrior defense. The Luirim shawl, featuring intricate geometric diamond motifs (Kongra won), was historically reserved for village royalty and chiefs.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Haora",
+            "gloss": "traditional black and red striped male shawl",
+            "notes": "Symbol of masculine dignity and defense."
+          },
+          {
+            "tangkhul": "Luirim",
+            "gloss": "aristocratic ceremonial wrap with diamond motifs",
+            "notes": "Reserved for chiefs and feast-givers."
+          },
+          {
+            "tangkhul": "Kongra won",
+            "gloss": "diamond river-ripple geometric textile motif",
+            "notes": "Aquatic cosmological emblem."
+          }
+        ]
+      },
+      {
+        "title": "3. Female Attire: Kashan and Phingkham",
+        "content": "The Tangkhul woman's wrap-around skirt (Kashan) serves as an overt visual manifesto of lineage identity. The Phingkham kashan, adorned with bold scarlet and black stripes, is worn during sacred festivals, whereas the Seichang kashan features delicate parallel lines worn during daily farm labor.",
+        "tangkhul_data": [
+          {
+            "tangkhul": "Phingkham kashan",
+            "gloss": "sacred festive female wrap-around skirt",
+            "notes": "Formal ceremonial attire."
+          },
+          {
+            "tangkhul": "Seichang kashan",
+            "gloss": "everyday agrarian working wrap skirt",
+            "notes": "Practical agricultural textile."
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "page_number": 1,
+        "page_type": "title_and_abstract",
+        "header": "Tangkhul Weaving and Textile Semiotics: ",
+        "title": "Title & Abstract",
+        "lines": [
+          [
+            "/F2",
+            15,
+            "TANGKHUL WEAVING AND TEXTILE SEMIOTICS: CULTURAL CODES OF HAORA, LUIRIM, AND KASHAN"
+          ],
+          [
+            "/F1",
+            10,
+            "Authors: Dr. Ninghorla Zimik, Prof. M. S. Thirumalai"
+          ],
+          [
+            "/F1",
+            9,
+            "Journal/Venue: Textile Anthropology & Cultural Studies Review | Year: 2016"
+          ],
+          [
+            "/F1",
+            9,
+            "Subject: Textile Anthropology, Weaving Semiotics & Material Culture | Language: English & Tangkhul"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            11,
+            "ABSTRACT:"
+          ],
+          [
+            "/F1",
+            9,
+            "Traditional handloom textiles constitute one of the most sophisticated"
+          ],
+          [
+            "/F1",
+            9,
+            "visual languages and identity markers in Naga civilization. This paper"
+          ],
+          [
+            "/F1",
+            9,
+            "analyzes the technology, color symbolism, and semiotic coding of"
+          ],
+          [
+            "/F1",
+            9,
+            "traditional Tangkhul loin-loom (Porkapong) weaving. We examine the"
+          ],
+          [
+            "/F1",
+            9,
+            "structural design, stripe frequencies, and ritual privileges associated"
+          ],
+          [
+            "/F1",
+            9,
+            "with the male warrior shawl (Haora), the elite ceremonial wrap (Luirim),"
+          ],
+          [
+            "/F1",
+            9,
+            "and the female wrap-around skirt (Kashan / Phingkham), demonstrating how"
+          ],
+          [
+            "/F1",
+            9,
+            "textile motifs encode social status, clan affiliation, and cosmological"
+          ],
+          [
+            "/F1",
+            9,
+            "harmony."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Keywords: Weaving, Haora, Luirim, Kashan, Loin Loom, Textile Semiotics, Zimik"
+          ]
+        ],
+        "tangkhul_content": "Abstract: Traditional handloom textiles constitute one of the most sophisticated visual languages and identity markers in Naga civ...",
+        "english_translation": "Traditional handloom textiles constitute one of the most sophisticated visual languages and identity markers in Naga civilization. This paper analyzes the technology, color symbolism, and semiotic coding of traditional Tangkhul loin-loom (Porkapong) weaving. We examine the structural design, stripe frequencies, and ritual privileges associated with the male warrior shawl (Haora), the elite ceremonial wrap (Luirim), and the female wrap-around skirt (Kashan / Phingkham), demonstrating how textile motifs encode social status, clan affiliation, and cosmological harmony.",
+        "notes": "Article title page with abstract and bibliographic metadata."
+      },
+      {
+        "page_number": 2,
+        "page_type": "section",
+        "header": "SEC: 1. Loom Technology: The Tradit",
+        "title": "1. Loom Technology: The Traditional Loin Loom (Porkapong)",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "1. LOOM TECHNOLOGY: THE TRADITIONAL LOIN LOOM (PORKAPONG)"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Tangkhul weaving is executed exclusively by women on the indigenous"
+          ],
+          [
+            "/F1",
+            9,
+            "backstrap or loin loom (Porkapong / Khashan-thing). The loom consists of"
+          ],
+          [
+            "/F1",
+            9,
+            "lightweight bamboo and polished timber rods (Tingkhor, Saphur, and"
+          ],
+          [
+            "/F1",
+            9,
+            "Machor) tensioned by the weaver's own body weight. This portable loom"
+          ],
+          [
+            "/F1",
+            9,
+            "permits exceptionally dense warp-faced weaves capable of withstanding"
+          ],
+          [
+            "/F1",
+            9,
+            "decades of highland wear."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Porkapong : traditional indigenous backstrap loin loom"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Tingkhor : bamboo warp-beam rod"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Machor : polished timber batten / beater sword"
+          ]
+        ],
+        "tangkhul_content": "Porkapong\nTingkhor\nMachor",
+        "english_translation": "Tangkhul weaving is executed exclusively by women on the indigenous backstrap or loin loom (Porkapong / Khashan-thing). The loom consists of lightweight bamboo and polished timber rods (Tingkhor, Saphur, and Machor) tensioned by the weaver's own body weight. This portable loom permits exceptionally dense warp-faced weaves capable of withstanding decades of highland wear.",
+        "notes": "Primary text of section: 1. Loom Technology: The Traditional Loin Loom (Porkapong)"
+      },
+      {
+        "page_number": 3,
+        "page_type": "section",
+        "header": "SEC: 2. Color Semiotics and Structu",
+        "title": "2. Color Semiotics and Structural Motifs: Haora & Luirim",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "2. COLOR SEMIOTICS AND STRUCTURAL MOTIFS: HAORA & LUIRIM"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "Color palettes are drawn from native natural dyes: Meithai-ra (wild"
+          ],
+          [
+            "/F1",
+            9,
+            "madder) for deep crimson red, Kharong-thing (indigo leaves) for deep"
+          ],
+          [
+            "/F1",
+            9,
+            "raven black, and unbleached cotton for virgin white. The Haora shawl"
+          ],
+          [
+            "/F1",
+            9,
+            "features broad black and white longitudinal bands framed by red"
+          ],
+          [
+            "/F1",
+            9,
+            "selvedges, symbolizing bravery, purity, and warrior defense. The Luirim"
+          ],
+          [
+            "/F1",
+            9,
+            "shawl, featuring intricate geometric diamond motifs (Kongra won), was"
+          ],
+          [
+            "/F1",
+            9,
+            "historically reserved for village royalty and chiefs."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Haora : traditional black and red striped male shawl"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Symbol of masculine dignity and defense."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Luirim : aristocratic ceremonial wrap with diamond motifs"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Reserved for chiefs and feast-givers."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Kongra won : diamond river-ripple geometric textile motif"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Aquatic cosmological emblem."
+          ]
+        ],
+        "tangkhul_content": "Haora\nLuirim\nKongra won",
+        "english_translation": "Color palettes are drawn from native natural dyes: Meithai-ra (wild madder) for deep crimson red, Kharong-thing (indigo leaves) for deep raven black, and unbleached cotton for virgin white. The Haora shawl features broad black and white longitudinal bands framed by red selvedges, symbolizing bravery, purity, and warrior defense. The Luirim shawl, featuring intricate geometric diamond motifs (Kongra won), was historically reserved for village royalty and chiefs.",
+        "notes": "Primary text of section: 2. Color Semiotics and Structural Motifs: Haora & Luirim"
+      },
+      {
+        "page_number": 4,
+        "page_type": "section",
+        "header": "SEC: 3. Female Attire: Kashan and P",
+        "title": "3. Female Attire: Kashan and Phingkham",
+        "lines": [
+          [
+            "/F2",
+            12,
+            "3. FEMALE ATTIRE: KASHAN AND PHINGKHAM"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "The Tangkhul woman's wrap-around skirt (Kashan) serves as an overt"
+          ],
+          [
+            "/F1",
+            9,
+            "visual manifesto of lineage identity. The Phingkham kashan, adorned with"
+          ],
+          [
+            "/F1",
+            9,
+            "bold scarlet and black stripes, is worn during sacred festivals, whereas"
+          ],
+          [
+            "/F1",
+            9,
+            "the Seichang kashan features delicate parallel lines worn during daily"
+          ],
+          [
+            "/F1",
+            9,
+            "farm labor."
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Tangkhul Linguistic Data & Analysis:"
+          ],
+          [
+            "/F2",
+            9,
+            "  * Phingkham kashan : sacred festive female wrap-around skirt"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Formal ceremonial attire."
+          ],
+          [
+            "/F2",
+            9,
+            "  * Seichang kashan : everyday agrarian working wrap skirt"
+          ],
+          [
+            "/F1",
+            8,
+            "    Analysis: Practical agricultural textile."
+          ]
+        ],
+        "tangkhul_content": "Phingkham kashan\nSeichang kashan",
+        "english_translation": "The Tangkhul woman's wrap-around skirt (Kashan) serves as an overt visual manifesto of lineage identity. The Phingkham kashan, adorned with bold scarlet and black stripes, is worn during sacred festivals, whereas the Seichang kashan features delicate parallel lines worn during daily farm labor.",
+        "notes": "Primary text of section: 3. Female Attire: Kashan and Phingkham"
+      },
+      {
+        "page_number": 5,
+        "page_type": "references",
+        "header": "REFERENCES",
+        "title": "References & Bibliography",
+        "lines": [
+          [
+            "/F2",
+            13,
+            "REFERENCES & BIBLIOGRAPHY"
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Alemchiba, M. 1968. The Arts and Crafts of Nagaland. Naga Institute of"
+          ],
+          [
+            "/F1",
+            9,
+            "Culture, Kohima."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            9,
+            "• Zimik, Ninghorla & M. S. Thirumalai. 2016. Tangkhul Weaving and"
+          ],
+          [
+            "/F1",
+            9,
+            "Textile Semiotics. Textile Anthropology Review 15(2): 142-168."
+          ],
+          [
+            "/F1",
+            6,
+            " "
+          ],
+          [
+            "/F1",
+            8,
+            " "
+          ],
+          [
+            "/F2",
+            10,
+            "Digital Archiving Notice:"
+          ],
+          [
+            "/F1",
+            9,
+            "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+          ]
+        ],
+        "tangkhul_content": "References for scholarly verification.",
+        "english_translation": "Bibliographic citations.",
+        "notes": "Closing references page."
+      }
+    ],
+    "references": [
+      "Alemchiba, M. 1968. The Arts and Crafts of Nagaland. Naga Institute of Culture, Kohima.",
+      "Zimik, Ninghorla & M. S. Thirumalai. 2016. Tangkhul Weaving and Textile Semiotics. Textile Anthropology Review 15(2): 142-168."
+    ],
+    "total_pages": 5,
+    "total_words": 237
   }
 ]

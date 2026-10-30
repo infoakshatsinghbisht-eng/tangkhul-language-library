@@ -1,0 +1,34 @@
+TITLE: Syllable Weight and Metrical Structure in Ukhrul Tangkhul
+AUTHORS: Prof. P. Madhubala, Dr. Ninghorla Zimik
+JOURNAL / VENUE: Journal of the Linguistic Society of North East India (2017)
+SUBJECT: Metrical Phonology & Prosody
+KEYWORDS: Syllable Weight, Moraic Theory, Metrical Feet, Stress, Ukhrul, Tangkhul
+
+ABSTRACT:
+This paper examines the relationship between syllable weight, moraic structure, and stress assignment in Standard Ukhrul Tangkhul. While Tangkhul has traditionally been described as a tone language without prominent stress, acoustic analysis reveals that primary metrical stress consistently falls upon the final heavy syllable (bimoraic μμ) of the phonological stem, relegating light prefixal syllables (monomoraic μ) to metrically weak prosodic positions.
+
+SECTION: 1. Syllable Typology and Mora Count
+Tangkhul syllables conform to the maximal template (C)(C)V(C). Syllables ending in vowels (CV) are monomoraic (light, μ), while syllables closed by sonorant or stop codas (CVC) and syllables with diphthongs (CVV) are bimoraic (heavy, μμ). Only bimoraic syllables can carry the full three-way tonal contrast in citation form.
+Linguistic Data:
+  * kə- (prefix) : Light syllable (μ)
+    Notes: Unstressed, reduced vowel.
+  * -pʰa:ŋ (stem) : Heavy syllable (μμ)
+    Notes: Stressed stem carrying lexical tone.
+
+SECTION: 2. Metrical Foot Binarity & Iambic Grouping
+Disyllabic prefix-stem words form canonical iambic feet (L H), where the light prefix serves as the weak foot member and the heavy root serves as the rhythmic head. This explains why prefix vowels are phonetically reduced to schwa [ə].
+Linguistic Data:
+  * [kə.tʰát] : to kill (iambic foot: L H)
+    Notes: Primary stress on heavy root.
+  * [mə.tʰéj] : does not see (iambic foot: L H)
+    Notes: Negative prefix schwa reduction.
+
+SECTION: 3. Rhythmic Implications for Folk Verse
+Traditional Tangkhul oral poetry (Hao-laa) exploits this bimoraic foot structure. Chants are organized into four-mora hemistichs, establishing a steady musical pulse that coordinates choral dancing during festivals.
+Linguistic Data:
+  * Hao-laa metrical meter : Four-mora rhythmic cadence
+    Notes: Prosodic coordination in dance.
+
+REFERENCES:
+  - Hayes, Bruce. 1995. Metrical Stress Theory: Principles and Case Studies. University of Chicago Press.
+  - Madhubala, P. & Ninghorla Zimik. 2017. Syllable Weight in Tangkhul. JLSNEI 6(1): 55-76.

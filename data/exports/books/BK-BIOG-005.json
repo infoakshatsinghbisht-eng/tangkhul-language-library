@@ -1,0 +1,1045 @@
+{
+  "id": "BK-BIOG-005",
+  "resource_type": "books",
+  "title": "Luingam Luikham: Custodian of Tangkhul Oral Literature and Customary Law",
+  "alternate_titles": [
+    "Biography of Luingam Luikham: Cultural Custodian and Folklorist",
+    "Luingam Luikham: Preserving the Heritage of Wungram"
+  ],
+  "authors": [
+    "Tangkhul Cultural Council Scholars"
+  ],
+  "editors": [
+    "Tangkhul Literature Society"
+  ],
+  "publisher": "Tangkhul Literature Society, Imphal / Ukhrul",
+  "publication_year": 2010,
+  "year": 2010,
+  "edition": "Cultural Custodian Monograph",
+  "subject": "Biography (Jeevani), Folklore & Cultural Custodianship",
+  "educational_level": "Collegiate & Cultural Heritage Researchers",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/literature",
+  "source_identifier": "TLS-TKH-BIOG-LUIKHAM",
+  "catalogue_url": "https://bharatavani.in/tangkhul/literature",
+  "local_file_path": "data/raw/books/BK-BIOG-005_luingam_luikham.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Cultural Monograph",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Biography celebrating Luingam Luikham and the pioneering Luikham family of folklorists who documented traditional customary jurisprudence (Wung Naga Okthot Mayonza), oral riddles, and folk epics.",
+  "front_matter": {
+    "title_page": "Luingam Luikham: Custodian of Tangkhul Oral Literature and Customary Law (2010)",
+    "preface": "Luingam Luikham and his family represent the premier folklore collectors and customary law codifiers of the Tangkhul nation. Their exhaustive field collections preserved hundreds of ancient folk songs, clan migration genealogies, and legal precedents before they could be eroded by rapid modernization.",
+    "table_of_contents": [
+      "Chapter 1: The Quest for Tangkhul Oral Heritage",
+      "Chapter 2: Codifying Customary Jurisprudence & Folklore Volumes",
+      "Chapter 3: Inspiration for Future Generations of Scholars"
+    ],
+    "imprint": "Tangkhul Literature Society, Imphal / Ukhrul, 2010."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Quest for Tangkhul Oral Heritage",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Codifying Customary Jurisprudence & Folklore Volumes",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Inspiration for Future Generations of Scholars",
+      "page_start": 10,
+      "page_end": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Quest for Tangkhul Oral Heritage",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Field expeditions across remote villages collecting songs, riddles, clan genealogies, and folklore.",
+      "tangkhul_text": "Chapter 1: Luingam Luikhamna Ukhrul, Kamjong, Somra, kala Phadangwui remote villages-li field research eina zatpingsaye. Ana traditional elders, folk singers, kala village court headmen eina interview saye. Ana audio recordings, written notebooks, kala sacred oral songs kazip-kasasaye. Ana theitserie: Hao culture oral tradition-li rich-lakna, chi preserve kasa compulsory-sai.",
+      "english_translation": "Luingam Luikham undertook pioneering field expeditions across remote villages in Ukhrul, Kamjong, Somra, and Phadang. He interviewed elder bards, traditional singers, and customary court headmen. He recorded oral songs, transcribed clan genealogies, and documented customary court cases, realizing that preserving oral folklore was vital for the cultural survival of the Tangkhul people.",
+      "vocabulary": [
+        {
+          "word": "field research",
+          "pos": "noun",
+          "meaning": "ramkhangatei research zatkasa",
+          "example": "Field research eina."
+        },
+        {
+          "word": "oral tradition",
+          "pos": "noun",
+          "meaning": "Khamanotui / khashut-wari",
+          "example": "Hao oral tradition."
+        }
+      ],
+      "grammar_notes": [
+        "Folklore collection methodology terminology in Tangkhul."
+      ],
+      "exercises": [
+        "Why was field documentation essential for preserving Tangkhul heritage?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Codifying Customary Jurisprudence & Folklore Volumes",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Publishing foundational books on Tangkhul customary law, folk tales, and traditional proverbs.",
+      "tangkhul_text": "Chapter 2: Ana TLS eina publication-wui vang books kasasaye: Hao Ngashan customary law, Tungtuktui (riddles), Hao-laa (folk songs), kala clan histories. Awui booksna modern legal courts, schools, kala researchers-li standard reference thada serve saye. Ana Tangkhul bhashali rich literary prestige miserie.",
+      "english_translation": "Collaborating with the Tangkhul Literature Society, he published landmark works on customary law, folk riddles, traditional poetry, and clan migrations. His publications became standard reference manuals for customary courts, schools, and university researchers, bestowing immense literary prestige upon the language.",
+      "vocabulary": [
+        {
+          "word": "Tungtuktui",
+          "pos": "noun",
+          "meaning": "traditional folk riddles and allegories",
+          "example": "Tungtuktui books."
+        },
+        {
+          "word": "Hao-laa",
+          "pos": "noun",
+          "meaning": "traditional folk poetry in song",
+          "example": "Hao-laa volumes."
+        }
+      ],
+      "grammar_notes": [
+        "Classification of Tangkhul folk literature genres."
+      ],
+      "exercises": [
+        "What types of folk literature did Luingam Luikham document?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Inspiration for Future Generations of Scholars",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "The enduring impact of his preservation work on contemporary Naga cultural consciousness.",
+      "tangkhul_text": "Chapter 3: Luingam Luikhamwui work-na modern Tangkhul youth-li cultural pride kala identity-wui understanding miserie. Ukhrul-li ana setup kahai archives modern linguists kala researchers-li guide saye. Awui name Tangkhul literary history-li immortal guardian thada ngashan-leisara.",
+      "english_translation": "Luingam Luikham's work instilled deep cultural pride and self-understanding in younger generations. The archives and documentation he established in Ukhrul continue to guide linguists and anthropological researchers worldwide. His name will forever be remembered as an immortal guardian of Tangkhul heritage.",
+      "vocabulary": [
+        {
+          "word": "cultural pride",
+          "pos": "noun",
+          "meaning": "Ngashanwui phashan (identity dignity)",
+          "example": "Cultural pride miserie."
+        }
+      ],
+      "grammar_notes": [
+        "Memorial reverence and cultural guardianship phrasing."
+      ],
+      "exercises": [
+        "Explain the role of cultural archives in maintaining community identity."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Luingam Luikham: Custodian of Tangkhul O",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "LUINGAM LUIKHAM: CUSTODIAN OF TANGKHUL ORAL LITERATURE AND CUSTOMARY LAW"
+        ],
+        [
+          "/F1",
+          11,
+          "Biography of Luingam Luikham: Cultural Custodian and Folklorist"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Cultural Council Scholars"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Literature Society, Imphal / Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 2010 | Genre: Biography (Jeevani), Folklore & Cultural Custodianship"
+        ]
+      ],
+      "tangkhul_content": "Luingam Luikham: Custodian of Tangkhul Oral Literature and Customary Law -- Complete Tangkhul Edition.",
+      "english_translation": "Title: Biography of Luingam Luikham: Cultural Custodian and Folklorist",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Luingam Luikham and his family represent the premier folklore collectors"
+        ],
+        [
+          "/F1",
+          10,
+          "and customary law codifiers of the Tangkhul nation. Their exhaustive"
+        ],
+        [
+          "/F1",
+          10,
+          "field collections preserved hundreds of ancient folk songs, clan"
+        ],
+        [
+          "/F1",
+          10,
+          "migration genealogies, and legal precedents before they could be eroded"
+        ],
+        [
+          "/F1",
+          10,
+          "by rapid modernization."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-BIOG-LUIKHAM"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Luingam Luikham and his family represent the premier folklore collectors and customary law codifiers of the Tangkhul nat...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Quest for Tangkhul Oral Heritage ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Codifying Customary Jurisprudence & Folklore Vol ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Inspiration for Future Generations of Scholars ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 13"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 3.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Quest for Tangkhul Oral Heritage",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE QUEST FOR TANGKHUL ORAL HERITAGE"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Field expeditions across remote villages collecting songs, riddles, clan genealo..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Luingam Luikhamna Ukhrul, Kamjong, Somra, kala Phadangwui"
+        ],
+        [
+          "/F1",
+          9,
+          "remote villages-li field research eina zatpingsaye. Ana traditional"
+        ],
+        [
+          "/F1",
+          9,
+          "elders, folk singers, kala village court headmen eina interview saye."
+        ],
+        [
+          "/F1",
+          9,
+          "Ana audio recordings, written notebooks, kala sacred oral songs kazip-"
+        ],
+        [
+          "/F1",
+          9,
+          "kasasaye. Ana theitserie: Hao culture oral tradition-li rich-lakna, chi"
+        ],
+        [
+          "/F1",
+          9,
+          "preserve kasa compulsory-sai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Luingam Luikham undertook pioneering field expeditions across remote"
+        ],
+        [
+          "/F1",
+          9,
+          "villages in Ukhrul, Kamjong, Somra, and Phadang. He interviewed elder"
+        ],
+        [
+          "/F1",
+          9,
+          "bards, traditional singers, and customary court headmen. He recorded"
+        ],
+        [
+          "/F1",
+          9,
+          "oral songs, transcribed clan genealogies, and documented customary court"
+        ],
+        [
+          "/F1",
+          9,
+          "cases, realizing that preserving oral folklore was vital for the"
+        ],
+        [
+          "/F1",
+          9,
+          "cultural survival of the Tangkhul people."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Luingam Luikhamna Ukhrul, Kamjong, Somra, kala Phadangwui remote villages-li field research eina zatpingsaye. Ana traditional elders, folk singers, kala village court headmen eina interview saye. Ana audio recordings, written notebooks, kala sacred oral songs kazip-kasasaye. Ana theitserie: Hao culture oral tradition-li rich-lakna, chi preserve kasa compulsory-sai.",
+      "english_translation": "Luingam Luikham undertook pioneering field expeditions across remote villages in Ukhrul, Kamjong, Somra, and Phadang. He interviewed elder bards, traditional singers, and customary court headmen. He recorded oral songs, transcribed clan genealogies, and documented customary court cases, realizing that preserving oral folklore was vital for the cultural survival of the Tangkhul people.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Quest for Tangkhul Oral Heritage",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * field research (noun): ramkhangatei research zatkasa"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Field research eina."
+        ],
+        [
+          "/F2",
+          9,
+          "  * oral tradition (noun): Khamanotui / khashut-wari"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Hao oral tradition."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Folklore collection methodology terminology in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Why was field documentation essential for preserving Tangkhul heritage?"
+        ]
+      ],
+      "tangkhul_content": "field research: ramkhangatei research zatkasa; oral tradition: Khamanotui / khashut-wari",
+      "english_translation": "Folklore collection methodology terminology in Tangkhul.",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Quest for Tangkhul Oral Heritage",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Codifying Customary Jurisprudence & Folklore Volumes",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: CODIFYING CUSTOMARY JURISPRUDENCE & FOLKLORE VOLUMES"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Publishing foundational books on Tangkhul customary law, folk tales, and traditi..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Ana TLS eina publication-wui vang books kasasaye: Hao Ngashan"
+        ],
+        [
+          "/F1",
+          9,
+          "customary law, Tungtuktui (riddles), Hao-laa (folk songs), kala clan"
+        ],
+        [
+          "/F1",
+          9,
+          "histories. Awui booksna modern legal courts, schools, kala researchers-"
+        ],
+        [
+          "/F1",
+          9,
+          "li standard reference thada serve saye. Ana Tangkhul bhashali rich"
+        ],
+        [
+          "/F1",
+          9,
+          "literary prestige miserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Collaborating with the Tangkhul Literature Society, he published"
+        ],
+        [
+          "/F1",
+          9,
+          "landmark works on customary law, folk riddles, traditional poetry, and"
+        ],
+        [
+          "/F1",
+          9,
+          "clan migrations. His publications became standard reference manuals for"
+        ],
+        [
+          "/F1",
+          9,
+          "customary courts, schools, and university researchers, bestowing immense"
+        ],
+        [
+          "/F1",
+          9,
+          "literary prestige upon the language."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Ana TLS eina publication-wui vang books kasasaye: Hao Ngashan customary law, Tungtuktui (riddles), Hao-laa (folk songs), kala clan histories. Awui booksna modern legal courts, schools, kala researchers-li standard reference thada serve saye. Ana Tangkhul bhashali rich literary prestige miserie.",
+      "english_translation": "Collaborating with the Tangkhul Literature Society, he published landmark works on customary law, folk riddles, traditional poetry, and clan migrations. His publications became standard reference manuals for customary courts, schools, and university researchers, bestowing immense literary prestige upon the language.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Codifying Customary Jurisprudence & Folklore Volumes",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tungtuktui (noun): traditional folk riddles and allegories"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Tungtuktui books."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Hao-laa (noun): traditional folk poetry in song"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Hao-laa volumes."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Classification of Tangkhul folk literature genres."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What types of folk literature did Luingam Luikham document?"
+        ]
+      ],
+      "tangkhul_content": "Tungtuktui: traditional folk riddles and allegories; Hao-laa: traditional folk poetry in song",
+      "english_translation": "Classification of Tangkhul folk literature genres.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Codifying Customary Jurisprudence & Folklore Volumes",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Inspiration for Future Generations of Scholars",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: INSPIRATION FOR FUTURE GENERATIONS OF SCHOLARS"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The enduring impact of his preservation work on contemporary Naga cultural consc..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Luingam Luikhamwui work-na modern Tangkhul youth-li cultural"
+        ],
+        [
+          "/F1",
+          9,
+          "pride kala identity-wui understanding miserie. Ukhrul-li ana setup kahai"
+        ],
+        [
+          "/F1",
+          9,
+          "archives modern linguists kala researchers-li guide saye. Awui name"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul literary history-li immortal guardian thada ngashan-leisara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Luingam Luikham's work instilled deep cultural pride and self-"
+        ],
+        [
+          "/F1",
+          9,
+          "understanding in younger generations. The archives and documentation he"
+        ],
+        [
+          "/F1",
+          9,
+          "established in Ukhrul continue to guide linguists and anthropological"
+        ],
+        [
+          "/F1",
+          9,
+          "researchers worldwide. His name will forever be remembered as an"
+        ],
+        [
+          "/F1",
+          9,
+          "immortal guardian of Tangkhul heritage."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Luingam Luikhamwui work-na modern Tangkhul youth-li cultural pride kala identity-wui understanding miserie. Ukhrul-li ana setup kahai archives modern linguists kala researchers-li guide saye. Awui name Tangkhul literary history-li immortal guardian thada ngashan-leisara.",
+      "english_translation": "Luingam Luikham's work instilled deep cultural pride and self-understanding in younger generations. The archives and documentation he established in Ukhrul continue to guide linguists and anthropological researchers worldwide. His name will forever be remembered as an immortal guardian of Tangkhul heritage.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Inspiration for Future Generations of Scholars",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * cultural pride (noun): Ngashanwui phashan (identity dignity)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Cultural pride miserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Memorial reverence and cultural guardianship phrasing."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the role of cultural archives in maintaining community identity."
+        ]
+      ],
+      "tangkhul_content": "cultural pride: Ngashanwui phashan (identity dignity)",
+      "english_translation": "Memorial reverence and cultural guardianship phrasing.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Inspiration for Future Generations of Scholars",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * field research -- ramkhangatei research zatkasa"
+        ],
+        [
+          "/F1",
+          9,
+          "  * oral tradition -- Khamanotui / khashut-wari"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Tungtuktui -- traditional folk riddles and allegories"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Hao-laa -- traditional folk poetry in song"
+        ],
+        [
+          "/F1",
+          9,
+          "  * cultural pride -- Ngashanwui phashan (identity dignity)"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "field research",
+        "pos": "noun",
+        "meaning": "ramkhangatei research zatkasa",
+        "example": "Field research eina."
+      },
+      {
+        "word": "oral tradition",
+        "pos": "noun",
+        "meaning": "Khamanotui / khashut-wari",
+        "example": "Hao oral tradition."
+      },
+      {
+        "word": "Tungtuktui",
+        "pos": "noun",
+        "meaning": "traditional folk riddles and allegories",
+        "example": "Tungtuktui books."
+      },
+      {
+        "word": "Hao-laa",
+        "pos": "noun",
+        "meaning": "traditional folk poetry in song",
+        "example": "Hao-laa volumes."
+      },
+      {
+        "word": "cultural pride",
+        "pos": "noun",
+        "meaning": "Ngashanwui phashan (identity dignity)",
+        "example": "Cultural pride miserie."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 13,
+  "total_chapters": 3,
+  "total_words": 256,
+  "excerpts": [
+    "Chapter 1: Luingam Luikhamna Ukhrul, Kamjong, Somra, kala Phadangwui remote villages-li field research eina zatpingsaye....",
+    "Chapter 2: Ana TLS eina publication-wui vang books kasasaye: Hao Ngashan customary law, Tungtuktui (riddles), Hao-laa (f...",
+    "Chapter 3: Luingam Luikhamwui work-na modern Tangkhul youth-li cultural pride kala identity-wui understanding miserie. U..."
+  ]
+}

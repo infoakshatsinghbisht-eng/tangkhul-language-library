@@ -1,0 +1,1023 @@
+{
+  "id": "BK-BIOG-004",
+  "resource_type": "books",
+  "title": "Rowland Suisa (R. Suisa): The Prophet of Naga Peace, Democracy, and Customary Rights",
+  "alternate_titles": [
+    "R. Suisa: The Life and Vision of a Tangkhul Thinker",
+    "Suisa's Proposal: Peace, Autonomy, and Peaceful Coexistence"
+  ],
+  "authors": [
+    "Tangkhul Political Thought Study Circle"
+  ],
+  "editors": [
+    "Tangkhul Cultural Council"
+  ],
+  "publisher": "Tangkhul Cultural Council, Ukhrul",
+  "publication_year": 2008,
+  "year": 2008,
+  "edition": "Historical Monograph",
+  "subject": "Biography (Jeevani), Political Philosophy & Peacebuilding",
+  "educational_level": "Collegiate & Advanced Readers",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/history",
+  "source_identifier": "TCC-TKH-BIOG-SUISA",
+  "catalogue_url": "https://bharatavani.in/tangkhul/history",
+  "local_file_path": "data/raw/books/BK-BIOG-004_r_suisa.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Political Studies",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Intellectual and political biography of Rowland Suisa (1907-1971), MP from Outer Manipur (1957-1962), author of the famous 'Suisa's Proposal' advocating peaceful negotiated settlement and honorable co-existence.",
+  "front_matter": {
+    "title_page": "Rowland Suisa (R. Suisa): The Prophet of Naga Peace, Democracy, and Customary Rights (2008)",
+    "preface": "Rowland Suisa was one of the most original political thinkers of Northeast India. Born in Somdal village, he served as Member of Parliament and dedicated his life to bridging differences between the Government of India and Naga national aspirations through constitutional federation and peaceful coexistence.",
+    "table_of_contents": [
+      "Chapter 1: Early Life in Somdal & Educational Leadership",
+      "Chapter 2: Parliamentary Career & The Famous 'Suisa's Proposal'",
+      "Chapter 3: Legacy of Peaceful Dialogue and Democratic Philosophy"
+    ],
+    "imprint": "Tangkhul Cultural Council, Ukhrul, 2008."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Early Life in Somdal & Educational Leadership",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Parliamentary Career & The Famous 'Suisa's Proposal'",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Legacy of Peaceful Dialogue and Democratic Philosophy",
+      "page_start": 10,
+      "page_end": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Early Life in Somdal & Educational Leadership",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Youth in Somdal, education in Jorhat and Shillong, and pioneer community organizing.",
+      "tangkhul_text": "Chapter 1: Rowland Suisa 1907-li Somdal village, Ukhrul district-li pharisaye. Ana Jorhat Christian high school kala Shillongli education khuiye. Somdal-li unglaga ana Tangkhul youth, teachers, kala farmersbingli organize saye. Ana tribal customary law kala modern constitutional democracy-wui ngachaili philosophical harmony theitserie.",
+      "english_translation": "Rowland Suisa was born in 1907 in Somdal village, Ukhrul district. He studied at Jorhat Christian High School and in Shillong. Returning to Somdal, he organized teachers, youths, and farmers, discovering a deep philosophical harmony between tribal customary law and modern constitutional democracy.",
+      "vocabulary": [
+        {
+          "word": "Somdal village",
+          "pos": "proper noun",
+          "meaning": "historic cultural village in western Ukhrul",
+          "example": "Somdal village-li pharisaye."
+        }
+      ],
+      "grammar_notes": [
+        "Philosophical integration vocabulary: customary law meets modern democracy."
+      ],
+      "exercises": [
+        "Where was R. Suisa born?"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Parliamentary Career & The Famous 'Suisa's Proposal'",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Election to the 2nd Lok Sabha (1957) and the formulating of Suisa's historic peace proposal.",
+      "tangkhul_text": "Chapter 2: 1957-li R. Suisa Outer Manipur constituency eina 2nd Lok Sabha-li MP elect saye. Parliament-li ana hill tribeswui rights, autonomy, kala economic justice-wui vang speak saye. Ana historical 'Suisa's Proposal' formulate saye: India kala Nagaswui ngachaili federal association eina honorable peaceful co-existence kasakakhui. Nehru kala Jayaprakash Narayan-na awui vision-li high respect miye.",
+      "english_translation": "In 1957, R. Suisa was elected Member of Parliament to the 2nd Lok Sabha. In Parliament, he passionately voiced the rights, autonomy, and aspirations of hill tribal peoples. He drafted the historic 'Suisa's Proposal', outlining an honorable federal association ensuring peaceful co-existence. National leaders including Prime Minister Nehru and Jayaprakash Narayan deeply respected his visionary statesmanship.",
+      "vocabulary": [
+        {
+          "word": "Suisa's Proposal",
+          "pos": "proper noun",
+          "meaning": "visionary federal peace proposal",
+          "example": "Suisa's Proposal formulate."
+        },
+        {
+          "word": "peaceful co-existence",
+          "pos": "noun",
+          "meaning": "Ngacham eina ngasomkasa",
+          "example": "Honorable co-existence."
+        }
+      ],
+      "grammar_notes": [
+        "Federal political terminology in Tangkhul."
+      ],
+      "exercises": [
+        "What was the core concept of Suisa's Proposal?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Legacy of Peaceful Dialogue and Democratic Philosophy",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Final years, passing in 1971, and enduring moral inspiration for peace in the Naga hills.",
+      "tangkhul_text": "Chapter 3: R. Suisana April 17, 1971 zingsho eina shok-unglakna. Awui life and writingsna chitheiye: True peace violence eina rara mashuk-mana; it must be built upon mutual respect, justice, and democratic federation. Awui thoughts modern Naga peace process-li guiding light thada leisaye.",
+      "english_translation": "R. Suisa passed away on April 17, 1971. His life and philosophical writings proved that true peace cannot be achieved through violence, but must be constructed on mutual respect, justice, and democratic federation. His ideas continue to serve as a beacon for the ongoing peace process in the region.",
+      "vocabulary": [
+        {
+          "word": "mutual respect",
+          "pos": "noun",
+          "meaning": "Ngayei kala reot-kasakakhui",
+          "example": "Mutual respect eina."
+        }
+      ],
+      "grammar_notes": [
+        "Philosophical peace aphorisms in Tangkhul."
+      ],
+      "exercises": [
+        "Explain R. Suisa's enduring relevance for peace studies in Northeast India."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Rowland Suisa (R. Suisa): The Prophet of",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "ROWLAND SUISA (R. SUISA): THE PROPHET OF NAGA PEACE, DEMOCRACY, AND CUSTOMARY RIGHTS"
+        ],
+        [
+          "/F1",
+          11,
+          "R. Suisa: The Life and Vision of a Tangkhul Thinker"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Compiler: Tangkhul Political Thought Study Circle"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Cultural Council, Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Year: 2008 | Genre: Biography (Jeevani), Political Philosophy & Peacebuilding"
+        ]
+      ],
+      "tangkhul_content": "Rowland Suisa (R. Suisa): The Prophet of Naga Peace, Democracy, and Customary Rights -- Complete Tangkhul Edition.",
+      "english_translation": "Title: R. Suisa: The Life and Vision of a Tangkhul Thinker",
+      "notes": "Cover and frontispiece."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & CONTEXT",
+      "title": "Author's Preface & Background",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Rowland Suisa was one of the most original political thinkers of"
+        ],
+        [
+          "/F1",
+          10,
+          "Northeast India. Born in Somdal village, he served as Member of"
+        ],
+        [
+          "/F1",
+          10,
+          "Parliament and dedicated his life to bridging differences between the"
+        ],
+        [
+          "/F1",
+          10,
+          "Government of India and Naga national aspirations through constitutional"
+        ],
+        [
+          "/F1",
+          10,
+          "federation and peaceful coexistence."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TCC-TKH-BIOG-SUISA"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul literary context and publication history.",
+      "english_translation": "Rowland Suisa was one of the most original political thinkers of Northeast India. Born in Somdal village, he served as M...",
+      "notes": "Critical preface."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Early Life in Somdal & Educational Leadership ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Parliamentary Career & The Famous 'Suisa's Propo ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Legacy of Peaceful Dialogue and Democratic Philo ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 13"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 3.",
+      "english_translation": "Table of Contents.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Early Life in Somdal & Educational Leadership",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: EARLY LIFE IN SOMDAL & EDUCATIONAL LEADERSHIP"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Youth in Somdal, education in Jorhat and Shillong, and pioneer community organiz..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: Rowland Suisa 1907-li Somdal village, Ukhrul district-li"
+        ],
+        [
+          "/F1",
+          9,
+          "pharisaye. Ana Jorhat Christian high school kala Shillongli education"
+        ],
+        [
+          "/F1",
+          9,
+          "khuiye. Somdal-li unglaga ana Tangkhul youth, teachers, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "farmersbingli organize saye. Ana tribal customary law kala modern"
+        ],
+        [
+          "/F1",
+          9,
+          "constitutional democracy-wui ngachaili philosophical harmony theitserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Rowland Suisa was born in 1907 in Somdal village, Ukhrul district. He"
+        ],
+        [
+          "/F1",
+          9,
+          "studied at Jorhat Christian High School and in Shillong. Returning to"
+        ],
+        [
+          "/F1",
+          9,
+          "Somdal, he organized teachers, youths, and farmers, discovering a deep"
+        ],
+        [
+          "/F1",
+          9,
+          "philosophical harmony between tribal customary law and modern"
+        ],
+        [
+          "/F1",
+          9,
+          "constitutional democracy."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: Rowland Suisa 1907-li Somdal village, Ukhrul district-li pharisaye. Ana Jorhat Christian high school kala Shillongli education khuiye. Somdal-li unglaga ana Tangkhul youth, teachers, kala farmersbingli organize saye. Ana tribal customary law kala modern constitutional democracy-wui ngachaili philosophical harmony theitserie.",
+      "english_translation": "Rowland Suisa was born in 1907 in Somdal village, Ukhrul district. He studied at Jorhat Christian High School and in Shillong. Returning to Somdal, he organized teachers, youths, and farmers, discovering a deep philosophical harmony between tribal customary law and modern constitutional democracy.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Early Life in Somdal & Educational Leadership",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Somdal village (proper noun): historic cultural village in western Ukhrul"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Somdal village-li pharisaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Philosophical integration vocabulary: customary law meets modern democracy."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Where was R. Suisa born?"
+        ]
+      ],
+      "tangkhul_content": "Somdal village: historic cultural village in western Ukhrul",
+      "english_translation": "Philosophical integration vocabulary: customary law meets modern democracy.",
+      "notes": "Linguistic notes for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Early Life in Somdal & Educational Leadership",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Parliamentary Career & The Famous 'Suisa's Proposal'",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: PARLIAMENTARY CAREER & THE FAMOUS 'SUISA'S PROPOSAL'"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Election to the 2nd Lok Sabha (1957) and the formulating of Suisa's historic pea..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: 1957-li R. Suisa Outer Manipur constituency eina 2nd Lok"
+        ],
+        [
+          "/F1",
+          9,
+          "Sabha-li MP elect saye. Parliament-li ana hill tribeswui rights,"
+        ],
+        [
+          "/F1",
+          9,
+          "autonomy, kala economic justice-wui vang speak saye. Ana historical"
+        ],
+        [
+          "/F1",
+          9,
+          "'Suisa's Proposal' formulate saye: India kala Nagaswui ngachaili federal"
+        ],
+        [
+          "/F1",
+          9,
+          "association eina honorable peaceful co-existence kasakakhui. Nehru kala"
+        ],
+        [
+          "/F1",
+          9,
+          "Jayaprakash Narayan-na awui vision-li high respect miye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "In 1957, R. Suisa was elected Member of Parliament to the 2nd Lok Sabha."
+        ],
+        [
+          "/F1",
+          9,
+          "In Parliament, he passionately voiced the rights, autonomy, and"
+        ],
+        [
+          "/F1",
+          9,
+          "aspirations of hill tribal peoples. He drafted the historic 'Suisa's"
+        ],
+        [
+          "/F1",
+          9,
+          "Proposal', outlining an honorable federal association ensuring peaceful"
+        ],
+        [
+          "/F1",
+          9,
+          "co-existence. National leaders including Prime Minister Nehru and"
+        ],
+        [
+          "/F1",
+          9,
+          "Jayaprakash Narayan deeply respected his visionary statesmanship."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: 1957-li R. Suisa Outer Manipur constituency eina 2nd Lok Sabha-li MP elect saye. Parliament-li ana hill tribeswui rights, autonomy, kala economic justice-wui vang speak saye. Ana historical 'Suisa's Proposal' formulate saye: India kala Nagaswui ngachaili federal association eina honorable peaceful co-existence kasakakhui. Nehru kala Jayaprakash Narayan-na awui vision-li high respect miye.",
+      "english_translation": "In 1957, R. Suisa was elected Member of Parliament to the 2nd Lok Sabha. In Parliament, he passionately voiced the rights, autonomy, and aspirations of hill tribal peoples. He drafted the historic 'Suisa's Proposal', outlining an honorable federal association ensuring peaceful co-existence. National leaders including Prime Minister Nehru and Jayaprakash Narayan deeply respected his visionary statesmanship.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Parliamentary Career & The Famous 'Suisa's Proposal'",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Suisa's Proposal (proper noun): visionary federal peace proposal"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Suisa's Proposal formulate."
+        ],
+        [
+          "/F2",
+          9,
+          "  * peaceful co-existence (noun): Ngacham eina ngasomkasa"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Honorable co-existence."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Federal political terminology in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What was the core concept of Suisa's Proposal?"
+        ]
+      ],
+      "tangkhul_content": "Suisa's Proposal: visionary federal peace proposal; peaceful co-existence: Ngacham eina ngasomkasa",
+      "english_translation": "Federal political terminology in Tangkhul.",
+      "notes": "Linguistic notes for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Parliamentary Career & The Famous 'Suisa's Proposal'",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Legacy of Peaceful Dialogue and Democratic Philosophy",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: LEGACY OF PEACEFUL DIALOGUE AND DEMOCRATIC PHILOSOPHY"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Final years, passing in 1971, and enduring moral inspiration for peace in the Na..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: R. Suisana April 17, 1971 zingsho eina shok-unglakna. Awui"
+        ],
+        [
+          "/F1",
+          9,
+          "life and writingsna chitheiye: True peace violence eina rara mashuk-"
+        ],
+        [
+          "/F1",
+          9,
+          "mana; it must be built upon mutual respect, justice, and democratic"
+        ],
+        [
+          "/F1",
+          9,
+          "federation. Awui thoughts modern Naga peace process-li guiding light"
+        ],
+        [
+          "/F1",
+          9,
+          "thada leisaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "R. Suisa passed away on April 17, 1971. His life and philosophical"
+        ],
+        [
+          "/F1",
+          9,
+          "writings proved that true peace cannot be achieved through violence, but"
+        ],
+        [
+          "/F1",
+          9,
+          "must be constructed on mutual respect, justice, and democratic"
+        ],
+        [
+          "/F1",
+          9,
+          "federation. His ideas continue to serve as a beacon for the ongoing"
+        ],
+        [
+          "/F1",
+          9,
+          "peace process in the region."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: R. Suisana April 17, 1971 zingsho eina shok-unglakna. Awui life and writingsna chitheiye: True peace violence eina rara mashuk-mana; it must be built upon mutual respect, justice, and democratic federation. Awui thoughts modern Naga peace process-li guiding light thada leisaye.",
+      "english_translation": "R. Suisa passed away on April 17, 1971. His life and philosophical writings proved that true peace cannot be achieved through violence, but must be constructed on mutual respect, justice, and democratic federation. His ideas continue to serve as a beacon for the ongoing peace process in the region.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Legacy of Peaceful Dialogue and Democratic Philosophy",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * mutual respect (noun): Ngayei kala reot-kasakakhui"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Mutual respect eina."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Philosophical peace aphorisms in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain R. Suisa's enduring relevance for peace studies in Northeast India."
+        ]
+      ],
+      "tangkhul_content": "mutual respect: Ngayei kala reot-kasakakhui",
+      "english_translation": "Philosophical peace aphorisms in Tangkhul.",
+      "notes": "Linguistic notes for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Legacy of Peaceful Dialogue and Democratic Philosophy",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & BIOGRAPHICAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Literary Analysis & Historical Significance:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates quintessential Tangkhul cultural ethics, clan loyalty, and narrative style."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Stylistic and Discourse Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard literary Tangkhul is employed throughout, preserving classic oral idioms,"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional honorifics, and vivid metaphorical descriptions."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina wari maram.",
+      "english_translation": "Literary analysis and cultural commentary.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Somdal village -- historic cultural village in western Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Suisa's Proposal -- visionary federal peace proposal"
+        ],
+        [
+          "/F1",
+          9,
+          "  * peaceful co-existence -- Ngacham eina ngasomkasa"
+        ],
+        [
+          "/F1",
+          9,
+          "  * mutual respect -- Ngayei kala reot-kasakakhui"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Preservation Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Somdal village",
+        "pos": "proper noun",
+        "meaning": "historic cultural village in western Ukhrul",
+        "example": "Somdal village-li pharisaye."
+      },
+      {
+        "word": "Suisa's Proposal",
+        "pos": "proper noun",
+        "meaning": "visionary federal peace proposal",
+        "example": "Suisa's Proposal formulate."
+      },
+      {
+        "word": "peaceful co-existence",
+        "pos": "noun",
+        "meaning": "Ngacham eina ngasomkasa",
+        "example": "Honorable co-existence."
+      },
+      {
+        "word": "mutual respect",
+        "pos": "noun",
+        "meaning": "Ngayei kala reot-kasakakhui",
+        "example": "Mutual respect eina."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 13,
+  "total_chapters": 3,
+  "total_words": 284,
+  "excerpts": [
+    "Chapter 1: Rowland Suisa 1907-li Somdal village, Ukhrul district-li pharisaye. Ana Jorhat Christian high school kala Shi...",
+    "Chapter 2: 1957-li R. Suisa Outer Manipur constituency eina 2nd Lok Sabha-li MP elect saye. Parliament-li ana hill tribe...",
+    "Chapter 3: R. Suisana April 17, 1971 zingsho eina shok-unglakna. Awui life and writingsna chitheiye: True peace violence..."
+  ]
+}

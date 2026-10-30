@@ -93,3 +93,4 @@ class ArticleRecord:
         valid_fields = {f for f in cls.__dataclass_fields__}
         filtered = {k: v for k, v in data.items() if k in valid_fields}
         return cls(**filtered)
+

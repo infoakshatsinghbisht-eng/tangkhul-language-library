@@ -14,9 +14,9 @@ EXPORTS_DIR = WORKSPACE / "data" / "exports" / "articles"
 
 
 def test_articles_count_and_ids() -> None:
-    """Verify that all 10 research articles are correctly registered."""
+    """Verify that all 18 research articles are correctly registered."""
     articles = get_all_articles_data()
-    assert len(articles) == 10
+    assert len(articles) == 18
     ids = [a["id"] for a in articles]
     assert "ART-LING-001" in ids  # Mortensen & Keogh 2003
     assert "ART-LING-002" in ids  # Mortensen & Miller 2013
@@ -28,6 +28,14 @@ def test_articles_count_and_ids() -> None:
     assert "ART-LING-008" in ids  # Khayi & Subbarao 2012
     assert "ART-CULT-001" in ids  # Ruivah 1987 (Luira Phanit)
     assert "ART-CULT-002" in ids  # Luikham & Shimray 2004 (Hao Ngashan)
+    assert "ART-LING-009" in ids  # Kinship & consanguinity
+    assert "ART-LING-010" in ids  # Grammaticalization of motion verbs
+    assert "ART-LING-011" in ids  # Tone sandhi
+    assert "ART-LING-012" in ids  # Syllable weight
+    assert "ART-CULT-003" in ids  # Ethnobotany & herbal taxonomy
+    assert "ART-CULT-004" in ids  # Folk riddles
+    assert "ART-CULT-005" in ids  # Migration routes
+    assert "ART-CULT-006" in ids  # Weaving & textile semiotics
 
 
 def test_article_record_model_validation() -> None:
@@ -64,7 +72,7 @@ def test_articles_exported_files() -> None:
 def test_article_catalogue_search() -> None:
     """Verify search functionality across articles."""
     catalogue = ArticleCatalogue.load_default()
-    assert len(catalogue.list_all()) == 10
+    assert len(catalogue.list_all()) == 18
 
     # Search by author
     mortensen_arts = catalogue.search(author="Mortensen")
@@ -72,7 +80,7 @@ def test_article_catalogue_search() -> None:
 
     # Search by subject
     ling_arts = catalogue.search(subject="Linguistics")
-    assert len(ling_arts) >= 5
+    assert len(ling_arts) >= 8
 
     # Search by query
     luira_arts = catalogue.search(query="Luira")
@@ -83,3 +91,4 @@ def test_article_catalogue_search() -> None:
     art = get_article("ART-LING-003")
     assert art is not None
     assert "Matisoff" in art["authors"][0]
+

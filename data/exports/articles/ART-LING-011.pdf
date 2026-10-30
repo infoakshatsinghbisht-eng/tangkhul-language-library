@@ -1,0 +1,286 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1195 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(OPTIMALITY THEORETIC ACCOUNT OF TONE SANDHI IN TANGKHUL NOMINAL COMPOUNDING) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Dr. Kapesa Khayi) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Phonological Studies of the North East \(NEILS Occasional Papers\) | Year: 2015) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Theoretical Phonology & Optimality Theory | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(When monosyllabic morphemes concatenate into compound nouns in Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(Naga, systematic tonal alternations occur to avoid adjacent sharp pitch) Tj
+0 -13 Td
+/F1 9 Tf
+(falls within the prosodic word. This paper formulates an Optimality) Tj
+0 -13 Td
+/F1 9 Tf
+(Theoretic \(OT\) analysis of Tangkhul tone sandhi. We show that the) Tj
+0 -13 Td
+/F1 9 Tf
+(interaction of markedness constraints \(*NoExtremeDrop, OCP-Tone\) ranked) Tj
+0 -13 Td
+/F1 9 Tf
+(above faithfulness constraints \(Ident-IO\(Tone\)\) successfully accounts) Tj
+0 -13 Td
+/F1 9 Tf
+(for right-edge register raising.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Optimality Theory, Tone Sandhi, Phonology, Constraints, Ukhrul, F0) Tj
+0 -14 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 981 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. THE EMPIRICAL PROBLEM OF TANGKHUL SANDHI) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Standard Ukhrul Tangkhul possesses three tones: High \(H, 55\), Mid \(M,) Tj
+0 -13 Td
+/F1 9 Tf
+(33\), and Low \(L, 21\). When a High-toned base compounds with a Low-toned) Tj
+0 -13 Td
+/F1 9 Tf
+(nominal root, the surface output is consistently High-Mid \(H-M\) rather) Tj
+0 -13 Td
+/F1 9 Tf
+(than the expected H-L. For example, lui \(H, field\) + ram \(L, land\)) Tj
+0 -13 Td
+/F1 9 Tf
+(surfaces as [lui-ram] with Mid pitch on the second syllable.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * lui [55] + ram [21] -> lui-ram [55-33] : cultivated field territory) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Right-edge Low raising to Mid.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * thang [55] + zingsho [33] -> thang-zingsho [55-33] : broad daylight) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Faithful Mid retention.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 946 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. OT CONSTRAINT HIERARCHY) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(We propose the constraint ranking: *Drop-HL >> OCP\(Tone\) >> Ident-) Tj
+0 -13 Td
+/F1 9 Tf
+(IO\(Tone\). The high-ranked markedness constraint *Drop-HL prohibits a) Tj
+0 -13 Td
+/F1 9 Tf
+(two-register pitch plunge \(55 to 21\) within a single prosodic word.) Tj
+0 -13 Td
+/F1 9 Tf
+(Candidate [55-33] incurs a single violation of low-ranked faithfulness) Tj
+0 -13 Td
+/F1 9 Tf
+(Ident-IO\(Tone\), but decisively eliminates the faithful candidate) Tj
+0 -13 Td
+/F1 9 Tf
+([55-21].) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Candidate A: [55-21] : Violates *Drop-HL) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Fatal violation on markedness.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Candidate B: [55-33] : Optimal winner) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Preserves optimal prosodic contour.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 647 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. COMPOUND TRUNCATION AND CODA EFFECTS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Syllables with glottal stop codas inhibit sandhi raising, behaving as) Tj
+0 -13 Td
+/F1 9 Tf
+(opaque phonological boundaries. This demonstrates that laryngeal) Tj
+0 -13 Td
+/F1 9 Tf
+(features interact directly with tonal autosegmental licensing in) Tj
+0 -13 Td
+/F1 9 Tf
+(Tangkhul phonology.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Glottal opacity : Coda ['] blocks tone assimilation) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Laryngeal feature licensing.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 725 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Khayi, Kapesa. 2015. Tone Sandhi in Tangkhul Compounding. NEILS) Tj
+0 -13 Td
+/F1 9 Tf
+(Occasional Papers 4: 145-168.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Prince, Alan & Paul Smolensky. 2004. Optimality Theory: Constraint) Tj
+0 -13 Td
+/F1 9 Tf
+(Interaction in Generative Grammar. Blackwell.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Yip, Moira. 2002. Tone. Cambridge University Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000000292 00000 n 
+0000000428 00000 n 
+0000001675 00000 n 
+0000001811 00000 n 
+0000002843 00000 n 
+0000002980 00000 n 
+0000003978 00000 n 
+0000004116 00000 n 
+0000004815 00000 n 
+0000004953 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+5730
+%%EOF

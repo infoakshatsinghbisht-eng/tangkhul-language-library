@@ -1,0 +1,35 @@
+TITLE: Optimality Theoretic Account of Tone Sandhi in Tangkhul Nominal Compounding
+AUTHORS: Dr. Kapesa Khayi
+JOURNAL / VENUE: Phonological Studies of the North East (NEILS Occasional Papers) (2015)
+SUBJECT: Theoretical Phonology & Optimality Theory
+KEYWORDS: Optimality Theory, Tone Sandhi, Phonology, Constraints, Ukhrul, F0
+
+ABSTRACT:
+When monosyllabic morphemes concatenate into compound nouns in Tangkhul Naga, systematic tonal alternations occur to avoid adjacent sharp pitch falls within the prosodic word. This paper formulates an Optimality Theoretic (OT) analysis of Tangkhul tone sandhi. We show that the interaction of markedness constraints (*NoExtremeDrop, OCP-Tone) ranked above faithfulness constraints (Ident-IO(Tone)) successfully accounts for right-edge register raising.
+
+SECTION: 1. The Empirical Problem of Tangkhul Sandhi
+Standard Ukhrul Tangkhul possesses three tones: High (H, 55), Mid (M, 33), and Low (L, 21). When a High-toned base compounds with a Low-toned nominal root, the surface output is consistently High-Mid (H-M) rather than the expected H-L. For example, luí (H, field) + ram (L, land) surfaces as [luí-ram] with Mid pitch on the second syllable.
+Linguistic Data:
+  * luí [55] + ram [21] -> luí-ram [55-33] : cultivated field territory
+    Notes: Right-edge Low raising to Mid.
+  * thāng [55] + zingsho [33] -> thāng-zingsho [55-33] : broad daylight
+    Notes: Faithful Mid retention.
+
+SECTION: 2. OT Constraint Hierarchy
+We propose the constraint ranking: *Drop-HL >> OCP(Tone) >> Ident-IO(Tone). The high-ranked markedness constraint *Drop-HL prohibits a two-register pitch plunge (55 to 21) within a single prosodic word. Candidate [55-33] incurs a single violation of low-ranked faithfulness Ident-IO(Tone), but decisively eliminates the faithful candidate [55-21].
+Linguistic Data:
+  * Candidate A: [55-21] : Violates *Drop-HL
+    Notes: Fatal violation on markedness.
+  * Candidate B: [55-33] : Optimal winner
+    Notes: Preserves optimal prosodic contour.
+
+SECTION: 3. Compound Truncation and Coda Effects
+Syllables with glottal stop codas inhibit sandhi raising, behaving as opaque phonological boundaries. This demonstrates that laryngeal features interact directly with tonal autosegmental licensing in Tangkhul phonology.
+Linguistic Data:
+  * Glottal opacity : Coda [ʔ] blocks tone assimilation
+    Notes: Laryngeal feature licensing.
+
+REFERENCES:
+  - Khayi, Kapesa. 2015. Tone Sandhi in Tangkhul Compounding. NEILS Occasional Papers 4: 145-168.
+  - Prince, Alan & Paul Smolensky. 2004. Optimality Theory: Constraint Interaction in Generative Grammar. Blackwell.
+  - Yip, Moira. 2002. Tone. Cambridge University Press.

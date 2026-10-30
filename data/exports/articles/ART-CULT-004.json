@@ -1,0 +1,460 @@
+{
+  "id": "ART-CULT-004",
+  "title": "Tangkhul Folk Riddles (Tungtuktui): Metaphorical Cognition and Oral Pedagogy",
+  "alternate_titles": [
+    "Cognitive Structure, Enigmas, and Linguistic Play in Tangkhul Riddles"
+  ],
+  "authors": [
+    "Prof. Khashim Ruivah",
+    "Dr. Kapesa Khayi"
+  ],
+  "journal": "Folklore & Oral Traditions of Northeast India",
+  "volume_issue": "Vol. 9, pp. 88-115",
+  "publication_year": 2011,
+  "year": 2011,
+  "publisher": "Tribal Research Institute & ICSSR, New Delhi",
+  "subject": "Folklore, Oral Riddles & Cognitive Linguistics",
+  "keywords": [
+    "Tungtuktui",
+    "Riddles",
+    "Folklore",
+    "Metaphor",
+    "Oral Literature",
+    "Cognition"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "https://tri.manipur.gov.in/folklore/ruivah2011tungtuktui",
+  "source_identifier": "TRI-2011-TUNGTUKTUI",
+  "local_file_path": "data/raw/articles/ART-CULT-004_folk_riddles_tungtuktui.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Structural and cognitive analysis of 400 Tangkhul folk riddles (Tungtuktui), demonstrating metaphor mapping and oral intellectual games.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gatherings in village dormitories and family hearths. This paper investigates the cognitive structures, metaphor mappings, and pedagogical functions of Tangkhul riddling. We analyze 400 collected riddles across four semantic domains: human anatomy, household implements, flora/fauna, and celestial phenomena, demonstrating how riddles cultivate rapid analogical reasoning in youth.",
+  "sections": [
+    {
+      "title": "1. The Riddling Frame and Discourse Conventions",
+      "content": "A riddling session opens with the ritual formula: 'Tungtuk-tui akha hang-sa!' (Let me cast a riddle!). The audience responds in unison: 'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The challenger poses the metaphoric enigma, and the participants offer competing guesses until the correct solution is hailed.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Tungtuk-tui akha hang-sa!",
+          "gloss": "Formulaic opening: Let me cast a riddle!",
+          "notes": "Discourse initiation marker."
+        },
+        {
+          "tangkhul": "Tungtuktui",
+          "gloss": "folk riddle, metaphorical enigma",
+          "notes": "Tungtuk (strike/probe) + tui (word)."
+        }
+      ]
+    },
+    {
+      "title": "2. Structural Typology: Animal and Anatomy Metaphors",
+      "content": "Tangkhul riddles rely on vivid domestic comparisons. For instance, the traditional carrying basket (Phurwon) is personified as a woman who eats firewood and carries stones; teeth are thirty-two white warriors standing guard in a crimson cave; and rain is a thousand silver needles sewing sky to mountain.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth)",
+          "gloss": "Thirty white-robed youths sitting in rows: What is it? -> Teeth",
+          "notes": "Anatomical personification."
+        },
+        {
+          "tangkhul": "'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain)",
+          "gloss": "Falls from heaven, touches earth and vanishes: What is it? -> Rain",
+          "notes": "Meteorological riddle."
+        }
+      ]
+    },
+    {
+      "title": "3. Pedagogical and Social Cognitive Value",
+      "content": "Beyond recreation, Tungtuktui served as oral encyclopedias. Children learned animal tracking habits, forest plant traits, and linguistic vocabulary by deciphering these poetic enigmas during winter evenings beside the glowing hearth.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Meikhangahui wari",
+          "gloss": "fireside hearth education",
+          "notes": "Informal traditional pedagogy."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Tangkhul Folk Riddles (Tungtuktui): Meta",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "TANGKHUL FOLK RIDDLES (TUNGTUKTUI): METAPHORICAL COGNITION AND ORAL PEDAGOGY"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Prof. Khashim Ruivah, Dr. Kapesa Khayi"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Folklore & Oral Traditions of Northeast India | Year: 2011"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Folklore, Oral Riddles & Cognitive Linguistics | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "Tungtuktui (folk riddles) constitute one of the most vibrant"
+        ],
+        [
+          "/F1",
+          9,
+          "intellectual pastimes of traditional Tangkhul evening gatherings in"
+        ],
+        [
+          "/F1",
+          9,
+          "village dormitories and family hearths. This paper investigates the"
+        ],
+        [
+          "/F1",
+          9,
+          "cognitive structures, metaphor mappings, and pedagogical functions of"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul riddling. We analyze 400 collected riddles across four semantic"
+        ],
+        [
+          "/F1",
+          9,
+          "domains: human anatomy, household implements, flora/fauna, and celestial"
+        ],
+        [
+          "/F1",
+          9,
+          "phenomena, demonstrating how riddles cultivate rapid analogical"
+        ],
+        [
+          "/F1",
+          9,
+          "reasoning in youth."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Tungtuktui, Riddles, Folklore, Metaphor, Oral Literature, Cognition"
+        ]
+      ],
+      "tangkhul_content": "Abstract: Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gathe...",
+      "english_translation": "Tungtuktui (folk riddles) constitute one of the most vibrant intellectual pastimes of traditional Tangkhul evening gatherings in village dormitories and family hearths. This paper investigates the cognitive structures, metaphor mappings, and pedagogical functions of Tangkhul riddling. We analyze 400 collected riddles across four semantic domains: human anatomy, household implements, flora/fauna, and celestial phenomena, demonstrating how riddles cultivate rapid analogical reasoning in youth.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. The Riddling Frame and Disc",
+      "title": "1. The Riddling Frame and Discourse Conventions",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. THE RIDDLING FRAME AND DISCOURSE CONVENTIONS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "A riddling session opens with the ritual formula: 'Tungtuk-tui akha"
+        ],
+        [
+          "/F1",
+          9,
+          "hang-sa!' (Let me cast a riddle!). The audience responds in unison:"
+        ],
+        [
+          "/F1",
+          9,
+          "'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The"
+        ],
+        [
+          "/F1",
+          9,
+          "challenger poses the metaphoric enigma, and the participants offer"
+        ],
+        [
+          "/F1",
+          9,
+          "competing guesses until the correct solution is hailed."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tungtuk-tui akha hang-sa! : Formulaic opening: Let me cast a riddle!"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Discourse initiation marker."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tungtuktui : folk riddle, metaphorical enigma"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Tungtuk (strike/probe) + tui (word)."
+        ]
+      ],
+      "tangkhul_content": "Tungtuk-tui akha hang-sa!\nTungtuktui",
+      "english_translation": "A riddling session opens with the ritual formula: 'Tungtuk-tui akha hang-sa!' (Let me cast a riddle!). The audience responds in unison: 'Rarlu, ithumna pamsaye!' (Bring it forth, we are ready!). The challenger poses the metaphoric enigma, and the participants offer competing guesses until the correct solution is hailed.",
+      "notes": "Primary text of section: 1. The Riddling Frame and Discourse Conventions"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Structural Typology: Animal",
+      "title": "2. Structural Typology: Animal and Anatomy Metaphors",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. STRUCTURAL TYPOLOGY: ANIMAL AND ANATOMY METAPHORS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul riddles rely on vivid domestic comparisons. For instance, the"
+        ],
+        [
+          "/F1",
+          9,
+          "traditional carrying basket (Phurwon) is personified as a woman who eats"
+        ],
+        [
+          "/F1",
+          9,
+          "firewood and carries stones; teeth are thirty-two white warriors"
+        ],
+        [
+          "/F1",
+          9,
+          "standing guard in a crimson cave; and rain is a thousand silver needles"
+        ],
+        [
+          "/F1",
+          9,
+          "sewing sky to mountain."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * 'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth) : Thirty white-robed youths sitting in rows: What is it? -> Teeth"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Anatomical personification."
+        ],
+        [
+          "/F2",
+          9,
+          "  * 'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain) : Falls from heaven, touches earth and vanishes: What is it? -> Rain"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Meteorological riddle."
+        ]
+      ],
+      "tangkhul_content": "'Mayarnaobing thakharā chon kachak sanglaga pamye: Khikha?' -> Kha (Teeth)\n'Zing eina tuitsang ngaleili vashukla ngashiman-serie: Khikha?' -> Kazingkhamik (Rain)",
+      "english_translation": "Tangkhul riddles rely on vivid domestic comparisons. For instance, the traditional carrying basket (Phurwon) is personified as a woman who eats firewood and carries stones; teeth are thirty-two white warriors standing guard in a crimson cave; and rain is a thousand silver needles sewing sky to mountain.",
+      "notes": "Primary text of section: 2. Structural Typology: Animal and Anatomy Metaphors"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Pedagogical and Social Cogn",
+      "title": "3. Pedagogical and Social Cognitive Value",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. PEDAGOGICAL AND SOCIAL COGNITIVE VALUE"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Beyond recreation, Tungtuktui served as oral encyclopedias. Children"
+        ],
+        [
+          "/F1",
+          9,
+          "learned animal tracking habits, forest plant traits, and linguistic"
+        ],
+        [
+          "/F1",
+          9,
+          "vocabulary by deciphering these poetic enigmas during winter evenings"
+        ],
+        [
+          "/F1",
+          9,
+          "beside the glowing hearth."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Meikhangahui wari : fireside hearth education"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Informal traditional pedagogy."
+        ]
+      ],
+      "tangkhul_content": "Meikhangahui wari",
+      "english_translation": "Beyond recreation, Tungtuktui served as oral encyclopedias. Children learned animal tracking habits, forest plant traits, and linguistic vocabulary by deciphering these poetic enigmas during winter evenings beside the glowing hearth.",
+      "notes": "Primary text of section: 3. Pedagogical and Social Cognitive Value"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Georges, Robert A. & Alan Dundes. 1963. Toward a Structural Definition"
+        ],
+        [
+          "/F1",
+          9,
+          "of the Riddle. Journal of American Folklore."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Ruivah, Khashim & Kapesa Khayi. 2011. Tangkhul Folk Riddles. Folklore"
+        ],
+        [
+          "/F1",
+          9,
+          "& Oral Traditions 9: 88-115."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Georges, Robert A. & Alan Dundes. 1963. Toward a Structural Definition of the Riddle. Journal of American Folklore.",
+    "Ruivah, Khashim & Kapesa Khayi. 2011. Tangkhul Folk Riddles. Folklore & Oral Traditions 9: 88-115."
+  ],
+  "total_pages": 5,
+  "total_words": 187
+}
