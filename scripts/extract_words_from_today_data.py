@@ -30,7 +30,11 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 # Ensure UTF-8 output on Windows console
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 ROOT = Path(__file__).resolve().parent.parent
 EXPORTS_DIR = ROOT / "data" / "exports"

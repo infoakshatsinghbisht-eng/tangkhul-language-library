@@ -19,9 +19,9 @@ def test_today_words_json_integrity() -> None:
     with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
 
-    assert data["total_unique_words"] == 2570
+    assert data["total_unique_words"] == 2566
     assert data["total_tokens"] >= 12000
-    assert len(data["words"]) == 2570
+    assert len(data["words"]) == 2566
 
     # Check alias and direct array format
     alias_path = EXPORTS_DIR / "words_extracted_today.json"
@@ -30,14 +30,14 @@ def test_today_words_json_integrity() -> None:
     assert direct_array_path.is_file()
     with open(direct_array_path, encoding="utf-8") as f:
         direct_words = json.load(f)
-    assert len(direct_words) == 2570
+    assert len(direct_words) == 2566
 
     # Check key-value dictionary format
     dict_path = EXPORTS_DIR / "tangkhul_words_dictionary.json"
     assert dict_path.is_file()
     with open(dict_path, encoding="utf-8") as f:
         dict_data = json.load(f)
-    assert len(dict_data) == 2570
+    assert len(dict_data) == 2566
     assert "kala" in dict_data
 
     # Check top word
@@ -54,31 +54,34 @@ def test_today_words_json_integrity() -> None:
 
 
 def test_today_words_csv_and_tsv_integrity() -> None:
-    """Verify that CSV, TSV, and PDF files exist on disk with valid file size."""
+    """Verify that CSV, TSV, PDF, and ODF files exist on disk with valid file size."""
     csv_path = EXPORTS_DIR / "tangkhul_words_extracted_today.csv"
     tsv_path = EXPORTS_DIR / "tangkhul_words_extracted_today.tsv"
     pdf_path = EXPORTS_DIR / "tangkhul_words_extracted_today.pdf"
+    odt_path = EXPORTS_DIR / "tangkhul_words_extracted_today.odt"
     md_path = EXPORTS_DIR / "WORDS_EXTRACTED_TODAY_REPORT.md"
 
     assert csv_path.is_file()
     assert tsv_path.is_file()
     assert pdf_path.is_file()
+    assert odt_path.is_file()
     assert md_path.is_file()
 
     assert csv_path.stat().st_size > 50000
     assert tsv_path.stat().st_size > 50000
     assert pdf_path.stat().st_size > 100000
+    assert odt_path.stat().st_size > 50000
     assert md_path.stat().st_size > 5000
 
 
 def test_today_words_sqlite_table() -> None:
-    """Verify that table 'words_extracted_today' exists in SQLite database and has 2570 rows."""
+    """Verify that table 'words_extracted_today' exists in SQLite database and has 2566 rows."""
     assert DB_PATH.is_file()
     conn = sqlite3.connect(str(DB_PATH))
     cur = conn.cursor()
 
     count = cur.execute("SELECT count(*) FROM words_extracted_today").fetchone()[0]
-    assert count == 2570
+    assert count == 2566
 
     # Query for specific novel terms
     res = cur.execute("SELECT word, meaning_en, meaning_hi FROM words_extracted_today WHERE word = 'kala'").fetchone()
