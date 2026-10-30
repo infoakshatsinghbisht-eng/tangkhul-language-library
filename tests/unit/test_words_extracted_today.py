@@ -23,6 +23,23 @@ def test_today_words_json_integrity() -> None:
     assert data["total_tokens"] >= 12000
     assert len(data["words"]) == 2570
 
+    # Check alias and direct array format
+    alias_path = EXPORTS_DIR / "words_extracted_today.json"
+    assert alias_path.is_file()
+    direct_array_path = EXPORTS_DIR / "extracted_words.json"
+    assert direct_array_path.is_file()
+    with open(direct_array_path, encoding="utf-8") as f:
+        direct_words = json.load(f)
+    assert len(direct_words) == 2570
+
+    # Check key-value dictionary format
+    dict_path = EXPORTS_DIR / "tangkhul_words_dictionary.json"
+    assert dict_path.is_file()
+    with open(dict_path, encoding="utf-8") as f:
+        dict_data = json.load(f)
+    assert len(dict_data) == 2570
+    assert "kala" in dict_data
+
     # Check top word
     top_word = data["words"][0]
     assert top_word["rank"] == 1
@@ -77,3 +94,4 @@ def test_today_words_sqlite_table() -> None:
     assert biog_count >= 400
 
     conn.close()
+
