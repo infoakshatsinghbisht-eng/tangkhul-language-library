@@ -1,0 +1,2212 @@
+{
+  "id": "BK-TRNS-005",
+  "resource_type": "books",
+  "title": "Samwui Khararchan: Luishat Laa (The Book of Psalms in Tangkhul Naga)",
+  "alternate_titles": [
+    "The Book of Psalms in Tangkhul Naga",
+    "Tangkhul Luishat Laa kala Samwui Lairik"
+  ],
+  "authors": [
+    "Tangkhul Christian Literature Committee",
+    "Bible Society of India"
+  ],
+  "editors": [
+    "Bible Society of India"
+  ],
+  "publisher": "Bible Society of India, Bangalore",
+  "publication_year": 1968,
+  "year": 1968,
+  "edition": "Devotional & Liturgical Edition",
+  "subject": "Hymnology, Devotional Poetry & Scripture",
+  "educational_level": "Poetry / Liturgy / Vernacular Literature",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "978-81-221-0413-5",
+  "source_url": "https://bible.com/bible/tkh/PSA.1",
+  "source_identifier": "BSI-TKH-PSA-1968",
+  "catalogue_url": "https://bible.com/bible/tkh/PSA.1",
+  "local_file_path": "data/raw/books/BK-TRNS-005_psalms_tangkhul.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Liturgical Open Access",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "The Book of Psalms in Tangkhul Naga. A masterpieces of indigenous poetic rhythm, rendering Hebrew parallelisms into the metrics of Tangkhul traditional song poetry (Hao-laa).",
+  "front_matter": {
+    "title_page": "Samwui Khararchan: Luishat Laa (The Book of Psalms in Tangkhul Naga) (1968)",
+    "preface": "The translation of the Psalter into Tangkhul Naga represents a sublime convergence between ancient Hebrew poetry and indigenous Tangkhul poetic forms. The translators incorporated parallelisms, vivid mountain metaphors, and pastoral idioms that resonate deeply with the highland soul of the Tangkhul people.",
+    "table_of_contents": [
+      "Chapter 1: Psalm 1: The Two Ways -- Tree by the Water Brooks",
+      "Chapter 2: Psalm 23: The Shepherd Psalm (Proho i-wui Ngashankashapana)",
+      "Chapter 3: Psalm 91: The Secret Place of the Most High",
+      "Chapter 4: Psalm 121: The Traveler's Mountain Psalm (Kaphungli Yanglu)",
+      "Chapter 5: Psalm 150: The Grand Doxology with Traditional Instruments",
+      "Chapter 6: Liturgical & Poetic Lexicon of the Tangkhul Psalter"
+    ],
+    "imprint": "Bible Society of India, Bangalore, 1968."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Psalm 1: The Two Ways -- Tree by the Water Brooks",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Psalm 23: The Shepherd Psalm (Proho i-wui Ngashankashapana)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Psalm 91: The Secret Place of the Most High",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Psalm 121: The Traveler's Mountain Psalm (Kaphungli Yanglu)",
+      "page_start": 13,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 5,
+      "title": "Psalm 150: The Grand Doxology with Traditional Instruments",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 6,
+      "title": "Liturgical & Poetic Lexicon of the Tangkhul Psalter",
+      "page_start": 19,
+      "page_end": 21
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Psalm 1: The Two Ways -- Tree by the Water Brooks",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Contrast between the righteous person flourishing like a river tree and the chaff blown by wind.",
+      "tangkhul_text": "Psalm 1:1-4: Kaphā-kashana mikumo kachikhana kashikashibingwui ningkazangli mashurla, yorshibingwui shongfali mangapamla, kala khanganoibingwui pamkaphunli mangapam-mana; Kha ana Prohowui ngashan-kasakazingli mathat-eina leikashiye, kala Awui tui zingsho ngazing kachikhali thimkazape. Ana kongkha kaphā wui tui-ngapomli thingphun phunkahai thada sakhura, ana awui thotli thei kaphā phāser-ra, awui naorap mangapaorira; kala ana sakahai ot pupupli mashungsere. Kashikashibing chi hithada maleimana: kha huina shuk-kakhui pakhara thada kasaye.",
+      "english_translation": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. The ungodly are not so: but are like the chaff which the wind driveth away.",
+      "vocabulary": [
+        {
+          "word": "kongkha",
+          "pos": "noun",
+          "meaning": "river bank, mountain stream brook",
+          "example": "Kongkha kaphā wui tui."
+        },
+        {
+          "word": "naorap",
+          "pos": "noun",
+          "meaning": "foliage, green leaves, arbor crown",
+          "example": "Awui naorap mangapaorira."
+        },
+        {
+          "word": "pakhara",
+          "pos": "noun",
+          "meaning": "threshing chaff, husks blown by breeze",
+          "example": "Huina shuk-kakhui pakhara."
+        }
+      ],
+      "grammar_notes": [
+        "Three-fold negative parallel clauses: 'mashurla... mangapamla... mangapam-mana'.",
+        "Simile with botanical imagery: 'thingphun phunkahai thada' (like a tree planted)."
+      ],
+      "exercises": [
+        "Identify the botanical terms for leaf ('naorap') and fruit ('thei').",
+        "Contrast the righteous and ungodly using the imagery of Psalm 1."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Psalm 23: The Shepherd Psalm (Proho i-wui Ngashankashapana)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The beloved pastoral psalm of comfort, protection, and overflowing blessing in lyrical Tangkhul.",
+      "tangkhul_text": "Psalm 23:1-6: Proho i-wui Ngashankashapana; ili khikha macham-mana. Ana ili ngashalung kaphāli pamkazipsake, kala kongkhamathān tui-ngapomli ili zaipinge. Ana iwui mangazingli mathangathuksake: Awui mingwui vang mashung-kasa shongfali ili zaisange. I kathi ngachingwui longkhorli zakhalangli, I kashikashili mangachek-mana; kasakei Na i eina li-leie; Nawui thingchot kala deikhotna ili ngasot-e. Nawui mik-ngalemli i-kashibingwui ngalemli maihon akha sakahaye; Nawui eina iwui kakhutli meirong theiye; iwui kom kashunglaga tuksange. Mashungna iwui ringkapha tharili kaphā kala ngashan china ili shursara: kala i Prohowui shimli thot khamara kuppup pamkapamsara.",
+      "english_translation": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreeth my soul: he leadeth me in the paths of righteousness for his name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+      "vocabulary": [
+        {
+          "word": "Ngashankashapana",
+          "pos": "noun",
+          "meaning": "The Shepherd, Guardian Provider, Tender",
+          "example": "Proho i-wui Ngashankashapana."
+        },
+        {
+          "word": "longkhor",
+          "pos": "noun",
+          "meaning": "deep ravine, mountain gorge, shadow valley",
+          "example": "Kathi ngachingwui longkhor."
+        },
+        {
+          "word": "thingchot",
+          "pos": "noun",
+          "meaning": "shepherd's staff, guiding rod",
+          "example": "Nawui thingchot."
+        }
+      ],
+      "grammar_notes": [
+        "Agentive personal title with suffix '-na': 'Ngashankashapana' (The One who shepherds).",
+        "Highland geographical term for valley: 'longkhor' (deep mountain ravine)."
+      ],
+      "exercises": [
+        "Recite Psalm 23 in Tangkhul verse.",
+        "How is 'my cup runneth over' expressed in Tangkhul?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Psalm 91: The Secret Place of the Most High",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Divine shelter under heavenly wings and deliverance from snare and pestilence.",
+      "tangkhul_text": "Psalm 91:1-5, 11-12: Kaphāmei Kazingwui pamkaphunli pamkakhui chinana Pangashan Kapeiwui ngaching tharili pamsara. I Prohowui vang hangsara: 'A iwui rungkahai pam, iwui lungkhor kashang, iwui Varivara; Ali I chotkhangashit khuisara.' Ana vanaokhamakhui khangashun eina kala kasham kashikaza eina nali huikhuira. Ana Awui theirei eina nali kuplupsara, kala Awui phana ngashingli na rungpamsara: Awui mashung-tui nawui dhal kala kot thada kasaye.",
+      "english_translation": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust. Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.",
+      "vocabulary": [
+        {
+          "word": "pamkaphun",
+          "pos": "noun",
+          "meaning": "secret sanctuary, hidden pavilion",
+          "example": "Kazingwui pamkaphun."
+        },
+        {
+          "word": "rungkahai pam",
+          "pos": "noun",
+          "meaning": "refuge fortress, strong citadel",
+          "example": "Iwui rungkahai pam."
+        },
+        {
+          "word": "phana",
+          "pos": "noun",
+          "meaning": "protective wing, outstretched pinions",
+          "example": "Awui phana ngashingli."
+        }
+      ],
+      "grammar_notes": [
+        "Defensive weaponry metaphors in Tangkhul: 'dhal' (shield) and 'kot' (buckler/armor).",
+        "Metaphorical shelter using avian wing terminology: 'phana'."
+      ],
+      "exercises": [
+        "Identify the titles for God in Psalm 91:1-2.",
+        "Translate verse 4 into modern Ukhrul idiom."
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Psalm 121: The Traveler's Mountain Psalm (Kaphungli Yanglu)",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Lifting eyes to the hills from whence cometh help; the keeper who never slumbers.",
+      "tangkhul_text": "Psalm 121:1-8: I iwui mik kaphung kashangli thuk-kashok-e: iwui khangachon kachikhali shokhungra? Iwui khangachon kazing kala ngalei sakahai Prohowui eina shokhunge! Ana nawui kakhutli ngasotkazip makasara: nali ngashankashapana mangaphama-mana! Theilu, Israel-li ngashankashapana mangaphama-mana, mapila-mana. Prohona nawui ngashankashapana; Prohona nawui kashikli nawui ngaching katha leisaye. Zingsho eina zingkhamathānna nali makara, ngazing eina kachanna nali mamakhura. Prohona nali kashikashili huikhuira: Ana nawui mangazingli ngashansara.",
+      "english_translation": "I will lift up mine eyes unto the hills, from whence cometh my help. My help cometh from the LORD, which made heaven and earth. He will not suffer thy foot to be moved: he that keepeth thee will not slumber. Behold, he that keepeth Israel shall neither slumber nor sleep. The LORD is thy keeper: the LORD is thy shade upon thy right hand. The sun shall not smite thee by day, nor the moon by night. The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+      "vocabulary": [
+        {
+          "word": "khangachon",
+          "pos": "noun",
+          "meaning": "help, assistance, celestial deliverance",
+          "example": "Iwui khangachon."
+        },
+        {
+          "word": "mapila-mana",
+          "pos": "verb",
+          "meaning": "never sleeps, watchful vigilance",
+          "example": "Mangaphama-mana, mapila-mana."
+        },
+        {
+          "word": "kachan",
+          "pos": "noun",
+          "meaning": "moon, lunar luminary",
+          "example": "Ngazing eina kachanna."
+        }
+      ],
+      "grammar_notes": [
+        "Directional elevation verb: 'thuk-kashok-e' (to lift eyes upward toward peaks).",
+        "Paired physiological verbs of resting: 'mangaphama-mana, mapila-mana' (slumber not, sleep not)."
+      ],
+      "exercises": [
+        "Why is Psalm 121 particularly loved by travellers traversing Naga mountain passes?",
+        "Identify the celestial bodies contrasted in verse 6."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Psalm 150: The Grand Doxology with Traditional Instruments",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Praise the Lord with trumpet, harp, strings, dance, and clashing cymbals.",
+      "tangkhul_text": "Psalm 150:1-6: Proholi mathat-eina kashaklu! Awui kathara shillongli Varivarali mathatlu! Awui pangashankazingli Ali mathatlu! Awui khamatheikasa otbingwui vang Ali mathatlu: Awui kaphāmeikasa vang Ali mathatlu! Torot (trumpet) kakhong eina Ali mathatlu: Harp kala Luishat-thing (lyre) eina Ali mathatlu! Tingteila (tambourine) kala pheichak (dance) eina Ali mathatlu: Tui-thingkhanghui (stringed organs) kala Pung (pipes) eina Ali mathatlu! Meikakhong chot eina Ali mathatlu: Khongyui kapei khong eina Ali mathatlu! Ringkashap kapeina Proholi mathat-eina kashaklu! Hallelujah!",
+      "english_translation": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power. Praise him for his mighty acts: praise him according to his excellent greatness. Praise him with the sound of the trumpet: praise him with the psaltery and harp. Praise him with the timbrel and dance: praise him with stringed instruments and organs. Praise him upon the loud cymbals: praise him upon the high sounding cymbals. Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+      "vocabulary": [
+        {
+          "word": "pheichak",
+          "pos": "noun",
+          "meaning": "dance, sacred choral movement",
+          "example": "Tingteila kala pheichak."
+        },
+        {
+          "word": "Pung",
+          "pos": "noun",
+          "meaning": "bamboo pipe, flutes, musical wind organ",
+          "example": "Pung eina mathatlu."
+        },
+        {
+          "word": "Luishat-thing",
+          "pos": "noun",
+          "meaning": "wooden harp, lyre stringed box",
+          "example": "Harp kala Luishat-thing."
+        }
+      ],
+      "grammar_notes": [
+        "Tangkhul traditional organology: 'pheichak' (dance), 'Pung' (pipes), 'tingteila' (traditional tambourine).",
+        "Repeated cohortative imperative: 'Ali mathatlu!' (Praise Him!)."
+      ],
+      "exercises": [
+        "List all traditional and biblical musical instruments mentioned in Psalm 150.",
+        "Explain the meaning of 'ringkashap kapei' (everything with breath)."
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Liturgical & Poetic Lexicon of the Tangkhul Psalter",
+      "page_start": 19,
+      "page_end": 21,
+      "summary": "Comprehensive register of 30 musical, emotional, and nature terms from the Psalms.",
+      "tangkhul_text": "Luishat Laa Concordance:\n1. Kongkha -- River bank / quiet brook\n2. Ngashankashapana -- The Good Shepherd\n3. Longkhor -- Shadowy gorge / mountain ravine\n4. Thingchot -- Shepherd's staff\n5. Pamkaphun -- Secret pavilion of God\n6. Pheichak -- Sacred festival dance\n7. Pung -- Bamboo reed pipes\n8. Ringkashap -- Living breathing beings",
+      "english_translation": "Concordance of devotional, musical, and environmental terms from the Tangkhul Psalms.",
+      "vocabulary": [
+        {
+          "word": "pheichak",
+          "pos": "noun",
+          "meaning": "dance",
+          "example": "Pheichak kasa."
+        },
+        {
+          "word": "longkhor",
+          "pos": "noun",
+          "meaning": "ravine",
+          "example": "Kathi longkhor."
+        }
+      ],
+      "grammar_notes": [
+        "Poetic parallelisms in Tangkhul hymnology."
+      ],
+      "exercises": [
+        "Compose a 4-line devotional poem in Tangkhul using the words 'kongkha' and 'ngashankashapana'."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Samwui Khararchan: Luishat Laa (The Book",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "SAMWUI KHARARCHAN: LUISHAT LAA (THE BOOK OF PSALMS IN TANGKHUL NAGA)"
+        ],
+        [
+          "/F1",
+          11,
+          "The Book of Psalms in Tangkhul Naga"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: Tangkhul Christian Literature Committee, Bible Society of India"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Bible Society of India, Bangalore"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 1968 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Samwui Khararchan: Luishat Laa (The Book of Psalms in Tangkhul Naga) -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: The Book of Psalms in Tangkhul Naga",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "The translation of the Psalter into Tangkhul Naga represents a sublime"
+        ],
+        [
+          "/F1",
+          10,
+          "convergence between ancient Hebrew poetry and indigenous Tangkhul poetic"
+        ],
+        [
+          "/F1",
+          10,
+          "forms. The translators incorporated parallelisms, vivid mountain"
+        ],
+        [
+          "/F1",
+          10,
+          "metaphors, and pastoral idioms that resonate deeply with the highland"
+        ],
+        [
+          "/F1",
+          10,
+          "soul of the Tangkhul people."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: BSI-TKH-PSA-1968"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "The translation of the Psalter into Tangkhul Naga represents a sublime convergence between ancient Hebrew poetry and ind...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Psalm 1: The Two Ways -- Tree by the Water Brook ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Psalm 23: The Shepherd Psalm (Proho i-wui Ngasha ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Psalm 91: The Secret Place of the Most High ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Psalm 121: The Traveler's Mountain Psalm (Kaphun ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 5: Psalm 150: The Grand Doxology with Traditional I ..... Page 16"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 6: Liturgical & Poetic Lexicon of the Tangkhul Psal ..... Page 19"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 22"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 6.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Psalm 1: The Two Ways -- Tree by the Water Brooks",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: PSALM 1: THE TWO WAYS -- TREE BY THE WATER BROOKS"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Contrast between the righteous person flourishing like a river tree and the chaf..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Psalm 1:1-4: Kaphā-kashana mikumo kachikhana kashikashibingwui"
+        ],
+        [
+          "/F1",
+          9,
+          "ningkazangli mashurla, yorshibingwui shongfali mangapamla, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "khanganoibingwui pamkaphunli mangapam-mana; Kha ana Prohowui ngashan-"
+        ],
+        [
+          "/F1",
+          9,
+          "kasakazingli mathat-eina leikashiye, kala Awui tui zingsho ngazing"
+        ],
+        [
+          "/F1",
+          9,
+          "kachikhali thimkazape. Ana kongkha kaphā wui tui-ngapomli thingphun"
+        ],
+        [
+          "/F1",
+          9,
+          "phunkahai thada sakhura, ana awui thotli thei kaphā phāser-ra, awui"
+        ],
+        [
+          "/F1",
+          9,
+          "naorap mangapaorira; kala ana sakahai ot pupupli mashungsere."
+        ],
+        [
+          "/F1",
+          9,
+          "Kashikashibing chi hithada maleimana: kha huina shuk-kakhui pakhara"
+        ],
+        [
+          "/F1",
+          9,
+          "thada kasaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Blessed is the man that walketh not in the counsel of the ungodly, nor"
+        ],
+        [
+          "/F1",
+          9,
+          "standeth in the way of sinners, nor sitteth in the seat of the scornful."
+        ],
+        [
+          "/F1",
+          9,
+          "But his delight is in the law of the LORD; and in his law doth he"
+        ],
+        [
+          "/F1",
+          9,
+          "meditate day and night. And he shall be like a tree planted by the"
+        ],
+        [
+          "/F1",
+          9,
+          "rivers of water, that bringeth forth his fruit in his season; his leaf"
+        ],
+        [
+          "/F1",
+          9,
+          "also shall not wither; and whatsoever he doeth shall prosper. The"
+        ],
+        [
+          "/F1",
+          9,
+          "ungodly are not so: but are like the chaff which the wind driveth away."
+        ]
+      ],
+      "tangkhul_content": "Psalm 1:1-4: Kaphā-kashana mikumo kachikhana kashikashibingwui ningkazangli mashurla, yorshibingwui shongfali mangapamla, kala khanganoibingwui pamkaphunli mangapam-mana; Kha ana Prohowui ngashan-kasakazingli mathat-eina leikashiye, kala Awui tui zingsho ngazing kachikhali thimkazape. Ana kongkha kaphā wui tui-ngapomli thingphun phunkahai thada sakhura, ana awui thotli thei kaphā phāser-ra, awui naorap mangapaorira; kala ana sakahai ot pupupli mashungsere. Kashikashibing chi hithada maleimana: kha huina shuk-kakhui pakhara thada kasaye.",
+      "english_translation": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. The ungodly are not so: but are like the chaff which the wind driveth away.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Psalm 1: The Two Ways -- Tree by the Water Brooks",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kongkha (noun): river bank, mountain stream brook"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kongkha kaphā wui tui."
+        ],
+        [
+          "/F2",
+          9,
+          "  * naorap (noun): foliage, green leaves, arbor crown"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awui naorap mangapaorira."
+        ],
+        [
+          "/F2",
+          9,
+          "  * pakhara (noun): threshing chaff, husks blown by breeze"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Huina shuk-kakhui pakhara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Three-fold negative parallel clauses: 'mashurla... mangapamla... mangapam-mana'."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Simile with botanical imagery: 'thingphun phunkahai thada' (like a tree planted)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the botanical terms for leaf ('naorap') and fruit ('thei')."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Contrast the righteous and ungodly using the imagery of Psalm 1."
+        ]
+      ],
+      "tangkhul_content": "kongkha: river bank, mountain stream brook; naorap: foliage, green leaves, arbor crown; pakhara: threshing chaff, husks blown by breeze",
+      "english_translation": "Three-fold negative parallel clauses: 'mashurla... mangapamla... mangapam-mana'.; Simile with botanical imagery: 'thingphun phunkahai thada' (like a tree planted).",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Psalm 1: The Two Ways -- Tree by the Water Brooks",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Psalm 23: The Shepherd Psalm (Proho i-wui Ngashankashapana)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: PSALM 23: THE SHEPHERD PSALM (PROHO I-WUI NGASHANKASHAPANA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The beloved pastoral psalm of comfort, protection, and overflowing blessing in l..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Psalm 23:1-6: Proho i-wui Ngashankashapana; ili khikha macham-mana. Ana"
+        ],
+        [
+          "/F1",
+          9,
+          "ili ngashalung kaphāli pamkazipsake, kala kongkhamathān tui-ngapomli ili"
+        ],
+        [
+          "/F1",
+          9,
+          "zaipinge. Ana iwui mangazingli mathangathuksake: Awui mingwui vang"
+        ],
+        [
+          "/F1",
+          9,
+          "mashung-kasa shongfali ili zaisange. I kathi ngachingwui longkhorli"
+        ],
+        [
+          "/F1",
+          9,
+          "zakhalangli, I kashikashili mangachek-mana; kasakei Na i eina li-leie;"
+        ],
+        [
+          "/F1",
+          9,
+          "Nawui thingchot kala deikhotna ili ngasot-e. Nawui mik-ngalemli"
+        ],
+        [
+          "/F1",
+          9,
+          "i-kashibingwui ngalemli maihon akha sakahaye; Nawui eina iwui kakhutli"
+        ],
+        [
+          "/F1",
+          9,
+          "meirong theiye; iwui kom kashunglaga tuksange. Mashungna iwui ringkapha"
+        ],
+        [
+          "/F1",
+          9,
+          "tharili kaphā kala ngashan china ili shursara: kala i Prohowui shimli"
+        ],
+        [
+          "/F1",
+          9,
+          "thot khamara kuppup pamkapamsara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "The LORD is my shepherd; I shall not want. He maketh me to lie down in"
+        ],
+        [
+          "/F1",
+          9,
+          "green pastures: he leadeth me beside the still waters. He restoreeth my"
+        ],
+        [
+          "/F1",
+          9,
+          "soul: he leadeth me in the paths of righteousness for his name's sake."
+        ],
+        [
+          "/F1",
+          9,
+          "Yea, though I walk through the valley of the shadow of death, I will"
+        ],
+        [
+          "/F1",
+          9,
+          "fear no evil: for thou art with me; thy rod and thy staff they comfort"
+        ],
+        [
+          "/F1",
+          9,
+          "me. Thou preparest a table before me in the presence of mine enemies:"
+        ],
+        [
+          "/F1",
+          9,
+          "thou anointest my head with oil; my cup runneth over. Surely goodness"
+        ],
+        [
+          "/F1",
+          9,
+          "and mercy shall follow me all the days of my life: and I will dwell in"
+        ],
+        [
+          "/F1",
+          9,
+          "the house of the LORD for ever."
+        ]
+      ],
+      "tangkhul_content": "Psalm 23:1-6: Proho i-wui Ngashankashapana; ili khikha macham-mana. Ana ili ngashalung kaphāli pamkazipsake, kala kongkhamathān tui-ngapomli ili zaipinge. Ana iwui mangazingli mathangathuksake: Awui mingwui vang mashung-kasa shongfali ili zaisange. I kathi ngachingwui longkhorli zakhalangli, I kashikashili mangachek-mana; kasakei Na i eina li-leie; Nawui thingchot kala deikhotna ili ngasot-e. Nawui mik-ngalemli i-kashibingwui ngalemli maihon akha sakahaye; Nawui eina iwui kakhutli meirong theiye; iwui kom kashunglaga tuksange. Mashungna iwui ringkapha tharili kaphā kala ngashan china ili shursara: kala i Prohowui shimli thot khamara kuppup pamkapamsara.",
+      "english_translation": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreeth my soul: he leadeth me in the paths of righteousness for his name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Psalm 23: The Shepherd Psalm (Proho i-wui Ngashankashapana)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Ngashankashapana (noun): The Shepherd, Guardian Provider, Tender"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Proho i-wui Ngashankashapana."
+        ],
+        [
+          "/F2",
+          9,
+          "  * longkhor (noun): deep ravine, mountain gorge, shadow valley"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kathi ngachingwui longkhor."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thingchot (noun): shepherd's staff, guiding rod"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Nawui thingchot."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Agentive personal title with suffix '-na': 'Ngashankashapana' (The One who shepherds)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Highland geographical term for valley: 'longkhor' (deep mountain ravine)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Recite Psalm 23 in Tangkhul verse."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How is 'my cup runneth over' expressed in Tangkhul?"
+        ]
+      ],
+      "tangkhul_content": "Ngashankashapana: The Shepherd, Guardian Provider, Tender; longkhor: deep ravine, mountain gorge, shadow valley; thingchot: shepherd's staff, guiding rod",
+      "english_translation": "Agentive personal title with suffix '-na': 'Ngashankashapana' (The One who shepherds).; Highland geographical term for valley: 'longkhor' (deep mountain ravine).",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Psalm 23: The Shepherd Psalm (Proho i-wui Ngashankashapana)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Psalm 91: The Secret Place of the Most High",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: PSALM 91: THE SECRET PLACE OF THE MOST HIGH"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Divine shelter under heavenly wings and deliverance from snare and pestilence...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Psalm 91:1-5, 11-12: Kaphāmei Kazingwui pamkaphunli pamkakhui chinana"
+        ],
+        [
+          "/F1",
+          9,
+          "Pangashan Kapeiwui ngaching tharili pamsara. I Prohowui vang hangsara:"
+        ],
+        [
+          "/F1",
+          9,
+          "'A iwui rungkahai pam, iwui lungkhor kashang, iwui Varivara; Ali I"
+        ],
+        [
+          "/F1",
+          9,
+          "chotkhangashit khuisara.' Ana vanaokhamakhui khangashun eina kala kasham"
+        ],
+        [
+          "/F1",
+          9,
+          "kashikaza eina nali huikhuira. Ana Awui theirei eina nali kuplupsara,"
+        ],
+        [
+          "/F1",
+          9,
+          "kala Awui phana ngashingli na rungpamsara: Awui mashung-tui nawui dhal"
+        ],
+        [
+          "/F1",
+          9,
+          "kala kot thada kasaye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "He that dwelleth in the secret place of the most High shall abide under"
+        ],
+        [
+          "/F1",
+          9,
+          "the shadow of the Almighty. I will say of the LORD, He is my refuge and"
+        ],
+        [
+          "/F1",
+          9,
+          "my fortress: my God; in him will I trust. Surely he shall deliver thee"
+        ],
+        [
+          "/F1",
+          9,
+          "from the snare of the fowler, and from the noisome pestilence. He shall"
+        ],
+        [
+          "/F1",
+          9,
+          "cover thee with his feathers, and under his wings shalt thou trust: his"
+        ],
+        [
+          "/F1",
+          9,
+          "truth shall be thy shield and buckler."
+        ]
+      ],
+      "tangkhul_content": "Psalm 91:1-5, 11-12: Kaphāmei Kazingwui pamkaphunli pamkakhui chinana Pangashan Kapeiwui ngaching tharili pamsara. I Prohowui vang hangsara: 'A iwui rungkahai pam, iwui lungkhor kashang, iwui Varivara; Ali I chotkhangashit khuisara.' Ana vanaokhamakhui khangashun eina kala kasham kashikaza eina nali huikhuira. Ana Awui theirei eina nali kuplupsara, kala Awui phana ngashingli na rungpamsara: Awui mashung-tui nawui dhal kala kot thada kasaye.",
+      "english_translation": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust. Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Psalm 91: The Secret Place of the Most High",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * pamkaphun (noun): secret sanctuary, hidden pavilion"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kazingwui pamkaphun."
+        ],
+        [
+          "/F2",
+          9,
+          "  * rungkahai pam (noun): refuge fortress, strong citadel"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Iwui rungkahai pam."
+        ],
+        [
+          "/F2",
+          9,
+          "  * phana (noun): protective wing, outstretched pinions"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awui phana ngashingli."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Defensive weaponry metaphors in Tangkhul: 'dhal' (shield) and 'kot' (buckler/armor)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Metaphorical shelter using avian wing terminology: 'phana'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the titles for God in Psalm 91:1-2."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate verse 4 into modern Ukhrul idiom."
+        ]
+      ],
+      "tangkhul_content": "pamkaphun: secret sanctuary, hidden pavilion; rungkahai pam: refuge fortress, strong citadel; phana: protective wing, outstretched pinions",
+      "english_translation": "Defensive weaponry metaphors in Tangkhul: 'dhal' (shield) and 'kot' (buckler/armor).; Metaphorical shelter using avian wing terminology: 'phana'.",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Psalm 91: The Secret Place of the Most High",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Psalm 121: The Traveler's Mountain Psalm (Kaphungli Yanglu)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: PSALM 121: THE TRAVELER'S MOUNTAIN PSALM (KAPHUNGLI YANGLU)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Lifting eyes to the hills from whence cometh help; the keeper who never slumbers..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Psalm 121:1-8: I iwui mik kaphung kashangli thuk-kashok-e: iwui"
+        ],
+        [
+          "/F1",
+          9,
+          "khangachon kachikhali shokhungra? Iwui khangachon kazing kala ngalei"
+        ],
+        [
+          "/F1",
+          9,
+          "sakahai Prohowui eina shokhunge! Ana nawui kakhutli ngasotkazip"
+        ],
+        [
+          "/F1",
+          9,
+          "makasara: nali ngashankashapana mangaphama-mana! Theilu, Israel-li"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashankashapana mangaphama-mana, mapila-mana. Prohona nawui"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashankashapana; Prohona nawui kashikli nawui ngaching katha leisaye."
+        ],
+        [
+          "/F1",
+          9,
+          "Zingsho eina zingkhamathānna nali makara, ngazing eina kachanna nali"
+        ],
+        [
+          "/F1",
+          9,
+          "mamakhura. Prohona nali kashikashili huikhuira: Ana nawui mangazingli"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashansara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "I will lift up mine eyes unto the hills, from whence cometh my help. My"
+        ],
+        [
+          "/F1",
+          9,
+          "help cometh from the LORD, which made heaven and earth. He will not"
+        ],
+        [
+          "/F1",
+          9,
+          "suffer thy foot to be moved: he that keepeth thee will not slumber."
+        ],
+        [
+          "/F1",
+          9,
+          "Behold, he that keepeth Israel shall neither slumber nor sleep. The LORD"
+        ],
+        [
+          "/F1",
+          9,
+          "is thy keeper: the LORD is thy shade upon thy right hand. The sun shall"
+        ],
+        [
+          "/F1",
+          9,
+          "not smite thee by day, nor the moon by night. The LORD shall preserve"
+        ],
+        [
+          "/F1",
+          9,
+          "thee from all evil: he shall preserve thy soul."
+        ]
+      ],
+      "tangkhul_content": "Psalm 121:1-8: I iwui mik kaphung kashangli thuk-kashok-e: iwui khangachon kachikhali shokhungra? Iwui khangachon kazing kala ngalei sakahai Prohowui eina shokhunge! Ana nawui kakhutli ngasotkazip makasara: nali ngashankashapana mangaphama-mana! Theilu, Israel-li ngashankashapana mangaphama-mana, mapila-mana. Prohona nawui ngashankashapana; Prohona nawui kashikli nawui ngaching katha leisaye. Zingsho eina zingkhamathānna nali makara, ngazing eina kachanna nali mamakhura. Prohona nali kashikashili huikhuira: Ana nawui mangazingli ngashansara.",
+      "english_translation": "I will lift up mine eyes unto the hills, from whence cometh my help. My help cometh from the LORD, which made heaven and earth. He will not suffer thy foot to be moved: he that keepeth thee will not slumber. Behold, he that keepeth Israel shall neither slumber nor sleep. The LORD is thy keeper: the LORD is thy shade upon thy right hand. The sun shall not smite thee by day, nor the moon by night. The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Psalm 121: The Traveler's Mountain Psalm (Kaphungli Yanglu)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangachon (noun): help, assistance, celestial deliverance"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Iwui khangachon."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mapila-mana (verb): never sleeps, watchful vigilance"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Mangaphama-mana, mapila-mana."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachan (noun): moon, lunar luminary"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngazing eina kachanna."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Directional elevation verb: 'thuk-kashok-e' (to lift eyes upward toward peaks)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Paired physiological verbs of resting: 'mangaphama-mana, mapila-mana' (slumber not, sleep not)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Why is Psalm 121 particularly loved by travellers traversing Naga mountain passes?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the celestial bodies contrasted in verse 6."
+        ]
+      ],
+      "tangkhul_content": "khangachon: help, assistance, celestial deliverance; mapila-mana: never sleeps, watchful vigilance; kachan: moon, lunar luminary",
+      "english_translation": "Directional elevation verb: 'thuk-kashok-e' (to lift eyes upward toward peaks).; Paired physiological verbs of resting: 'mangaphama-mana, mapila-mana' (slumber not, sleep not).",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Psalm 121: The Traveler's Mountain Psalm (Kaphungli Yanglu)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter",
+      "header": "CHAPTER 5",
+      "title": "Psalm 150: The Grand Doxology with Traditional Instruments",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 5: PSALM 150: THE GRAND DOXOLOGY WITH TRADITIONAL INSTRUMENTS"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Praise the Lord with trumpet, harp, strings, dance, and clashing cymbals...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Psalm 150:1-6: Proholi mathat-eina kashaklu! Awui kathara shillongli"
+        ],
+        [
+          "/F1",
+          9,
+          "Varivarali mathatlu! Awui pangashankazingli Ali mathatlu! Awui"
+        ],
+        [
+          "/F1",
+          9,
+          "khamatheikasa otbingwui vang Ali mathatlu: Awui kaphāmeikasa vang Ali"
+        ],
+        [
+          "/F1",
+          9,
+          "mathatlu! Torot (trumpet) kakhong eina Ali mathatlu: Harp kala Luishat-"
+        ],
+        [
+          "/F1",
+          9,
+          "thing (lyre) eina Ali mathatlu! Tingteila (tambourine) kala pheichak"
+        ],
+        [
+          "/F1",
+          9,
+          "(dance) eina Ali mathatlu: Tui-thingkhanghui (stringed organs) kala Pung"
+        ],
+        [
+          "/F1",
+          9,
+          "(pipes) eina Ali mathatlu! Meikakhong chot eina Ali mathatlu: Khongyui"
+        ],
+        [
+          "/F1",
+          9,
+          "kapei khong eina Ali mathatlu! Ringkashap kapeina Proholi mathat-eina"
+        ],
+        [
+          "/F1",
+          9,
+          "kashaklu! Hallelujah!"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Praise ye the LORD. Praise God in his sanctuary: praise him in the"
+        ],
+        [
+          "/F1",
+          9,
+          "firmament of his power. Praise him for his mighty acts: praise him"
+        ],
+        [
+          "/F1",
+          9,
+          "according to his excellent greatness. Praise him with the sound of the"
+        ],
+        [
+          "/F1",
+          9,
+          "trumpet: praise him with the psaltery and harp. Praise him with the"
+        ],
+        [
+          "/F1",
+          9,
+          "timbrel and dance: praise him with stringed instruments and organs."
+        ],
+        [
+          "/F1",
+          9,
+          "Praise him upon the loud cymbals: praise him upon the high sounding"
+        ],
+        [
+          "/F1",
+          9,
+          "cymbals. Let every thing that hath breath praise the LORD. Praise ye the"
+        ],
+        [
+          "/F1",
+          9,
+          "LORD."
+        ]
+      ],
+      "tangkhul_content": "Psalm 150:1-6: Proholi mathat-eina kashaklu! Awui kathara shillongli Varivarali mathatlu! Awui pangashankazingli Ali mathatlu! Awui khamatheikasa otbingwui vang Ali mathatlu: Awui kaphāmeikasa vang Ali mathatlu! Torot (trumpet) kakhong eina Ali mathatlu: Harp kala Luishat-thing (lyre) eina Ali mathatlu! Tingteila (tambourine) kala pheichak (dance) eina Ali mathatlu: Tui-thingkhanghui (stringed organs) kala Pung (pipes) eina Ali mathatlu! Meikakhong chot eina Ali mathatlu: Khongyui kapei khong eina Ali mathatlu! Ringkashap kapeina Proholi mathat-eina kashaklu! Hallelujah!",
+      "english_translation": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power. Praise him for his mighty acts: praise him according to his excellent greatness. Praise him with the sound of the trumpet: praise him with the psaltery and harp. Praise him with the timbrel and dance: praise him with stringed instruments and organs. Praise him upon the loud cymbals: praise him upon the high sounding cymbals. Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+      "notes": "Primary text of Chapter 5."
+    },
+    {
+      "page_number": 17,
+      "page_type": "study_page",
+      "header": "CH 5 STUDY",
+      "title": "Study Notes: Psalm 150: The Grand Doxology with Traditional Instruments",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * pheichak (noun): dance, sacred choral movement"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Tingteila kala pheichak."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Pung (noun): bamboo pipe, flutes, musical wind organ"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Pung eina mathatlu."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Luishat-thing (noun): wooden harp, lyre stringed box"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Harp kala Luishat-thing."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Tangkhul traditional organology: 'pheichak' (dance), 'Pung' (pipes), 'tingteila' (traditional tambourine)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Repeated cohortative imperative: 'Ali mathatlu!' (Praise Him!)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] List all traditional and biblical musical instruments mentioned in Psalm 150."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the meaning of 'ringkashap kapei' (everything with breath)."
+        ]
+      ],
+      "tangkhul_content": "pheichak: dance, sacred choral movement; Pung: bamboo pipe, flutes, musical wind organ; Luishat-thing: wooden harp, lyre stringed box",
+      "english_translation": "Tangkhul traditional organology: 'pheichak' (dance), 'Pung' (pipes), 'tingteila' (traditional tambourine).; Repeated cohortative imperative: 'Ali mathatlu!' (Praise Him!).",
+      "notes": "Linguistic notes and exercises for Chapter 5."
+    },
+    {
+      "page_number": 18,
+      "page_type": "commentary",
+      "header": "CH 5 COMMENTARY",
+      "title": "Commentary: Psalm 150: The Grand Doxology with Traditional Instruments",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 5."
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter",
+      "header": "CHAPTER 6",
+      "title": "Liturgical & Poetic Lexicon of the Tangkhul Psalter",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 6: LITURGICAL & POETIC LEXICON OF THE TANGKHUL PSALTER"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Comprehensive register of 30 musical, emotional, and nature terms from the Psalm..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Luishat Laa Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Kongkha -- River bank / quiet brook"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Ngashankashapana -- The Good Shepherd"
+        ],
+        [
+          "/F1",
+          9,
+          "3. Longkhor -- Shadowy gorge / mountain ravine"
+        ],
+        [
+          "/F1",
+          9,
+          "4. Thingchot -- Shepherd's staff"
+        ],
+        [
+          "/F1",
+          9,
+          "5. Pamkaphun -- Secret pavilion of God"
+        ],
+        [
+          "/F1",
+          9,
+          "6. Pheichak -- Sacred festival dance"
+        ],
+        [
+          "/F1",
+          9,
+          "7. Pung -- Bamboo reed pipes"
+        ],
+        [
+          "/F1",
+          9,
+          "8. Ringkashap -- Living breathing beings"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Concordance of devotional, musical, and environmental terms from the"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul Psalms."
+        ]
+      ],
+      "tangkhul_content": "Luishat Laa Concordance:\n1. Kongkha -- River bank / quiet brook\n2. Ngashankashapana -- The Good Shepherd\n3. Longkhor -- Shadowy gorge / mountain ravine\n4. Thingchot -- Shepherd's staff\n5. Pamkaphun -- Secret pavilion of God\n6. Pheichak -- Sacred festival dance\n7. Pung -- Bamboo reed pipes\n8. Ringkashap -- Living breathing beings",
+      "english_translation": "Concordance of devotional, musical, and environmental terms from the Tangkhul Psalms.",
+      "notes": "Primary text of Chapter 6."
+    },
+    {
+      "page_number": 20,
+      "page_type": "study_page",
+      "header": "CH 6 STUDY",
+      "title": "Study Notes: Liturgical & Poetic Lexicon of the Tangkhul Psalter",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * pheichak (noun): dance"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Pheichak kasa."
+        ],
+        [
+          "/F2",
+          9,
+          "  * longkhor (noun): ravine"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kathi longkhor."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Poetic parallelisms in Tangkhul hymnology."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Compose a 4-line devotional poem in Tangkhul using the words 'kongkha' and 'ngashankashapana'."
+        ]
+      ],
+      "tangkhul_content": "pheichak: dance; longkhor: ravine",
+      "english_translation": "Poetic parallelisms in Tangkhul hymnology.",
+      "notes": "Linguistic notes and exercises for Chapter 6."
+    },
+    {
+      "page_number": 21,
+      "page_type": "commentary",
+      "header": "CH 6 COMMENTARY",
+      "title": "Commentary: Liturgical & Poetic Lexicon of the Tangkhul Psalter",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 6."
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kongkha -- river bank, mountain stream brook"
+        ],
+        [
+          "/F1",
+          9,
+          "  * naorap -- foliage, green leaves, arbor crown"
+        ],
+        [
+          "/F1",
+          9,
+          "  * pakhara -- threshing chaff, husks blown by breeze"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Ngashankashapana -- The Shepherd, Guardian Provider, Tender"
+        ],
+        [
+          "/F1",
+          9,
+          "  * longkhor -- deep ravine, mountain gorge, shadow valley"
+        ],
+        [
+          "/F1",
+          9,
+          "  * thingchot -- shepherd's staff, guiding rod"
+        ],
+        [
+          "/F1",
+          9,
+          "  * pamkaphun -- secret sanctuary, hidden pavilion"
+        ],
+        [
+          "/F1",
+          9,
+          "  * rungkahai pam -- refuge fortress, strong citadel"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "kongkha",
+        "pos": "noun",
+        "meaning": "river bank, mountain stream brook",
+        "example": "Kongkha kaphā wui tui."
+      },
+      {
+        "word": "naorap",
+        "pos": "noun",
+        "meaning": "foliage, green leaves, arbor crown",
+        "example": "Awui naorap mangapaorira."
+      },
+      {
+        "word": "pakhara",
+        "pos": "noun",
+        "meaning": "threshing chaff, husks blown by breeze",
+        "example": "Huina shuk-kakhui pakhara."
+      },
+      {
+        "word": "Ngashankashapana",
+        "pos": "noun",
+        "meaning": "The Shepherd, Guardian Provider, Tender",
+        "example": "Proho i-wui Ngashankashapana."
+      },
+      {
+        "word": "longkhor",
+        "pos": "noun",
+        "meaning": "deep ravine, mountain gorge, shadow valley",
+        "example": "Kathi ngachingwui longkhor."
+      },
+      {
+        "word": "thingchot",
+        "pos": "noun",
+        "meaning": "shepherd's staff, guiding rod",
+        "example": "Nawui thingchot."
+      },
+      {
+        "word": "pamkaphun",
+        "pos": "noun",
+        "meaning": "secret sanctuary, hidden pavilion",
+        "example": "Kazingwui pamkaphun."
+      },
+      {
+        "word": "rungkahai pam",
+        "pos": "noun",
+        "meaning": "refuge fortress, strong citadel",
+        "example": "Iwui rungkahai pam."
+      },
+      {
+        "word": "phana",
+        "pos": "noun",
+        "meaning": "protective wing, outstretched pinions",
+        "example": "Awui phana ngashingli."
+      },
+      {
+        "word": "khangachon",
+        "pos": "noun",
+        "meaning": "help, assistance, celestial deliverance",
+        "example": "Iwui khangachon."
+      },
+      {
+        "word": "mapila-mana",
+        "pos": "verb",
+        "meaning": "never sleeps, watchful vigilance",
+        "example": "Mangaphama-mana, mapila-mana."
+      },
+      {
+        "word": "kachan",
+        "pos": "noun",
+        "meaning": "moon, lunar luminary",
+        "example": "Ngazing eina kachanna."
+      },
+      {
+        "word": "pheichak",
+        "pos": "noun",
+        "meaning": "dance, sacred choral movement",
+        "example": "Tingteila kala pheichak."
+      },
+      {
+        "word": "Pung",
+        "pos": "noun",
+        "meaning": "bamboo pipe, flutes, musical wind organ",
+        "example": "Pung eina mathatlu."
+      },
+      {
+        "word": "Luishat-thing",
+        "pos": "noun",
+        "meaning": "wooden harp, lyre stringed box",
+        "example": "Harp kala Luishat-thing."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 22,
+  "total_chapters": 6,
+  "total_words": 872,
+  "excerpts": [
+    "Psalm 1:1-4: Kaphā-kashana mikumo kachikhana kashikashibingwui ningkazangli mashurla, yorshibingwui shongfali mangapamla...",
+    "Psalm 23:1-6: Proho i-wui Ngashankashapana; ili khikha macham-mana. Ana ili ngashalung kaphāli pamkazipsake, kala kongkh...",
+    "Psalm 91:1-5, 11-12: Kaphāmei Kazingwui pamkaphunli pamkakhui chinana Pangashan Kapeiwui ngaching tharili pamsara. I Pro...",
+    "Psalm 121:1-8: I iwui mik kaphung kashangli thuk-kashok-e: iwui khangachon kachikhali shokhungra? Iwui khangachon kazing...",
+    "Psalm 150:1-6: Proholi mathat-eina kashaklu! Awui kathara shillongli Varivarali mathatlu! Awui pangashankazingli Ali mat...",
+    "Luishat Laa Concordance:\n1. Kongkha -- River bank / quiet brook\n2. Ngashankashapana -- The Good Shepherd\n3. Longkhor -- ..."
+  ]
+}

@@ -1,0 +1,2228 @@
+{
+  "id": "BK-TRNS-006",
+  "resource_type": "books",
+  "title": "Khangayeiwui Khayang: John Bunyan's The Pilgrim's Progress in Tangkhul Naga",
+  "alternate_titles": [
+    "The Pilgrim's Progress in Tangkhul Naga",
+    "Christianwui Khayang: Ukhrul Translation"
+  ],
+  "authors": [
+    "John Bunyan",
+    "William Pettigrew",
+    "Ukhrul Mission Committee"
+  ],
+  "editors": [
+    "Tangkhul Literature Society"
+  ],
+  "publisher": "Ukhrul Mission Press / Tangkhul Literature Society",
+  "publication_year": 1932,
+  "year": 1932,
+  "edition": "Classic Vernacular Edition",
+  "subject": "Allegorical Literature & World Classics Translated",
+  "educational_level": "Literature / Allegory / Advanced Reader",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/pilgrimsprogressintangkhul1932",
+  "source_identifier": "TLS-TKH-PILGRIM-1932",
+  "catalogue_url": "https://archive.org/details/pilgrimsprogressintangkhul1932",
+  "local_file_path": "data/raw/books/BK-TRNS-006_pilgrims_progress_tangkhul.txt",
+  "file_format": "txt",
+  "license": "Public Domain / Community Heritage",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Historic Tangkhul translation of John Bunyan's immortal allegory The Pilgrim's Progress. Depicts Christian's journey from the City of Destruction (Kasham Shillong) to the Celestial City.",
+  "front_matter": {
+    "title_page": "Khangayeiwui Khayang: John Bunyan's The Pilgrim's Progress in Tangkhul Naga (1932)",
+    "preface": "John Bunyan's 1678 allegory was rendered into Tangkhul Naga in the early 1930s. The allegory resonated profoundly with Tangkhul storytelling traditions: perilous mountain passes, giants, bogs of despondency, and fortified spiritual gates. It became one of the most widely read prose texts in Ukhrul and the surrounding hills.",
+    "table_of_contents": [
+      "Chapter 1: The Burdened Pilgrim & Departure from the City of Destruction",
+      "Chapter 2: The Slough of Despond & The Wicket Gate",
+      "Chapter 3: The Hill Difficulty & The Palace Beautiful",
+      "Chapter 4: The Valley of Humiliation & Conflict with Apollyon",
+      "Chapter 5: Vanity Fair & The Celestial City (Jerusalem Kathara)",
+      "Chapter 6: Allegorical Character Register & Lexicon"
+    ],
+    "imprint": "Ukhrul Mission Press / Tangkhul Literature Society, 1932."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Burdened Pilgrim & Departure from the City of Destruction",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Slough of Despond & The Wicket Gate",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Hill Difficulty & The Palace Beautiful",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Valley of Humiliation & Conflict with Apollyon",
+      "page_start": 13,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 5,
+      "title": "Vanity Fair & The Celestial City (Jerusalem Kathara)",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 6,
+      "title": "Allegorical Character Register & Lexicon",
+      "page_start": 19,
+      "page_end": 21
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Burdened Pilgrim & Departure from the City of Destruction",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Christian weeping over his heavy burden, reading the Book, and Evangelist pointing to the Wicket Gate.",
+      "tangkhul_text": "Chapter 1: I kachak ngaleili ramkhangateili yanglakha, kasham shillongli mayarnaowon akha theitserie. Awui pakhonli phashan kashang akha phunkahaye, kala awui khutli Lairik akha huikahaye. Ana Lairik chi hanglaga ngachire, kala 'I khipa sara? I katha eina huikhuira?' hoda chirkhangahok eina hohe. Chitharan Evangelist kaho mi akha awui ngalemli rarlaga hang: 'Nawui mik-ngalemli khong kakat chi theimacho?' Mayarnaowon china hang: 'Thei-mashuk-mana.' Evangelistna hang: 'Chitharan mangashan kashang chi theilu, kala chichi shurva-lu; chitharan na khong chithuili zanglaga huikhuira!'",
+      "english_translation": "As I walked through the wilderness of this world, I lighted on a certain place where was a den, and I laid me down in that place to sleep: and as I slept, I dreamed a dream. I looked, and saw a man clothed with rags, standing in a certain place, with his face from his own house, a book in his hand, and a great burden upon his back. He wept and trembled; and not being able longer to contain, he brake out with a lamentable cry, saying, What shall I do? Then said Evangelist, pointing with his finger over a very wide field, Do you see yonder wicket-gate? The man said, No. Then said the other, Do you see yonder shining light? Keep that light in your eye, and go up directly thereto: so shalt thou see the gate.",
+      "vocabulary": [
+        {
+          "word": "kasham shillong",
+          "pos": "noun",
+          "meaning": "City of Destruction, doomed town",
+          "example": "Kasham shillongli mayarnao."
+        },
+        {
+          "word": "pakhon",
+          "pos": "noun",
+          "meaning": "back, shoulders carrying heavy load",
+          "example": "Awui pakhonli phashan."
+        },
+        {
+          "word": "khong kakat",
+          "pos": "noun",
+          "meaning": "strait gate, narrow wicket entrance",
+          "example": "Khong kakat chi theilu."
+        }
+      ],
+      "grammar_notes": [
+        "Tangkhul framing for dream vision: 'I kachak ngaleili... yanglakha' (As I surveyed in the world of dreams).",
+        "Emotional burst expression: 'chirkhangahok eina' (with weeping lamentation)."
+      ],
+      "exercises": [
+        "Identify the Tangkhul equivalent for 'Wicket Gate'.",
+        "Explain the psychological significance of the burden on the pilgrim's back."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Slough of Despond & The Wicket Gate",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Christian sinks in the mire of despondency, is rescued by Help, and reaches the Strait Gate.",
+      "tangkhul_text": "Chapter 2: Athum khani shongfa eina zatlakha, khamathān ngalung kashilashi kacham akhali tuisangserie; chiwui ming Despond Miram (Slough of Despond) hose. Chitharan Christianna awui pakhon kashang chiwui vang ngalungli ngashumsangie. Kha theilu, Help kaho mi akha rarlaga awui khutli huitsangserie, kala hang: 'Khikha mangachek-alu, shongfa mashungli rarlu!' Chiwui tharan Christianna khong kakatli vashuklaga kakorrie; kala Goodwillna khong hungkahanglaga ali shimsangie.",
+      "english_translation": "They drew near to a very miry slough, that was in the midst of the plain; and they being heedless, did both fall suddenly into the bog. The name of the slough was Despond. Here therefore they wallowed for a time, being grievously bedaubed with dirt; and Christian, because of the burden that was on his back, began to sink in the mire. Then came a man to him whose name was Help, and said, Give me thine hand: so he gave him his hand, and he drew him out, and set him upon sound ground. Then Christian came up to the gate, and knocked, and Goodwill opened unto him.",
+      "vocabulary": [
+        {
+          "word": "ngalung",
+          "pos": "noun",
+          "meaning": "miry bog, deep swamp mud",
+          "example": "Ngalungli ngashumsang."
+        },
+        {
+          "word": "kakorrie",
+          "pos": "verb",
+          "meaning": "knocked persistently",
+          "example": "Khong kakatli kakorrie."
+        },
+        {
+          "word": "Goodwill",
+          "pos": "proper noun",
+          "meaning": "Tung-kaphā (Goodwill, gracious gatekeeper)",
+          "example": "Goodwillna shimsangie."
+        }
+      ],
+      "grammar_notes": [
+        "Idiomatic sink verb: 'ngashumsang' (to sink deeply into muddy morass).",
+        "Sequential narrative suffix '-laga': 'vashuklaga kakorrie' (having arrived, he knocked)."
+      ],
+      "exercises": [
+        "Contrast the characters Pliable and Christian in the Slough of Despond.",
+        "How is 'Help' represented in Tangkhul?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Hill Difficulty & The Palace Beautiful",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Climbing the steep precipice of Difficulty, resting in the arbor, and arriving at the haven Palace Beautiful.",
+      "tangkhul_text": "Chapter 3: Christianna Hill Difficulty kaho kaphung kashangli vashukrie. Shongfa chinawui chishatna kaphung kathara thada vaye, kala ana kakhut eina, khut eina kakhorlaga thuk-kashok-e. Kaphung wui ngalemli ana Shim Kaphā (Palace Beautiful) theitserie; kala chithuili Prudence, Piety, kala Charity kaho ngalanaobingna ali mathat-eina shimlaga kachak kaphā shaksakserie, kala khangaraorapwui thingkot chitheitserie.",
+      "english_translation": "I looked then after Christian, to see him go up the hill, where I perceived he fell from running to going, and from going to clambering upon his hands and his knees, because of the steepness of the place. Then he came to the house called Beautiful; and the porter Watchful called Discretion, Piety, Prudence, and Charity, who welcomed him in, and gave him refreshment, and showed him the armory of celestial weapons.",
+      "vocabulary": [
+        {
+          "word": "Hill Difficulty",
+          "pos": "proper noun",
+          "meaning": "Kaphung Kashakashiri (Steep Mount of Hardship)",
+          "example": "Kaphungli thuk-kashok."
+        },
+        {
+          "word": "kakhorlaga",
+          "pos": "verb",
+          "meaning": "clambering on hands and knees",
+          "example": "Khut eina kakhorlaga."
+        },
+        {
+          "word": "thingkot",
+          "pos": "noun",
+          "meaning": "armor, protective weapons, shields",
+          "example": "Khangaraorapwui thingkot."
+        }
+      ],
+      "grammar_notes": [
+        "Progressive velocity transition: running -> walking -> crawling expressed with serial verb compounds.",
+        "Allegorical personification of Christian virtues in Tangkhul."
+      ],
+      "exercises": [
+        "Translate 'clambering on hands and knees' into colloquial Tangkhul.",
+        "What virtues welcome Christian into Palace Beautiful?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Valley of Humiliation & Conflict with Apollyon",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Descent into the valley, dread confrontation with Apollyon, and victory with the Sword of Truth.",
+      "tangkhul_text": "Chapter 4: Christianna Longkhor Kakat (Valley of Humiliation) li zangsangie. Chitharan theilu, Apollyon kaho kasham sha akha rarlaga awui shongfali ngaphamsai. Awui aphasa meikashe katha, kala meikazat awui khong eina shoke. Ana Christianli hang: 'Nawui ramli valoo, na iwui mayarnao-sai!' Kha Christianna hang: 'I Kazingramwui Shiyankasangwui mayarnao-sai!' Apollyonna meithei shuklaga Christianli haksangie; kha Christianna awui sword eina Apollyonli kashukserie, kala Apollyonna phana pholaga ngakaphirserie!",
+      "english_translation": "Now, in this Valley of Humiliation, poor Christian was hard put to it; for he had gone but a little way, before he espied a foul fiend coming over the field to meet him; his name is Apollyon. He was clothed with scales, and out of his belly came fire and smoke. Apollyon said, Thou hast done this according to the proverb, Change a bad for a worse: but there is no prince that will thus lightly lose his subjects, neither will I as yet lose thee: return. Christian answered, I am the servant of the King of princes! Then did Christian nimbly stretch out his hand for his sword, and caught it, saying, Rejoice not against me, O mine enemy: when I fall, I shall arise. And with that he gave him a deadly thrust, and Apollyon spread forth his dragon's wings, and sped him away.",
+      "vocabulary": [
+        {
+          "word": "kasham sha",
+          "pos": "noun",
+          "meaning": "foul beast, predatory monster",
+          "example": "Apollyon kasham sha."
+        },
+        {
+          "word": "Shiyankasang",
+          "pos": "noun",
+          "meaning": "Sovereign King of Kings, High Lord",
+          "example": "Kazingramwui Shiyankasang."
+        },
+        {
+          "word": "ngakaphirserie",
+          "pos": "verb",
+          "meaning": "fled rapidly, flew away in defeat",
+          "example": "Phana pholaga ngakaphirserie."
+        }
+      ],
+      "grammar_notes": [
+        "Adversarial encounter narrative discourse.",
+        "Tangkhul dragon/beast terminology: 'meikashe katha' (scaled like a serpent/pangolin)."
+      ],
+      "exercises": [
+        "Describe Apollyon using the Tangkhul descriptive phrases.",
+        "How did Christian overcome the adversary?"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Vanity Fair & The Celestial City (Jerusalem Kathara)",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Faithful's martyrdom at Vanity Fair, Christian reaching the River of Death, and entry into Celestial Glory.",
+      "tangkhul_text": "Chapter 5: Christian kala Faithfulna Vanity Fair kaho phanit kashangli vashukrie, chithuili mikumona ngaleiwui saphā-kashang kazip-kasaye. Faithfulna kashung tui hangkaji vang chithuili thiri; kha ana kazingramwui chariot eina chithangathukserie. Christianna Hopeful eina zanglaga River of Deathli vashukrie; kala kapei tui katek-tek ngakorlaga athum kazingramwui Shillong Katharali vashukserie! Chitharan athumli kachon kachak sangmi, kala shillong tharili trumpet khongrie: 'Rarlu, ithui Shiyankasangwui mathatli zanglu!' Kala i khangayangli ngakhur-rarlakna.",
+      "english_translation": "Then I saw in my dream, that they went on, until they came into a fair, called Vanity Fair, where all kinds of worldly wares are sold. Faithful was condemned and put to death, but a chariot waited to take him through the clouds into the Celestial City. Christian and Hopeful came to the River without a bridge, and passing through the deep waters, they arrived at the Mount Zion. The Shining Ones welcomed them: Enter ye into the joy of your Lord. And all the bells in the city rang again for joy; and lo, it was a dream, and I awoke.",
+      "vocabulary": [
+        {
+          "word": "Vanity Fair",
+          "pos": "proper noun",
+          "meaning": "Phanit Kashilashi (Fair of Empty Vanities)",
+          "example": "Vanity Fairli vashuk."
+        },
+        {
+          "word": "kachon kachak",
+          "pos": "noun",
+          "meaning": "pure white robe, shining garment",
+          "example": "Kachon kachak sangmi."
+        },
+        {
+          "word": "ngakhur-rarlakna",
+          "pos": "verb",
+          "meaning": "awoke from dream vision, opened eyes",
+          "example": "I khangayangli ngakhur."
+        }
+      ],
+      "grammar_notes": [
+        "Dream-vision awakening frame: 'kala i khangayangli ngakhur-rarlakna' (and lo, I awoke).",
+        "Contrast between 'ngaleiwui saphā' (worldly riches) and 'kazingramwui mathat' (heavenly joy)."
+      ],
+      "exercises": [
+        "Explain the moral message of Vanity Fair in Bunyan's allegory.",
+        "Translate the closing dream awakening sentence into Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Allegorical Character Register & Lexicon",
+      "page_start": 19,
+      "page_end": 21,
+      "summary": "Names of 25 allegorical characters and their Tangkhul translations and moral attributes.",
+      "tangkhul_text": "Pilgrim's Progress Tangkhul Names:\n1. Christian -- Christian (Khangayei Khayangnao)\n2. Evangelist -- Pao-khamatha phungnao\n3. Obstinate -- Ningkashang\n4. Pliable -- Ningkapha\n5. Help -- Khangachonnao\n6. Goodwill -- Tung-kaphānao\n7. Faithful -- Chotkhangashitnao\n8. Hopeful -- Ngachikannao",
+      "english_translation": "Character register and ethical lexicon of the Tangkhul Pilgrim's Progress.",
+      "vocabulary": [
+        {
+          "word": "Evangelist",
+          "pos": "proper noun",
+          "meaning": "Pao-khamatha phungnao",
+          "example": "Evangelistna shongfa chithei."
+        },
+        {
+          "word": "Faithful",
+          "pos": "proper noun",
+          "meaning": "Chotkhangashitnao",
+          "example": "Faithfulna mashung tui hang."
+        }
+      ],
+      "grammar_notes": [
+        "Agentive personal suffix '-nao' used to create allegorical names (e.g. Ningkashangnao)."
+      ],
+      "exercises": [
+        "Create three new allegorical characters in Tangkhul using the suffix '-nao'."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Khangayeiwui Khayang: John Bunyan's The ",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "KHANGAYEIWUI KHAYANG: JOHN BUNYAN'S THE PILGRIM'S PROGRESS IN TANGKHUL NAGA"
+        ],
+        [
+          "/F1",
+          11,
+          "The Pilgrim's Progress in Tangkhul Naga"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: John Bunyan, William Pettigrew, Ukhrul Mission Committee"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Ukhrul Mission Press / Tangkhul Literature Society"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 1932 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Khangayeiwui Khayang: John Bunyan's The Pilgrim's Progress in Tangkhul Naga -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: The Pilgrim's Progress in Tangkhul Naga",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "John Bunyan's 1678 allegory was rendered into Tangkhul Naga in the early"
+        ],
+        [
+          "/F1",
+          10,
+          "1930s. The allegory resonated profoundly with Tangkhul storytelling"
+        ],
+        [
+          "/F1",
+          10,
+          "traditions: perilous mountain passes, giants, bogs of despondency, and"
+        ],
+        [
+          "/F1",
+          10,
+          "fortified spiritual gates. It became one of the most widely read prose"
+        ],
+        [
+          "/F1",
+          10,
+          "texts in Ukhrul and the surrounding hills."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-PILGRIM-1932"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "John Bunyan's 1678 allegory was rendered into Tangkhul Naga in the early 1930s. The allegory resonated profoundly with T...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Burdened Pilgrim & Departure from the City o ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Slough of Despond & The Wicket Gate ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: The Hill Difficulty & The Palace Beautiful ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: The Valley of Humiliation & Conflict with Apolly ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 5: Vanity Fair & The Celestial City (Jerusalem Kath ..... Page 16"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 6: Allegorical Character Register & Lexicon ..... Page 19"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 22"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 6.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Burdened Pilgrim & Departure from the City of Destruction",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE BURDENED PILGRIM & DEPARTURE FROM THE CITY OF DESTRUCTION"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Christian weeping over his heavy burden, reading the Book, and Evangelist pointi..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 1: I kachak ngaleili ramkhangateili yanglakha, kasham shillongli"
+        ],
+        [
+          "/F1",
+          9,
+          "mayarnaowon akha theitserie. Awui pakhonli phashan kashang akha"
+        ],
+        [
+          "/F1",
+          9,
+          "phunkahaye, kala awui khutli Lairik akha huikahaye. Ana Lairik chi"
+        ],
+        [
+          "/F1",
+          9,
+          "hanglaga ngachire, kala 'I khipa sara? I katha eina huikhuira?' hoda"
+        ],
+        [
+          "/F1",
+          9,
+          "chirkhangahok eina hohe. Chitharan Evangelist kaho mi akha awui ngalemli"
+        ],
+        [
+          "/F1",
+          9,
+          "rarlaga hang: 'Nawui mik-ngalemli khong kakat chi theimacho?'"
+        ],
+        [
+          "/F1",
+          9,
+          "Mayarnaowon china hang: 'Thei-mashuk-mana.' Evangelistna hang:"
+        ],
+        [
+          "/F1",
+          9,
+          "'Chitharan mangashan kashang chi theilu, kala chichi shurva-lu;"
+        ],
+        [
+          "/F1",
+          9,
+          "chitharan na khong chithuili zanglaga huikhuira!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "As I walked through the wilderness of this world, I lighted on a certain"
+        ],
+        [
+          "/F1",
+          9,
+          "place where was a den, and I laid me down in that place to sleep: and as"
+        ],
+        [
+          "/F1",
+          9,
+          "I slept, I dreamed a dream. I looked, and saw a man clothed with rags,"
+        ],
+        [
+          "/F1",
+          9,
+          "standing in a certain place, with his face from his own house, a book in"
+        ],
+        [
+          "/F1",
+          9,
+          "his hand, and a great burden upon his back. He wept and trembled; and"
+        ],
+        [
+          "/F1",
+          9,
+          "not being able longer to contain, he brake out with a lamentable cry,"
+        ],
+        [
+          "/F1",
+          9,
+          "saying, What shall I do? Then said Evangelist, pointing with his finger"
+        ],
+        [
+          "/F1",
+          9,
+          "over a very wide field, Do you see yonder wicket-gate? The man said, No."
+        ],
+        [
+          "/F1",
+          9,
+          "Then said the other, Do you see yonder shining light? Keep that light in"
+        ],
+        [
+          "/F1",
+          9,
+          "your eye, and go up directly thereto: so shalt thou see the gate."
+        ]
+      ],
+      "tangkhul_content": "Chapter 1: I kachak ngaleili ramkhangateili yanglakha, kasham shillongli mayarnaowon akha theitserie. Awui pakhonli phashan kashang akha phunkahaye, kala awui khutli Lairik akha huikahaye. Ana Lairik chi hanglaga ngachire, kala 'I khipa sara? I katha eina huikhuira?' hoda chirkhangahok eina hohe. Chitharan Evangelist kaho mi akha awui ngalemli rarlaga hang: 'Nawui mik-ngalemli khong kakat chi theimacho?' Mayarnaowon china hang: 'Thei-mashuk-mana.' Evangelistna hang: 'Chitharan mangashan kashang chi theilu, kala chichi shurva-lu; chitharan na khong chithuili zanglaga huikhuira!'",
+      "english_translation": "As I walked through the wilderness of this world, I lighted on a certain place where was a den, and I laid me down in that place to sleep: and as I slept, I dreamed a dream. I looked, and saw a man clothed with rags, standing in a certain place, with his face from his own house, a book in his hand, and a great burden upon his back. He wept and trembled; and not being able longer to contain, he brake out with a lamentable cry, saying, What shall I do? Then said Evangelist, pointing with his finger over a very wide field, Do you see yonder wicket-gate? The man said, No. Then said the other, Do you see yonder shining light? Keep that light in your eye, and go up directly thereto: so shalt thou see the gate.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Burdened Pilgrim & Departure from the City of Destruction",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kasham shillong (noun): City of Destruction, doomed town"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kasham shillongli mayarnao."
+        ],
+        [
+          "/F2",
+          9,
+          "  * pakhon (noun): back, shoulders carrying heavy load"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awui pakhonli phashan."
+        ],
+        [
+          "/F2",
+          9,
+          "  * khong kakat (noun): strait gate, narrow wicket entrance"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khong kakat chi theilu."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Tangkhul framing for dream vision: 'I kachak ngaleili... yanglakha' (As I surveyed in the world of dreams)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Emotional burst expression: 'chirkhangahok eina' (with weeping lamentation)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the Tangkhul equivalent for 'Wicket Gate'."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the psychological significance of the burden on the pilgrim's back."
+        ]
+      ],
+      "tangkhul_content": "kasham shillong: City of Destruction, doomed town; pakhon: back, shoulders carrying heavy load; khong kakat: strait gate, narrow wicket entrance",
+      "english_translation": "Tangkhul framing for dream vision: 'I kachak ngaleili... yanglakha' (As I surveyed in the world of dreams).; Emotional burst expression: 'chirkhangahok eina' (with weeping lamentation).",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Burdened Pilgrim & Departure from the City of Destruction",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Slough of Despond & The Wicket Gate",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE SLOUGH OF DESPOND & THE WICKET GATE"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Christian sinks in the mire of despondency, is rescued by Help, and reaches the ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 2: Athum khani shongfa eina zatlakha, khamathān ngalung"
+        ],
+        [
+          "/F1",
+          9,
+          "kashilashi kacham akhali tuisangserie; chiwui ming Despond Miram (Slough"
+        ],
+        [
+          "/F1",
+          9,
+          "of Despond) hose. Chitharan Christianna awui pakhon kashang chiwui vang"
+        ],
+        [
+          "/F1",
+          9,
+          "ngalungli ngashumsangie. Kha theilu, Help kaho mi akha rarlaga awui"
+        ],
+        [
+          "/F1",
+          9,
+          "khutli huitsangserie, kala hang: 'Khikha mangachek-alu, shongfa"
+        ],
+        [
+          "/F1",
+          9,
+          "mashungli rarlu!' Chiwui tharan Christianna khong kakatli vashuklaga"
+        ],
+        [
+          "/F1",
+          9,
+          "kakorrie; kala Goodwillna khong hungkahanglaga ali shimsangie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "They drew near to a very miry slough, that was in the midst of the"
+        ],
+        [
+          "/F1",
+          9,
+          "plain; and they being heedless, did both fall suddenly into the bog. The"
+        ],
+        [
+          "/F1",
+          9,
+          "name of the slough was Despond. Here therefore they wallowed for a time,"
+        ],
+        [
+          "/F1",
+          9,
+          "being grievously bedaubed with dirt; and Christian, because of the"
+        ],
+        [
+          "/F1",
+          9,
+          "burden that was on his back, began to sink in the mire. Then came a man"
+        ],
+        [
+          "/F1",
+          9,
+          "to him whose name was Help, and said, Give me thine hand: so he gave him"
+        ],
+        [
+          "/F1",
+          9,
+          "his hand, and he drew him out, and set him upon sound ground. Then"
+        ],
+        [
+          "/F1",
+          9,
+          "Christian came up to the gate, and knocked, and Goodwill opened unto"
+        ],
+        [
+          "/F1",
+          9,
+          "him."
+        ]
+      ],
+      "tangkhul_content": "Chapter 2: Athum khani shongfa eina zatlakha, khamathān ngalung kashilashi kacham akhali tuisangserie; chiwui ming Despond Miram (Slough of Despond) hose. Chitharan Christianna awui pakhon kashang chiwui vang ngalungli ngashumsangie. Kha theilu, Help kaho mi akha rarlaga awui khutli huitsangserie, kala hang: 'Khikha mangachek-alu, shongfa mashungli rarlu!' Chiwui tharan Christianna khong kakatli vashuklaga kakorrie; kala Goodwillna khong hungkahanglaga ali shimsangie.",
+      "english_translation": "They drew near to a very miry slough, that was in the midst of the plain; and they being heedless, did both fall suddenly into the bog. The name of the slough was Despond. Here therefore they wallowed for a time, being grievously bedaubed with dirt; and Christian, because of the burden that was on his back, began to sink in the mire. Then came a man to him whose name was Help, and said, Give me thine hand: so he gave him his hand, and he drew him out, and set him upon sound ground. Then Christian came up to the gate, and knocked, and Goodwill opened unto him.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Slough of Despond & The Wicket Gate",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngalung (noun): miry bog, deep swamp mud"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngalungli ngashumsang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kakorrie (verb): knocked persistently"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khong kakatli kakorrie."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Goodwill (proper noun): Tung-kaphā (Goodwill, gracious gatekeeper)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Goodwillna shimsangie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Idiomatic sink verb: 'ngashumsang' (to sink deeply into muddy morass)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Sequential narrative suffix '-laga': 'vashuklaga kakorrie' (having arrived, he knocked)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Contrast the characters Pliable and Christian in the Slough of Despond."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How is 'Help' represented in Tangkhul?"
+        ]
+      ],
+      "tangkhul_content": "ngalung: miry bog, deep swamp mud; kakorrie: knocked persistently; Goodwill: Tung-kaphā (Goodwill, gracious gatekeeper)",
+      "english_translation": "Idiomatic sink verb: 'ngashumsang' (to sink deeply into muddy morass).; Sequential narrative suffix '-laga': 'vashuklaga kakorrie' (having arrived, he knocked).",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Slough of Despond & The Wicket Gate",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "The Hill Difficulty & The Palace Beautiful",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: THE HILL DIFFICULTY & THE PALACE BEAUTIFUL"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Climbing the steep precipice of Difficulty, resting in the arbor, and arriving a..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 3: Christianna Hill Difficulty kaho kaphung kashangli vashukrie."
+        ],
+        [
+          "/F1",
+          9,
+          "Shongfa chinawui chishatna kaphung kathara thada vaye, kala ana kakhut"
+        ],
+        [
+          "/F1",
+          9,
+          "eina, khut eina kakhorlaga thuk-kashok-e. Kaphung wui ngalemli ana Shim"
+        ],
+        [
+          "/F1",
+          9,
+          "Kaphā (Palace Beautiful) theitserie; kala chithuili Prudence, Piety,"
+        ],
+        [
+          "/F1",
+          9,
+          "kala Charity kaho ngalanaobingna ali mathat-eina shimlaga kachak kaphā"
+        ],
+        [
+          "/F1",
+          9,
+          "shaksakserie, kala khangaraorapwui thingkot chitheitserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "I looked then after Christian, to see him go up the hill, where I"
+        ],
+        [
+          "/F1",
+          9,
+          "perceived he fell from running to going, and from going to clambering"
+        ],
+        [
+          "/F1",
+          9,
+          "upon his hands and his knees, because of the steepness of the place."
+        ],
+        [
+          "/F1",
+          9,
+          "Then he came to the house called Beautiful; and the porter Watchful"
+        ],
+        [
+          "/F1",
+          9,
+          "called Discretion, Piety, Prudence, and Charity, who welcomed him in,"
+        ],
+        [
+          "/F1",
+          9,
+          "and gave him refreshment, and showed him the armory of celestial"
+        ],
+        [
+          "/F1",
+          9,
+          "weapons."
+        ]
+      ],
+      "tangkhul_content": "Chapter 3: Christianna Hill Difficulty kaho kaphung kashangli vashukrie. Shongfa chinawui chishatna kaphung kathara thada vaye, kala ana kakhut eina, khut eina kakhorlaga thuk-kashok-e. Kaphung wui ngalemli ana Shim Kaphā (Palace Beautiful) theitserie; kala chithuili Prudence, Piety, kala Charity kaho ngalanaobingna ali mathat-eina shimlaga kachak kaphā shaksakserie, kala khangaraorapwui thingkot chitheitserie.",
+      "english_translation": "I looked then after Christian, to see him go up the hill, where I perceived he fell from running to going, and from going to clambering upon his hands and his knees, because of the steepness of the place. Then he came to the house called Beautiful; and the porter Watchful called Discretion, Piety, Prudence, and Charity, who welcomed him in, and gave him refreshment, and showed him the armory of celestial weapons.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: The Hill Difficulty & The Palace Beautiful",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Hill Difficulty (proper noun): Kaphung Kashakashiri (Steep Mount of Hardship)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kaphungli thuk-kashok."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kakhorlaga (verb): clambering on hands and knees"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khut eina kakhorlaga."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thingkot (noun): armor, protective weapons, shields"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khangaraorapwui thingkot."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Progressive velocity transition: running -> walking -> crawling expressed with serial verb compounds."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Allegorical personification of Christian virtues in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate 'clambering on hands and knees' into colloquial Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What virtues welcome Christian into Palace Beautiful?"
+        ]
+      ],
+      "tangkhul_content": "Hill Difficulty: Kaphung Kashakashiri (Steep Mount of Hardship); kakhorlaga: clambering on hands and knees; thingkot: armor, protective weapons, shields",
+      "english_translation": "Progressive velocity transition: running -> walking -> crawling expressed with serial verb compounds.; Allegorical personification of Christian virtues in Tangkhul.",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: The Hill Difficulty & The Palace Beautiful",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "The Valley of Humiliation & Conflict with Apollyon",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: THE VALLEY OF HUMILIATION & CONFLICT WITH APOLLYON"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Descent into the valley, dread confrontation with Apollyon, and victory with the..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 4: Christianna Longkhor Kakat (Valley of Humiliation) li"
+        ],
+        [
+          "/F1",
+          9,
+          "zangsangie. Chitharan theilu, Apollyon kaho kasham sha akha rarlaga awui"
+        ],
+        [
+          "/F1",
+          9,
+          "shongfali ngaphamsai. Awui aphasa meikashe katha, kala meikazat awui"
+        ],
+        [
+          "/F1",
+          9,
+          "khong eina shoke. Ana Christianli hang: 'Nawui ramli valoo, na iwui"
+        ],
+        [
+          "/F1",
+          9,
+          "mayarnao-sai!' Kha Christianna hang: 'I Kazingramwui Shiyankasangwui"
+        ],
+        [
+          "/F1",
+          9,
+          "mayarnao-sai!' Apollyonna meithei shuklaga Christianli haksangie; kha"
+        ],
+        [
+          "/F1",
+          9,
+          "Christianna awui sword eina Apollyonli kashukserie, kala Apollyonna"
+        ],
+        [
+          "/F1",
+          9,
+          "phana pholaga ngakaphirserie!"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Now, in this Valley of Humiliation, poor Christian was hard put to it;"
+        ],
+        [
+          "/F1",
+          9,
+          "for he had gone but a little way, before he espied a foul fiend coming"
+        ],
+        [
+          "/F1",
+          9,
+          "over the field to meet him; his name is Apollyon. He was clothed with"
+        ],
+        [
+          "/F1",
+          9,
+          "scales, and out of his belly came fire and smoke. Apollyon said, Thou"
+        ],
+        [
+          "/F1",
+          9,
+          "hast done this according to the proverb, Change a bad for a worse: but"
+        ],
+        [
+          "/F1",
+          9,
+          "there is no prince that will thus lightly lose his subjects, neither"
+        ],
+        [
+          "/F1",
+          9,
+          "will I as yet lose thee: return. Christian answered, I am the servant of"
+        ],
+        [
+          "/F1",
+          9,
+          "the King of princes! Then did Christian nimbly stretch out his hand for"
+        ],
+        [
+          "/F1",
+          9,
+          "his sword, and caught it, saying, Rejoice not against me, O mine enemy:"
+        ],
+        [
+          "/F1",
+          9,
+          "when I fall, I shall arise. And with that he gave him a deadly thrust,"
+        ],
+        [
+          "/F1",
+          9,
+          "and Apollyon spread forth his dragon's wings, and sped him away."
+        ]
+      ],
+      "tangkhul_content": "Chapter 4: Christianna Longkhor Kakat (Valley of Humiliation) li zangsangie. Chitharan theilu, Apollyon kaho kasham sha akha rarlaga awui shongfali ngaphamsai. Awui aphasa meikashe katha, kala meikazat awui khong eina shoke. Ana Christianli hang: 'Nawui ramli valoo, na iwui mayarnao-sai!' Kha Christianna hang: 'I Kazingramwui Shiyankasangwui mayarnao-sai!' Apollyonna meithei shuklaga Christianli haksangie; kha Christianna awui sword eina Apollyonli kashukserie, kala Apollyonna phana pholaga ngakaphirserie!",
+      "english_translation": "Now, in this Valley of Humiliation, poor Christian was hard put to it; for he had gone but a little way, before he espied a foul fiend coming over the field to meet him; his name is Apollyon. He was clothed with scales, and out of his belly came fire and smoke. Apollyon said, Thou hast done this according to the proverb, Change a bad for a worse: but there is no prince that will thus lightly lose his subjects, neither will I as yet lose thee: return. Christian answered, I am the servant of the King of princes! Then did Christian nimbly stretch out his hand for his sword, and caught it, saying, Rejoice not against me, O mine enemy: when I fall, I shall arise. And with that he gave him a deadly thrust, and Apollyon spread forth his dragon's wings, and sped him away.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: The Valley of Humiliation & Conflict with Apollyon",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kasham sha (noun): foul beast, predatory monster"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Apollyon kasham sha."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Shiyankasang (noun): Sovereign King of Kings, High Lord"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kazingramwui Shiyankasang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngakaphirserie (verb): fled rapidly, flew away in defeat"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Phana pholaga ngakaphirserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Adversarial encounter narrative discourse."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Tangkhul dragon/beast terminology: 'meikashe katha' (scaled like a serpent/pangolin)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Describe Apollyon using the Tangkhul descriptive phrases."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How did Christian overcome the adversary?"
+        ]
+      ],
+      "tangkhul_content": "kasham sha: foul beast, predatory monster; Shiyankasang: Sovereign King of Kings, High Lord; ngakaphirserie: fled rapidly, flew away in defeat",
+      "english_translation": "Adversarial encounter narrative discourse.; Tangkhul dragon/beast terminology: 'meikashe katha' (scaled like a serpent/pangolin).",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: The Valley of Humiliation & Conflict with Apollyon",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter",
+      "header": "CHAPTER 5",
+      "title": "Vanity Fair & The Celestial City (Jerusalem Kathara)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 5: VANITY FAIR & THE CELESTIAL CITY (JERUSALEM KATHARA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Faithful's martyrdom at Vanity Fair, Christian reaching the River of Death, and ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Chapter 5: Christian kala Faithfulna Vanity Fair kaho phanit kashangli"
+        ],
+        [
+          "/F1",
+          9,
+          "vashukrie, chithuili mikumona ngaleiwui saphā-kashang kazip-kasaye."
+        ],
+        [
+          "/F1",
+          9,
+          "Faithfulna kashung tui hangkaji vang chithuili thiri; kha ana"
+        ],
+        [
+          "/F1",
+          9,
+          "kazingramwui chariot eina chithangathukserie. Christianna Hopeful eina"
+        ],
+        [
+          "/F1",
+          9,
+          "zanglaga River of Deathli vashukrie; kala kapei tui katek-tek ngakorlaga"
+        ],
+        [
+          "/F1",
+          9,
+          "athum kazingramwui Shillong Katharali vashukserie! Chitharan athumli"
+        ],
+        [
+          "/F1",
+          9,
+          "kachon kachak sangmi, kala shillong tharili trumpet khongrie: 'Rarlu,"
+        ],
+        [
+          "/F1",
+          9,
+          "ithui Shiyankasangwui mathatli zanglu!' Kala i khangayangli ngakhur-"
+        ],
+        [
+          "/F1",
+          9,
+          "rarlakna."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Then I saw in my dream, that they went on, until they came into a fair,"
+        ],
+        [
+          "/F1",
+          9,
+          "called Vanity Fair, where all kinds of worldly wares are sold. Faithful"
+        ],
+        [
+          "/F1",
+          9,
+          "was condemned and put to death, but a chariot waited to take him through"
+        ],
+        [
+          "/F1",
+          9,
+          "the clouds into the Celestial City. Christian and Hopeful came to the"
+        ],
+        [
+          "/F1",
+          9,
+          "River without a bridge, and passing through the deep waters, they"
+        ],
+        [
+          "/F1",
+          9,
+          "arrived at the Mount Zion. The Shining Ones welcomed them: Enter ye into"
+        ],
+        [
+          "/F1",
+          9,
+          "the joy of your Lord. And all the bells in the city rang again for joy;"
+        ],
+        [
+          "/F1",
+          9,
+          "and lo, it was a dream, and I awoke."
+        ]
+      ],
+      "tangkhul_content": "Chapter 5: Christian kala Faithfulna Vanity Fair kaho phanit kashangli vashukrie, chithuili mikumona ngaleiwui saphā-kashang kazip-kasaye. Faithfulna kashung tui hangkaji vang chithuili thiri; kha ana kazingramwui chariot eina chithangathukserie. Christianna Hopeful eina zanglaga River of Deathli vashukrie; kala kapei tui katek-tek ngakorlaga athum kazingramwui Shillong Katharali vashukserie! Chitharan athumli kachon kachak sangmi, kala shillong tharili trumpet khongrie: 'Rarlu, ithui Shiyankasangwui mathatli zanglu!' Kala i khangayangli ngakhur-rarlakna.",
+      "english_translation": "Then I saw in my dream, that they went on, until they came into a fair, called Vanity Fair, where all kinds of worldly wares are sold. Faithful was condemned and put to death, but a chariot waited to take him through the clouds into the Celestial City. Christian and Hopeful came to the River without a bridge, and passing through the deep waters, they arrived at the Mount Zion. The Shining Ones welcomed them: Enter ye into the joy of your Lord. And all the bells in the city rang again for joy; and lo, it was a dream, and I awoke.",
+      "notes": "Primary text of Chapter 5."
+    },
+    {
+      "page_number": 17,
+      "page_type": "study_page",
+      "header": "CH 5 STUDY",
+      "title": "Study Notes: Vanity Fair & The Celestial City (Jerusalem Kathara)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Vanity Fair (proper noun): Phanit Kashilashi (Fair of Empty Vanities)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Vanity Fairli vashuk."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachon kachak (noun): pure white robe, shining garment"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kachon kachak sangmi."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngakhur-rarlakna (verb): awoke from dream vision, opened eyes"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: I khangayangli ngakhur."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Dream-vision awakening frame: 'kala i khangayangli ngakhur-rarlakna' (and lo, I awoke)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Contrast between 'ngaleiwui saphā' (worldly riches) and 'kazingramwui mathat' (heavenly joy)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the moral message of Vanity Fair in Bunyan's allegory."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate the closing dream awakening sentence into Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "Vanity Fair: Phanit Kashilashi (Fair of Empty Vanities); kachon kachak: pure white robe, shining garment; ngakhur-rarlakna: awoke from dream vision, opened eyes",
+      "english_translation": "Dream-vision awakening frame: 'kala i khangayangli ngakhur-rarlakna' (and lo, I awoke).; Contrast between 'ngaleiwui saphā' (worldly riches) and 'kazingramwui mathat' (heavenly joy).",
+      "notes": "Linguistic notes and exercises for Chapter 5."
+    },
+    {
+      "page_number": 18,
+      "page_type": "commentary",
+      "header": "CH 5 COMMENTARY",
+      "title": "Commentary: Vanity Fair & The Celestial City (Jerusalem Kathara)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 5."
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter",
+      "header": "CHAPTER 6",
+      "title": "Allegorical Character Register & Lexicon",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 6: ALLEGORICAL CHARACTER REGISTER & LEXICON"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Names of 25 allegorical characters and their Tangkhul translations and moral att..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Pilgrim's Progress Tangkhul Names:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Christian -- Christian (Khangayei Khayangnao)"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Evangelist -- Pao-khamatha phungnao"
+        ],
+        [
+          "/F1",
+          9,
+          "3. Obstinate -- Ningkashang"
+        ],
+        [
+          "/F1",
+          9,
+          "4. Pliable -- Ningkapha"
+        ],
+        [
+          "/F1",
+          9,
+          "5. Help -- Khangachonnao"
+        ],
+        [
+          "/F1",
+          9,
+          "6. Goodwill -- Tung-kaphānao"
+        ],
+        [
+          "/F1",
+          9,
+          "7. Faithful -- Chotkhangashitnao"
+        ],
+        [
+          "/F1",
+          9,
+          "8. Hopeful -- Ngachikannao"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Character register and ethical lexicon of the Tangkhul Pilgrim's"
+        ],
+        [
+          "/F1",
+          9,
+          "Progress."
+        ]
+      ],
+      "tangkhul_content": "Pilgrim's Progress Tangkhul Names:\n1. Christian -- Christian (Khangayei Khayangnao)\n2. Evangelist -- Pao-khamatha phungnao\n3. Obstinate -- Ningkashang\n4. Pliable -- Ningkapha\n5. Help -- Khangachonnao\n6. Goodwill -- Tung-kaphānao\n7. Faithful -- Chotkhangashitnao\n8. Hopeful -- Ngachikannao",
+      "english_translation": "Character register and ethical lexicon of the Tangkhul Pilgrim's Progress.",
+      "notes": "Primary text of Chapter 6."
+    },
+    {
+      "page_number": 20,
+      "page_type": "study_page",
+      "header": "CH 6 STUDY",
+      "title": "Study Notes: Allegorical Character Register & Lexicon",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Evangelist (proper noun): Pao-khamatha phungnao"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Evangelistna shongfa chithei."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Faithful (proper noun): Chotkhangashitnao"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Faithfulna mashung tui hang."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Agentive personal suffix '-nao' used to create allegorical names (e.g. Ningkashangnao)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Create three new allegorical characters in Tangkhul using the suffix '-nao'."
+        ]
+      ],
+      "tangkhul_content": "Evangelist: Pao-khamatha phungnao; Faithful: Chotkhangashitnao",
+      "english_translation": "Agentive personal suffix '-nao' used to create allegorical names (e.g. Ningkashangnao).",
+      "notes": "Linguistic notes and exercises for Chapter 6."
+    },
+    {
+      "page_number": 21,
+      "page_type": "commentary",
+      "header": "CH 6 COMMENTARY",
+      "title": "Commentary: Allegorical Character Register & Lexicon",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 6."
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kasham shillong -- City of Destruction, doomed town"
+        ],
+        [
+          "/F1",
+          9,
+          "  * pakhon -- back, shoulders carrying heavy load"
+        ],
+        [
+          "/F1",
+          9,
+          "  * khong kakat -- strait gate, narrow wicket entrance"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ngalung -- miry bog, deep swamp mud"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kakorrie -- knocked persistently"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Goodwill -- Tung-kaphā (Goodwill, gracious gatekeeper)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Hill Difficulty -- Kaphung Kashakashiri (Steep Mount of Hardship)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kakhorlaga -- clambering on hands and knees"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "kasham shillong",
+        "pos": "noun",
+        "meaning": "City of Destruction, doomed town",
+        "example": "Kasham shillongli mayarnao."
+      },
+      {
+        "word": "pakhon",
+        "pos": "noun",
+        "meaning": "back, shoulders carrying heavy load",
+        "example": "Awui pakhonli phashan."
+      },
+      {
+        "word": "khong kakat",
+        "pos": "noun",
+        "meaning": "strait gate, narrow wicket entrance",
+        "example": "Khong kakat chi theilu."
+      },
+      {
+        "word": "ngalung",
+        "pos": "noun",
+        "meaning": "miry bog, deep swamp mud",
+        "example": "Ngalungli ngashumsang."
+      },
+      {
+        "word": "kakorrie",
+        "pos": "verb",
+        "meaning": "knocked persistently",
+        "example": "Khong kakatli kakorrie."
+      },
+      {
+        "word": "Goodwill",
+        "pos": "proper noun",
+        "meaning": "Tung-kaphā (Goodwill, gracious gatekeeper)",
+        "example": "Goodwillna shimsangie."
+      },
+      {
+        "word": "Hill Difficulty",
+        "pos": "proper noun",
+        "meaning": "Kaphung Kashakashiri (Steep Mount of Hardship)",
+        "example": "Kaphungli thuk-kashok."
+      },
+      {
+        "word": "kakhorlaga",
+        "pos": "verb",
+        "meaning": "clambering on hands and knees",
+        "example": "Khut eina kakhorlaga."
+      },
+      {
+        "word": "thingkot",
+        "pos": "noun",
+        "meaning": "armor, protective weapons, shields",
+        "example": "Khangaraorapwui thingkot."
+      },
+      {
+        "word": "kasham sha",
+        "pos": "noun",
+        "meaning": "foul beast, predatory monster",
+        "example": "Apollyon kasham sha."
+      },
+      {
+        "word": "Shiyankasang",
+        "pos": "noun",
+        "meaning": "Sovereign King of Kings, High Lord",
+        "example": "Kazingramwui Shiyankasang."
+      },
+      {
+        "word": "ngakaphirserie",
+        "pos": "verb",
+        "meaning": "fled rapidly, flew away in defeat",
+        "example": "Phana pholaga ngakaphirserie."
+      },
+      {
+        "word": "Vanity Fair",
+        "pos": "proper noun",
+        "meaning": "Phanit Kashilashi (Fair of Empty Vanities)",
+        "example": "Vanity Fairli vashuk."
+      },
+      {
+        "word": "kachon kachak",
+        "pos": "noun",
+        "meaning": "pure white robe, shining garment",
+        "example": "Kachon kachak sangmi."
+      },
+      {
+        "word": "ngakhur-rarlakna",
+        "pos": "verb",
+        "meaning": "awoke from dream vision, opened eyes",
+        "example": "I khangayangli ngakhur."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 22,
+  "total_chapters": 6,
+  "total_words": 940,
+  "excerpts": [
+    "Chapter 1: I kachak ngaleili ramkhangateili yanglakha, kasham shillongli mayarnaowon akha theitserie. Awui pakhonli phas...",
+    "Chapter 2: Athum khani shongfa eina zatlakha, khamathān ngalung kashilashi kacham akhali tuisangserie; chiwui ming Despo...",
+    "Chapter 3: Christianna Hill Difficulty kaho kaphung kashangli vashukrie. Shongfa chinawui chishatna kaphung kathara thad...",
+    "Chapter 4: Christianna Longkhor Kakat (Valley of Humiliation) li zangsangie. Chitharan theilu, Apollyon kaho kasham sha ...",
+    "Chapter 5: Christian kala Faithfulna Vanity Fair kaho phanit kashangli vashukrie, chithuili mikumona ngaleiwui saphā-kas...",
+    "Pilgrim's Progress Tangkhul Names:\n1. Christian -- Christian (Khangayei Khayangnao)\n2. Evangelist -- Pao-khamatha phungn..."
+  ]
+}

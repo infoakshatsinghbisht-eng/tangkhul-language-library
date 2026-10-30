@@ -1,0 +1,310 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1425 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(ASPIRATION DISSIMILATION AND PHONOLOGICAL RULES IN TANGKHUL NAGA) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Deepthi Gopal) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Carnegie Mellon University Working Papers in Linguistics | Year: 2016) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Phonetics & Laboratory Phonology | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(In Tangkhul Naga, prefixal stop consonants exhibit systematic aspiration) Tj
+0 -13 Td
+/F1 9 Tf
+(dissimilation reminiscent of Grassmann's Law in Indo-European. When a) Tj
+0 -13 Td
+/F1 9 Tf
+(verbal root begins with an aspirated stop \(ph-, th-, kh-\), the preceding) Tj
+0 -13 Td
+/F1 9 Tf
+(nominalizing/infinitive prefix surfaces as an unaspirated stop [ke-].) Tj
+0 -13 Td
+/F1 9 Tf
+(Conversely, when the verbal root begins with an unaspirated stop or) Tj
+0 -13 Td
+/F1 9 Tf
+(sonorant, the prefix is realized with robust aspiration [khe-] in) Tj
+0 -13 Td
+/F1 9 Tf
+(conservative varieties. Using acoustic measurements of Voice Onset Time) Tj
+0 -13 Td
+/F1 9 Tf
+(\(VOT\) and burst spectra from 8 native speakers, this paper confirms that) Tj
+0 -13 Td
+/F1 9 Tf
+(aspiration is a syntagmatically governed feature bounded by the) Tj
+0 -13 Td
+/F1 9 Tf
+(phonological word.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Aspiration, Dissimilation, Grassmann's Law, Phonology, VOT, Acoustics) Tj
+0 -14 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1205 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. THE PHENOMENON OF ASPIRATION DISSIMILATION) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Phonologists have long studied long-distance consonant interactions such) Tj
+0 -13 Td
+/F1 9 Tf
+(as consonant harmony and dissimilation. In Tangkhul, the interaction) Tj
+0 -13 Td
+/F1 9 Tf
+(between the prefix consonant and the root-initial consonant exhibits a) Tj
+0 -13 Td
+/F1 9 Tf
+(classic Obligatory Contour Principle \(OCP\) effect for the feature) Tj
+0 -13 Td
+/F1 9 Tf
+([spread glottis]. Two adjacent syllables within the same phonological) Tj
+0 -13 Td
+/F1 9 Tf
+(stem cannot both surface with contrastive aspiration.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ke-pha [kapha] : good, beautiful) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root initial aspirated [ph-]; prefix is unaspirated [ke-].) Tj
+0 -12 Td
+/F2 9 Tf
+(  * khe-pa [khapa] : to read / recite) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root initial unaspirated [p-]; prefix surfaces with aspiration [khe-].) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ke-thi [kathi] : to die) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root [th-]; prefix dissimilates to unaspirated stop.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1125 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. ACOUSTIC METHODOLOGY & VOICE ONSET TIME \(VOT\)) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Acoustic recordings of 120 prefix-root words were analyzed in Praat.) Tj
+0 -13 Td
+/F1 9 Tf
+(Burst duration, Voice Onset Time \(VOT\), and vowel fundamental frequency) Tj
+0 -13 Td
+/F1 9 Tf
+(\(F0\) perturbation were quantified. Aspirated root onsets showed mean) Tj
+0 -13 Td
+/F1 9 Tf
+(VOTs of 68-85 ms, while unaspirated root onsets averaged 12-22 ms. The) Tj
+0 -13 Td
+/F1 9 Tf
+(prefix vowel duration showed compensatory shortening when preceding) Tj
+0 -13 Td
+/F1 9 Tf
+(aspirated roots, indicating a prosodic foot-level timing constraint.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * khe-sa [khasa] \(to be hot\) : VOT = 18 ms \(root\); Prefix aspiration = 45 ms) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Prefix aspiration licensed before fricatives.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ke-kham [kakham] \(to stop/hinder\) : VOT = 78 ms \(root\); Prefix aspiration = 0 ms) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Strict OCP dissimilation.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 749 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. THEORETICAL PHONOLOGICAL IMPLICATIONS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(These findings demonstrate that Tangkhul prefixal alternation is not) Tj
+0 -13 Td
+/F1 9 Tf
+(mere morphological suppletion, but an active phonological rule governed) Tj
+0 -13 Td
+/F1 9 Tf
+(by laryngeal licensing. It provides one of the few well-documented non-) Tj
+0 -13 Td
+/F1 9 Tf
+(Indo-European cases of Grassmann's Law in the Sino-Tibetan language) Tj
+0 -13 Td
+/F1 9 Tf
+(family.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ke-that [kathat] : to kill) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *g-sat; aspiration conditioned by ancient sibilant prefix.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 791 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Gopal, Deepthi. 2016. Aspiration 'dissimilation' in Tangkhul Naga. CMU) Tj
+0 -13 Td
+/F1 9 Tf
+(Working Papers in Linguistics 8: 45-68.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Ladefoged, Peter & Ian Maddieson. 1996. The Sounds of the World's) Tj
+0 -13 Td
+/F1 9 Tf
+(Languages. Blackwell.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* McCarthy, John. 1986. OCP Effects: Gemination and Antigemination.) Tj
+0 -13 Td
+/F1 9 Tf
+(Linguistic Inquiry 17\(2\): 207-263.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000000292 00000 n 
+0000000428 00000 n 
+0000001905 00000 n 
+0000002041 00000 n 
+0000003298 00000 n 
+0000003435 00000 n 
+0000004613 00000 n 
+0000004751 00000 n 
+0000005552 00000 n 
+0000005690 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+6533
+%%EOF

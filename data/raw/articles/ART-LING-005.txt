@@ -1,0 +1,37 @@
+TITLE: Aspiration Dissimilation and Phonological Rules in Tangkhul Naga
+AUTHORS: Deepthi Gopal
+JOURNAL / VENUE: Carnegie Mellon University Working Papers in Linguistics (2016)
+SUBJECT: Phonetics & Laboratory Phonology
+KEYWORDS: Aspiration, Dissimilation, Grassmann's Law, Phonology, VOT, Acoustics
+
+ABSTRACT:
+In Tangkhul Naga, prefixal stop consonants exhibit systematic aspiration dissimilation reminiscent of Grassmann's Law in Indo-European. When a verbal root begins with an aspirated stop (pʰ-, tʰ-, kʰ-), the preceding nominalizing/infinitive prefix surfaces as an unaspirated stop [kə-]. Conversely, when the verbal root begins with an unaspirated stop or sonorant, the prefix is realized with robust aspiration [kʰə-] in conservative varieties. Using acoustic measurements of Voice Onset Time (VOT) and burst spectra from 8 native speakers, this paper confirms that aspiration is a syntagmatically governed feature bounded by the phonological word.
+
+SECTION: 1. The Phenomenon of Aspiration Dissimilation
+Phonologists have long studied long-distance consonant interactions such as consonant harmony and dissimilation. In Tangkhul, the interaction between the prefix consonant and the root-initial consonant exhibits a classic Obligatory Contour Principle (OCP) effect for the feature [spread glottis]. Two adjacent syllables within the same phonological stem cannot both surface with contrastive aspiration.
+Linguistic Data:
+  * kə-pʰā [kaphā] : good, beautiful
+    Notes: Root initial aspirated [pʰ-]; prefix is unaspirated [kə-].
+  * kʰə-pa [khapa] : to read / recite
+    Notes: Root initial unaspirated [p-]; prefix surfaces with aspiration [kʰə-].
+  * kə-tʰi [kathi] : to die
+    Notes: Root [tʰ-]; prefix dissimilates to unaspirated stop.
+
+SECTION: 2. Acoustic Methodology & Voice Onset Time (VOT)
+Acoustic recordings of 120 prefix-root words were analyzed in Praat. Burst duration, Voice Onset Time (VOT), and vowel fundamental frequency (F0) perturbation were quantified. Aspirated root onsets showed mean VOTs of 68-85 ms, while unaspirated root onsets averaged 12-22 ms. The prefix vowel duration showed compensatory shortening when preceding aspirated roots, indicating a prosodic foot-level timing constraint.
+Linguistic Data:
+  * kʰə-sa [khasa] (to be hot) : VOT = 18 ms (root); Prefix aspiration = 45 ms
+    Notes: Prefix aspiration licensed before fricatives.
+  * kə-kʰam [kakham] (to stop/hinder) : VOT = 78 ms (root); Prefix aspiration = 0 ms
+    Notes: Strict OCP dissimilation.
+
+SECTION: 3. Theoretical Phonological Implications
+These findings demonstrate that Tangkhul prefixal alternation is not mere morphological suppletion, but an active phonological rule governed by laryngeal licensing. It provides one of the few well-documented non-Indo-European cases of Grassmann's Law in the Sino-Tibetan language family.
+Linguistic Data:
+  * kə-tʰat [kathat] : to kill
+    Notes: PTB *g-sat; aspiration conditioned by ancient sibilant prefix.
+
+REFERENCES:
+  - Gopal, Deepthi. 2016. Aspiration 'dissimilation' in Tangkhul Naga. CMU Working Papers in Linguistics 8: 45-68.
+  - Ladefoged, Peter & Ian Maddieson. 1996. The Sounds of the World's Languages. Blackwell.
+  - McCarthy, John. 1986. OCP Effects: Gemination and Antigemination. Linguistic Inquiry 17(2): 207-263.

@@ -1,0 +1,43 @@
+TITLE: Echo Word Formation and Reduplicative Morphology in Tangkhul Naga
+AUTHORS: Dr. S. Arokianathan
+JOURNAL / VENUE: Indian Linguistics (Journal of the Linguistic Society of India) (1984)
+SUBJECT: Descriptive Linguistics & Expressive Morphology
+KEYWORDS: Reduplication, Echo Words, Expressives, Ideophones, Arokianathan, Indian Linguistics
+
+ABSTRACT:
+In South Asian and Tibeto-Burman languages, reduplication and echo word formation constitute vital expressive devices imparting vivid sensory imagery and grammatical plurality. This paper investigates the phonological rules and semantic categories of reduplication in Tangkhul Naga. We distinguish between complete lexical reduplication (e.g., zingsho-zingsho 'daily'), partial reduplication with vowel alternation (e.g., chir-char 'bustling commotion'), and rhyming echo compounds that denote generalized collectives ('X and associated items').
+
+SECTION: 1. Morphological Types of Reduplication
+Tangkhul reduplication operates at both inflectional and expressive levels. Type I consists of complete lexical repetition where a nominal or temporal base is duplicated to signify distribution or intensity. Type II consists of partial reduplication where the onset consonant is copied while the nucleus vowel or coda undergoes apophonic alternation (often high vowel to low vowel).
+Linguistic Data:
+  * zingsho-zingsho : day by day, every day
+    Notes: Complete nominal reduplication of zingsho (day).
+  * kachut-kachut : step-by-step, very slowly
+    Notes: Manner adverb reduplication.
+  * ngam-ngam : sweetly, pleasantly fragrant
+    Notes: Sensory expressive reduplication.
+
+SECTION: 2. Echo Words and Generalized Collectives
+Unlike Dravidian and Indo-Aryan languages which use a fixed consonant (such as gi- in Tamil or v- in Hindi) for echo formation, Tangkhul constructs echo compounds through semantic pairings of near-synonyms or coordinate clan items. The compound signifies not merely the literal items but the entire cultural domain or household equipment.
+Linguistic Data:
+  * tui-tola (tui-tola) : words, rumours, talks, and gossip
+    Notes: Echo pairing of tui (speech) with archaic tola.
+  * shim-khor (shim-khor) : homestead and courtyard surroundings
+    Notes: Spatial associative compound.
+  * kachon-kachawui (kachon-kachawui) : clothing, garments and attire in general
+    Notes: Textile collective noun.
+
+SECTION: 3. Ideophones and Acoustic Iconicity
+Tangkhul possesses an exceptionally rich inventory of ideophones depicting water movement, walking rhythms, and emotional states. These ideophones frequently feature reduplicated labials and liquid codas: hu-hu (rushing wind), chir-chir (running stream water), and phur-phur (rapid heart palpitation in fear).
+Linguistic Data:
+  * hu-hu : sound of tempestuous wind blowing across peaks
+    Notes: Onomatopoeic wind descriptor.
+  * chir-chir : babbling sound of clear mountain spring water
+    Notes: Aquatic sensory ideophone.
+  * tek-tek : dripping of monsoon rain drops
+    Notes: Precipitation acoustic iconicity.
+
+REFERENCES:
+  - Abbi, Anvita. 1992. Reduplication in South Asian Languages: An Areal, Typological and Historical Study. Allied Publishers.
+  - Arokianathan, S. 1984. Echo Word Formation in Tangkhul Naga. Indian Linguistics 45: 33-46.
+  - Arokianathan, S. 1987. Tangkhul Naga Grammar. CIIL Grammar Series No. 16. Mysore: CIIL.

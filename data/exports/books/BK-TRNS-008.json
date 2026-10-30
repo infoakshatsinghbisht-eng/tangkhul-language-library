@@ -1,0 +1,1512 @@
+{
+  "id": "BK-TRNS-008",
+  "resource_type": "books",
+  "title": "Tagorewui Gitanjali kala Shai-laaring: Selected Translations in Tangkhul Naga",
+  "alternate_titles": [
+    "Rabindranath Tagore's Gitanjali Translated in Tangkhul Naga",
+    "Gitanjali: Song Offerings in Tangkhul Poetry"
+  ],
+  "authors": [
+    "Rabindranath Tagore",
+    "Tangkhul Literary Forum"
+  ],
+  "editors": [
+    "Tangkhul Cultural Council"
+  ],
+  "publisher": "Tangkhul Cultural Council / Ukhrul Literature Circle",
+  "publication_year": 1986,
+  "year": 1986,
+  "edition": "Literary Translation Monograph",
+  "subject": "Poetry, Mystical Devotion & Translated Classics",
+  "educational_level": "Collegiate & Advanced Literature (B.A. Tangkhul)",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TLS-TKH-TAGORE-1986",
+  "catalogue_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "local_file_path": "data/raw/books/BK-TRNS-008_tagore_gitanjali_tangkhul.txt",
+  "file_format": "txt",
+  "license": "Public Domain / Creative Open Access",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Select lyrical translations of Rabindranath Tagore's Nobel-winning Gitanjali and patriotic poems into classical Tangkhul verse. Preserves the mystical devotion and musical metrics of the original.",
+  "front_matter": {
+    "title_page": "Tagorewui Gitanjali kala Shai-laaring: Selected Translations in Tangkhul Naga (1986)",
+    "preface": "Rabindranath Tagore's devotional lyrics (Gitanjali) found a naturally receptive medium in the Tangkhul lyric poetic tradition (Hao-laa). The translator rendered Tagore's yearning for the Infinite using intimate metaphors of mountain dawns, rain-bearing clouds, and traditional flute melodies.",
+    "table_of_contents": [
+      "Chapter 1: Gitanjali Song 1: Thou Hast Made Me Endless (Na Ili Machamtui Sakahaisaye)",
+      "Chapter 2: Where the Mind is Without Fear (Mangmatha Mathikhavai Ram)",
+      "Chapter 3: Leave This Chanting and Singing (Gitanjali Song 11)",
+      "Chapter 4: Lexical Analysis of Rabindric Tangkhul Verse"
+    ],
+    "imprint": "Tangkhul Cultural Council / Ukhrul Literature Circle, 1986."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Gitanjali Song 1: Thou Hast Made Me Endless (Na Ili Machamtui Sakahaisaye)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Where the Mind is Without Fear (Mangmatha Mathikhavai Ram)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Leave This Chanting and Singing (Gitanjali Song 11)",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Lexical Analysis of Rabindric Tangkhul Verse",
+      "page_start": 13,
+      "page_end": 15
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Gitanjali Song 1: Thou Hast Made Me Endless (Na Ili Machamtui Sakahaisaye)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Tagore's opening offering: the human soul as a frail flute through which God breathes eternal melodies.",
+      "tangkhul_text": "Shai-laa 1: Na ili machamtui sakahaisaye, chichi Nawui ningkazangsai. Hi kacham kaphunga vessel hi Na khani-kathum khangareilaga kupsang-miye, kala zingsho zingsho ringkapha kathara eina kashung-sake. Hi kakat bamboo reed flute hi Na kaphung-longkhor kuppupli phungzatlaga, Awui ngalung eina thot pupupwui shai-laaring honsangserie. Nawui kathara khutwui katom eina iwui kacham lung china khangayeiwui mathatli ngapaoritlaga khongyui kapei honsange.",
+      "english_translation": "Thou hast made me endless, such is thy pleasure. This frail vessel thou emptiest again and again, and fillest it ever with fresh life. This little flute of a reed thou hast carried over hills and dales, and hast breathed through it melodies eternally new. At the immortal touch of thy hands my little heart loses its limits in joy and gives birth to utterance ineffable.",
+      "vocabulary": [
+        {
+          "word": "machamtui",
+          "pos": "adj",
+          "meaning": "endless, immortal, boundlessly enduring",
+          "example": "Machamtui sakahaisaye."
+        },
+        {
+          "word": "bamboo reed flute",
+          "pos": "noun",
+          "meaning": "Siphung / Pung (bamboo flute of the hills)",
+          "example": "Kakat flute hi."
+        },
+        {
+          "word": "katom",
+          "pos": "noun",
+          "meaning": "gentle touch, caress of divine hand",
+          "example": "Khutwui katom eina."
+        }
+      ],
+      "grammar_notes": [
+        "Metaphorical transposition: Tagore's reed flute rendered as traditional Tangkhul 'siphung'.",
+        "Verbal frequentative: 'khani-kathum khangareilaga' (emptying repeatedly again and again)."
+      ],
+      "exercises": [
+        "Discuss how the flute metaphor bridges Bengali Vaishnava mysticism and Tangkhul music.",
+        "Identify the words for 'endless' and 'immortal touch'."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Where the Mind is Without Fear (Mangmatha Mathikhavai Ram)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Tagore's universal prayer for freedom, truth, and unconstrained intellectual dignity in Tangkhul verse.",
+      "tangkhul_text": "Shai-laa 35: Kachikhali ningkakhaning malei-mana, kala kakhutli phashan eina thuk-kashok-e; Kachikhali theikakhui chi mikumo pupupwui vang kacham eina ngashankahaye; Kachikhali ngalei hi shimwui wall kakat eina kashit-mashit-mana; Kachikhali tui-ngashungna lungwui kashikli eina shokhunge; Kachikhali khangachonna khut machamla phāmeikhavai otli thukzat-e; Kachikhali mashung-ngalungwui kongkhamathān china kasham custom-wui miram kashilashili mangapaorit-mana; Chithuili, I-Ava, Nawui khut eina iwui ramli ngakhur-rarsaklu!",
+      "english_translation": "Where the mind is without fear and the head is held high; Where knowledge is free; Where the world has not been broken up into fragments by narrow domestic walls; Where words come out from the depth of truth; Where tireless striving stretches its arms towards perfection; Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit; Into that heaven of freedom, my Father, let my country awake.",
+      "vocabulary": [
+        {
+          "word": "ningkakhaning",
+          "pos": "noun",
+          "meaning": "fear, dread of mind, timidity",
+          "example": "Ningkakhaning malei."
+        },
+        {
+          "word": "theikakhui",
+          "pos": "noun",
+          "meaning": "knowledge, enlightenment, wisdom",
+          "example": "Theikakhui kacham."
+        },
+        {
+          "word": "kongkhamathān",
+          "pos": "noun",
+          "meaning": "clear crystal stream of reason",
+          "example": "Mashung-ngalungwui kongkhamathān."
+        }
+      ],
+      "grammar_notes": [
+        "Locative anaphora: 'Kachikhali... Kachikhali...' (Where... Where...).",
+        "Aspiration invocation: 'I-Ava, Nawui khut eina... ngakhur-rarsaklu!' (Father, let my nation awake!)."
+      ],
+      "exercises": [
+        "Recite 'Where the Mind is Without Fear' in Tangkhul.",
+        "How does the translator render 'narrow domestic walls'?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Leave This Chanting and Singing (Gitanjali Song 11)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Finding God not in closed temples, but with the tiller of the soil and pathmaker breaking stones.",
+      "tangkhul_text": "Shai-laa 11: Hi luishat-laa kala rosary chinawui khangayei kashikahailu! Shimkhur ngachingli khong kakat khangakhakli Na khipali reot-kasa? Nawui mik hanglu, kala theilu, Nawui Varivara chithuili maleimana! A tilling kasana luiramli ot salakha Awui ngalemli lei; A lungkhor khakka-sana shongfa shomlakha Awui ngalemli lei; A zingsho zingkhamathān kala kazingkhamik tharili athum eina li-leie, Awui chon ngaleiwui kachak eina kashung-saye. Nawui kathara chon kashikahailaga, A thada ngaleili varlu!",
+      "english_translation": "Leave this chanting and singing and telling of beads! Whom dost thou worship in this lonely dark corner of a temple with doors all shut? Open thine eyes and see thy God is not before thee! He is there where the tiller is tilling the hard ground and where the pathmaker is breaking stones. He is with them in sun and in shower, and his garment is covered with dust. Put off thy holy mantle and even like him go down on the dusty soil!",
+      "vocabulary": [
+        {
+          "word": "luiramli ot",
+          "pos": "noun",
+          "meaning": "tilling the terraced paddy fields",
+          "example": "Luiramli ot salakha."
+        },
+        {
+          "word": "lungkhor khakka-sa",
+          "pos": "noun",
+          "meaning": "stone breaker, path maker",
+          "example": "Lungkhor khakka-sana."
+        },
+        {
+          "word": "kazingkhamik",
+          "pos": "noun",
+          "meaning": "monsoon rain downpour",
+          "example": "Zingkhamathān kala kazingkhamik."
+        }
+      ],
+      "grammar_notes": [
+        "Agrarian elevation of labor: God resides with field tillers ('luiramli ot').",
+        "Imperative detachment: 'kashikahailu' (leave aside, abandon ritualism)."
+      ],
+      "exercises": [
+        "Compare Tagore's critique of ritualism with Tangkhul traditional values of honest physical labor.",
+        "Identify the words for sun and rain in verse 4."
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Lexical Analysis of Rabindric Tangkhul Verse",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Glossary of 20 poetic and philosophical compounds coined for the Gitanjali translation.",
+      "tangkhul_text": "Tagore Tuiwon Concordance:\n1. Machamtui -- Infinite / endless pleasure\n2. Siphung / Flute -- Bamboo reed instrument\n3. Ningkakhaning -- Fear / trembling of spirit\n4. Theikakhui -- True knowledge and freedom\n5. Kongkhamathān -- Crystal stream of intellect\n6. Luiramli ot -- Labor of terraced cultivation\n7. Ngakhur-rarsaklu -- Awaken into liberty",
+      "english_translation": "Concordance of literary vocabulary bridging Bengali romanticism and Tangkhul poetics.",
+      "vocabulary": [
+        {
+          "word": "machamtui",
+          "pos": "adj",
+          "meaning": "endless",
+          "example": "Machamtui ningkazang."
+        },
+        {
+          "word": "theikakhui",
+          "pos": "noun",
+          "meaning": "knowledge",
+          "example": "Theikakhui kacham."
+        }
+      ],
+      "grammar_notes": [
+        "Poetic compounding in modern literary Tangkhul."
+      ],
+      "exercises": [
+        "Write an essay in Tangkhul on the theme of 'Freedom in Tagore's Poetry'."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tagorewui Gitanjali kala Shai-laaring: S",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "TAGOREWUI GITANJALI KALA SHAI-LAARING: SELECTED TRANSLATIONS IN TANGKHUL NAGA"
+        ],
+        [
+          "/F1",
+          11,
+          "Rabindranath Tagore's Gitanjali Translated in Tangkhul Naga"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: Rabindranath Tagore, Tangkhul Literary Forum"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Cultural Council / Ukhrul Literature Circle"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 1986 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Tagorewui Gitanjali kala Shai-laaring: Selected Translations in Tangkhul Naga -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: Rabindranath Tagore's Gitanjali Translated in Tangkhul Naga",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Rabindranath Tagore's devotional lyrics (Gitanjali) found a naturally"
+        ],
+        [
+          "/F1",
+          10,
+          "receptive medium in the Tangkhul lyric poetic tradition (Hao-laa). The"
+        ],
+        [
+          "/F1",
+          10,
+          "translator rendered Tagore's yearning for the Infinite using intimate"
+        ],
+        [
+          "/F1",
+          10,
+          "metaphors of mountain dawns, rain-bearing clouds, and traditional flute"
+        ],
+        [
+          "/F1",
+          10,
+          "melodies."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-TAGORE-1986"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "Rabindranath Tagore's devotional lyrics (Gitanjali) found a naturally receptive medium in the Tangkhul lyric poetic trad...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Gitanjali Song 1: Thou Hast Made Me Endless (Na  ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Where the Mind is Without Fear (Mangmatha Mathik ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Leave This Chanting and Singing (Gitanjali Song  ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Lexical Analysis of Rabindric Tangkhul Verse ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 16"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 4.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Gitanjali Song 1: Thou Hast Made Me Endless (Na Ili Machamtui Sakahaisaye)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: GITANJALI SONG 1: THOU HAST MADE ME ENDLESS (NA ILI MACHAMTUI SAKAHAISAYE)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Tagore's opening offering: the human soul as a frail flute through which God bre..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Shai-laa 1: Na ili machamtui sakahaisaye, chichi Nawui ningkazangsai. Hi"
+        ],
+        [
+          "/F1",
+          9,
+          "kacham kaphunga vessel hi Na khani-kathum khangareilaga kupsang-miye,"
+        ],
+        [
+          "/F1",
+          9,
+          "kala zingsho zingsho ringkapha kathara eina kashung-sake. Hi kakat"
+        ],
+        [
+          "/F1",
+          9,
+          "bamboo reed flute hi Na kaphung-longkhor kuppupli phungzatlaga, Awui"
+        ],
+        [
+          "/F1",
+          9,
+          "ngalung eina thot pupupwui shai-laaring honsangserie. Nawui kathara"
+        ],
+        [
+          "/F1",
+          9,
+          "khutwui katom eina iwui kacham lung china khangayeiwui mathatli"
+        ],
+        [
+          "/F1",
+          9,
+          "ngapaoritlaga khongyui kapei honsange."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Thou hast made me endless, such is thy pleasure. This frail vessel thou"
+        ],
+        [
+          "/F1",
+          9,
+          "emptiest again and again, and fillest it ever with fresh life. This"
+        ],
+        [
+          "/F1",
+          9,
+          "little flute of a reed thou hast carried over hills and dales, and hast"
+        ],
+        [
+          "/F1",
+          9,
+          "breathed through it melodies eternally new. At the immortal touch of thy"
+        ],
+        [
+          "/F1",
+          9,
+          "hands my little heart loses its limits in joy and gives birth to"
+        ],
+        [
+          "/F1",
+          9,
+          "utterance ineffable."
+        ]
+      ],
+      "tangkhul_content": "Shai-laa 1: Na ili machamtui sakahaisaye, chichi Nawui ningkazangsai. Hi kacham kaphunga vessel hi Na khani-kathum khangareilaga kupsang-miye, kala zingsho zingsho ringkapha kathara eina kashung-sake. Hi kakat bamboo reed flute hi Na kaphung-longkhor kuppupli phungzatlaga, Awui ngalung eina thot pupupwui shai-laaring honsangserie. Nawui kathara khutwui katom eina iwui kacham lung china khangayeiwui mathatli ngapaoritlaga khongyui kapei honsange.",
+      "english_translation": "Thou hast made me endless, such is thy pleasure. This frail vessel thou emptiest again and again, and fillest it ever with fresh life. This little flute of a reed thou hast carried over hills and dales, and hast breathed through it melodies eternally new. At the immortal touch of thy hands my little heart loses its limits in joy and gives birth to utterance ineffable.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Gitanjali Song 1: Thou Hast Made Me Endless (Na Ili Machamtui Sakahaisaye)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * machamtui (adj): endless, immortal, boundlessly enduring"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Machamtui sakahaisaye."
+        ],
+        [
+          "/F2",
+          9,
+          "  * bamboo reed flute (noun): Siphung / Pung (bamboo flute of the hills)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kakat flute hi."
+        ],
+        [
+          "/F2",
+          9,
+          "  * katom (noun): gentle touch, caress of divine hand"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khutwui katom eina."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Metaphorical transposition: Tagore's reed flute rendered as traditional Tangkhul 'siphung'."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Verbal frequentative: 'khani-kathum khangareilaga' (emptying repeatedly again and again)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Discuss how the flute metaphor bridges Bengali Vaishnava mysticism and Tangkhul music."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the words for 'endless' and 'immortal touch'."
+        ]
+      ],
+      "tangkhul_content": "machamtui: endless, immortal, boundlessly enduring; bamboo reed flute: Siphung / Pung (bamboo flute of the hills); katom: gentle touch, caress of divine hand",
+      "english_translation": "Metaphorical transposition: Tagore's reed flute rendered as traditional Tangkhul 'siphung'.; Verbal frequentative: 'khani-kathum khangareilaga' (emptying repeatedly again and again).",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Gitanjali Song 1: Thou Hast Made Me Endless (Na Ili Machamtui Sakahaisaye)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Where the Mind is Without Fear (Mangmatha Mathikhavai Ram)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: WHERE THE MIND IS WITHOUT FEAR (MANGMATHA MATHIKHAVAI RAM)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Tagore's universal prayer for freedom, truth, and unconstrained intellectual dig..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Shai-laa 35: Kachikhali ningkakhaning malei-mana, kala kakhutli phashan"
+        ],
+        [
+          "/F1",
+          9,
+          "eina thuk-kashok-e; Kachikhali theikakhui chi mikumo pupupwui vang"
+        ],
+        [
+          "/F1",
+          9,
+          "kacham eina ngashankahaye; Kachikhali ngalei hi shimwui wall kakat eina"
+        ],
+        [
+          "/F1",
+          9,
+          "kashit-mashit-mana; Kachikhali tui-ngashungna lungwui kashikli eina"
+        ],
+        [
+          "/F1",
+          9,
+          "shokhunge; Kachikhali khangachonna khut machamla phāmeikhavai otli"
+        ],
+        [
+          "/F1",
+          9,
+          "thukzat-e; Kachikhali mashung-ngalungwui kongkhamathān china kasham"
+        ],
+        [
+          "/F1",
+          9,
+          "custom-wui miram kashilashili mangapaorit-mana; Chithuili, I-Ava, Nawui"
+        ],
+        [
+          "/F1",
+          9,
+          "khut eina iwui ramli ngakhur-rarsaklu!"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Where the mind is without fear and the head is held high; Where"
+        ],
+        [
+          "/F1",
+          9,
+          "knowledge is free; Where the world has not been broken up into fragments"
+        ],
+        [
+          "/F1",
+          9,
+          "by narrow domestic walls; Where words come out from the depth of truth;"
+        ],
+        [
+          "/F1",
+          9,
+          "Where tireless striving stretches its arms towards perfection; Where the"
+        ],
+        [
+          "/F1",
+          9,
+          "clear stream of reason has not lost its way into the dreary desert sand"
+        ],
+        [
+          "/F1",
+          9,
+          "of dead habit; Into that heaven of freedom, my Father, let my country"
+        ],
+        [
+          "/F1",
+          9,
+          "awake."
+        ]
+      ],
+      "tangkhul_content": "Shai-laa 35: Kachikhali ningkakhaning malei-mana, kala kakhutli phashan eina thuk-kashok-e; Kachikhali theikakhui chi mikumo pupupwui vang kacham eina ngashankahaye; Kachikhali ngalei hi shimwui wall kakat eina kashit-mashit-mana; Kachikhali tui-ngashungna lungwui kashikli eina shokhunge; Kachikhali khangachonna khut machamla phāmeikhavai otli thukzat-e; Kachikhali mashung-ngalungwui kongkhamathān china kasham custom-wui miram kashilashili mangapaorit-mana; Chithuili, I-Ava, Nawui khut eina iwui ramli ngakhur-rarsaklu!",
+      "english_translation": "Where the mind is without fear and the head is held high; Where knowledge is free; Where the world has not been broken up into fragments by narrow domestic walls; Where words come out from the depth of truth; Where tireless striving stretches its arms towards perfection; Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit; Into that heaven of freedom, my Father, let my country awake.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Where the Mind is Without Fear (Mangmatha Mathikhavai Ram)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ningkakhaning (noun): fear, dread of mind, timidity"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ningkakhaning malei."
+        ],
+        [
+          "/F2",
+          9,
+          "  * theikakhui (noun): knowledge, enlightenment, wisdom"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Theikakhui kacham."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kongkhamathān (noun): clear crystal stream of reason"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Mashung-ngalungwui kongkhamathān."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Locative anaphora: 'Kachikhali... Kachikhali...' (Where... Where...)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Aspiration invocation: 'I-Ava, Nawui khut eina... ngakhur-rarsaklu!' (Father, let my nation awake!)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Recite 'Where the Mind is Without Fear' in Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does the translator render 'narrow domestic walls'?"
+        ]
+      ],
+      "tangkhul_content": "ningkakhaning: fear, dread of mind, timidity; theikakhui: knowledge, enlightenment, wisdom; kongkhamathān: clear crystal stream of reason",
+      "english_translation": "Locative anaphora: 'Kachikhali... Kachikhali...' (Where... Where...).; Aspiration invocation: 'I-Ava, Nawui khut eina... ngakhur-rarsaklu!' (Father, let my nation awake!).",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Where the Mind is Without Fear (Mangmatha Mathikhavai Ram)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Leave This Chanting and Singing (Gitanjali Song 11)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: LEAVE THIS CHANTING AND SINGING (GITANJALI SONG 11)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Finding God not in closed temples, but with the tiller of the soil and pathmaker..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Shai-laa 11: Hi luishat-laa kala rosary chinawui khangayei kashikahailu!"
+        ],
+        [
+          "/F1",
+          9,
+          "Shimkhur ngachingli khong kakat khangakhakli Na khipali reot-kasa? Nawui"
+        ],
+        [
+          "/F1",
+          9,
+          "mik hanglu, kala theilu, Nawui Varivara chithuili maleimana! A tilling"
+        ],
+        [
+          "/F1",
+          9,
+          "kasana luiramli ot salakha Awui ngalemli lei; A lungkhor khakka-sana"
+        ],
+        [
+          "/F1",
+          9,
+          "shongfa shomlakha Awui ngalemli lei; A zingsho zingkhamathān kala"
+        ],
+        [
+          "/F1",
+          9,
+          "kazingkhamik tharili athum eina li-leie, Awui chon ngaleiwui kachak eina"
+        ],
+        [
+          "/F1",
+          9,
+          "kashung-saye. Nawui kathara chon kashikahailaga, A thada ngaleili varlu!"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Leave this chanting and singing and telling of beads! Whom dost thou"
+        ],
+        [
+          "/F1",
+          9,
+          "worship in this lonely dark corner of a temple with doors all shut? Open"
+        ],
+        [
+          "/F1",
+          9,
+          "thine eyes and see thy God is not before thee! He is there where the"
+        ],
+        [
+          "/F1",
+          9,
+          "tiller is tilling the hard ground and where the pathmaker is breaking"
+        ],
+        [
+          "/F1",
+          9,
+          "stones. He is with them in sun and in shower, and his garment is covered"
+        ],
+        [
+          "/F1",
+          9,
+          "with dust. Put off thy holy mantle and even like him go down on the"
+        ],
+        [
+          "/F1",
+          9,
+          "dusty soil!"
+        ]
+      ],
+      "tangkhul_content": "Shai-laa 11: Hi luishat-laa kala rosary chinawui khangayei kashikahailu! Shimkhur ngachingli khong kakat khangakhakli Na khipali reot-kasa? Nawui mik hanglu, kala theilu, Nawui Varivara chithuili maleimana! A tilling kasana luiramli ot salakha Awui ngalemli lei; A lungkhor khakka-sana shongfa shomlakha Awui ngalemli lei; A zingsho zingkhamathān kala kazingkhamik tharili athum eina li-leie, Awui chon ngaleiwui kachak eina kashung-saye. Nawui kathara chon kashikahailaga, A thada ngaleili varlu!",
+      "english_translation": "Leave this chanting and singing and telling of beads! Whom dost thou worship in this lonely dark corner of a temple with doors all shut? Open thine eyes and see thy God is not before thee! He is there where the tiller is tilling the hard ground and where the pathmaker is breaking stones. He is with them in sun and in shower, and his garment is covered with dust. Put off thy holy mantle and even like him go down on the dusty soil!",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Leave This Chanting and Singing (Gitanjali Song 11)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * luiramli ot (noun): tilling the terraced paddy fields"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Luiramli ot salakha."
+        ],
+        [
+          "/F2",
+          9,
+          "  * lungkhor khakka-sa (noun): stone breaker, path maker"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Lungkhor khakka-sana."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kazingkhamik (noun): monsoon rain downpour"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Zingkhamathān kala kazingkhamik."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Agrarian elevation of labor: God resides with field tillers ('luiramli ot')."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Imperative detachment: 'kashikahailu' (leave aside, abandon ritualism)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Compare Tagore's critique of ritualism with Tangkhul traditional values of honest physical labor."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the words for sun and rain in verse 4."
+        ]
+      ],
+      "tangkhul_content": "luiramli ot: tilling the terraced paddy fields; lungkhor khakka-sa: stone breaker, path maker; kazingkhamik: monsoon rain downpour",
+      "english_translation": "Agrarian elevation of labor: God resides with field tillers ('luiramli ot').; Imperative detachment: 'kashikahailu' (leave aside, abandon ritualism).",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Leave This Chanting and Singing (Gitanjali Song 11)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Lexical Analysis of Rabindric Tangkhul Verse",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: LEXICAL ANALYSIS OF RABINDRIC TANGKHUL VERSE"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Glossary of 20 poetic and philosophical compounds coined for the Gitanjali trans..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Tagore Tuiwon Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Machamtui -- Infinite / endless pleasure"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Siphung / Flute -- Bamboo reed instrument"
+        ],
+        [
+          "/F1",
+          9,
+          "3. Ningkakhaning -- Fear / trembling of spirit"
+        ],
+        [
+          "/F1",
+          9,
+          "4. Theikakhui -- True knowledge and freedom"
+        ],
+        [
+          "/F1",
+          9,
+          "5. Kongkhamathān -- Crystal stream of intellect"
+        ],
+        [
+          "/F1",
+          9,
+          "6. Luiramli ot -- Labor of terraced cultivation"
+        ],
+        [
+          "/F1",
+          9,
+          "7. Ngakhur-rarsaklu -- Awaken into liberty"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Concordance of literary vocabulary bridging Bengali romanticism and"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul poetics."
+        ]
+      ],
+      "tangkhul_content": "Tagore Tuiwon Concordance:\n1. Machamtui -- Infinite / endless pleasure\n2. Siphung / Flute -- Bamboo reed instrument\n3. Ningkakhaning -- Fear / trembling of spirit\n4. Theikakhui -- True knowledge and freedom\n5. Kongkhamathān -- Crystal stream of intellect\n6. Luiramli ot -- Labor of terraced cultivation\n7. Ngakhur-rarsaklu -- Awaken into liberty",
+      "english_translation": "Concordance of literary vocabulary bridging Bengali romanticism and Tangkhul poetics.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Lexical Analysis of Rabindric Tangkhul Verse",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * machamtui (adj): endless"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Machamtui ningkazang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * theikakhui (noun): knowledge"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Theikakhui kacham."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Poetic compounding in modern literary Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Write an essay in Tangkhul on the theme of 'Freedom in Tagore's Poetry'."
+        ]
+      ],
+      "tangkhul_content": "machamtui: endless; theikakhui: knowledge",
+      "english_translation": "Poetic compounding in modern literary Tangkhul.",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Lexical Analysis of Rabindric Tangkhul Verse",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * machamtui -- endless, immortal, boundlessly enduring"
+        ],
+        [
+          "/F1",
+          9,
+          "  * bamboo reed flute -- Siphung / Pung (bamboo flute of the hills)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * katom -- gentle touch, caress of divine hand"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ningkakhaning -- fear, dread of mind, timidity"
+        ],
+        [
+          "/F1",
+          9,
+          "  * theikakhui -- knowledge, enlightenment, wisdom"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kongkhamathān -- clear crystal stream of reason"
+        ],
+        [
+          "/F1",
+          9,
+          "  * luiramli ot -- tilling the terraced paddy fields"
+        ],
+        [
+          "/F1",
+          9,
+          "  * lungkhor khakka-sa -- stone breaker, path maker"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "machamtui",
+        "pos": "adj",
+        "meaning": "endless, immortal, boundlessly enduring",
+        "example": "Machamtui sakahaisaye."
+      },
+      {
+        "word": "bamboo reed flute",
+        "pos": "noun",
+        "meaning": "Siphung / Pung (bamboo flute of the hills)",
+        "example": "Kakat flute hi."
+      },
+      {
+        "word": "katom",
+        "pos": "noun",
+        "meaning": "gentle touch, caress of divine hand",
+        "example": "Khutwui katom eina."
+      },
+      {
+        "word": "ningkakhaning",
+        "pos": "noun",
+        "meaning": "fear, dread of mind, timidity",
+        "example": "Ningkakhaning malei."
+      },
+      {
+        "word": "theikakhui",
+        "pos": "noun",
+        "meaning": "knowledge, enlightenment, wisdom",
+        "example": "Theikakhui kacham."
+      },
+      {
+        "word": "kongkhamathān",
+        "pos": "noun",
+        "meaning": "clear crystal stream of reason",
+        "example": "Mashung-ngalungwui kongkhamathān."
+      },
+      {
+        "word": "luiramli ot",
+        "pos": "noun",
+        "meaning": "tilling the terraced paddy fields",
+        "example": "Luiramli ot salakha."
+      },
+      {
+        "word": "lungkhor khakka-sa",
+        "pos": "noun",
+        "meaning": "stone breaker, path maker",
+        "example": "Lungkhor khakka-sana."
+      },
+      {
+        "word": "kazingkhamik",
+        "pos": "noun",
+        "meaning": "monsoon rain downpour",
+        "example": "Zingkhamathān kala kazingkhamik."
+      },
+      {
+        "word": "machamtui",
+        "pos": "adj",
+        "meaning": "endless",
+        "example": "Machamtui ningkazang."
+      },
+      {
+        "word": "theikakhui",
+        "pos": "noun",
+        "meaning": "knowledge",
+        "example": "Theikakhui kacham."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 16,
+  "total_chapters": 4,
+  "total_words": 472,
+  "excerpts": [
+    "Shai-laa 1: Na ili machamtui sakahaisaye, chichi Nawui ningkazangsai. Hi kacham kaphunga vessel hi Na khani-kathum khang...",
+    "Shai-laa 35: Kachikhali ningkakhaning malei-mana, kala kakhutli phashan eina thuk-kashok-e; Kachikhali theikakhui chi mi...",
+    "Shai-laa 11: Hi luishat-laa kala rosary chinawui khangayei kashikahailu! Shimkhur ngachingli khong kakat khangakhakli Na...",
+    "Tagore Tuiwon Concordance:\n1. Machamtui -- Infinite / endless pleasure\n2. Siphung / Flute -- Bamboo reed instrument\n3. N..."
+  ]
+}

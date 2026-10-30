@@ -1,0 +1,546 @@
+{
+  "id": "ART-LING-002",
+  "title": "A Reconstruction of Proto-Tangkhulic Rhymes",
+  "alternate_titles": [
+    "Diachronic Phonology and Coda Developments in Tangkhulic"
+  ],
+  "authors": [
+    "David R. Mortensen",
+    "James A. Miller"
+  ],
+  "journal": "Linguistics of the Tibeto-Burman Area (LTBA)",
+  "volume_issue": "Vol. 36, No. 1, pp. 1-28",
+  "publication_year": 2013,
+  "year": 2013,
+  "publisher": "John Benjamins Publishing Company / SEAlang",
+  "subject": "Historical Phonology & Sino-Tibetan Rhymes",
+  "keywords": [
+    "Rhymes",
+    "Proto-Tangkhulic",
+    "Tibeto-Burman",
+    "Vowel Length",
+    "Liquid Codas",
+    "LTBA"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": "https://doi.org/10.1075/ltba.36.1.01mor",
+  "source_url": "https://www.benjamins.com/catalog/ltba.36.1.01mor",
+  "source_identifier": "LTBA-36-1-2013-MORTENSEN",
+  "local_file_path": "data/raw/articles/ART-LING-002_mortensen_miller_2013.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Landmark LTBA study demonstrating the regular diachronic evolution of rhymes from Proto-Tibeto-Burman to Proto-Tangkhulic.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "We reconstruct the rhyme system of Proto-Tangkhulic (PTk) based on a comparative corpus of over 800 cognate sets spanning Standard Tangkhul (Ukhrul), Huishu, Kachai, Champhung, and Tusom. We demonstrate that Proto-Tangkhulic distinguished phonemic vowel length before dental and velar codas (*-a:t vs *-at; *-a:k vs *-ak), and retained the Proto-Tibeto-Burman lateral coda *-l, which merged into front glides or open vowels in Standard Tangkhul. This reconstruction resolves longstanding anomalies in the external comparison of Tangkhul with Jingpho and Lolo-Burmese.",
+  "sections": [
+    {
+      "title": "1. The PTk Rhyme Inventory",
+      "content": "The reconstructed rhyme inventory of Proto-Tangkhulic includes 24 distinct rhymes with stop and nasal codas: *-am, *-an, *-aŋ, *-ap, *-at, *-ak, *-a:t, *-a:k, *-im, *-in, *-iŋ, *-ip, *-it, *-ik, *-um, *-un, *-uŋ, *-up, *-ut, *-uk, and lateral rhymes *-al, *-il, *-ul. While Standard Tangkhul regularly neutralizes vowel length before codas, the conservative Huishu dialect preserves qualitative differences that verify the length distinction.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "kapik (Ukhrul) / pi:k (Huishu)",
+          "gloss": "to sleep",
+          "notes": "Reflects PTk *Cə-pi:k (long vowel before velar stop)."
+        },
+        {
+          "tangkhul": "kashak (Ukhrul) / saʔ (Kachai)",
+          "gloss": "to eat",
+          "notes": "PTk *Cə-syak (short rhyme with glottal realization)."
+        },
+        {
+          "tangkhul": "tui (Ukhrul) / tul (Huishu)",
+          "gloss": "speech, language",
+          "notes": "PTk *to:l (preservation of final lateral in Huishu)."
+        }
+      ]
+    },
+    {
+      "title": "2. Evolution of Lateral Codas (*-l)",
+      "content": "One of the major breakthroughs of Proto-Tangkhulic historical phonology is recognizing the regular fate of PTB *-l. In Standard Ukhrul, PTB *-l vocalized to a high front offglide [-i] after back vowels (e.g. *tul > tui 'speech'; *ŋul > ngui 'silver/money'). In Huishu, *-l is preserved intact as an alveolar lateral continuant [-l], proving that lateral loss in Ukhrul was a secondary innovation of the central dialect group.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "ngui (Ukhrul) / ŋul (Huishu)",
+          "gloss": "silver, coin, money",
+          "notes": "Direct cognate with Written Tibetan dngul."
+        },
+        {
+          "tangkhul": "kahui (Ukhrul) / hul (Huishu)",
+          "gloss": "to bark (of dog)",
+          "notes": "Reflects PTB *hwəl."
+        },
+        {
+          "tangkhul": "malui (Ukhrul) / məlol (Huishu)",
+          "gloss": "to forget",
+          "notes": "Preservation of liquid coda in archaic peripheral varieties."
+        }
+      ]
+    },
+    {
+      "title": "3. Implications for Sino-Tibetan Subgrouping",
+      "content": "Recognizing the conservative nature of Proto-Tangkhulic rhymes provides a crucial benchmark for the genetic classification of the Indo-Burma borderlands. Tangkhulic shares specific rhyme mergers with Maring and Kuki-Chin, yet preserves distinct prefixal morphology that establishes it as a primary coordinate branch of Tibeto-Burman.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "ngalei (Ukhrul)",
+          "gloss": "earth, ground",
+          "notes": "PTk *C-lay cognate with Proto-Kuki-Chin *lay."
+        },
+        {
+          "tangkhul": "shing (Ukhrul)",
+          "gloss": "wood, tree",
+          "notes": "PTk *siŋ cognate with Written Burmese sac and Tibetan shing."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "A Reconstruction of Proto-Tangkhulic Rhy",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "A RECONSTRUCTION OF PROTO-TANGKHULIC RHYMES"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: David R. Mortensen, James A. Miller"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Linguistics of the Tibeto-Burman Area (LTBA) | Year: 2013"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Historical Phonology & Sino-Tibetan Rhymes | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "We reconstruct the rhyme system of Proto-Tangkhulic (PTk) based on a"
+        ],
+        [
+          "/F1",
+          9,
+          "comparative corpus of over 800 cognate sets spanning Standard Tangkhul"
+        ],
+        [
+          "/F1",
+          9,
+          "(Ukhrul), Huishu, Kachai, Champhung, and Tusom. We demonstrate that"
+        ],
+        [
+          "/F1",
+          9,
+          "Proto-Tangkhulic distinguished phonemic vowel length before dental and"
+        ],
+        [
+          "/F1",
+          9,
+          "velar codas (*-a:t vs *-at; *-a:k vs *-ak), and retained the Proto-"
+        ],
+        [
+          "/F1",
+          9,
+          "Tibeto-Burman lateral coda *-l, which merged into front glides or open"
+        ],
+        [
+          "/F1",
+          9,
+          "vowels in Standard Tangkhul. This reconstruction resolves longstanding"
+        ],
+        [
+          "/F1",
+          9,
+          "anomalies in the external comparison of Tangkhul with Jingpho and Lolo-"
+        ],
+        [
+          "/F1",
+          9,
+          "Burmese."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Rhymes, Proto-Tangkhulic, Tibeto-Burman, Vowel Length, Liquid Codas, LTBA"
+        ]
+      ],
+      "tangkhul_content": "Abstract: We reconstruct the rhyme system of Proto-Tangkhulic (PTk) based on a comparative corpus of over 800 cognate sets spannin...",
+      "english_translation": "We reconstruct the rhyme system of Proto-Tangkhulic (PTk) based on a comparative corpus of over 800 cognate sets spanning Standard Tangkhul (Ukhrul), Huishu, Kachai, Champhung, and Tusom. We demonstrate that Proto-Tangkhulic distinguished phonemic vowel length before dental and velar codas (*-a:t vs *-at; *-a:k vs *-ak), and retained the Proto-Tibeto-Burman lateral coda *-l, which merged into front glides or open vowels in Standard Tangkhul. This reconstruction resolves longstanding anomalies in the external comparison of Tangkhul with Jingpho and Lolo-Burmese.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. The PTk Rhyme Inventory",
+      "title": "1. The PTk Rhyme Inventory",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. THE PTK RHYME INVENTORY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "The reconstructed rhyme inventory of Proto-Tangkhulic includes 24"
+        ],
+        [
+          "/F1",
+          9,
+          "distinct rhymes with stop and nasal codas: *-am, *-an, *-aŋ, *-ap, *-at,"
+        ],
+        [
+          "/F1",
+          9,
+          "*-ak, *-a:t, *-a:k, *-im, *-in, *-iŋ, *-ip, *-it, *-ik, *-um, *-un,"
+        ],
+        [
+          "/F1",
+          9,
+          "*-uŋ, *-up, *-ut, *-uk, and lateral rhymes *-al, *-il, *-ul. While"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Tangkhul regularly neutralizes vowel length before codas, the"
+        ],
+        [
+          "/F1",
+          9,
+          "conservative Huishu dialect preserves qualitative differences that"
+        ],
+        [
+          "/F1",
+          9,
+          "verify the length distinction."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kapik (Ukhrul) / pi:k (Huishu) : to sleep"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Reflects PTk *Cə-pi:k (long vowel before velar stop)."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kashak (Ukhrul) / saʔ (Kachai) : to eat"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: PTk *Cə-syak (short rhyme with glottal realization)."
+        ],
+        [
+          "/F2",
+          9,
+          "  * tui (Ukhrul) / tul (Huishu) : speech, language"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: PTk *to:l (preservation of final lateral in Huishu)."
+        ]
+      ],
+      "tangkhul_content": "kapik (Ukhrul) / pi:k (Huishu)\nkashak (Ukhrul) / saʔ (Kachai)\ntui (Ukhrul) / tul (Huishu)",
+      "english_translation": "The reconstructed rhyme inventory of Proto-Tangkhulic includes 24 distinct rhymes with stop and nasal codas: *-am, *-an, *-aŋ, *-ap, *-at, *-ak, *-a:t, *-a:k, *-im, *-in, *-iŋ, *-ip, *-it, *-ik, *-um, *-un, *-uŋ, *-up, *-ut, *-uk, and lateral rhymes *-al, *-il, *-ul. While Standard Tangkhul regularly neutralizes vowel length before codas, the conservative Huishu dialect preserves qualitative differences that verify the length distinction.",
+      "notes": "Primary text of section: 1. The PTk Rhyme Inventory"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Evolution of Lateral Codas ",
+      "title": "2. Evolution of Lateral Codas (*-l)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. EVOLUTION OF LATERAL CODAS (*-L)"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "One of the major breakthroughs of Proto-Tangkhulic historical phonology"
+        ],
+        [
+          "/F1",
+          9,
+          "is recognizing the regular fate of PTB *-l. In Standard Ukhrul, PTB *-l"
+        ],
+        [
+          "/F1",
+          9,
+          "vocalized to a high front offglide [-i] after back vowels (e.g. *tul >"
+        ],
+        [
+          "/F1",
+          9,
+          "tui 'speech'; *ŋul > ngui 'silver/money'). In Huishu, *-l is preserved"
+        ],
+        [
+          "/F1",
+          9,
+          "intact as an alveolar lateral continuant [-l], proving that lateral loss"
+        ],
+        [
+          "/F1",
+          9,
+          "in Ukhrul was a secondary innovation of the central dialect group."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngui (Ukhrul) / ŋul (Huishu) : silver, coin, money"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Direct cognate with Written Tibetan dngul."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kahui (Ukhrul) / hul (Huishu) : to bark (of dog)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Reflects PTB *hwəl."
+        ],
+        [
+          "/F2",
+          9,
+          "  * malui (Ukhrul) / məlol (Huishu) : to forget"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Preservation of liquid coda in archaic peripheral varieties."
+        ]
+      ],
+      "tangkhul_content": "ngui (Ukhrul) / ŋul (Huishu)\nkahui (Ukhrul) / hul (Huishu)\nmalui (Ukhrul) / məlol (Huishu)",
+      "english_translation": "One of the major breakthroughs of Proto-Tangkhulic historical phonology is recognizing the regular fate of PTB *-l. In Standard Ukhrul, PTB *-l vocalized to a high front offglide [-i] after back vowels (e.g. *tul > tui 'speech'; *ŋul > ngui 'silver/money'). In Huishu, *-l is preserved intact as an alveolar lateral continuant [-l], proving that lateral loss in Ukhrul was a secondary innovation of the central dialect group.",
+      "notes": "Primary text of section: 2. Evolution of Lateral Codas (*-l)"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Implications for Sino-Tibet",
+      "title": "3. Implications for Sino-Tibetan Subgrouping",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. IMPLICATIONS FOR SINO-TIBETAN SUBGROUPING"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Recognizing the conservative nature of Proto-Tangkhulic rhymes provides"
+        ],
+        [
+          "/F1",
+          9,
+          "a crucial benchmark for the genetic classification of the Indo-Burma"
+        ],
+        [
+          "/F1",
+          9,
+          "borderlands. Tangkhulic shares specific rhyme mergers with Maring and"
+        ],
+        [
+          "/F1",
+          9,
+          "Kuki-Chin, yet preserves distinct prefixal morphology that establishes"
+        ],
+        [
+          "/F1",
+          9,
+          "it as a primary coordinate branch of Tibeto-Burman."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngalei (Ukhrul) : earth, ground"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: PTk *C-lay cognate with Proto-Kuki-Chin *lay."
+        ],
+        [
+          "/F2",
+          9,
+          "  * shing (Ukhrul) : wood, tree"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: PTk *siŋ cognate with Written Burmese sac and Tibetan shing."
+        ]
+      ],
+      "tangkhul_content": "ngalei (Ukhrul)\nshing (Ukhrul)",
+      "english_translation": "Recognizing the conservative nature of Proto-Tangkhulic rhymes provides a crucial benchmark for the genetic classification of the Indo-Burma borderlands. Tangkhulic shares specific rhyme mergers with Maring and Kuki-Chin, yet preserves distinct prefixal morphology that establishes it as a primary coordinate branch of Tibeto-Burman.",
+      "notes": "Primary text of section: 3. Implications for Sino-Tibetan Subgrouping"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Benedict, Paul K. 1972. Sino-Tibetan: A Consortium. Cambridge"
+        ],
+        [
+          "/F1",
+          9,
+          "University Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Matisoff, James A. 2003. Handbook of Proto-Tibeto-Burman: System and"
+        ],
+        [
+          "/F1",
+          9,
+          "Philosophy of Sino-Tibetan Reconstruction. UC Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Mortensen, David R. & James A. Miller. 2013. A Reconstruction of"
+        ],
+        [
+          "/F1",
+          9,
+          "Proto-Tangkhulic Rhymes. LTBA 36(1): 1-28."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Benedict, Paul K. 1972. Sino-Tibetan: A Consortium. Cambridge University Press.",
+    "Matisoff, James A. 2003. Handbook of Proto-Tibeto-Burman: System and Philosophy of Sino-Tibetan Reconstruction. UC Press.",
+    "Mortensen, David R. & James A. Miller. 2013. A Reconstruction of Proto-Tangkhulic Rhymes. LTBA 36(1): 1-28."
+  ],
+  "total_pages": 5,
+  "total_words": 252
+}

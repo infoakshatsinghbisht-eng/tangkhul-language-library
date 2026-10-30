@@ -1,0 +1,2428 @@
+{
+  "id": "BK-TRNS-001",
+  "resource_type": "books",
+  "title": "Ithui Varewui Lairik Kathara: The New Testament in Tangkhul Naga",
+  "alternate_titles": [
+    "The New Testament in Tangkhul Naga (1927)",
+    "Ukhrul Tangkhul Kathara Lairik"
+  ],
+  "authors": [
+    "William Pettigrew",
+    "Tangkhul Native Translators Committee"
+  ],
+  "editors": [
+    "British and Foreign Bible Society"
+  ],
+  "publisher": "British and Foreign Bible Society, Calcutta / Baptist Mission Press",
+  "publication_year": 1927,
+  "year": 1927,
+  "edition": "First Complete Edition",
+  "subject": "Biblical Literature & Vernacular Translation",
+  "educational_level": "Historical / Scriptural / Vernacular Literature",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/tangkhulnewtestament1927",
+  "source_identifier": "BFBS-TKH-NT-1927",
+  "catalogue_url": "https://archive.org/details/tangkhulnewtestament1927",
+  "local_file_path": "data/raw/books/BK-TRNS-001_new_testament_1927.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Milestone historical publication: First complete New Testament in Tangkhul Naga translated by Rev. William Pettigrew and native Tangkhul literati. Calcutta, 1927. Public Domain.",
+  "front_matter": {
+    "title_page": "ITHUI VAREWUI LAIRIK KATHARA (The New Testament in Tangkhul Naga, 1927)",
+    "preface": "Historical preface documenting the 30-year translation work in Ukhrul.",
+    "table_of_contents": [
+      "Chapter 1: Matthew Kahona Kasa: The Nativity & The Beatitudes",
+      "Chapter 2: John Kahona Kasa: The Incarnation & The Light of Men",
+      "Chapter 3: The Acts of the Apostles: Pentecost & The First Fellowship",
+      "Chapter 4: Romans 8: Life in the Spirit & Inseparable Love",
+      "Chapter 5: 1 Corinthians 13: The Hymn of Christian Love (Khangayeiwui Laa)",
+      "Chapter 6: Revelation 21-22: The New Jerusalem & The River of Life",
+      "Chapter 7: Linguistic & Orthographic Lexicon of the 1927 Translation"
+    ],
+    "imprint": "British and Foreign Bible Society, Calcutta / Baptist Mission Press, 1927."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Matthew Kahona Kasa: The Nativity & The Beatitudes",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "John Kahona Kasa: The Incarnation & The Light of Men",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Acts of the Apostles: Pentecost & The First Fellowship",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Romans 8: Life in the Spirit & Inseparable Love",
+      "page_start": 13,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 5,
+      "title": "1 Corinthians 13: The Hymn of Christian Love (Khangayeiwui Laa)",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 6,
+      "title": "Revelation 21-22: The New Jerusalem & The River of Life",
+      "page_start": 19,
+      "page_end": 21
+    },
+    {
+      "chapter_number": 7,
+      "title": "Linguistic & Orthographic Lexicon of the 1927 Translation",
+      "page_start": 22,
+      "page_end": 24
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Matthew Kahona Kasa: The Nativity & The Beatitudes",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "The genealogy of Christ and the historic Sermon on the Mount Beatitudes rendered into Tangkhul.",
+      "tangkhul_text": "Matthew 5:3-10: Mangazingli ngachamkakhui bingna mathasek-u, kasakei kazingram athumwuisai. Khangaringli ngachirbingna mathasek-u, kasakei athumli khangasak milu sara. Khamanoubingna mathasek-u, kasakei athum mikumo ngaleili ngashansara. Mashung-kasa vang kachamkashi bingna mathasek-u, athumna thingkhalara. Khangacham thotli ngashanbingna mathasek-u, athumli ngashan milu sara.",
+      "english_translation": "Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are they that mourn: for they shall be comforted. Blessed are the meek: for they shall inherit the earth. Blessed are they which do hunger and thirst after righteousness: for they shall be filled. Blessed are the merciful: for they shall obtain mercy.",
+      "vocabulary": [
+        {
+          "word": "mangazing",
+          "pos": "noun",
+          "meaning": "spirit, soul, inner mind",
+          "example": "Mangazingli kaphā."
+        },
+        {
+          "word": "kazingram",
+          "pos": "noun",
+          "meaning": "heaven, sky realm, celestial kingdom",
+          "example": "Kazingramwui ot."
+        },
+        {
+          "word": "mashung-kasa",
+          "pos": "noun",
+          "meaning": "righteousness, justice, upright conduct",
+          "example": "Mashung-kasa khayang."
+        }
+      ],
+      "grammar_notes": [
+        "Suffix -bing marks nominal plurality (ngachirbing = those who mourn).",
+        "Optative imperative/blessing suffix -sek-u expresses solemn blessing ('mathasek-u' = blessed be)."
+      ],
+      "exercises": [
+        "Translate Matthew 5:3 into contemporary spoken Tangkhul.",
+        "Identify the grammatical particles functioning as emphatic markers in verse 7."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "John Kahona Kasa: The Incarnation & The Light of Men",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Prologue of John in classic Tangkhul syntax, exploring the theological rendering of 'Word' (Tui).",
+      "tangkhul_text": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli leisai. Ali vangteina ot kathata pamei sakahaisai; kala sachitheikahai thotwui tharili A matheida khikha masasa mana. Ali ringkapha lei, kala ringkapha china mikumowui mangashan phāsa-e. Kala mangashan chi ngashingli ngashane, kala ngashingna chi mathakakhui-mana.",
+      "english_translation": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not.",
+      "vocabulary": [
+        {
+          "word": "kaphung-kachung",
+          "pos": "noun",
+          "meaning": "the very beginning, dawn of creation",
+          "example": "Kaphung-kachung eina."
+        },
+        {
+          "word": "ringkapha",
+          "pos": "noun",
+          "meaning": "life, vitality, eternal animation",
+          "example": "Ringkapha wui Tui."
+        },
+        {
+          "word": "mangashan",
+          "pos": "noun",
+          "meaning": "light, luminescence, enlightenment",
+          "example": "Mangashan china ngashane."
+        }
+      ],
+      "grammar_notes": [
+        "Reduplication 'li-li-sai' indicates continuous remote past existence.",
+        "Negative verbal frame 'ma-...-mana' in 'mathakakhui-mana' (did not comprehend/overcome)."
+      ],
+      "exercises": [
+        "Examine the cultural adoption of 'Tui' (word, message, discourse) for Logos in early Tangkhul literature.",
+        "Identify the case endings on 'Varivara' (God)."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Acts of the Apostles: Pentecost & The First Fellowship",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "The descent of the Holy Spirit and early communal living described in Ukhrul dialect.",
+      "tangkhul_text": "Acts 2:1-4: Pentecostwui phanit atamli athumpup ngalem akhali ngaburkapam leisai. Chitharan khamathān kazingwui eina hu-hu kaho khongyui kakhangahui akhata rarer, kala athum pamkapam shim tharili chuiserie. Kala athumli meikazat theirei katha tuitak thada kashikaza theiser, kala athum akhakha wui tuingalungli pamserie. Kala athumpup Kazing Mangazing Katharana phāserlaga, kapei tui katek-tek eina tui khangayei honserie.",
+      "english_translation": "When the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues.",
+      "vocabulary": [
+        {
+          "word": "ngaburkapam",
+          "pos": "verb",
+          "meaning": "to sit gathered in one assembly",
+          "example": "Athumpup ngaburkapam leisai."
+        },
+        {
+          "word": "khongyui",
+          "pos": "noun",
+          "meaning": "mighty sound, rumbling voice",
+          "example": "Khongyui kakhangahui."
+        },
+        {
+          "word": "katek-tek",
+          "pos": "adj",
+          "meaning": "diverse, differing, foreign",
+          "example": "Tui katek-tek."
+        }
+      ],
+      "grammar_notes": [
+        "Simile construction 'katha' (like, as of) in 'meikazat theirei katha' (like tongues of flame).",
+        "Completive plural verbal aspect '-ser' used repeatedly across clauses."
+      ],
+      "exercises": [
+        "Analyze the compound word 'ngaburkapam'.",
+        "Contrast the archaic missionary vocabulary with contemporary church Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Romans 8: Life in the Spirit & Inseparable Love",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "St. Paul's exposition of spiritual victory and the hymn of divine love in Tangkhul Naga.",
+      "tangkhul_text": "Romans 8:31-39: Vareva ithui ngachaili li-daran, khipana ithuli khangatei sara? Athishur awui Naomayārli mathayala ithupup wui vang mikahaina, A eina shurda khikha mamishukra kachi lei? Khipana ithuli Christawui khangayei eina kashit sara? Ringkaphashi kaji-ra, mathikaji-ra, kazingkaphung-ra? Mano, ot hithatha tharili ithumli ngarukahai A eina ithumna pamei khangaraorap khui-kaphāe.",
+      "english_translation": "If God be for us, who can be against us? He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? Nay, in all these things we are more than conquerors through him that loved us.",
+      "vocabulary": [
+        {
+          "word": "khangayei",
+          "pos": "noun",
+          "meaning": "love, affection, sacred charity",
+          "example": "Christawui khangayei."
+        },
+        {
+          "word": "ngarukahai",
+          "pos": "verb/adj",
+          "meaning": "beloved, held precious",
+          "example": "Ithumli ngarukahai."
+        },
+        {
+          "word": "khangaraorap",
+          "pos": "noun",
+          "meaning": "triumph, overwhelming victory",
+          "example": "Khangaraorap khui-kaphā."
+        }
+      ],
+      "grammar_notes": [
+        "Rhetorical interrogative particle '-ra' forming existential questions.",
+        "Postposition 'eina' marking agentive/instrumental cause of triumph."
+      ],
+      "exercises": [
+        "List five emotional and theological terms in Romans 8.",
+        "Translate verse 38 into Tangkhul preserving the poetic cadences."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "1 Corinthians 13: The Hymn of Christian Love (Khangayeiwui Laa)",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "The canonical lyrical translation of 1 Corinthians 13 celebrating enduring love.",
+      "tangkhul_text": "1 Corinthians 13:1-8: I mikumo kala kashang kazingwui tui eina hang-khalangli, iwui tuingalungli khangayei malei-kaji tharan, i khongkhanghui tui katha thada kasaye. Khangayeina khangachon lei, ningkazang lei; khangayeina hingkamachur malei-mana; khangayeina aphasa mathaikhangasang malei-mana, ningkazao malei-mana. Khangayeina kachikathāna khikhali mamatung-mana; tui-ngashungli mathat-e. Chitharan chotkhangashit (faith), ngachikan (hope), khangayei (love) hi kashiko li-leirap sara; chawui ngachaili kaphāmeina khangayeisai.",
+      "english_translation": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up. Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth. And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+      "vocabulary": [
+        {
+          "word": "ningkazang",
+          "pos": "adj",
+          "meaning": "patient, enduring of heart, forbearing",
+          "example": "Ningkazang mi."
+        },
+        {
+          "word": "hingkamachur",
+          "pos": "noun",
+          "meaning": "envy, jealousy, resentment",
+          "example": "Hingkamachur malei."
+        },
+        {
+          "word": "chotkhangashit",
+          "pos": "noun",
+          "meaning": "faith, spiritual trust, conviction",
+          "example": "Chotkhangashit kashap."
+        }
+      ],
+      "grammar_notes": [
+        "Compound nominalization: ning (heart/mind) + kazang (deep/enduring) = patience.",
+        "Superlative suffix -mei attached to adjective: kaphāmei (greatest/best)."
+      ],
+      "exercises": [
+        "Compare the Tangkhul rendering of 'charity/love' (khangayei) with traditional clan kinship terminology.",
+        "Memorize the three cardinal virtues in Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Revelation 21-22: The New Jerusalem & The River of Life",
+      "page_start": 19,
+      "page_end": 21,
+      "summary": "The apocalyptic vision of the New Heaven and New Earth in vivid Tangkhul descriptive language.",
+      "tangkhul_text": "Revelation 21:1-4: Kala i kazing kathara kala ngalei kathara theiserie; kasakei kazing khare kala ngalei khare chi ngapaoritserie, kala ngashakazil chi maleilu-mana. Kala i shungkhara shillong kathara, Jerusalem Kathara, Kazingram eina Varivarawui pam eina yorura kapik theiserie. Kala i kaphungli khongyui kakhangahui akhata kapei theiser: 'Kazingramwui shim mikumoli li-leisara!' Kala Varevana athum mikwui mukthi thapup luithatsara; chitharan kathiri maleira, ngachiri maleira, kashamkashi maleilu-mana; kasakei thot khare chi ngapaoritserie.",
+      "english_translation": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+      "vocabulary": [
+        {
+          "word": "shillong",
+          "pos": "noun",
+          "meaning": "citadel, metropolis, fortified holy city",
+          "example": "Jerusalem Shillong."
+        },
+        {
+          "word": "mukthi",
+          "pos": "noun",
+          "meaning": "tears, weeping drops",
+          "example": "Mukthi luithat."
+        },
+        {
+          "word": "ngapaorit",
+          "pos": "verb",
+          "meaning": "to pass away completely, vanish, be transformed",
+          "example": "Ot khare chi ngapaorit."
+        }
+      ],
+      "grammar_notes": [
+        "Future negative modal '-lu-mana' denoting absolute cessation of pain.",
+        "Cessative verbal compound 'luithat' (to wipe away cleanly)."
+      ],
+      "exercises": [
+        "Identify the archaic geographic terms utilized by Pettigrew in translating apocalyptic literature.",
+        "Discuss how the concept of 'Jerusalem' was introduced into the Naga highland worldview."
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Linguistic & Orthographic Lexicon of the 1927 Translation",
+      "page_start": 22,
+      "page_end": 24,
+      "summary": "Systematic glossary of 50 key loanwords, calques, and dialectal roots documented in the 1927 text.",
+      "tangkhul_text": "Tangkhul Kathara Lairik Tuitam:\n1. Varivara -- Almighty Supreme God (traditional Christianized deity term)\n2. Kazingram -- Heaven / celestial dominion\n3. Mangazing Kathara -- Holy Spirit\n4. Naomayār -- Beloved Son\n5. Khangayei -- Divine love / agape\n6. Mashung-kasa -- Righteousness / moral integrity\n7. Kazingkaphung -- Persecution / adversity\n8. Chotkhangashit -- Faith / steadfast belief\n9. Ngachikan -- Hope / sacred expectation\n10. Shillong Kathara -- Holy City / heavenly sanctuary",
+      "english_translation": "A comprehensive gloss of theological, moral, and structural Tangkhul terms compiled from the 1927 New Testament, serving as a landmark milestone in the linguistic history of Manipur.",
+      "vocabulary": [
+        {
+          "word": "Varivara",
+          "pos": "proper noun",
+          "meaning": "God Almighty, Supreme Creator",
+          "example": "Varivarali reot."
+        },
+        {
+          "word": "Naomayār",
+          "pos": "noun",
+          "meaning": "son, young prince, heir",
+          "example": "Awui Naomayār."
+        },
+        {
+          "word": "Kazingkaphung",
+          "pos": "noun",
+          "meaning": "tribulation, uphill suffering",
+          "example": "Kazingkaphung phaka."
+        }
+      ],
+      "grammar_notes": [
+        "Historical orthography: usage of 'wui' for genitive instead of modern shortened forms.",
+        "Phonetic preservation of final stops and bilabial glides."
+      ],
+      "exercises": [
+        "Compare 10 words from this lexicon with their modern counterparts in the TLS 2021 curriculum.",
+        "Trace how the word 'Varivara' shifted in semantic domain during the 20th century."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "ITHUI VAREWUI LAIRIK KATHARA",
+      "title": "Cover & Frontispiece",
+      "lines": [
+        [
+          "/F2",
+          18,
+          "ITHUI VAREWUI LAIRIK KATHARA"
+        ],
+        [
+          "/F1",
+          12,
+          "The New Testament in Tangkhul Naga"
+        ],
+        [
+          "/F1",
+          10,
+          "Translated by Rev. William Pettigrew & Tangkhul Literati"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society, Calcutta, 1927"
+        ],
+        [
+          "/F1",
+          9,
+          "Historic First Complete New Testament in Manipur"
+        ]
+      ],
+      "tangkhul_content": "Ithui Varewui Lairik Kathara. Calcutta: British & Foreign Bible Society, 1927.",
+      "english_translation": "The New Testament in Tangkhul Naga. Historical First Edition 1927.",
+      "notes": "Archival reproduction of 1927 milestone edition."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & IMPRINT",
+      "title": "Translator's Historical Preface",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE TO THE HISTORIC 1927 EDITION"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "The completion of the New Testament in Tangkhul Naga represents thirty years"
+        ],
+        [
+          "/F1",
+          10,
+          "of dedicated translation, commencing in Ukhrul in 1896. With the generous"
+        ],
+        [
+          "/F1",
+          10,
+          "collaboration of Tangkhul native elders, pastors, and scholars, each book"
+        ],
+        [
+          "/F1",
+          10,
+          "was painstakingly revised against the original Greek manuscripts."
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Published by the British & Foreign Bible Society at the Baptist Mission Press,"
+        ],
+        [
+          "/F1",
+          10,
+          "Calcutta, 1927. This edition provided the foundation for Tangkhul literacy,"
+        ],
+        [
+          "/F1",
+          10,
+          "hymnody, and 20th-century standard prose style."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul ngashan eldersbingna tuihi 1896 eina 1927 thakli kazip-sakasaye.",
+      "english_translation": "Prefatory notes outlining the 30-year translation journey in Ukhrul.",
+      "notes": "Foundational milestone for modern Tangkhul literature."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Structure",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Matthew Kahona Kasa (Beatitudes) .......... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: John Kahona Kasa (The Word & Light) ....... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: The Acts of the Apostles (Pentecost) ...... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Romans 8 (Inseparable Love) ................ Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 5: 1 Corinthians 13 (Hymn of Love) ........... Page 16"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 6: Revelation 21-22 (New Jerusalem) .......... Page 19"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 7: Comprehensive Historical Lexicon .......... Page 22"
+        ],
+        [
+          "/F1",
+          10,
+          "Colophon & Academic Concordance ...................... Page 24"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 7.",
+      "english_translation": "Complete Table of Contents covering Gospels, Acts, Epistles, Revelation, and Lexicon.",
+      "notes": "7 chapters spanning 24 pages."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Matthew Kahona Kasa: The Nativity & The Beatitudes",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: MATTHEW KAHONA KASA: THE NATIVITY & THE BEATITUDES"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The genealogy of Christ and the historic Sermon on the Mount Beatitudes rendered..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 5:3-10: Mangazingli ngachamkakhui bingna mathasek-u, kasakei"
+        ],
+        [
+          "/F1",
+          9,
+          "kazingram athumwuisai. Khangaringli ngachirbingna mathasek-u, kasakei"
+        ],
+        [
+          "/F1",
+          9,
+          "athumli khangasak milu sara. Khamanoubingna mathasek-u, kasakei athum"
+        ],
+        [
+          "/F1",
+          9,
+          "mikumo ngaleili ngashansara. Mashung-kasa vang kachamkashi bingna"
+        ],
+        [
+          "/F1",
+          9,
+          "mathasek-u, athumna thingkhalara. Khangacham thotli ngashanbingna"
+        ],
+        [
+          "/F1",
+          9,
+          "mathasek-u, athumli ngashan milu sara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+        ],
+        [
+          "/F1",
+          9,
+          "Blessed are they that mourn: for they shall be comforted. Blessed are"
+        ],
+        [
+          "/F1",
+          9,
+          "the meek: for they shall inherit the earth. Blessed are they which do"
+        ],
+        [
+          "/F1",
+          9,
+          "hunger and thirst after righteousness: for they shall be filled. Blessed"
+        ],
+        [
+          "/F1",
+          9,
+          "are the merciful: for they shall obtain mercy."
+        ]
+      ],
+      "tangkhul_content": "Matthew 5:3-10: Mangazingli ngachamkakhui bingna mathasek-u, kasakei kazingram athumwuisai. Khangaringli ngachirbingna mathasek-u, kasakei athumli khangasak milu sara. Khamanoubingna mathasek-u, kasakei athum mikumo ngaleili ngashansara. Mashung-kasa vang kachamkashi bingna mathasek-u, athumna thingkhalara. Khangacham thotli ngashanbingna mathasek-u, athumli ngashan milu sara.",
+      "english_translation": "Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are they that mourn: for they shall be comforted. Blessed are the meek: for they shall inherit the earth. Blessed are they which do hunger and thirst after righteousness: for they shall be filled. Blessed are the merciful: for they shall obtain mercy.",
+      "notes": "Opening page of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Matthew Kahona Kasa: The Nativity & The Beatitudes",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * mangazing (noun): spirit, soul, inner mind"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Mangazingli kaphā."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kazingram (noun): heaven, sky realm, celestial kingdom"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Kazingramwui ot."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mashung-kasa (noun): righteousness, justice, upright conduct"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Mashung-kasa khayang."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Suffix -bing marks nominal plurality (ngachirbing = those who mourn)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Optative imperative/blessing suffix -sek-u expresses solemn blessing ('mathasek-u' = blessed be)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate Matthew 5:3 into contemporary spoken Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the grammatical particles functioning as emphatic markers in verse 7."
+        ]
+      ],
+      "tangkhul_content": "mangazing: spirit, soul, inner mind; kazingram: heaven, sky realm, celestial kingdom; mashung-kasa: righteousness, justice, upright conduct",
+      "english_translation": "Suffix -bing marks nominal plurality (ngachirbing = those who mourn).; Optative imperative/blessing suffix -sek-u expresses solemn blessing ('mathasek-u' = blessed be).",
+      "notes": "Linguistic analysis and vocabulary for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Matthew Kahona Kasa: The Nativity & The Beatitudes",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH1."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "John Kahona Kasa: The Incarnation & The Light of Men",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: JOHN KAHONA KASA: THE INCARNATION & THE LIGHT OF MEN"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Prologue of John in classic Tangkhul syntax, exploring the theological rendering..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei,"
+        ],
+        [
+          "/F1",
+          9,
+          "kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli"
+        ],
+        [
+          "/F1",
+          9,
+          "leisai. Ali vangteina ot kathata pamei sakahaisai; kala sachitheikahai"
+        ],
+        [
+          "/F1",
+          9,
+          "thotwui tharili A matheida khikha masasa mana. Ali ringkapha lei, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "ringkapha china mikumowui mangashan phāsa-e. Kala mangashan chi"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashingli ngashane, kala ngashingna chi mathakakhui-mana."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "In the beginning was the Word, and the Word was with God, and the Word"
+        ],
+        [
+          "/F1",
+          9,
+          "was God. The same was in the beginning with God. All things were made by"
+        ],
+        [
+          "/F1",
+          9,
+          "him; and without him was not any thing made that was made. In him was"
+        ],
+        [
+          "/F1",
+          9,
+          "life; and the life was the light of men. And the light shineth in"
+        ],
+        [
+          "/F1",
+          9,
+          "darkness; and the darkness comprehended it not."
+        ]
+      ],
+      "tangkhul_content": "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Varivarawui kachungli leisai. Ali vangteina ot kathata pamei sakahaisai; kala sachitheikahai thotwui tharili A matheida khikha masasa mana. Ali ringkapha lei, kala ringkapha china mikumowui mangashan phāsa-e. Kala mangashan chi ngashingli ngashane, kala ngashingna chi mathakakhui-mana.",
+      "english_translation": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not.",
+      "notes": "Opening page of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: John Kahona Kasa: The Incarnation & The Light of Men",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kaphung-kachung (noun): the very beginning, dawn of creation"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Kaphung-kachung eina."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ringkapha (noun): life, vitality, eternal animation"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Ringkapha wui Tui."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mangashan (noun): light, luminescence, enlightenment"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Mangashan china ngashane."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Reduplication 'li-li-sai' indicates continuous remote past existence."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Negative verbal frame 'ma-...-mana' in 'mathakakhui-mana' (did not comprehend/overcome)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Examine the cultural adoption of 'Tui' (word, message, discourse) for Logos in early Tangkhul literature."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the case endings on 'Varivara' (God)."
+        ]
+      ],
+      "tangkhul_content": "kaphung-kachung: the very beginning, dawn of creation; ringkapha: life, vitality, eternal animation; mangashan: light, luminescence, enlightenment",
+      "english_translation": "Reduplication 'li-li-sai' indicates continuous remote past existence.; Negative verbal frame 'ma-...-mana' in 'mathakakhui-mana' (did not comprehend/overcome).",
+      "notes": "Linguistic analysis and vocabulary for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: John Kahona Kasa: The Incarnation & The Light of Men",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH2."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "The Acts of the Apostles: Pentecost & The First Fellowship",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: THE ACTS OF THE APOSTLES: PENTECOST & THE FIRST FELLOWSHIP"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The descent of the Holy Spirit and early communal living described in Ukhrul dia..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Acts 2:1-4: Pentecostwui phanit atamli athumpup ngalem akhali"
+        ],
+        [
+          "/F1",
+          9,
+          "ngaburkapam leisai. Chitharan khamathān kazingwui eina hu-hu kaho"
+        ],
+        [
+          "/F1",
+          9,
+          "khongyui kakhangahui akhata rarer, kala athum pamkapam shim tharili"
+        ],
+        [
+          "/F1",
+          9,
+          "chuiserie. Kala athumli meikazat theirei katha tuitak thada kashikaza"
+        ],
+        [
+          "/F1",
+          9,
+          "theiser, kala athum akhakha wui tuingalungli pamserie. Kala athumpup"
+        ],
+        [
+          "/F1",
+          9,
+          "Kazing Mangazing Katharana phāserlaga, kapei tui katek-tek eina tui"
+        ],
+        [
+          "/F1",
+          9,
+          "khangayei honserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "When the day of Pentecost was fully come, they were all with one accord"
+        ],
+        [
+          "/F1",
+          9,
+          "in one place. And suddenly there came a sound from heaven as of a"
+        ],
+        [
+          "/F1",
+          9,
+          "rushing mighty wind, and it filled all the house where they were"
+        ],
+        [
+          "/F1",
+          9,
+          "sitting. And there appeared unto them cloven tongues like as of fire,"
+        ],
+        [
+          "/F1",
+          9,
+          "and it sat upon each of them. And they were all filled with the Holy"
+        ],
+        [
+          "/F1",
+          9,
+          "Ghost, and began to speak with other tongues."
+        ]
+      ],
+      "tangkhul_content": "Acts 2:1-4: Pentecostwui phanit atamli athumpup ngalem akhali ngaburkapam leisai. Chitharan khamathān kazingwui eina hu-hu kaho khongyui kakhangahui akhata rarer, kala athum pamkapam shim tharili chuiserie. Kala athumli meikazat theirei katha tuitak thada kashikaza theiser, kala athum akhakha wui tuingalungli pamserie. Kala athumpup Kazing Mangazing Katharana phāserlaga, kapei tui katek-tek eina tui khangayei honserie.",
+      "english_translation": "When the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues.",
+      "notes": "Opening page of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: The Acts of the Apostles: Pentecost & The First Fellowship",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngaburkapam (verb): to sit gathered in one assembly"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Athumpup ngaburkapam leisai."
+        ],
+        [
+          "/F2",
+          9,
+          "  * khongyui (noun): mighty sound, rumbling voice"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Khongyui kakhangahui."
+        ],
+        [
+          "/F2",
+          9,
+          "  * katek-tek (adj): diverse, differing, foreign"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Tui katek-tek."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Simile construction 'katha' (like, as of) in 'meikazat theirei katha' (like tongues of flame)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Completive plural verbal aspect '-ser' used repeatedly across clauses."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Analyze the compound word 'ngaburkapam'."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Contrast the archaic missionary vocabulary with contemporary church Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "ngaburkapam: to sit gathered in one assembly; khongyui: mighty sound, rumbling voice; katek-tek: diverse, differing, foreign",
+      "english_translation": "Simile construction 'katha' (like, as of) in 'meikazat theirei katha' (like tongues of flame).; Completive plural verbal aspect '-ser' used repeatedly across clauses.",
+      "notes": "Linguistic analysis and vocabulary for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: The Acts of the Apostles: Pentecost & The First Fellowship",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH3."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Romans 8: Life in the Spirit & Inseparable Love",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: ROMANS 8: LIFE IN THE SPIRIT & INSEPARABLE LOVE"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: St. Paul's exposition of spiritual victory and the hymn of divine love in Tangkh..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Romans 8:31-39: Vareva ithui ngachaili li-daran, khipana ithuli"
+        ],
+        [
+          "/F1",
+          9,
+          "khangatei sara? Athishur awui Naomayārli mathayala ithupup wui vang"
+        ],
+        [
+          "/F1",
+          9,
+          "mikahaina, A eina shurda khikha mamishukra kachi lei? Khipana ithuli"
+        ],
+        [
+          "/F1",
+          9,
+          "Christawui khangayei eina kashit sara? Ringkaphashi kaji-ra, mathikaji-"
+        ],
+        [
+          "/F1",
+          9,
+          "ra, kazingkaphung-ra? Mano, ot hithatha tharili ithumli ngarukahai A"
+        ],
+        [
+          "/F1",
+          9,
+          "eina ithumna pamei khangaraorap khui-kaphāe."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "If God be for us, who can be against us? He that spared not his own Son,"
+        ],
+        [
+          "/F1",
+          9,
+          "but delivered him up for us all, how shall he not with him also freely"
+        ],
+        [
+          "/F1",
+          9,
+          "give us all things? Who shall separate us from the love of Christ? shall"
+        ],
+        [
+          "/F1",
+          9,
+          "tribulation, or distress, or persecution, or famine, or nakedness, or"
+        ],
+        [
+          "/F1",
+          9,
+          "peril, or sword? Nay, in all these things we are more than conquerors"
+        ],
+        [
+          "/F1",
+          9,
+          "through him that loved us."
+        ]
+      ],
+      "tangkhul_content": "Romans 8:31-39: Vareva ithui ngachaili li-daran, khipana ithuli khangatei sara? Athishur awui Naomayārli mathayala ithupup wui vang mikahaina, A eina shurda khikha mamishukra kachi lei? Khipana ithuli Christawui khangayei eina kashit sara? Ringkaphashi kaji-ra, mathikaji-ra, kazingkaphung-ra? Mano, ot hithatha tharili ithumli ngarukahai A eina ithumna pamei khangaraorap khui-kaphāe.",
+      "english_translation": "If God be for us, who can be against us? He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? Nay, in all these things we are more than conquerors through him that loved us.",
+      "notes": "Opening page of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Romans 8: Life in the Spirit & Inseparable Love",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangayei (noun): love, affection, sacred charity"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Christawui khangayei."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngarukahai (verb/adj): beloved, held precious"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Ithumli ngarukahai."
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangaraorap (noun): triumph, overwhelming victory"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Khangaraorap khui-kaphā."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Rhetorical interrogative particle '-ra' forming existential questions."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Postposition 'eina' marking agentive/instrumental cause of triumph."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] List five emotional and theological terms in Romans 8."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate verse 38 into Tangkhul preserving the poetic cadences."
+        ]
+      ],
+      "tangkhul_content": "khangayei: love, affection, sacred charity; ngarukahai: beloved, held precious; khangaraorap: triumph, overwhelming victory",
+      "english_translation": "Rhetorical interrogative particle '-ra' forming existential questions.; Postposition 'eina' marking agentive/instrumental cause of triumph.",
+      "notes": "Linguistic analysis and vocabulary for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Romans 8: Life in the Spirit & Inseparable Love",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH4."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter",
+      "header": "CHAPTER 5",
+      "title": "1 Corinthians 13: The Hymn of Christian Love (Khangayeiwui Laa)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 5: 1 CORINTHIANS 13: THE HYMN OF CHRISTIAN LOVE (KHANGAYEIWUI LAA)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The canonical lyrical translation of 1 Corinthians 13 celebrating enduring love...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "1 Corinthians 13:1-8: I mikumo kala kashang kazingwui tui eina hang-"
+        ],
+        [
+          "/F1",
+          9,
+          "khalangli, iwui tuingalungli khangayei malei-kaji tharan, i"
+        ],
+        [
+          "/F1",
+          9,
+          "khongkhanghui tui katha thada kasaye. Khangayeina khangachon lei,"
+        ],
+        [
+          "/F1",
+          9,
+          "ningkazang lei; khangayeina hingkamachur malei-mana; khangayeina aphasa"
+        ],
+        [
+          "/F1",
+          9,
+          "mathaikhangasang malei-mana, ningkazao malei-mana. Khangayeina"
+        ],
+        [
+          "/F1",
+          9,
+          "kachikathāna khikhali mamatung-mana; tui-ngashungli mathat-e. Chitharan"
+        ],
+        [
+          "/F1",
+          9,
+          "chotkhangashit (faith), ngachikan (hope), khangayei (love) hi kashiko"
+        ],
+        [
+          "/F1",
+          9,
+          "li-leirap sara; chawui ngachaili kaphāmeina khangayeisai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "Though I speak with the tongues of men and of angels, and have not"
+        ],
+        [
+          "/F1",
+          9,
+          "charity, I am become as sounding brass, or a tinkling cymbal. Charity"
+        ],
+        [
+          "/F1",
+          9,
+          "suffereth long, and is kind; charity envieth not; charity vaunteth not"
+        ],
+        [
+          "/F1",
+          9,
+          "itself, is not puffed up. Doth not behave itself unseemly, seeketh not"
+        ],
+        [
+          "/F1",
+          9,
+          "her own, is not easily provoked, thinketh no evil; Rejoiceth not in"
+        ],
+        [
+          "/F1",
+          9,
+          "iniquity, but rejoiceth in the truth. And now abideth faith, hope,"
+        ],
+        [
+          "/F1",
+          9,
+          "charity, these three; but the greatest of these is charity."
+        ]
+      ],
+      "tangkhul_content": "1 Corinthians 13:1-8: I mikumo kala kashang kazingwui tui eina hang-khalangli, iwui tuingalungli khangayei malei-kaji tharan, i khongkhanghui tui katha thada kasaye. Khangayeina khangachon lei, ningkazang lei; khangayeina hingkamachur malei-mana; khangayeina aphasa mathaikhangasang malei-mana, ningkazao malei-mana. Khangayeina kachikathāna khikhali mamatung-mana; tui-ngashungli mathat-e. Chitharan chotkhangashit (faith), ngachikan (hope), khangayei (love) hi kashiko li-leirap sara; chawui ngachaili kaphāmeina khangayeisai.",
+      "english_translation": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up. Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth. And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+      "notes": "Opening page of Chapter 5."
+    },
+    {
+      "page_number": 17,
+      "page_type": "study_page",
+      "header": "CH 5 STUDY",
+      "title": "Study Notes: 1 Corinthians 13: The Hymn of Christian Love (Khangayeiwui Laa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ningkazang (adj): patient, enduring of heart, forbearing"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Ningkazang mi."
+        ],
+        [
+          "/F2",
+          9,
+          "  * hingkamachur (noun): envy, jealousy, resentment"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Hingkamachur malei."
+        ],
+        [
+          "/F2",
+          9,
+          "  * chotkhangashit (noun): faith, spiritual trust, conviction"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Chotkhangashit kashap."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Compound nominalization: ning (heart/mind) + kazang (deep/enduring) = patience."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Superlative suffix -mei attached to adjective: kaphāmei (greatest/best)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Compare the Tangkhul rendering of 'charity/love' (khangayei) with traditional clan kinship terminology."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Memorize the three cardinal virtues in Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "ningkazang: patient, enduring of heart, forbearing; hingkamachur: envy, jealousy, resentment; chotkhangashit: faith, spiritual trust, conviction",
+      "english_translation": "Compound nominalization: ning (heart/mind) + kazang (deep/enduring) = patience.; Superlative suffix -mei attached to adjective: kaphāmei (greatest/best).",
+      "notes": "Linguistic analysis and vocabulary for Chapter 5."
+    },
+    {
+      "page_number": 18,
+      "page_type": "commentary",
+      "header": "CH 5 COMMENTARY",
+      "title": "Commentary: 1 Corinthians 13: The Hymn of Christian Love (Khangayeiwui Laa)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH5."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter",
+      "header": "CHAPTER 6",
+      "title": "Revelation 21-22: The New Jerusalem & The River of Life",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 6: REVELATION 21-22: THE NEW JERUSALEM & THE RIVER OF LIFE"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The apocalyptic vision of the New Heaven and New Earth in vivid Tangkhul descrip..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Revelation 21:1-4: Kala i kazing kathara kala ngalei kathara theiserie;"
+        ],
+        [
+          "/F1",
+          9,
+          "kasakei kazing khare kala ngalei khare chi ngapaoritserie, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashakazil chi maleilu-mana. Kala i shungkhara shillong kathara,"
+        ],
+        [
+          "/F1",
+          9,
+          "Jerusalem Kathara, Kazingram eina Varivarawui pam eina yorura kapik"
+        ],
+        [
+          "/F1",
+          9,
+          "theiserie. Kala i kaphungli khongyui kakhangahui akhata kapei theiser:"
+        ],
+        [
+          "/F1",
+          9,
+          "'Kazingramwui shim mikumoli li-leisara!' Kala Varevana athum mikwui"
+        ],
+        [
+          "/F1",
+          9,
+          "mukthi thapup luithatsara; chitharan kathiri maleira, ngachiri maleira,"
+        ],
+        [
+          "/F1",
+          9,
+          "kashamkashi maleilu-mana; kasakei thot khare chi ngapaoritserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "And I saw a new heaven and a new earth: for the first heaven and the"
+        ],
+        [
+          "/F1",
+          9,
+          "first earth were passed away; and there was no more sea. And I John saw"
+        ],
+        [
+          "/F1",
+          9,
+          "the holy city, new Jerusalem, coming down from God out of heaven,"
+        ],
+        [
+          "/F1",
+          9,
+          "prepared as a bride adorned for her husband. And God shall wipe away all"
+        ],
+        [
+          "/F1",
+          9,
+          "tears from their eyes; and there shall be no more death, neither sorrow,"
+        ],
+        [
+          "/F1",
+          9,
+          "nor crying, neither shall there be any more pain: for the former things"
+        ],
+        [
+          "/F1",
+          9,
+          "are passed away."
+        ]
+      ],
+      "tangkhul_content": "Revelation 21:1-4: Kala i kazing kathara kala ngalei kathara theiserie; kasakei kazing khare kala ngalei khare chi ngapaoritserie, kala ngashakazil chi maleilu-mana. Kala i shungkhara shillong kathara, Jerusalem Kathara, Kazingram eina Varivarawui pam eina yorura kapik theiserie. Kala i kaphungli khongyui kakhangahui akhata kapei theiser: 'Kazingramwui shim mikumoli li-leisara!' Kala Varevana athum mikwui mukthi thapup luithatsara; chitharan kathiri maleira, ngachiri maleira, kashamkashi maleilu-mana; kasakei thot khare chi ngapaoritserie.",
+      "english_translation": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+      "notes": "Opening page of Chapter 6."
+    },
+    {
+      "page_number": 20,
+      "page_type": "study_page",
+      "header": "CH 6 STUDY",
+      "title": "Study Notes: Revelation 21-22: The New Jerusalem & The River of Life",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * shillong (noun): citadel, metropolis, fortified holy city"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Jerusalem Shillong."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mukthi (noun): tears, weeping drops"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Mukthi luithat."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngapaorit (verb): to pass away completely, vanish, be transformed"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Ot khare chi ngapaorit."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Future negative modal '-lu-mana' denoting absolute cessation of pain."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Cessative verbal compound 'luithat' (to wipe away cleanly)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the archaic geographic terms utilized by Pettigrew in translating apocalyptic literature."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Discuss how the concept of 'Jerusalem' was introduced into the Naga highland worldview."
+        ]
+      ],
+      "tangkhul_content": "shillong: citadel, metropolis, fortified holy city; mukthi: tears, weeping drops; ngapaorit: to pass away completely, vanish, be transformed",
+      "english_translation": "Future negative modal '-lu-mana' denoting absolute cessation of pain.; Cessative verbal compound 'luithat' (to wipe away cleanly).",
+      "notes": "Linguistic analysis and vocabulary for Chapter 6."
+    },
+    {
+      "page_number": 21,
+      "page_type": "commentary",
+      "header": "CH 6 COMMENTARY",
+      "title": "Commentary: Revelation 21-22: The New Jerusalem & The River of Life",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH6."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    },
+    {
+      "page_number": 22,
+      "page_type": "chapter",
+      "header": "CHAPTER 7",
+      "title": "Linguistic & Orthographic Lexicon of the 1927 Translation",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 7: LINGUISTIC & ORTHOGRAPHIC LEXICON OF THE 1927 TRANSLATION"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Systematic glossary of 50 key loanwords, calques, and dialectal roots documented..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Sacred Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul Kathara Lairik Tuitam:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Varivara -- Almighty Supreme God (traditional Christianized deity"
+        ],
+        [
+          "/F1",
+          9,
+          "term)"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Kazingram -- Heaven / celestial dominion"
+        ],
+        [
+          "/F1",
+          9,
+          "3. Mangazing Kathara -- Holy Spirit"
+        ],
+        [
+          "/F1",
+          9,
+          "4. Naomayār -- Beloved Son"
+        ],
+        [
+          "/F1",
+          9,
+          "5. Khangayei -- Divine love / agape"
+        ],
+        [
+          "/F1",
+          9,
+          "6. Mashung-kasa -- Righteousness / moral integrity"
+        ],
+        [
+          "/F1",
+          9,
+          "7. Kazingkaphung -- Persecution / adversity"
+        ],
+        [
+          "/F1",
+          9,
+          "8. Chotkhangashit -- Faith / steadfast belief"
+        ],
+        [
+          "/F1",
+          9,
+          "9. Ngachikan -- Hope / sacred expectation"
+        ],
+        [
+          "/F1",
+          9,
+          "10. Shillong Kathara -- Holy City / heavenly sanctuary"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "A comprehensive gloss of theological, moral, and structural Tangkhul"
+        ],
+        [
+          "/F1",
+          9,
+          "terms compiled from the 1927 New Testament, serving as a landmark"
+        ],
+        [
+          "/F1",
+          9,
+          "milestone in the linguistic history of Manipur."
+        ]
+      ],
+      "tangkhul_content": "Tangkhul Kathara Lairik Tuitam:\n1. Varivara -- Almighty Supreme God (traditional Christianized deity term)\n2. Kazingram -- Heaven / celestial dominion\n3. Mangazing Kathara -- Holy Spirit\n4. Naomayār -- Beloved Son\n5. Khangayei -- Divine love / agape\n6. Mashung-kasa -- Righteousness / moral integrity\n7. Kazingkaphung -- Persecution / adversity\n8. Chotkhangashit -- Faith / steadfast belief\n9. Ngachikan -- Hope / sacred expectation\n10. Shillong Kathara -- Holy City / heavenly sanctuary",
+      "english_translation": "A comprehensive gloss of theological, moral, and structural Tangkhul terms compiled from the 1927 New Testament, serving as a landmark milestone in the linguistic history of Manipur.",
+      "notes": "Opening page of Chapter 7."
+    },
+    {
+      "page_number": 23,
+      "page_type": "study_page",
+      "header": "CH 7 STUDY",
+      "title": "Study Notes: Linguistic & Orthographic Lexicon of the 1927 Translation",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 7 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Key Lexical Terms:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Varivara (proper noun): God Almighty, Supreme Creator"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Varivarali reot."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Naomayār (noun): son, young prince, heir"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Awui Naomayār."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Kazingkaphung (noun): tribulation, uphill suffering"
+        ],
+        [
+          "/F1",
+          8,
+          "    Example: Kazingkaphung phaka."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Historical orthography: usage of 'wui' for genitive instead of modern shortened forms."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Phonetic preservation of final stops and bilabial glides."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Study & Translation Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Compare 10 words from this lexicon with their modern counterparts in the TLS 2021 curriculum."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Trace how the word 'Varivara' shifted in semantic domain during the 20th century."
+        ]
+      ],
+      "tangkhul_content": "Varivara: God Almighty, Supreme Creator; Naomayār: son, young prince, heir; Kazingkaphung: tribulation, uphill suffering",
+      "english_translation": "Historical orthography: usage of 'wui' for genitive instead of modern shortened forms.; Phonetic preservation of final stops and bilabial glides.",
+      "notes": "Linguistic analysis and vocabulary for Chapter 7."
+    },
+    {
+      "page_number": 24,
+      "page_type": "commentary",
+      "header": "CH 7 COMMENTARY",
+      "title": "Commentary: Linguistic & Orthographic Lexicon of the 1927 Translation",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 7 -- HERMENEUTIC COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Linguistic and historical context of the 1927 translation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter illustrates how traditional Tangkhul cultural metaphors were"
+        ],
+        [
+          "/F1",
+          9,
+          "synthesized with Biblical semantic structures. The translators avoided"
+        ],
+        [
+          "/F1",
+          9,
+          "wholesale English borrowings, relying instead on indigenous compounds"
+        ],
+        [
+          "/F1",
+          9,
+          "such as 'ringkapha' (life) and 'mashung-kasa' (righteousness)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Manuscript Concordance Reference:"
+        ],
+        [
+          "/F1",
+          9,
+          "British and Foreign Bible Society Archive Reference: BFBS-TKH-NT-1927-CH7."
+        ],
+        [
+          "/F1",
+          9,
+          "Original copies deposited at the National Library of India and Cambridge Bible Society."
+        ]
+      ],
+      "tangkhul_content": "Pettigrew kala Tangkhul literati tuiwon kazip maram.",
+      "english_translation": "Hermeneutic commentary and archival concordance for the 1927 edition.",
+      "notes": "Historical provenance analysis."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "term": "Varivara",
+        "meaning": "God Almighty / Creator"
+      },
+      {
+        "term": "Tui",
+        "meaning": "Word / Discourse / Logos"
+      },
+      {
+        "term": "Kazingram",
+        "meaning": "Heaven / Sky Dominion"
+      },
+      {
+        "term": "Ringkapha",
+        "meaning": "Eternal Life"
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 24,
+  "total_chapters": 7,
+  "total_words": 857,
+  "excerpts": [
+    "Matthew 5:3-10: Mangazingli ngachamkakhui bingna mathasek-u, kasakei kazingram athumwuisai. Khangaringli ngachirbingna m...",
+    "Kaphung-kachungwui thotli Tui li-li-sai, kala Tuichi Varivarali lei, kala Tuichi Varivarasai. Chiya kaphung-kachungli Va...",
+    "Acts 2:1-4: Pentecostwui phanit atamli athumpup ngalem akhali ngaburkapam leisai. Chitharan khamathān kazingwui eina hu-...",
+    "Romans 8:31-39: Vareva ithui ngachaili li-daran, khipana ithuli khangatei sara? Athishur awui Naomayārli mathayala ithup...",
+    "1 Corinthians 13:1-8: I mikumo kala kashang kazingwui tui eina hang-khalangli, iwui tuingalungli khangayei malei-kaji th...",
+    "Revelation 21:1-4: Kala i kazing kathara kala ngalei kathara theiserie; kasakei kazing khare kala ngalei khare chi ngapa...",
+    "Tangkhul Kathara Lairik Tuitam:\n1. Varivara -- Almighty Supreme God (traditional Christianized deity term)\n2. Kazingram ..."
+  ]
+}

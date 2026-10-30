@@ -1,0 +1,39 @@
+TITLE: Tangkhul Luira Phanit (Seed Sowing Festival) and Ancient Agricultural Invocations
+AUTHORS: Prof. Khashim Ruivah
+JOURNAL / VENUE: Journal of North East India Council for Social Science Research & TRI Manipur (1987)
+SUBJECT: Ethnolinguistics, Cultural Anthropology & Ritual Chants
+KEYWORDS: Luira Phanit, Chithar, Awungshi, Hao Pheichak, Agrarian Liturgy, Ruivah, Manipur
+
+ABSTRACT:
+Luira Phanit (the Seed Sowing Festival) is the supreme cultural and agricultural festival of the Tangkhul Naga people, celebrated annually in February across all traditional villages. This paper provides an ethnolinguistic documentation of the ceremonial liturgy performed during Luira. We record and translate the sacred Chithar (first seed-sowing invocation) chanted exclusively by the village chief (Awungshi), the liturgical formulas for domestic hearth renewal, and the poetic lyrics of the Hao Pheichak (traditional circle dance). The texts preserve archaic lexical roots unrecorded in modern dictionaries.
+
+SECTION: 1. Cultural Significance & Chronology of Luira
+Luira Phanit marks the dawn of the agricultural calendar. Before any villager may sow seed in their terraced fields, the village priest and chief (Awungshi) must perform the sacred ritual of Chithar (first seed offering) to conciliate Ameo (the benevolent earth guardian deity). The festival extends across seven ceremonial days: Luishat (preparation), Phanit-khara (arrival), Pheichak (communal dance), and Ngashan (clan feasting).
+Linguistic Data:
+  * Luira Phanit : Seed sowing festival
+    Notes: lui (field) + ra (seed/root) + phanit (sacred feast).
+  * Chithar : first sacred seed sowing ritual
+    Notes: Chi (paddy seed) + thar (consecration/first blessing).
+  * Awungshi : hereditary village chief and high priest
+    Notes: Custodian of village agrarian rituals.
+
+SECTION: 2. Sacred Invocational Liturgy: The Chithar Prayer
+At dawn on the third day, the Awungshi enters the ancestral sacred plot (Awung-luiram) accompanied by clan elders. Scattering seven handfuls of consecrated paddy seeds onto the newly turned earth, he chants the ancient invocation pleading for abundant rain, pest protection, and communal bumper harvests.
+Linguistic Data:
+  * 'Kazingkhamang eina rarlu, Kazingramwui tui-ngapom hung-kachamlaga ngaleili hung-sungsaklu!' : O celestial rains come forth, let heaven's moisture descend upon the soil!
+    Notes: Archaic meteorological invocation.
+  * 'Hao naorapli kasham makasalu, theiwon kaphā khangaraorap eina kashungsaklu!' : Spare the children of Hao from famine, fill their granaries with joyful abundance!
+    Notes: Community protection formula.
+
+SECTION: 3. The Hao Pheichak Dance & Poetic Antiphony
+The festival culminates in the Hao Pheichak dance performed in the village square (Mungchan). Dressed in ceremonial woven shawls (Haora and Luirim) and feather headdresses, young men and women sing antiphonal call-and-response verses honoring ancestral lineages, romantic longing, and agricultural fertility.
+Linguistic Data:
+  * Haora kala Luirim : Sacred ceremonial male and female woven shawls
+    Notes: Traditional tribal textile regalia.
+  * Mungchan : sacred central village festival plaza
+    Notes: Civic ritual arena.
+
+REFERENCES:
+  - Hodson, T. C. 1911. The Naga Tribes of Manipur. London: Macmillan and Co.
+  - Luikham, T. 1961. Wung Tangkhul Naga Okthot Mayonza. Imphal.
+  - Ruivah, Khashim. 1987. Tangkhul Luira Phanit and Ancient Agricultural Invocations. JNEICSSR 11(2): 15-38.

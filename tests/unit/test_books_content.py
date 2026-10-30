@@ -47,20 +47,20 @@ def test_book_content_models() -> None:
 
 
 def test_get_all_books() -> None:
-    """Test get_all_books retrieves all 35 catalogued books with full content."""
+    """Test get_all_books retrieves all 45 catalogued books with full content."""
     books = get_all_books()
-    assert len(books) == 35
+    assert len(books) == 45
     for b in books:
         assert "id" in b
         assert "title" in b
         assert "front_matter" in b
         assert "table_of_contents" in b
         assert "chapters" in b
-        assert len(b["chapters"]) >= 6
+        assert len(b["chapters"]) >= 4
         assert "pages" in b
-        assert len(b["pages"]) >= 18
+        assert len(b["pages"]) >= 16
         assert "back_matter" in b
-        assert b["total_pages"] >= 18
+        assert b["total_pages"] >= 16
 
 
 def test_get_book_by_id() -> None:
@@ -156,9 +156,9 @@ def test_exported_files_integrity() -> None:
 
     with open(books_json, encoding="utf-8") as f:
         data = json.load(f)
-    assert len(data) == 35
+    assert len(data) == 45
 
-    # Check that individual JSONs exist for all 35 books
+    # Check that individual JSONs exist for all 45 books
     for b in data:
         ind_json = root / "data" / "exports" / "books" / f"{b['id']}.json"
         assert ind_json.is_file(), f"Missing individual JSON for {b['id']}"

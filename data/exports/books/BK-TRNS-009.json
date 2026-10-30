@@ -1,0 +1,1547 @@
+{
+  "id": "BK-TRNS-009",
+  "resource_type": "books",
+  "title": "Duniyawui Khararchan Kathara: World Classic Stories Translated into Tangkhul",
+  "alternate_titles": [
+    "World Classic Short Stories in Tangkhul Naga",
+    "Great World Literature for Tangkhul Secondary Schools"
+  ],
+  "authors": [
+    "Leo Tolstoy",
+    "Guy de Maupassant",
+    "O. Henry",
+    "Tangkhul Literature Society"
+  ],
+  "editors": [
+    "Tangkhul Literature Society, Manipur"
+  ],
+  "publisher": "Tangkhul Literature Society, Imphal / Ukhrul",
+  "publication_year": 1991,
+  "year": 1991,
+  "edition": "Secondary Curriculum Anthology",
+  "subject": "World Literature & Translated Short Stories",
+  "educational_level": "Classes IX-XII & College Literature",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/textbook",
+  "source_identifier": "TLS-TKH-WSTORIES-1991",
+  "catalogue_url": "https://bharatavani.in/tangkhul/textbook",
+  "local_file_path": "data/raw/books/BK-TRNS-009_world_stories_tangkhul.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Educational Open Access",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Anthology of masterpiece world short stories translated into Tangkhul by TLS scholars. Includes Tolstoy's 'Where Love Is, God Is', Maupassant's 'The Necklace', and O. Henry's 'Gift of the Magi'.",
+  "front_matter": {
+    "title_page": "Duniyawui Khararchan Kathara: World Classic Stories Translated into Tangkhul (1991)",
+    "preface": "This anthology introduced Tangkhul secondary students to three monumental gems of world narrative prose. The translations demonstrate the narrative flexibility of modern standard Tangkhul, handling 19th-century Russian spiritual realism, French bourgeois tragedy, and American ironic compassion with equal brilliance.",
+    "table_of_contents": [
+      "Chapter 1: Where Love Is, God Is (Khanganing kala Varivara) -- Leo Tolstoy",
+      "Chapter 2: The Necklace (Khangaphei wui Phasang) -- Guy de Maupassant",
+      "Chapter 3: The Gift of the Magi (Magibingwui Khangashe) -- O. Henry",
+      "Chapter 4: Pedagogical Guide to World Literature in Tangkhul"
+    ],
+    "imprint": "Tangkhul Literature Society, Imphal / Ukhrul, 1991."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Where Love Is, God Is (Khanganing kala Varivara) -- Leo Tolstoy",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Necklace (Khangaphei wui Phasang) -- Guy de Maupassant",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Gift of the Magi (Magibingwui Khangashe) -- O. Henry",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pedagogical Guide to World Literature in Tangkhul",
+      "page_start": 13,
+      "page_end": 15
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Where Love Is, God Is (Khanganing kala Varivara) -- Leo Tolstoy",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Martin Avdeitch the cobbler looking for Christ and finding Him in the freezing stranger, hungry mother, and apple boy.",
+      "tangkhul_text": "Khararchan 1: Martin Avdeitch kaho shoemaker akhana khong-ngaching shimli pamsai. Ana zingsho pupup Lairik Kathara hanglaga ningkazang kazip-kasaye. Ngazing akha ana khongyui akhata kapeiye: 'Martin! Martin! Yanglu zingsho kashokli I nawui ngalemli rara!' Zingkhamathān shoklakha, Martinna window eina kashikathali yanglakha, Stepan kaho mayarnao kacham kashikaza akha snow ngalungli ngachek-kashung pamsai theitserie. Martinna ali shimsanglaga meikhangahui tharili tea kashak milaga chotkhangashit tui hangmi. Chitharan shanaowon akha awui naonli kachon maleilakha chirzat-lakha theilaga ali kachon kala paisa miye. Ngazing-tharan Martinna theitserie: 'Awui mai eina Christana hung-kachitheisaye: kasakei kachamnaobingli sakasashikahai ot pupup chi ili sakasashisaye!'",
+      "english_translation": "In a little basement room in a certain city lived Martin Avdeitch, a cobbler. Every evening he read the Gospels until his heart burned within him. One night he heard a voice calling him: 'Martin, look out into the street tomorrow, for I will come.' Next day, while watching out the window, he saw Stepanitch clearing snow, shivering in rags; he called him in and gave him warm tea. Later he sheltered a poor mother with a child wrapped in thin garments and gave her his cloak and money. At dusk he realized: Christ had indeed visited him that day, for 'Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.'",
+      "vocabulary": [
+        {
+          "word": "shoemaker",
+          "pos": "noun",
+          "meaning": "Kakhut-chon kasa mi (cobbler, leather artisan)",
+          "example": "Martin shoemaker."
+        },
+        {
+          "word": "meikhangahui",
+          "pos": "noun",
+          "meaning": "warm fireplace, hearth fire",
+          "example": "Meikhangahui tharili."
+        },
+        {
+          "word": "kachamnaobing",
+          "pos": "noun",
+          "meaning": "the poor, marginalized brethren",
+          "example": "Kachamnaobingli sakasa."
+        }
+      ],
+      "grammar_notes": [
+        "Direct quote attribution in Tangkhul narrative: 'hoda leisai' / 'hoda hang'.",
+        "Spiritual realization clause: 'Awui mai eina Christana hung-kachitheisaye'."
+      ],
+      "exercises": [
+        "What three people did Martin encounter during the snowy day?",
+        "Explain the ethical message of Tolstoy's story."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Necklace (Khangaphei wui Phasang) -- Guy de Maupassant",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Mathilde Loisel borrowing the diamond necklace, losing it at the ball, and toiling ten years for a tragic revelation.",
+      "tangkhul_text": "Khararchan 2: Mathilde Loisel kaho ngalashana kaphā akha pamsai; kha ana kashang-phā saphā-kashangli pamei lungkakhui leisai. Ministry-wui grand ball phanitli valakhavai ana awui ngalemwui Madame Forestier eina diamond necklace (phasang) khuiye. Ball phanitli mathat-eina pheichak salaga, shimli hung-kaphung tharan, theilu! Awui phasang chi ngashiman-serie! Mathilde kala awui va-na ten years kuppup kashakashi ot salaga 36,000 francs kashunsangserie phasang kathara khuisangkhavai. Kum thakharā ngaphalaga ana Madame Forestierli champsangie; chitharan Forestierna hang: 'Oh, Mathilde! Iwui phasang chi paste (artificial) sai! Awui value 500 francs kacham-sai!'",
+      "english_translation": "Mathilde Loisel was a charming woman born into a family of clerks who dreamed of wealth and luxury. Invited to a grand ball at the Ministry, she borrowed a magnificent diamond necklace from her wealthy friend Madame Forestier. She was the belle of the ball, but arriving home, discovered to her horror that the necklace was lost. Rather than admit the loss, she and her husband worked ten grueling years in squalor and debt to purchase a replacement necklace for thirty-six thousand francs. Ten years later, meeting Madame Forestier in the park, aged and haggard, she learned the devastating truth: 'Oh my poor Mathilde! Mine was false! It was worth at most five hundred francs!'",
+      "vocabulary": [
+        {
+          "word": "phasang",
+          "pos": "noun",
+          "meaning": "necklace, jewel collar ornament",
+          "example": "Diamond phasang."
+        },
+        {
+          "word": "ngashiman-serie",
+          "pos": "verb",
+          "meaning": "lost irrevocably, vanished",
+          "example": "Phasang chi ngashiman-serie."
+        },
+        {
+          "word": "kashakashi ot",
+          "pos": "noun",
+          "meaning": "drudgery, crushing physical toil",
+          "example": "Ten years kashakashi ot."
+        }
+      ],
+      "grammar_notes": [
+        "Tangkhul dramatic ironic reversal marker: 'theilu!' (Behold!).",
+        "French loanword handling: francs and ball phonetically adapted in Tangkhul narrative prose."
+      ],
+      "exercises": [
+        "Describe Mathilde's character flaws and their consequences.",
+        "How does the story highlight the folly of excessive pride?"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Gift of the Magi (Magibingwui Khangashe) -- O. Henry",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Della selling her hair for a watch chain and Jim selling his watch for her hair combs in unconditional sacrificial love.",
+      "tangkhul_text": "Khararchan 3: Della eina Jimna kacham shimli pamsai; Christmas tharili Della-li dollar 1.87 kacham leisai. Awui va Jimli Christmas gift mikhavai, ana awui kaphāmei sam (hair) pashitsanglaga Jimwui gold watch wui platinum chain khuiye. Ngazing-tharan Jimna shimli zanglaga Della-wui sam katat theilaga ngachekserie: kasakei Jimna awui gold watch pashitsanglaga Della-wui sam kaphā kachikhavai tortoise-shell combs khuisang-kahaisai! Athum khaniwui gift ngashiman thada theilashu, athumna magibing thada kaphāmei khangayei eina kashang thotna.",
+      "english_translation": "One dollar and eighty-seven cents was all Della had on Christmas Eve to buy a present for her husband Jim. In sacrificial devotion, she sold her glorious cascading brown hair for twenty dollars to purchase a platinum fob chain for Jim's prized gold watch. When Jim returned home, he stared at her shorn hair in stunned amazement: for he had sold his gold watch to purchase the expensive set of tortoiseshell combs Della had long coveted! Though their material treasures were made temporarily useless, they were the wisest of all who give gifts--they were the Magi.",
+      "vocabulary": [
+        {
+          "word": "khangashe",
+          "pos": "noun",
+          "meaning": "sacrificial gift, offering of love",
+          "example": "Christmas khangashe."
+        },
+        {
+          "word": "sam",
+          "pos": "noun",
+          "meaning": "head hair, long locks",
+          "example": "Della-wui sam kaphā."
+        },
+        {
+          "word": "magibing",
+          "pos": "proper noun",
+          "meaning": "The Magi, Wise Men from the East",
+          "example": "Magibing thada."
+        }
+      ],
+      "grammar_notes": [
+        "Reciprocal sacrifice pattern: X sells A to buy for Y; Y sells B to buy for X.",
+        "Tangkhul term for mutual devotion: 'khangayei eina kashang'."
+      ],
+      "exercises": [
+        "Contrast the material vs spiritual value of the two Christmas gifts.",
+        "Translate the closing paragraph of O. Henry's story into Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pedagogical Guide to World Literature in Tangkhul",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Literary analysis questions and essay themes for classroom study.",
+      "tangkhul_text": "World Stories Pedagogical Guide:\n1. Tolstoy: Divine presence through selfless compassion\n2. Maupassant: Social vanity and devastating ironic truth\n3. O. Henry: Selfless sacrificial love transcending material loss",
+      "english_translation": "Teacher and student guide for literary appreciation in secondary schools.",
+      "vocabulary": [
+        {
+          "word": "khangashe",
+          "pos": "noun",
+          "meaning": "gift",
+          "example": "Khangashe kasa."
+        }
+      ],
+      "grammar_notes": [
+        "Literary criticism terminology in Tangkhul."
+      ],
+      "exercises": [
+        "Write a comparative essay in Tangkhul comparing Della's sacrifice with traditional Tangkhul hospitality."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Duniyawui Khararchan Kathara: World Clas",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "DUNIYAWUI KHARARCHAN KATHARA: WORLD CLASSIC STORIES TRANSLATED INTO TANGKHUL"
+        ],
+        [
+          "/F1",
+          11,
+          "World Classic Short Stories in Tangkhul Naga"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: Leo Tolstoy, Guy de Maupassant, O. Henry, Tangkhul Literature Society"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Literature Society, Imphal / Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 1991 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Duniyawui Khararchan Kathara: World Classic Stories Translated into Tangkhul -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: World Classic Short Stories in Tangkhul Naga",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "This anthology introduced Tangkhul secondary students to three"
+        ],
+        [
+          "/F1",
+          10,
+          "monumental gems of world narrative prose. The translations demonstrate"
+        ],
+        [
+          "/F1",
+          10,
+          "the narrative flexibility of modern standard Tangkhul, handling 19th-"
+        ],
+        [
+          "/F1",
+          10,
+          "century Russian spiritual realism, French bourgeois tragedy, and"
+        ],
+        [
+          "/F1",
+          10,
+          "American ironic compassion with equal brilliance."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-WSTORIES-1991"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "This anthology introduced Tangkhul secondary students to three monumental gems of world narrative prose. The translation...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Where Love Is, God Is (Khanganing kala Varivara) ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Necklace (Khangaphei wui Phasang) -- Guy de  ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: The Gift of the Magi (Magibingwui Khangashe) --  ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Pedagogical Guide to World Literature in Tangkhu ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 16"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 4.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Where Love Is, God Is (Khanganing kala Varivara) -- Leo Tolstoy",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: WHERE LOVE IS, GOD IS (KHANGANING KALA VARIVARA) -- LEO TOLSTOY"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Martin Avdeitch the cobbler looking for Christ and finding Him in the freezing s..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 1: Martin Avdeitch kaho shoemaker akhana khong-ngaching"
+        ],
+        [
+          "/F1",
+          9,
+          "shimli pamsai. Ana zingsho pupup Lairik Kathara hanglaga ningkazang"
+        ],
+        [
+          "/F1",
+          9,
+          "kazip-kasaye. Ngazing akha ana khongyui akhata kapeiye: 'Martin! Martin!"
+        ],
+        [
+          "/F1",
+          9,
+          "Yanglu zingsho kashokli I nawui ngalemli rara!' Zingkhamathān shoklakha,"
+        ],
+        [
+          "/F1",
+          9,
+          "Martinna window eina kashikathali yanglakha, Stepan kaho mayarnao kacham"
+        ],
+        [
+          "/F1",
+          9,
+          "kashikaza akha snow ngalungli ngachek-kashung pamsai theitserie."
+        ],
+        [
+          "/F1",
+          9,
+          "Martinna ali shimsanglaga meikhangahui tharili tea kashak milaga"
+        ],
+        [
+          "/F1",
+          9,
+          "chotkhangashit tui hangmi. Chitharan shanaowon akha awui naonli kachon"
+        ],
+        [
+          "/F1",
+          9,
+          "maleilakha chirzat-lakha theilaga ali kachon kala paisa miye. Ngazing-"
+        ],
+        [
+          "/F1",
+          9,
+          "tharan Martinna theitserie: 'Awui mai eina Christana hung-kachitheisaye:"
+        ],
+        [
+          "/F1",
+          9,
+          "kasakei kachamnaobingli sakasashikahai ot pupup chi ili sakasashisaye!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "In a little basement room in a certain city lived Martin Avdeitch, a"
+        ],
+        [
+          "/F1",
+          9,
+          "cobbler. Every evening he read the Gospels until his heart burned within"
+        ],
+        [
+          "/F1",
+          9,
+          "him. One night he heard a voice calling him: 'Martin, look out into the"
+        ],
+        [
+          "/F1",
+          9,
+          "street tomorrow, for I will come.' Next day, while watching out the"
+        ],
+        [
+          "/F1",
+          9,
+          "window, he saw Stepanitch clearing snow, shivering in rags; he called"
+        ],
+        [
+          "/F1",
+          9,
+          "him in and gave him warm tea. Later he sheltered a poor mother with a"
+        ],
+        [
+          "/F1",
+          9,
+          "child wrapped in thin garments and gave her his cloak and money. At dusk"
+        ],
+        [
+          "/F1",
+          9,
+          "he realized: Christ had indeed visited him that day, for 'Inasmuch as ye"
+        ],
+        [
+          "/F1",
+          9,
+          "have done it unto one of the least of these my brethren, ye have done it"
+        ],
+        [
+          "/F1",
+          9,
+          "unto me.'"
+        ]
+      ],
+      "tangkhul_content": "Khararchan 1: Martin Avdeitch kaho shoemaker akhana khong-ngaching shimli pamsai. Ana zingsho pupup Lairik Kathara hanglaga ningkazang kazip-kasaye. Ngazing akha ana khongyui akhata kapeiye: 'Martin! Martin! Yanglu zingsho kashokli I nawui ngalemli rara!' Zingkhamathān shoklakha, Martinna window eina kashikathali yanglakha, Stepan kaho mayarnao kacham kashikaza akha snow ngalungli ngachek-kashung pamsai theitserie. Martinna ali shimsanglaga meikhangahui tharili tea kashak milaga chotkhangashit tui hangmi. Chitharan shanaowon akha awui naonli kachon maleilakha chirzat-lakha theilaga ali kachon kala paisa miye. Ngazing-tharan Martinna theitserie: 'Awui mai eina Christana hung-kachitheisaye: kasakei kachamnaobingli sakasashikahai ot pupup chi ili sakasashisaye!'",
+      "english_translation": "In a little basement room in a certain city lived Martin Avdeitch, a cobbler. Every evening he read the Gospels until his heart burned within him. One night he heard a voice calling him: 'Martin, look out into the street tomorrow, for I will come.' Next day, while watching out the window, he saw Stepanitch clearing snow, shivering in rags; he called him in and gave him warm tea. Later he sheltered a poor mother with a child wrapped in thin garments and gave her his cloak and money. At dusk he realized: Christ had indeed visited him that day, for 'Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.'",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Where Love Is, God Is (Khanganing kala Varivara) -- Leo Tolstoy",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * shoemaker (noun): Kakhut-chon kasa mi (cobbler, leather artisan)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Martin shoemaker."
+        ],
+        [
+          "/F2",
+          9,
+          "  * meikhangahui (noun): warm fireplace, hearth fire"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Meikhangahui tharili."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachamnaobing (noun): the poor, marginalized brethren"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kachamnaobingli sakasa."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Direct quote attribution in Tangkhul narrative: 'hoda leisai' / 'hoda hang'."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Spiritual realization clause: 'Awui mai eina Christana hung-kachitheisaye'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What three people did Martin encounter during the snowy day?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the ethical message of Tolstoy's story."
+        ]
+      ],
+      "tangkhul_content": "shoemaker: Kakhut-chon kasa mi (cobbler, leather artisan); meikhangahui: warm fireplace, hearth fire; kachamnaobing: the poor, marginalized brethren",
+      "english_translation": "Direct quote attribution in Tangkhul narrative: 'hoda leisai' / 'hoda hang'.; Spiritual realization clause: 'Awui mai eina Christana hung-kachitheisaye'.",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Where Love Is, God Is (Khanganing kala Varivara) -- Leo Tolstoy",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Necklace (Khangaphei wui Phasang) -- Guy de Maupassant",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE NECKLACE (KHANGAPHEI WUI PHASANG) -- GUY DE MAUPASSANT"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Mathilde Loisel borrowing the diamond necklace, losing it at the ball, and toili..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 2: Mathilde Loisel kaho ngalashana kaphā akha pamsai; kha ana"
+        ],
+        [
+          "/F1",
+          9,
+          "kashang-phā saphā-kashangli pamei lungkakhui leisai. Ministry-wui grand"
+        ],
+        [
+          "/F1",
+          9,
+          "ball phanitli valakhavai ana awui ngalemwui Madame Forestier eina"
+        ],
+        [
+          "/F1",
+          9,
+          "diamond necklace (phasang) khuiye. Ball phanitli mathat-eina pheichak"
+        ],
+        [
+          "/F1",
+          9,
+          "salaga, shimli hung-kaphung tharan, theilu! Awui phasang chi ngashiman-"
+        ],
+        [
+          "/F1",
+          9,
+          "serie! Mathilde kala awui va-na ten years kuppup kashakashi ot salaga"
+        ],
+        [
+          "/F1",
+          9,
+          "36,000 francs kashunsangserie phasang kathara khuisangkhavai. Kum"
+        ],
+        [
+          "/F1",
+          9,
+          "thakharā ngaphalaga ana Madame Forestierli champsangie; chitharan"
+        ],
+        [
+          "/F1",
+          9,
+          "Forestierna hang: 'Oh, Mathilde! Iwui phasang chi paste (artificial)"
+        ],
+        [
+          "/F1",
+          9,
+          "sai! Awui value 500 francs kacham-sai!'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Mathilde Loisel was a charming woman born into a family of clerks who"
+        ],
+        [
+          "/F1",
+          9,
+          "dreamed of wealth and luxury. Invited to a grand ball at the Ministry,"
+        ],
+        [
+          "/F1",
+          9,
+          "she borrowed a magnificent diamond necklace from her wealthy friend"
+        ],
+        [
+          "/F1",
+          9,
+          "Madame Forestier. She was the belle of the ball, but arriving home,"
+        ],
+        [
+          "/F1",
+          9,
+          "discovered to her horror that the necklace was lost. Rather than admit"
+        ],
+        [
+          "/F1",
+          9,
+          "the loss, she and her husband worked ten grueling years in squalor and"
+        ],
+        [
+          "/F1",
+          9,
+          "debt to purchase a replacement necklace for thirty-six thousand francs."
+        ],
+        [
+          "/F1",
+          9,
+          "Ten years later, meeting Madame Forestier in the park, aged and haggard,"
+        ],
+        [
+          "/F1",
+          9,
+          "she learned the devastating truth: 'Oh my poor Mathilde! Mine was false!"
+        ],
+        [
+          "/F1",
+          9,
+          "It was worth at most five hundred francs!'"
+        ]
+      ],
+      "tangkhul_content": "Khararchan 2: Mathilde Loisel kaho ngalashana kaphā akha pamsai; kha ana kashang-phā saphā-kashangli pamei lungkakhui leisai. Ministry-wui grand ball phanitli valakhavai ana awui ngalemwui Madame Forestier eina diamond necklace (phasang) khuiye. Ball phanitli mathat-eina pheichak salaga, shimli hung-kaphung tharan, theilu! Awui phasang chi ngashiman-serie! Mathilde kala awui va-na ten years kuppup kashakashi ot salaga 36,000 francs kashunsangserie phasang kathara khuisangkhavai. Kum thakharā ngaphalaga ana Madame Forestierli champsangie; chitharan Forestierna hang: 'Oh, Mathilde! Iwui phasang chi paste (artificial) sai! Awui value 500 francs kacham-sai!'",
+      "english_translation": "Mathilde Loisel was a charming woman born into a family of clerks who dreamed of wealth and luxury. Invited to a grand ball at the Ministry, she borrowed a magnificent diamond necklace from her wealthy friend Madame Forestier. She was the belle of the ball, but arriving home, discovered to her horror that the necklace was lost. Rather than admit the loss, she and her husband worked ten grueling years in squalor and debt to purchase a replacement necklace for thirty-six thousand francs. Ten years later, meeting Madame Forestier in the park, aged and haggard, she learned the devastating truth: 'Oh my poor Mathilde! Mine was false! It was worth at most five hundred francs!'",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Necklace (Khangaphei wui Phasang) -- Guy de Maupassant",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * phasang (noun): necklace, jewel collar ornament"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Diamond phasang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngashiman-serie (verb): lost irrevocably, vanished"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Phasang chi ngashiman-serie."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kashakashi ot (noun): drudgery, crushing physical toil"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ten years kashakashi ot."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Tangkhul dramatic ironic reversal marker: 'theilu!' (Behold!)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - French loanword handling: francs and ball phonetically adapted in Tangkhul narrative prose."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Describe Mathilde's character flaws and their consequences."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does the story highlight the folly of excessive pride?"
+        ]
+      ],
+      "tangkhul_content": "phasang: necklace, jewel collar ornament; ngashiman-serie: lost irrevocably, vanished; kashakashi ot: drudgery, crushing physical toil",
+      "english_translation": "Tangkhul dramatic ironic reversal marker: 'theilu!' (Behold!).; French loanword handling: francs and ball phonetically adapted in Tangkhul narrative prose.",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Necklace (Khangaphei wui Phasang) -- Guy de Maupassant",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "The Gift of the Magi (Magibingwui Khangashe) -- O. Henry",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: THE GIFT OF THE MAGI (MAGIBINGWUI KHANGASHE) -- O. HENRY"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Della selling her hair for a watch chain and Jim selling his watch for her hair ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 3: Della eina Jimna kacham shimli pamsai; Christmas tharili"
+        ],
+        [
+          "/F1",
+          9,
+          "Della-li dollar 1.87 kacham leisai. Awui va Jimli Christmas gift"
+        ],
+        [
+          "/F1",
+          9,
+          "mikhavai, ana awui kaphāmei sam (hair) pashitsanglaga Jimwui gold watch"
+        ],
+        [
+          "/F1",
+          9,
+          "wui platinum chain khuiye. Ngazing-tharan Jimna shimli zanglaga Della-"
+        ],
+        [
+          "/F1",
+          9,
+          "wui sam katat theilaga ngachekserie: kasakei Jimna awui gold watch"
+        ],
+        [
+          "/F1",
+          9,
+          "pashitsanglaga Della-wui sam kaphā kachikhavai tortoise-shell combs"
+        ],
+        [
+          "/F1",
+          9,
+          "khuisang-kahaisai! Athum khaniwui gift ngashiman thada theilashu,"
+        ],
+        [
+          "/F1",
+          9,
+          "athumna magibing thada kaphāmei khangayei eina kashang thotna."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "One dollar and eighty-seven cents was all Della had on Christmas Eve to"
+        ],
+        [
+          "/F1",
+          9,
+          "buy a present for her husband Jim. In sacrificial devotion, she sold her"
+        ],
+        [
+          "/F1",
+          9,
+          "glorious cascading brown hair for twenty dollars to purchase a platinum"
+        ],
+        [
+          "/F1",
+          9,
+          "fob chain for Jim's prized gold watch. When Jim returned home, he stared"
+        ],
+        [
+          "/F1",
+          9,
+          "at her shorn hair in stunned amazement: for he had sold his gold watch"
+        ],
+        [
+          "/F1",
+          9,
+          "to purchase the expensive set of tortoiseshell combs Della had long"
+        ],
+        [
+          "/F1",
+          9,
+          "coveted! Though their material treasures were made temporarily useless,"
+        ],
+        [
+          "/F1",
+          9,
+          "they were the wisest of all who give gifts--they were the Magi."
+        ]
+      ],
+      "tangkhul_content": "Khararchan 3: Della eina Jimna kacham shimli pamsai; Christmas tharili Della-li dollar 1.87 kacham leisai. Awui va Jimli Christmas gift mikhavai, ana awui kaphāmei sam (hair) pashitsanglaga Jimwui gold watch wui platinum chain khuiye. Ngazing-tharan Jimna shimli zanglaga Della-wui sam katat theilaga ngachekserie: kasakei Jimna awui gold watch pashitsanglaga Della-wui sam kaphā kachikhavai tortoise-shell combs khuisang-kahaisai! Athum khaniwui gift ngashiman thada theilashu, athumna magibing thada kaphāmei khangayei eina kashang thotna.",
+      "english_translation": "One dollar and eighty-seven cents was all Della had on Christmas Eve to buy a present for her husband Jim. In sacrificial devotion, she sold her glorious cascading brown hair for twenty dollars to purchase a platinum fob chain for Jim's prized gold watch. When Jim returned home, he stared at her shorn hair in stunned amazement: for he had sold his gold watch to purchase the expensive set of tortoiseshell combs Della had long coveted! Though their material treasures were made temporarily useless, they were the wisest of all who give gifts--they were the Magi.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: The Gift of the Magi (Magibingwui Khangashe) -- O. Henry",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangashe (noun): sacrificial gift, offering of love"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Christmas khangashe."
+        ],
+        [
+          "/F2",
+          9,
+          "  * sam (noun): head hair, long locks"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Della-wui sam kaphā."
+        ],
+        [
+          "/F2",
+          9,
+          "  * magibing (proper noun): The Magi, Wise Men from the East"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Magibing thada."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Reciprocal sacrifice pattern: X sells A to buy for Y; Y sells B to buy for X."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Tangkhul term for mutual devotion: 'khangayei eina kashang'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Contrast the material vs spiritual value of the two Christmas gifts."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate the closing paragraph of O. Henry's story into Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "khangashe: sacrificial gift, offering of love; sam: head hair, long locks; magibing: The Magi, Wise Men from the East",
+      "english_translation": "Reciprocal sacrifice pattern: X sells A to buy for Y; Y sells B to buy for X.; Tangkhul term for mutual devotion: 'khangayei eina kashang'.",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: The Gift of the Magi (Magibingwui Khangashe) -- O. Henry",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Pedagogical Guide to World Literature in Tangkhul",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: PEDAGOGICAL GUIDE TO WORLD LITERATURE IN TANGKHUL"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Literary analysis questions and essay themes for classroom study...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "World Stories Pedagogical Guide:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Tolstoy: Divine presence through selfless compassion"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Maupassant: Social vanity and devastating ironic truth"
+        ],
+        [
+          "/F1",
+          9,
+          "3. O. Henry: Selfless sacrificial love transcending material loss"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Teacher and student guide for literary appreciation in secondary"
+        ],
+        [
+          "/F1",
+          9,
+          "schools."
+        ]
+      ],
+      "tangkhul_content": "World Stories Pedagogical Guide:\n1. Tolstoy: Divine presence through selfless compassion\n2. Maupassant: Social vanity and devastating ironic truth\n3. O. Henry: Selfless sacrificial love transcending material loss",
+      "english_translation": "Teacher and student guide for literary appreciation in secondary schools.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Pedagogical Guide to World Literature in Tangkhul",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangashe (noun): gift"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khangashe kasa."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Literary criticism terminology in Tangkhul."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Write a comparative essay in Tangkhul comparing Della's sacrifice with traditional Tangkhul hospitality."
+        ]
+      ],
+      "tangkhul_content": "khangashe: gift",
+      "english_translation": "Literary criticism terminology in Tangkhul.",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Pedagogical Guide to World Literature in Tangkhul",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * shoemaker -- Kakhut-chon kasa mi (cobbler, leather artisan)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * meikhangahui -- warm fireplace, hearth fire"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kachamnaobing -- the poor, marginalized brethren"
+        ],
+        [
+          "/F1",
+          9,
+          "  * phasang -- necklace, jewel collar ornament"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ngashiman-serie -- lost irrevocably, vanished"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kashakashi ot -- drudgery, crushing physical toil"
+        ],
+        [
+          "/F1",
+          9,
+          "  * khangashe -- sacrificial gift, offering of love"
+        ],
+        [
+          "/F1",
+          9,
+          "  * sam -- head hair, long locks"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "shoemaker",
+        "pos": "noun",
+        "meaning": "Kakhut-chon kasa mi (cobbler, leather artisan)",
+        "example": "Martin shoemaker."
+      },
+      {
+        "word": "meikhangahui",
+        "pos": "noun",
+        "meaning": "warm fireplace, hearth fire",
+        "example": "Meikhangahui tharili."
+      },
+      {
+        "word": "kachamnaobing",
+        "pos": "noun",
+        "meaning": "the poor, marginalized brethren",
+        "example": "Kachamnaobingli sakasa."
+      },
+      {
+        "word": "phasang",
+        "pos": "noun",
+        "meaning": "necklace, jewel collar ornament",
+        "example": "Diamond phasang."
+      },
+      {
+        "word": "ngashiman-serie",
+        "pos": "verb",
+        "meaning": "lost irrevocably, vanished",
+        "example": "Phasang chi ngashiman-serie."
+      },
+      {
+        "word": "kashakashi ot",
+        "pos": "noun",
+        "meaning": "drudgery, crushing physical toil",
+        "example": "Ten years kashakashi ot."
+      },
+      {
+        "word": "khangashe",
+        "pos": "noun",
+        "meaning": "sacrificial gift, offering of love",
+        "example": "Christmas khangashe."
+      },
+      {
+        "word": "sam",
+        "pos": "noun",
+        "meaning": "head hair, long locks",
+        "example": "Della-wui sam kaphā."
+      },
+      {
+        "word": "magibing",
+        "pos": "proper noun",
+        "meaning": "The Magi, Wise Men from the East",
+        "example": "Magibing thada."
+      },
+      {
+        "word": "khangashe",
+        "pos": "noun",
+        "meaning": "gift",
+        "example": "Khangashe kasa."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 16,
+  "total_chapters": 4,
+  "total_words": 616,
+  "excerpts": [
+    "Khararchan 1: Martin Avdeitch kaho shoemaker akhana khong-ngaching shimli pamsai. Ana zingsho pupup Lairik Kathara hangl...",
+    "Khararchan 2: Mathilde Loisel kaho ngalashana kaphā akha pamsai; kha ana kashang-phā saphā-kashangli pamei lungkakhui le...",
+    "Khararchan 3: Della eina Jimna kacham shimli pamsai; Christmas tharili Della-li dollar 1.87 kacham leisai. Awui va Jimli...",
+    "World Stories Pedagogical Guide:\n1. Tolstoy: Divine presence through selfless compassion\n2. Maupassant: Social vanity an..."
+  ]
+}

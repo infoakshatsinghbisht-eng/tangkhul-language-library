@@ -1,0 +1,37 @@
+TITLE: Tangkhul-Naga Grammar: A Study of Word Formation and Morphology
+AUTHORS: Dr. Victor Ahum
+JOURNAL / VENUE: Manipur University Academic Monograph Series (1997)
+SUBJECT: Descriptive Linguistics & Morphology
+KEYWORDS: Word Formation, Morphology, Affixation, Compounding, Valence, Ahum, Ukhrul
+
+ABSTRACT:
+This study provides the first comprehensive modern morphological analysis of Standard Tangkhul Naga by a native linguist. Focusing on word-formation strategies, the dissertation examines the typology of roots, derivational prefixes, inflections, and compound formations. We investigate nominal compounding (endocentric and exocentric), reduplication, verbal valency alterations, and postpositional case affixation, demonstrating how Tangkhul balances agglutinating morphology with analytic syntax.
+
+SECTION: 1. Morphological Typology & Root Classes
+Tangkhul word formation operates primarily through agglutination with strict suffixal dominance in nominal inflection and prefixal dominance in verbal derivation. Monosyllabic lexical roots fall into three major syntactic categories: Noun roots (shim 'house', ram 'country'), Verb roots (sa 'do', thei 'see', zat 'go'), and Deictic/Particle bases (hi 'this', chi 'that'). Nominal roots can occur bare as free morphemes, whereas verbal roots generally require affixes or compounding.
+Linguistic Data:
+  * shim (house) -> shimkhar (village community) -> shimsak (construction) : Nominal root extension
+    Notes: Root compounding.
+  * tui (word) -> tuitam (lesson) -> tuingashik (covenant) : Discourse compounding
+    Notes: Semantic broadening.
+
+SECTION: 2. Nominal Compounds & Gender Markers
+Compounding is the most productive lexical expansion mechanism in Tangkhul. Compounds exhibit head-initial and head-final constructions. Natural gender in animate nouns is marked not by grammatical inflection but by sex-specifying enclitics: -va for feminine (e.g. siva 'bitch', harva 'hen') and -mayār for masculine (simayār 'male dog', harmayār 'rooster').
+Linguistic Data:
+  * mayarnao (man/son) / ngalanao (woman/daughter) : Human gender terms
+    Notes: Root + gender enclitic + diminutive nao.
+  * haiku (cooking vessel) -> meiku (fire basin) : Utensil compounding
+    Notes: Endocentric nominal compound.
+
+SECTION: 3. Valence Modification & Aspectual Inflection
+Tangkhul verbal roots undergo valence modification through prefixation and auxiliary compounding. Reflexives take prefix ngə- (ngathang 'wash oneself'), reciprocals take ngə- with root reduplication (ngazek-ngazek 'converse mutually'), and causatives take suffix -sak. Completive aspect is marked by -ser, durative by -kapam, and future intentional by -ra.
+Linguistic Data:
+  * ana i-li theisaku : He caused me to see (showed me)
+    Notes: Causative suffix -sak.
+  * athum ngayeiserie : They all love one another completely
+    Notes: Completive aspect -ser.
+
+REFERENCES:
+  - Ahum, Victor. 1997. Tangkhul-Naga Grammar: A Study of Word Formation. Ph.D. dissertation, Manipur University.
+  - Comrie, Bernard. 1989. Language Universals and Linguistic Typology. University of Chicago Press.
+  - Pettigrew, William. 1918. Tangkhul Naga Grammar and Dictionary. Shillong: Assam Secretariat Press.

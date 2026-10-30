@@ -1,0 +1,41 @@
+TITLE: Tangkhul Naga and Comparative Tibeto-Burman
+AUTHORS: Prof. James A. Matisoff
+JOURNAL / VENUE: Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT) Monograph (1972)
+SUBJECT: Comparative Sino-Tibetan Linguistics
+KEYWORDS: STEDT, Matisoff, Proto-Tibeto-Burman, Cognates, Prefixation, Etymology
+
+ABSTRACT:
+This foundational paper analyzes the historical phonology and lexical morphology of Tangkhul Naga in the context of Proto-Tibeto-Burman (PTB) reconstruction. We examine over 120 basic vocabulary items from Pettigrew (1918) and Bhat (1969), identifying regular sound laws linking Tangkhul velar prefixes (kə-), nasal prefixes (mə-), and sibilant causatives (sə-) to pan-Sino-Tibetan morphosyntactic patterns. Tangkhul provides indispensable evidence for the antiquity of Tibeto-Burman sesquisyllabicity and nominalizing prefixation.
+
+SECTION: 1. The Crucial Role of Tangkhul in PTB Reconstruction
+Tangkhul Naga occupies a uniquely illuminating position in Tibeto-Burman comparative linguistics. While spoken in relative geographical proximity to the Meithei (Manipuri) kingdom and the Kuki-Chin hills, its grammatical structure preserves ancient prefixal paradigms that have eroded in more isolating languages of Southeast Asia. Rev. William Pettigrew's 1918 grammar and dictionary provided early linguists with their first systematic view of this archaic system.
+Linguistic Data:
+  * kathei : to see / perception
+    Notes: PTB *m-ti-k; prefix ka- preserves nominalized state.
+  * kashak : to eat / food
+    Notes: PTB *dzya; regular correspondence with Written Tibetan za-ba.
+  * kathi : to die / death
+    Notes: PTB *s-təy; pan-Tibeto-Burman root found from Burma to Himalayas.
+
+SECTION: 2. Prefixal Morphology and Derivational Functions
+In Tangkhul, verbal roots rarely occur bare in citation form. Instead, they carry the ubiquitous prefix ka-, which functions simultaneously as an infinitive marker, action nominalizer, and adjectivalizer (e.g., pha 'be good' -> kaphā 'good'). Negative clauses replace this with the discontinuous morpheme ma-...-mana. Causatives are derived through suffixal -sak or archaic stem-initial aspiration, directly parallel to the Tibetan s- causative prefix.
+Linguistic Data:
+  * kaphā (good) / makaphā-mana (not good) : Affirmative vs Negative
+    Notes: Discontinuous negation frame.
+  * sasak (cause to do) eina kasa (to do) : Causative derivation
+    Notes: Causative auxiliary affixation.
+
+SECTION: 3. Tangkhul Etymological Cognates in STEDT
+In the Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT), Tangkhul cognates verify roots for anatomical terms, celestial phenomena, and agricultural implements. The preservation of distinction between initial velars and labiovelars corroborates reconstructions in Jingpho, Garo, and Old Chinese.
+Linguistic Data:
+  * mik : eye
+    Notes: PTB *s-myak; identical coda stop with Burmese myak.
+  * kakhut : foot, leg
+    Notes: PTB *r-kay; velar stop preservation.
+  * kho / khong : stream, ditch
+    Notes: PTB *k-l(w)aŋ.
+
+REFERENCES:
+  - Bhat, D. N. S. 1969. Tankhur Naga Vocabulary. Deccan College, Poona.
+  - Matisoff, James A. 1972. Tangkhul Naga and comparative Tibeto-Burman. STEDT Paper 1, UC Berkeley.
+  - Pettigrew, William. 1918. Tangkhul Naga Grammar and Dictionary. Shillong: Government Press.

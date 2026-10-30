@@ -1,0 +1,2950 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R 85 0 R 87 0 R 89 0 R 91 0 R 93 0 R 95 0 R 97 0 R 99 0 R 101 0 R 103 0 R] /Count 50 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1400 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(COMPARATIVE TANGKHUL: LEXICAL AND PHONOLOGICAL RECONSTRUCTION) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: David R. Mortensen, Jennifer Keogh) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: UC Berkeley Sino-Tibetan Linguistic Monograph Series | Year: 2003) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Comparative Tibeto-Burman Linguistics & Dialectology | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(This paper presents a preliminary lexical and phonological) Tj
+0 -13 Td
+/F1 9 Tf
+(reconstruction of Proto-Tangkhul \(PTk\), the ancestral mother language of) Tj
+0 -13 Td
+/F1 9 Tf
+(the Tangkhulic branch within the Tibeto-Burman family. Based on) Tj
+0 -13 Td
+/F1 9 Tf
+(extensive field data collected across Ukhrul \(Standard Tangkhul\),) Tj
+0 -13 Td
+/F1 9 Tf
+(Huishu, Kachai, East Tusom, and Phadang, we establish regular sound) Tj
+0 -13 Td
+/F1 9 Tf
+(correspondences between onset stops, liquid clusters \(*pl-, *kl-, *pr-,) Tj
+0 -13 Td
+/F1 9 Tf
+(*kr-\), and vowel developments. We demonstrate that Standard Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(underwent lenition of syllable codas while peripheral varieties like) Tj
+0 -13 Td
+/F1 9 Tf
+(Huishu and Tusom preserved archaic conservative distinctions.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Proto-Tangkhul, Phonology, Dialectology, Kachai, Huishu, Ukhrul, Sound Shifts) Tj
+0 -14 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1467 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. INTRODUCTION & GENETIC SUBGROUPING) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(The Tangkhulic languages, spoken primarily in Ukhrul and Kamjong) Tj
+0 -13 Td
+/F1 9 Tf
+(districts of Manipur and adjoining regions of Myanmar, constitute an) Tj
+0 -13 Td
+/F1 9 Tf
+(independent, deeply conservative branch of Tibeto-Burman. Grierson) Tj
+0 -13 Td
+/F1 9 Tf
+(\(1903\) categorized them under the generic rubric 'Kuki-Chin-Naga', but) Tj
+0 -13 Td
+/F1 9 Tf
+(subsequent historical work \(Matisoff 1972, Burling 2003\) confirmed their) Tj
+0 -13 Td
+/F1 9 Tf
+(discrete genetic status. Standard Tangkhul \(Ukhrul\) functions as the) Tj
+0 -13 Td
+/F1 9 Tf
+(literary standard and regional lingua franca, yet individual villages) Tj
+0 -13 Td
+/F1 9 Tf
+(preserve distinct daughter languages with varying degrees of mutual) Tj
+0 -13 Td
+/F1 9 Tf
+(intelligibility.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * kapha \(Ukhrul\) / ge-pha \(Kachai\) : good, beautiful) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Voicing contrast in prefixes across dialects.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ngalanao \(Ukhrul\) / nga-la-na \(Huishu\) : maiden, daughter) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Preservation of proto-stem *nga-la.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * mayarnao \(Ukhrul\) / ma-ja-na \(Tusom\) : young man, son) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Palatal glide development from proto-rhotic *r.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1317 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. PHONOLOGICAL CORRESPONDENCES & SYLLABLE STRUCTURE) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Proto-Tangkhul possessed a sesquisyllabic or disyllabic structure *Ce-) Tj
+0 -13 Td
+/F1 9 Tf
+(CVC. Modern Standard Tangkhul preserves the unstressed) Tj
+0 -13 Td
+/F1 9 Tf
+(nominalizing/adjectival prefix *ke- \(written ka-\) and negative *me-) Tj
+0 -13 Td
+/F1 9 Tf
+(\(written ma-\). In Kachai, these prefixes undergo secondary voicing) Tj
+0 -13 Td
+/F1 9 Tf
+(assimilation \(ge- / be-\). In coda position, Proto-Tangkhul *-\(k, t, p\)) Tj
+0 -13 Td
+/F1 9 Tf
+(are realized as unreleased glottal stops or weak stops in Ukhrul,) Tj
+0 -13 Td
+/F1 9 Tf
+(whereas final *-l is lost in Ukhrul but preserved in Huishu.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ngashan \(Ukhrul\) / ga-shan \(Phadang\) : clan, lineage, custom) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Retroflex sibilant development in western dialects.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * tui \(Ukhrul\) / tol \(Huishu\) : word, speech) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Loss of final liquid *-l in standard Ukhrul.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * meikazat \(Ukhrul\) / mi-za \(Kachai\) : fire flame) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Sesquisyllabic prefix reduction.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1068 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. TONAL CATEGORIES & PITCH CONTOURS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Proto-Tangkhul tones correlate systematically with syllable coda) Tj
+0 -13 Td
+/F1 9 Tf
+(sonorancy and proto-voicing. Standard Ukhrul distinguishes three level) Tj
+0 -13 Td
+/F1 9 Tf
+(tones: High \(55\), Mid \(33\), and Low \(22\). Stems ending in original) Tj
+0 -13 Td
+/F1 9 Tf
+(voiceless stops condition High abrupt pitch, whereas sonorant codas) Tj
+0 -13 Td
+/F1 9 Tf
+(allow tonal register contrasts that interact with morphological) Tj
+0 -13 Td
+/F1 9 Tf
+(suffixation.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * lui \(High tone\) : paddy field, terraced plot) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: High level register.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * lui \(Mid tone\) : to take back, fetch) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Mid level lexical tone.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * lui \(Low tone\) : song, chant melody) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Low register tonal contour.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 984 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Burling, Robbins. 2003. The Tibeto-Burman languages of Northeastern) Tj
+0 -13 Td
+/F1 9 Tf
+(India. The Sino-Tibetan Languages, 169-191.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Grierson, George A. 1903. Linguistic Survey of India, Vol. III, Part) Tj
+0 -13 Td
+/F1 9 Tf
+(II: Bodo, Naga and Kachin Groups. Calcutta.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Matisoff, James A. 1972. Tangkhul Naga and comparative Tibeto-Burman.) Tj
+0 -13 Td
+/F1 9 Tf
+(Tonogenesis in Southeast Asia, 271-283.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Mortensen, David R. 2012. Database of Tangkhulic Languages. UC) Tj
+0 -13 Td
+/F1 9 Tf
+(Berkeley Phonology Lab.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1331 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(A RECONSTRUCTION OF PROTO-TANGKHULIC RHYMES) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: David R. Mortensen, James A. Miller) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Linguistics of the Tibeto-Burman Area \(LTBA\) | Year: 2013) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Historical Phonology & Sino-Tibetan Rhymes | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(We reconstruct the rhyme system of Proto-Tangkhulic \(PTk\) based on a) Tj
+0 -13 Td
+/F1 9 Tf
+(comparative corpus of over 800 cognate sets spanning Standard Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(\(Ukhrul\), Huishu, Kachai, Champhung, and Tusom. We demonstrate that) Tj
+0 -13 Td
+/F1 9 Tf
+(Proto-Tangkhulic distinguished phonemic vowel length before dental and) Tj
+0 -13 Td
+/F1 9 Tf
+(velar codas \(*-a:t vs *-at; *-a:k vs *-ak\), and retained the Proto-) Tj
+0 -13 Td
+/F1 9 Tf
+(Tibeto-Burman lateral coda *-l, which merged into front glides or open) Tj
+0 -13 Td
+/F1 9 Tf
+(vowels in Standard Tangkhul. This reconstruction resolves longstanding) Tj
+0 -13 Td
+/F1 9 Tf
+(anomalies in the external comparison of Tangkhul with Jingpho and Lolo-) Tj
+0 -13 Td
+/F1 9 Tf
+(Burmese.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Rhymes, Proto-Tangkhulic, Tibeto-Burman, Vowel Length, Liquid Codas, LTBA) Tj
+0 -14 Td
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 1283 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. THE PTK RHYME INVENTORY) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(The reconstructed rhyme inventory of Proto-Tangkhulic includes 24) Tj
+0 -13 Td
+/F1 9 Tf
+(distinct rhymes with stop and nasal codas: *-am, *-an, *-ang, *-ap, *-at,) Tj
+0 -13 Td
+/F1 9 Tf
+(*-ak, *-a:t, *-a:k, *-im, *-in, *-ing, *-ip, *-it, *-ik, *-um, *-un,) Tj
+0 -13 Td
+/F1 9 Tf
+(*-ung, *-up, *-ut, *-uk, and lateral rhymes *-al, *-il, *-ul. While) Tj
+0 -13 Td
+/F1 9 Tf
+(Standard Tangkhul regularly neutralizes vowel length before codas, the) Tj
+0 -13 Td
+/F1 9 Tf
+(conservative Huishu dialect preserves qualitative differences that) Tj
+0 -13 Td
+/F1 9 Tf
+(verify the length distinction.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * kapik \(Ukhrul\) / pi:k \(Huishu\) : to sleep) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Reflects PTk *Ce-pi:k \(long vowel before velar stop\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kashak \(Ukhrul\) / sa' \(Kachai\) : to eat) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTk *Ce-syak \(short rhyme with glottal realization\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * tui \(Ukhrul\) / tul \(Huishu\) : speech, language) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTk *to:l \(preservation of final lateral in Huishu\).) Tj
+0 -12 Td
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 1230 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. EVOLUTION OF LATERAL CODAS \(*-L\)) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(One of the major breakthroughs of Proto-Tangkhulic historical phonology) Tj
+0 -13 Td
+/F1 9 Tf
+(is recognizing the regular fate of PTB *-l. In Standard Ukhrul, PTB *-l) Tj
+0 -13 Td
+/F1 9 Tf
+(vocalized to a high front offglide [-i] after back vowels \(e.g. *tul >) Tj
+0 -13 Td
+/F1 9 Tf
+(tui 'speech'; *ngul > ngui 'silver/money'\). In Huishu, *-l is preserved) Tj
+0 -13 Td
+/F1 9 Tf
+(intact as an alveolar lateral continuant [-l], proving that lateral loss) Tj
+0 -13 Td
+/F1 9 Tf
+(in Ukhrul was a secondary innovation of the central dialect group.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ngui \(Ukhrul\) / ngul \(Huishu\) : silver, coin, money) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Direct cognate with Written Tibetan dngul.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kahui \(Ukhrul\) / hul \(Huishu\) : to bark \(of dog\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Reflects PTB *hwel.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * malui \(Ukhrul\) / melol \(Huishu\) : to forget) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Preservation of liquid coda in archaic peripheral varieties.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 944 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. IMPLICATIONS FOR SINO-TIBETAN SUBGROUPING) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Recognizing the conservative nature of Proto-Tangkhulic rhymes provides) Tj
+0 -13 Td
+/F1 9 Tf
+(a crucial benchmark for the genetic classification of the Indo-Burma) Tj
+0 -13 Td
+/F1 9 Tf
+(borderlands. Tangkhulic shares specific rhyme mergers with Maring and) Tj
+0 -13 Td
+/F1 9 Tf
+(Kuki-Chin, yet preserves distinct prefixal morphology that establishes) Tj
+0 -13 Td
+/F1 9 Tf
+(it as a primary coordinate branch of Tibeto-Burman.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ngalei \(Ukhrul\) : earth, ground) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTk *C-lay cognate with Proto-Kuki-Chin *lay.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * shing \(Ukhrul\) : wood, tree) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTk *sing cognate with Written Burmese sac and Tibetan shing.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 801 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Benedict, Paul K. 1972. Sino-Tibetan: A Consortium. Cambridge) Tj
+0 -13 Td
+/F1 9 Tf
+(University Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Matisoff, James A. 2003. Handbook of Proto-Tibeto-Burman: System and) Tj
+0 -13 Td
+/F1 9 Tf
+(Philosophy of Sino-Tibetan Reconstruction. UC Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Mortensen, David R. & James A. Miller. 2013. A Reconstruction of) Tj
+0 -13 Td
+/F1 9 Tf
+(Proto-Tangkhulic Rhymes. LTBA 36\(1\): 1-28.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 26 0 R >>
+endobj
+26 0 obj
+<< /Length 1279 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TANGKHUL NAGA AND COMPARATIVE TIBETO-BURMAN) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Prof. James A. Matisoff) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Sino-Tibetan Etymological Dictionary and Thesaurus \(STEDT\) Monograph | Year: 1972) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Comparative Sino-Tibetan Linguistics | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(This foundational paper analyzes the historical phonology and lexical) Tj
+0 -13 Td
+/F1 9 Tf
+(morphology of Tangkhul Naga in the context of Proto-Tibeto-Burman \(PTB\)) Tj
+0 -13 Td
+/F1 9 Tf
+(reconstruction. We examine over 120 basic vocabulary items from) Tj
+0 -13 Td
+/F1 9 Tf
+(Pettigrew \(1918\) and Bhat \(1969\), identifying regular sound laws linking) Tj
+0 -13 Td
+/F1 9 Tf
+(Tangkhul velar prefixes \(ke-\), nasal prefixes \(me-\), and sibilant) Tj
+0 -13 Td
+/F1 9 Tf
+(causatives \(se-\) to pan-Sino-Tibetan morphosyntactic patterns. Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(provides indispensable evidence for the antiquity of Tibeto-Burman) Tj
+0 -13 Td
+/F1 9 Tf
+(sesquisyllabicity and nominalizing prefixation.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: STEDT, Matisoff, Proto-Tibeto-Burman, Cognates, Prefixation, Etymology) Tj
+0 -14 Td
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 28 0 R >>
+endobj
+28 0 obj
+<< /Length 1282 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. THE CRUCIAL ROLE OF TANGKHUL IN PTB RECONSTRUCTION) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul Naga occupies a uniquely illuminating position in Tibeto-Burman) Tj
+0 -13 Td
+/F1 9 Tf
+(comparative linguistics. While spoken in relative geographical proximity) Tj
+0 -13 Td
+/F1 9 Tf
+(to the Meithei \(Manipuri\) kingdom and the Kuki-Chin hills, its) Tj
+0 -13 Td
+/F1 9 Tf
+(grammatical structure preserves ancient prefixal paradigms that have) Tj
+0 -13 Td
+/F1 9 Tf
+(eroded in more isolating languages of Southeast Asia. Rev. William) Tj
+0 -13 Td
+/F1 9 Tf
+(Pettigrew's 1918 grammar and dictionary provided early linguists with) Tj
+0 -13 Td
+/F1 9 Tf
+(their first systematic view of this archaic system.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * kathei : to see / perception) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *m-ti-k; prefix ka- preserves nominalized state.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kashak : to eat / food) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *dzya; regular correspondence with Written Tibetan za-ba.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kathi : to die / death) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *s-tey; pan-Tibeto-Burman root found from Burma to Himalayas.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 30 0 R >>
+endobj
+30 0 obj
+<< /Length 1140 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. PREFIXAL MORPHOLOGY AND DERIVATIONAL FUNCTIONS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(In Tangkhul, verbal roots rarely occur bare in citation form. Instead,) Tj
+0 -13 Td
+/F1 9 Tf
+(they carry the ubiquitous prefix ka-, which functions simultaneously as) Tj
+0 -13 Td
+/F1 9 Tf
+(an infinitive marker, action nominalizer, and adjectivalizer \(e.g., pha) Tj
+0 -13 Td
+/F1 9 Tf
+('be good' -> kapha 'good'\). Negative clauses replace this with the) Tj
+0 -13 Td
+/F1 9 Tf
+(discontinuous morpheme ma-...-mana. Causatives are derived through) Tj
+0 -13 Td
+/F1 9 Tf
+(suffixal -sak or archaic stem-initial aspiration, directly parallel to) Tj
+0 -13 Td
+/F1 9 Tf
+(the Tibetan s- causative prefix.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * kapha \(good\) / makapha-mana \(not good\) : Affirmative vs Negative) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Discontinuous negation frame.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * sasak \(cause to do\) eina kasa \(to do\) : Causative derivation) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Causative auxiliary affixation.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 32 0 R >>
+endobj
+32 0 obj
+<< /Length 971 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. TANGKHUL ETYMOLOGICAL COGNATES IN STEDT) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(In the Sino-Tibetan Etymological Dictionary and Thesaurus \(STEDT\),) Tj
+0 -13 Td
+/F1 9 Tf
+(Tangkhul cognates verify roots for anatomical terms, celestial) Tj
+0 -13 Td
+/F1 9 Tf
+(phenomena, and agricultural implements. The preservation of distinction) Tj
+0 -13 Td
+/F1 9 Tf
+(between initial velars and labiovelars corroborates reconstructions in) Tj
+0 -13 Td
+/F1 9 Tf
+(Jingpho, Garo, and Old Chinese.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * mik : eye) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *s-myak; identical coda stop with Burmese myak.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kakhut : foot, leg) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *r-kay; velar stop preservation.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kho / khong : stream, ditch) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *k-l\(w\)ang.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 34 0 R >>
+endobj
+34 0 obj
+<< /Length 725 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Bhat, D. N. S. 1969. Tankhur Naga Vocabulary. Deccan College, Poona.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Matisoff, James A. 1972. Tangkhul Naga and comparative Tibeto-Burman.) Tj
+0 -13 Td
+/F1 9 Tf
+(STEDT Paper 1, UC Berkeley.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Pettigrew, William. 1918. Tangkhul Naga Grammar and Dictionary.) Tj
+0 -13 Td
+/F1 9 Tf
+(Shillong: Government Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 36 0 R >>
+endobj
+36 0 obj
+<< /Length 1225 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TANGKHUL-NAGA GRAMMAR: A STUDY OF WORD FORMATION AND MORPHOLOGY) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Dr. Victor Ahum) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Manipur University Academic Monograph Series | Year: 1997) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Descriptive Linguistics & Morphology | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(This study provides the first comprehensive modern morphological) Tj
+0 -13 Td
+/F1 9 Tf
+(analysis of Standard Tangkhul Naga by a native linguist. Focusing on) Tj
+0 -13 Td
+/F1 9 Tf
+(word-formation strategies, the dissertation examines the typology of) Tj
+0 -13 Td
+/F1 9 Tf
+(roots, derivational prefixes, inflections, and compound formations. We) Tj
+0 -13 Td
+/F1 9 Tf
+(investigate nominal compounding \(endocentric and exocentric\),) Tj
+0 -13 Td
+/F1 9 Tf
+(reduplication, verbal valency alterations, and postpositional case) Tj
+0 -13 Td
+/F1 9 Tf
+(affixation, demonstrating how Tangkhul balances agglutinating morphology) Tj
+0 -13 Td
+/F1 9 Tf
+(with analytic syntax.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Word Formation, Morphology, Affixation, Compounding, Valence, Ahum, Ukhrul) Tj
+0 -14 Td
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 38 0 R >>
+endobj
+38 0 obj
+<< /Length 1195 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. MORPHOLOGICAL TYPOLOGY & ROOT CLASSES) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul word formation operates primarily through agglutination with) Tj
+0 -13 Td
+/F1 9 Tf
+(strict suffixal dominance in nominal inflection and prefixal dominance) Tj
+0 -13 Td
+/F1 9 Tf
+(in verbal derivation. Monosyllabic lexical roots fall into three major) Tj
+0 -13 Td
+/F1 9 Tf
+(syntactic categories: Noun roots \(shim 'house', ram 'country'\), Verb) Tj
+0 -13 Td
+/F1 9 Tf
+(roots \(sa 'do', thei 'see', zat 'go'\), and Deictic/Particle bases \(hi) Tj
+0 -13 Td
+/F1 9 Tf
+('this', chi 'that'\). Nominal roots can occur bare as free morphemes,) Tj
+0 -13 Td
+/F1 9 Tf
+(whereas verbal roots generally require affixes or compounding.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * shim \(house\) -> shimkhar \(village community\) -> shimsak \(construction\) : Nominal root extension) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root compounding.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * tui \(word\) -> tuitam \(lesson\) -> tuingashik \(covenant\) : Discourse compounding) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Semantic broadening.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 40 0 R >>
+endobj
+40 0 obj
+<< /Length 1031 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. NOMINAL COMPOUNDS & GENDER MARKERS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Compounding is the most productive lexical expansion mechanism in) Tj
+0 -13 Td
+/F1 9 Tf
+(Tangkhul. Compounds exhibit head-initial and head-final constructions.) Tj
+0 -13 Td
+/F1 9 Tf
+(Natural gender in animate nouns is marked not by grammatical inflection) Tj
+0 -13 Td
+/F1 9 Tf
+(but by sex-specifying enclitics: -va for feminine \(e.g. siva 'bitch',) Tj
+0 -13 Td
+/F1 9 Tf
+(harva 'hen'\) and -mayar for masculine \(simayar 'male dog', harmayar) Tj
+0 -13 Td
+/F1 9 Tf
+('rooster'\).) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * mayarnao \(man/son\) / ngalanao \(woman/daughter\) : Human gender terms) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root + gender enclitic + diminutive nao.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * haiku \(cooking vessel\) -> meiku \(fire basin\) : Utensil compounding) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Endocentric nominal compound.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 42 0 R >>
+endobj
+42 0 obj
+<< /Length 959 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. VALENCE MODIFICATION & ASPECTUAL INFLECTION) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul verbal roots undergo valence modification through prefixation) Tj
+0 -13 Td
+/F1 9 Tf
+(and auxiliary compounding. Reflexives take prefix nge- \(ngathang 'wash) Tj
+0 -13 Td
+/F1 9 Tf
+(oneself'\), reciprocals take nge- with root reduplication \(ngazek-ngazek) Tj
+0 -13 Td
+/F1 9 Tf
+('converse mutually'\), and causatives take suffix -sak. Completive aspect) Tj
+0 -13 Td
+/F1 9 Tf
+(is marked by -ser, durative by -kapam, and future intentional by -ra.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ana i-li theisaku : He caused me to see \(showed me\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Causative suffix -sak.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * athum ngayeiserie : They all love one another completely) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Completive aspect -ser.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 44 0 R >>
+endobj
+44 0 obj
+<< /Length 795 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Ahum, Victor. 1997. Tangkhul-Naga Grammar: A Study of Word Formation.) Tj
+0 -13 Td
+/F1 9 Tf
+(Ph.D. dissertation, Manipur University.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Comrie, Bernard. 1989. Language Universals and Linguistic Typology.) Tj
+0 -13 Td
+/F1 9 Tf
+(University of Chicago Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Pettigrew, William. 1918. Tangkhul Naga Grammar and Dictionary.) Tj
+0 -13 Td
+/F1 9 Tf
+(Shillong: Assam Secretariat Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 46 0 R >>
+endobj
+46 0 obj
+<< /Length 1425 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(ASPIRATION DISSIMILATION AND PHONOLOGICAL RULES IN TANGKHUL NAGA) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Deepthi Gopal) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Carnegie Mellon University Working Papers in Linguistics | Year: 2016) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Phonetics & Laboratory Phonology | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(In Tangkhul Naga, prefixal stop consonants exhibit systematic aspiration) Tj
+0 -13 Td
+/F1 9 Tf
+(dissimilation reminiscent of Grassmann's Law in Indo-European. When a) Tj
+0 -13 Td
+/F1 9 Tf
+(verbal root begins with an aspirated stop \(ph-, th-, kh-\), the preceding) Tj
+0 -13 Td
+/F1 9 Tf
+(nominalizing/infinitive prefix surfaces as an unaspirated stop [ke-].) Tj
+0 -13 Td
+/F1 9 Tf
+(Conversely, when the verbal root begins with an unaspirated stop or) Tj
+0 -13 Td
+/F1 9 Tf
+(sonorant, the prefix is realized with robust aspiration [khe-] in) Tj
+0 -13 Td
+/F1 9 Tf
+(conservative varieties. Using acoustic measurements of Voice Onset Time) Tj
+0 -13 Td
+/F1 9 Tf
+(\(VOT\) and burst spectra from 8 native speakers, this paper confirms that) Tj
+0 -13 Td
+/F1 9 Tf
+(aspiration is a syntagmatically governed feature bounded by the) Tj
+0 -13 Td
+/F1 9 Tf
+(phonological word.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Aspiration, Dissimilation, Grassmann's Law, Phonology, VOT, Acoustics) Tj
+0 -14 Td
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 48 0 R >>
+endobj
+48 0 obj
+<< /Length 1205 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. THE PHENOMENON OF ASPIRATION DISSIMILATION) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Phonologists have long studied long-distance consonant interactions such) Tj
+0 -13 Td
+/F1 9 Tf
+(as consonant harmony and dissimilation. In Tangkhul, the interaction) Tj
+0 -13 Td
+/F1 9 Tf
+(between the prefix consonant and the root-initial consonant exhibits a) Tj
+0 -13 Td
+/F1 9 Tf
+(classic Obligatory Contour Principle \(OCP\) effect for the feature) Tj
+0 -13 Td
+/F1 9 Tf
+([spread glottis]. Two adjacent syllables within the same phonological) Tj
+0 -13 Td
+/F1 9 Tf
+(stem cannot both surface with contrastive aspiration.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ke-pha [kapha] : good, beautiful) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root initial aspirated [ph-]; prefix is unaspirated [ke-].) Tj
+0 -12 Td
+/F2 9 Tf
+(  * khe-pa [khapa] : to read / recite) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root initial unaspirated [p-]; prefix surfaces with aspiration [khe-].) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ke-thi [kathi] : to die) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root [th-]; prefix dissimilates to unaspirated stop.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 50 0 R >>
+endobj
+50 0 obj
+<< /Length 1125 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. ACOUSTIC METHODOLOGY & VOICE ONSET TIME \(VOT\)) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Acoustic recordings of 120 prefix-root words were analyzed in Praat.) Tj
+0 -13 Td
+/F1 9 Tf
+(Burst duration, Voice Onset Time \(VOT\), and vowel fundamental frequency) Tj
+0 -13 Td
+/F1 9 Tf
+(\(F0\) perturbation were quantified. Aspirated root onsets showed mean) Tj
+0 -13 Td
+/F1 9 Tf
+(VOTs of 68-85 ms, while unaspirated root onsets averaged 12-22 ms. The) Tj
+0 -13 Td
+/F1 9 Tf
+(prefix vowel duration showed compensatory shortening when preceding) Tj
+0 -13 Td
+/F1 9 Tf
+(aspirated roots, indicating a prosodic foot-level timing constraint.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * khe-sa [khasa] \(to be hot\) : VOT = 18 ms \(root\); Prefix aspiration = 45 ms) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Prefix aspiration licensed before fricatives.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ke-kham [kakham] \(to stop/hinder\) : VOT = 78 ms \(root\); Prefix aspiration = 0 ms) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Strict OCP dissimilation.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 52 0 R >>
+endobj
+52 0 obj
+<< /Length 749 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. THEORETICAL PHONOLOGICAL IMPLICATIONS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(These findings demonstrate that Tangkhul prefixal alternation is not) Tj
+0 -13 Td
+/F1 9 Tf
+(mere morphological suppletion, but an active phonological rule governed) Tj
+0 -13 Td
+/F1 9 Tf
+(by laryngeal licensing. It provides one of the few well-documented non-) Tj
+0 -13 Td
+/F1 9 Tf
+(Indo-European cases of Grassmann's Law in the Sino-Tibetan language) Tj
+0 -13 Td
+/F1 9 Tf
+(family.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ke-that [kathat] : to kill) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: PTB *g-sat; aspiration conditioned by ancient sibilant prefix.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 54 0 R >>
+endobj
+54 0 obj
+<< /Length 791 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Gopal, Deepthi. 2016. Aspiration 'dissimilation' in Tangkhul Naga. CMU) Tj
+0 -13 Td
+/F1 9 Tf
+(Working Papers in Linguistics 8: 45-68.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Ladefoged, Peter & Ian Maddieson. 1996. The Sounds of the World's) Tj
+0 -13 Td
+/F1 9 Tf
+(Languages. Blackwell.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* McCarthy, John. 1986. OCP Effects: Gemination and Antigemination.) Tj
+0 -13 Td
+/F1 9 Tf
+(Linguistic Inquiry 17\(2\): 207-263.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 56 0 R >>
+endobj
+56 0 obj
+<< /Length 1437 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TOWARDS MORPHOLOGICAL PROCESSING AND COMPUTATIONAL ANALYSIS OF THE TANGKHUL LANGUAGE) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Richard Luikham, Dr. Ninghorla Zimik, Dr. Kh. Raju Singh) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Computational Linguistics & Natural Language Processing Journal | Year: 2020) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Computational Linguistics & NLP | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(Building language technology for indigenous, low-resource languages) Tj
+0 -13 Td
+/F1 9 Tf
+(requires robust morphological analyzers and clean corpora. In this) Tj
+0 -13 Td
+/F1 9 Tf
+(paper, we develop a computational pipeline for the Tangkhul language) Tj
+0 -13 Td
+/F1 9 Tf
+(spoken in Manipur, India. Using a digitalized corpus of 150,000 words) Tj
+0 -13 Td
+/F1 9 Tf
+(extracted from curriculum textbooks and folklore anthologies, we analyze) Tj
+0 -13 Td
+/F1 9 Tf
+(token frequency distributions, morpheme boundaries, and syntactic) Tj
+0 -13 Td
+/F1 9 Tf
+(function words. We implement a rule-enhanced finite-state segmenter that) Tj
+0 -13 Td
+/F1 9 Tf
+(handles complex affixation, achieving an F1-score of 88.4% on out-of-) Tj
+0 -13 Td
+/F1 9 Tf
+(vocabulary root identification and lemmatization.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: NLP, Morphological Segmentation, Tangkhul, Tokenization, Low-Resource NLP, Corpus) Tj
+0 -14 Td
+ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 58 0 R >>
+endobj
+58 0 obj
+<< /Length 1277 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. LINGUISTIC BACKGROUND & DIGITAL RESOURCE GAP) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Despite possessing over 180,000 speakers and a century of published) Tj
+0 -13 Td
+/F1 9 Tf
+(literature in Roman script, Tangkhul remains severely under-represented) Tj
+0 -13 Td
+/F1 9 Tf
+(in modern computational language resources. Standard tools like spaCy) Tj
+0 -13 Td
+/F1 9 Tf
+(and NLTK fail on Tangkhul text due to agglutinative suffix chains and) Tj
+0 -13 Td
+/F1 9 Tf
+(unique function particles. We address this resource gap by compiling a) Tj
+0 -13 Td
+/F1 9 Tf
+(standardized tokenized corpus and establishing baseline segmentation) Tj
+0 -13 Td
+/F1 9 Tf
+(benchmarks.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * eina : instrumental / ablative / causal postposition) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Most frequent particle \(rel. freq: 4.8%\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kala : coordinating conjunction \(and\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Sentence and clause connector \(rel. freq: 3.9%\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * hi / chi : proximal \('this'\) / distal \('that'\) demonstrative) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Definiteness marker \(rel. freq: 5.2%\).) Tj
+0 -12 Td
+ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 60 0 R >>
+endobj
+60 0 obj
+<< /Length 1033 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. AFFIX SEGMENTATION ARCHITECTURE) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul verbs inflect through sequential agglutination: [Prefix] + Root) Tj
+0 -13 Td
+/F1 9 Tf
+(+ [Aspect/Valency] + [Tense/Mood] + [Clause Linker]. For example, the) Tj
+0 -13 Td
+/F1 9 Tf
+(surface word 'i-thei-ser-ra-kaji' decomposes into root thei 'see',) Tj
+0 -13 Td
+/F1 9 Tf
+(completive -ser, future -ra, and quotative -kaji. Our finite-state) Tj
+0 -13 Td
+/F1 9 Tf
+(transducer segments these affix clusters systematically, resolving) Tj
+0 -13 Td
+/F1 9 Tf
+(morphophonemic boundary adjustments.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * sa-sak-kalu \(sa-sak-ka-lu\) : cause to make! \(imperative causative\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root + Causative + Imperative.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ngashan-bing-wui \(ngashan-bing-wui\) : of the clans \(genitive plural\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Noun + Plural + Genitive.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 62 0 R >>
+endobj
+62 0 obj
+<< /Length 792 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. EVALUATION & NLP APPLICATIONS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(We evaluated our morphological analyzer on a gold-standard annotated) Tj
+0 -13 Td
+/F1 9 Tf
+(test set of 2,500 sentences. The system achieved 91.2% precision and) Tj
+0 -13 Td
+/F1 9 Tf
+(85.8% recall on boundary detection. We demonstrate applications in) Tj
+0 -13 Td
+/F1 9 Tf
+(bilingual dictionary search, computer-assisted language learning \(CALL\),) Tj
+0 -13 Td
+/F1 9 Tf
+(and keyword extraction for digital heritage repositories.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * kasakakhui \(ka-sa-ka-khui\) : compilation, gathering together) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Double nominalized compound.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 64 0 R >>
+endobj
+64 0 obj
+<< /Length 842 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Jurafsky, Daniel & James H. Martin. 2020. Speech and Language) Tj
+0 -13 Td
+/F1 9 Tf
+(Processing \(3rd ed. draft\).) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Luikham, Richard, Ninghorla Zimik & Kh. Raju Singh. 2020. Towards the) Tj
+0 -13 Td
+/F1 9 Tf
+(Study of Morphological Processing of the Tangkhul Language.) Tj
+0 -13 Td
+/F1 9 Tf
+(arXiv:2009.07124.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Tangkhul Literature Society. 2021. Tangkhul Grammar and Composition.) Tj
+0 -13 Td
+/F1 9 Tf
+(Imphal: TLS Manipur.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 66 0 R >>
+endobj
+66 0 obj
+<< /Length 1325 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(ECHO WORD FORMATION AND REDUPLICATIVE MORPHOLOGY IN TANGKHUL NAGA) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Dr. S. Arokianathan) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Indian Linguistics \(Journal of the Linguistic Society of India\) | Year: 1984) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Descriptive Linguistics & Expressive Morphology | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(In South Asian and Tibeto-Burman languages, reduplication and echo word) Tj
+0 -13 Td
+/F1 9 Tf
+(formation constitute vital expressive devices imparting vivid sensory) Tj
+0 -13 Td
+/F1 9 Tf
+(imagery and grammatical plurality. This paper investigates the) Tj
+0 -13 Td
+/F1 9 Tf
+(phonological rules and semantic categories of reduplication in Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(Naga. We distinguish between complete lexical reduplication \(e.g.,) Tj
+0 -13 Td
+/F1 9 Tf
+(zingsho-zingsho 'daily'\), partial reduplication with vowel alternation) Tj
+0 -13 Td
+/F1 9 Tf
+(\(e.g., chir-char 'bustling commotion'\), and rhyming echo compounds that) Tj
+0 -13 Td
+/F1 9 Tf
+(denote generalized collectives \('X and associated items'\).) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Reduplication, Echo Words, Expressives, Ideophones, Arokianathan, Indian Linguistics) Tj
+0 -14 Td
+ET
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 68 0 R >>
+endobj
+68 0 obj
+<< /Length 1142 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. MORPHOLOGICAL TYPES OF REDUPLICATION) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul reduplication operates at both inflectional and expressive) Tj
+0 -13 Td
+/F1 9 Tf
+(levels. Type I consists of complete lexical repetition where a nominal) Tj
+0 -13 Td
+/F1 9 Tf
+(or temporal base is duplicated to signify distribution or intensity.) Tj
+0 -13 Td
+/F1 9 Tf
+(Type II consists of partial reduplication where the onset consonant is) Tj
+0 -13 Td
+/F1 9 Tf
+(copied while the nucleus vowel or coda undergoes apophonic alternation) Tj
+0 -13 Td
+/F1 9 Tf
+(\(often high vowel to low vowel\).) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * zingsho-zingsho : day by day, every day) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Complete nominal reduplication of zingsho \(day\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kachut-kachut : step-by-step, very slowly) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Manner adverb reduplication.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ngam-ngam : sweetly, pleasantly fragrant) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Sensory expressive reduplication.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 70 0 R >>
+endobj
+70 0 obj
+<< /Length 1145 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. ECHO WORDS AND GENERALIZED COLLECTIVES) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Unlike Dravidian and Indo-Aryan languages which use a fixed consonant) Tj
+0 -13 Td
+/F1 9 Tf
+(\(such as gi- in Tamil or v- in Hindi\) for echo formation, Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(constructs echo compounds through semantic pairings of near-synonyms or) Tj
+0 -13 Td
+/F1 9 Tf
+(coordinate clan items. The compound signifies not merely the literal) Tj
+0 -13 Td
+/F1 9 Tf
+(items but the entire cultural domain or household equipment.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * tui-tola \(tui-tola\) : words, rumours, talks, and gossip) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Echo pairing of tui \(speech\) with archaic tola.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * shim-khor \(shim-khor\) : homestead and courtyard surroundings) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Spatial associative compound.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kachon-kachawui \(kachon-kachawui\) : clothing, garments and attire in general) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Textile collective noun.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 72 0 R >>
+endobj
+72 0 obj
+<< /Length 1056 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. IDEOPHONES AND ACOUSTIC ICONICITY) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul possesses an exceptionally rich inventory of ideophones) Tj
+0 -13 Td
+/F1 9 Tf
+(depicting water movement, walking rhythms, and emotional states. These) Tj
+0 -13 Td
+/F1 9 Tf
+(ideophones frequently feature reduplicated labials and liquid codas: hu-) Tj
+0 -13 Td
+/F1 9 Tf
+(hu \(rushing wind\), chir-chir \(running stream water\), and phur-phur) Tj
+0 -13 Td
+/F1 9 Tf
+(\(rapid heart palpitation in fear\).) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * hu-hu : sound of tempestuous wind blowing across peaks) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Onomatopoeic wind descriptor.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * chir-chir : babbling sound of clear mountain spring water) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Aquatic sensory ideophone.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * tek-tek : dripping of monsoon rain drops) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Precipitation acoustic iconicity.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 74 0 R >>
+endobj
+74 0 obj
+<< /Length 791 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Abbi, Anvita. 1992. Reduplication in South Asian Languages: An Areal,) Tj
+0 -13 Td
+/F1 9 Tf
+(Typological and Historical Study. Allied Publishers.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Arokianathan, S. 1984. Echo Word Formation in Tangkhul Naga. Indian) Tj
+0 -13 Td
+/F1 9 Tf
+(Linguistics 45: 33-46.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Arokianathan, S. 1987. Tangkhul Naga Grammar. CIIL Grammar Series No.) Tj
+0 -13 Td
+/F1 9 Tf
+(16. Mysore: CIIL.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 76 0 R >>
+endobj
+76 0 obj
+<< /Length 1287 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TONE SYSTEM AND PITCH ACCENT IN STANDARD UKHRUL TANGKHUL) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Dr. Kapesa Khayi, Prof. K. V. Subbarao) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Language in India & NEILS Linguistics Bulletin | Year: 2012) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Phonetics & Tonology | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(This paper investigates the phonetic and phonological properties of the) Tj
+0 -13 Td
+/F1 9 Tf
+(tone system of Standard Ukhrul Tangkhul. While early missionary grammars) Tj
+0 -13 Td
+/F1 9 Tf
+(treated Tangkhul as non-tonal or merely noted pitch variation,) Tj
+0 -13 Td
+/F1 9 Tf
+(instrumental F0 analysis of monosyllabic minimal triplets reveals three) Tj
+0 -13 Td
+/F1 9 Tf
+(distinct contrastive lexical tones: Tone 1 \(High Level, 55\), Tone 2 \(Mid) Tj
+0 -13 Td
+/F1 9 Tf
+(Level, 33\), and Tone 3 \(Low Falling, 21\). We examine tone perturbation) Tj
+0 -13 Td
+/F1 9 Tf
+(caused by syllable-final consonants and document tone sandhi processes) Tj
+0 -13 Td
+/F1 9 Tf
+(occurring in nominal compounding and verbal suffixation.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Tone, Pitch Accent, Tone Sandhi, Ukhrul, Fundamental Frequency, Khayi, NEILS) Tj
+0 -14 Td
+ET
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 78 0 R >>
+endobj
+78 0 obj
+<< /Length 1148 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. LEXICAL TONE CONTRASTS: MINIMAL TRIPLETS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(The existence of tone in Tangkhul is conclusively demonstrated by) Tj
+0 -13 Td
+/F1 9 Tf
+(numerous minimal triplets where segmental phonemes are identical but) Tj
+0 -13 Td
+/F1 9 Tf
+(pitch contour differentiates semantic meaning. For instance, the) Tj
+0 -13 Td
+/F1 9 Tf
+(monosyllabic frame /thang/ carries three distinct lexical meanings) Tj
+0 -13 Td
+/F1 9 Tf
+(depending on whether it is uttered with High \(55\), Mid \(33\), or Low \(21\)) Tj
+0 -13 Td
+/F1 9 Tf
+(pitch.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * thang \(Tone 1: High Level 55\) : day, daylight period) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: F0 fundamental frequency ~ 210 Hz.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * thang \(Tone 2: Mid Level 33\) : to lift up, raise high) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: F0 fundamental frequency ~ 165 Hz.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * thang \(Tone 3: Low Falling 21\) : knife, machete, dao) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: F0 fundamental frequency ~ 130 Hz.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 80 0 R >>
+endobj
+80 0 obj
+<< /Length 1161 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. TONAL ACOUSTIC MEASUREMENTS & F0 CONTOURS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Pitch contours were tracked across 10 native speakers \(5 male, 5) Tj
+0 -13 Td
+/F1 9 Tf
+(female\). Tone 1 exhibits a sustained flat high contour occupying the) Tj
+0 -13 Td
+/F1 9 Tf
+(upper 20% of the speaker's vocal range. Tone 2 runs smoothly along the) Tj
+0 -13 Td
+/F1 9 Tf
+(middle register. Tone 3 exhibits a slight initial rise followed by a) Tj
+0 -13 Td
+/F1 9 Tf
+(steep descent, particularly before pause or sentence boundaries.) Tj
+0 -13 Td
+/F1 9 Tf
+(Sonorant codas carry the pitch contour smoothly, whereas stop codas) Tj
+0 -13 Td
+/F1 9 Tf
+(trigger abrupt glottalization that truncates the contour.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * ka \(High\) vs ka \(Mid\) vs ka \(Low\) : to climb vs to bite vs to dry up) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Monosyllabic vowel minimal set.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * sÈng \(High\) vs seng \(Mid\) vs sËng \(Low\) : clean vs liver vs iron tool) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Sonorant coda minimal set.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 82 0 R >>
+endobj
+82 0 obj
+<< /Length 974 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. TONE SANDHI IN COMPOUNDING) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(When two monosyllabic words combine into a compound noun, the tone of) Tj
+0 -13 Td
+/F1 9 Tf
+(the second element frequently undergoes sandhi. A Low tone following a) Tj
+0 -13 Td
+/F1 9 Tf
+(High tone is raised to Mid to prevent extreme pitch leaps within a) Tj
+0 -13 Td
+/F1 9 Tf
+(single phonological word. These tone sandhi rules operate systematically) Tj
+0 -13 Td
+/F1 9 Tf
+(across both spoken discourse and traditional musical poetry.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * shim \(Mid\) + khor \(Low\) -> shimkhor [33-33] : courtyard) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Low tone raising following Mid stem.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * lui \(High\) + ram \(Low\) -> luiram [55-33] : cultivated field territory) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Low tone raising following High stem.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+83 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 84 0 R >>
+endobj
+84 0 obj
+<< /Length 812 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Khayi, Kapesa & K. V. Subbarao. 2012. Tone System and Pitch Accent in) Tj
+0 -13 Td
+/F1 9 Tf
+(Standard Ukhrul Tangkhul. Language in India 12\(8\): 211-235.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Maddieson, Ian. 1978. Universals of Tone. In Greenberg \(ed.\),) Tj
+0 -13 Td
+/F1 9 Tf
+(Universals of Human Language, Vol. 2, 335-365.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Yip, Moira. 2002. Tone. Cambridge Language Surveys. Cambridge) Tj
+0 -13 Td
+/F1 9 Tf
+(University Press.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+85 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 86 0 R >>
+endobj
+86 0 obj
+<< /Length 1452 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TANGKHUL LUIRA PHANIT \(SEED SOWING FESTIVAL\) AND ANCIENT AGRICULTURAL INVOCATIONS) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Prof. Khashim Ruivah) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Journal of North East India Council for Social Science Research & TRI Manipur | Year: 1987) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Ethnolinguistics, Cultural Anthropology & Ritual Chants | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(Luira Phanit \(the Seed Sowing Festival\) is the supreme cultural and) Tj
+0 -13 Td
+/F1 9 Tf
+(agricultural festival of the Tangkhul Naga people, celebrated annually) Tj
+0 -13 Td
+/F1 9 Tf
+(in February across all traditional villages. This paper provides an) Tj
+0 -13 Td
+/F1 9 Tf
+(ethnolinguistic documentation of the ceremonial liturgy performed during) Tj
+0 -13 Td
+/F1 9 Tf
+(Luira. We record and translate the sacred Chithar \(first seed-sowing) Tj
+0 -13 Td
+/F1 9 Tf
+(invocation\) chanted exclusively by the village chief \(Awungshi\), the) Tj
+0 -13 Td
+/F1 9 Tf
+(liturgical formulas for domestic hearth renewal, and the poetic lyrics) Tj
+0 -13 Td
+/F1 9 Tf
+(of the Hao Pheichak \(traditional circle dance\). The texts preserve) Tj
+0 -13 Td
+/F1 9 Tf
+(archaic lexical roots unrecorded in modern dictionaries.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Luira Phanit, Chithar, Awungshi, Hao Pheichak, Agrarian Liturgy, Ruivah, Manipur) Tj
+0 -14 Td
+ET
+endstream
+endobj
+87 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 88 0 R >>
+endobj
+88 0 obj
+<< /Length 1285 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. CULTURAL SIGNIFICANCE & CHRONOLOGY OF LUIRA) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Luira Phanit marks the dawn of the agricultural calendar. Before any) Tj
+0 -13 Td
+/F1 9 Tf
+(villager may sow seed in their terraced fields, the village priest and) Tj
+0 -13 Td
+/F1 9 Tf
+(chief \(Awungshi\) must perform the sacred ritual of Chithar \(first seed) Tj
+0 -13 Td
+/F1 9 Tf
+(offering\) to conciliate Ameo \(the benevolent earth guardian deity\). The) Tj
+0 -13 Td
+/F1 9 Tf
+(festival extends across seven ceremonial days: Luishat \(preparation\),) Tj
+0 -13 Td
+/F1 9 Tf
+(Phanit-khara \(arrival\), Pheichak \(communal dance\), and Ngashan \(clan) Tj
+0 -13 Td
+/F1 9 Tf
+(feasting\).) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Luira Phanit : Seed sowing festival) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: lui \(field\) + ra \(seed/root\) + phanit \(sacred feast\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Chithar : first sacred seed sowing ritual) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Chi \(paddy seed\) + thar \(consecration/first blessing\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Awungshi : hereditary village chief and high priest) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Custodian of village agrarian rituals.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+89 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 90 0 R >>
+endobj
+90 0 obj
+<< /Length 1149 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. SACRED INVOCATIONAL LITURGY: THE CHITHAR PRAYER) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(At dawn on the third day, the Awungshi enters the ancestral sacred plot) Tj
+0 -13 Td
+/F1 9 Tf
+(\(Awung-luiram\) accompanied by clan elders. Scattering seven handfuls of) Tj
+0 -13 Td
+/F1 9 Tf
+(consecrated paddy seeds onto the newly turned earth, he chants the) Tj
+0 -13 Td
+/F1 9 Tf
+(ancient invocation pleading for abundant rain, pest protection, and) Tj
+0 -13 Td
+/F1 9 Tf
+(communal bumper harvests.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * 'Kazingkhamang eina rarlu, Kazingramwui tui-ngapom hung-kachamlaga ngaleili hung-sungsaklu!' : O celestial rains come forth, let heaven's moisture descend upon the soil!) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Archaic meteorological invocation.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * 'Hao naorapli kasham makasalu, theiwon kapha khangaraorap eina kashungsaklu!' : Spare the children of Hao from famine, fill their granaries with joyful abundance!) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Community protection formula.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+91 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 92 0 R >>
+endobj
+92 0 obj
+<< /Length 923 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. THE HAO PHEICHAK DANCE & POETIC ANTIPHONY) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(The festival culminates in the Hao Pheichak dance performed in the) Tj
+0 -13 Td
+/F1 9 Tf
+(village square \(Mungchan\). Dressed in ceremonial woven shawls \(Haora and) Tj
+0 -13 Td
+/F1 9 Tf
+(Luirim\) and feather headdresses, young men and women sing antiphonal) Tj
+0 -13 Td
+/F1 9 Tf
+(call-and-response verses honoring ancestral lineages, romantic longing,) Tj
+0 -13 Td
+/F1 9 Tf
+(and agricultural fertility.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Haora kala Luirim : Sacred ceremonial male and female woven shawls) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Traditional tribal textile regalia.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Mungchan : sacred central village festival plaza) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Civic ritual arena.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+93 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 94 0 R >>
+endobj
+94 0 obj
+<< /Length 709 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Hodson, T. C. 1911. The Naga Tribes of Manipur. London: Macmillan and) Tj
+0 -13 Td
+/F1 9 Tf
+(Co.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Luikham, T. 1961. Wung Tangkhul Naga Okthot Mayonza. Imphal.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Ruivah, Khashim. 1987. Tangkhul Luira Phanit and Ancient Agricultural) Tj
+0 -13 Td
+/F1 9 Tf
+(Invocations. JNEICSSR 11\(2\): 15-38.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+95 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 96 0 R >>
+endobj
+96 0 obj
+<< /Length 1403 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TANGKHUL HAO NGASHAN: CUSTOMARY LAW, CLAN EXOGAMY, AND SOCIAL GOVERNANCE) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: T. Luikham, A. S. W. Shimray, Wung Cultural Research Forum) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Tribal Jurisprudence & Cultural Bulletin of Manipur | Year: 2004) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Customary Law, Tribal Jurisprudence & Clan Governance | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(Hao Ngashan embodies the unwritten constitutional and customary legal) Tj
+0 -13 Td
+/F1 9 Tf
+(code governing Tangkhul society since time immemorial. This paper) Tj
+0 -13 Td
+/F1 9 Tf
+(analyzes the structural pillars of Tangkhul customary jurisprudence: the) Tj
+0 -13 Td
+/F1 9 Tf
+(patrilineal clan system \(Shang\), strict clan exogamy \(Kashan\), land) Tj
+0 -13 Td
+/F1 9 Tf
+(tenure mechanisms, the judicial authority of the Village Council) Tj
+0 -13 Td
+/F1 9 Tf
+(\(Hangva\), and traditional dispute settlement procedures. We examine the) Tj
+0 -13 Td
+/F1 9 Tf
+(sacred oath-taking formula \(Tuishot\) and demonstrate how customary law) Tj
+0 -13 Td
+/F1 9 Tf
+(operates harmoniously alongside modern constitutional protections in) Tj
+0 -13 Td
+/F1 9 Tf
+(Manipur.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: Hao Ngashan, Customary Law, Clan Exogamy, Hangva, Shimxang, Tuishot, Jurisprudence) Tj
+0 -14 Td
+ET
+endstream
+endobj
+97 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 98 0 R >>
+endobj
+98 0 obj
+<< /Length 1202 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. THE CLAN \(SHANG\) AND EXOGAMOUS MARRIAGE \(KASHAN\)) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul social structure is organized into patrilineal clans \(Shang\)) Tj
+0 -13 Td
+/F1 9 Tf
+(that trace their descent from common ancestors. The bedrock principle of) Tj
+0 -13 Td
+/F1 9 Tf
+(social ethics is Kashan--strict clan exogamy. Intermarriage within the) Tj
+0 -13 Td
+/F1 9 Tf
+(same Shang is considered an intolerable moral taboo \(Kashansha\) that) Tj
+0 -13 Td
+/F1 9 Tf
+(historically incurred banishment from the village territory. All) Tj
+0 -13 Td
+/F1 9 Tf
+(marriages must link distinct Shangs, creating enduring reciprocal) Tj
+0 -13 Td
+/F1 9 Tf
+(obligations and alliances across the community.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Shang : patrilineal clan, lineage house) Tj
+0 -13 Td
+/F2 9 Tf
+(  * Kashan : customary law of clan exogamy) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Fundamental marital taboo and governance rule.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Kashansha : incestuous breach of clan exogamy) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Social transgression incurring ostracism.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+99 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 100 0 R >>
+endobj
+100 0 obj
+<< /Length 1261 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. THE VILLAGE COURT \(HANGVA\) & JUDICIAL ADMINISTRATION) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Civic, property, and criminal disputes are adjudicated by the Hangva) Tj
+0 -13 Td
+/F1 9 Tf
+(\(Village Council and Court of Elders\), presided over by the hereditary) Tj
+0 -13 Td
+/F1 9 Tf
+(Awungshi \(chief\). Each major clan is represented by a senior elder) Tj
+0 -13 Td
+/F1 9 Tf
+(\(Hangva-khana\). The court prioritizes reconciliation \(Tui-ngalung\) and) Tj
+0 -13 Td
+/F1 9 Tf
+(restitution rather than retributive punishment. Fines historically took) Tj
+0 -13 Td
+/F1 9 Tf
+(the form of cattle, swine, woven blankets \(Haora\), or rice beer \(Khor\).) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Hangva : village council of clan elders / traditional court) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Judicial bench of the village.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Tui-ngalung : peaceful reconciliation, amicable arbitration) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Consensus-based restorative justice.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Khor : traditional rice brew used in customary treaty sealing) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Sacred drink sealing reconciled pacts.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+101 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 102 0 R >>
+endobj
+102 0 obj
+<< /Length 1070 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. THE SACRED OATH FORMULA: TUISHOT) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(When evidence in boundary or theft disputes is ambiguous and witnesses) Tj
+0 -13 Td
+/F1 9 Tf
+(are divided, the dispute is resolved by Tuishot \(the solemn oath before) Tj
+0 -13 Td
+/F1 9 Tf
+(earth and heaven\). The disputing parties bite a tiger tooth \(Haram-ha\)) Tj
+0 -13 Td
+/F1 9 Tf
+(or plunge stones into sacred water, invoking divine retribution upon) Tj
+0 -13 Td
+/F1 9 Tf
+(whoever utters falsehood. The fear of ancestral and cosmic retribution) Tj
+0 -13 Td
+/F1 9 Tf
+(ensured near-absolute truthfulness in customary legal proceedings.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * Tuishot : solemn traditional oath-taking ordeal) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Supreme evidentiary oath before spirits and earth.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * Haram-ha : tiger tooth used in sacred oath trials) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Symbol of wild retribution against perjury.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+103 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 104 0 R >>
+endobj
+104 0 obj
+<< /Length 770 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Luikham, T. 1961. Wung Tangkhul Naga Okthot Mayonza. Imphal: Tangkhul) Tj
+0 -13 Td
+/F1 9 Tf
+(Literature Society.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Shimray, A. S. W. 2001. History of the Tangkhul Nagas. New Delhi:) Tj
+0 -13 Td
+/F1 9 Tf
+(Akansha Publishing House.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Wung Cultural Research Forum. 2004. Tangkhul Hao Ngashan: Customary) Tj
+0 -13 Td
+/F1 9 Tf
+(Law and Jurisprudence. Imphal.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+xref
+0 105
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000465 00000 n 
+0000000535 00000 n 
+0000000610 00000 n 
+0000000746 00000 n 
+0000002198 00000 n 
+0000002334 00000 n 
+0000003853 00000 n 
+0000003990 00000 n 
+0000005360 00000 n 
+0000005498 00000 n 
+0000006619 00000 n 
+0000006757 00000 n 
+0000007793 00000 n 
+0000007931 00000 n 
+0000009315 00000 n 
+0000009453 00000 n 
+0000010789 00000 n 
+0000010927 00000 n 
+0000012210 00000 n 
+0000012348 00000 n 
+0000013344 00000 n 
+0000013482 00000 n 
+0000014335 00000 n 
+0000014473 00000 n 
+0000015805 00000 n 
+0000015943 00000 n 
+0000017278 00000 n 
+0000017416 00000 n 
+0000018609 00000 n 
+0000018747 00000 n 
+0000019770 00000 n 
+0000019908 00000 n 
+0000020685 00000 n 
+0000020823 00000 n 
+0000022101 00000 n 
+0000022239 00000 n 
+0000023487 00000 n 
+0000023625 00000 n 
+0000024709 00000 n 
+0000024847 00000 n 
+0000025858 00000 n 
+0000025996 00000 n 
+0000026843 00000 n 
+0000026981 00000 n 
+0000028459 00000 n 
+0000028597 00000 n 
+0000029855 00000 n 
+0000029993 00000 n 
+0000031171 00000 n 
+0000031309 00000 n 
+0000032110 00000 n 
+0000032248 00000 n 
+0000033091 00000 n 
+0000033229 00000 n 
+0000034719 00000 n 
+0000034857 00000 n 
+0000036187 00000 n 
+0000036325 00000 n 
+0000037411 00000 n 
+0000037549 00000 n 
+0000038393 00000 n 
+0000038531 00000 n 
+0000039425 00000 n 
+0000039563 00000 n 
+0000040941 00000 n 
+0000041079 00000 n 
+0000042274 00000 n 
+0000042412 00000 n 
+0000043610 00000 n 
+0000043748 00000 n 
+0000044857 00000 n 
+0000044995 00000 n 
+0000045838 00000 n 
+0000045976 00000 n 
+0000047316 00000 n 
+0000047454 00000 n 
+0000048655 00000 n 
+0000048793 00000 n 
+0000050007 00000 n 
+0000050145 00000 n 
+0000051171 00000 n 
+0000051309 00000 n 
+0000052173 00000 n 
+0000052311 00000 n 
+0000053816 00000 n 
+0000053954 00000 n 
+0000055292 00000 n 
+0000055430 00000 n 
+0000056632 00000 n 
+0000056770 00000 n 
+0000057745 00000 n 
+0000057883 00000 n 
+0000058644 00000 n 
+0000058782 00000 n 
+0000060238 00000 n 
+0000060376 00000 n 
+0000061631 00000 n 
+0000061770 00000 n 
+0000063085 00000 n 
+0000063225 00000 n 
+0000064349 00000 n 
+0000064489 00000 n 
+trailer
+<< /Size 105 /Root 1 0 R >>
+startxref
+65312
+%%EOF

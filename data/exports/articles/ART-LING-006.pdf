@@ -1,0 +1,313 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1437 >>
+stream
+BT
+50 780 Td
+/F2 15 Tf
+(TOWARDS MORPHOLOGICAL PROCESSING AND COMPUTATIONAL ANALYSIS OF THE TANGKHUL LANGUAGE) Tj
+0 -19 Td
+/F1 10 Tf
+(Authors: Richard Luikham, Dr. Ninghorla Zimik, Dr. Kh. Raju Singh) Tj
+0 -14 Td
+/F1 9 Tf
+(Journal/Venue: Computational Linguistics & Natural Language Processing Journal | Year: 2020) Tj
+0 -13 Td
+/F1 9 Tf
+(Subject: Computational Linguistics & NLP | Language: English & Tangkhul) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 11 Tf
+(ABSTRACT:) Tj
+0 -15 Td
+/F1 9 Tf
+(Building language technology for indigenous, low-resource languages) Tj
+0 -13 Td
+/F1 9 Tf
+(requires robust morphological analyzers and clean corpora. In this) Tj
+0 -13 Td
+/F1 9 Tf
+(paper, we develop a computational pipeline for the Tangkhul language) Tj
+0 -13 Td
+/F1 9 Tf
+(spoken in Manipur, India. Using a digitalized corpus of 150,000 words) Tj
+0 -13 Td
+/F1 9 Tf
+(extracted from curriculum textbooks and folklore anthologies, we analyze) Tj
+0 -13 Td
+/F1 9 Tf
+(token frequency distributions, morpheme boundaries, and syntactic) Tj
+0 -13 Td
+/F1 9 Tf
+(function words. We implement a rule-enhanced finite-state segmenter that) Tj
+0 -13 Td
+/F1 9 Tf
+(handles complex affixation, achieving an F1-score of 88.4% on out-of-) Tj
+0 -13 Td
+/F1 9 Tf
+(vocabulary root identification and lemmatization.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Keywords: NLP, Morphological Segmentation, Tangkhul, Tokenization, Low-Resource NLP, Corpus) Tj
+0 -14 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1277 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(1. LINGUISTIC BACKGROUND & DIGITAL RESOURCE GAP) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Despite possessing over 180,000 speakers and a century of published) Tj
+0 -13 Td
+/F1 9 Tf
+(literature in Roman script, Tangkhul remains severely under-represented) Tj
+0 -13 Td
+/F1 9 Tf
+(in modern computational language resources. Standard tools like spaCy) Tj
+0 -13 Td
+/F1 9 Tf
+(and NLTK fail on Tangkhul text due to agglutinative suffix chains and) Tj
+0 -13 Td
+/F1 9 Tf
+(unique function particles. We address this resource gap by compiling a) Tj
+0 -13 Td
+/F1 9 Tf
+(standardized tokenized corpus and establishing baseline segmentation) Tj
+0 -13 Td
+/F1 9 Tf
+(benchmarks.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * eina : instrumental / ablative / causal postposition) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Most frequent particle \(rel. freq: 4.8%\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * kala : coordinating conjunction \(and\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Sentence and clause connector \(rel. freq: 3.9%\).) Tj
+0 -12 Td
+/F2 9 Tf
+(  * hi / chi : proximal \('this'\) / distal \('that'\) demonstrative) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Definiteness marker \(rel. freq: 5.2%\).) Tj
+0 -12 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1033 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(2. AFFIX SEGMENTATION ARCHITECTURE) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(Tangkhul verbs inflect through sequential agglutination: [Prefix] + Root) Tj
+0 -13 Td
+/F1 9 Tf
+(+ [Aspect/Valency] + [Tense/Mood] + [Clause Linker]. For example, the) Tj
+0 -13 Td
+/F1 9 Tf
+(surface word 'i-thei-ser-ra-kaji' decomposes into root thei 'see',) Tj
+0 -13 Td
+/F1 9 Tf
+(completive -ser, future -ra, and quotative -kaji. Our finite-state) Tj
+0 -13 Td
+/F1 9 Tf
+(transducer segments these affix clusters systematically, resolving) Tj
+0 -13 Td
+/F1 9 Tf
+(morphophonemic boundary adjustments.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * sa-sak-kalu \(sa-sak-ka-lu\) : cause to make! \(imperative causative\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Root + Causative + Imperative.) Tj
+0 -12 Td
+/F2 9 Tf
+(  * ngashan-bing-wui \(ngashan-bing-wui\) : of the clans \(genitive plural\)) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Noun + Plural + Genitive.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 792 >>
+stream
+BT
+50 780 Td
+/F2 12 Tf
+(3. EVALUATION & NLP APPLICATIONS) Tj
+0 -16 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(We evaluated our morphological analyzer on a gold-standard annotated) Tj
+0 -13 Td
+/F1 9 Tf
+(test set of 2,500 sentences. The system achieved 91.2% precision and) Tj
+0 -13 Td
+/F1 9 Tf
+(85.8% recall on boundary detection. We demonstrate applications in) Tj
+0 -13 Td
+/F1 9 Tf
+(bilingual dictionary search, computer-assisted language learning \(CALL\),) Tj
+0 -13 Td
+/F1 9 Tf
+(and keyword extraction for digital heritage repositories.) Tj
+0 -13 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Tangkhul Linguistic Data & Analysis:) Tj
+0 -14 Td
+/F2 9 Tf
+(  * kasakakhui \(ka-sa-ka-khui\) : compilation, gathering together) Tj
+0 -13 Td
+/F1 8 Tf
+(    Analysis: Double nominalized compound.) Tj
+0 -12 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 842 >>
+stream
+BT
+50 780 Td
+/F2 13 Tf
+(REFERENCES & BIBLIOGRAPHY) Tj
+0 -17 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F1 9 Tf
+(* Jurafsky, Daniel & James H. Martin. 2020. Speech and Language) Tj
+0 -13 Td
+/F1 9 Tf
+(Processing \(3rd ed. draft\).) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Luikham, Richard, Ninghorla Zimik & Kh. Raju Singh. 2020. Towards the) Tj
+0 -13 Td
+/F1 9 Tf
+(Study of Morphological Processing of the Tangkhul Language.) Tj
+0 -13 Td
+/F1 9 Tf
+(arXiv:2009.07124.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 9 Tf
+(* Tangkhul Literature Society. 2021. Tangkhul Grammar and Composition.) Tj
+0 -13 Td
+/F1 9 Tf
+(Imphal: TLS Manipur.) Tj
+0 -13 Td
+/F1 6 Tf
+( ) Tj
+0 -10 Td
+/F1 8 Tf
+( ) Tj
+0 -12 Td
+/F2 10 Tf
+(Digital Archiving Notice:) Tj
+0 -14 Td
+/F1 9 Tf
+(Digitized and integrated into the Tangkhul Language Library Open Research Corpus.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000000292 00000 n 
+0000000428 00000 n 
+0000001917 00000 n 
+0000002053 00000 n 
+0000003382 00000 n 
+0000003519 00000 n 
+0000004605 00000 n 
+0000004743 00000 n 
+0000005587 00000 n 
+0000005725 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+6619
+%%EOF

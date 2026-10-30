@@ -1,0 +1,2179 @@
+{
+  "id": "BK-TRNS-002",
+  "resource_type": "books",
+  "title": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Matthew Kahona Kasa",
+  "alternate_titles": [
+    "The Gospel of St. Matthew in Tangkhul Naga (1907)",
+    "Ukhrul Tangkhul Gospel of Matthew"
+  ],
+  "authors": [
+    "William Pettigrew"
+  ],
+  "editors": [
+    "British and Foreign Bible Society"
+  ],
+  "publisher": "British and Foreign Bible Society, Calcutta / Baptist Mission Press",
+  "publication_year": 1907,
+  "year": 1907,
+  "edition": "First Edition",
+  "subject": "Biblical Literature & Vernacular Translation",
+  "educational_level": "Historical / Scriptural / Vernacular Literature",
+  "language": "Tangkhul",
+  "dialect": "Ukhrul",
+  "isbn": null,
+  "source_url": "https://archive.org/details/gospelofmatthewintangkhul1907",
+  "source_identifier": "BFBS-TKH-MATT-1907",
+  "catalogue_url": "https://archive.org/details/gospelofmatthewintangkhul1907",
+  "local_file_path": "data/raw/books/BK-TRNS-002_pettigrew_1907_matthew.txt",
+  "file_format": "txt",
+  "license": "Public Domain",
+  "permission_status": "public_domain",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "1907 landmark translation of the Gospel of Matthew into Ukhrul Tangkhul by Rev. William Pettigrew. Contains the complete Sermon on the Mount, the Lord's Prayer, and parables. Public Domain.",
+  "front_matter": {
+    "title_page": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Matthew Kahona Kasa (1907)",
+    "preface": "The Gospel of St. Matthew was translated into the Tangkhul Naga language in Ukhrul between 1905 and 1907. Printed at the Baptist Mission Press, Calcutta, under the auspices of the British and Foreign Bible Society. It provides foundational examples of early Tangkhul theological orthography, honorific expressions, and didactic prose.",
+    "table_of_contents": [
+      "Chapter 1: The Genealogy and Nativity of Christ (Matthew 1-2)",
+      "Chapter 2: The Lord's Prayer & The Sermon on the Mount (Matthew 6)",
+      "Chapter 3: Parables of the Kingdom of Heaven (Matthew 13)",
+      "Chapter 4: The Golden Rule & The Narrow Gate (Matthew 7)",
+      "Chapter 5: The Transfiguration & Healing (Matthew 17)",
+      "Chapter 6: The Great Commission & Epilogue (Matthew 28)"
+    ],
+    "imprint": "British and Foreign Bible Society, Calcutta / Baptist Mission Press, 1907."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Genealogy and Nativity of Christ (Matthew 1-2)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Lord's Prayer & The Sermon on the Mount (Matthew 6)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Parables of the Kingdom of Heaven (Matthew 13)",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Golden Rule & The Narrow Gate (Matthew 7)",
+      "page_start": 13,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 5,
+      "title": "The Transfiguration & Healing (Matthew 17)",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "chapter_number": 6,
+      "title": "The Great Commission & Epilogue (Matthew 28)",
+      "page_start": 19,
+      "page_end": 21
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Genealogy and Nativity of Christ (Matthew 1-2)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "The generational lineage and the arrival of the Wise Men in Bethlehem rendered in Tangkhul.",
+      "tangkhul_text": "Matthew 1:18-21: Jesu Christawui kaphari hithada leisai: Awui ava Maryli Joseph eina phankahai ngachaoda maleiranglakha, ana Kazing Mangazing Katharawui eina phasa kapang theitserie. Chitharan awui va Josephna mikumo mashungna kahana, ali kakhana phasa maleiranglakha khangareili zanglaga kashang-phā eina thang-khavai ning khami leisai. Kala ana naomayār akha sashapra, kala nawui eina ali JESU hoda kahang sara, kasakei Ana awui mikumoli athumwui yorshi eina huikhui sara.",
+      "english_translation": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.",
+      "vocabulary": [
+        {
+          "word": "kaphari",
+          "pos": "noun",
+          "meaning": "birth, nativity, genealogy",
+          "example": "Jesu Christawui kaphari."
+        },
+        {
+          "word": "phankahai",
+          "pos": "verb",
+          "meaning": "betrothed, pledged in marriage",
+          "example": "Joseph eina phankahai."
+        },
+        {
+          "word": "yorshi",
+          "pos": "noun",
+          "meaning": "sin, moral trespass, transgression",
+          "example": "Yorshi eina huikhui."
+        }
+      ],
+      "grammar_notes": [
+        "Postposition 'ngachaoda' indicates temporal precedence ('prior to', 'before').",
+        "Causative verbal suffix '-shuk' or future volitional '-sara' (huikhui sara = shall redeem/save)."
+      ],
+      "exercises": [
+        "Identify the Tangkhul verb corresponding to 'espoused / betrothed'.",
+        "Explain the morphological derivation of 'huikhui' (to rescue/save)."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Lord's Prayer & The Sermon on the Mount (Matthew 6)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The classic Lord's Prayer (Ithui Kaphungli Kasa Ava) and ethical teachings on prayer and fasting.",
+      "tangkhul_text": "Matthew 6:9-13: Chiwui vang nathumna hithada haikaphā salu: 'Ithui kazingramli kaphung Ava, Nawui ming katharaseru. Nawui ngashan kasakazing raseru. Nawui ningkazang kazingramli thada ngaleili ngasokalu. Ithuli tharan kashakhavai kachak zingsho zingsho ithuli milu. Kala ithumna ithuli kashikashili ngashankahaimi thada, ithuwui yorshili ngashankahaimilu. Kala ithuli kakhayangli makaso-alu, kashikashili huikhuilu; kasakei ngashankasakazing, kala pangashan, kala phashan chinawui kuppup thotli nawuisai. Amen.'",
+      "english_translation": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+      "vocabulary": [
+        {
+          "word": "zingsho",
+          "pos": "noun",
+          "meaning": "day, daily period",
+          "example": "Zingsho zingsho (day by day, daily)."
+        },
+        {
+          "word": "ningkazang",
+          "pos": "noun",
+          "meaning": "will, sovereign desire, intent",
+          "example": "Nawui ningkazang."
+        },
+        {
+          "word": "phashan",
+          "pos": "noun",
+          "meaning": "glory, radiant honor, majestic praise",
+          "example": "Phashan nawuisai."
+        }
+      ],
+      "grammar_notes": [
+        "Direct imperative suffix '-lu' on verbal stems: salu (do/pray!), milu (give!), huikhuilu (deliver!).",
+        "Prohibitive negative imperative: 'ma-...-alu' in 'makaso-alu' (do not lead!)."
+      ],
+      "exercises": [
+        "Recite the Lord's Prayer in Tangkhul from memory.",
+        "Compare the term 'pangashan' (power) with 'phashan' (glory)."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Parables of the Kingdom of Heaven (Matthew 13)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "The Parable of the Sower and the Pearl of Great Price in rural agricultural Tangkhul imagery.",
+      "tangkhul_text": "Matthew 13:3-8: 'Theilu, kachit kasana chitchikhavai vaye. Kala ana chitkhalangli, charakha shongzali tuksangie, kala vanaona rarlaga shaksangserie. Charakha ngalung thotli tuksangie, chithuili ngalei kachung malei; kala ngalei maleiranglakha khangateili phayokaserie. Kha zinga rar-daran chi meiratsangie, kala ngari maleimana chiwui vang kangsangserie. Charakha suh thotli tuksangie, kala suhna shoklaga pomsangserie. Kha charakha ngalei kaphāli tuksangie, kala theirarlaga akha eina thakharā, akha eina tharuk-magā, akha eina magā thotna.'",
+      "english_translation": "Behold, a sower went forth to sow; And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up: Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth: And when the sun was up, they were scorched; and because they had no root, they withered away. And some fell among thorns; and the thorns sprung up, and choked them: But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.",
+      "vocabulary": [
+        {
+          "word": "kachit",
+          "pos": "verb/noun",
+          "meaning": "to sow, seed casting",
+          "example": "Kachit kasana vaye."
+        },
+        {
+          "word": "shongza",
+          "pos": "noun",
+          "meaning": "roadside, pathway margin",
+          "example": "Shongzali tuksang."
+        },
+        {
+          "word": "suh",
+          "pos": "noun",
+          "meaning": "thorns, prickly briars",
+          "example": "Suhna pomsang."
+        }
+      ],
+      "grammar_notes": [
+        "Agricultural classifier constructions: 'charakha' (some, a portion).",
+        "Multiplication idioms: 'akha eina thakharā' (one producing a hundredfold)."
+      ],
+      "exercises": [
+        "How does the Tangkhul translation convey the four types of soil?",
+        "What verb root expresses 'to wither away'?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "The Golden Rule & The Narrow Gate (Matthew 7)",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "Practical ethical guidance: judging others, seeking wisdom, and the narrow gate to life.",
+      "tangkhul_text": "Matthew 7:7-14: 'Hanglu, chitharan nathumli misara; khayorlu, chitharan nathumna phāsara; shimkakhong kakorlu, chitharan nathumli hungkahang misara. Kachikathāna hangkakhui thapup khuiye; kala khayorkakhui thapup phāye; kala kakorkakhuili hungkahang miye. Khong kakatli zanglu; kasakei khong khangashir kala shongfa kakhangashir china kashili vashukana, kala zangkakhui bing kachungsai. Kha khong kakat kala shongfa kaphā china ringkaphali vashukana, kala chichi phākakhui bing kachamlakna.'",
+      "english_translation": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.",
+      "vocabulary": [
+        {
+          "word": "khayor",
+          "pos": "verb",
+          "meaning": "to search, seek diligently",
+          "example": "Khayorlu, phāsara."
+        },
+        {
+          "word": "kakor",
+          "pos": "verb",
+          "meaning": "to knock, rap on the gate",
+          "example": "Shimkakhong kakorlu."
+        },
+        {
+          "word": "shongfa",
+          "pos": "noun",
+          "meaning": "path, gateway road",
+          "example": "Shongfa kakat."
+        }
+      ],
+      "grammar_notes": [
+        "Correlative paired clauses: 'hanglu... misara' (ask... it shall be given).",
+        "Antonyms in Tangkhul ethics: 'kasham/kashi' (destruction) vs 'ringkapha' (life)."
+      ],
+      "exercises": [
+        "Translate Matthew 7:12 (The Golden Rule) into written Tangkhul.",
+        "Identify the imperative markers used in the exhortation."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "The Transfiguration & Healing (Matthew 17)",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Christ's transfiguration on the high mountain and the healing of the afflicted youth.",
+      "tangkhul_text": "Matthew 17:1-5: Zing kum tharuk ngaphalaga, Jesuna Peter, James, kala awui khanao Johnli kaphung kashang akhali athum kacham eina thukpingsangie. Kala athum mik-ngalemli Awui aphasa khangatei thotna: Awui mai zingkhamathān katha thada ngashangie, kala Awui kachon mangashan katha thada kachak-ngayei thotna. Kala theilu, athumli Moses kala Elijah tui-hanglakha theiserie.",
+      "english_translation": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. And, behold, there appeared unto them Moses and Elias talking with him.",
+      "vocabulary": [
+        {
+          "word": "kaphung",
+          "pos": "noun",
+          "meaning": "mountain, highland peak",
+          "example": "Kaphung kashang."
+        },
+        {
+          "word": "kachon",
+          "pos": "noun",
+          "meaning": "garment, woven robe, shawl",
+          "example": "Awui kachon mangashan."
+        },
+        {
+          "word": "kachak-ngayei",
+          "pos": "adj",
+          "meaning": "pure white, radiantly gleaming",
+          "example": "Kachak-ngayei thotna."
+        }
+      ],
+      "grammar_notes": [
+        "Temporal sequential conjunction: 'zing kum tharuk ngaphalaga' (after six days had passed).",
+        "Color and radiance descriptive compound: 'kachak-ngayei' (radiantly white)."
+      ],
+      "exercises": [
+        "Discuss the cultural significance of 'kaphung' in Tangkhul geography and cosmology.",
+        "Identify the names of the three disciples in Tangkhul orthography."
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "The Great Commission & Epilogue (Matthew 28)",
+      "page_start": 19,
+      "page_end": 21,
+      "summary": "The resurrection, triumph over death, and the universal apostolic commission.",
+      "tangkhul_text": "Matthew 28:18-20: Kala Jesuna athum ngalemli rarlaga hangmi: 'Kazingram kala ngaleili pangashan kuppup ili miserie. Chiwui vang nathumna valaga mikumo ngashan pupup-li tuitam kasalu, Avawui, Naomayārwui, kala Kazing Mangazing Katharawui ming eina athumli baptism milu. Kala I nathumli sakasashikahai ot pupupli shurkhavai tuitam kasalu: kala theilu, I thotwui kashikhavai thada zingsho pupup nathum eina li-leisara. Amen.'",
+      "english_translation": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+      "vocabulary": [
+        {
+          "word": "mikumo ngashan",
+          "pos": "noun",
+          "meaning": "all nations, diverse tribes, humankind",
+          "example": "Ngashan pupup."
+        },
+        {
+          "word": "tuitam",
+          "pos": "noun/verb",
+          "meaning": "teaching, instruction, discipleship",
+          "example": "Tuitam kasalu."
+        },
+        {
+          "word": "thotwui kashikhavai",
+          "pos": "noun",
+          "meaning": "end of the age, consummation of time",
+          "example": "Thotwui kashikhavai thada."
+        }
+      ],
+      "grammar_notes": [
+        "Universal quantifier 'pupup' attached to nominals (ngashan pupup = all nations; ot pupup = all commands).",
+        "Continuous presence promise marked by future auxiliary: 'li-leisara' (shall continuously abide)."
+      ],
+      "exercises": [
+        "Examine how Pettigrew rendered the Trinitarian formula into Tangkhul.",
+        "Translate the Great Commission into modern Standard Tangkhul."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Pa o Kamata Isha mai Jesu Christawui Kha",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "PA O KAMATA ISHA MAI JESU CHRISTAWUI KHARARCHAN: MATTHEW KAHONA KASA"
+        ],
+        [
+          "/F1",
+          11,
+          "The Gospel of St. Matthew in Tangkhul Naga (1907)"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: William Pettigrew"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: British and Foreign Bible Society, Calcutta / Baptist Mission Press"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 1907 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Pa o Kamata Isha mai Jesu Christawui Khararchan: Matthew Kahona Kasa -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: The Gospel of St. Matthew in Tangkhul Naga (1907)",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "The Gospel of St. Matthew was translated into the Tangkhul Naga language"
+        ],
+        [
+          "/F1",
+          10,
+          "in Ukhrul between 1905 and 1907. Printed at the Baptist Mission Press,"
+        ],
+        [
+          "/F1",
+          10,
+          "Calcutta, under the auspices of the British and Foreign Bible Society."
+        ],
+        [
+          "/F1",
+          10,
+          "It provides foundational examples of early Tangkhul theological"
+        ],
+        [
+          "/F1",
+          10,
+          "orthography, honorific expressions, and didactic prose."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: BFBS-TKH-MATT-1907"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "The Gospel of St. Matthew was translated into the Tangkhul Naga language in Ukhrul between 1905 and 1907. Printed at the...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Genealogy and Nativity of Christ (Matthew 1- ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: The Lord's Prayer & The Sermon on the Mount (Mat ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Parables of the Kingdom of Heaven (Matthew 13) ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: The Golden Rule & The Narrow Gate (Matthew 7) ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 5: The Transfiguration & Healing (Matthew 17) ..... Page 16"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 6: The Great Commission & Epilogue (Matthew 28) ..... Page 19"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 22"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 6.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Genealogy and Nativity of Christ (Matthew 1-2)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE GENEALOGY AND NATIVITY OF CHRIST (MATTHEW 1-2)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The generational lineage and the arrival of the Wise Men in Bethlehem rendered i..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 1:18-21: Jesu Christawui kaphari hithada leisai: Awui ava Maryli"
+        ],
+        [
+          "/F1",
+          9,
+          "Joseph eina phankahai ngachaoda maleiranglakha, ana Kazing Mangazing"
+        ],
+        [
+          "/F1",
+          9,
+          "Katharawui eina phasa kapang theitserie. Chitharan awui va Josephna"
+        ],
+        [
+          "/F1",
+          9,
+          "mikumo mashungna kahana, ali kakhana phasa maleiranglakha khangareili"
+        ],
+        [
+          "/F1",
+          9,
+          "zanglaga kashang-phā eina thang-khavai ning khami leisai. Kala ana"
+        ],
+        [
+          "/F1",
+          9,
+          "naomayār akha sashapra, kala nawui eina ali JESU hoda kahang sara,"
+        ],
+        [
+          "/F1",
+          9,
+          "kasakei Ana awui mikumoli athumwui yorshi eina huikhui sara."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Now the birth of Jesus Christ was on this wise: When as his mother Mary"
+        ],
+        [
+          "/F1",
+          9,
+          "was espoused to Joseph, before they came together, she was found with"
+        ],
+        [
+          "/F1",
+          9,
+          "child of the Holy Ghost. Then Joseph her husband, being a just man, and"
+        ],
+        [
+          "/F1",
+          9,
+          "not willing to make her a publick example, was minded to put her away"
+        ],
+        [
+          "/F1",
+          9,
+          "privily. And she shall bring forth a son, and thou shalt call his name"
+        ],
+        [
+          "/F1",
+          9,
+          "JESUS: for he shall save his people from their sins."
+        ]
+      ],
+      "tangkhul_content": "Matthew 1:18-21: Jesu Christawui kaphari hithada leisai: Awui ava Maryli Joseph eina phankahai ngachaoda maleiranglakha, ana Kazing Mangazing Katharawui eina phasa kapang theitserie. Chitharan awui va Josephna mikumo mashungna kahana, ali kakhana phasa maleiranglakha khangareili zanglaga kashang-phā eina thang-khavai ning khami leisai. Kala ana naomayār akha sashapra, kala nawui eina ali JESU hoda kahang sara, kasakei Ana awui mikumoli athumwui yorshi eina huikhui sara.",
+      "english_translation": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Genealogy and Nativity of Christ (Matthew 1-2)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kaphari (noun): birth, nativity, genealogy"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Jesu Christawui kaphari."
+        ],
+        [
+          "/F2",
+          9,
+          "  * phankahai (verb): betrothed, pledged in marriage"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Joseph eina phankahai."
+        ],
+        [
+          "/F2",
+          9,
+          "  * yorshi (noun): sin, moral trespass, transgression"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Yorshi eina huikhui."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Postposition 'ngachaoda' indicates temporal precedence ('prior to', 'before')."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Causative verbal suffix '-shuk' or future volitional '-sara' (huikhui sara = shall redeem/save)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the Tangkhul verb corresponding to 'espoused / betrothed'."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the morphological derivation of 'huikhui' (to rescue/save)."
+        ]
+      ],
+      "tangkhul_content": "kaphari: birth, nativity, genealogy; phankahai: betrothed, pledged in marriage; yorshi: sin, moral trespass, transgression",
+      "english_translation": "Postposition 'ngachaoda' indicates temporal precedence ('prior to', 'before').; Causative verbal suffix '-shuk' or future volitional '-sara' (huikhui sara = shall redeem/save).",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Genealogy and Nativity of Christ (Matthew 1-2)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "The Lord's Prayer & The Sermon on the Mount (Matthew 6)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: THE LORD'S PRAYER & THE SERMON ON THE MOUNT (MATTHEW 6)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The classic Lord's Prayer (Ithui Kaphungli Kasa Ava) and ethical teachings on pr..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 6:9-13: Chiwui vang nathumna hithada haikaphā salu: 'Ithui"
+        ],
+        [
+          "/F1",
+          9,
+          "kazingramli kaphung Ava, Nawui ming katharaseru. Nawui ngashan"
+        ],
+        [
+          "/F1",
+          9,
+          "kasakazing raseru. Nawui ningkazang kazingramli thada ngaleili"
+        ],
+        [
+          "/F1",
+          9,
+          "ngasokalu. Ithuli tharan kashakhavai kachak zingsho zingsho ithuli milu."
+        ],
+        [
+          "/F1",
+          9,
+          "Kala ithumna ithuli kashikashili ngashankahaimi thada, ithuwui yorshili"
+        ],
+        [
+          "/F1",
+          9,
+          "ngashankahaimilu. Kala ithuli kakhayangli makaso-alu, kashikashili"
+        ],
+        [
+          "/F1",
+          9,
+          "huikhuilu; kasakei ngashankasakazing, kala pangashan, kala phashan"
+        ],
+        [
+          "/F1",
+          9,
+          "chinawui kuppup thotli nawuisai. Amen.'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "After this manner therefore pray ye: Our Father which art in heaven,"
+        ],
+        [
+          "/F1",
+          9,
+          "Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it"
+        ],
+        [
+          "/F1",
+          9,
+          "is in heaven. Give us this day our daily bread. And forgive us our"
+        ],
+        [
+          "/F1",
+          9,
+          "debts, as we forgive our debtors. And lead us not into temptation, but"
+        ],
+        [
+          "/F1",
+          9,
+          "deliver us from evil: For thine is the kingdom, and the power, and the"
+        ],
+        [
+          "/F1",
+          9,
+          "glory, for ever. Amen."
+        ]
+      ],
+      "tangkhul_content": "Matthew 6:9-13: Chiwui vang nathumna hithada haikaphā salu: 'Ithui kazingramli kaphung Ava, Nawui ming katharaseru. Nawui ngashan kasakazing raseru. Nawui ningkazang kazingramli thada ngaleili ngasokalu. Ithuli tharan kashakhavai kachak zingsho zingsho ithuli milu. Kala ithumna ithuli kashikashili ngashankahaimi thada, ithuwui yorshili ngashankahaimilu. Kala ithuli kakhayangli makaso-alu, kashikashili huikhuilu; kasakei ngashankasakazing, kala pangashan, kala phashan chinawui kuppup thotli nawuisai. Amen.'",
+      "english_translation": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: The Lord's Prayer & The Sermon on the Mount (Matthew 6)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * zingsho (noun): day, daily period"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Zingsho zingsho (day by day, daily)."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ningkazang (noun): will, sovereign desire, intent"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Nawui ningkazang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * phashan (noun): glory, radiant honor, majestic praise"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Phashan nawuisai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Direct imperative suffix '-lu' on verbal stems: salu (do/pray!), milu (give!), huikhuilu (deliver!)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Prohibitive negative imperative: 'ma-...-alu' in 'makaso-alu' (do not lead!)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Recite the Lord's Prayer in Tangkhul from memory."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Compare the term 'pangashan' (power) with 'phashan' (glory)."
+        ]
+      ],
+      "tangkhul_content": "zingsho: day, daily period; ningkazang: will, sovereign desire, intent; phashan: glory, radiant honor, majestic praise",
+      "english_translation": "Direct imperative suffix '-lu' on verbal stems: salu (do/pray!), milu (give!), huikhuilu (deliver!).; Prohibitive negative imperative: 'ma-...-alu' in 'makaso-alu' (do not lead!).",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: The Lord's Prayer & The Sermon on the Mount (Matthew 6)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Parables of the Kingdom of Heaven (Matthew 13)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: PARABLES OF THE KINGDOM OF HEAVEN (MATTHEW 13)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The Parable of the Sower and the Pearl of Great Price in rural agricultural Tang..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 13:3-8: 'Theilu, kachit kasana chitchikhavai vaye. Kala ana"
+        ],
+        [
+          "/F1",
+          9,
+          "chitkhalangli, charakha shongzali tuksangie, kala vanaona rarlaga"
+        ],
+        [
+          "/F1",
+          9,
+          "shaksangserie. Charakha ngalung thotli tuksangie, chithuili ngalei"
+        ],
+        [
+          "/F1",
+          9,
+          "kachung malei; kala ngalei maleiranglakha khangateili phayokaserie. Kha"
+        ],
+        [
+          "/F1",
+          9,
+          "zinga rar-daran chi meiratsangie, kala ngari maleimana chiwui vang"
+        ],
+        [
+          "/F1",
+          9,
+          "kangsangserie. Charakha suh thotli tuksangie, kala suhna shoklaga"
+        ],
+        [
+          "/F1",
+          9,
+          "pomsangserie. Kha charakha ngalei kaphāli tuksangie, kala theirarlaga"
+        ],
+        [
+          "/F1",
+          9,
+          "akha eina thakharā, akha eina tharuk-magā, akha eina magā thotna.'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Behold, a sower went forth to sow; And when he sowed, some seeds fell by"
+        ],
+        [
+          "/F1",
+          9,
+          "the way side, and the fowls came and devoured them up: Some fell upon"
+        ],
+        [
+          "/F1",
+          9,
+          "stony places, where they had not much earth: and forthwith they sprung"
+        ],
+        [
+          "/F1",
+          9,
+          "up, because they had no deepness of earth: And when the sun was up, they"
+        ],
+        [
+          "/F1",
+          9,
+          "were scorched; and because they had no root, they withered away. And"
+        ],
+        [
+          "/F1",
+          9,
+          "some fell among thorns; and the thorns sprung up, and choked them: But"
+        ],
+        [
+          "/F1",
+          9,
+          "other fell into good ground, and brought forth fruit, some an"
+        ],
+        [
+          "/F1",
+          9,
+          "hundredfold, some sixtyfold, some thirtyfold."
+        ]
+      ],
+      "tangkhul_content": "Matthew 13:3-8: 'Theilu, kachit kasana chitchikhavai vaye. Kala ana chitkhalangli, charakha shongzali tuksangie, kala vanaona rarlaga shaksangserie. Charakha ngalung thotli tuksangie, chithuili ngalei kachung malei; kala ngalei maleiranglakha khangateili phayokaserie. Kha zinga rar-daran chi meiratsangie, kala ngari maleimana chiwui vang kangsangserie. Charakha suh thotli tuksangie, kala suhna shoklaga pomsangserie. Kha charakha ngalei kaphāli tuksangie, kala theirarlaga akha eina thakharā, akha eina tharuk-magā, akha eina magā thotna.'",
+      "english_translation": "Behold, a sower went forth to sow; And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up: Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth: And when the sun was up, they were scorched; and because they had no root, they withered away. And some fell among thorns; and the thorns sprung up, and choked them: But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Parables of the Kingdom of Heaven (Matthew 13)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachit (verb/noun): to sow, seed casting"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kachit kasana vaye."
+        ],
+        [
+          "/F2",
+          9,
+          "  * shongza (noun): roadside, pathway margin"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Shongzali tuksang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * suh (noun): thorns, prickly briars"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Suhna pomsang."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Agricultural classifier constructions: 'charakha' (some, a portion)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Multiplication idioms: 'akha eina thakharā' (one producing a hundredfold)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does the Tangkhul translation convey the four types of soil?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What verb root expresses 'to wither away'?"
+        ]
+      ],
+      "tangkhul_content": "kachit: to sow, seed casting; shongza: roadside, pathway margin; suh: thorns, prickly briars",
+      "english_translation": "Agricultural classifier constructions: 'charakha' (some, a portion).; Multiplication idioms: 'akha eina thakharā' (one producing a hundredfold).",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Parables of the Kingdom of Heaven (Matthew 13)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "The Golden Rule & The Narrow Gate (Matthew 7)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: THE GOLDEN RULE & THE NARROW GATE (MATTHEW 7)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Practical ethical guidance: judging others, seeking wisdom, and the narrow gate ..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 7:7-14: 'Hanglu, chitharan nathumli misara; khayorlu, chitharan"
+        ],
+        [
+          "/F1",
+          9,
+          "nathumna phāsara; shimkakhong kakorlu, chitharan nathumli hungkahang"
+        ],
+        [
+          "/F1",
+          9,
+          "misara. Kachikathāna hangkakhui thapup khuiye; kala khayorkakhui thapup"
+        ],
+        [
+          "/F1",
+          9,
+          "phāye; kala kakorkakhuili hungkahang miye. Khong kakatli zanglu; kasakei"
+        ],
+        [
+          "/F1",
+          9,
+          "khong khangashir kala shongfa kakhangashir china kashili vashukana, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "zangkakhui bing kachungsai. Kha khong kakat kala shongfa kaphā china"
+        ],
+        [
+          "/F1",
+          9,
+          "ringkaphali vashukana, kala chichi phākakhui bing kachamlakna.'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Ask, and it shall be given you; seek, and ye shall find; knock, and it"
+        ],
+        [
+          "/F1",
+          9,
+          "shall be opened unto you: For every one that asketh receiveth; and he"
+        ],
+        [
+          "/F1",
+          9,
+          "that seeketh findeth; and to him that knocketh it shall be opened. Enter"
+        ],
+        [
+          "/F1",
+          9,
+          "ye in at the strait gate: for wide is the gate, and broad is the way,"
+        ],
+        [
+          "/F1",
+          9,
+          "that leadeth to destruction, and many there be which go in thereat:"
+        ],
+        [
+          "/F1",
+          9,
+          "Because strait is the gate, and narrow is the way, which leadeth unto"
+        ],
+        [
+          "/F1",
+          9,
+          "life, and few there be that find it."
+        ]
+      ],
+      "tangkhul_content": "Matthew 7:7-14: 'Hanglu, chitharan nathumli misara; khayorlu, chitharan nathumna phāsara; shimkakhong kakorlu, chitharan nathumli hungkahang misara. Kachikathāna hangkakhui thapup khuiye; kala khayorkakhui thapup phāye; kala kakorkakhuili hungkahang miye. Khong kakatli zanglu; kasakei khong khangashir kala shongfa kakhangashir china kashili vashukana, kala zangkakhui bing kachungsai. Kha khong kakat kala shongfa kaphā china ringkaphali vashukana, kala chichi phākakhui bing kachamlakna.'",
+      "english_translation": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: The Golden Rule & The Narrow Gate (Matthew 7)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * khayor (verb): to search, seek diligently"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khayorlu, phāsara."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kakor (verb): to knock, rap on the gate"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Shimkakhong kakorlu."
+        ],
+        [
+          "/F2",
+          9,
+          "  * shongfa (noun): path, gateway road"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Shongfa kakat."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Correlative paired clauses: 'hanglu... misara' (ask... it shall be given)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Antonyms in Tangkhul ethics: 'kasham/kashi' (destruction) vs 'ringkapha' (life)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate Matthew 7:12 (The Golden Rule) into written Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the imperative markers used in the exhortation."
+        ]
+      ],
+      "tangkhul_content": "khayor: to search, seek diligently; kakor: to knock, rap on the gate; shongfa: path, gateway road",
+      "english_translation": "Correlative paired clauses: 'hanglu... misara' (ask... it shall be given).; Antonyms in Tangkhul ethics: 'kasham/kashi' (destruction) vs 'ringkapha' (life).",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: The Golden Rule & The Narrow Gate (Matthew 7)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter",
+      "header": "CHAPTER 5",
+      "title": "The Transfiguration & Healing (Matthew 17)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 5: THE TRANSFIGURATION & HEALING (MATTHEW 17)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Christ's transfiguration on the high mountain and the healing of the afflicted y..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 17:1-5: Zing kum tharuk ngaphalaga, Jesuna Peter, James, kala"
+        ],
+        [
+          "/F1",
+          9,
+          "awui khanao Johnli kaphung kashang akhali athum kacham eina"
+        ],
+        [
+          "/F1",
+          9,
+          "thukpingsangie. Kala athum mik-ngalemli Awui aphasa khangatei thotna:"
+        ],
+        [
+          "/F1",
+          9,
+          "Awui mai zingkhamathān katha thada ngashangie, kala Awui kachon"
+        ],
+        [
+          "/F1",
+          9,
+          "mangashan katha thada kachak-ngayei thotna. Kala theilu, athumli Moses"
+        ],
+        [
+          "/F1",
+          9,
+          "kala Elijah tui-hanglakha theiserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "And after six days Jesus taketh Peter, James, and John his brother, and"
+        ],
+        [
+          "/F1",
+          9,
+          "bringeth them up into an high mountain apart, And was transfigured"
+        ],
+        [
+          "/F1",
+          9,
+          "before them: and his face did shine as the sun, and his raiment was"
+        ],
+        [
+          "/F1",
+          9,
+          "white as the light. And, behold, there appeared unto them Moses and"
+        ],
+        [
+          "/F1",
+          9,
+          "Elias talking with him."
+        ]
+      ],
+      "tangkhul_content": "Matthew 17:1-5: Zing kum tharuk ngaphalaga, Jesuna Peter, James, kala awui khanao Johnli kaphung kashang akhali athum kacham eina thukpingsangie. Kala athum mik-ngalemli Awui aphasa khangatei thotna: Awui mai zingkhamathān katha thada ngashangie, kala Awui kachon mangashan katha thada kachak-ngayei thotna. Kala theilu, athumli Moses kala Elijah tui-hanglakha theiserie.",
+      "english_translation": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. And, behold, there appeared unto them Moses and Elias talking with him.",
+      "notes": "Primary text of Chapter 5."
+    },
+    {
+      "page_number": 17,
+      "page_type": "study_page",
+      "header": "CH 5 STUDY",
+      "title": "Study Notes: The Transfiguration & Healing (Matthew 17)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kaphung (noun): mountain, highland peak"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kaphung kashang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachon (noun): garment, woven robe, shawl"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awui kachon mangashan."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachak-ngayei (adj): pure white, radiantly gleaming"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kachak-ngayei thotna."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Temporal sequential conjunction: 'zing kum tharuk ngaphalaga' (after six days had passed)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Color and radiance descriptive compound: 'kachak-ngayei' (radiantly white)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Discuss the cultural significance of 'kaphung' in Tangkhul geography and cosmology."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the names of the three disciples in Tangkhul orthography."
+        ]
+      ],
+      "tangkhul_content": "kaphung: mountain, highland peak; kachon: garment, woven robe, shawl; kachak-ngayei: pure white, radiantly gleaming",
+      "english_translation": "Temporal sequential conjunction: 'zing kum tharuk ngaphalaga' (after six days had passed).; Color and radiance descriptive compound: 'kachak-ngayei' (radiantly white).",
+      "notes": "Linguistic notes and exercises for Chapter 5."
+    },
+    {
+      "page_number": 18,
+      "page_type": "commentary",
+      "header": "CH 5 COMMENTARY",
+      "title": "Commentary: The Transfiguration & Healing (Matthew 17)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 5."
+    },
+    {
+      "page_number": 19,
+      "page_type": "chapter",
+      "header": "CHAPTER 6",
+      "title": "The Great Commission & Epilogue (Matthew 28)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 6: THE GREAT COMMISSION & EPILOGUE (MATTHEW 28)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The resurrection, triumph over death, and the universal apostolic commission...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Matthew 28:18-20: Kala Jesuna athum ngalemli rarlaga hangmi: 'Kazingram"
+        ],
+        [
+          "/F1",
+          9,
+          "kala ngaleili pangashan kuppup ili miserie. Chiwui vang nathumna valaga"
+        ],
+        [
+          "/F1",
+          9,
+          "mikumo ngashan pupup-li tuitam kasalu, Avawui, Naomayārwui, kala Kazing"
+        ],
+        [
+          "/F1",
+          9,
+          "Mangazing Katharawui ming eina athumli baptism milu. Kala I nathumli"
+        ],
+        [
+          "/F1",
+          9,
+          "sakasashikahai ot pupupli shurkhavai tuitam kasalu: kala theilu, I"
+        ],
+        [
+          "/F1",
+          9,
+          "thotwui kashikhavai thada zingsho pupup nathum eina li-leisara. Amen.'"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "And Jesus came and spake unto them, saying, All power is given unto me"
+        ],
+        [
+          "/F1",
+          9,
+          "in heaven and in earth. Go ye therefore, and teach all nations,"
+        ],
+        [
+          "/F1",
+          9,
+          "baptizing them in the name of the Father, and of the Son, and of the"
+        ],
+        [
+          "/F1",
+          9,
+          "Holy Ghost: Teaching them to observe all things whatsoever I have"
+        ],
+        [
+          "/F1",
+          9,
+          "commanded you: and, lo, I am with you alway, even unto the end of the"
+        ],
+        [
+          "/F1",
+          9,
+          "world. Amen."
+        ]
+      ],
+      "tangkhul_content": "Matthew 28:18-20: Kala Jesuna athum ngalemli rarlaga hangmi: 'Kazingram kala ngaleili pangashan kuppup ili miserie. Chiwui vang nathumna valaga mikumo ngashan pupup-li tuitam kasalu, Avawui, Naomayārwui, kala Kazing Mangazing Katharawui ming eina athumli baptism milu. Kala I nathumli sakasashikahai ot pupupli shurkhavai tuitam kasalu: kala theilu, I thotwui kashikhavai thada zingsho pupup nathum eina li-leisara. Amen.'",
+      "english_translation": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+      "notes": "Primary text of Chapter 6."
+    },
+    {
+      "page_number": 20,
+      "page_type": "study_page",
+      "header": "CH 6 STUDY",
+      "title": "Study Notes: The Great Commission & Epilogue (Matthew 28)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * mikumo ngashan (noun): all nations, diverse tribes, humankind"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngashan pupup."
+        ],
+        [
+          "/F2",
+          9,
+          "  * tuitam (noun/verb): teaching, instruction, discipleship"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Tuitam kasalu."
+        ],
+        [
+          "/F2",
+          9,
+          "  * thotwui kashikhavai (noun): end of the age, consummation of time"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Thotwui kashikhavai thada."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Universal quantifier 'pupup' attached to nominals (ngashan pupup = all nations; ot pupup = all commands)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Continuous presence promise marked by future auxiliary: 'li-leisara' (shall continuously abide)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Examine how Pettigrew rendered the Trinitarian formula into Tangkhul."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate the Great Commission into modern Standard Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "mikumo ngashan: all nations, diverse tribes, humankind; tuitam: teaching, instruction, discipleship; thotwui kashikhavai: end of the age, consummation of time",
+      "english_translation": "Universal quantifier 'pupup' attached to nominals (ngashan pupup = all nations; ot pupup = all commands).; Continuous presence promise marked by future auxiliary: 'li-leisara' (shall continuously abide).",
+      "notes": "Linguistic notes and exercises for Chapter 6."
+    },
+    {
+      "page_number": 21,
+      "page_type": "commentary",
+      "header": "CH 6 COMMENTARY",
+      "title": "Commentary: The Great Commission & Epilogue (Matthew 28)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 6 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 6."
+    },
+    {
+      "page_number": 22,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kaphari -- birth, nativity, genealogy"
+        ],
+        [
+          "/F1",
+          9,
+          "  * phankahai -- betrothed, pledged in marriage"
+        ],
+        [
+          "/F1",
+          9,
+          "  * yorshi -- sin, moral trespass, transgression"
+        ],
+        [
+          "/F1",
+          9,
+          "  * zingsho -- day, daily period"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ningkazang -- will, sovereign desire, intent"
+        ],
+        [
+          "/F1",
+          9,
+          "  * phashan -- glory, radiant honor, majestic praise"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kachit -- to sow, seed casting"
+        ],
+        [
+          "/F1",
+          9,
+          "  * shongza -- roadside, pathway margin"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "kaphari",
+        "pos": "noun",
+        "meaning": "birth, nativity, genealogy",
+        "example": "Jesu Christawui kaphari."
+      },
+      {
+        "word": "phankahai",
+        "pos": "verb",
+        "meaning": "betrothed, pledged in marriage",
+        "example": "Joseph eina phankahai."
+      },
+      {
+        "word": "yorshi",
+        "pos": "noun",
+        "meaning": "sin, moral trespass, transgression",
+        "example": "Yorshi eina huikhui."
+      },
+      {
+        "word": "zingsho",
+        "pos": "noun",
+        "meaning": "day, daily period",
+        "example": "Zingsho zingsho (day by day, daily)."
+      },
+      {
+        "word": "ningkazang",
+        "pos": "noun",
+        "meaning": "will, sovereign desire, intent",
+        "example": "Nawui ningkazang."
+      },
+      {
+        "word": "phashan",
+        "pos": "noun",
+        "meaning": "glory, radiant honor, majestic praise",
+        "example": "Phashan nawuisai."
+      },
+      {
+        "word": "kachit",
+        "pos": "verb/noun",
+        "meaning": "to sow, seed casting",
+        "example": "Kachit kasana vaye."
+      },
+      {
+        "word": "shongza",
+        "pos": "noun",
+        "meaning": "roadside, pathway margin",
+        "example": "Shongzali tuksang."
+      },
+      {
+        "word": "suh",
+        "pos": "noun",
+        "meaning": "thorns, prickly briars",
+        "example": "Suhna pomsang."
+      },
+      {
+        "word": "khayor",
+        "pos": "verb",
+        "meaning": "to search, seek diligently",
+        "example": "Khayorlu, phāsara."
+      },
+      {
+        "word": "kakor",
+        "pos": "verb",
+        "meaning": "to knock, rap on the gate",
+        "example": "Shimkakhong kakorlu."
+      },
+      {
+        "word": "shongfa",
+        "pos": "noun",
+        "meaning": "path, gateway road",
+        "example": "Shongfa kakat."
+      },
+      {
+        "word": "kaphung",
+        "pos": "noun",
+        "meaning": "mountain, highland peak",
+        "example": "Kaphung kashang."
+      },
+      {
+        "word": "kachon",
+        "pos": "noun",
+        "meaning": "garment, woven robe, shawl",
+        "example": "Awui kachon mangashan."
+      },
+      {
+        "word": "kachak-ngayei",
+        "pos": "adj",
+        "meaning": "pure white, radiantly gleaming",
+        "example": "Kachak-ngayei thotna."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 22,
+  "total_chapters": 6,
+  "total_words": 813,
+  "excerpts": [
+    "Matthew 1:18-21: Jesu Christawui kaphari hithada leisai: Awui ava Maryli Joseph eina phankahai ngachaoda maleiranglakha,...",
+    "Matthew 6:9-13: Chiwui vang nathumna hithada haikaphā salu: 'Ithui kazingramli kaphung Ava, Nawui ming katharaseru. Nawu...",
+    "Matthew 13:3-8: 'Theilu, kachit kasana chitchikhavai vaye. Kala ana chitkhalangli, charakha shongzali tuksangie, kala va...",
+    "Matthew 7:7-14: 'Hanglu, chitharan nathumli misara; khayorlu, chitharan nathumna phāsara; shimkakhong kakorlu, chitharan...",
+    "Matthew 17:1-5: Zing kum tharuk ngaphalaga, Jesuna Peter, James, kala awui khanao Johnli kaphung kashang akhali athum ka...",
+    "Matthew 28:18-20: Kala Jesuna athum ngalemli rarlaga hangmi: 'Kazingram kala ngaleili pangashan kuppup ili miserie. Chiw..."
+  ]
+}

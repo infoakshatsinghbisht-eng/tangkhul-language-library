@@ -141,19 +141,23 @@ def search_book_content(query: str, book_id: str | None = None) -> list[dict[str
         for page in b.get("pages", []):
             pnum = page.get("page_number")
             ptype = page.get("page_type")
+            page_text_lines = [
+                l[2] if isinstance(l, (list, tuple)) and len(l) == 3 else str(l)
+                for l in page.get("lines", [])
+            ]
             content_str = (
                 f"{page.get('tangkhul_content', '')} "
                 f"{page.get('english_translation', '')} "
-                f"{' '.join(page.get('lines', []))}"
+                f"{' '.join(page_text_lines)}"
             )
             content_norm = normalize_unicode(content_str).lower()
 
             if q_norm in content_norm:
                 # Find matching line or snippet
                 matching_snippet = ""
-                for line in page.get("lines", []):
-                    if q_norm in normalize_unicode(line).lower():
-                        matching_snippet = line
+                for line_text in page_text_lines:
+                    if q_norm in normalize_unicode(line_text).lower():
+                        matching_snippet = line_text
                         break
                 if not matching_snippet:
                     matching_snippet = page.get("tangkhul_content", "")[:120]

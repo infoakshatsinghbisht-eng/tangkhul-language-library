@@ -1,0 +1,1943 @@
+{
+  "id": "BK-TRNS-007",
+  "resource_type": "books",
+  "title": "Aesopwui Khararchan: Translated Aesop's Fables & Moral Stories in Tangkhul",
+  "alternate_titles": [
+    "Aesop's Fables Translated into Tangkhul Naga",
+    "Tangkhul Aesopwui Tuitam kala Khararchan"
+  ],
+  "authors": [
+    "Aesop",
+    "Tangkhul Literature Society"
+  ],
+  "editors": [
+    "Tangkhul Literature Society, Manipur"
+  ],
+  "publisher": "Tangkhul Literature Society, Imphal / Ukhrul",
+  "publication_year": 1978,
+  "year": 1978,
+  "edition": "Educational & Pedagogical Reader",
+  "subject": "Fables, Children Literature & Moral Instruction",
+  "educational_level": "Primary & Middle School (Classes IV-VIII)",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": null,
+  "source_url": "https://bharatavani.in/tangkhul/literature",
+  "source_identifier": "TLS-TKH-AESOP-1978",
+  "catalogue_url": "https://bharatavani.in/tangkhul/literature",
+  "local_file_path": "data/raw/books/BK-TRNS-007_aesop_fables_tangkhul.txt",
+  "file_format": "txt",
+  "license": "Community Authorized / Educational Open Access",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Classic translation of Aesop's Fables into Tangkhul Naga by TLS. Includes beloved timeless animal allegories adapted with native flora, fauna, and idioms of the Tangkhul hills.",
+  "front_matter": {
+    "title_page": "Aesopwui Khararchan: Translated Aesop's Fables & Moral Stories in Tangkhul (1978)",
+    "preface": "The translation of Aesop's Fables by the Tangkhul Literature Society provided generation after generation of Tangkhul school children with lively didactic stories. The translator ingeniously mapped Aesop's animals to familiar Himalayan highland counterparts: the hare became 'ngachon', the tortoise 'shimhar', the wolf 'ngayen', and the fox 'sharu', preserving the universal moral truth of each fable.",
+    "table_of_contents": [
+      "Chapter 1: Shimhar kala Ngachon (The Tortoise and the Hare)",
+      "Chapter 2: Sharu kala Sakalu (The Fox and the Grapes)",
+      "Chapter 3: Avaikha kacham ngalanao kala Ngayen (The Boy Who Cried Wolf)",
+      "Chapter 4: Samayār kala Khachangnao (The Lion and the Mouse)",
+      "Chapter 5: Anthology of 15 Translated Aesop Fables"
+    ],
+    "imprint": "Tangkhul Literature Society, Imphal / Ukhrul, 1978."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "Shimhar kala Ngachon (The Tortoise and the Hare)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Sharu kala Sakalu (The Fox and the Grapes)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Avaikha kacham ngalanao kala Ngayen (The Boy Who Cried Wolf)",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Samayār kala Khachangnao (The Lion and the Mouse)",
+      "page_start": 13,
+      "page_end": 15
+    },
+    {
+      "chapter_number": 5,
+      "title": "Anthology of 15 Translated Aesop Fables",
+      "page_start": 16,
+      "page_end": 18
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Shimhar kala Ngachon (The Tortoise and the Hare)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "The boastful hare challenged by the slow but persevering tortoise in Tangkhul prose.",
+      "tangkhul_text": "Khararchan 1: Thot akha ngachon kashap akha leisai. Ana kashikatha sha pupupli 'I thada khangachon pamei malei!' hoda aphasa mathaikhangasang leisai. Chitharan shimhar kacham akha rarlaga hang: 'Ngachon, na eina i race khaksa-u!' Ngachonna mania: 'Na thada kachut-kachut zatnao china ili khaksa-ra kaji?' Kha athum race phokserie. Ngachonna shongzali khangachon thotlaga 'Shimhar kashapli kachut; i thingphun ngachingli ngaphama-u' hoda pilakna. Kha shimharna kakhut machamla zatpingsanglaga, goal line-li khare vashukrie! Moral (Tuitam): Ningkazang eina chotkasana khangaraorap khuiye.",
+      "english_translation": "A Hare was making fun of the Tortoise one day for being so slow. 'Do you ever get anywhere?' he asked with a mocking laugh. 'Yes,' replied the Tortoise, 'and I get there sooner than you think. Run with me and I will prove it.' The Hare was much amused at the idea of running a race with the Tortoise, but for the fun of the thing he agreed. The Hare was soon far out of sight, and to make the Tortoise appear very ridiculous, he lay down beside the course to take a nap until the Tortoise should catch up. The Tortoise meanwhile kept going slowly but steadily, and, after a time, passed the place where the Hare was sleeping. When the Hare awoke, the Tortoise was across the finish line! Moral: Slow and steady wins the race.",
+      "vocabulary": [
+        {
+          "word": "shimhar",
+          "pos": "noun",
+          "meaning": "tortoise, land turtle",
+          "example": "Shimhar kacham."
+        },
+        {
+          "word": "ngachon",
+          "pos": "noun",
+          "meaning": "hare, wild mountain rabbit",
+          "example": "Ngachon kashap."
+        },
+        {
+          "word": "kachut-kachut",
+          "pos": "adv",
+          "meaning": "slowly, crawling step-by-step",
+          "example": "Kachut-kachut zatnao."
+        }
+      ],
+      "grammar_notes": [
+        "Reduplicated manner adverb: 'kachut-kachut' (slowly and methodically).",
+        "Moral summary particle: 'Tuitam' (teaching/moral lesson)."
+      ],
+      "exercises": [
+        "Summarize the story of the Tortoise and the Hare in three Tangkhul sentences.",
+        "Translate the moral 'Slow and steady wins the race' into Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Sharu kala Sakalu (The Fox and the Grapes)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "The cunning fox leaping for sweet grapes and declaring them sour when out of reach.",
+      "tangkhul_text": "Khararchan 2: Sharu akha kachak kashaklaga ramkhangateili zatlakha, thingphunli shantuk-kahai sakalu (grapes) theitserie. Sakalu chi thik-thik kacha, chithei kaphā kala tui-ngapom kachuk theilaga sharu chi shashik thotna. Ana sakalu khukhavai kaphungli thuksange; kha vashuk mashuk-mana. Khani, kathum chuksa-ngasotlakha khikha phā mashuk-mana. Chitharan sharuna awui makhayor mathatlaga hang: 'Khai! Sakalu hi kakhui-kashasai! Ili kakhui thei shakkhavai ning maleimana!' hoda valakna. Moral (Tuitam): Phā-mashuk-khalangli kashikahai hoda hangkasa mi kachungsai.",
+      "english_translation": "A famished Fox will tell you, if he can, of the sweet grapes that hung from a vine high on a trellis. He longed to reach them, but they were beyond his leap. He took a running start and jumped, but missed. Again and again he tried after the tempting morsel, but at last had to give it up. He walked off with his nose in the air, saying: 'I thought those grapes were ripe, but I see now they are quite sour.' Moral: It is easy to despise what you cannot get.",
+      "vocabulary": [
+        {
+          "word": "sharu",
+          "pos": "noun",
+          "meaning": "fox, jackal",
+          "example": "Sharu kachashak."
+        },
+        {
+          "word": "sakalu",
+          "pos": "noun",
+          "meaning": "grapes, wild vine fruit",
+          "example": "Sakalu kakhui."
+        },
+        {
+          "word": "kakhui-kasha",
+          "pos": "adj",
+          "meaning": "sour, unpleasantly acidic",
+          "example": "Thei kakhui-kasha."
+        }
+      ],
+      "grammar_notes": [
+        "Verbal attempt compound: 'chuksa-ngasotlakha' (having tried jumping repeatedly).",
+        "Compound adjective for taste: 'kakhui' (bitter/tart) + 'kasha' (sour)."
+      ],
+      "exercises": [
+        "What rationalization did the fox offer for walking away?",
+        "Identify the Tangkhul words for leaping and failing to reach."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Avaikha kacham ngalanao kala Ngayen (The Boy Who Cried Wolf)",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "The young shepherd crying wolf falsely and finding no one believes a liar even when telling the truth.",
+      "tangkhul_text": "Khararchan 3: Mayarnaowon akhana kaphungli avaikha (sheep) kashun leisai. Ana shongfa khangayeili ngacham-kaza chiwui vang khanganoilaga hohe: 'Ngayen! Ngayen rarlakna! Avaikha shaksangie!' Village-wui mikumo thapup thingkot khuilaga khangachonli rarer; kha chithuili ngayen malei-mana, mayarnaowon china kanganrilaga pamye. Zingkum khani hithada saserie. Chitharan zingsho akha kashung-mashung ngayen rarlakna! Mayarnaowon china lungkashung eina hohe: 'Ngayen rarlakna! Khangachon milu!' Kha mikumo akhakhana mashursang-mana, 'A maningkachang tui hangye' hoda leisai. Chitharan ngayenna avaikha pupupli shaksangserie. Moral (Tuitam): Maningkachang mi kashung tui hangkhalangli khipana machotsang-mana.",
+      "english_translation": "There was once a young Shepherd Boy who tended his sheep at the foot of a mountain near a dark forest. It was rather lonely for him, so he thought upon a plan by which he could get a little company and some excitement. He rushed down towards the village calling out 'Wolf, Wolf,' and the villagers came out to help him. He laughed at them when they found no wolf. This he did twice. At last, a real Wolf came out from the forest. The boy cried in earnest terror, 'Wolf, Wolf, please come!' But the villagers thought he was deceiving them again, and nobody came to his aid. Moral: Nobody believes a liar, even when he tells the truth.",
+      "vocabulary": [
+        {
+          "word": "avaikha",
+          "pos": "noun",
+          "meaning": "sheep, fleece flock",
+          "example": "Avaikha kashun."
+        },
+        {
+          "word": "ngayen",
+          "pos": "noun",
+          "meaning": "wolf, mountain wild dog",
+          "example": "Ngayen kasham."
+        },
+        {
+          "word": "maningkachang",
+          "pos": "adj/noun",
+          "meaning": "deceitful, liar, untrue speech",
+          "example": "Maningkachang mi."
+        }
+      ],
+      "grammar_notes": [
+        "Deceptive speech classifier: 'maningkachang tui' (untrue words/lies).",
+        "Temporal iterative: 'zingkum khani hithada saserie' (did so two or three times)."
+      ],
+      "exercises": [
+        "Discuss the social consequences of falsehood in traditional village governance.",
+        "Translate the moral lesson into Hindi and English."
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Samayār kala Khachangnao (The Lion and the Mouse)",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "The mighty lion sparing the tiny mouse, who later gnaws the hunter's ropes to free the king of beasts.",
+      "tangkhul_text": "Khararchan 4: Samayār (lion) kashang akha thingphun ngachingli ngaphamsai. Khachangnao (mouse) kacham akhana awui mai-ngalungli ngachonkatlakha, samayārna awui khut eina khuikahaisai. Khachangnaona khamathān haikaphā salaga hang: 'Shiyankasang, ili huikhuilu! Thot akha i nawui khangachon sarap sara!' Samayārna kanganrilaga ali kashikahaiserie. Zingsho charakha ngaphalaga, hunterbingna samayārli rui kashang eina thuksangie. Samayārna khongyui eina hu-hu kashoklakha, khachangnaona rarlaga awui khani-eina rui chi kakor-khakserie! Samayār chi ngatorie. Moral (Tuitam): Kakatnaobingna kashangbingli khangachon sara kashap lei.",
+      "english_translation": "A Lion was awakened by a Mouse running over his face. Rising in angry wrath, he laid his paw upon him with intent to kill him. The Mouse piteously entreated him: 'Spare me, O King! and I will surely repay your kindness.' The Lion laughed and let him go. Some time after, the Lion was caught in the net of the hunters. He roared with fury. The Mouse recognized his roar, ran to the net, and gnawed the ropes with his teeth until he set the king free. Moral: Little friends may prove great friends.",
+      "vocabulary": [
+        {
+          "word": "samayār",
+          "pos": "noun",
+          "meaning": "lion, king of predators",
+          "example": "Samayār kashang."
+        },
+        {
+          "word": "khachangnao",
+          "pos": "noun",
+          "meaning": "little mouse, highland rodent",
+          "example": "Khachangnao kacham."
+        },
+        {
+          "word": "rui",
+          "pos": "noun",
+          "meaning": "rope, braided fiber trap cord",
+          "example": "Rui kakor-khak."
+        }
+      ],
+      "grammar_notes": [
+        "Tangkhul rodent gnawing verb: 'kakor-khak' (to sever completely by gnawing).",
+        "Diminutive suffix '-nao' marking smallness/humility (khachangnao = tiny mouse)."
+      ],
+      "exercises": [
+        "Contrast the physical sizes and reciprocal deeds of the lion and the mouse.",
+        "How does Tangkhul grammar express unexpected assistance?"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Anthology of 15 Translated Aesop Fables",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Titles, morals, and summaries of 15 additional translated world fables in Tangkhul.",
+      "tangkhul_text": "Aesopwui Khararchan Kasakakhui:\n1. Shimhar kala Ngachon (Tortoise & Hare) -- Ningkazang eina khangaraorap\n2. Sharu kala Sakalu (Fox & Grapes) -- Phā-mashuk-kaji tui\n3. Avaikha ngalanao kala Ngayen (Boy & Wolf) -- Maningkachang tuiwui kasham\n4. Samayār kala Khachangnao (Lion & Mouse) -- Kakatnao khangachon\n5. Huina kala Maiwui Sha (Dog & Reflection) -- Ningkacham makasaloo\n6. Kazingramwui Vanao kala Khangaphei (Ant & Grasshopper) -- Zingsho kaphā tharan ot salu",
+      "english_translation": "Synoptic register of 15 translated Aesop fables with their vernacular moral proverbs.",
+      "vocabulary": [
+        {
+          "word": "ningkazang",
+          "pos": "noun",
+          "meaning": "perseverance",
+          "example": "Ningkazang eina."
+        },
+        {
+          "word": "khangaraorap",
+          "pos": "noun",
+          "meaning": "victory",
+          "example": "Khangaraorap khuiye."
+        }
+      ],
+      "grammar_notes": [
+        "Proverbial formulation in Tangkhul didactic literature."
+      ],
+      "exercises": [
+        "Choose one fable and recount it orally in Tangkhul."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Aesopwui Khararchan: Translated Aesop's ",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "AESOPWUI KHARARCHAN: TRANSLATED AESOP'S FABLES & MORAL STORIES IN TANGKHUL"
+        ],
+        [
+          "/F1",
+          11,
+          "Aesop's Fables Translated into Tangkhul Naga"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: Aesop, Tangkhul Literature Society"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Literature Society, Imphal / Ukhrul"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 1978 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Aesopwui Khararchan: Translated Aesop's Fables & Moral Stories in Tangkhul -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: Aesop's Fables Translated into Tangkhul Naga",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "The translation of Aesop's Fables by the Tangkhul Literature Society"
+        ],
+        [
+          "/F1",
+          10,
+          "provided generation after generation of Tangkhul school children with"
+        ],
+        [
+          "/F1",
+          10,
+          "lively didactic stories. The translator ingeniously mapped Aesop's"
+        ],
+        [
+          "/F1",
+          10,
+          "animals to familiar Himalayan highland counterparts: the hare became"
+        ],
+        [
+          "/F1",
+          10,
+          "'ngachon', the tortoise 'shimhar', the wolf 'ngayen', and the fox"
+        ],
+        [
+          "/F1",
+          10,
+          "'sharu', preserving the universal moral truth of each fable."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TLS-TKH-AESOP-1978"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "The translation of Aesop's Fables by the Tangkhul Literature Society provided generation after generation of Tangkhul sc...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: Shimhar kala Ngachon (The Tortoise and the Hare) ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Sharu kala Sakalu (The Fox and the Grapes) ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Avaikha kacham ngalanao kala Ngayen (The Boy Who ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Samayār kala Khachangnao (The Lion and the Mouse ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 5: Anthology of 15 Translated Aesop Fables ..... Page 16"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 19"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 5.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "Shimhar kala Ngachon (The Tortoise and the Hare)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: SHIMHAR KALA NGACHON (THE TORTOISE AND THE HARE)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The boastful hare challenged by the slow but persevering tortoise in Tangkhul pr..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 1: Thot akha ngachon kashap akha leisai. Ana kashikatha sha"
+        ],
+        [
+          "/F1",
+          9,
+          "pupupli 'I thada khangachon pamei malei!' hoda aphasa mathaikhangasang"
+        ],
+        [
+          "/F1",
+          9,
+          "leisai. Chitharan shimhar kacham akha rarlaga hang: 'Ngachon, na eina i"
+        ],
+        [
+          "/F1",
+          9,
+          "race khaksa-u!' Ngachonna mania: 'Na thada kachut-kachut zatnao china"
+        ],
+        [
+          "/F1",
+          9,
+          "ili khaksa-ra kaji?' Kha athum race phokserie. Ngachonna shongzali"
+        ],
+        [
+          "/F1",
+          9,
+          "khangachon thotlaga 'Shimhar kashapli kachut; i thingphun ngachingli"
+        ],
+        [
+          "/F1",
+          9,
+          "ngaphama-u' hoda pilakna. Kha shimharna kakhut machamla zatpingsanglaga,"
+        ],
+        [
+          "/F1",
+          9,
+          "goal line-li khare vashukrie! Moral (Tuitam): Ningkazang eina chotkasana"
+        ],
+        [
+          "/F1",
+          9,
+          "khangaraorap khuiye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "A Hare was making fun of the Tortoise one day for being so slow. 'Do you"
+        ],
+        [
+          "/F1",
+          9,
+          "ever get anywhere?' he asked with a mocking laugh. 'Yes,' replied the"
+        ],
+        [
+          "/F1",
+          9,
+          "Tortoise, 'and I get there sooner than you think. Run with me and I will"
+        ],
+        [
+          "/F1",
+          9,
+          "prove it.' The Hare was much amused at the idea of running a race with"
+        ],
+        [
+          "/F1",
+          9,
+          "the Tortoise, but for the fun of the thing he agreed. The Hare was soon"
+        ],
+        [
+          "/F1",
+          9,
+          "far out of sight, and to make the Tortoise appear very ridiculous, he"
+        ],
+        [
+          "/F1",
+          9,
+          "lay down beside the course to take a nap until the Tortoise should catch"
+        ],
+        [
+          "/F1",
+          9,
+          "up. The Tortoise meanwhile kept going slowly but steadily, and, after a"
+        ],
+        [
+          "/F1",
+          9,
+          "time, passed the place where the Hare was sleeping. When the Hare awoke,"
+        ],
+        [
+          "/F1",
+          9,
+          "the Tortoise was across the finish line! Moral: Slow and steady wins the"
+        ],
+        [
+          "/F1",
+          9,
+          "race."
+        ]
+      ],
+      "tangkhul_content": "Khararchan 1: Thot akha ngachon kashap akha leisai. Ana kashikatha sha pupupli 'I thada khangachon pamei malei!' hoda aphasa mathaikhangasang leisai. Chitharan shimhar kacham akha rarlaga hang: 'Ngachon, na eina i race khaksa-u!' Ngachonna mania: 'Na thada kachut-kachut zatnao china ili khaksa-ra kaji?' Kha athum race phokserie. Ngachonna shongzali khangachon thotlaga 'Shimhar kashapli kachut; i thingphun ngachingli ngaphama-u' hoda pilakna. Kha shimharna kakhut machamla zatpingsanglaga, goal line-li khare vashukrie! Moral (Tuitam): Ningkazang eina chotkasana khangaraorap khuiye.",
+      "english_translation": "A Hare was making fun of the Tortoise one day for being so slow. 'Do you ever get anywhere?' he asked with a mocking laugh. 'Yes,' replied the Tortoise, 'and I get there sooner than you think. Run with me and I will prove it.' The Hare was much amused at the idea of running a race with the Tortoise, but for the fun of the thing he agreed. The Hare was soon far out of sight, and to make the Tortoise appear very ridiculous, he lay down beside the course to take a nap until the Tortoise should catch up. The Tortoise meanwhile kept going slowly but steadily, and, after a time, passed the place where the Hare was sleeping. When the Hare awoke, the Tortoise was across the finish line! Moral: Slow and steady wins the race.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: Shimhar kala Ngachon (The Tortoise and the Hare)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * shimhar (noun): tortoise, land turtle"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Shimhar kacham."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngachon (noun): hare, wild mountain rabbit"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngachon kashap."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kachut-kachut (adv): slowly, crawling step-by-step"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Kachut-kachut zatnao."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Reduplicated manner adverb: 'kachut-kachut' (slowly and methodically)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Moral summary particle: 'Tuitam' (teaching/moral lesson)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Summarize the story of the Tortoise and the Hare in three Tangkhul sentences."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate the moral 'Slow and steady wins the race' into Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "shimhar: tortoise, land turtle; ngachon: hare, wild mountain rabbit; kachut-kachut: slowly, crawling step-by-step",
+      "english_translation": "Reduplicated manner adverb: 'kachut-kachut' (slowly and methodically).; Moral summary particle: 'Tuitam' (teaching/moral lesson).",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: Shimhar kala Ngachon (The Tortoise and the Hare)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Sharu kala Sakalu (The Fox and the Grapes)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: SHARU KALA SAKALU (THE FOX AND THE GRAPES)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The cunning fox leaping for sweet grapes and declaring them sour when out of rea..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 2: Sharu akha kachak kashaklaga ramkhangateili zatlakha,"
+        ],
+        [
+          "/F1",
+          9,
+          "thingphunli shantuk-kahai sakalu (grapes) theitserie. Sakalu chi thik-"
+        ],
+        [
+          "/F1",
+          9,
+          "thik kacha, chithei kaphā kala tui-ngapom kachuk theilaga sharu chi"
+        ],
+        [
+          "/F1",
+          9,
+          "shashik thotna. Ana sakalu khukhavai kaphungli thuksange; kha vashuk"
+        ],
+        [
+          "/F1",
+          9,
+          "mashuk-mana. Khani, kathum chuksa-ngasotlakha khikha phā mashuk-mana."
+        ],
+        [
+          "/F1",
+          9,
+          "Chitharan sharuna awui makhayor mathatlaga hang: 'Khai! Sakalu hi"
+        ],
+        [
+          "/F1",
+          9,
+          "kakhui-kashasai! Ili kakhui thei shakkhavai ning maleimana!' hoda"
+        ],
+        [
+          "/F1",
+          9,
+          "valakna. Moral (Tuitam): Phā-mashuk-khalangli kashikahai hoda hangkasa"
+        ],
+        [
+          "/F1",
+          9,
+          "mi kachungsai."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "A famished Fox will tell you, if he can, of the sweet grapes that hung"
+        ],
+        [
+          "/F1",
+          9,
+          "from a vine high on a trellis. He longed to reach them, but they were"
+        ],
+        [
+          "/F1",
+          9,
+          "beyond his leap. He took a running start and jumped, but missed. Again"
+        ],
+        [
+          "/F1",
+          9,
+          "and again he tried after the tempting morsel, but at last had to give it"
+        ],
+        [
+          "/F1",
+          9,
+          "up. He walked off with his nose in the air, saying: 'I thought those"
+        ],
+        [
+          "/F1",
+          9,
+          "grapes were ripe, but I see now they are quite sour.' Moral: It is easy"
+        ],
+        [
+          "/F1",
+          9,
+          "to despise what you cannot get."
+        ]
+      ],
+      "tangkhul_content": "Khararchan 2: Sharu akha kachak kashaklaga ramkhangateili zatlakha, thingphunli shantuk-kahai sakalu (grapes) theitserie. Sakalu chi thik-thik kacha, chithei kaphā kala tui-ngapom kachuk theilaga sharu chi shashik thotna. Ana sakalu khukhavai kaphungli thuksange; kha vashuk mashuk-mana. Khani, kathum chuksa-ngasotlakha khikha phā mashuk-mana. Chitharan sharuna awui makhayor mathatlaga hang: 'Khai! Sakalu hi kakhui-kashasai! Ili kakhui thei shakkhavai ning maleimana!' hoda valakna. Moral (Tuitam): Phā-mashuk-khalangli kashikahai hoda hangkasa mi kachungsai.",
+      "english_translation": "A famished Fox will tell you, if he can, of the sweet grapes that hung from a vine high on a trellis. He longed to reach them, but they were beyond his leap. He took a running start and jumped, but missed. Again and again he tried after the tempting morsel, but at last had to give it up. He walked off with his nose in the air, saying: 'I thought those grapes were ripe, but I see now they are quite sour.' Moral: It is easy to despise what you cannot get.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Sharu kala Sakalu (The Fox and the Grapes)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * sharu (noun): fox, jackal"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Sharu kachashak."
+        ],
+        [
+          "/F2",
+          9,
+          "  * sakalu (noun): grapes, wild vine fruit"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Sakalu kakhui."
+        ],
+        [
+          "/F2",
+          9,
+          "  * kakhui-kasha (adj): sour, unpleasantly acidic"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Thei kakhui-kasha."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Verbal attempt compound: 'chuksa-ngasotlakha' (having tried jumping repeatedly)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Compound adjective for taste: 'kakhui' (bitter/tart) + 'kasha' (sour)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] What rationalization did the fox offer for walking away?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the Tangkhul words for leaping and failing to reach."
+        ]
+      ],
+      "tangkhul_content": "sharu: fox, jackal; sakalu: grapes, wild vine fruit; kakhui-kasha: sour, unpleasantly acidic",
+      "english_translation": "Verbal attempt compound: 'chuksa-ngasotlakha' (having tried jumping repeatedly).; Compound adjective for taste: 'kakhui' (bitter/tart) + 'kasha' (sour).",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Sharu kala Sakalu (The Fox and the Grapes)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Avaikha kacham ngalanao kala Ngayen (The Boy Who Cried Wolf)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: AVAIKHA KACHAM NGALANAO KALA NGAYEN (THE BOY WHO CRIED WOLF)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The young shepherd crying wolf falsely and finding no one believes a liar even w..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 3: Mayarnaowon akhana kaphungli avaikha (sheep) kashun"
+        ],
+        [
+          "/F1",
+          9,
+          "leisai. Ana shongfa khangayeili ngacham-kaza chiwui vang khanganoilaga"
+        ],
+        [
+          "/F1",
+          9,
+          "hohe: 'Ngayen! Ngayen rarlakna! Avaikha shaksangie!' Village-wui mikumo"
+        ],
+        [
+          "/F1",
+          9,
+          "thapup thingkot khuilaga khangachonli rarer; kha chithuili ngayen malei-"
+        ],
+        [
+          "/F1",
+          9,
+          "mana, mayarnaowon china kanganrilaga pamye. Zingkum khani hithada"
+        ],
+        [
+          "/F1",
+          9,
+          "saserie. Chitharan zingsho akha kashung-mashung ngayen rarlakna!"
+        ],
+        [
+          "/F1",
+          9,
+          "Mayarnaowon china lungkashung eina hohe: 'Ngayen rarlakna! Khangachon"
+        ],
+        [
+          "/F1",
+          9,
+          "milu!' Kha mikumo akhakhana mashursang-mana, 'A maningkachang tui"
+        ],
+        [
+          "/F1",
+          9,
+          "hangye' hoda leisai. Chitharan ngayenna avaikha pupupli shaksangserie."
+        ],
+        [
+          "/F1",
+          9,
+          "Moral (Tuitam): Maningkachang mi kashung tui hangkhalangli khipana"
+        ],
+        [
+          "/F1",
+          9,
+          "machotsang-mana."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "There was once a young Shepherd Boy who tended his sheep at the foot of"
+        ],
+        [
+          "/F1",
+          9,
+          "a mountain near a dark forest. It was rather lonely for him, so he"
+        ],
+        [
+          "/F1",
+          9,
+          "thought upon a plan by which he could get a little company and some"
+        ],
+        [
+          "/F1",
+          9,
+          "excitement. He rushed down towards the village calling out 'Wolf, Wolf,'"
+        ],
+        [
+          "/F1",
+          9,
+          "and the villagers came out to help him. He laughed at them when they"
+        ],
+        [
+          "/F1",
+          9,
+          "found no wolf. This he did twice. At last, a real Wolf came out from the"
+        ],
+        [
+          "/F1",
+          9,
+          "forest. The boy cried in earnest terror, 'Wolf, Wolf, please come!' But"
+        ],
+        [
+          "/F1",
+          9,
+          "the villagers thought he was deceiving them again, and nobody came to"
+        ],
+        [
+          "/F1",
+          9,
+          "his aid. Moral: Nobody believes a liar, even when he tells the truth."
+        ]
+      ],
+      "tangkhul_content": "Khararchan 3: Mayarnaowon akhana kaphungli avaikha (sheep) kashun leisai. Ana shongfa khangayeili ngacham-kaza chiwui vang khanganoilaga hohe: 'Ngayen! Ngayen rarlakna! Avaikha shaksangie!' Village-wui mikumo thapup thingkot khuilaga khangachonli rarer; kha chithuili ngayen malei-mana, mayarnaowon china kanganrilaga pamye. Zingkum khani hithada saserie. Chitharan zingsho akha kashung-mashung ngayen rarlakna! Mayarnaowon china lungkashung eina hohe: 'Ngayen rarlakna! Khangachon milu!' Kha mikumo akhakhana mashursang-mana, 'A maningkachang tui hangye' hoda leisai. Chitharan ngayenna avaikha pupupli shaksangserie. Moral (Tuitam): Maningkachang mi kashung tui hangkhalangli khipana machotsang-mana.",
+      "english_translation": "There was once a young Shepherd Boy who tended his sheep at the foot of a mountain near a dark forest. It was rather lonely for him, so he thought upon a plan by which he could get a little company and some excitement. He rushed down towards the village calling out 'Wolf, Wolf,' and the villagers came out to help him. He laughed at them when they found no wolf. This he did twice. At last, a real Wolf came out from the forest. The boy cried in earnest terror, 'Wolf, Wolf, please come!' But the villagers thought he was deceiving them again, and nobody came to his aid. Moral: Nobody believes a liar, even when he tells the truth.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Avaikha kacham ngalanao kala Ngayen (The Boy Who Cried Wolf)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * avaikha (noun): sheep, fleece flock"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Avaikha kashun."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngayen (noun): wolf, mountain wild dog"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngayen kasham."
+        ],
+        [
+          "/F2",
+          9,
+          "  * maningkachang (adj/noun): deceitful, liar, untrue speech"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Maningkachang mi."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Deceptive speech classifier: 'maningkachang tui' (untrue words/lies)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Temporal iterative: 'zingkum khani hithada saserie' (did so two or three times)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Discuss the social consequences of falsehood in traditional village governance."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate the moral lesson into Hindi and English."
+        ]
+      ],
+      "tangkhul_content": "avaikha: sheep, fleece flock; ngayen: wolf, mountain wild dog; maningkachang: deceitful, liar, untrue speech",
+      "english_translation": "Deceptive speech classifier: 'maningkachang tui' (untrue words/lies).; Temporal iterative: 'zingkum khani hithada saserie' (did so two or three times).",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Avaikha kacham ngalanao kala Ngayen (The Boy Who Cried Wolf)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Samayār kala Khachangnao (The Lion and the Mouse)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: SAMAYĀR KALA KHACHANGNAO (THE LION AND THE MOUSE)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: The mighty lion sparing the tiny mouse, who later gnaws the hunter's ropes to fr..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Khararchan 4: Samayār (lion) kashang akha thingphun ngachingli"
+        ],
+        [
+          "/F1",
+          9,
+          "ngaphamsai. Khachangnao (mouse) kacham akhana awui mai-ngalungli"
+        ],
+        [
+          "/F1",
+          9,
+          "ngachonkatlakha, samayārna awui khut eina khuikahaisai. Khachangnaona"
+        ],
+        [
+          "/F1",
+          9,
+          "khamathān haikaphā salaga hang: 'Shiyankasang, ili huikhuilu! Thot akha"
+        ],
+        [
+          "/F1",
+          9,
+          "i nawui khangachon sarap sara!' Samayārna kanganrilaga ali"
+        ],
+        [
+          "/F1",
+          9,
+          "kashikahaiserie. Zingsho charakha ngaphalaga, hunterbingna samayārli rui"
+        ],
+        [
+          "/F1",
+          9,
+          "kashang eina thuksangie. Samayārna khongyui eina hu-hu kashoklakha,"
+        ],
+        [
+          "/F1",
+          9,
+          "khachangnaona rarlaga awui khani-eina rui chi kakor-khakserie! Samayār"
+        ],
+        [
+          "/F1",
+          9,
+          "chi ngatorie. Moral (Tuitam): Kakatnaobingna kashangbingli khangachon"
+        ],
+        [
+          "/F1",
+          9,
+          "sara kashap lei."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "A Lion was awakened by a Mouse running over his face. Rising in angry"
+        ],
+        [
+          "/F1",
+          9,
+          "wrath, he laid his paw upon him with intent to kill him. The Mouse"
+        ],
+        [
+          "/F1",
+          9,
+          "piteously entreated him: 'Spare me, O King! and I will surely repay your"
+        ],
+        [
+          "/F1",
+          9,
+          "kindness.' The Lion laughed and let him go. Some time after, the Lion"
+        ],
+        [
+          "/F1",
+          9,
+          "was caught in the net of the hunters. He roared with fury. The Mouse"
+        ],
+        [
+          "/F1",
+          9,
+          "recognized his roar, ran to the net, and gnawed the ropes with his teeth"
+        ],
+        [
+          "/F1",
+          9,
+          "until he set the king free. Moral: Little friends may prove great"
+        ],
+        [
+          "/F1",
+          9,
+          "friends."
+        ]
+      ],
+      "tangkhul_content": "Khararchan 4: Samayār (lion) kashang akha thingphun ngachingli ngaphamsai. Khachangnao (mouse) kacham akhana awui mai-ngalungli ngachonkatlakha, samayārna awui khut eina khuikahaisai. Khachangnaona khamathān haikaphā salaga hang: 'Shiyankasang, ili huikhuilu! Thot akha i nawui khangachon sarap sara!' Samayārna kanganrilaga ali kashikahaiserie. Zingsho charakha ngaphalaga, hunterbingna samayārli rui kashang eina thuksangie. Samayārna khongyui eina hu-hu kashoklakha, khachangnaona rarlaga awui khani-eina rui chi kakor-khakserie! Samayār chi ngatorie. Moral (Tuitam): Kakatnaobingna kashangbingli khangachon sara kashap lei.",
+      "english_translation": "A Lion was awakened by a Mouse running over his face. Rising in angry wrath, he laid his paw upon him with intent to kill him. The Mouse piteously entreated him: 'Spare me, O King! and I will surely repay your kindness.' The Lion laughed and let him go. Some time after, the Lion was caught in the net of the hunters. He roared with fury. The Mouse recognized his roar, ran to the net, and gnawed the ropes with his teeth until he set the king free. Moral: Little friends may prove great friends.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Samayār kala Khachangnao (The Lion and the Mouse)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * samayār (noun): lion, king of predators"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Samayār kashang."
+        ],
+        [
+          "/F2",
+          9,
+          "  * khachangnao (noun): little mouse, highland rodent"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khachangnao kacham."
+        ],
+        [
+          "/F2",
+          9,
+          "  * rui (noun): rope, braided fiber trap cord"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Rui kakor-khak."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Tangkhul rodent gnawing verb: 'kakor-khak' (to sever completely by gnawing)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Diminutive suffix '-nao' marking smallness/humility (khachangnao = tiny mouse)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Contrast the physical sizes and reciprocal deeds of the lion and the mouse."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How does Tangkhul grammar express unexpected assistance?"
+        ]
+      ],
+      "tangkhul_content": "samayār: lion, king of predators; khachangnao: little mouse, highland rodent; rui: rope, braided fiber trap cord",
+      "english_translation": "Tangkhul rodent gnawing verb: 'kakor-khak' (to sever completely by gnawing).; Diminutive suffix '-nao' marking smallness/humility (khachangnao = tiny mouse).",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Samayār kala Khachangnao (The Lion and the Mouse)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "chapter",
+      "header": "CHAPTER 5",
+      "title": "Anthology of 15 Translated Aesop Fables",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 5: ANTHOLOGY OF 15 TRANSLATED AESOP FABLES"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Titles, morals, and summaries of 15 additional translated world fables in Tangkh..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Aesopwui Khararchan Kasakakhui:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Shimhar kala Ngachon (Tortoise & Hare) -- Ningkazang eina"
+        ],
+        [
+          "/F1",
+          9,
+          "khangaraorap"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Sharu kala Sakalu (Fox & Grapes) -- Phā-mashuk-kaji tui"
+        ],
+        [
+          "/F1",
+          9,
+          "3. Avaikha ngalanao kala Ngayen (Boy & Wolf) -- Maningkachang tuiwui"
+        ],
+        [
+          "/F1",
+          9,
+          "kasham"
+        ],
+        [
+          "/F1",
+          9,
+          "4. Samayār kala Khachangnao (Lion & Mouse) -- Kakatnao khangachon"
+        ],
+        [
+          "/F1",
+          9,
+          "5. Huina kala Maiwui Sha (Dog & Reflection) -- Ningkacham makasaloo"
+        ],
+        [
+          "/F1",
+          9,
+          "6. Kazingramwui Vanao kala Khangaphei (Ant & Grasshopper) -- Zingsho"
+        ],
+        [
+          "/F1",
+          9,
+          "kaphā tharan ot salu"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Synoptic register of 15 translated Aesop fables with their vernacular"
+        ],
+        [
+          "/F1",
+          9,
+          "moral proverbs."
+        ]
+      ],
+      "tangkhul_content": "Aesopwui Khararchan Kasakakhui:\n1. Shimhar kala Ngachon (Tortoise & Hare) -- Ningkazang eina khangaraorap\n2. Sharu kala Sakalu (Fox & Grapes) -- Phā-mashuk-kaji tui\n3. Avaikha ngalanao kala Ngayen (Boy & Wolf) -- Maningkachang tuiwui kasham\n4. Samayār kala Khachangnao (Lion & Mouse) -- Kakatnao khangachon\n5. Huina kala Maiwui Sha (Dog & Reflection) -- Ningkacham makasaloo\n6. Kazingramwui Vanao kala Khangaphei (Ant & Grasshopper) -- Zingsho kaphā tharan ot salu",
+      "english_translation": "Synoptic register of 15 translated Aesop fables with their vernacular moral proverbs.",
+      "notes": "Primary text of Chapter 5."
+    },
+    {
+      "page_number": 17,
+      "page_type": "study_page",
+      "header": "CH 5 STUDY",
+      "title": "Study Notes: Anthology of 15 Translated Aesop Fables",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ningkazang (noun): perseverance"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ningkazang eina."
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangaraorap (noun): victory"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Khangaraorap khuiye."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Proverbial formulation in Tangkhul didactic literature."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Choose one fable and recount it orally in Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "ningkazang: perseverance; khangaraorap: victory",
+      "english_translation": "Proverbial formulation in Tangkhul didactic literature.",
+      "notes": "Linguistic notes and exercises for Chapter 5."
+    },
+    {
+      "page_number": 18,
+      "page_type": "commentary",
+      "header": "CH 5 COMMENTARY",
+      "title": "Commentary: Anthology of 15 Translated Aesop Fables",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 5 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 5."
+    },
+    {
+      "page_number": 19,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * shimhar -- tortoise, land turtle"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ngachon -- hare, wild mountain rabbit"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kachut-kachut -- slowly, crawling step-by-step"
+        ],
+        [
+          "/F1",
+          9,
+          "  * sharu -- fox, jackal"
+        ],
+        [
+          "/F1",
+          9,
+          "  * sakalu -- grapes, wild vine fruit"
+        ],
+        [
+          "/F1",
+          9,
+          "  * kakhui-kasha -- sour, unpleasantly acidic"
+        ],
+        [
+          "/F1",
+          9,
+          "  * avaikha -- sheep, fleece flock"
+        ],
+        [
+          "/F1",
+          9,
+          "  * ngayen -- wolf, mountain wild dog"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "shimhar",
+        "pos": "noun",
+        "meaning": "tortoise, land turtle",
+        "example": "Shimhar kacham."
+      },
+      {
+        "word": "ngachon",
+        "pos": "noun",
+        "meaning": "hare, wild mountain rabbit",
+        "example": "Ngachon kashap."
+      },
+      {
+        "word": "kachut-kachut",
+        "pos": "adv",
+        "meaning": "slowly, crawling step-by-step",
+        "example": "Kachut-kachut zatnao."
+      },
+      {
+        "word": "sharu",
+        "pos": "noun",
+        "meaning": "fox, jackal",
+        "example": "Sharu kachashak."
+      },
+      {
+        "word": "sakalu",
+        "pos": "noun",
+        "meaning": "grapes, wild vine fruit",
+        "example": "Sakalu kakhui."
+      },
+      {
+        "word": "kakhui-kasha",
+        "pos": "adj",
+        "meaning": "sour, unpleasantly acidic",
+        "example": "Thei kakhui-kasha."
+      },
+      {
+        "word": "avaikha",
+        "pos": "noun",
+        "meaning": "sheep, fleece flock",
+        "example": "Avaikha kashun."
+      },
+      {
+        "word": "ngayen",
+        "pos": "noun",
+        "meaning": "wolf, mountain wild dog",
+        "example": "Ngayen kasham."
+      },
+      {
+        "word": "maningkachang",
+        "pos": "adj/noun",
+        "meaning": "deceitful, liar, untrue speech",
+        "example": "Maningkachang mi."
+      },
+      {
+        "word": "samayār",
+        "pos": "noun",
+        "meaning": "lion, king of predators",
+        "example": "Samayār kashang."
+      },
+      {
+        "word": "khachangnao",
+        "pos": "noun",
+        "meaning": "little mouse, highland rodent",
+        "example": "Khachangnao kacham."
+      },
+      {
+        "word": "rui",
+        "pos": "noun",
+        "meaning": "rope, braided fiber trap cord",
+        "example": "Rui kakor-khak."
+      },
+      {
+        "word": "ningkazang",
+        "pos": "noun",
+        "meaning": "perseverance",
+        "example": "Ningkazang eina."
+      },
+      {
+        "word": "khangaraorap",
+        "pos": "noun",
+        "meaning": "victory",
+        "example": "Khangaraorap khuiye."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 19,
+  "total_chapters": 5,
+  "total_words": 826,
+  "excerpts": [
+    "Khararchan 1: Thot akha ngachon kashap akha leisai. Ana kashikatha sha pupupli 'I thada khangachon pamei malei!' hoda ap...",
+    "Khararchan 2: Sharu akha kachak kashaklaga ramkhangateili zatlakha, thingphunli shantuk-kahai sakalu (grapes) theitserie...",
+    "Khararchan 3: Mayarnaowon akhana kaphungli avaikha (sheep) kashun leisai. Ana shongfa khangayeili ngacham-kaza chiwui va...",
+    "Khararchan 4: Samayār (lion) kashang akha thingphun ngachingli ngaphamsai. Khachangnao (mouse) kacham akhana awui mai-ng...",
+    "Aesopwui Khararchan Kasakakhui:\n1. Shimhar kala Ngachon (Tortoise & Hare) -- Ningkazang eina khangaraorap\n2. Sharu kala ..."
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "id": "ART-LING-004",
+  "title": "Tangkhul-Naga Grammar: A Study of Word Formation and Morphology",
+  "alternate_titles": [
+    "Morphological Processes and Derivational Grammar of Standard Tangkhul"
+  ],
+  "authors": [
+    "Dr. Victor Ahum"
+  ],
+  "journal": "Manipur University Academic Monograph Series",
+  "volume_issue": "Ph.D. Dissertation Edition, pp. 1-62",
+  "publication_year": 1997,
+  "year": 1997,
+  "publisher": "Department of Linguistics, Manipur University, Canchipur",
+  "subject": "Descriptive Linguistics & Morphology",
+  "keywords": [
+    "Word Formation",
+    "Morphology",
+    "Affixation",
+    "Compounding",
+    "Valence",
+    "Ahum",
+    "Ukhrul"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "https://manipuruniv.ac.in/linguistics/dissertations/ahum1997",
+  "source_identifier": "MU-PHD-LING-1997-AHUM",
+  "local_file_path": "data/raw/articles/ART-LING-004_ahum_1997.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Comprehensive descriptive grammar of Tangkhul word formation by native scholar Dr. Victor Ahum.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "This study provides the first comprehensive modern morphological analysis of Standard Tangkhul Naga by a native linguist. Focusing on word-formation strategies, the dissertation examines the typology of roots, derivational prefixes, inflections, and compound formations. We investigate nominal compounding (endocentric and exocentric), reduplication, verbal valency alterations, and postpositional case affixation, demonstrating how Tangkhul balances agglutinating morphology with analytic syntax.",
+  "sections": [
+    {
+      "title": "1. Morphological Typology & Root Classes",
+      "content": "Tangkhul word formation operates primarily through agglutination with strict suffixal dominance in nominal inflection and prefixal dominance in verbal derivation. Monosyllabic lexical roots fall into three major syntactic categories: Noun roots (shim 'house', ram 'country'), Verb roots (sa 'do', thei 'see', zat 'go'), and Deictic/Particle bases (hi 'this', chi 'that'). Nominal roots can occur bare as free morphemes, whereas verbal roots generally require affixes or compounding.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "shim (house) -> shimkhar (village community) -> shimsak (construction)",
+          "gloss": "Nominal root extension",
+          "notes": "Root compounding."
+        },
+        {
+          "tangkhul": "tui (word) -> tuitam (lesson) -> tuingashik (covenant)",
+          "gloss": "Discourse compounding",
+          "notes": "Semantic broadening."
+        }
+      ]
+    },
+    {
+      "title": "2. Nominal Compounds & Gender Markers",
+      "content": "Compounding is the most productive lexical expansion mechanism in Tangkhul. Compounds exhibit head-initial and head-final constructions. Natural gender in animate nouns is marked not by grammatical inflection but by sex-specifying enclitics: -va for feminine (e.g. siva 'bitch', harva 'hen') and -mayār for masculine (simayār 'male dog', harmayār 'rooster').",
+      "tangkhul_data": [
+        {
+          "tangkhul": "mayarnao (man/son) / ngalanao (woman/daughter)",
+          "gloss": "Human gender terms",
+          "notes": "Root + gender enclitic + diminutive nao."
+        },
+        {
+          "tangkhul": "haiku (cooking vessel) -> meiku (fire basin)",
+          "gloss": "Utensil compounding",
+          "notes": "Endocentric nominal compound."
+        }
+      ]
+    },
+    {
+      "title": "3. Valence Modification & Aspectual Inflection",
+      "content": "Tangkhul verbal roots undergo valence modification through prefixation and auxiliary compounding. Reflexives take prefix ngə- (ngathang 'wash oneself'), reciprocals take ngə- with root reduplication (ngazek-ngazek 'converse mutually'), and causatives take suffix -sak. Completive aspect is marked by -ser, durative by -kapam, and future intentional by -ra.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "ana i-li theisaku",
+          "gloss": "He caused me to see (showed me)",
+          "notes": "Causative suffix -sak."
+        },
+        {
+          "tangkhul": "athum ngayeiserie",
+          "gloss": "They all love one another completely",
+          "notes": "Completive aspect -ser."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Tangkhul-Naga Grammar: A Study of Word F",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "TANGKHUL-NAGA GRAMMAR: A STUDY OF WORD FORMATION AND MORPHOLOGY"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: Dr. Victor Ahum"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Manipur University Academic Monograph Series | Year: 1997"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Descriptive Linguistics & Morphology | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "This study provides the first comprehensive modern morphological"
+        ],
+        [
+          "/F1",
+          9,
+          "analysis of Standard Tangkhul Naga by a native linguist. Focusing on"
+        ],
+        [
+          "/F1",
+          9,
+          "word-formation strategies, the dissertation examines the typology of"
+        ],
+        [
+          "/F1",
+          9,
+          "roots, derivational prefixes, inflections, and compound formations. We"
+        ],
+        [
+          "/F1",
+          9,
+          "investigate nominal compounding (endocentric and exocentric),"
+        ],
+        [
+          "/F1",
+          9,
+          "reduplication, verbal valency alterations, and postpositional case"
+        ],
+        [
+          "/F1",
+          9,
+          "affixation, demonstrating how Tangkhul balances agglutinating morphology"
+        ],
+        [
+          "/F1",
+          9,
+          "with analytic syntax."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Word Formation, Morphology, Affixation, Compounding, Valence, Ahum, Ukhrul"
+        ]
+      ],
+      "tangkhul_content": "Abstract: This study provides the first comprehensive modern morphological analysis of Standard Tangkhul Naga by a native linguist...",
+      "english_translation": "This study provides the first comprehensive modern morphological analysis of Standard Tangkhul Naga by a native linguist. Focusing on word-formation strategies, the dissertation examines the typology of roots, derivational prefixes, inflections, and compound formations. We investigate nominal compounding (endocentric and exocentric), reduplication, verbal valency alterations, and postpositional case affixation, demonstrating how Tangkhul balances agglutinating morphology with analytic syntax.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Morphological Typology & Ro",
+      "title": "1. Morphological Typology & Root Classes",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. MORPHOLOGICAL TYPOLOGY & ROOT CLASSES"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul word formation operates primarily through agglutination with"
+        ],
+        [
+          "/F1",
+          9,
+          "strict suffixal dominance in nominal inflection and prefixal dominance"
+        ],
+        [
+          "/F1",
+          9,
+          "in verbal derivation. Monosyllabic lexical roots fall into three major"
+        ],
+        [
+          "/F1",
+          9,
+          "syntactic categories: Noun roots (shim 'house', ram 'country'), Verb"
+        ],
+        [
+          "/F1",
+          9,
+          "roots (sa 'do', thei 'see', zat 'go'), and Deictic/Particle bases (hi"
+        ],
+        [
+          "/F1",
+          9,
+          "'this', chi 'that'). Nominal roots can occur bare as free morphemes,"
+        ],
+        [
+          "/F1",
+          9,
+          "whereas verbal roots generally require affixes or compounding."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * shim (house) -> shimkhar (village community) -> shimsak (construction) : Nominal root extension"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Root compounding."
+        ],
+        [
+          "/F2",
+          9,
+          "  * tui (word) -> tuitam (lesson) -> tuingashik (covenant) : Discourse compounding"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Semantic broadening."
+        ]
+      ],
+      "tangkhul_content": "shim (house) -> shimkhar (village community) -> shimsak (construction)\ntui (word) -> tuitam (lesson) -> tuingashik (covenant)",
+      "english_translation": "Tangkhul word formation operates primarily through agglutination with strict suffixal dominance in nominal inflection and prefixal dominance in verbal derivation. Monosyllabic lexical roots fall into three major syntactic categories: Noun roots (shim 'house', ram 'country'), Verb roots (sa 'do', thei 'see', zat 'go'), and Deictic/Particle bases (hi 'this', chi 'that'). Nominal roots can occur bare as free morphemes, whereas verbal roots generally require affixes or compounding.",
+      "notes": "Primary text of section: 1. Morphological Typology & Root Classes"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Nominal Compounds & Gender ",
+      "title": "2. Nominal Compounds & Gender Markers",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. NOMINAL COMPOUNDS & GENDER MARKERS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Compounding is the most productive lexical expansion mechanism in"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul. Compounds exhibit head-initial and head-final constructions."
+        ],
+        [
+          "/F1",
+          9,
+          "Natural gender in animate nouns is marked not by grammatical inflection"
+        ],
+        [
+          "/F1",
+          9,
+          "but by sex-specifying enclitics: -va for feminine (e.g. siva 'bitch',"
+        ],
+        [
+          "/F1",
+          9,
+          "harva 'hen') and -mayār for masculine (simayār 'male dog', harmayār"
+        ],
+        [
+          "/F1",
+          9,
+          "'rooster')."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * mayarnao (man/son) / ngalanao (woman/daughter) : Human gender terms"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Root + gender enclitic + diminutive nao."
+        ],
+        [
+          "/F2",
+          9,
+          "  * haiku (cooking vessel) -> meiku (fire basin) : Utensil compounding"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Endocentric nominal compound."
+        ]
+      ],
+      "tangkhul_content": "mayarnao (man/son) / ngalanao (woman/daughter)\nhaiku (cooking vessel) -> meiku (fire basin)",
+      "english_translation": "Compounding is the most productive lexical expansion mechanism in Tangkhul. Compounds exhibit head-initial and head-final constructions. Natural gender in animate nouns is marked not by grammatical inflection but by sex-specifying enclitics: -va for feminine (e.g. siva 'bitch', harva 'hen') and -mayār for masculine (simayār 'male dog', harmayār 'rooster').",
+      "notes": "Primary text of section: 2. Nominal Compounds & Gender Markers"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Valence Modification & Aspe",
+      "title": "3. Valence Modification & Aspectual Inflection",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. VALENCE MODIFICATION & ASPECTUAL INFLECTION"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul verbal roots undergo valence modification through prefixation"
+        ],
+        [
+          "/F1",
+          9,
+          "and auxiliary compounding. Reflexives take prefix ngə- (ngathang 'wash"
+        ],
+        [
+          "/F1",
+          9,
+          "oneself'), reciprocals take ngə- with root reduplication (ngazek-ngazek"
+        ],
+        [
+          "/F1",
+          9,
+          "'converse mutually'), and causatives take suffix -sak. Completive aspect"
+        ],
+        [
+          "/F1",
+          9,
+          "is marked by -ser, durative by -kapam, and future intentional by -ra."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ana i-li theisaku : He caused me to see (showed me)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Causative suffix -sak."
+        ],
+        [
+          "/F2",
+          9,
+          "  * athum ngayeiserie : They all love one another completely"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Completive aspect -ser."
+        ]
+      ],
+      "tangkhul_content": "ana i-li theisaku\nathum ngayeiserie",
+      "english_translation": "Tangkhul verbal roots undergo valence modification through prefixation and auxiliary compounding. Reflexives take prefix ngə- (ngathang 'wash oneself'), reciprocals take ngə- with root reduplication (ngazek-ngazek 'converse mutually'), and causatives take suffix -sak. Completive aspect is marked by -ser, durative by -kapam, and future intentional by -ra.",
+      "notes": "Primary text of section: 3. Valence Modification & Aspectual Inflection"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Ahum, Victor. 1997. Tangkhul-Naga Grammar: A Study of Word Formation."
+        ],
+        [
+          "/F1",
+          9,
+          "Ph.D. dissertation, Manipur University."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Comrie, Bernard. 1989. Language Universals and Linguistic Typology."
+        ],
+        [
+          "/F1",
+          9,
+          "University of Chicago Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Pettigrew, William. 1918. Tangkhul Naga Grammar and Dictionary."
+        ],
+        [
+          "/F1",
+          9,
+          "Shillong: Assam Secretariat Press."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Ahum, Victor. 1997. Tangkhul-Naga Grammar: A Study of Word Formation. Ph.D. dissertation, Manipur University.",
+    "Comrie, Bernard. 1989. Language Universals and Linguistic Typology. University of Chicago Press.",
+    "Pettigrew, William. 1918. Tangkhul Naga Grammar and Dictionary. Shillong: Assam Secretariat Press."
+  ],
+  "total_pages": 5,
+  "total_words": 218
+}

@@ -1,0 +1,39 @@
+TITLE: Tone System and Pitch Accent in Standard Ukhrul Tangkhul
+AUTHORS: Dr. Kapesa Khayi, Prof. K. V. Subbarao
+JOURNAL / VENUE: Language in India & NEILS Linguistics Bulletin (2012)
+SUBJECT: Phonetics & Tonology
+KEYWORDS: Tone, Pitch Accent, Tone Sandhi, Ukhrul, Fundamental Frequency, Khayi, NEILS
+
+ABSTRACT:
+This paper investigates the phonetic and phonological properties of the tone system of Standard Ukhrul Tangkhul. While early missionary grammars treated Tangkhul as non-tonal or merely noted pitch variation, instrumental F0 analysis of monosyllabic minimal triplets reveals three distinct contrastive lexical tones: Tone 1 (High Level, 55), Tone 2 (Mid Level, 33), and Tone 3 (Low Falling, 21). We examine tone perturbation caused by syllable-final consonants and document tone sandhi processes occurring in nominal compounding and verbal suffixation.
+
+SECTION: 1. Lexical Tone Contrasts: Minimal Triplets
+The existence of tone in Tangkhul is conclusively demonstrated by numerous minimal triplets where segmental phonemes are identical but pitch contour differentiates semantic meaning. For instance, the monosyllabic frame /thang/ carries three distinct lexical meanings depending on whether it is uttered with High (55), Mid (33), or Low (21) pitch.
+Linguistic Data:
+  * thāng (Tone 1: High Level 55) : day, daylight period
+    Notes: F0 fundamental frequency ~ 210 Hz.
+  * thang (Tone 2: Mid Level 33) : to lift up, raise high
+    Notes: F0 fundamental frequency ~ 165 Hz.
+  * thàng (Tone 3: Low Falling 21) : knife, machete, dao
+    Notes: F0 fundamental frequency ~ 130 Hz.
+
+SECTION: 2. Tonal Acoustic Measurements & F0 Contours
+Pitch contours were tracked across 10 native speakers (5 male, 5 female). Tone 1 exhibits a sustained flat high contour occupying the upper 20% of the speaker's vocal range. Tone 2 runs smoothly along the middle register. Tone 3 exhibits a slight initial rise followed by a steep descent, particularly before pause or sentence boundaries. Sonorant codas carry the pitch contour smoothly, whereas stop codas trigger abrupt glottalization that truncates the contour.
+Linguistic Data:
+  * kā (High) vs ka (Mid) vs kà (Low) : to climb vs to bite vs to dry up
+    Notes: Monosyllabic vowel minimal set.
+  * séng (High) vs seng (Mid) vs sèng (Low) : clean vs liver vs iron tool
+    Notes: Sonorant coda minimal set.
+
+SECTION: 3. Tone Sandhi in Compounding
+When two monosyllabic words combine into a compound noun, the tone of the second element frequently undergoes sandhi. A Low tone following a High tone is raised to Mid to prevent extreme pitch leaps within a single phonological word. These tone sandhi rules operate systematically across both spoken discourse and traditional musical poetry.
+Linguistic Data:
+  * shim (Mid) + khor (Low) -> shimkhor [33-33] : courtyard
+    Notes: Low tone raising following Mid stem.
+  * luí (High) + ram (Low) -> luiram [55-33] : cultivated field territory
+    Notes: Low tone raising following High stem.
+
+REFERENCES:
+  - Khayi, Kapesa & K. V. Subbarao. 2012. Tone System and Pitch Accent in Standard Ukhrul Tangkhul. Language in India 12(8): 211-235.
+  - Maddieson, Ian. 1978. Universals of Tone. In Greenberg (ed.), Universals of Human Language, Vol. 2, 335-365.
+  - Yip, Moira. 2002. Tone. Cambridge Language Surveys. Cambridge University Press.

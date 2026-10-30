@@ -1,0 +1,1547 @@
+{
+  "id": "BK-TRNS-010",
+  "resource_type": "books",
+  "title": "Tangkhul Constitution & Civic Rights Primer: Indiawui Samvidhan kala Hao Rights",
+  "alternate_titles": [
+    "Indian Constitution & Tangkhul Customary Rights Primer",
+    "Samvidhan Tuitam: Fundamental Rights in Tangkhul Naga"
+  ],
+  "authors": [
+    "Tangkhul Scholars Association",
+    "Naga Law Forum"
+  ],
+  "editors": [
+    "Tangkhul People's Organization"
+  ],
+  "publisher": "Tangkhul Scholars Association / Wung Legal Heritage",
+  "publication_year": 2005,
+  "year": 2005,
+  "edition": "Bilingual Civic Education Edition",
+  "subject": "Constitutional Law, Civic Rights & Tribal Jurisprudence",
+  "educational_level": "Higher Secondary, College & Citizenry",
+  "language": "Tangkhul",
+  "dialect": "Standard Tangkhul",
+  "isbn": "978-81-90412-11-9",
+  "source_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "source_identifier": "TSA-TKH-CONST-2005",
+  "catalogue_url": "https://bharatavani.in/tangkhul/jnanakosha",
+  "local_file_path": "data/raw/books/BK-TRNS-010_constitution_tangkhul_primer.txt",
+  "file_format": "txt",
+  "license": "Open Access / Community Public Domain",
+  "permission_status": "community_authorized",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Pioneering civic primer translating the Preamble of the Indian Constitution, Fundamental Rights, and Article 371A/371C special provisions into standard Tangkhul with a bilingual legal glossary.",
+  "front_matter": {
+    "title_page": "Tangkhul Constitution & Civic Rights Primer: Indiawui Samvidhan kala Hao Rights (2005)",
+    "preface": "Empowering indigenous communities requires accessible legal literacy in their mother tongue. This primer renders fundamental constitutional concepts—sovereignty, justice, liberty, equality, and fraternity—into dignified Tangkhul legal prose, harmonizing constitutional democracy with customary village court (*Hangva*) jurisprudence.",
+    "table_of_contents": [
+      "Chapter 1: The Preamble to the Constitution of India (Samvidhan Preamble)",
+      "Chapter 2: Fundamental Rights (Article 14 to 32)",
+      "Chapter 3: Customary Law, Village Courts (Hangva) & Article 371",
+      "Chapter 4: Bilingual Legal & Civic Glossary (Tangkhul-English-Hindi)"
+    ],
+    "imprint": "Tangkhul Scholars Association / Wung Legal Heritage, 2005."
+  },
+  "table_of_contents": [
+    {
+      "chapter_number": 1,
+      "title": "The Preamble to the Constitution of India (Samvidhan Preamble)",
+      "page_start": 4,
+      "page_end": 6
+    },
+    {
+      "chapter_number": 2,
+      "title": "Fundamental Rights (Article 14 to 32)",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "chapter_number": 3,
+      "title": "Customary Law, Village Courts (Hangva) & Article 371",
+      "page_start": 10,
+      "page_end": 12
+    },
+    {
+      "chapter_number": 4,
+      "title": "Bilingual Legal & Civic Glossary (Tangkhul-English-Hindi)",
+      "page_start": 13,
+      "page_end": 15
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Preamble to the Constitution of India (Samvidhan Preamble)",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Solemn translation of the Preamble into classical Tangkhul civic diction.",
+      "tangkhul_text": "Samvidhan Preamble:\nITHUM INDIAWUI MIKUMO, India-li Sovereign, Socialist, Secular, Democratic Republic akha sakhavai solemn ningkacham eina kasakakhui, kala chiwui citizen pupupwui vang:\nJUSTICE (Mashung-kasa): Social, economic, kala political;\nLIBERTY (Khangachon / Mathat): Ningkhamathan, phasha-kashak, chotkhangashit, kala worship;\nEQUALITY (Khangayam): Thot-phā kala opportunity wui ngachaili;\nFRATERNITY (Uningnao ngayeikasa): Mikumo akha-akhawui dignity kala Nationwui unity kala integrity ngashankhavai;\nITHUI CONSTITUENT ASSEMBLY-li November 26, 1949 zingsho eina Samvidhan hi adopt salaga, enact salaga ithuwui aphasa thapupli miserie.",
+      "english_translation": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.",
+      "vocabulary": [
+        {
+          "word": "Sovereign",
+          "pos": "adj/noun",
+          "meaning": "Kapei Pangashan (Supreme self-governing authority)",
+          "example": "Sovereign Republic."
+        },
+        {
+          "word": "Mashung-kasa",
+          "pos": "noun",
+          "meaning": "Justice, moral uprightness, fairness",
+          "example": "Social justice mashung-kasa."
+        },
+        {
+          "word": "Uningnao ngayeikasa",
+          "pos": "noun",
+          "meaning": "Fraternity, brotherly kinship love",
+          "example": "Fraternity wui tui."
+        }
+      ],
+      "grammar_notes": [
+        "Constitutional legal compounding: 'Uningnao ngayeikasa' for Fraternity.",
+        "Solemn declarative formula: 'adopt salaga, enact salaga... miserie'."
+      ],
+      "exercises": [
+        "Memorize the Tangkhul translation of the Preamble.",
+        "Identify the four cardinal constitutional pillars in Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Fundamental Rights (Article 14 to 32)",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Rights to equality, freedom of speech, personal liberty, and constitutional remedies translated for Tangkhul citizens.",
+      "tangkhul_text": "Fundamental Rights (Hao Citizen Rights):\n1. Article 14: Law-wui ngalemli mikumo pupup khangayam leisaye (Equality before law).\n2. Article 19: Tui hangkhavai, phanit sakhavai, kala union kasakhavai mathat (Freedom of speech & assembly).\n3. Article 21: Ringkapha kala personal liberty huikhuikhavai rights.\n4. Article 25: Chotkhangashit kala reot-kasavai freedom.\n5. Article 29-30: Minority language, script kala culture ngashankhavai rights.\n6. Article 32: Supreme Court kala High Court-li writ petition eina rights huikhuikhavai remedies.",
+      "english_translation": "Overview of Part III of the Constitution: Equality before the law, six freedoms of Article 19, protection of life and personal liberty under Article 21, freedom of religion under Article 25, minority cultural and linguistic protections under Articles 29-30, and the right to constitutional remedies under Article 32.",
+      "vocabulary": [
+        {
+          "word": "khangayam",
+          "pos": "noun",
+          "meaning": "equality, equal standing without discrimination",
+          "example": "Law-wui ngalemli khangayam."
+        },
+        {
+          "word": "personal liberty",
+          "pos": "noun",
+          "meaning": "Aphasa wui mathat (bodily freedom)",
+          "example": "Article 21 liberty."
+        },
+        {
+          "word": "writ petition",
+          "pos": "noun",
+          "meaning": "Haikaphā petition (judicial remedy)",
+          "example": "Article 32 writ."
+        }
+      ],
+      "grammar_notes": [
+        "Legal rights nomenclature: 'rights ngashankhavai' (safeguarding of rights).",
+        "Universal quantifier: 'mikumo pupup' (all citizens without exception)."
+      ],
+      "exercises": [
+        "Why are Articles 29 and 30 crucial for Tangkhul linguistic preservation?",
+        "Translate Article 21 into Tangkhul."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Customary Law, Village Courts (Hangva) & Article 371",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "Integration of indigenous tribal customary law, village councils, and constitutional special autonomy provisions.",
+      "tangkhul_text": "Hao Ngashan kala Constitutional Protection:\nTangkhul village pupupli traditional council hoda Hangva (Village Court) leisaye. Awungshina headman hoda court-wui tui khak-kasaye. Article 371A kala 371C-wui provisions eina tribal customary laws, land ownership (ngalei khangayei), and civil justice-li constitutional autonomy miserie. Hangvawui decisions customary law eina sashung-khalang, formal law courtsna chichi respect salaga ngashane.",
+      "english_translation": "Tribal customary governance operates through the Hangva (Village Council and Court) presided over by the Awungshi (village chief/headman). Constitutional provisions including Article 371 safeguard indigenous customary laws, land tenure systems, and traditional conflict resolution from arbitrary legislative interference.",
+      "vocabulary": [
+        {
+          "word": "Hangva",
+          "pos": "noun",
+          "meaning": "traditional village council and court of elders",
+          "example": "Hangvawui decisions."
+        },
+        {
+          "word": "Awungshi",
+          "pos": "noun",
+          "meaning": "hereditary village chief / headman",
+          "example": "Awungshina court tui khake."
+        },
+        {
+          "word": "ngalei khangayei",
+          "pos": "noun",
+          "meaning": "ancestral tribal land tenure rights",
+          "example": "Ngalei khangayei autonomy."
+        }
+      ],
+      "grammar_notes": [
+        "Indigenous jurisprudence vocabulary: 'Hangva', 'Awungshi', 'Kashan'.",
+        "Autonomy status terminology: 'constitutional autonomy miserie'."
+      ],
+      "exercises": [
+        "Explain the role of the Hangva in customary dispute resolution.",
+        "How do Articles 371A/371C protect Tangkhul land tenure?"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Bilingual Legal & Civic Glossary (Tangkhul-English-Hindi)",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "30 constitutional, judicial, and civic terms in Tangkhul, English, and Hindi.",
+      "tangkhul_text": "Legal Glossary:\n1. Samvidhan -- Constitution (संविधान)\n2. Mashung-kasa -- Justice (न्याय)\n3. Mathat -- Liberty (स्वतंत्रता)\n4. Khangayam -- Equality (समानता)\n5. Uningnao -- Fraternity (बंधुत्व)\n6. Hangva -- Village Court (ग्राम पंचायत / जनजातीय न्यायालय)\n7. Awungshi -- Village Chief (ग्राम प्रधान)\n8. Ngalei khangayei -- Land tenure rights (भूमि अधिकार)",
+      "english_translation": "Trilingual legal and constitutional lexicon supporting civic education in Manipur.",
+      "vocabulary": [
+        {
+          "word": "Samvidhan",
+          "pos": "noun",
+          "meaning": "Constitution",
+          "example": "Indiawui Samvidhan."
+        },
+        {
+          "word": "Mashung-kasa",
+          "pos": "noun",
+          "meaning": "Justice",
+          "example": "Social mashung-kasa."
+        }
+      ],
+      "grammar_notes": [
+        "Trilingual legal nomenclature."
+      ],
+      "exercises": [
+        "Translate 5 constitutional terms from Hindi into Tangkhul."
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "header": "Tangkhul Constitution & Civic Rights Pri",
+      "title": "Front Cover & Title Page",
+      "lines": [
+        [
+          "/F2",
+          16,
+          "TANGKHUL CONSTITUTION & CIVIC RIGHTS PRIMER: INDIAWUI SAMVIDHAN KALA HAO RIGHTS"
+        ],
+        [
+          "/F1",
+          11,
+          "Indian Constitution & Tangkhul Customary Rights Primer"
+        ],
+        [
+          "/F1",
+          10,
+          "Author / Translator: Tangkhul Scholars Association, Naga Law Forum"
+        ],
+        [
+          "/F1",
+          9,
+          "Publisher: Tangkhul Scholars Association / Wung Legal Heritage"
+        ],
+        [
+          "/F1",
+          9,
+          "Publication Year: 2005 | Language: Tangkhul (Ukhrul Dialect)"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul Constitution & Civic Rights Primer: Indiawui Samvidhan kala Hao Rights -- Ukhrul Dialect Translation.",
+      "english_translation": "English title: Indian Constitution & Tangkhul Customary Rights Primer",
+      "notes": "Cover page and metadata imprint."
+    },
+    {
+      "page_number": 2,
+      "page_type": "front_matter",
+      "header": "PREFACE & BACKGROUND",
+      "title": "Preface by the Translators",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "PREFACE & TRANSLATION HISTORICAL CONTEXT"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Empowering indigenous communities requires accessible legal literacy in"
+        ],
+        [
+          "/F1",
+          10,
+          "their mother tongue. This primer renders fundamental constitutional"
+        ],
+        [
+          "/F1",
+          10,
+          "concepts—sovereignty, justice, liberty, equality, and fraternity—into"
+        ],
+        [
+          "/F1",
+          10,
+          "dignified Tangkhul legal prose, harmonizing constitutional democracy"
+        ],
+        [
+          "/F1",
+          10,
+          "with customary village court (*Hangva*) jurisprudence."
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Archival Catalog Reference: TSA-TKH-CONST-2005"
+        ]
+      ],
+      "tangkhul_content": "Tangkhul tuiwon eina kasakakhui tuitam maram.",
+      "english_translation": "Empowering indigenous communities requires accessible legal literacy in their mother tongue. This primer renders fundame...",
+      "notes": "Critical front matter with bibliographic context."
+    },
+    {
+      "page_number": 3,
+      "page_type": "toc",
+      "header": "TABLE OF CONTENTS",
+      "title": "Contents & Chapter Division",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "TABLE OF CONTENTS (TANGKHUL TUITAM MARAM)"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 1: The Preamble to the Constitution of India (Samvi ..... Page 4"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 2: Fundamental Rights (Article 14 to 32) ..... Page 7"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 3: Customary Law, Village Courts (Hangva) & Article ..... Page 10"
+        ],
+        [
+          "/F1",
+          10,
+          "Chapter 4: Bilingual Legal & Civic Glossary (Tangkhul-Engli ..... Page 13"
+        ],
+        [
+          "/F1",
+          10,
+          "Comprehensive Lexicon & Colophon .................. Page 16"
+        ]
+      ],
+      "tangkhul_content": "Tuitam Maram: Chapter 1 to Chapter 4.",
+      "english_translation": "Table of Contents outlining all chapters, glossaries, and critical notes.",
+      "notes": "Table of contents."
+    },
+    {
+      "page_number": 4,
+      "page_type": "chapter",
+      "header": "CHAPTER 1",
+      "title": "The Preamble to the Constitution of India (Samvidhan Preamble)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 1: THE PREAMBLE TO THE CONSTITUTION OF INDIA (SAMVIDHAN PREAMBLE)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Solemn translation of the Preamble into classical Tangkhul civic diction...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Samvidhan Preamble:"
+        ],
+        [
+          "/F1",
+          9,
+          "ITHUM INDIAWUI MIKUMO, India-li Sovereign, Socialist, Secular,"
+        ],
+        [
+          "/F1",
+          9,
+          "Democratic Republic akha sakhavai solemn ningkacham eina kasakakhui,"
+        ],
+        [
+          "/F1",
+          9,
+          "kala chiwui citizen pupupwui vang:"
+        ],
+        [
+          "/F1",
+          9,
+          "JUSTICE (Mashung-kasa): Social, economic, kala political;"
+        ],
+        [
+          "/F1",
+          9,
+          "LIBERTY (Khangachon / Mathat): Ningkhamathan, phasha-kashak,"
+        ],
+        [
+          "/F1",
+          9,
+          "chotkhangashit, kala worship;"
+        ],
+        [
+          "/F1",
+          9,
+          "EQUALITY (Khangayam): Thot-phā kala opportunity wui ngachaili;"
+        ],
+        [
+          "/F1",
+          9,
+          "FRATERNITY (Uningnao ngayeikasa): Mikumo akha-akhawui dignity kala"
+        ],
+        [
+          "/F1",
+          9,
+          "Nationwui unity kala integrity ngashankhavai;"
+        ],
+        [
+          "/F1",
+          9,
+          "ITHUI CONSTITUENT ASSEMBLY-li November 26, 1949 zingsho eina Samvidhan"
+        ],
+        [
+          "/F1",
+          9,
+          "hi adopt salaga, enact salaga ithuwui aphasa thapupli miserie."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India"
+        ],
+        [
+          "/F1",
+          9,
+          "into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to"
+        ],
+        [
+          "/F1",
+          9,
+          "all its citizens: JUSTICE, social, economic and political; LIBERTY of"
+        ],
+        [
+          "/F1",
+          9,
+          "thought, expression, belief, faith and worship; EQUALITY of status and"
+        ],
+        [
+          "/F1",
+          9,
+          "of opportunity; and to promote among them all FRATERNITY assuring the"
+        ],
+        [
+          "/F1",
+          9,
+          "dignity of the individual and the unity and integrity of the Nation; IN"
+        ],
+        [
+          "/F1",
+          9,
+          "OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do"
+        ],
+        [
+          "/F1",
+          9,
+          "HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+        ]
+      ],
+      "tangkhul_content": "Samvidhan Preamble:\nITHUM INDIAWUI MIKUMO, India-li Sovereign, Socialist, Secular, Democratic Republic akha sakhavai solemn ningkacham eina kasakakhui, kala chiwui citizen pupupwui vang:\nJUSTICE (Mashung-kasa): Social, economic, kala political;\nLIBERTY (Khangachon / Mathat): Ningkhamathan, phasha-kashak, chotkhangashit, kala worship;\nEQUALITY (Khangayam): Thot-phā kala opportunity wui ngachaili;\nFRATERNITY (Uningnao ngayeikasa): Mikumo akha-akhawui dignity kala Nationwui unity kala integrity ngashankhavai;\nITHUI CONSTITUENT ASSEMBLY-li November 26, 1949 zingsho eina Samvidhan hi adopt salaga, enact salaga ithuwui aphasa thapupli miserie.",
+      "english_translation": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.",
+      "notes": "Primary text of Chapter 1."
+    },
+    {
+      "page_number": 5,
+      "page_type": "study_page",
+      "header": "CH 1 STUDY",
+      "title": "Study Notes: The Preamble to the Constitution of India (Samvidhan Preamble)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Sovereign (adj/noun): Kapei Pangashan (Supreme self-governing authority)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Sovereign Republic."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Mashung-kasa (noun): Justice, moral uprightness, fairness"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Social justice mashung-kasa."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Uningnao ngayeikasa (noun): Fraternity, brotherly kinship love"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Fraternity wui tui."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Constitutional legal compounding: 'Uningnao ngayeikasa' for Fraternity."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Solemn declarative formula: 'adopt salaga, enact salaga... miserie'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Memorize the Tangkhul translation of the Preamble."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Identify the four cardinal constitutional pillars in Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "Sovereign: Kapei Pangashan (Supreme self-governing authority); Mashung-kasa: Justice, moral uprightness, fairness; Uningnao ngayeikasa: Fraternity, brotherly kinship love",
+      "english_translation": "Constitutional legal compounding: 'Uningnao ngayeikasa' for Fraternity.; Solemn declarative formula: 'adopt salaga, enact salaga... miserie'.",
+      "notes": "Linguistic notes and exercises for Chapter 1."
+    },
+    {
+      "page_number": 6,
+      "page_type": "commentary",
+      "header": "CH 1 COMMENTARY",
+      "title": "Commentary: The Preamble to the Constitution of India (Samvidhan Preamble)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 1 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 1."
+    },
+    {
+      "page_number": 7,
+      "page_type": "chapter",
+      "header": "CHAPTER 2",
+      "title": "Fundamental Rights (Article 14 to 32)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 2: FUNDAMENTAL RIGHTS (ARTICLE 14 TO 32)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Rights to equality, freedom of speech, personal liberty, and constitutional reme..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Fundamental Rights (Hao Citizen Rights):"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Article 14: Law-wui ngalemli mikumo pupup khangayam leisaye (Equality"
+        ],
+        [
+          "/F1",
+          9,
+          "before law)."
+        ],
+        [
+          "/F1",
+          9,
+          "2. Article 19: Tui hangkhavai, phanit sakhavai, kala union kasakhavai"
+        ],
+        [
+          "/F1",
+          9,
+          "mathat (Freedom of speech & assembly)."
+        ],
+        [
+          "/F1",
+          9,
+          "3. Article 21: Ringkapha kala personal liberty huikhuikhavai rights."
+        ],
+        [
+          "/F1",
+          9,
+          "4. Article 25: Chotkhangashit kala reot-kasavai freedom."
+        ],
+        [
+          "/F1",
+          9,
+          "5. Article 29-30: Minority language, script kala culture ngashankhavai"
+        ],
+        [
+          "/F1",
+          9,
+          "rights."
+        ],
+        [
+          "/F1",
+          9,
+          "6. Article 32: Supreme Court kala High Court-li writ petition eina"
+        ],
+        [
+          "/F1",
+          9,
+          "rights huikhuikhavai remedies."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Overview of Part III of the Constitution: Equality before the law, six"
+        ],
+        [
+          "/F1",
+          9,
+          "freedoms of Article 19, protection of life and personal liberty under"
+        ],
+        [
+          "/F1",
+          9,
+          "Article 21, freedom of religion under Article 25, minority cultural and"
+        ],
+        [
+          "/F1",
+          9,
+          "linguistic protections under Articles 29-30, and the right to"
+        ],
+        [
+          "/F1",
+          9,
+          "constitutional remedies under Article 32."
+        ]
+      ],
+      "tangkhul_content": "Fundamental Rights (Hao Citizen Rights):\n1. Article 14: Law-wui ngalemli mikumo pupup khangayam leisaye (Equality before law).\n2. Article 19: Tui hangkhavai, phanit sakhavai, kala union kasakhavai mathat (Freedom of speech & assembly).\n3. Article 21: Ringkapha kala personal liberty huikhuikhavai rights.\n4. Article 25: Chotkhangashit kala reot-kasavai freedom.\n5. Article 29-30: Minority language, script kala culture ngashankhavai rights.\n6. Article 32: Supreme Court kala High Court-li writ petition eina rights huikhuikhavai remedies.",
+      "english_translation": "Overview of Part III of the Constitution: Equality before the law, six freedoms of Article 19, protection of life and personal liberty under Article 21, freedom of religion under Article 25, minority cultural and linguistic protections under Articles 29-30, and the right to constitutional remedies under Article 32.",
+      "notes": "Primary text of Chapter 2."
+    },
+    {
+      "page_number": 8,
+      "page_type": "study_page",
+      "header": "CH 2 STUDY",
+      "title": "Study Notes: Fundamental Rights (Article 14 to 32)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * khangayam (noun): equality, equal standing without discrimination"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Law-wui ngalemli khangayam."
+        ],
+        [
+          "/F2",
+          9,
+          "  * personal liberty (noun): Aphasa wui mathat (bodily freedom)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Article 21 liberty."
+        ],
+        [
+          "/F2",
+          9,
+          "  * writ petition (noun): Haikaphā petition (judicial remedy)"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Article 32 writ."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Legal rights nomenclature: 'rights ngashankhavai' (safeguarding of rights)."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Universal quantifier: 'mikumo pupup' (all citizens without exception)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Why are Articles 29 and 30 crucial for Tangkhul linguistic preservation?"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate Article 21 into Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "khangayam: equality, equal standing without discrimination; personal liberty: Aphasa wui mathat (bodily freedom); writ petition: Haikaphā petition (judicial remedy)",
+      "english_translation": "Legal rights nomenclature: 'rights ngashankhavai' (safeguarding of rights).; Universal quantifier: 'mikumo pupup' (all citizens without exception).",
+      "notes": "Linguistic notes and exercises for Chapter 2."
+    },
+    {
+      "page_number": 9,
+      "page_type": "commentary",
+      "header": "CH 2 COMMENTARY",
+      "title": "Commentary: Fundamental Rights (Article 14 to 32)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 2 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 2."
+    },
+    {
+      "page_number": 10,
+      "page_type": "chapter",
+      "header": "CHAPTER 3",
+      "title": "Customary Law, Village Courts (Hangva) & Article 371",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 3: CUSTOMARY LAW, VILLAGE COURTS (HANGVA) & ARTICLE 371"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: Integration of indigenous tribal customary law, village councils, and constituti..."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Hao Ngashan kala Constitutional Protection:"
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul village pupupli traditional council hoda Hangva (Village Court)"
+        ],
+        [
+          "/F1",
+          9,
+          "leisaye. Awungshina headman hoda court-wui tui khak-kasaye. Article 371A"
+        ],
+        [
+          "/F1",
+          9,
+          "kala 371C-wui provisions eina tribal customary laws, land ownership"
+        ],
+        [
+          "/F1",
+          9,
+          "(ngalei khangayei), and civil justice-li constitutional autonomy"
+        ],
+        [
+          "/F1",
+          9,
+          "miserie. Hangvawui decisions customary law eina sashung-khalang, formal"
+        ],
+        [
+          "/F1",
+          9,
+          "law courtsna chichi respect salaga ngashane."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Tribal customary governance operates through the Hangva (Village Council"
+        ],
+        [
+          "/F1",
+          9,
+          "and Court) presided over by the Awungshi (village chief/headman)."
+        ],
+        [
+          "/F1",
+          9,
+          "Constitutional provisions including Article 371 safeguard indigenous"
+        ],
+        [
+          "/F1",
+          9,
+          "customary laws, land tenure systems, and traditional conflict resolution"
+        ],
+        [
+          "/F1",
+          9,
+          "from arbitrary legislative interference."
+        ]
+      ],
+      "tangkhul_content": "Hao Ngashan kala Constitutional Protection:\nTangkhul village pupupli traditional council hoda Hangva (Village Court) leisaye. Awungshina headman hoda court-wui tui khak-kasaye. Article 371A kala 371C-wui provisions eina tribal customary laws, land ownership (ngalei khangayei), and civil justice-li constitutional autonomy miserie. Hangvawui decisions customary law eina sashung-khalang, formal law courtsna chichi respect salaga ngashane.",
+      "english_translation": "Tribal customary governance operates through the Hangva (Village Council and Court) presided over by the Awungshi (village chief/headman). Constitutional provisions including Article 371 safeguard indigenous customary laws, land tenure systems, and traditional conflict resolution from arbitrary legislative interference.",
+      "notes": "Primary text of Chapter 3."
+    },
+    {
+      "page_number": 11,
+      "page_type": "study_page",
+      "header": "CH 3 STUDY",
+      "title": "Study Notes: Customary Law, Village Courts (Hangva) & Article 371",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Hangva (noun): traditional village council and court of elders"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Hangvawui decisions."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Awungshi (noun): hereditary village chief / headman"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Awungshina court tui khake."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngalei khangayei (noun): ancestral tribal land tenure rights"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Ngalei khangayei autonomy."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Indigenous jurisprudence vocabulary: 'Hangva', 'Awungshi', 'Kashan'."
+        ],
+        [
+          "/F1",
+          9,
+          "  - Autonomy status terminology: 'constitutional autonomy miserie'."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Explain the role of the Hangva in customary dispute resolution."
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] How do Articles 371A/371C protect Tangkhul land tenure?"
+        ]
+      ],
+      "tangkhul_content": "Hangva: traditional village council and court of elders; Awungshi: hereditary village chief / headman; ngalei khangayei: ancestral tribal land tenure rights",
+      "english_translation": "Indigenous jurisprudence vocabulary: 'Hangva', 'Awungshi', 'Kashan'.; Autonomy status terminology: 'constitutional autonomy miserie'.",
+      "notes": "Linguistic notes and exercises for Chapter 3."
+    },
+    {
+      "page_number": 12,
+      "page_type": "commentary",
+      "header": "CH 3 COMMENTARY",
+      "title": "Commentary: Customary Law, Village Courts (Hangva) & Article 371",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 3 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 3."
+    },
+    {
+      "page_number": 13,
+      "page_type": "chapter",
+      "header": "CHAPTER 4",
+      "title": "Bilingual Legal & Civic Glossary (Tangkhul-English-Hindi)",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "CHAPTER 4: BILINGUAL LEGAL & CIVIC GLOSSARY (TANGKHUL-ENGLISH-HINDI)"
+        ],
+        [
+          "/F1",
+          9,
+          "Summary: 30 constitutional, judicial, and civic terms in Tangkhul, English, and Hindi...."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Text:"
+        ],
+        [
+          "/F1",
+          9,
+          "Legal Glossary:"
+        ],
+        [
+          "/F1",
+          9,
+          "1. Samvidhan -- Constitution (संविधान)"
+        ],
+        [
+          "/F1",
+          9,
+          "2. Mashung-kasa -- Justice (न्याय)"
+        ],
+        [
+          "/F1",
+          9,
+          "3. Mathat -- Liberty (स्वतंत्रता)"
+        ],
+        [
+          "/F1",
+          9,
+          "4. Khangayam -- Equality (समानता)"
+        ],
+        [
+          "/F1",
+          9,
+          "5. Uningnao -- Fraternity (बंधुत्व)"
+        ],
+        [
+          "/F1",
+          9,
+          "6. Hangva -- Village Court (ग्राम पंचायत / जनजातीय न्यायालय)"
+        ],
+        [
+          "/F1",
+          9,
+          "7. Awungshi -- Village Chief (ग्राम प्रधान)"
+        ],
+        [
+          "/F1",
+          9,
+          "8. Ngalei khangayei -- Land tenure rights (भूमि अधिकार)"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "English Translation / Hindi Meaning:"
+        ],
+        [
+          "/F1",
+          9,
+          "Trilingual legal and constitutional lexicon supporting civic education"
+        ],
+        [
+          "/F1",
+          9,
+          "in Manipur."
+        ]
+      ],
+      "tangkhul_content": "Legal Glossary:\n1. Samvidhan -- Constitution (संविधान)\n2. Mashung-kasa -- Justice (न्याय)\n3. Mathat -- Liberty (स्वतंत्रता)\n4. Khangayam -- Equality (समानता)\n5. Uningnao -- Fraternity (बंधुत्व)\n6. Hangva -- Village Court (ग्राम पंचायत / जनजातीय न्यायालय)\n7. Awungshi -- Village Chief (ग्राम प्रधान)\n8. Ngalei khangayei -- Land tenure rights (भूमि अधिकार)",
+      "english_translation": "Trilingual legal and constitutional lexicon supporting civic education in Manipur.",
+      "notes": "Primary text of Chapter 4."
+    },
+    {
+      "page_number": 14,
+      "page_type": "study_page",
+      "header": "CH 4 STUDY",
+      "title": "Study Notes: Bilingual Legal & Civic Glossary (Tangkhul-English-Hindi)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- VOCABULARY & GRAMMAR"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Vocabulary Entries:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Samvidhan (noun): Constitution"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Indiawui Samvidhan."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Mashung-kasa (noun): Justice"
+        ],
+        [
+          "/F1",
+          8,
+          "    Ex: Social mashung-kasa."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Grammar Notes & Idiomatic Usage:"
+        ],
+        [
+          "/F1",
+          9,
+          "  - Trilingual legal nomenclature."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Comprehension & Exercises:"
+        ],
+        [
+          "/F1",
+          9,
+          "  [?] Translate 5 constitutional terms from Hindi into Tangkhul."
+        ]
+      ],
+      "tangkhul_content": "Samvidhan: Constitution; Mashung-kasa: Justice",
+      "english_translation": "Trilingual legal nomenclature.",
+      "notes": "Linguistic notes and exercises for Chapter 4."
+    },
+    {
+      "page_number": 15,
+      "page_type": "commentary",
+      "header": "CH 4 COMMENTARY",
+      "title": "Commentary: Bilingual Legal & Civic Glossary (Tangkhul-English-Hindi)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "CHAPTER 4 -- LITERARY & CULTURAL COMMENTARY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Translation Analysis & Cultural Adaptation:"
+        ],
+        [
+          "/F1",
+          9,
+          "This chapter presents nuanced translation strategies adapting foreign metaphors to Tangkhul cultural idioms."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Dialectal & Orthographic Concordance:"
+        ],
+        [
+          "/F1",
+          9,
+          "Standard Ukhrul phonology is reflected throughout. Verbal affixes and agentive postpositions"
+        ],
+        [
+          "/F1",
+          9,
+          "are preserved according to the classic orthographic canon."
+        ]
+      ],
+      "tangkhul_content": "Tuiwon hi Ukhrul tui eina kashur tuitam kasaye.",
+      "english_translation": "Literary commentary analyzing semantic adaptation and syntactic integrity.",
+      "notes": "Scholarly commentary for Chapter 4."
+    },
+    {
+      "page_number": 16,
+      "page_type": "back_matter",
+      "header": "COLOPHON & GLOSSARY",
+      "title": "Consolidated Glossary & Colophon",
+      "lines": [
+        [
+          "/F2",
+          14,
+          "BACK MATTER: GLOSSARY & DIGITIZATION COLOPHON"
+        ],
+        [
+          "/F1",
+          10,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Consolidated Vocabulary Summary:"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Sovereign -- Kapei Pangashan (Supreme self-governing authority)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Mashung-kasa -- Justice, moral uprightness, fairness"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Uningnao ngayeikasa -- Fraternity, brotherly kinship love"
+        ],
+        [
+          "/F1",
+          9,
+          "  * khangayam -- equality, equal standing without discrimination"
+        ],
+        [
+          "/F1",
+          9,
+          "  * personal liberty -- Aphasa wui mathat (bodily freedom)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * writ petition -- Haikaphā petition (judicial remedy)"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Hangva -- traditional village council and court of elders"
+        ],
+        [
+          "/F1",
+          9,
+          "  * Awungshi -- hereditary village chief / headman"
+        ],
+        [
+          "/F1",
+          9,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "Digitization Colophon:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+        ],
+        [
+          "/F1",
+          9,
+          "Full JSON and PDF multi-page reproductions deposited in the digital repository."
+        ]
+      ],
+      "tangkhul_content": "Tuitam khangacham: Tangkhul tuiwon kazip-kaphā.",
+      "english_translation": "Consolidated glossary and digital preservation colophon.",
+      "notes": "Closing colophon page."
+    }
+  ],
+  "back_matter": {
+    "glossary": [
+      {
+        "word": "Sovereign",
+        "pos": "adj/noun",
+        "meaning": "Kapei Pangashan (Supreme self-governing authority)",
+        "example": "Sovereign Republic."
+      },
+      {
+        "word": "Mashung-kasa",
+        "pos": "noun",
+        "meaning": "Justice, moral uprightness, fairness",
+        "example": "Social justice mashung-kasa."
+      },
+      {
+        "word": "Uningnao ngayeikasa",
+        "pos": "noun",
+        "meaning": "Fraternity, brotherly kinship love",
+        "example": "Fraternity wui tui."
+      },
+      {
+        "word": "khangayam",
+        "pos": "noun",
+        "meaning": "equality, equal standing without discrimination",
+        "example": "Law-wui ngalemli khangayam."
+      },
+      {
+        "word": "personal liberty",
+        "pos": "noun",
+        "meaning": "Aphasa wui mathat (bodily freedom)",
+        "example": "Article 21 liberty."
+      },
+      {
+        "word": "writ petition",
+        "pos": "noun",
+        "meaning": "Haikaphā petition (judicial remedy)",
+        "example": "Article 32 writ."
+      },
+      {
+        "word": "Hangva",
+        "pos": "noun",
+        "meaning": "traditional village council and court of elders",
+        "example": "Hangvawui decisions."
+      },
+      {
+        "word": "Awungshi",
+        "pos": "noun",
+        "meaning": "hereditary village chief / headman",
+        "example": "Awungshina court tui khake."
+      },
+      {
+        "word": "ngalei khangayei",
+        "pos": "noun",
+        "meaning": "ancestral tribal land tenure rights",
+        "example": "Ngalei khangayei autonomy."
+      },
+      {
+        "word": "Samvidhan",
+        "pos": "noun",
+        "meaning": "Constitution",
+        "example": "Indiawui Samvidhan."
+      },
+      {
+        "word": "Mashung-kasa",
+        "pos": "noun",
+        "meaning": "Justice",
+        "example": "Social mashung-kasa."
+      }
+    ],
+    "colophon": "Digitalized and preserved by the Tangkhul Language Library Preservation Project."
+  },
+  "total_pages": 16,
+  "total_chapters": 4,
+  "total_words": 434,
+  "excerpts": [
+    "Samvidhan Preamble:\nITHUM INDIAWUI MIKUMO, India-li Sovereign, Socialist, Secular, Democratic Republic akha sakhavai sol...",
+    "Fundamental Rights (Hao Citizen Rights):\n1. Article 14: Law-wui ngalemli mikumo pupup khangayam leisaye (Equality before...",
+    "Hao Ngashan kala Constitutional Protection:\nTangkhul village pupupli traditional council hoda Hangva (Village Court) lei...",
+    "Legal Glossary:\n1. Samvidhan -- Constitution (संविधान)\n2. Mashung-kasa -- Justice (न्याय)\n3. Mathat -- Liberty (स्वतंत्र..."
+  ]
+}

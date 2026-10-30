@@ -1,0 +1,37 @@
+TITLE: Towards Morphological Processing and Computational Analysis of the Tangkhul Language
+AUTHORS: Richard Luikham, Dr. Ninghorla Zimik, Dr. Kh. Raju Singh
+JOURNAL / VENUE: Computational Linguistics & Natural Language Processing Journal (2020)
+SUBJECT: Computational Linguistics & NLP
+KEYWORDS: NLP, Morphological Segmentation, Tangkhul, Tokenization, Low-Resource NLP, Corpus
+
+ABSTRACT:
+Building language technology for indigenous, low-resource languages requires robust morphological analyzers and clean corpora. In this paper, we develop a computational pipeline for the Tangkhul language spoken in Manipur, India. Using a digitalized corpus of 150,000 words extracted from curriculum textbooks and folklore anthologies, we analyze token frequency distributions, morpheme boundaries, and syntactic function words. We implement a rule-enhanced finite-state segmenter that handles complex affixation, achieving an F1-score of 88.4% on out-of-vocabulary root identification and lemmatization.
+
+SECTION: 1. Linguistic Background & Digital Resource Gap
+Despite possessing over 180,000 speakers and a century of published literature in Roman script, Tangkhul remains severely under-represented in modern computational language resources. Standard tools like spaCy and NLTK fail on Tangkhul text due to agglutinative suffix chains and unique function particles. We address this resource gap by compiling a standardized tokenized corpus and establishing baseline segmentation benchmarks.
+Linguistic Data:
+  * eina : instrumental / ablative / causal postposition
+    Notes: Most frequent particle (rel. freq: 4.8%).
+  * kala : coordinating conjunction (and)
+    Notes: Sentence and clause connector (rel. freq: 3.9%).
+  * hi / chi : proximal ('this') / distal ('that') demonstrative
+    Notes: Definiteness marker (rel. freq: 5.2%).
+
+SECTION: 2. Affix Segmentation Architecture
+Tangkhul verbs inflect through sequential agglutination: [Prefix] + Root + [Aspect/Valency] + [Tense/Mood] + [Clause Linker]. For example, the surface word 'i-thei-ser-ra-kaji' decomposes into root thei 'see', completive -ser, future -ra, and quotative -kaji. Our finite-state transducer segments these affix clusters systematically, resolving morphophonemic boundary adjustments.
+Linguistic Data:
+  * sa-sak-kalu (sa-sak-ka-lu) : cause to make! (imperative causative)
+    Notes: Root + Causative + Imperative.
+  * ngashan-bing-wui (ngashan-bing-wui) : of the clans (genitive plural)
+    Notes: Noun + Plural + Genitive.
+
+SECTION: 3. Evaluation & NLP Applications
+We evaluated our morphological analyzer on a gold-standard annotated test set of 2,500 sentences. The system achieved 91.2% precision and 85.8% recall on boundary detection. We demonstrate applications in bilingual dictionary search, computer-assisted language learning (CALL), and keyword extraction for digital heritage repositories.
+Linguistic Data:
+  * kasakakhui (ka-sa-ka-khui) : compilation, gathering together
+    Notes: Double nominalized compound.
+
+REFERENCES:
+  - Jurafsky, Daniel & James H. Martin. 2020. Speech and Language Processing (3rd ed. draft).
+  - Luikham, Richard, Ninghorla Zimik & Kh. Raju Singh. 2020. Towards the Study of Morphological Processing of the Tangkhul Language. arXiv:2009.07124.
+  - Tangkhul Literature Society. 2021. Tangkhul Grammar and Composition. Imphal: TLS Manipur.

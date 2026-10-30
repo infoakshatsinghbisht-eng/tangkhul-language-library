@@ -1,0 +1,40 @@
+TITLE: Tangkhul Hao Ngashan: Customary Law, Clan Exogamy, and Social Governance
+AUTHORS: T. Luikham, A. S. W. Shimray, Wung Cultural Research Forum
+JOURNAL / VENUE: Tribal Jurisprudence & Cultural Bulletin of Manipur (2004)
+SUBJECT: Customary Law, Tribal Jurisprudence & Clan Governance
+KEYWORDS: Hao Ngashan, Customary Law, Clan Exogamy, Hangva, Shimxang, Tuishot, Jurisprudence
+
+ABSTRACT:
+Hao Ngashan embodies the unwritten constitutional and customary legal code governing Tangkhul society since time immemorial. This paper analyzes the structural pillars of Tangkhul customary jurisprudence: the patrilineal clan system (Shang), strict clan exogamy (Kashan), land tenure mechanisms, the judicial authority of the Village Council (Hangva), and traditional dispute settlement procedures. We examine the sacred oath-taking formula (Tuishot) and demonstrate how customary law operates harmoniously alongside modern constitutional protections in Manipur.
+
+SECTION: 1. The Clan (Shang) and Exogamous Marriage (Kashan)
+Tangkhul social structure is organized into patrilineal clans (Shang) that trace their descent from common ancestors. The bedrock principle of social ethics is Kashan—strict clan exogamy. Intermarriage within the same Shang is considered an intolerable moral taboo (Kashansha) that historically incurred banishment from the village territory. All marriages must link distinct Shangs, creating enduring reciprocal obligations and alliances across the community.
+Linguistic Data:
+  * Shang : patrilineal clan, lineage house
+  * Kashan : customary law of clan exogamy
+    Notes: Fundamental marital taboo and governance rule.
+  * Kashansha : incestuous breach of clan exogamy
+    Notes: Social transgression incurring ostracism.
+
+SECTION: 2. The Village Court (Hangva) & Judicial Administration
+Civic, property, and criminal disputes are adjudicated by the Hangva (Village Council and Court of Elders), presided over by the hereditary Awungshi (chief). Each major clan is represented by a senior elder (Hangva-khana). The court prioritizes reconciliation (Tui-ngalung) and restitution rather than retributive punishment. Fines historically took the form of cattle, swine, woven blankets (Haora), or rice beer (Khor).
+Linguistic Data:
+  * Hangva : village council of clan elders / traditional court
+    Notes: Judicial bench of the village.
+  * Tui-ngalung : peaceful reconciliation, amicable arbitration
+    Notes: Consensus-based restorative justice.
+  * Khor : traditional rice brew used in customary treaty sealing
+    Notes: Sacred drink sealing reconciled pacts.
+
+SECTION: 3. The Sacred Oath Formula: Tuishot
+When evidence in boundary or theft disputes is ambiguous and witnesses are divided, the dispute is resolved by Tuishot (the solemn oath before earth and heaven). The disputing parties bite a tiger tooth (Haram-ha) or plunge stones into sacred water, invoking divine retribution upon whoever utters falsehood. The fear of ancestral and cosmic retribution ensured near-absolute truthfulness in customary legal proceedings.
+Linguistic Data:
+  * Tuishot : solemn traditional oath-taking ordeal
+    Notes: Supreme evidentiary oath before spirits and earth.
+  * Haram-ha : tiger tooth used in sacred oath trials
+    Notes: Symbol of wild retribution against perjury.
+
+REFERENCES:
+  - Luikham, T. 1961. Wung Tangkhul Naga Okthot Mayonza. Imphal: Tangkhul Literature Society.
+  - Shimray, A. S. W. 2001. History of the Tangkhul Nagas. New Delhi: Akansha Publishing House.
+  - Wung Cultural Research Forum. 2004. Tangkhul Hao Ngashan: Customary Law and Jurisprudence. Imphal.

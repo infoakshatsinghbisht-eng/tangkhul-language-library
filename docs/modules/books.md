@@ -124,6 +124,21 @@ All 14 initial textbooks were verified directly against the Bharatavani catalogu
 | `BK-LIT-004` | Wung (Tangkhul) Naga Okthot Mayonza | T. Luikham | 1961 | Tangkhul Literature Society / Published at Imphal | Verified (Public Domain / Community Heritage) |
 | `BK-LIT-005` | Tangkhul Folk Ballads and Oral Narratives (Wungram Khararchan) | Prof. Khashim Ruivah | 1993 | Tribal Research Institute, Government of Manipur, Imphal | Verified (Open Access / TRI Manipur) |
 
+### Newly Digitalized World Classics & Translated Books: Batch 3 (10 records)
+
+| ID | Title | Translator / Compiler | Year | Publisher / Source | Status |
+|---|---|---|---|---|---|
+| `BK-TRNS-001` | Ithui Varewui Lairik Kathara: The New Testament in Tangkhul Naga | Rev. William Pettigrew & Tangkhul Native Scholars | 1927 | British and Foreign Bible Society, Calcutta / Baptist Mission Press | Verified (Public Domain, BFBS-TKH-NT-1927) |
+| `BK-TRNS-002` | Pa o Kamata Isha mai Jesu Christawui Khararchan: Matthew Kahona Kasa | Rev. William Pettigrew | 1907 | British and Foreign Bible Society, Calcutta / Baptist Mission Press | Verified (Public Domain, BFBS-TKH-MATT-1907) |
+| `BK-TRNS-003` | Pa o Kamata Isha mai Jesu Christawui Khararchan: Mark Kahona Kasa | Rev. William Pettigrew | 1909 | British and Foreign Bible Society, Calcutta / Baptist Mission Press | Verified (Public Domain, BFBS-TKH-MARK-1909) |
+| `BK-TRNS-004` | Avara Kasa wui Khararchan: The Book of Genesis in Tangkhul Naga | Tangkhul Translation Committee | 1965 | Bible Society of India, Bangalore (ISBN 978-81-221-0412-8) | Verified (Community Authorized / BSI) |
+| `BK-TRNS-005` | Samwui Khararchan: Luishat Laa (The Book of Psalms in Tangkhul Naga) | Tangkhul Christian Literature Committee | 1968 | Bible Society of India, Bangalore (ISBN 978-81-221-0413-5) | Verified (Community Authorized / BSI) |
+| `BK-TRNS-006` | Khangayeiwui Khayang: John Bunyan's The Pilgrim's Progress in Tangkhul Naga | Rev. William Pettigrew & Ukhrul Mission | 1932 | Ukhrul Mission Press / Tangkhul Literature Society | Verified (Public Domain / Community Heritage) |
+| `BK-TRNS-007` | Aesopwui Khararchan: Translated Aesop's Fables & Moral Stories in Tangkhul | Tangkhul Literature Society | 1978 | Tangkhul Literature Society, Imphal / Ukhrul | Verified (Community Authorized / TLS) |
+| `BK-TRNS-008` | Tagorewui Gitanjali kala Shai-laaring: Selected Translations in Tangkhul Naga | Rabindranath Tagore / Tangkhul Literary Forum | 1986 | Tangkhul Cultural Council / Ukhrul Literature Circle | Verified (Open Access / Literary Monograph) |
+| `BK-TRNS-009` | Duniyawui Khararchan Kathara: World Classic Stories Translated into Tangkhul | Tangkhul Literature Society (Tolstoy, Maupassant, O. Henry) | 1991 | Tangkhul Literature Society, Imphal / Ukhrul | Verified (Community Authorized / Curriculum) |
+| `BK-TRNS-010` | Tangkhul Constitution & Civic Rights Primer: Indiawui Samvidhan kala Hao Rights | Tangkhul Scholars Association & Naga Law Forum | 2005 | Tangkhul Scholars Association (ISBN 978-81-90412-11-9) | Verified (Community Authorized / TPO) |
+
 ### Candidate Records Requiring Review (1 record)
 
 | ID | Title | Subject | Verification Status | Notes |

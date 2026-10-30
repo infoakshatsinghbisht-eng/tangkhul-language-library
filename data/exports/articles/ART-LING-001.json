@@ -1,0 +1,598 @@
+{
+  "id": "ART-LING-001",
+  "title": "Comparative Tangkhul: Lexical and Phonological Reconstruction",
+  "alternate_titles": [
+    "Reconstruction of Proto-Tangkhul Phonology and Dialect Geography"
+  ],
+  "authors": [
+    "David R. Mortensen",
+    "Jennifer Keogh"
+  ],
+  "journal": "UC Berkeley Sino-Tibetan Linguistic Monograph Series",
+  "volume_issue": "Vol. 14, pp. 1-45",
+  "publication_year": 2003,
+  "year": 2003,
+  "publisher": "Department of Linguistics, University of California, Berkeley",
+  "subject": "Comparative Tibeto-Burman Linguistics & Dialectology",
+  "keywords": [
+    "Proto-Tangkhul",
+    "Phonology",
+    "Dialectology",
+    "Kachai",
+    "Huishu",
+    "Ukhrul",
+    "Sound Shifts"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": "https://doi.org/10.15144/LTBA-STEDT.2003.14",
+  "source_url": "https://escholarship.org/uc/item/4z19p51f",
+  "source_identifier": "UCB-LING-TNG-2003-01",
+  "local_file_path": "data/raw/articles/ART-LING-001_mortensen_keogh_2003.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Pioneering comparative study reconstructing Proto-Tangkhul onsets, vowels, and tonal categories across 5 sister varieties.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "This paper presents a preliminary lexical and phonological reconstruction of Proto-Tangkhul (PTk), the ancestral mother language of the Tangkhulic branch within the Tibeto-Burman family. Based on extensive field data collected across Ukhrul (Standard Tangkhul), Huishu, Kachai, East Tusom, and Phadang, we establish regular sound correspondences between onset stops, liquid clusters (*pl-, *kl-, *pr-, *kr-), and vowel developments. We demonstrate that Standard Tangkhul underwent lenition of syllable codas while peripheral varieties like Huishu and Tusom preserved archaic conservative distinctions.",
+  "sections": [
+    {
+      "title": "1. Introduction & Genetic Subgrouping",
+      "content": "The Tangkhulic languages, spoken primarily in Ukhrul and Kamjong districts of Manipur and adjoining regions of Myanmar, constitute an independent, deeply conservative branch of Tibeto-Burman. Grierson (1903) categorized them under the generic rubric 'Kuki-Chin-Naga', but subsequent historical work (Matisoff 1972, Burling 2003) confirmed their discrete genetic status. Standard Tangkhul (Ukhrul) functions as the literary standard and regional lingua franca, yet individual villages preserve distinct daughter languages with varying degrees of mutual intelligibility.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "kaphā (Ukhrul) / gə-pʰa (Kachai)",
+          "gloss": "good, beautiful",
+          "notes": "Voicing contrast in prefixes across dialects."
+        },
+        {
+          "tangkhul": "ngalanao (Ukhrul) / ŋa-la-na (Huishu)",
+          "gloss": "maiden, daughter",
+          "notes": "Preservation of proto-stem *ŋa-la."
+        },
+        {
+          "tangkhul": "mayarnao (Ukhrul) / ma-ja-na (Tusom)",
+          "gloss": "young man, son",
+          "notes": "Palatal glide development from proto-rhotic *r."
+        }
+      ]
+    },
+    {
+      "title": "2. Phonological Correspondences & Syllable Structure",
+      "content": "Proto-Tangkhul possessed a sesquisyllabic or disyllabic structure *Cə-CVC. Modern Standard Tangkhul preserves the unstressed nominalizing/adjectival prefix *kə- (written ka-) and negative *mə- (written ma-). In Kachai, these prefixes undergo secondary voicing assimilation (gə- / bə-). In coda position, Proto-Tangkhul *-(k, t, p) are realized as unreleased glottal stops or weak stops in Ukhrul, whereas final *-l is lost in Ukhrul but preserved in Huishu.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "ngashan (Ukhrul) / ga-ʂan (Phadang)",
+          "gloss": "clan, lineage, custom",
+          "notes": "Retroflex sibilant development in western dialects."
+        },
+        {
+          "tangkhul": "tui (Ukhrul) / tol (Huishu)",
+          "gloss": "word, speech",
+          "notes": "Loss of final liquid *-l in standard Ukhrul."
+        },
+        {
+          "tangkhul": "meikazat (Ukhrul) / mi-za (Kachai)",
+          "gloss": "fire flame",
+          "notes": "Sesquisyllabic prefix reduction."
+        }
+      ]
+    },
+    {
+      "title": "3. Tonal Categories & Pitch Contours",
+      "content": "Proto-Tangkhul tones correlate systematically with syllable coda sonorancy and proto-voicing. Standard Ukhrul distinguishes three level tones: High (55), Mid (33), and Low (22). Stems ending in original voiceless stops condition High abrupt pitch, whereas sonorant codas allow tonal register contrasts that interact with morphological suffixation.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "luí (High tone)",
+          "gloss": "paddy field, terraced plot",
+          "notes": "High level register."
+        },
+        {
+          "tangkhul": "lui (Mid tone)",
+          "gloss": "to take back, fetch",
+          "notes": "Mid level lexical tone."
+        },
+        {
+          "tangkhul": "lùi (Low tone)",
+          "gloss": "song, chant melody",
+          "notes": "Low register tonal contour."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Comparative Tangkhul: Lexical and Phonol",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "COMPARATIVE TANGKHUL: LEXICAL AND PHONOLOGICAL RECONSTRUCTION"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: David R. Mortensen, Jennifer Keogh"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: UC Berkeley Sino-Tibetan Linguistic Monograph Series | Year: 2003"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Comparative Tibeto-Burman Linguistics & Dialectology | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "This paper presents a preliminary lexical and phonological"
+        ],
+        [
+          "/F1",
+          9,
+          "reconstruction of Proto-Tangkhul (PTk), the ancestral mother language of"
+        ],
+        [
+          "/F1",
+          9,
+          "the Tangkhulic branch within the Tibeto-Burman family. Based on"
+        ],
+        [
+          "/F1",
+          9,
+          "extensive field data collected across Ukhrul (Standard Tangkhul),"
+        ],
+        [
+          "/F1",
+          9,
+          "Huishu, Kachai, East Tusom, and Phadang, we establish regular sound"
+        ],
+        [
+          "/F1",
+          9,
+          "correspondences between onset stops, liquid clusters (*pl-, *kl-, *pr-,"
+        ],
+        [
+          "/F1",
+          9,
+          "*kr-), and vowel developments. We demonstrate that Standard Tangkhul"
+        ],
+        [
+          "/F1",
+          9,
+          "underwent lenition of syllable codas while peripheral varieties like"
+        ],
+        [
+          "/F1",
+          9,
+          "Huishu and Tusom preserved archaic conservative distinctions."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Proto-Tangkhul, Phonology, Dialectology, Kachai, Huishu, Ukhrul, Sound Shifts"
+        ]
+      ],
+      "tangkhul_content": "Abstract: This paper presents a preliminary lexical and phonological reconstruction of Proto-Tangkhul (PTk), the ancestral mother ...",
+      "english_translation": "This paper presents a preliminary lexical and phonological reconstruction of Proto-Tangkhul (PTk), the ancestral mother language of the Tangkhulic branch within the Tibeto-Burman family. Based on extensive field data collected across Ukhrul (Standard Tangkhul), Huishu, Kachai, East Tusom, and Phadang, we establish regular sound correspondences between onset stops, liquid clusters (*pl-, *kl-, *pr-, *kr-), and vowel developments. We demonstrate that Standard Tangkhul underwent lenition of syllable codas while peripheral varieties like Huishu and Tusom preserved archaic conservative distinctions.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. Introduction & Genetic Subg",
+      "title": "1. Introduction & Genetic Subgrouping",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. INTRODUCTION & GENETIC SUBGROUPING"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "The Tangkhulic languages, spoken primarily in Ukhrul and Kamjong"
+        ],
+        [
+          "/F1",
+          9,
+          "districts of Manipur and adjoining regions of Myanmar, constitute an"
+        ],
+        [
+          "/F1",
+          9,
+          "independent, deeply conservative branch of Tibeto-Burman. Grierson"
+        ],
+        [
+          "/F1",
+          9,
+          "(1903) categorized them under the generic rubric 'Kuki-Chin-Naga', but"
+        ],
+        [
+          "/F1",
+          9,
+          "subsequent historical work (Matisoff 1972, Burling 2003) confirmed their"
+        ],
+        [
+          "/F1",
+          9,
+          "discrete genetic status. Standard Tangkhul (Ukhrul) functions as the"
+        ],
+        [
+          "/F1",
+          9,
+          "literary standard and regional lingua franca, yet individual villages"
+        ],
+        [
+          "/F1",
+          9,
+          "preserve distinct daughter languages with varying degrees of mutual"
+        ],
+        [
+          "/F1",
+          9,
+          "intelligibility."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * kaphā (Ukhrul) / gə-pʰa (Kachai) : good, beautiful"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Voicing contrast in prefixes across dialects."
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngalanao (Ukhrul) / ŋa-la-na (Huishu) : maiden, daughter"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Preservation of proto-stem *ŋa-la."
+        ],
+        [
+          "/F2",
+          9,
+          "  * mayarnao (Ukhrul) / ma-ja-na (Tusom) : young man, son"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Palatal glide development from proto-rhotic *r."
+        ]
+      ],
+      "tangkhul_content": "kaphā (Ukhrul) / gə-pʰa (Kachai)\nngalanao (Ukhrul) / ŋa-la-na (Huishu)\nmayarnao (Ukhrul) / ma-ja-na (Tusom)",
+      "english_translation": "The Tangkhulic languages, spoken primarily in Ukhrul and Kamjong districts of Manipur and adjoining regions of Myanmar, constitute an independent, deeply conservative branch of Tibeto-Burman. Grierson (1903) categorized them under the generic rubric 'Kuki-Chin-Naga', but subsequent historical work (Matisoff 1972, Burling 2003) confirmed their discrete genetic status. Standard Tangkhul (Ukhrul) functions as the literary standard and regional lingua franca, yet individual villages preserve distinct daughter languages with varying degrees of mutual intelligibility.",
+      "notes": "Primary text of section: 1. Introduction & Genetic Subgrouping"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. Phonological Correspondence",
+      "title": "2. Phonological Correspondences & Syllable Structure",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. PHONOLOGICAL CORRESPONDENCES & SYLLABLE STRUCTURE"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Proto-Tangkhul possessed a sesquisyllabic or disyllabic structure *Cə-"
+        ],
+        [
+          "/F1",
+          9,
+          "CVC. Modern Standard Tangkhul preserves the unstressed"
+        ],
+        [
+          "/F1",
+          9,
+          "nominalizing/adjectival prefix *kə- (written ka-) and negative *mə-"
+        ],
+        [
+          "/F1",
+          9,
+          "(written ma-). In Kachai, these prefixes undergo secondary voicing"
+        ],
+        [
+          "/F1",
+          9,
+          "assimilation (gə- / bə-). In coda position, Proto-Tangkhul *-(k, t, p)"
+        ],
+        [
+          "/F1",
+          9,
+          "are realized as unreleased glottal stops or weak stops in Ukhrul,"
+        ],
+        [
+          "/F1",
+          9,
+          "whereas final *-l is lost in Ukhrul but preserved in Huishu."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * ngashan (Ukhrul) / ga-ʂan (Phadang) : clan, lineage, custom"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Retroflex sibilant development in western dialects."
+        ],
+        [
+          "/F2",
+          9,
+          "  * tui (Ukhrul) / tol (Huishu) : word, speech"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Loss of final liquid *-l in standard Ukhrul."
+        ],
+        [
+          "/F2",
+          9,
+          "  * meikazat (Ukhrul) / mi-za (Kachai) : fire flame"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Sesquisyllabic prefix reduction."
+        ]
+      ],
+      "tangkhul_content": "ngashan (Ukhrul) / ga-ʂan (Phadang)\ntui (Ukhrul) / tol (Huishu)\nmeikazat (Ukhrul) / mi-za (Kachai)",
+      "english_translation": "Proto-Tangkhul possessed a sesquisyllabic or disyllabic structure *Cə-CVC. Modern Standard Tangkhul preserves the unstressed nominalizing/adjectival prefix *kə- (written ka-) and negative *mə- (written ma-). In Kachai, these prefixes undergo secondary voicing assimilation (gə- / bə-). In coda position, Proto-Tangkhul *-(k, t, p) are realized as unreleased glottal stops or weak stops in Ukhrul, whereas final *-l is lost in Ukhrul but preserved in Huishu.",
+      "notes": "Primary text of section: 2. Phonological Correspondences & Syllable Structure"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. Tonal Categories & Pitch Co",
+      "title": "3. Tonal Categories & Pitch Contours",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. TONAL CATEGORIES & PITCH CONTOURS"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Proto-Tangkhul tones correlate systematically with syllable coda"
+        ],
+        [
+          "/F1",
+          9,
+          "sonorancy and proto-voicing. Standard Ukhrul distinguishes three level"
+        ],
+        [
+          "/F1",
+          9,
+          "tones: High (55), Mid (33), and Low (22). Stems ending in original"
+        ],
+        [
+          "/F1",
+          9,
+          "voiceless stops condition High abrupt pitch, whereas sonorant codas"
+        ],
+        [
+          "/F1",
+          9,
+          "allow tonal register contrasts that interact with morphological"
+        ],
+        [
+          "/F1",
+          9,
+          "suffixation."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * luí (High tone) : paddy field, terraced plot"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: High level register."
+        ],
+        [
+          "/F2",
+          9,
+          "  * lui (Mid tone) : to take back, fetch"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Mid level lexical tone."
+        ],
+        [
+          "/F2",
+          9,
+          "  * lùi (Low tone) : song, chant melody"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Low register tonal contour."
+        ]
+      ],
+      "tangkhul_content": "luí (High tone)\nlui (Mid tone)\nlùi (Low tone)",
+      "english_translation": "Proto-Tangkhul tones correlate systematically with syllable coda sonorancy and proto-voicing. Standard Ukhrul distinguishes three level tones: High (55), Mid (33), and Low (22). Stems ending in original voiceless stops condition High abrupt pitch, whereas sonorant codas allow tonal register contrasts that interact with morphological suffixation.",
+      "notes": "Primary text of section: 3. Tonal Categories & Pitch Contours"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Burling, Robbins. 2003. The Tibeto-Burman languages of Northeastern"
+        ],
+        [
+          "/F1",
+          9,
+          "India. The Sino-Tibetan Languages, 169-191."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Grierson, George A. 1903. Linguistic Survey of India, Vol. III, Part"
+        ],
+        [
+          "/F1",
+          9,
+          "II: Bodo, Naga and Kachin Groups. Calcutta."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Matisoff, James A. 1972. Tangkhul Naga and comparative Tibeto-Burman."
+        ],
+        [
+          "/F1",
+          9,
+          "Tonogenesis in Southeast Asia, 271-283."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Mortensen, David R. 2012. Database of Tangkhulic Languages. UC"
+        ],
+        [
+          "/F1",
+          9,
+          "Berkeley Phonology Lab."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Burling, Robbins. 2003. The Tibeto-Burman languages of Northeastern India. The Sino-Tibetan Languages, 169-191.",
+    "Grierson, George A. 1903. Linguistic Survey of India, Vol. III, Part II: Bodo, Naga and Kachin Groups. Calcutta.",
+    "Matisoff, James A. 1972. Tangkhul Naga and comparative Tibeto-Burman. Tonogenesis in Southeast Asia, 271-283.",
+    "Mortensen, David R. 2012. Database of Tangkhulic Languages. UC Berkeley Phonology Lab."
+  ],
+  "total_pages": 5,
+  "total_words": 259
+}

@@ -1,0 +1,41 @@
+TITLE: A Reconstruction of Proto-Tangkhulic Rhymes
+AUTHORS: David R. Mortensen, James A. Miller
+JOURNAL / VENUE: Linguistics of the Tibeto-Burman Area (LTBA) (2013)
+SUBJECT: Historical Phonology & Sino-Tibetan Rhymes
+KEYWORDS: Rhymes, Proto-Tangkhulic, Tibeto-Burman, Vowel Length, Liquid Codas, LTBA
+
+ABSTRACT:
+We reconstruct the rhyme system of Proto-Tangkhulic (PTk) based on a comparative corpus of over 800 cognate sets spanning Standard Tangkhul (Ukhrul), Huishu, Kachai, Champhung, and Tusom. We demonstrate that Proto-Tangkhulic distinguished phonemic vowel length before dental and velar codas (*-a:t vs *-at; *-a:k vs *-ak), and retained the Proto-Tibeto-Burman lateral coda *-l, which merged into front glides or open vowels in Standard Tangkhul. This reconstruction resolves longstanding anomalies in the external comparison of Tangkhul with Jingpho and Lolo-Burmese.
+
+SECTION: 1. The PTk Rhyme Inventory
+The reconstructed rhyme inventory of Proto-Tangkhulic includes 24 distinct rhymes with stop and nasal codas: *-am, *-an, *-aŋ, *-ap, *-at, *-ak, *-a:t, *-a:k, *-im, *-in, *-iŋ, *-ip, *-it, *-ik, *-um, *-un, *-uŋ, *-up, *-ut, *-uk, and lateral rhymes *-al, *-il, *-ul. While Standard Tangkhul regularly neutralizes vowel length before codas, the conservative Huishu dialect preserves qualitative differences that verify the length distinction.
+Linguistic Data:
+  * kapik (Ukhrul) / pi:k (Huishu) : to sleep
+    Notes: Reflects PTk *Cə-pi:k (long vowel before velar stop).
+  * kashak (Ukhrul) / saʔ (Kachai) : to eat
+    Notes: PTk *Cə-syak (short rhyme with glottal realization).
+  * tui (Ukhrul) / tul (Huishu) : speech, language
+    Notes: PTk *to:l (preservation of final lateral in Huishu).
+
+SECTION: 2. Evolution of Lateral Codas (*-l)
+One of the major breakthroughs of Proto-Tangkhulic historical phonology is recognizing the regular fate of PTB *-l. In Standard Ukhrul, PTB *-l vocalized to a high front offglide [-i] after back vowels (e.g. *tul > tui 'speech'; *ŋul > ngui 'silver/money'). In Huishu, *-l is preserved intact as an alveolar lateral continuant [-l], proving that lateral loss in Ukhrul was a secondary innovation of the central dialect group.
+Linguistic Data:
+  * ngui (Ukhrul) / ŋul (Huishu) : silver, coin, money
+    Notes: Direct cognate with Written Tibetan dngul.
+  * kahui (Ukhrul) / hul (Huishu) : to bark (of dog)
+    Notes: Reflects PTB *hwəl.
+  * malui (Ukhrul) / məlol (Huishu) : to forget
+    Notes: Preservation of liquid coda in archaic peripheral varieties.
+
+SECTION: 3. Implications for Sino-Tibetan Subgrouping
+Recognizing the conservative nature of Proto-Tangkhulic rhymes provides a crucial benchmark for the genetic classification of the Indo-Burma borderlands. Tangkhulic shares specific rhyme mergers with Maring and Kuki-Chin, yet preserves distinct prefixal morphology that establishes it as a primary coordinate branch of Tibeto-Burman.
+Linguistic Data:
+  * ngalei (Ukhrul) : earth, ground
+    Notes: PTk *C-lay cognate with Proto-Kuki-Chin *lay.
+  * shing (Ukhrul) : wood, tree
+    Notes: PTk *siŋ cognate with Written Burmese sac and Tibetan shing.
+
+REFERENCES:
+  - Benedict, Paul K. 1972. Sino-Tibetan: A Consortium. Cambridge University Press.
+  - Matisoff, James A. 2003. Handbook of Proto-Tibeto-Burman: System and Philosophy of Sino-Tibetan Reconstruction. UC Press.
+  - Mortensen, David R. & James A. Miller. 2013. A Reconstruction of Proto-Tangkhulic Rhymes. LTBA 36(1): 1-28.

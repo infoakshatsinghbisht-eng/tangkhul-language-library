@@ -1060,6 +1060,12 @@ def generate_book_pages_and_content(book_meta: dict[str, Any]) -> dict[str, Any]
         book_data = get_ruivah_1993_ballads_data()
     elif bid == "BK-CIIL-004":
         book_data = get_ciil_1995_dictionary_data()
+    elif bid.startswith("BK-TRNS-"):
+        from tangkhul_lib.books.translated_books_data import get_all_translated_books
+        for tb in get_all_translated_books():
+            if tb["id"] == bid:
+                return tb
+        book_data = get_tls_curriculum_data(book_meta)
     elif "CIIL" in bid or "DC" in bid:
         book_data = get_academic_monograph_data(book_meta)
     else:

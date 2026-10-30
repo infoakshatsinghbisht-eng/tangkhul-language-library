@@ -1,0 +1,548 @@
+{
+  "id": "ART-CULT-002",
+  "title": "Tangkhul Hao Ngashan: Customary Law, Clan Exogamy, and Social Governance",
+  "alternate_titles": [
+    "Jurisprudence, Kinship Systems, and Conflict Resolution in Tangkhul Customary Law"
+  ],
+  "authors": [
+    "T. Luikham",
+    "A. S. W. Shimray",
+    "Wung Cultural Research Forum"
+  ],
+  "journal": "Tribal Jurisprudence & Cultural Bulletin of Manipur",
+  "volume_issue": "Special Commemorative Issue, pp. 1-52",
+  "publication_year": 2004,
+  "year": 2004,
+  "publisher": "Wung Cultural Research Forum / Directorate for Development of Tribals, Imphal",
+  "subject": "Customary Law, Tribal Jurisprudence & Clan Governance",
+  "keywords": [
+    "Hao Ngashan",
+    "Customary Law",
+    "Clan Exogamy",
+    "Hangva",
+    "Shimxang",
+    "Tuishot",
+    "Jurisprudence"
+  ],
+  "language": "English & Tangkhul",
+  "doi_url": null,
+  "source_url": "https://tribalresearch.manipur.gov.in/customarylaw/tangkhul",
+  "source_identifier": "WCRF-TJ-2004-NGASHAN",
+  "local_file_path": "data/raw/articles/ART-CULT-002_luikham_shimray_2004.txt",
+  "permission_status": "permitted",
+  "access_status": "full_text_available",
+  "verification_status": "verified",
+  "notes": "Definitive codification and analysis of Tangkhul customary jurisprudence, clan exogamy, and village court administration.",
+  "resource_type": "literature",
+  "work_type": "essay",
+  "abstract": "Hao Ngashan embodies the unwritten constitutional and customary legal code governing Tangkhul society since time immemorial. This paper analyzes the structural pillars of Tangkhul customary jurisprudence: the patrilineal clan system (Shang), strict clan exogamy (Kashan), land tenure mechanisms, the judicial authority of the Village Council (Hangva), and traditional dispute settlement procedures. We examine the sacred oath-taking formula (Tuishot) and demonstrate how customary law operates harmoniously alongside modern constitutional protections in Manipur.",
+  "sections": [
+    {
+      "title": "1. The Clan (Shang) and Exogamous Marriage (Kashan)",
+      "content": "Tangkhul social structure is organized into patrilineal clans (Shang) that trace their descent from common ancestors. The bedrock principle of social ethics is Kashan—strict clan exogamy. Intermarriage within the same Shang is considered an intolerable moral taboo (Kashansha) that historically incurred banishment from the village territory. All marriages must link distinct Shangs, creating enduring reciprocal obligations and alliances across the community.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Shang",
+          "gloss": "patrilineal clan, lineage house",
+          "example": "Shimray Shang, Horam Shang, Luikham Shang."
+        },
+        {
+          "tangkhul": "Kashan",
+          "gloss": "customary law of clan exogamy",
+          "notes": "Fundamental marital taboo and governance rule."
+        },
+        {
+          "tangkhul": "Kashansha",
+          "gloss": "incestuous breach of clan exogamy",
+          "notes": "Social transgression incurring ostracism."
+        }
+      ]
+    },
+    {
+      "title": "2. The Village Court (Hangva) & Judicial Administration",
+      "content": "Civic, property, and criminal disputes are adjudicated by the Hangva (Village Council and Court of Elders), presided over by the hereditary Awungshi (chief). Each major clan is represented by a senior elder (Hangva-khana). The court prioritizes reconciliation (Tui-ngalung) and restitution rather than retributive punishment. Fines historically took the form of cattle, swine, woven blankets (Haora), or rice beer (Khor).",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Hangva",
+          "gloss": "village council of clan elders / traditional court",
+          "notes": "Judicial bench of the village."
+        },
+        {
+          "tangkhul": "Tui-ngalung",
+          "gloss": "peaceful reconciliation, amicable arbitration",
+          "notes": "Consensus-based restorative justice."
+        },
+        {
+          "tangkhul": "Khor",
+          "gloss": "traditional rice brew used in customary treaty sealing",
+          "notes": "Sacred drink sealing reconciled pacts."
+        }
+      ]
+    },
+    {
+      "title": "3. The Sacred Oath Formula: Tuishot",
+      "content": "When evidence in boundary or theft disputes is ambiguous and witnesses are divided, the dispute is resolved by Tuishot (the solemn oath before earth and heaven). The disputing parties bite a tiger tooth (Haram-ha) or plunge stones into sacred water, invoking divine retribution upon whoever utters falsehood. The fear of ancestral and cosmic retribution ensured near-absolute truthfulness in customary legal proceedings.",
+      "tangkhul_data": [
+        {
+          "tangkhul": "Tuishot",
+          "gloss": "solemn traditional oath-taking ordeal",
+          "notes": "Supreme evidentiary oath before spirits and earth."
+        },
+        {
+          "tangkhul": "Haram-ha",
+          "gloss": "tiger tooth used in sacred oath trials",
+          "notes": "Symbol of wild retribution against perjury."
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "title_and_abstract",
+      "header": "Tangkhul Hao Ngashan: Customary Law, Cla",
+      "title": "Title & Abstract",
+      "lines": [
+        [
+          "/F2",
+          15,
+          "TANGKHUL HAO NGASHAN: CUSTOMARY LAW, CLAN EXOGAMY, AND SOCIAL GOVERNANCE"
+        ],
+        [
+          "/F1",
+          10,
+          "Authors: T. Luikham, A. S. W. Shimray, Wung Cultural Research Forum"
+        ],
+        [
+          "/F1",
+          9,
+          "Journal/Venue: Tribal Jurisprudence & Cultural Bulletin of Manipur | Year: 2004"
+        ],
+        [
+          "/F1",
+          9,
+          "Subject: Customary Law, Tribal Jurisprudence & Clan Governance | Language: English & Tangkhul"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          11,
+          "ABSTRACT:"
+        ],
+        [
+          "/F1",
+          9,
+          "Hao Ngashan embodies the unwritten constitutional and customary legal"
+        ],
+        [
+          "/F1",
+          9,
+          "code governing Tangkhul society since time immemorial. This paper"
+        ],
+        [
+          "/F1",
+          9,
+          "analyzes the structural pillars of Tangkhul customary jurisprudence: the"
+        ],
+        [
+          "/F1",
+          9,
+          "patrilineal clan system (Shang), strict clan exogamy (Kashan), land"
+        ],
+        [
+          "/F1",
+          9,
+          "tenure mechanisms, the judicial authority of the Village Council"
+        ],
+        [
+          "/F1",
+          9,
+          "(Hangva), and traditional dispute settlement procedures. We examine the"
+        ],
+        [
+          "/F1",
+          9,
+          "sacred oath-taking formula (Tuishot) and demonstrate how customary law"
+        ],
+        [
+          "/F1",
+          9,
+          "operates harmoniously alongside modern constitutional protections in"
+        ],
+        [
+          "/F1",
+          9,
+          "Manipur."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Keywords: Hao Ngashan, Customary Law, Clan Exogamy, Hangva, Shimxang, Tuishot, Jurisprudence"
+        ]
+      ],
+      "tangkhul_content": "Abstract: Hao Ngashan embodies the unwritten constitutional and customary legal code governing Tangkhul society since time immemor...",
+      "english_translation": "Hao Ngashan embodies the unwritten constitutional and customary legal code governing Tangkhul society since time immemorial. This paper analyzes the structural pillars of Tangkhul customary jurisprudence: the patrilineal clan system (Shang), strict clan exogamy (Kashan), land tenure mechanisms, the judicial authority of the Village Council (Hangva), and traditional dispute settlement procedures. We examine the sacred oath-taking formula (Tuishot) and demonstrate how customary law operates harmoniously alongside modern constitutional protections in Manipur.",
+      "notes": "Article title page with abstract and bibliographic metadata."
+    },
+    {
+      "page_number": 2,
+      "page_type": "section",
+      "header": "SEC: 1. The Clan (Shang) and Exogam",
+      "title": "1. The Clan (Shang) and Exogamous Marriage (Kashan)",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "1. THE CLAN (SHANG) AND EXOGAMOUS MARRIAGE (KASHAN)"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Tangkhul social structure is organized into patrilineal clans (Shang)"
+        ],
+        [
+          "/F1",
+          9,
+          "that trace their descent from common ancestors. The bedrock principle of"
+        ],
+        [
+          "/F1",
+          9,
+          "social ethics is Kashan—strict clan exogamy. Intermarriage within the"
+        ],
+        [
+          "/F1",
+          9,
+          "same Shang is considered an intolerable moral taboo (Kashansha) that"
+        ],
+        [
+          "/F1",
+          9,
+          "historically incurred banishment from the village territory. All"
+        ],
+        [
+          "/F1",
+          9,
+          "marriages must link distinct Shangs, creating enduring reciprocal"
+        ],
+        [
+          "/F1",
+          9,
+          "obligations and alliances across the community."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Shang : patrilineal clan, lineage house"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Kashan : customary law of clan exogamy"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Fundamental marital taboo and governance rule."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Kashansha : incestuous breach of clan exogamy"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Social transgression incurring ostracism."
+        ]
+      ],
+      "tangkhul_content": "Shang\nKashan\nKashansha",
+      "english_translation": "Tangkhul social structure is organized into patrilineal clans (Shang) that trace their descent from common ancestors. The bedrock principle of social ethics is Kashan—strict clan exogamy. Intermarriage within the same Shang is considered an intolerable moral taboo (Kashansha) that historically incurred banishment from the village territory. All marriages must link distinct Shangs, creating enduring reciprocal obligations and alliances across the community.",
+      "notes": "Primary text of section: 1. The Clan (Shang) and Exogamous Marriage (Kashan)"
+    },
+    {
+      "page_number": 3,
+      "page_type": "section",
+      "header": "SEC: 2. The Village Court (Hangva) ",
+      "title": "2. The Village Court (Hangva) & Judicial Administration",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "2. THE VILLAGE COURT (HANGVA) & JUDICIAL ADMINISTRATION"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "Civic, property, and criminal disputes are adjudicated by the Hangva"
+        ],
+        [
+          "/F1",
+          9,
+          "(Village Council and Court of Elders), presided over by the hereditary"
+        ],
+        [
+          "/F1",
+          9,
+          "Awungshi (chief). Each major clan is represented by a senior elder"
+        ],
+        [
+          "/F1",
+          9,
+          "(Hangva-khana). The court prioritizes reconciliation (Tui-ngalung) and"
+        ],
+        [
+          "/F1",
+          9,
+          "restitution rather than retributive punishment. Fines historically took"
+        ],
+        [
+          "/F1",
+          9,
+          "the form of cattle, swine, woven blankets (Haora), or rice beer (Khor)."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Hangva : village council of clan elders / traditional court"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Judicial bench of the village."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tui-ngalung : peaceful reconciliation, amicable arbitration"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Consensus-based restorative justice."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Khor : traditional rice brew used in customary treaty sealing"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Sacred drink sealing reconciled pacts."
+        ]
+      ],
+      "tangkhul_content": "Hangva\nTui-ngalung\nKhor",
+      "english_translation": "Civic, property, and criminal disputes are adjudicated by the Hangva (Village Council and Court of Elders), presided over by the hereditary Awungshi (chief). Each major clan is represented by a senior elder (Hangva-khana). The court prioritizes reconciliation (Tui-ngalung) and restitution rather than retributive punishment. Fines historically took the form of cattle, swine, woven blankets (Haora), or rice beer (Khor).",
+      "notes": "Primary text of section: 2. The Village Court (Hangva) & Judicial Administration"
+    },
+    {
+      "page_number": 4,
+      "page_type": "section",
+      "header": "SEC: 3. The Sacred Oath Formula: Tu",
+      "title": "3. The Sacred Oath Formula: Tuishot",
+      "lines": [
+        [
+          "/F2",
+          12,
+          "3. THE SACRED OATH FORMULA: TUISHOT"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "When evidence in boundary or theft disputes is ambiguous and witnesses"
+        ],
+        [
+          "/F1",
+          9,
+          "are divided, the dispute is resolved by Tuishot (the solemn oath before"
+        ],
+        [
+          "/F1",
+          9,
+          "earth and heaven). The disputing parties bite a tiger tooth (Haram-ha)"
+        ],
+        [
+          "/F1",
+          9,
+          "or plunge stones into sacred water, invoking divine retribution upon"
+        ],
+        [
+          "/F1",
+          9,
+          "whoever utters falsehood. The fear of ancestral and cosmic retribution"
+        ],
+        [
+          "/F1",
+          9,
+          "ensured near-absolute truthfulness in customary legal proceedings."
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Tangkhul Linguistic Data & Analysis:"
+        ],
+        [
+          "/F2",
+          9,
+          "  * Tuishot : solemn traditional oath-taking ordeal"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Supreme evidentiary oath before spirits and earth."
+        ],
+        [
+          "/F2",
+          9,
+          "  * Haram-ha : tiger tooth used in sacred oath trials"
+        ],
+        [
+          "/F1",
+          8,
+          "    Analysis: Symbol of wild retribution against perjury."
+        ]
+      ],
+      "tangkhul_content": "Tuishot\nHaram-ha",
+      "english_translation": "When evidence in boundary or theft disputes is ambiguous and witnesses are divided, the dispute is resolved by Tuishot (the solemn oath before earth and heaven). The disputing parties bite a tiger tooth (Haram-ha) or plunge stones into sacred water, invoking divine retribution upon whoever utters falsehood. The fear of ancestral and cosmic retribution ensured near-absolute truthfulness in customary legal proceedings.",
+      "notes": "Primary text of section: 3. The Sacred Oath Formula: Tuishot"
+    },
+    {
+      "page_number": 5,
+      "page_type": "references",
+      "header": "REFERENCES",
+      "title": "References & Bibliography",
+      "lines": [
+        [
+          "/F2",
+          13,
+          "REFERENCES & BIBLIOGRAPHY"
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Luikham, T. 1961. Wung Tangkhul Naga Okthot Mayonza. Imphal: Tangkhul"
+        ],
+        [
+          "/F1",
+          9,
+          "Literature Society."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Shimray, A. S. W. 2001. History of the Tangkhul Nagas. New Delhi:"
+        ],
+        [
+          "/F1",
+          9,
+          "Akansha Publishing House."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          9,
+          "• Wung Cultural Research Forum. 2004. Tangkhul Hao Ngashan: Customary"
+        ],
+        [
+          "/F1",
+          9,
+          "Law and Jurisprudence. Imphal."
+        ],
+        [
+          "/F1",
+          6,
+          " "
+        ],
+        [
+          "/F1",
+          8,
+          " "
+        ],
+        [
+          "/F2",
+          10,
+          "Digital Archiving Notice:"
+        ],
+        [
+          "/F1",
+          9,
+          "Digitized and integrated into the Tangkhul Language Library Open Research Corpus."
+        ]
+      ],
+      "tangkhul_content": "References for scholarly verification.",
+      "english_translation": "Bibliographic citations.",
+      "notes": "Closing references page."
+    }
+  ],
+  "references": [
+    "Luikham, T. 1961. Wung Tangkhul Naga Okthot Mayonza. Imphal: Tangkhul Literature Society.",
+    "Shimray, A. S. W. 2001. History of the Tangkhul Nagas. New Delhi: Akansha Publishing House.",
+    "Wung Cultural Research Forum. 2004. Tangkhul Hao Ngashan: Customary Law and Jurisprudence. Imphal."
+  ],
+  "total_pages": 5,
+  "total_words": 252
+}
