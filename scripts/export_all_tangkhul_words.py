@@ -348,6 +348,25 @@ class TangkhulLexiconExtractor:
             for item in l2_idioms:
                 self.extract_from_text(item.get("tangkhul"), "libriary2_idioms", meaning=item.get("english", ""))
 
+        print("Processing Research & Cultural Articles...")
+        articles_path = ROOT / "data" / "exports" / "articles.json"
+        if articles_path.exists():
+            with open(articles_path, "r", encoding="utf-8") as f:
+                articles = json.load(f)
+            for art in articles:
+                aid = art.get("id", "ART")
+                for s in art.get("sections", []):
+                    for d in s.get("tangkhul_data", []):
+                        tk = d.get("tangkhul", "")
+                        tk_pure = re.sub(r'\([^)]*\)', '', tk)
+                        for item in re.split(r'[/,;\s]+', tk_pure):
+                            if item.strip():
+                                self.extract_from_text(item, f"article_data:{aid}", meaning=d.get("gloss", ""))
+                for p in art.get("pages", []):
+                    tk_cont = p.get("tangkhul_content", "")
+                    if tk_cont:
+                        self.extract_from_text(tk_cont, f"article_page:{aid}")
+
         print("Processing Comprehensive & Descriptive Grammars...")
         gram_path = ROOT / "data" / "exports" / "tangkhul_comprehensive_grammar.json"
         if gram_path.exists():

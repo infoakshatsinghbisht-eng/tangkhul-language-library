@@ -113,3 +113,4 @@ def test_library_integration_and_search() -> None:
     results_tawang = search_book_content("Tawang")
     assert len(results_tawang) >= 1
     assert any(r["book_id"] == "BK-BIOG-001" for r in results_tawang)
+

@@ -1672,3 +1672,4 @@ def get_all_novels_and_biographies() -> list[dict[str, Any]]:
         get_bk_biog_004_suisa(),
         get_bk_biog_005_luingam_luikham(),
     ]
+
